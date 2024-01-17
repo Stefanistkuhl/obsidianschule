@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privat/Soulskuhroring challanges notizen.md",
+                "file": "2.Klasse/nawi/🪄Naturtigerschaften.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Privat/Soulskuhroring challanges notizen.md"
+                "file": "2.Klasse/nawi/🪄Naturtigerschaften.md"
               }
             }
           },
@@ -235,13 +235,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cd123984ebb59f96",
+  "active": "d9c00ee8ddc20fee",
   "lastOpenFiles": [
+    "Privat/Soulskuhroring challanges notizen.md",
     "2.Klasse/nawi/🪄Naturtigerschaften.md",
     "2.Klasse/Deutsch/🏘️🫥Detiger.md",
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
     "Privat/🛜ccna.md",
-    "Privat/Soulskuhroring challanges notizen.md",
     "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/🤠antigrrrrrmatik.md",
     "Zeichnungen/DR16-01-2024-50.excalidraw.md",
     "Zeichnungen/DR16-01-2024-37.excalidraw.md",
