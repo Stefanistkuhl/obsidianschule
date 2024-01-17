@@ -1,0 +1,17 @@
+{
+  "enabledCssSnippets": [
+    "notation-colour-blocks",
+    "inline-block-embeds",
+    "clutter-free-headings",
+    "clutter-free-formatting",
+    "checkbox",
+    "styles"
+  ],
+  "accentColor": "#ffc7c7",
+  "interfaceFontFamily": "Cascadia Mono,Comic Sans MS",
+  "textFontFamily": "Cascadia Mono,Comic Sans MS",
+  "monospaceFontFamily": "Comic Sans MS",
+  "cssTheme": "",
+  "theme": "obsidian",
+  "baseFontSizeAction": false
+}

@@ -1,0 +1,121 @@
+{
+  "collapse-filter": false,
+  "search": "-path:Zeichnungen  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#d  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#syt ",
+      "color": {
+        "a": 1,
+        "rgb": 15769600
+      }
+    },
+    {
+      "query": "tag:#nwt  ",
+      "color": {
+        "a": 1,
+        "rgb": 8650992
+      }
+    },
+    {
+      "query": "tag:#sew  ",
+      "color": {
+        "a": 1,
+        "rgb": 1120017
+      }
+    },
+    {
+      "query": "tag:#excalidraw  ",
+      "color": {
+        "a": 1,
+        "rgb": 16768256
+      }
+    },
+    {
+      "query": "tag:#ipt",
+      "color": {
+        "a": 1,
+        "rgb": 2031360
+      }
+    },
+    {
+      "query": "tag:#itsi  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "tag:#ggp  ",
+      "color": {
+        "a": 1,
+        "rgb": 2584576
+      }
+    },
+    {
+      "query": "tag:#medt  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "tag:#m  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#nawi  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#2te_Klasse  ",
+      "color": {
+        "a": 1,
+        "rgb": 16515843
+      }
+    },
+    {
+      "query": "tag:#homelab  ",
+      "color": {
+        "a": 1,
+        "rgb": 16359167
+      }
+    },
+    {
+      "query": "tag:#Privat",
+      "color": {
+        "a": 1,
+        "rgb": 5810430
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.00155925155925,
+  "lineSizeMultiplier": 2.22401247401247,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 228,
+  "scale": 0.8760656572038954,
+  "close": false
+}

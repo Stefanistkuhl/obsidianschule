@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "58963b579395e341",
+    "type": "split",
+    "children": [
+      {
+        "id": "72eb10836cac3460",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Netzwerktiger/Netzwerktiger.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "afc2b895f79aed12",
+    "type": "split",
+    "children": [
+      {
+        "id": "efab179a385b7d4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d2a89ea7b2d59bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1e0663fc88fc05e8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "304765cf2ce8f9de",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "43b2197681096587",
+    "type": "split",
+    "children": [
+      {
+        "id": "24b1bd059201997a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbe12fa15b5674aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Netzwerktiger/Netzwerktiger.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "72eb10836cac3460",
+  "lastOpenFiles": [
+    "Netzwerktiger/Netzwerktiger.md"
+  ]
+}

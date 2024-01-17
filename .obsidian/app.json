@@ -1,0 +1,18 @@
+{
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "legacyEditor": false,
+  "livePreview": true,
+  "strictLineBreaks": false,
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "bilder",
+  "trashOption": "none",
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "promptDelete": false
+}

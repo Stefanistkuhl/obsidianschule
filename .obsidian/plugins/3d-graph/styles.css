@@ -1,0 +1,84 @@
+.graph-3d-view .tree-item.is-collapsed > .tree-item-children {
+  display: none;
+  visibility: hidden;
+}
+
+.graph-3d-view {
+  padding: 0 !important;
+  position: relative;
+  overflow: hidden !important;
+}
+
+.graph-3d-view .graph-controls.is-collapsed > .graph-control-section {
+  display: none;
+  visibility: hidden;
+}
+
+.graph-control-section .tree-item-inner {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.graph-3d-view .graph-control-section.is-collapsed .tree-item-inner::before {
+  content: "▶";
+  margin-right: 0.5em;
+}
+
+.graph-3d-view .graph-control-section:not(.is-collapsed) .tree-item-inner::before {
+  content: "▼";
+  margin-right: 0.5em;
+}
+
+.graph-3d-view .graph-controls:hover > .control-buttons {
+  opacity: 0.5;
+}
+
+.graph-3d-view .graph-controls > .control-buttons:hover {
+  opacity: 1;
+}
+
+.graph-3d-view .graph-controls > .control-buttons {
+  float: right;
+  margin-right: 0;
+  opacity: 0;
+}
+
+.graph-3d-view .hidden {
+  display: none;
+  visibility: hidden;
+}
+
+.graph-3d-view .control-buttons {
+  display: block;
+}
+
+.graph-3d-view .control-buttons > * {
+  display: inline-block;
+  margin: 0;
+}
+
+.graph-3d-view .graph-settings-view > .clickable-icon {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+}
+
+.graph-3d-view .node-label {
+  color: var(--text-normal);
+}
+
+.graph-3d-view .scene-nav-info {
+  display: block;
+  visibility: visible;
+}
+
+.mod-search-input {
+  width: 100%;
+  padding: 0.5em;
+  border: 1px solid var(--border-color);
+  border-radius: 0.25em;
+  background-color: var(--background-color);
+  color: var(--text-normal);
+}

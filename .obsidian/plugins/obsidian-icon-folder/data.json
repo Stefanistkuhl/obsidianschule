@@ -1,0 +1,36 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FarFaceAngry",
+      "TiDevicesPc",
+      "FarImages",
+      "TiSchoolOff",
+      "TiSchool"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
+  },
+  "2.Klasse": "TiSchool",
+  "Privat": "TiSchoolOff",
+  "bilder": "FarImages",
+  "Zeichnungen": "FarImages",
+  "Privat/Homelab": "TiDevicesPc",
+  "Privat/Homelab/Docs": "FarFaceAngry"
+}
