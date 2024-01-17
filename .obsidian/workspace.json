@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d9c00ee8ddc20fee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Klasse/nawi/🪄Naturtigerschaften.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -143,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
+                "file": "2.Klasse/nawi/🪄Naturtigerschaften.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +200,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md"
+                "file": "2.Klasse/nawi/🪄Naturtigerschaften.md"
               }
             }
           },
@@ -205,7 +217,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,12 +235,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "28c38afb6ea1e5a4",
+  "active": "d9c00ee8ddc20fee",
   "lastOpenFiles": [
+    "2.Klasse/Deutsch/🏘️🫥Detiger.md",
+    "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
     "Privat/🛜ccna.md",
     "Privat/Soulskuhroring challanges notizen.md",
-    "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
-    "2.Klasse/Deutsch/🏘️🫥Detiger.md",
     "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/🤠antigrrrrrmatik.md",
     "Zeichnungen/DR16-01-2024-50.excalidraw.md",
     "Zeichnungen/DR16-01-2024-37.excalidraw.md",
