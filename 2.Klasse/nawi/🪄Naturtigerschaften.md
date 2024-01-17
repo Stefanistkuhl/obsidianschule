@@ -56,6 +56,7 @@ tags:
 	- anz Protonen und Neutronen zusammen
 - Hauptgruppe
 	- Anzahl der außen e- → e- im äußersten Energieniveau 
+	- spalten von links nach rechts
 - Metalle/Nichtmetalle
 	- ![[DR25-11-2023-53.excalidraw]]
 	- Metalle
