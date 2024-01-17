@@ -2315,6 +2315,7 @@ schnell
 schuld
 social
 schulsys
+spalten
 und
 um
 ungefähr
