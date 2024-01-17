@@ -78,9 +78,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d1a8753e1e95e06f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Zeichnungen/DR25-11-2023-54.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -155,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/nawi/🪄Naturtigerschaften.md",
+                "file": "Zeichnungen/DR25-11-2023-54.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +210,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/nawi/🪄Naturtigerschaften.md"
+                "file": "Zeichnungen/DR25-11-2023-54.excalidraw.md"
               }
             }
           },
@@ -235,10 +245,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d9c00ee8ddc20fee",
+  "active": "d1a8753e1e95e06f",
   "lastOpenFiles": [
-    "Privat/Soulskuhroring challanges notizen.md",
     "2.Klasse/nawi/🪄Naturtigerschaften.md",
+    "Privat/Soulskuhroring challanges notizen.md",
     "2.Klasse/Deutsch/🏘️🫥Detiger.md",
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
     "Privat/🛜ccna.md",
