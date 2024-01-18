@@ -1,0 +1,275 @@
+{
+  "main": {
+    "id": "58963b579395e341",
+    "type": "split",
+    "children": [
+      {
+        "id": "eda69568826e8afa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df54acffa0084f44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Privat/🛜ccna.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd123984ebb59f96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Privat/Soulskuhroring challanges notizen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28c38afb6ea1e5a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efd74da7cb374da6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/🤠antigrrrrrmatik.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af097830d1551d33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Klasse/Deutsch/🏘️🫥Detiger.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "afc2b895f79aed12",
+    "type": "split",
+    "children": [
+      {
+        "id": "efab179a385b7d4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d2a89ea7b2d59bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1e0663fc88fc05e8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "304765cf2ce8f9de",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "d27a175bb64ce2c4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "43b2197681096587",
+    "type": "split",
+    "children": [
+      {
+        "id": "24b1bd059201997a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbe12fa15b5674aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Privat/Soulskuhroring challanges notizen.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e74fbe8fd4339280",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "acd70eac4ece4ddc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff61ac6edcaf5b51",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {}
+            }
+          },
+          {
+            "id": "3f67d6ee17675081",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Privat/Soulskuhroring challanges notizen.md"
+              }
+            }
+          },
+          {
+            "id": "b5ac9769a9c1e533",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": true,
+      "obsidian42-brat:BRAT": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "3d-graph-new:Global 3D Graph": false,
+      "3d-graph:3D Graph": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "cd123984ebb59f96",
+  "lastOpenFiles": [
+    "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
+    "2.Klasse/Deutsch/🏘️🫥Detiger.md",
+    "2.Klasse/nawi/🪄Naturtigerschaften.md",
+    "Zeichnungen/DR25-11-2023-54.excalidraw.md",
+    "Privat/Soulskuhroring challanges notizen.md",
+    "Privat/🛜ccna.md",
+    "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/🤠antigrrrrrmatik.md",
+    "Zeichnungen/DR16-01-2024-50.excalidraw.md",
+    "Zeichnungen/DR16-01-2024-37.excalidraw.md",
+    "Zeichnungen/DR16-01-2024-40.excalidraw.md",
+    "2.Klasse/Mathe/😖Mathiger.md",
+    "Zeichnungen/DR15-01-2024-35.excalidraw.md",
+    "Privat/Games die ich Spielen muss.md",
+    "Stefan Fürst 2BHIT MHÜ 6.md",
+    "Zeichnungen/DR06-12-2023-38.excalidraw.md",
+    "Zeichnungen/DR26-11-2023-29.excalidraw.md",
+    "Privat/soulskuhroring challegerun liste.md",
+    "Zeichnungen/DR04-12-2023-27.excalidraw.md",
+    "Zeichnungen/DR04-12-2023-27.excalidraw.png",
+    "Zeichnungen/DR11-01-2024-29.excalidraw.md",
+    "Zeichnungen/DR11-01-2024-51.excalidraw.md",
+    "Zeichnungen/DR11-01-2024-52.excalidraw.md",
+    "Excalidraw/Template.excalidraw.md",
+    "Template.excalidraw.md",
+    "Zeichnungen/DR11-01-2024-12.excalidraw.md",
+    "Zeichnungen/DR11-01-2024-44.excalidraw.md",
+    "2.Klasse/Medt/😍Medientiger.md",
+    "bilder/Pasted image 20231218122609.png",
+    "bilder/Pasted image 20231216162919.png",
+    "2.Klasse/Netzwerktiger/Aufgaben/switch configurieren/2.5.5_1 Packet Tracer - Configure Initial Switch Settings.pdf",
+    "Excalidraw/Scripts/Downloaded/Slideshow.svg",
+    "Zeichnungen/DR06-12-2023-38.excalidraw.png",
+    "Zeichnungen/DR06-12-2023-38.excalidraw.svg",
+    "2.Klasse/Deutsch/FUERST_2BHIT_STELLUNGNAHME.pdf",
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
+    "Zeichnungen/templatr",
+    "Untitled",
+    "2.Klasse/Itsi/aufgaben/asymetrische verschlüsselung/desktop.ini",
+    "2.Klasse/Itsi/aufgaben/asymetrische verschlüsselung/Arbeitsblatt_zur_Verschlüsselung.docx",
+    "2.Klasse/Itsi/aufgaben/asymetrische verschlüsselung/Asymmetrische_Verschluesselung.pdf",
+    "2.Klasse/Itsi/aufgaben/asymetrische verschlüsselung/privaten_Schlüssel_finden_.xlsx",
+    "2.Klasse/Itsi/aufgaben/asymetrische verschlüsselung",
+    "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.svg",
+    "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
+    "2.Klasse/nawi",
+    "Zeichnungen/Untitled.canvas"
+  ]
+}
