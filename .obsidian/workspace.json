@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privat/Notizen.md",
+                "file": "Privat/Soulskuhroring challanges notizen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Privat/Notizen.md"
+                "file": "Privat/Soulskuhroring challanges notizen.md"
               }
             }
           },
@@ -235,13 +235,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2eb9e8143110eb4e",
+  "active": "cd123984ebb59f96",
   "lastOpenFiles": [
+    "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
+    "Privat/Notizen.md",
     "().md",
     "2.Klasse/Deutsch/🏘️🫥Detiger.md",
-    "Privat/Notizen.md",
     "Privat/Soulskuhroring challanges notizen.md",
-    "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
     "2.Klasse/nawi/🪄Naturtigerschaften.md",
     "Zeichnungen/DR25-11-2023-54.excalidraw.md",
     "Privat/🛜ccna.md",
