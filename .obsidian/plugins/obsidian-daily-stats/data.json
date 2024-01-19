@@ -13,16 +13,13 @@
     "2024/0/13": 83,
     "2024/0/14": 10,
     "2024/0/17": 12,
-    "2024/0/18": 69
+    "2024/0/18": 69,
+    "2024/0/19": 7
   },
   "todaysWordCount": {
-    "Privat/Notizen.md": {
-      "initial": 2,
-      "current": 37
-    },
     "Privat/Soulskuhroring challanges notizen.md": {
-      "initial": 77,
-      "current": 111
+      "initial": 111,
+      "current": 118
     }
   }
 }
