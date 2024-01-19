@@ -512,6 +512,8 @@ gDPzuZ
 god
 game
 gestellt
+gifs
+generelle
 Zettel
 Zwingen
 Zeichen
@@ -2450,6 +2452,7 @@ uMaja
 upper
 uppercut
 unsere
+ups
 keine
 konnten
 kein
@@ -2565,6 +2568,7 @@ ksMWk
 kngiht
 kritischen
 kompetenz
+konzepte
 Jahreszahlen
 Jahresahlen
 Jura
@@ -2806,6 +2810,7 @@ fly
 fertig
 fängt
 findet
+follow
 mark
 mit
 mangelnder
@@ -6208,6 +6213,7 @@ aufwendig
 argumente
 allein
 atk
+attacke
 oft
 oder
 os
@@ -6756,6 +6762,7 @@ protocols
 permanent
 psyhce
 papier
+position
 reiches
 real
 running
@@ -7535,6 +7542,7 @@ jb
 jedes
 jZJgYdF
 jumpable
+jenachdem
 ähnlich
 ändern
 ähnliches
