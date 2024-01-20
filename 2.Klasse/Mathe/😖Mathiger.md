@@ -552,10 +552,9 @@ y=-25*x²+\frac{200}{3}+x-2
 
 j^-n
 n=1
-j^-1
-```
+j^-1=\frac{1}{j}=\frac{1}{j}*
 
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
+```
 6.27a)
 ```math
 ||{"id":754487827721}||
