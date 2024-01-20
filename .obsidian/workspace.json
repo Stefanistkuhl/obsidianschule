@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "22e06aa8373de4ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Klasse/Mathe/😖Mathiger.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -155,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privat/Soulskuhroring challanges notizen.md",
+                "file": "2.Klasse/Mathe/😖Mathiger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +212,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Privat/Soulskuhroring challanges notizen.md"
+                "file": "2.Klasse/Mathe/😖Mathiger.md"
               }
             }
           },
@@ -235,13 +247,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cd123984ebb59f96",
+  "active": "22e06aa8373de4ef",
   "lastOpenFiles": [
-    "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
     "Privat/Notizen.md",
+    "Privat/Soulskuhroring challanges notizen.md",
+    "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
     "().md",
     "2.Klasse/Deutsch/🏘️🫥Detiger.md",
-    "Privat/Soulskuhroring challanges notizen.md",
     "2.Klasse/nawi/🪄Naturtigerschaften.md",
     "Zeichnungen/DR25-11-2023-54.excalidraw.md",
     "Privat/🛜ccna.md",
