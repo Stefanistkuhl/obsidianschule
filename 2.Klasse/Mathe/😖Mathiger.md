@@ -550,8 +550,12 @@ y=-25*x²+\frac{200}{3}+x-2
 ```math
 ||{"id":479347491944}||
 
-
+j^-n
+n=1
+j^-1
 ```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 6.27a)
 ```math
 ||{"id":754487827721}||
