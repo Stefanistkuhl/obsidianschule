@@ -17,7 +17,7 @@
     "2024/0/19": 44,
     "2024/0/20": 117,
     "2024/0/21": 0,
-    "2024/0/22": 28
+    "2024/0/22": 30
   },
   "todaysWordCount": {
     "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/😡Grrrrrlektrotechnik.md": {
@@ -34,7 +34,11 @@
     },
     "2.Klasse/Deutsch/🏘️🫥Detiger.md": {
       "initial": 133,
-      "current": 134
+      "current": 133
+    },
+    "Privat/Notizen.md": {
+      "initial": 52,
+      "current": 55
     }
   }
 }

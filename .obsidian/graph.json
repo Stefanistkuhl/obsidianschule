@@ -99,6 +99,13 @@
       }
     },
     {
+      "query": "tag:#soulskuhroring  ",
+      "color": {
+        "a": 1,
+        "rgb": 16746496
+      }
+    },
+    {
       "query": "tag:#Privat",
       "color": {
         "a": 1,
@@ -116,6 +123,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 228,
-  "scale": 0.8760656572038954,
+  "scale": 0.8760656572038957,
   "close": false
 }

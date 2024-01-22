@@ -56,7 +56,7 @@
             }
           },
           {
-            "id": "af097830d1551d33",
+            "id": "e6a087950cf55f91",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -236,20 +236,23 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
+      "canvas:Create new canvas": true,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": true,
-      "obsidian42-brat:BRAT": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "3d-graph-new:Global 3D Graph": false,
-      "3d-graph:3D Graph": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "obsidian42-brat:BRAT": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "3d-graph-new:Global 3D Graph": true,
+      "3d-graph:3D Graph": true,
+      "obsidian-excalidraw-plugin:Create new drawing": true,
+      "templater-obsidian:Templater": true
     }
   },
-  "active": "af097830d1551d33",
+  "active": "e6a087950cf55f91",
   "lastOpenFiles": [
+    "Privat/Notizen.md",
     "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/🤠antigrrrrrmatik.md",
+    "2.Klasse/Deutsch/🏘️🫥Detiger.md",
+    "Privat/soulskuhroring challegerun liste.md",
     "2.Klasse/Mathe/😖Mathiger.md",
     "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/😡Grrrrrlektrotechnik.md",
     "Zeichnungen/DR22-01-2024-30.excalidraw.md",
@@ -259,8 +262,6 @@
     "Zeichnungen/grrrrrrrcalidraw.md",
     "Privat/Soulskuhroring challanges notizen.md",
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
-    "Privat/Notizen.md",
-    "2.Klasse/Deutsch/🏘️🫥Detiger.md",
     "2.Klasse/nawi/🪄Naturtigerschaften.md",
     "Zeichnungen/DR25-11-2023-54.excalidraw.md",
     "Privat/🛜ccna.md",
@@ -272,7 +273,6 @@
     "Stefan Fürst 2BHIT MHÜ 6.md",
     "Zeichnungen/DR06-12-2023-38.excalidraw.md",
     "Zeichnungen/DR26-11-2023-29.excalidraw.md",
-    "Privat/soulskuhroring challegerun liste.md",
     "Zeichnungen/DR04-12-2023-27.excalidraw.md",
     "Zeichnungen/DR04-12-2023-27.excalidraw.png",
     "Zeichnungen/DR11-01-2024-29.excalidraw.md",
