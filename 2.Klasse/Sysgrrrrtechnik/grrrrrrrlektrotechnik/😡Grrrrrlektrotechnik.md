@@ -182,6 +182,7 @@ LZK Fragen s194
 
 CMOS = Complementary metal-oxide-semiconductor
 
+
 ![[DR08-01-2024-59.excalidraw]]
 s202 20) lzk aufgaben
 
@@ -198,3 +199,9 @@ Stromsteuerkennlinie Ic(Ib)
 ![[DR15-01-2024-16.excalidraw]]
 Rückwirkungskenlinie Ube=f(Uce)
 ![[DR15-01-2024-37.excalidraw]]
+
+##### <mark style="background: #FFB8EBA6;">Vierquadranten Kennlinienfeld</mark>
+
+![[DR22-01-2024-08.excalidraw]]
+![[DR22-01-2024-30.excalidraw]]
+

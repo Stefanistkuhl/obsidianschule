@@ -311,6 +311,8 @@ Kaliumiodid
 KHxiPi
 Kompakt
 Kurier
+Kennlinien
+Kennlinienfeld
 ggp
 genauen
 gibt
@@ -833,6 +835,8 @@ Ergänzungen
 Einsatz
 Erörterung
 Einfach
+Errinerung
+Eingangskennlinie
 Das
 Dasselbe
 Diode
@@ -2828,6 +2832,8 @@ follow
 flug
 flamberge
 favor
+fCngr
+fTHyJEu
 mark
 mit
 mangelnder
@@ -3304,6 +3310,7 @@ nein
 nahe
 nihil
 nah
+nIoQ
 Christus
 Christianisierung
 Christentum
@@ -3442,6 +3449,7 @@ CVGQZ
 CyykZUwz
 CfS
 CNK
+CQ
 Urgeschichte
 Universitäten
 Ufern
@@ -3585,6 +3593,8 @@ UmXJkTxT
 UUPBMVd
 UEYh
 Union
+UvJVRLI
+Uc
 Mittelalter
 Merkmale
 Mönche
@@ -3974,6 +3984,7 @@ Re
 Ressourchenzugriff
 Relativ
 Richtung
+Rückwirkungskenlinie
 vor
 verbreiten
 von
@@ -4824,6 +4835,7 @@ American
 ANSI
 Abstürze
 Abstrahierung
+Ausgangskennlinie
 Griechisch
 Glauben
 Gewalt
@@ -5304,6 +5316,7 @@ communications
 corrupt
 communicates
 central
+charakteristische
 zu
 zum
 zur
@@ -5848,6 +5861,10 @@ Standards
 Standardization
 Systemanfragen
 Social
+Stromgesteurte
+Stromquelle
+Stromsteuerkennlinie
+SC
 Handel
 Hygiene
 Halbleiter
@@ -6240,6 +6257,7 @@ allein
 atk
 attacke
 arschfick
+aFs
 oft
 oder
 os
@@ -6620,6 +6638,7 @@ Institute
 IEEE
 International
 ITU
+Ib
 pest
 pos
 purpose
@@ -6789,6 +6808,9 @@ permanent
 psyhce
 papier
 position
+paravirtualisierte
+privilegierten
+pnp
 reiches
 real
 running
@@ -7133,6 +7155,7 @@ hop
 hollow
 hosted
 holen
+hCvwGj
 Bananen
 Buch
 Beschreiben
@@ -7488,6 +7511,7 @@ VltTfiEF
 VlgiQ
 VirtualBox
 Vmware
+Vierquadranten
 je
 jeder
 jeweils
@@ -8061,6 +8085,7 @@ yDiD
 yCbm
 yAgr
 ysaXNM
+yYe
 XaShZjh
 XXtqRDri
 Xc
@@ -8134,6 +8159,7 @@ XuI
 XMV
 XdCFUxIH
 XeX
+XCyah
 qs
 qJ
 qAne

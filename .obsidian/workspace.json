@@ -90,9 +90,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5fa2ba5ae32a9c2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/😡Grrrrrlektrotechnik.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f06cdc93ea2ff630",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Zeichnungen/DR22-01-2024-30.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -167,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Mathe/😖Mathiger.md",
+                "file": "Zeichnungen/DR22-01-2024-30.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +234,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Mathe/😖Mathiger.md"
+                "file": "Zeichnungen/DR22-01-2024-30.excalidraw.md"
               }
             }
           },
@@ -243,22 +265,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "3d-graph-new:Global 3D Graph": false,
       "3d-graph:3D Graph": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "22e06aa8373de4ef",
+  "active": "f06cdc93ea2ff630",
   "lastOpenFiles": [
+    "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/😡Grrrrrlektrotechnik.md",
+    "Zeichnungen/DR22-01-2024-30.excalidraw.md",
+    "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/🤠antigrrrrrmatik.md",
+    "Zeichnungen/DR22-01-2024-44.excalidraw.md",
+    "Zeichnungen/DR22-01-2024-08.excalidraw.md",
+    "2.Klasse/Mathe/😖Mathiger.md",
+    "Zeichnungen/grrrrrrrcalidraw.md",
     "Privat/Soulskuhroring challanges notizen.md",
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
-    "2.Klasse/Mathe/😖Mathiger.md",
     "Privat/Notizen.md",
     "().md",
     "2.Klasse/Deutsch/🏘️🫥Detiger.md",
     "2.Klasse/nawi/🪄Naturtigerschaften.md",
     "Zeichnungen/DR25-11-2023-54.excalidraw.md",
     "Privat/🛜ccna.md",
-    "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/🤠antigrrrrrmatik.md",
     "Zeichnungen/DR16-01-2024-50.excalidraw.md",
     "Zeichnungen/DR16-01-2024-37.excalidraw.md",
     "Zeichnungen/DR16-01-2024-40.excalidraw.md",
@@ -271,11 +298,6 @@
     "Zeichnungen/DR04-12-2023-27.excalidraw.md",
     "Zeichnungen/DR04-12-2023-27.excalidraw.png",
     "Zeichnungen/DR11-01-2024-29.excalidraw.md",
-    "Zeichnungen/DR11-01-2024-51.excalidraw.md",
-    "Zeichnungen/DR11-01-2024-52.excalidraw.md",
-    "Excalidraw/Template.excalidraw.md",
-    "Template.excalidraw.md",
-    "Zeichnungen/DR11-01-2024-12.excalidraw.md",
     "bilder/Pasted image 20231218122609.png",
     "bilder/Pasted image 20231216162919.png",
     "2.Klasse/Netzwerktiger/Aufgaben/switch configurieren/2.5.5_1 Packet Tracer - Configure Initial Switch Settings.pdf",

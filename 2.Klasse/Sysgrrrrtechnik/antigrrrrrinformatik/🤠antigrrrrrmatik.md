@@ -372,6 +372,8 @@ Das Jobobject (i.e "Gruppe von Prozessen") kann zb Attribute steuern und den bet
 					- Problem
 						- Relativ aufwendig
 						- Guest OS läuft im Ring 1 = Paravirtualisierung
+		- ![[DR22-01-2024-44.excalidraw]]
+		- Anmerkung: zur Errinerung paravirtualisierte OS haben keinen privilegierten Zugriff auf die HW
 - <mark style="background: #FFB8EBA6;">Hypervisor</mark>
 	- <mark style="background: #FFB8EBA6;">Typ 1</mark>
 		- bare metal

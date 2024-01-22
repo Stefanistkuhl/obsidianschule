@@ -5,6 +5,12 @@
   },
   "data": [
     {
+      "char": "β",
+      "name": "greek small letter beta",
+      "useCount": 1,
+      "lastUsed": 1705321678238
+    },
+    {
       "char": "µ",
       "name": "micro sign",
       "useCount": 1,
@@ -25,8 +31,8 @@
     {
       "char": "Ω",
       "name": "ohm sign",
-      "useCount": 2,
-      "lastUsed": 1701693280584
+      "useCount": 3,
+      "lastUsed": 1705921330682
     },
     {
       "char": "⏦",
@@ -25423,12 +25429,6 @@
     {
       "char": "ͳ",
       "name": "greek small letter archaic sampi"
-    },
-    {
-      "char": "β",
-      "name": "greek small letter beta",
-      "useCount": 1,
-      "lastUsed": 1705321678238
     },
     {
       "char": "χ",
