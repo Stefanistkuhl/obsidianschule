@@ -163,6 +163,7 @@ tcpip
 testsetsetsetsetsetsetsetset
 tanken
 tryn
+tfAFsXpZ
 Klasse
 Kreuzritter
 Klagenfurt
@@ -313,6 +314,7 @@ Kompakt
 Kurier
 Kennlinien
 Kennlinienfeld
+KLF
 ggp
 genauen
 gibt
@@ -3595,6 +3597,7 @@ UEYh
 Union
 UvJVRLI
 Uc
+Url
 Mittelalter
 Merkmale
 Mönche
@@ -5865,6 +5868,7 @@ Stromgesteurte
 Stromquelle
 Stromsteuerkennlinie
 SC
+SkEUxXx
 Handel
 Hygiene
 Halbleiter
