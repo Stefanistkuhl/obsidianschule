@@ -8,9 +8,11 @@ tags:
 [[🥲2te Klasse]]
 [[😶‍🌫️Ehngtiger]]
 
-### <mark style="background: #FFB8EBA6;">Erörterung</mark>
+# <mark style="background: #FFB8EBA6;">Mitschrift</mark>
 
 
+
+# <mark style="background: #FFB8EBA6;">Texte/Hausaufgaben</mark>
 ### erörterung Smartphone vieh
 
 argumente:
