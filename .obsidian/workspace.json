@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichnungen/DR23-01-2024-05.excalidraw.md",
+                "file": "2.Klasse/Deutsch/🏘️🫥Detiger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Zeichnungen/DR23-01-2024-05.excalidraw.md"
+                "file": "2.Klasse/Deutsch/🏘️🫥Detiger.md"
               }
             }
           },
@@ -239,8 +239,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,11 +256,11 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "12c93f841451f7ac",
+  "active": "e6a087950cf55f91",
   "lastOpenFiles": [
     "Privat/Notizen.md",
-    "2.Klasse/Deutsch/🏘️🫥Detiger.md",
     "Zeichnungen/DR23-01-2024-05.excalidraw.md",
+    "2.Klasse/Deutsch/🏘️🫥Detiger.md",
     "2.Klasse/Mathe/😖Mathiger.md",
     "Privat/😟Games die ich Spielen muss.md",
     "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/🤠antigrrrrrmatik.md",
