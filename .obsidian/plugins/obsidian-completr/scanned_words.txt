@@ -2843,6 +2843,7 @@ favor
 fCngr
 fTHyJEu
 fist
+fatasy
 mark
 mit
 mangelnder
@@ -3173,6 +3174,7 @@ FJr
 FkI
 Forwards
 Flug
+Final
 nach
 neue
 negativen
@@ -4319,6 +4321,7 @@ Wasserstoffperoxid
 WnAuJXP
 Workstation
 Wand
+Witcher
 Latein
 Leute
 Läuse
@@ -6277,6 +6280,7 @@ atk
 attacke
 arschfick
 aFs
+abrechen
 oft
 oder
 os
