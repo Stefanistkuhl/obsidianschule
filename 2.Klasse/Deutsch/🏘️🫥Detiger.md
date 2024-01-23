@@ -12,7 +12,7 @@ tags:
 
 ## <mark style="background: #FFB8EBA6;">Buch Drohnenland</mark>
 
-
+![[DR23-01-2024-05.excalidraw]]
 
 # <mark style="background: #FFB8EBA6;">Texte/Hausaufgaben</mark>
 ### erörterung Smartphone vieh
