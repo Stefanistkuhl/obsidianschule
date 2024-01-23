@@ -8,6 +8,9 @@ tags:
 [[🥲2te Klasse]]
 [[😶‍🌫️Ehngtiger]]
 
+### <mark style="background: #FFB8EBA6;">Erörterung</mark>
+
+
 ### erörterung Smartphone vieh
 
 argumente:
