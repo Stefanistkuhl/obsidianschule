@@ -12,7 +12,7 @@ tags:
 
 ## <mark style="background: #FFB8EBA6;">Buch Drohnenland</mark>
 
-Aktulle leseaufgabe: s110 → 132
+Aktuelle lese Aufgabe: s110 → 132
 
 ![[DR23-01-2024-05.excalidraw]]
 

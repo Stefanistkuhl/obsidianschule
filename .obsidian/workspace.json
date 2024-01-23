@@ -239,7 +239,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,7 +257,7 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "e6a087950cf55f91",
+  "active": "b5ac9769a9c1e533",
   "lastOpenFiles": [
     "Privat/Notizen.md",
     "Zeichnungen/DR23-01-2024-05.excalidraw.md",
