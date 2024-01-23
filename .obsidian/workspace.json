@@ -68,6 +68,16 @@
             }
           },
           {
+            "id": "12c93f841451f7ac",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Zeichnungen/DR23-01-2024-05.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "2eb9e8143110eb4e",
             "type": "leaf",
             "state": {
@@ -92,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -167,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Deutsch/🏘️🫥Detiger.md",
+                "file": "Zeichnungen/DR23-01-2024-05.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +222,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Deutsch/🏘️🫥Detiger.md"
+                "file": "Zeichnungen/DR23-01-2024-05.excalidraw.md"
               }
             }
           },
@@ -247,12 +257,13 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "e6a087950cf55f91",
+  "active": "12c93f841451f7ac",
   "lastOpenFiles": [
+    "2.Klasse/Deutsch/🏘️🫥Detiger.md",
+    "Zeichnungen/DR23-01-2024-05.excalidraw.md",
     "2.Klasse/Mathe/😖Mathiger.md",
     "Privat/😟Games die ich Spielen muss.md",
     "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/🤠antigrrrrrmatik.md",
-    "2.Klasse/Deutsch/🏘️🫥Detiger.md",
     "Privat/Notizen.md",
     "Privat/soulskuhroring challegerun liste.md",
     "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/😡Grrrrrlektrotechnik.md",
@@ -274,7 +285,6 @@
     "Stefan Fürst 2BHIT MHÜ 6.md",
     "Zeichnungen/DR06-12-2023-38.excalidraw.md",
     "Zeichnungen/DR26-11-2023-29.excalidraw.md",
-    "Zeichnungen/DR04-12-2023-27.excalidraw.md",
     "Zeichnungen/DR04-12-2023-27.excalidraw.png",
     "bilder/Pasted image 20231218122609.png",
     "bilder/Pasted image 20231216162919.png",
