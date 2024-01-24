@@ -133,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Windoof",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,12 +158,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "43b2197681096587",
@@ -259,7 +259,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "efd74da7cb374da6",
+  "active": "1e0663fc88fc05e8",
   "lastOpenFiles": [
     "2.Klasse/Ipt/😐Bwl Tiger.md",
     "Privat/Notizen.md",
