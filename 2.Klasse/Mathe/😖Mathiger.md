@@ -544,8 +544,10 @@ y=-25*x²+\frac{200}{3}+x-2
 ```math
 ||{"id":213607278912}||
 
-
+\frac{(3-2j)³}{3+2j}=(3-2j)*(3-2j)²=(3-2j)*(9-)
 ```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 6.25)
 ```math
 ||{"id":479347491944}||
@@ -554,11 +556,11 @@ j^-n
 n=1
 j^-1=\frac{1}{j}=\frac{1}{j}*\frac{-j}{-j}=\frac{-j}{j*(-j)}→j*j=j²=-1= \frac{-j}{-(-1)}=\frac{-j}{1}|*1=-j
 n=2
-j^-2=\frac{1}{j²}=\frac{1}{j²}*\frac{-j}{-j}=\frac{-j}{j²*(-j)}=-j²*j=-1*j=\frac{-j}{}
+j^-2=\frac{1}{j²}=\frac{1}{-1}=-1
+n=3
+
 
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 6.27a)
 ```math
 ||{"id":754487827721}||
