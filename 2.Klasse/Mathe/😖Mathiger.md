@@ -545,8 +545,10 @@ y=-25*x²+\frac{200}{3}+x-2
 ||{"id":213607278912}||
 
 \frac{(3-2j)³}{3+2j}=(3-2j)*(3-2j)²=(3-2j)*(5-12j)=15-36j-10j-24=-9-46j=\frac{9-46j}{3+2j}
-=\frac{9-46j}{3+2j}* \frac{3-2j}{3-2j}=
+=\frac{9-46j}{3+2j}* \frac{3-2j}{3-2j}= \frac{-65-156j}{13}=\frac{5*(-)}{}
 ```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 6.25)
 ```math
 ||{"id":479347491944}||
