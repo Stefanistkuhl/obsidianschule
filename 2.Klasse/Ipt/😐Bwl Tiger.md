@@ -167,6 +167,7 @@ Attraktiv
 Realistisch
 Terminiert 
 
+> Der Realistisch Teil ist basically warum es realistisch ist und wie man es macht
 - Ziel nach Smart Defenieren
 	- Nutten ficken und koksen
 		- Spezifsch
