@@ -550,6 +550,7 @@ y=-25*x²+\frac{200}{3}+x-2
 
 ```
 6.25)
+checke das Beispiel nicht -1 ist erklärt -2 und -4 kann man ja ausrechen aber 3 und die anderen ungeraden verstehe ich nicht
 ```math
 ||{"id":479347491944}||
 
@@ -559,11 +560,9 @@ j^-1=\frac{1}{j}=\frac{1}{j}*\frac{-j}{-j}=\frac{-j}{j*(-j)}→j*j=j²=-1= \frac
 n=2
 j^-2=\frac{1}{j²}=\frac{1}{-1}=-1
 n=3
-j^-3=\frac{1}{j³}=\frac{1}{j^3}*\frac{-j³}{-j³}=-\frac{-j^3}{j^-9}=
+j^-3=\frac{1}{j³}=\frac{1}{j^3}*\frac{-j³}{-j³}=-\frac{-j^3}{j^-9}=-\frac{j}{j^-3}
 n=4
 j^-4=\frac{1}{j^4}=\frac{1}{(j^2)^2}=\frac{1}{(-1)²}=\frac{1}{1}=1
-n=5
-j^-5=\frac{1}{j^5}=-j 
 
 ```
 6.27a)
@@ -620,9 +619,5 @@ x²-2x+1=-3
 x=1+i*\sqrt{ 3 }
 x=1-i*\sqrt{ 3 }
 ```
-```math
-||{"id":1595856619569}||
 
-
-```
 

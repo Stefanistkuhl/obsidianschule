@@ -104,19 +104,19 @@
             }
           },
           {
-            "id": "a87ceb23bb2dbc82",
+            "id": "c5c25a3cac0e352f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Medt/🫠Medientiger.md",
+                "file": "2.Klasse/nawi/🪄Naturtigerschaften.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Mathe/😖Mathiger.md",
+                "file": "2.Klasse/nawi/🪄Naturtigerschaften.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +236,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Mathe/😖Mathiger.md"
+                "file": "2.Klasse/nawi/🪄Naturtigerschaften.md"
               }
             }
           },
@@ -279,13 +279,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "22e06aa8373de4ef",
+  "active": "c5c25a3cac0e352f",
   "lastOpenFiles": [
+    "2.Klasse/Ipt/😐Bwl Tiger.md",
     "2.Klasse/Medt/🫠Medientiger.md",
+    "Hü 7 Stefan Fürst 2BHIT.md",
+    "bilder/Pasted image 20240124180154.png",
+    "bilder/Pasted image 20240124180145.png",
+    "2.Klasse/Mathe/Hü 7 Stefan Fürst 2BHIT.pdf",
     "2.Klasse/Mathe/😖Mathiger.md",
     "Privat/🛜ccna.md",
     "Zeichnungen/DR06-12-2023-29.excalidraw.md",
-    "2.Klasse/Ipt/😐Bwl Tiger.md",
     "2.Klasse/Deutsch/🏘️🫥Detiger.md",
     "Privat/Notizen.md",
     "Zeichnungen/DR24-01-2024-43.excalidraw.md",
@@ -305,8 +309,6 @@
     "2.Klasse/nawi/🪄Naturtigerschaften.md",
     "Zeichnungen/DR25-11-2023-54.excalidraw.md",
     "Zeichnungen/DR16-01-2024-50.excalidraw.md",
-    "Zeichnungen/DR16-01-2024-37.excalidraw.md",
-    "Zeichnungen/DR16-01-2024-40.excalidraw.md",
     "Zeichnungen/DR04-12-2023-27.excalidraw.png",
     "bilder/Pasted image 20231218122609.png",
     "bilder/Pasted image 20231216162919.png",
@@ -324,9 +326,6 @@
     "2.Klasse/Itsi/aufgaben/asymetrische verschlüsselung/privaten_Schlüssel_finden_.xlsx",
     "2.Klasse/Itsi/aufgaben/asymetrische verschlüsselung",
     "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.svg",
-    "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
-    "2.Klasse/nawi",
     "Zeichnungen/Untitled.canvas"
   ]
 }

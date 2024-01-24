@@ -536,6 +536,7 @@ glaube
 größte
 gewehr
 ghost
+großes
 Zettel
 Zwingen
 Zeichen
@@ -1282,6 +1283,8 @@ Posts
 Problems
 Pazzi
 PthBafMa
+Projektmanagement
+Projekt
 bei
 background
 bis
@@ -1514,6 +1517,7 @@ beigebracht
 besprechen
 beiträgt
 bUYMbNxs
+basically
 ist
 in
 im
@@ -2085,6 +2089,8 @@ entfernung
 erzähler
 ermittlungen
 ermittelt
+erklärt
+erledigen
 Übergange
 Übergänge
 Übergang
@@ -2531,6 +2537,7 @@ uppercut
 unsere
 ups
 upgrad
+ungeraden
 keine
 konnten
 kein
@@ -2650,6 +2657,7 @@ konzepte
 kurz
 kommende
 karl
+kleinere
 Jahreszahlen
 Jahresahlen
 Jura
@@ -4245,6 +4253,7 @@ vorgeschlagen
 verbringen
 vertrauten
 verstehen
+verstehe
 West
 Welt
 Wachstum
@@ -4407,6 +4416,7 @@ Wahrscheinlich
 Westerwiese
 Westerüsen
 Will
+Wiederholbares
 Latein
 Leute
 Läuse
@@ -4946,6 +4956,8 @@ Ansatz
 Außerdem
 Aart
 Ava
+Arbeitspackete
+Arbeitswoche
 Griechisch
 Glauben
 Gewalt
@@ -5287,6 +5299,7 @@ wichtige
 welchem
 wgieshfB
 wwBb
+warum
 christlichen
 code
 charakterisiert
@@ -5435,6 +5448,7 @@ communicates
 central
 charakteristische
 charmless
+checke
 zu
 zum
 zur
@@ -6396,6 +6410,7 @@ alter
 abgeordneter
 assistentin
 anhand
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggghhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiijjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkklllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooopppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssstttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 oft
 oder
 os
@@ -7133,6 +7148,7 @@ rafirenzen
 rausfeinden
 rhdaon
 rekonstruieren
+realistisch
 hat
 hervorgerufen
 haben
@@ -7495,6 +7511,8 @@ Betriesystemvirtualisierung
 Blendensprung
 BIpovy
 Bitman
+Bürokratie
+Büroarbeit
 Voraussetzungen
 Valenziabrücken
 Vekehrswesen
@@ -7663,6 +7681,7 @@ Volkschule
 VxrjXf
 Vorgel
 Vorgesetzter
+Verwaltungsaufgaben
 je
 jeder
 jeweils
