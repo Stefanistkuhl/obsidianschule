@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privat/🛜ccna.md",
+                "file": "2.Klasse/Mathe/😖Mathiger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +236,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Privat/🛜ccna.md"
+                "file": "2.Klasse/Mathe/😖Mathiger.md"
               }
             }
           },
@@ -279,8 +279,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7d2a89ea7b2d59bd",
+  "active": "22e06aa8373de4ef",
   "lastOpenFiles": [
+    "Privat/🛜ccna.md",
     "Zeichnungen/DR06-12-2023-29.excalidraw.md",
     "2.Klasse/Medt/🫠Medientiger.md",
     "2.Klasse/Ipt/😐Bwl Tiger.md",
@@ -291,7 +292,6 @@
     "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/🤠antigrrrrrmatik.md",
     "README.md",
     "Zeichnungen/DR23-01-2024-05.excalidraw.md",
-    "Privat/🛜ccna.md",
     "Privat/😟Games die ich Spielen muss.md",
     "Privat/soulskuhroring challegerun liste.md",
     "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/😡Grrrrrlektrotechnik.md",
