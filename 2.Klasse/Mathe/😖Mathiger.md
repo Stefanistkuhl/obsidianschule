@@ -559,15 +559,13 @@ j^-1=\frac{1}{j}=\frac{1}{j}*\frac{-j}{-j}=\frac{-j}{j*(-j)}→j*j=j²=-1= \frac
 n=2
 j^-2=\frac{1}{j²}=\frac{1}{-1}=-1
 n=3
-j^-3=\frac{1}{j³}=\frac{1}{j^3}*\frac{-j}{}
+j^-3=\frac{1}{j³}=\frac{1}{j^3}*\frac{-j³}{-j³}=-\frac{-j^3}{j^-9}=
 n=4
-j^-4=\frac{1}{j^4}=1
+j^-4=\frac{1}{j^4}=\frac{1}{(j^2)^2}=\frac{1}{(-1)²}=\frac{1}{1}=1
 n=5
-j^-5=\frac{1}{j^5}=-j
+j^-5=\frac{1}{j^5}=-j 
 
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 6.27a)
 ```math
 ||{"id":721238155062}||
