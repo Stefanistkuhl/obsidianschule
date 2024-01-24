@@ -390,4 +390,4 @@ Das Jobobject (i.e "Gruppe von Prozessen") kann zb Attribute steuern und den bet
 		- Nachteil 
 			- langsam, kein direkter zugriff auf die HW
 		- Bsp VirtualBox, Vmware Workstation,...
-		- 
+

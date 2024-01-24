@@ -3,6 +3,6 @@ tags:
   - 2te_Klasse
   - medt
 ---
-[[😍Medientiger]]
+[[🫠Medientiger]]
 [[🥲2te Klasse]]
 
