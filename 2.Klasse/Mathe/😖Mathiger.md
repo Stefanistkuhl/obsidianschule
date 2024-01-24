@@ -545,12 +545,10 @@ y=-25*x²+\frac{200}{3}+x-2
 ||{"id":213607278912}||
 
 \frac{(3-2j)³}{3+2j}=(3-2j)*(3-2j)²=(3-2j)*(5-12j)=15-36j-10j-24=-9-46j=
-\frac{(3-2j)^3}{3+2j}=\frac{(3-2j)^3}{\sqrt{ 3²+2² }}=\frac{(3-2j)^3}{\sqrt{ 13 }}=\frac{9-46j}{\sqrt{ 13 }}=\frac{\sqrt{ 9²+46² }}{\sqrt{ 13 }}=\frac{\sqrt{ 2197 }}{\sqrt{ 13 }}=\frac{\sqrt{ 2197 }}{\sqrt{ 13 }}*\frac{\sqrt{ 13 }}{\sqrt{ 13 }}
-=\frac{\sqrt{ 2197 }*\sqrt{ 13 }}{13}=
+\frac{(3-2j)^3}{3+2j}=\frac{(3-2j)^3}{\sqrt{ 3²+2² }}=\frac{(3-2j)^3}{\sqrt{ 13 }}=\frac{9-46j}{\sqrt{ 13 }}=\frac{\sqrt{ 9²+46² }}{\sqrt{ 13 }}=\frac{\sqrt{ 2197 }}{\sqrt{ 13 }}=\frac{13*\sqrt{ 13 }}{\sqrt{ 13 }}*\frac{\sqrt{ 13 }}{\sqrt{ 13 }}
+=\frac{13*\sqrt{ 13 }*\sqrt{ 13 }}{13}=\frac{169}{13}=13
 
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 6.25)
 ```math
 ||{"id":479347491944}||
