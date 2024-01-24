@@ -174,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "43b2197681096587",
@@ -278,7 +279,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a87ceb23bb2dbc82",
+  "active": "7d2a89ea7b2d59bd",
   "lastOpenFiles": [
     "Zeichnungen/DR06-12-2023-29.excalidraw.md",
     "2.Klasse/Medt/🫠Medientiger.md",
