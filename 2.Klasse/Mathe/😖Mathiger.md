@@ -568,6 +568,10 @@ n=3
 
 Re z=4 
 |z|=5
+z=4\pm?
+\sqrt{ 4²+x² }=5
+\sqrt{ 16+x² }=5|²
+
 ```
 
 <div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
