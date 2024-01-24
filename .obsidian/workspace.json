@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Ipt/😐Bwl Tiger.md",
+                "file": "Privat/Notizen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +224,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Ipt/😐Bwl Tiger.md"
+                "file": "Privat/Notizen.md"
               }
             }
           },
@@ -259,11 +259,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "052f68290e497a4a",
+  "active": "2eb9e8143110eb4e",
   "lastOpenFiles": [
+    "2.Klasse/Ipt/😐Bwl Tiger.md",
     "2.Klasse/Mathe/😖Mathiger.md",
     "Privat/Notizen.md",
-    "2.Klasse/Ipt/😐Bwl Tiger.md",
     "2.Klasse/Deutsch/🏘️🫥Detiger.md",
     "Zeichnungen/DR23-01-2024-05.excalidraw.md",
     "Privat/🛜ccna.md",

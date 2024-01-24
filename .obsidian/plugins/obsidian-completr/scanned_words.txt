@@ -2920,6 +2920,7 @@ forensitikerin
 fmTty
 fancy
 freund
+firmen
 mark
 mit
 mangelnder
@@ -3083,6 +3084,7 @@ medien
 mangelnde
 meiner
 mirror
+magenta
 FFA
 Flüssen
 Furt
@@ -8049,6 +8051,7 @@ Quelle
 österreichischen
 öffentliches
 öffentlichen
+öbb
 xd
 xbNnL
 xTa
