@@ -559,27 +559,44 @@ j^-1=\frac{1}{j}=\frac{1}{j}*\frac{-j}{-j}=\frac{-j}{j*(-j)}→j*j=j²=-1= \frac
 n=2
 j^-2=\frac{1}{j²}=\frac{1}{-1}=-1
 n=3
-
+j^-3=\frac{1}{j³}=\frac{1}{j^3}*\frac{-j}{}
+n=4
+j^-4=\frac{1}{j^4}=1
+n=5
+j^-5=\frac{1}{j^5}=-j
 
 ```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 6.27a)
 ```math
 ||{"id":721238155062}||
 
 Re z=4 
 |z|=5
-z=4\pm?
+z=4+?
 \sqrt{ 4²+x² }=5
 \sqrt{ 16+x² }=5|²
-
+ 16+x²=25
+ x²=9|\sqrt{  }
+ x=\pm{3}
+ z=4+3j
+ z=4-3j
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 6.27d)
 ```math
 ||{"id":1341250698084}||
 
-
+Rez=-3
+|z|=5
+z=-3+?
+\sqrt{ (-3)²+x²}=5
+\sqrt{ 9+x² }=5|²
+9+x²=25|-9
+x²=16|\sqrt{  }
+x=\pm 4
+z=-3+4j
+z=-3-4j
 ```
 
 6.278)
