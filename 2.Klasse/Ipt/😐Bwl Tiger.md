@@ -185,9 +185,6 @@ Terminiert
 	- sowasvon
 	- 6.9.2069
 
-
-
-
 ## <mark style="background: #FFB8EBA6;">Projektmanagement</mark>
 
 > Projekt = etwas neues hat ein Anfang und ein Ende
