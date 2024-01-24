@@ -552,7 +552,7 @@ y=-25*x²+\frac{200}{3}+x-2
 
 j^-n
 n=1
-j^-1=\frac{1}{j}=\frac{1}{j}*\frac{-j}{-j}=\frac{-j}{-j}
+j^-1=\frac{1}{j}=\frac{1}{j}*\frac{-j}{-j}=\frac{-j}{j*(-j)}→j*j=j²=-1= \frac{-j}{-(-1)}=\frac{-j}{1}
 
 ```
 6.27a)
