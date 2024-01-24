@@ -110,7 +110,6 @@ Aufnahmegerät: so einstellen, dass man Platz hat, um 4 mal so laut aufnehmen ka
 -12db -----
 -21db ----
 
-
 kak version untreres besser
 ![[dr_We_27_2023_17.excalidraw]]
 für test
