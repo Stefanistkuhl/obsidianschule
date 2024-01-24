@@ -554,11 +554,9 @@ j^-n
 n=1
 j^-1=\frac{1}{j}=\frac{1}{j}*\frac{-j}{-j}=\frac{-j}{j*(-j)}→j*j=j²=-1= \frac{-j}{-(-1)}=\frac{-j}{1}|*1=-j
 n=2
-j^-2=\frac{1}{j²}=\frac{1}{j²}*\frac{-j}{-j}=\frac{-j}{j²*(-j)}=-j²*-j=j=
+j^-2=\frac{1}{j²}=\frac{1}{j²}*\frac{-j}{-j}=\frac{-j}{j²*(-j)}=-j²*j=-(-1)*j=(-1)²=1
 
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 6.27a)
 ```math
 ||{"id":754487827721}||
