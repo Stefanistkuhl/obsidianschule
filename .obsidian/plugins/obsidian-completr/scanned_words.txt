@@ -1288,6 +1288,8 @@ Posts
 Problems
 Pazzi
 PthBafMa
+Projektmanagement
+Projekt
 bei
 background
 bis
@@ -4425,6 +4427,7 @@ Westerüsen
 Will
 Westhuizen
 WHML
+Wiederholbares
 Latein
 Leute
 Läuse
@@ -4965,6 +4968,7 @@ Außerdem
 Aart
 Ava
 Am
+Aktuelle
 Griechisch
 Glauben
 Gewalt
@@ -7526,6 +7530,8 @@ Betriesystemvirtualisierung
 Blendensprung
 BIpovy
 Bitman
+Bürokratie
+Büroarbeit
 Voraussetzungen
 Valenziabrücken
 Vekehrswesen
@@ -7695,6 +7701,7 @@ VxrjXf
 Vorgel
 Vorgesetzter
 Vorabend
+Verwaltungsaufgaben
 je
 jeder
 jeweils
@@ -7948,6 +7955,7 @@ lmao
 langsam
 lösungs
 lösen
+lese
 Queue
 QHvC
 Qp

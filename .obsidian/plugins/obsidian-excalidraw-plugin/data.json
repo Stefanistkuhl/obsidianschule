@@ -39212,7 +39212,7 @@
     }
   },
   "defaultTrayMode": false,
-  "previousRelease": "2.0.17",
+  "previousRelease": "2.0.18",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",
@@ -39851,5 +39851,6 @@
       }
     }
   },
-  "slidingPanesSupport": false
+  "slidingPanesSupport": false,
+  "areaZoomLimit": 1
 }

@@ -68,16 +68,6 @@
             }
           },
           {
-            "id": "12c93f841451f7ac",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Zeichnungen/DR23-01-2024-05.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "2eb9e8143110eb4e",
             "type": "leaf",
             "state": {
@@ -100,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "052f68290e497a4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Klasse/Ipt/😐Bwl Tiger.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -177,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privat/🛜ccna.md",
+                "file": "2.Klasse/Ipt/😐Bwl Tiger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +224,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Privat/🛜ccna.md"
+                "file": "2.Klasse/Ipt/😐Bwl Tiger.md"
               }
             }
           },
@@ -253,16 +255,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true,
       "3d-graph-new:Global 3D Graph": true,
       "3d-graph:3D Graph": true,
-      "obsidian-excalidraw-plugin:Create new drawing": true,
-      "templater-obsidian:Templater": true
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b5ac9769a9c1e533",
+  "active": "052f68290e497a4a",
   "lastOpenFiles": [
-    "Privat/Notizen.md",
-    "Zeichnungen/DR23-01-2024-05.excalidraw.md",
-    "2.Klasse/Deutsch/🏘️🫥Detiger.md",
+    "2.Klasse/Ipt/😐Bwl Tiger.md",
     "2.Klasse/Mathe/😖Mathiger.md",
+    "2.Klasse/Deutsch/🏘️🫥Detiger.md",
+    "Zeichnungen/DR23-01-2024-05.excalidraw.md",
+    "Privat/🛜ccna.md",
+    "Privat/Notizen.md",
     "Privat/😟Games die ich Spielen muss.md",
     "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/🤠antigrrrrrmatik.md",
     "Privat/soulskuhroring challegerun liste.md",
@@ -276,7 +280,6 @@
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
     "2.Klasse/nawi/🪄Naturtigerschaften.md",
     "Zeichnungen/DR25-11-2023-54.excalidraw.md",
-    "Privat/🛜ccna.md",
     "Zeichnungen/DR16-01-2024-50.excalidraw.md",
     "Zeichnungen/DR16-01-2024-37.excalidraw.md",
     "Zeichnungen/DR16-01-2024-40.excalidraw.md",
@@ -284,7 +287,6 @@
     "Privat/Games die ich Spielen muss.md",
     "Stefan Fürst 2BHIT MHÜ 6.md",
     "Zeichnungen/DR06-12-2023-38.excalidraw.md",
-    "Zeichnungen/DR26-11-2023-29.excalidraw.md",
     "Zeichnungen/DR04-12-2023-27.excalidraw.png",
     "bilder/Pasted image 20231218122609.png",
     "bilder/Pasted image 20231216162919.png",

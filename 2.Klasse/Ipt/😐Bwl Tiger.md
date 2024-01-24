@@ -1,4 +1,4 @@
-^
+
 ---
 tags:
   - 2te_Klasse
@@ -193,3 +193,4 @@ Terminiert
 > Projekt = etwas neues hat ein Anfang und ein Ende
 > Prozess = etwas Wiederholbares
 > Bürokratie = Verwaltungsaufgaben → Büroarbeit
+
