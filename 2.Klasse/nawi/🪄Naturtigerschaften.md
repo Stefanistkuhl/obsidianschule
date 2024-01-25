@@ -98,8 +98,7 @@ Wenn die höchsten s und p Orbitale voll besetzt sind, befindet sich das Atom in
 
 ### <mark style="background: #FFB8EBA6;">Testverbesserung</mark>
 
-1. e-conf von [V]=[Ar]4s²3d³
-2. 
+2. [Pd]=[Kr]5s²4d^8
 ### <mark style="background: #FFB8EBA6;">Kohlenstoff-Atom C (kein Teststoff)</mark>
 
 ![[DR23-11-2023-54.excalidraw]]
