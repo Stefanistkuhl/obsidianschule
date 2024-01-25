@@ -96,7 +96,9 @@ Wenn die höchsten s und p Orbitale voll besetzt sind, befindet sich das Atom in
 ![[DR25-11-2023-54.excalidraw]]
 ![[DR11-01-2024-29.excalidraw]]
 
+### <mark style="background: #FFB8EBA6;">Testverbesserung</mark>
 
+1. 
 ### <mark style="background: #FFB8EBA6;">Kohlenstoff-Atom C (kein Teststoff)</mark>
 
 ![[DR23-11-2023-54.excalidraw]]
