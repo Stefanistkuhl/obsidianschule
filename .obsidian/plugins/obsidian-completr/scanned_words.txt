@@ -2104,6 +2104,7 @@ erledigen
 entschsellt
 einbauen
 erklärt
+eingabe
 Übergange
 Übergänge
 Übergang
@@ -2676,6 +2677,7 @@ kommende
 karl
 kleinere
 karla
+knacken
 Jahreszahlen
 Jahresahlen
 Jura
@@ -4279,6 +4281,7 @@ verstehen
 vermutet
 verschlüsselter
 verstehe
+verschlüsselung
 West
 Welt
 Wachstum

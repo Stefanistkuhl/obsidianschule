@@ -102,21 +102,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c5c25a3cac0e352f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.Klasse/nawi/🪄Naturtigerschaften.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -191,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/nawi/🪄Naturtigerschaften.md",
+                "file": "Privat/Notizen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +224,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/nawi/🪄Naturtigerschaften.md"
+                "file": "Privat/Notizen.md"
               }
             }
           },
@@ -279,11 +267,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c5c25a3cac0e352f",
+  "active": "2eb9e8143110eb4e",
   "lastOpenFiles": [
+    "2.Klasse/nawi/🪄Naturtigerschaften.md",
     "2.Klasse/Mathe/😖Mathiger.md",
     "Privat/Notizen.md",
-    "2.Klasse/nawi/🪄Naturtigerschaften.md",
     "2.Klasse/Ipt/😐Bwl Tiger.md",
     "2.Klasse/Medt/🫠Medientiger.md",
     "Hü 7 Stefan Fürst 2BHIT.md",
