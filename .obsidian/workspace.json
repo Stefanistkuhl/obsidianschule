@@ -90,21 +90,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "052f68290e497a4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.Klasse/Ipt/😐Bwl Tiger.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -179,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privat/Notizen.md",
+                "file": "2.Klasse/Mathe/😖Mathiger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +212,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Privat/Notizen.md"
+                "file": "2.Klasse/Mathe/😖Mathiger.md"
               }
             }
           },
@@ -245,12 +233,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,19 +254,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2eb9e8143110eb4e",
+  "active": "b5ac9769a9c1e533",
   "lastOpenFiles": [
+    "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/~WRL1960.tmp",
+    "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/~WRD1925.tmp",
+    "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/~WRL1698.tmp",
+    "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/~WRD1671.tmp",
+    "Privat/🛜ccna.md",
+    "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/~WRL3966.tmp",
+    "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/~WRD3939.tmp",
+    "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/~WRL1964.tmp",
+    "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/~WRD1917.tmp",
+    "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/~WRD1891.tmp",
+    "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/~WRL1790.tmp",
+    "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/~WRD1751.tmp",
+    "Privat/Notizen.md",
     "bilder/Pasted image 20240125174628.png",
     "2.Klasse/nawi/🪄Naturtigerschaften.md",
     "2.Klasse/Mathe/😖Mathiger.md",
-    "Privat/Notizen.md",
     "2.Klasse/Ipt/😐Bwl Tiger.md",
     "2.Klasse/Medt/🫠Medientiger.md",
     "Hü 7 Stefan Fürst 2BHIT.md",
     "bilder/Pasted image 20240124180154.png",
     "bilder/Pasted image 20240124180145.png",
-    "2.Klasse/Mathe/Hü 7 Stefan Fürst 2BHIT.pdf",
-    "Privat/🛜ccna.md",
     "Zeichnungen/DR06-12-2023-29.excalidraw.md",
     "2.Klasse/Deutsch/🏘️🫥Detiger.md",
     "Zeichnungen/DR24-01-2024-43.excalidraw.md",
@@ -301,20 +298,10 @@
     "Zeichnungen/DR04-12-2023-27.excalidraw.png",
     "bilder/Pasted image 20231218122609.png",
     "bilder/Pasted image 20231216162919.png",
-    "2.Klasse/Netzwerktiger/Aufgaben/switch configurieren/2.5.5_1 Packet Tracer - Configure Initial Switch Settings.pdf",
     "Excalidraw/Scripts/Downloaded/Slideshow.svg",
     "Zeichnungen/DR06-12-2023-38.excalidraw.png",
     "Zeichnungen/DR06-12-2023-38.excalidraw.svg",
-    "2.Klasse/Deutsch/FUERST_2BHIT_STELLUNGNAHME.pdf",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
-    "Zeichnungen/templatr",
-    "Untitled",
-    "2.Klasse/Itsi/aufgaben/asymetrische verschlüsselung/desktop.ini",
-    "2.Klasse/Itsi/aufgaben/asymetrische verschlüsselung/Arbeitsblatt_zur_Verschlüsselung.docx",
-    "2.Klasse/Itsi/aufgaben/asymetrische verschlüsselung/Asymmetrische_Verschluesselung.pdf",
-    "2.Klasse/Itsi/aufgaben/asymetrische verschlüsselung/privaten_Schlüssel_finden_.xlsx",
-    "2.Klasse/Itsi/aufgaben/asymetrische verschlüsselung",
-    "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.svg",
     "Zeichnungen/Untitled.canvas"
   ]
 }
