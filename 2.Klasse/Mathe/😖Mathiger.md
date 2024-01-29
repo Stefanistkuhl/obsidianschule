@@ -553,6 +553,7 @@ y=-25*x²+\frac{200}{3}+x-2
 checke das Beispiel nicht -1 ist erklärt -2 und -4 kann man ja ausrechen aber 3 und die anderen ungeraden verstehe ich nicht
 ```math
 ||{"id":479347491944}||
+t
 
 j^-n
 n=1
