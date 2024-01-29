@@ -68,18 +68,6 @@
             }
           },
           {
-            "id": "2eb9e8143110eb4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Privat/Notizen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "22e06aa8373de4ef",
             "type": "leaf",
             "state": {
@@ -92,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -167,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Mathe/😖Mathiger.md",
+                "file": "Privat/🛜ccna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +200,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Mathe/😖Mathiger.md"
+                "file": "Privat/🛜ccna.md"
               }
             }
           },
@@ -256,6 +244,7 @@
   },
   "active": "b5ac9769a9c1e533",
   "lastOpenFiles": [
+    "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/4.6.5 Packet Tracer - Connect a Wired and Wireless LAN.pka~",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/~WRL2464.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/~WRD2421.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/~WRL3994.tmp",
@@ -266,7 +255,6 @@
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/~WRD2359.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/~WRL1022.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/~WRD0999.tmp",
-    "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/~WRL0329.tmp",
     "Privat/🛜ccna.md",
     "Privat/Notizen.md",
     "bilder/Pasted image 20240125174628.png",
