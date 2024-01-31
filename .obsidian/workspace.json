@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "43b2197681096587",
@@ -155,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/🤠antigrrrrrmatik.md",
+                "file": "2.Klasse/Deutsch/🏘️🫥Detiger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +199,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/🤠antigrrrrrmatik.md"
+                "file": "2.Klasse/Deutsch/🏘️🫥Detiger.md"
               }
             }
           },
@@ -243,8 +242,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "efd74da7cb374da6",
+  "active": "e6a087950cf55f91",
   "lastOpenFiles": [
+    "Zeichnungen/DR23-01-2024-05.excalidraw.md",
+    "2.Klasse/Deutsch/🏘️🫥Detiger.md",
+    "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/🤠antigrrrrrmatik.md",
     "2.Klasse/Mathe/😖Mathiger.md",
     "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/😡Grrrrrlektrotechnik.md",
     "Zeichnungen/grrrrrrrcalidraw.md",
@@ -268,11 +270,8 @@
     "bilder/Pasted image 20240124180154.png",
     "bilder/Pasted image 20240124180145.png",
     "Zeichnungen/DR06-12-2023-29.excalidraw.md",
-    "2.Klasse/Deutsch/🏘️🫥Detiger.md",
     "Zeichnungen/DR24-01-2024-43.excalidraw.md",
-    "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/🤠antigrrrrrmatik.md",
     "README.md",
-    "Zeichnungen/DR23-01-2024-05.excalidraw.md",
     "Privat/😟Games die ich Spielen muss.md",
     "Privat/soulskuhroring challegerun liste.md",
     "Zeichnungen/DR22-01-2024-30.excalidraw.md",
