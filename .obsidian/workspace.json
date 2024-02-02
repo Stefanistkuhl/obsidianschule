@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Privat/🛜ccna.md",
+                "file": "Privat/🛜ccna theroie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5734d857fb0b0b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privat/🛜ccna.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +212,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Privat/🛜ccna.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -220,7 +233,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -242,10 +255,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "df54acffa0084f44",
+  "active": "a5734d857fb0b0b5",
   "lastOpenFiles": [
+    "Privat/🛜ccna theroie.md",
+    "Untitled.md",
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
-    "Privat/🛜ccna.md",
     "2.Klasse/Mathe/😖Mathiger.md",
     "2.Klasse/Deutsch/🏘️🫥Detiger.md",
     "2.Klasse/Deutsch/FUERST_2BHIT_STELLUNGNAHME.pdf",
