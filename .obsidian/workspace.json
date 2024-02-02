@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "b906411872c22767",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ccna theorie ipv4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cd123984ebb59f96",
             "type": "leaf",
             "state": {
@@ -80,7 +92,7 @@
             }
           },
           {
-            "id": "9a67dbe52d0b2c09",
+            "id": "21afe188b5e694c6",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -88,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,6 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ccna theorie ipv4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +219,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "ccna theorie ipv4.md"
+              }
             }
           },
           {
@@ -248,12 +263,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9a67dbe52d0b2c09",
+  "active": "b906411872c22767",
   "lastOpenFiles": [
     "2.Klasse/Mathe/😖Mathiger.md",
+    "ccna theorie ipv4.md",
     "Privat/🛜ccna theroie.md",
-    "Ccna Packet tracer.md",
+    "ccna therorie switching.md",
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
+    "Ccna Packet tracer.md",
     "2.Klasse/Deutsch/🏘️🫥Detiger.md",
     "2.Klasse/Deutsch/FUERST_2BHIT_STELLUNGNAHME.pdf",
     "2.Klasse/Ipt/😐Bwl Tiger.md",
@@ -287,8 +304,6 @@
     "Zeichnungen/DR22-01-2024-44.excalidraw.md",
     "Zeichnungen/DR22-01-2024-08.excalidraw.md",
     "Privat/Soulskuhroring challanges notizen.md",
-    "Zeichnungen/DR25-11-2023-54.excalidraw.md",
-    "Zeichnungen/DR16-01-2024-50.excalidraw.md",
     "Zeichnungen/DR04-12-2023-27.excalidraw.png",
     "bilder/Pasted image 20231218122609.png",
     "bilder/Pasted image 20231216162919.png",

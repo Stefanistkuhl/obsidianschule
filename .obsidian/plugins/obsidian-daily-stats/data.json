@@ -23,7 +23,7 @@
     "2024/0/25": 0,
     "2024/0/29": 0,
     "2024/0/31": 5,
-    "2024/1/2": 6
+    "2024/1/2": 42
   },
   "todaysWordCount": {
     "Privat/🛜ccna.md": {
@@ -32,11 +32,19 @@
     },
     "Privat/🛜ccna theroie.md": {
       "initial": 521,
-      "current": 515
+      "current": 12
     },
     "Ccna Packet tracer.md": {
       "initial": 211,
-      "current": 207
+      "current": 209
+    },
+    "ccna therorie switching.md": {
+      "initial": 504,
+      "current": 511
+    },
+    "ccna theorie ipv4.md": {
+      "initial": 6,
+      "current": 35
     }
   }
 }

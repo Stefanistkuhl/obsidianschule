@@ -92,6 +92,13 @@
       }
     },
     {
+      "query": "tag:#ccna  ",
+      "color": {
+        "a": 1,
+        "rgb": 16384000
+      }
+    },
+    {
       "query": "tag:#homelab  ",
       "color": {
         "a": 1,

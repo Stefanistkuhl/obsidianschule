@@ -1,3 +1,4 @@
+#Privat #homelab
 [[🏳️‍⚧️Netzwerktiger]]
 [[Privat]]
 [[🛜ccna theroie]]
