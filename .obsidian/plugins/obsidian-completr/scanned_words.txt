@@ -178,6 +178,7 @@ trägt
 top
 tell
 themen
+tief
 Klasse
 Kreuzritter
 Klagenfurt
@@ -567,6 +568,10 @@ gefühlt
 gemerkt
 geminecraftet
 geholt
+gesetzt
+gekonnt
+grüne
+gebe
 Zettel
 Zwingen
 Zeichen
@@ -895,6 +900,7 @@ Emotionslose
 Eigentlich
 Einbauen
 Ehrlich
+Enter
 Das
 Dasselbe
 Diode
@@ -1110,6 +1116,9 @@ Drohnen
 Dateanalysencomputer
 Datei
 Dankbar
+Download
+Datenverkehr
+Dateinamen
 Problem
 Pest
 Portugal
@@ -1705,6 +1714,9 @@ issue
 irgendwie
 interpretie
 idis
+irgendeine
+irrelevant
+ignorieren
 dass
 die
 den
@@ -1929,6 +1941,11 @@ dankbar
 darausgeholt
 dinge
 digga
+diesem
+deine
+dein
+durchscrollst
+drücke
 es
 entstanden
 entstehen
@@ -2175,6 +2192,9 @@ erzählt
 ego
 einsam
 ewig
+exif
+erstmal
+ersparen
 Übergange
 Übergänge
 Übergang
@@ -2504,6 +2524,9 @@ stefiii
 skill
 stupid
 stehe
+shit
+schön
+siehst
 und
 um
 ungefähr
@@ -2780,6 +2803,8 @@ kinda
 kb
 kontakt
 kopf
+kannst
+klicke
 Jahreszahlen
 Jahresahlen
 Jura
@@ -2877,6 +2902,7 @@ Jugendliche
 Jugendlichen
 Jlt
 Joke
+Jetzt
 für
 fall
 freibewegliches
@@ -3211,6 +3237,7 @@ meine
 mir
 meme
 manchen
+musst
 FFA
 Flüssen
 Furt
@@ -3390,6 +3417,7 @@ Freundschaft
 Freunde
 Freund
 Firmen
+Finden
 nach
 neue
 negativen
@@ -4232,6 +4260,8 @@ Relativ
 Richtung
 Rückwirkungskenlinie
 RXI
+Rätsel
+Rätsels
 vor
 verbreiten
 von
@@ -4410,6 +4440,7 @@ verlassen
 vergeht
 verarbeiteten
 verdrängt
+verlangen
 West
 Welt
 Wachstum
@@ -4577,6 +4608,8 @@ WHML
 Wiederholbares
 Wtf
 Wertschätze
+Wundervolle
+Webseite
 Latein
 Leute
 Läuse
@@ -4744,6 +4777,7 @@ Lastigkeit
 Leiche
 LqoAoR
 Liebe
+Leiste
 Ost
 OS
 Obwohl
@@ -5123,6 +5157,9 @@ Arbeitspackete
 Arbeitswoche
 Ahnung
 Alles
+Aufzeichnung
+Augenkrebs
+Anfragen
 Griechisch
 Glauben
 Gewalt
@@ -5306,6 +5343,7 @@ Gedanken
 Gute
 Geburtstag
 Glück
+GET
 wurden
 wegen
 wird
@@ -5492,6 +5530,8 @@ wichtiger
 wichtigen
 wertvoll
 worst
+weißen
+worum
 christlichen
 code
 charakterisiert
@@ -5770,6 +5810,7 @@ zurückzuziehen
 zqA
 zip
 zurück
+ziehe
 Theologie
 Thema
 Teller
@@ -6220,6 +6261,7 @@ Situationen
 Scheiben
 Sinn
 Schreiben
+Sache
 Handel
 Hygiene
 Halbleiter
@@ -6364,6 +6406,11 @@ Hausaufgaben
 Heuberger
 HUNDESOHN
 Hoffentlich
+Hii
+HTML
+Hauptteils
+Hier
+HTTP
 an
 auf
 aus
@@ -6633,6 +6680,11 @@ aufmuntert
 aushältst
 ausgedrückt
 anhabe
+astronomisch
+anzeigen
+anzusehen
+auszulesen
+anfragen
 oft
 oder
 os
@@ -6885,6 +6937,7 @@ National
 Nutzung
 Nachrichten
 Nostalgie
+Niveau
 Infizierte
 Indium
 Instanz
@@ -7206,6 +7259,8 @@ persönlichen
 person
 paar
 phasen
+passieren
+pcapng
 reiches
 real
 running
@@ -7569,6 +7624,8 @@ hast
 hätte
 hatte
 herzen
+hoffentlich
+handelt
 Bananen
 Buch
 Beschreiben
@@ -7766,6 +7823,7 @@ Bürokratie
 Büroarbeit
 Brillen
 Beziehung
+Bildes
 Voraussetzungen
 Valenziabrücken
 Vekehrswesen
@@ -7938,6 +7996,7 @@ Vorabend
 Verwaltungsaufgaben
 Vertrauen
 Verne
+Verbindungen
 je
 jeder
 jeweils
@@ -8203,6 +8262,7 @@ lieb
 liegen
 lords
 linken
+lernst
 Queue
 QHvC
 Qp
@@ -8297,6 +8357,7 @@ Quantität
 öffentliches
 öffentlichen
 öbb
+öffne
 xd
 xbNnL
 xTa
@@ -8688,6 +8749,7 @@ qLDZC
 qLwDV
 quyvnB
 qQB
+quasi
 Änder
 Änderung
 Änderungen
