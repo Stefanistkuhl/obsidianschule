@@ -3426,6 +3426,7 @@ nIoQ
 nutzen
 nette
 nem
+numeric
 Christus
 Christianisierung
 Christentum
@@ -3568,6 +3569,7 @@ CQ
 Chraktere
 CjUySl
 CiUprdPQ
+Class
 Urgeschichte
 Universitäten
 Ufern
@@ -6576,6 +6578,8 @@ oIY
 operate
 oQd
 obsidanschule
+octet
+octect
 Namen
 Neuzeit
 Nord
@@ -7204,6 +7208,7 @@ reaktion
 riechen
 realistisch
 rätsel
+range
 hat
 hervorgerufen
 haben
@@ -8153,6 +8158,10 @@ xpdYaMFQ
 xH
 xens
 xxUxGNv
+xxxxxxx
+xxxxxx
+xxxxx
+xxxx
 YmKqNai
 YY
 YS
