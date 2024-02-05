@@ -105,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Privat/Notizen.md",
+                "file": "Privat/Insainer Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privat/Notizen.md",
+                "file": "Privat/Insainer Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Privat/Notizen.md"
+                "file": "Privat/Insainer Guide.md"
               }
             }
           },
@@ -277,6 +277,8 @@
   },
   "active": "d2670f8621de18d4",
   "lastOpenFiles": [
+    "Privat/Notizen.md",
+    "Privat/Insainer Guide.md",
     "ccna theorie ipv4.md",
     "2.Klasse/Mathe/😖Mathiger.md",
     "Privat/🛜ccna theroie.md",
@@ -299,7 +301,6 @@
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/~WRD0376.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/~WRL2395.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/~WRD2359.tmp",
-    "Privat/Notizen.md",
     "bilder/Pasted image 20240125174628.png",
     "2.Klasse/nawi/🪄Naturtigerschaften.md",
     "2.Klasse/Medt/🫠Medientiger.md",
@@ -315,7 +316,6 @@
     "().md",
     "Zeichnungen/DR22-01-2024-44.excalidraw.md",
     "Zeichnungen/DR22-01-2024-08.excalidraw.md",
-    "Privat/Soulskuhroring challanges notizen.md",
     "Zeichnungen/DR04-12-2023-27.excalidraw.png",
     "bilder/Pasted image 20231218122609.png",
     "bilder/Pasted image 20231216162919.png",
