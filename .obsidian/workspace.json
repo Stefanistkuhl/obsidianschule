@@ -98,21 +98,9 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "d2670f8621de18d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Privat/Insainer Guide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -187,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privat/Insainer Guide.md",
+                "file": "Privat/🛜ccna theroie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +220,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Privat/Insainer Guide.md"
+                "file": "Privat/🛜ccna theroie.md"
               }
             }
           },
@@ -275,10 +263,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d2670f8621de18d4",
+  "active": "21afe188b5e694c6",
   "lastOpenFiles": [
-    "Privat/Insainer Guide.md",
     "Privat/Notizen.md",
+    "bilder/Pasted image 20240205193629.png",
+    "Privat/Insainer Guide.md",
     "ccna theorie ipv4.md",
     "2.Klasse/Mathe/😖Mathiger.md",
     "Privat/🛜ccna theroie.md",
@@ -315,14 +304,12 @@
     "Zeichnungen/DR22-01-2024-30.excalidraw.md",
     "().md",
     "Zeichnungen/DR22-01-2024-44.excalidraw.md",
-    "Zeichnungen/DR22-01-2024-08.excalidraw.md",
     "Zeichnungen/DR04-12-2023-27.excalidraw.png",
     "bilder/Pasted image 20231218122609.png",
     "bilder/Pasted image 20231216162919.png",
     "Excalidraw/Scripts/Downloaded/Slideshow.svg",
     "Zeichnungen/DR06-12-2023-38.excalidraw.png",
     "Zeichnungen/DR06-12-2023-38.excalidraw.svg",
-    "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
     "Zeichnungen/Untitled.canvas"
   ]
 }
