@@ -26,12 +26,17 @@
     "2024/1/2": 42,
     "2024/1/5": 1120,
     "2024/1/6": 136,
-    "2024/1/7": 11
+    "2024/1/7": 11,
+    "2024/1/10": 16
   },
   "todaysWordCount": {
-    "Privat/Soulskuhroring challanges notizen.md": {
-      "initial": 219,
-      "current": 230
+    "Privat/Untitled.md": {
+      "initial": 4,
+      "current": 18
+    },
+    "Privat/Alles Gute zum Geburstag.md": {
+      "initial": 19,
+      "current": 21
     }
   }
 }

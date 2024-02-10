@@ -95,8 +95,24 @@
             "id": "21afe188b5e694c6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Privat/Alles Gute zum Geburtstag!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d70885dc5e390ca8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Privat/Notizen.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -175,6 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Privat/Alles Gute zum Geburtstag!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +235,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Privat/Alles Gute zum Geburtstag!.md"
+              }
             }
           },
           {
@@ -262,9 +281,10 @@
   },
   "active": "21afe188b5e694c6",
   "lastOpenFiles": [
+    "Privat/Notizen.md",
+    "Privat/Alles Gute zum Geburtstag!.md",
     "Privat/Homelab/Filmliste.md",
     "Privat/Soulskuhroring challanges notizen.md",
-    "Privat/Notizen.md",
     "bilder/Pasted image 20240205193629.png",
     "Privat/Insainer Guide.md",
     "Privat/ccna theorie ipv4.md",
@@ -301,7 +321,6 @@
     "Privat/😟Games die ich Spielen muss.md",
     "Privat/soulskuhroring challegerun liste.md",
     "Zeichnungen/DR22-01-2024-30.excalidraw.md",
-    "().md",
     "Zeichnungen/DR04-12-2023-27.excalidraw.png",
     "bilder/Pasted image 20231218122609.png",
     "bilder/Pasted image 20231216162919.png",
