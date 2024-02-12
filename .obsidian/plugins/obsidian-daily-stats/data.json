@@ -22,12 +22,21 @@
     "2024/0/24": 48,
     "2024/0/25": 0,
     "2024/0/29": 0,
-    "2024/0/31": 5
+    "2024/0/31": 5,
+    "2024/1/12": 28
   },
   "todaysWordCount": {
-    "2.Klasse/Ipt/😐Bwl Tiger.md": {
-      "initial": 884,
-      "current": 889
+    "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/grrrrrlektrotechnik v2 mit sin.md": {
+      "initial": 0,
+      "current": 6
+    },
+    "transistor wiederholung.md": {
+      "initial": 4,
+      "current": 14
+    },
+    "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/transistor wiederholung.md": {
+      "initial": 14,
+      "current": 26
     }
   }
 }
