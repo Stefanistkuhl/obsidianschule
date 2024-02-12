@@ -1881,6 +1881,7 @@ dauer
 direkter
 demon
 double
+deflect
 es
 entstanden
 entstehen
@@ -2120,6 +2121,7 @@ erklärt
 eingabe
 eZVNHpCT
 eingezeichnet
+eldi
 Übergange
 Übergänge
 Übergang
@@ -2436,6 +2438,8 @@ shIjcKOi
 streamt
 spicy
 swipe
+schenken
+sekiro
 und
 um
 ungefähr
@@ -4313,6 +4317,7 @@ verschlüsselter
 verstehe
 verschlüsselung
 vergleichsweiser
+vibration
 West
 Welt
 Wachstum
@@ -5203,6 +5208,7 @@ Gesellschaftliche
 Generationen
 Godfrey
 Gleichstromrichtung
+Geburtstag
 wurden
 wegen
 wird
@@ -6885,6 +6891,7 @@ International
 ITU
 Ib
 Imi
+Integration
 pest
 pos
 purpose
@@ -7616,6 +7623,7 @@ Bitman
 Bürokratie
 Büroarbeit
 Basisstrom
+Buttplug
 Voraussetzungen
 Valenziabrücken
 Vekehrswesen

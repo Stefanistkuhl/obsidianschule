@@ -22,7 +22,7 @@
   "isLeftHanded": false,
   "iframeMatchExcalidrawTheme": true,
   "matchTheme": false,
-  "matchThemeAlways": true,
+  "matchThemeAlways": false,
   "matchThemeTrigger": false,
   "defaultMode": "normal",
   "defaultPenMode": "never",

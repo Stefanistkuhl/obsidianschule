@@ -5,7 +5,7 @@ tags:
 ---
 [[🥲2te Klasse]]
 
-# <mark style="background: #FFB8EBA6;">Ich hasse Mathe</mark>
+# <mark style="background: #FFB8EBA6;">Ich hasse Mathe (Brüche)</mark>
 
 ## <mark style="background: #FFB8EBA6;">Rechnen</mark>
 ### <mark style="background: #FFB8EBA6;">Addieren und Subtrahieren</mark>
@@ -213,8 +213,6 @@ beim untersten  kürzt sich die Klammer mit dem Nenner und so hoch 2 weg und dan
 \large{(1-c)*\sqrt{ \frac{1+c}{1-c}}}= \sqrt{ (1-c)^2*\frac{1+c}{1-c} }=\sqrt{ (1-c)*(1+c) }=\sqrt{ 1-c^2 }
 ```
 
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
-
 ### <mark style="background: #FFB8EBA6;">Partielles Wurzelziehen</mark>
 
 Immer in Faktoren zerlegen und wenn es geht als einzelne/geteilte Wurzeln aufschreiben und wenn Möglich ausrechen → Ziel ist eine ausrechenfreundliche Wurzel aufzulösen und mit einer nicht ausrechenfreundlichen Wurzel zu multiplizieren
@@ -395,6 +393,11 @@ grid: true
 f(x)=x^2
 g(x)=1/x
 ```
+
+
+# <mark style="background: #FFB8EBA6;">Komplexe Zahlen</mark>
+
+## <mark style="background: #FFB8EBA6;">Polarformen komplexer Zahlen</mark>
 
 
 # Idi

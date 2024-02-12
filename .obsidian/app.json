@@ -13,6 +13,6 @@
   "attachmentFolderPath": "bilder",
   "trashOption": "none",
   "alwaysUpdateLinks": true,
-  "spellcheck": true,
+  "spellcheck": false,
   "promptDelete": false
 }
