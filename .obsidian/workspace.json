@@ -92,18 +92,6 @@
             }
           },
           {
-            "id": "21afe188b5e694c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Privat/Alles Gute zum Geburtstag Karl(a)!.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d70885dc5e390ca8",
             "type": "leaf",
             "state": {
@@ -116,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -191,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privat/Alles Gute zum Geburtstag Karl(a)!.md",
+                "file": "2.Klasse/Mathe/😖Mathiger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +224,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Privat/Alles Gute zum Geburtstag Karl(a)!.md"
+                "file": "2.Klasse/Mathe/😖Mathiger.md"
               }
             }
           },
@@ -279,10 +267,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "21afe188b5e694c6",
+  "active": "e01d041b10fe5486",
   "lastOpenFiles": [
-    "Privat/Notizen.md",
     "Privat/Alles Gute zum Geburtstag Karl(a)!.md",
+    "Privat/Notizen.md",
     "Privat/Homelab/Filmliste.md",
     "Privat/Soulskuhroring challanges notizen.md",
     "bilder/Pasted image 20240205193629.png",
