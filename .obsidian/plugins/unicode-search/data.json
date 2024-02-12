@@ -5,6 +5,18 @@
   },
   "data": [
     {
+      "char": "ρ",
+      "name": "greek small letter rho",
+      "useCount": 1,
+      "lastUsed": 1707734083059
+    },
+    {
+      "char": "Ω",
+      "name": "ohm sign",
+      "useCount": 4,
+      "lastUsed": 1707734320393
+    },
+    {
       "char": "β",
       "name": "greek small letter beta",
       "useCount": 1,
@@ -27,12 +39,6 @@
       "name": "greek small letter alpha",
       "useCount": 2,
       "lastUsed": 1702901396349
-    },
-    {
-      "char": "Ω",
-      "name": "ohm sign",
-      "useCount": 3,
-      "lastUsed": 1705921330682
     },
     {
       "char": "⏦",
@@ -25849,10 +25855,6 @@
     {
       "char": "ψ",
       "name": "greek small letter psi"
-    },
-    {
-      "char": "ρ",
-      "name": "greek small letter rho"
     },
     {
       "char": "ῥ",

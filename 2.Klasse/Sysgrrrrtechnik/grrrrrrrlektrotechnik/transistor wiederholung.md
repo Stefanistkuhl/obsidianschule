@@ -18,6 +18,19 @@ Uce=Ube+Ucb
 
 
 ### Emitter Schaltung
-Vi = 10...300
-Vu = 
+Vi = 10 ... 300
+Vu = ... 5000
+W1 = 0,1 ... 10
+
+> Zur Erinnerung Kabel != Wiederstand mit
+```math
+||{"id":324775374419}||
+
+R=\frac{ρ*l}{A}
+
+l...länge in m
+A... Querschnitt in m²
+ρ... Spezifischer Wiederstand = \frac{Ω*mm²}m{}
+
+```
 
