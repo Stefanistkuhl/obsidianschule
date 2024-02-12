@@ -184,7 +184,6 @@ Kfz
 Kontrolle
 Kennung
 Klassischer
-Kino
 Kanal
 Konsumgüter
 Kriterien
@@ -874,6 +873,8 @@ Erschossen
 Ermittlung
 Emotionslose
 Ersatzschaltbild
+Eingangswiederstand
+Erinnerung
 Das
 Dasselbe
 Diode
@@ -2953,6 +2954,7 @@ fmTty
 fancy
 freund
 firmen
+frac
 mark
 mit
 mangelnder
@@ -3117,6 +3119,7 @@ mangelnde
 meiner
 mirror
 magenta
+math
 FFA
 Flüssen
 Furt
@@ -4138,7 +4141,6 @@ RXI
 RIP
 vor
 verbreiten
-von
 vom
 verbunden
 verhungern
@@ -4476,6 +4478,7 @@ Will
 Westhuizen
 WHML
 Wiederholbares
+Wiederstand
 Latein
 Leute
 Läuse
@@ -5020,6 +5023,7 @@ Am
 Aktuelle
 Arbeitspackete
 Arbeitswoche
+Ausganswiederstand
 Griechisch
 Glauben
 Gewalt
@@ -6090,6 +6094,8 @@ Spannungen
 Schulbuch
 Schlatet
 Schaltet
+Schaltung
+Spezifischer
 Handel
 Hygiene
 Halbleiter
@@ -7780,6 +7786,7 @@ Vorgel
 Vorgesetzter
 Vorabend
 Verwaltungsaufgaben
+Vi
 je
 jeder
 jeweils
@@ -8108,6 +8115,7 @@ Qf
 Quadratische
 QSbEQ
 Quelle
+Querschnitt
 überall
 übersetzt
 übernehmen
