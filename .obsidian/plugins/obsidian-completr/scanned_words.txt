@@ -326,6 +326,8 @@ Kennlinienfeld
 KLF
 Karla
 KEAUI
+Kollektorstrom
+Kirchhof
 ggp
 genauen
 gibt
@@ -544,6 +546,8 @@ gquTb
 geist
 großes
 guide
+gesteuert
+gTE
 Zettel
 Zwingen
 Zeichen
@@ -869,6 +873,7 @@ Eingangskennlinie
 Erschossen
 Ermittlung
 Emotionslose
+Ersatzschaltbild
 Das
 Dasselbe
 Diode
@@ -1297,6 +1302,7 @@ PthBafMa
 Projektmanagement
 Projekt
 Position
+PMRQupm
 bei
 background
 bis
@@ -2566,6 +2572,7 @@ upgrad
 update
 ungeraden
 unattraktiv
+uYgzEhl
 keine
 konnten
 kein
@@ -2688,6 +2695,8 @@ karl
 kleinere
 karla
 knacken
+kleinen
+kfzFZjhe
 Jahreszahlen
 Jahresahlen
 Jura
@@ -3578,6 +3587,7 @@ Chraktere
 CjUySl
 CiUprdPQ
 CHARACTER
+Cer
 Urgeschichte
 Universitäten
 Ufern
@@ -3726,6 +3736,9 @@ Uc
 Url
 Unterricht
 Unlock
+UCE
+UCB
+UBE
 Mittelalter
 Merkmale
 Mönche
@@ -4297,6 +4310,7 @@ vermutet
 verschlüsselter
 verstehe
 verschlüsselung
+vergleichsweiser
 West
 Welt
 Wachstum
@@ -5184,6 +5198,7 @@ Geschenk
 Gesellschaftliche
 Generationen
 Godfrey
+Gleichstromrichtung
 wurden
 wegen
 wird
@@ -5504,6 +5519,7 @@ computer
 cliffhanger
 capture
 checke
+clNsxe
 zu
 zum
 zur
@@ -5625,6 +5641,7 @@ zussamenhang
 zurückzuziehen
 zqA
 zip
+zmOUWEpS
 Theologie
 Thema
 Teller
@@ -6070,6 +6087,9 @@ Stimmung
 Specs
 Svensen
 Spannungen
+Schulbuch
+Schlatet
+Schaltet
 Handel
 Hygiene
 Halbleiter
@@ -6591,6 +6611,7 @@ oIY
 operate
 oQd
 obsidanschule
+oqTgbRIU
 Namen
 Neuzeit
 Nord
@@ -6857,6 +6878,7 @@ IEEE
 International
 ITU
 Ib
+Imi
 pest
 pos
 purpose
@@ -7035,6 +7057,7 @@ politschen
 pomes
 pgp
 passt
+paD
 reiches
 real
 running
@@ -7586,6 +7609,7 @@ BIpovy
 Bitman
 Bürokratie
 Büroarbeit
+Basisstrom
 Voraussetzungen
 Valenziabrücken
 Vekehrswesen
@@ -8339,6 +8363,7 @@ yCbm
 yAgr
 ysaXNM
 yYe
+yuCi
 XaShZjh
 XXtqRDri
 Xc
