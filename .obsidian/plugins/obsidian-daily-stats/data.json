@@ -23,7 +23,7 @@
     "2024/0/25": 0,
     "2024/0/29": 0,
     "2024/0/31": 5,
-    "2024/1/12": 159
+    "2024/1/12": 168
   },
   "todaysWordCount": {
     "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/grrrrrlektrotechnik v2 mit sin.md": {
@@ -44,7 +44,23 @@
     },
     "2.Klasse/Mathe/😖Mathiger.md": {
       "initial": 2512,
-      "current": 2528
+      "current": 2530
+    },
+    "komplexe zahlen.md": {
+      "initial": 0,
+      "current": 5
+    },
+    "2.Klasse/Mathe/Komplexe Zahlen.md": {
+      "initial": 5,
+      "current": 7
+    },
+    "polarformen komplexerzahlen.md": {
+      "initial": 5,
+      "current": 5
+    },
+    "2.Klasse/Mathe/polarformen komplexerzahlen.md": {
+      "initial": 5,
+      "current": 5
     }
   }
 }

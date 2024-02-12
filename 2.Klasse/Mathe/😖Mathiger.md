@@ -395,8 +395,11 @@ g(x)=1/x
 ```
 
 
+
+
 # <mark style="background: #FFB8EBA6;">Komplexe Zahlen</mark>
 
+![[Komplexe Zahlen]]
 ## <mark style="background: #FFB8EBA6;">Polarformen komplexer Zahlen</mark>
 
 
