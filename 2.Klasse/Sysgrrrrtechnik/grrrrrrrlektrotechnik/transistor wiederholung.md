@@ -12,8 +12,12 @@ Ab einer Ube ~ 0.7V Schaltet der Transistor durch.
 → 1. Kirchhof: Ib+Ic=Ie
 Ic = B * Ib B...Gleichstromrichtung  
 → 2. Kirchhof
-
+Uce=Ube+Ucb
 ###### Ersatzschaltbild:
 ![[DR12-02-2024-24_0.excalidraw]]
 
+
+### Emitter Schaltung
+Vi = 10...300
+Vu = 
 
