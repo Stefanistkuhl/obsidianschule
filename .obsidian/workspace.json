@@ -104,17 +104,17 @@
             }
           },
           {
-            "id": "849465af445e5cc1",
+            "id": "dcfdb01ef70e008c",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Zeichnungen/DR13-02-2024-18.excalidraw.md"
+                "file": "Zeichnungen/DR13-02-2024-15.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Mathe/polarformen komplexerzahlen.md",
+                "file": "Zeichnungen/DR13-02-2024-15.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Mathe/polarformen komplexerzahlen.md"
+                "file": "Zeichnungen/DR13-02-2024-15.excalidraw.md"
               }
             }
           },
@@ -277,10 +277,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "147a14241d3e9ade",
+  "active": "dcfdb01ef70e008c",
   "lastOpenFiles": [
-    "Zeichnungen/DR13-02-2024-18.excalidraw.md",
     "2.Klasse/Mathe/polarformen komplexerzahlen.md",
+    "Zeichnungen/DR13-02-2024-15.excalidraw.md",
+    "Zeichnungen/DR13-02-2024-18.excalidraw.md",
     "Zeichnungen/DR13-02-2024-59.excalidraw.md",
     "Zeichnungen/DR13-02-2024-34.excalidraw.md",
     "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/transistor wiederholung.md",
@@ -306,7 +307,6 @@
     "Privat/Insainer Guide.md",
     "Privat/🛜ccna theroie.md",
     "Privat/ccna therorie switching.md",
-    "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
     "2.Klasse/Deutsch/FUERST_2BHIT_STELLUNGNAHME.pdf",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/4.6.5 Packet Tracer - Connect a Wired and Wireless LAN.pka~",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/~WRL2464.tmp",
