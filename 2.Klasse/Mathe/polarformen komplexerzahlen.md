@@ -51,7 +51,15 @@ Das grüne ist das was rauskommt nach der Berechnung mit dem Tanges, aber stimmt
 
 \huge{z=4-4*j}
 \huge{Re=4,Im=-4}
-\huge{}
-
+\huge{φ=\tan^{-1}(\frac{\sqrt{ 4 }}{4})=\tan^{-1}(-1)=-\frac{\pi}{4}}
+\huge{2*\pi-\frac{\pi}{4}=\frac{7}{4}*\pi}
 ```
 ![[DR13-02-2024-15.excalidraw]]
+#### 2 Ausnahmen
+```math
+||{"id":1629106989282}||
+
+z=-2*j
+```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
