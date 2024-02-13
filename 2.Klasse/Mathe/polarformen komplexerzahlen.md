@@ -40,6 +40,8 @@ Das grüne ist das was rauskommt nach der Berechnung mit dem Tanges, aber stimmt
 ||{"id":1155394750579}||
 
 \huge{z=-3-5*j}
-
+\huge{\mathrm{Re}=-3,Im=-5}
+\huge{φ=\tan{^{-1}(\frac{-5}{-3})}=\tan{^{-1}(\frac{5}{3})}=59,04°}
+\huge{φ=180°-59,04°}
 ```
 ![[DR13-02-2024-18.excalidraw]]
