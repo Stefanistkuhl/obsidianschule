@@ -6885,6 +6885,7 @@ International
 ITU
 Ib
 Imi
+InaKOR
 pest
 pos
 purpose
@@ -7787,6 +7788,7 @@ Vorgesetzter
 Vorabend
 Verwaltungsaufgaben
 Vi
+Vision
 je
 jeder
 jeweils

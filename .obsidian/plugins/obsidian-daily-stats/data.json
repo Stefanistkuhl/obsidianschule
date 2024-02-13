@@ -24,7 +24,7 @@
     "2024/0/29": 0,
     "2024/0/31": 5,
     "2024/1/12": 127,
-    "2024/1/13": 6
+    "2024/1/13": 7
   },
   "todaysWordCount": {
     "bwl v2.md": {
@@ -32,6 +32,14 @@
       "current": 6
     },
     "2.Klasse/Ipt/bwl v2.md": {
+      "initial": 6,
+      "current": 7
+    },
+    "Vision.md": {
+      "initial": 6,
+      "current": 6
+    },
+    "2.Klasse/Ipt/Vision.md": {
       "initial": 6,
       "current": 6
     }
