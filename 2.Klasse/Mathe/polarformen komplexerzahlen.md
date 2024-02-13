@@ -51,5 +51,7 @@ Das grüne ist das was rauskommt nach der Berechnung mit dem Tanges, aber stimmt
 
 \huge{z=4-4*j}
 \huge{Re=4,Im=-4}
+\huge{}
 
 ```
+![[DR13-02-2024-15.excalidraw]]
