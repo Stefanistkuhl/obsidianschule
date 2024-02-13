@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "147a14241d3e9ade",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Klasse/Mathe/polarformen komplexerzahlen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -167,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/transistor wiederholung.md",
+                "file": "2.Klasse/Mathe/polarformen komplexerzahlen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +224,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/transistor wiederholung.md"
+                "file": "2.Klasse/Mathe/polarformen komplexerzahlen.md"
               }
             }
           },
@@ -255,11 +267,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "cef4ac9f2ee33f8c",
+  "active": "147a14241d3e9ade",
   "lastOpenFiles": [
+    "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/transistor wiederholung.md",
     "Privat/ccna theorie ipv4.md",
     "2.Klasse/Ipt/Vision.md",
-    "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/transistor wiederholung.md",
     "2.Klasse/Ipt/😐Bwl Tiger.md",
     "Untitled.canvas",
     "Zeichnungen/DR13-02-2024-26.excalidraw.md",
