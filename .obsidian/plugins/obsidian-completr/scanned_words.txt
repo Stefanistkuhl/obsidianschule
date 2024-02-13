@@ -548,6 +548,9 @@ großes
 guide
 gesteuert
 gTE
+gJf
+grüne
+gRf
 Zettel
 Zwingen
 Zeichen
@@ -1093,6 +1096,8 @@ Drohnen
 Dateanalysencomputer
 Datei
 Double
+DqKnGA
+DV
 Problem
 Pest
 Portugal
@@ -1307,6 +1312,7 @@ Projektmanagement
 Projekt
 Position
 PMRQupm
+POS
 bei
 background
 bis
@@ -1676,6 +1682,8 @@ ihrer
 iZnrDygy
 idoyPjM
 iOcTq
+ioGXoSO
+iqaX
 dass
 die
 den
@@ -1889,6 +1897,7 @@ demon
 double
 dfO
 dXo
+dGEy
 es
 entstanden
 entstehen
@@ -2130,6 +2139,8 @@ eZVNHpCT
 eingezeichnet
 eDEUGQQN
 edges
+enrDbNEl
+eVRUp
 Übergange
 Übergänge
 Übergang
@@ -2447,6 +2458,7 @@ streamt
 spicy
 swipe
 sONVedBn
+stimmt
 und
 um
 ungefähr
@@ -2586,6 +2598,7 @@ ungeraden
 unattraktiv
 uYgzEhl
 uzkGYRWp
+uni
 keine
 konnten
 kein
@@ -2711,6 +2724,8 @@ knacken
 kleinen
 kfzFZjhe
 kPQglt
+kz
+katICILD
 Jahreszahlen
 Jahresahlen
 Jura
@@ -2807,6 +2822,7 @@ JCKCi
 Jugendliche
 Jugendlichen
 Jlt
+JqQsZ
 für
 fall
 freibewegliches
@@ -3309,6 +3325,7 @@ FUYxfOtE
 FE
 Frau
 Formern
+FMtOc
 nach
 neue
 negativen
@@ -3463,6 +3480,7 @@ nem
 npn
 nodes
 numeric
+nOrPRYVX
 Christus
 Christianisierung
 Christentum
@@ -3760,6 +3778,7 @@ UCE
 UCB
 UBE
 UeS
+UDA
 Mittelalter
 Merkmale
 Mönche
@@ -4159,6 +4178,7 @@ Rückwirkungskenlinie
 RXI
 RIP
 RnJoKdLg
+RbAB
 vor
 verbreiten
 vom
@@ -4334,6 +4354,9 @@ verstehe
 verschlüsselung
 vergleichsweiser
 vsV
+vst
+vZhQEntd
+vMX
 West
 Welt
 Wachstum
@@ -4504,6 +4527,7 @@ Worum
 Wieso
 Weshalb
 Wozu
+WatDLiS
 Latein
 Leute
 Läuse
@@ -5052,6 +5076,10 @@ Arbeitspackete
 Arbeitswoche
 Ausganswiederstand
 AabUaqqg
+AJos
+AZNJehsX
+AZPi
+AMO
 Griechisch
 Glauben
 Gewalt
@@ -5231,6 +5259,8 @@ Gesellschaftliche
 Generationen
 Godfrey
 Gleichstromrichtung
+Glh
+GgBkY
 wurden
 wegen
 wird
@@ -5554,6 +5584,7 @@ capture
 checke
 clNsxe
 ccna
+cSBUXGqr
 zu
 zum
 zur
@@ -5677,6 +5708,7 @@ zqA
 zip
 zmOUWEpS
 zxoP
+zDeyVlkI
 Theologie
 Thema
 Teller
@@ -5826,6 +5858,11 @@ Transition
 Teufelskreis
 Texte
 Terry
+TbAKGAn
+TLkCggl
+Tpf
+Tanges
+TVNM
 Städte
 Südamerika
 Spanien
@@ -6129,6 +6166,7 @@ Schaltung
 Spezifischer
 SLXDo
 Sk
+SKL
 Handel
 Hygiene
 Halbleiter
@@ -6272,6 +6310,7 @@ Hybridkernel
 Hausaufgaben
 Heuberger
 HUNDESOHN
+HRkTS
 an
 auf
 aus
@@ -6533,6 +6572,7 @@ anhand
 analystimgund
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggghhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiijjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkklllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooopppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssstttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 algeraische
+abziehen
 oft
 oder
 os
@@ -6654,6 +6694,8 @@ obsidanschule
 oqTgbRIU
 octet
 octect
+otmQu
+oPWWMdUI
 Namen
 Neuzeit
 Nord
@@ -7290,6 +7332,7 @@ realistisch
 rätsel
 recovery
 range
+rauskommt
 hat
 hervorgerufen
 haben
@@ -7656,6 +7699,7 @@ Bitman
 Bürokratie
 Büroarbeit
 Basisstrom
+Berechnung
 Voraussetzungen
 Valenziabrücken
 Vekehrswesen
@@ -7830,6 +7874,7 @@ Vi
 Vision
 Visio
 VMtNF
+VOy
 je
 jeder
 jeweils
@@ -8086,6 +8131,7 @@ lösen
 lese
 linux
 lernt
+lJPVn
 Queue
 QHvC
 Qp
@@ -8159,6 +8205,7 @@ Quadratische
 QSbEQ
 Quelle
 Querschnitt
+Quadrant
 überall
 übersetzt
 übernehmen
@@ -8323,6 +8370,9 @@ Yrs
 YQudUNA
 YJQ
 YtUXn
+YFKLLKtk
+YpowUI
+YXO
 Öffnung
 Öffentliche
 Österreicher
@@ -8421,6 +8471,8 @@ yAgr
 ysaXNM
 yYe
 yuCi
+yp
+ywo
 XaShZjh
 XXtqRDri
 Xc
