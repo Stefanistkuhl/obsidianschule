@@ -109,46 +109,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Ipt/bwl v2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e69dd8aadc54202",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "2.Klasse/Ipt/Vision.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "d02aa96845a95fcf",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Zeichnungen/DR13-02-2024-26.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "5949a9ff824653a0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Template.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -206,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "43b2197681096587",
@@ -222,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Template.excalidraw.md",
+                "file": "2.Klasse/Ipt/Vision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +236,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Template.excalidraw.md"
+                "file": "2.Klasse/Ipt/Vision.md"
               }
             }
           },
@@ -297,8 +266,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "3d-graph-new:Global 3D Graph": false,
-      "3d-graph:3D Graph": false,
+      "3d-graph-new:Global 3D Graph": true,
+      "3d-graph:3D Graph": true,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
@@ -306,21 +275,22 @@
       "canvas:Create new canvas": true,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": true,
-      "obsidian42-brat:BRAT": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian42-brat:BRAT": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "5949a9ff824653a0",
+  "active": "94fe87c8fd327cbf",
   "lastOpenFiles": [
-    "Zeichnungen/DR13-02-2024-26.excalidraw.md",
+    "Untitled.canvas",
     "2.Klasse/Ipt/Vision.md",
+    "Zeichnungen/DR13-02-2024-26.excalidraw.md",
+    "2.Klasse/Ipt/bwl v2.md",
+    "Excalidraw/Template.excalidraw.md",
     "DR13-02-2024-24.excalidraw.md",
     "Zeichnungen/DR13-02-2024-24.excalidraw.md",
-    "2.Klasse/Ipt/bwl v2.md",
     "2.Klasse/Ipt/😐Bwl Tiger.md",
     "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/transistor wiederholung.md",
     "Zeichnungen/DR12-02-2024-24.excalidraw.md",
-    "Excalidraw/Template.excalidraw.md",
     "Zeichnungen/DR12-02-2024-24_0.excalidraw.md",
     "Zeichnungen/DR12-02-2024-34.excalidraw.md",
     "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/grrrrrlektrotechnik v2 mit sin.md",
@@ -339,7 +309,6 @@
     "2.Klasse/Deutsch/🏘️🫥Detiger.md",
     "2.Klasse/Deutsch/FUERST_2BHIT_STELLUNGNAHME.pdf",
     "Zeichnungen/DR23-01-2024-05.excalidraw.md",
-    "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/🤠antigrrrrrmatik.md",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/4.6.5 Packet Tracer - Connect a Wired and Wireless LAN.pka~",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/~WRL2464.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/~WRD2421.tmp",

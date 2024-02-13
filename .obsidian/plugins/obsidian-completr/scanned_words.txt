@@ -1670,6 +1670,7 @@ insider
 ignoriert
 ihrer
 iZnrDygy
+idoyPjM
 dass
 die
 den
@@ -1881,6 +1882,7 @@ dauer
 direkter
 demon
 double
+dfO
 es
 entstanden
 entstehen
@@ -2120,6 +2122,8 @@ erklärt
 eingabe
 eZVNHpCT
 eingezeichnet
+eDEUGQQN
+edges
 Übergange
 Übergänge
 Übergang
@@ -2436,6 +2440,7 @@ shIjcKOi
 streamt
 spicy
 swipe
+sONVedBn
 und
 um
 ungefähr
@@ -3447,6 +3452,7 @@ nutzen
 nette
 nem
 npn
+nodes
 Christus
 Christianisierung
 Christentum
@@ -4139,6 +4145,7 @@ Richtung
 Rückwirkungskenlinie
 RXI
 RIP
+RnJoKdLg
 vor
 verbreiten
 vom
@@ -4479,6 +4486,10 @@ Westhuizen
 WHML
 Wiederholbares
 Wiederstand
+Worum
+Wieso
+Weshalb
+Wozu
 Latein
 Leute
 Läuse
@@ -5371,6 +5382,7 @@ welt
 warum
 wireshark
 wiedeherstellen
+wTn
 christlichen
 code
 charakterisiert
@@ -6745,6 +6757,7 @@ NAIzgJ
 National
 Nutzung
 NICHT
+Nxr
 Infizierte
 Indium
 Instanz
@@ -7789,6 +7802,7 @@ Vorabend
 Verwaltungsaufgaben
 Vi
 Vision
+Visio
 je
 jeder
 jeweils
@@ -8204,6 +8218,7 @@ xpdYaMFQ
 xH
 xens
 xxUxGNv
+xVyL
 YmKqNai
 YY
 YS

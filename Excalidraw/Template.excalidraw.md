@@ -8,8 +8,6 @@ tags: [excalidraw]
 
 
 # Text Elements
-Vision ^365tCG1X
-
 %%
 # Drawing
 ```json
@@ -17,82 +15,7 @@ Vision ^365tCG1X
 	"type": "excalidraw",
 	"version": 2,
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.18",
-	"elements": [
-		{
-			"id": "365tCG1X",
-			"type": "text",
-			"x": -131.76826975000318,
-			"y": -1480.1098979448852,
-			"width": 50.37994384765625,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 164778200,
-			"version": 7,
-			"versionNonce": 2074421928,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1707810915507,
-			"link": null,
-			"locked": false,
-			"text": "Vision",
-			"rawText": "Vision",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 18,
-			"containerId": null,
-			"originalText": "Vision",
-			"lineHeight": 1.25
-		},
-		{
-			"id": "zp3Z2x4P",
-			"type": "text",
-			"x": -185,
-			"y": -151.0374984741211,
-			"width": 10,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 148041896,
-			"version": 5,
-			"versionNonce": 1285523368,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1707810912422,
-			"link": null,
-			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 18,
-			"containerId": null,
-			"originalText": "",
-			"lineHeight": 1.25
-		}
-	],
+	"elements": [],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#000000",
@@ -108,10 +31,10 @@ Vision ^365tCG1X
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 553.5992108750901,
-		"scrollY": 1799.493252871508,
+		"scrollX": 650.6626032024801,
+		"scrollY": 1853.7117384752319,
 		"zoom": {
-			"value": 1.220868243155462
+			"value": 0.999090264973502
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
