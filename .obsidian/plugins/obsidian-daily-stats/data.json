@@ -24,7 +24,7 @@
     "2024/0/29": 0,
     "2024/0/31": 5,
     "2024/1/12": 127,
-    "2024/1/13": 12
+    "2024/1/13": 31
   },
   "todaysWordCount": {
     "bwl v2.md": {
@@ -42,6 +42,10 @@
     "2.Klasse/Ipt/Vision.md": {
       "initial": 6,
       "current": 11
+    },
+    "2.Klasse/Mathe/polarformen komplexerzahlen.md": {
+      "initial": 6,
+      "current": 25
     }
   }
 }

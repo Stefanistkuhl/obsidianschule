@@ -5,16 +5,16 @@
   },
   "data": [
     {
-      "char": "ρ",
-      "name": "greek small letter rho",
-      "useCount": 1,
-      "lastUsed": 1707734083059
-    },
-    {
       "char": "Ω",
       "name": "ohm sign",
       "useCount": 4,
       "lastUsed": 1707734320393
+    },
+    {
+      "char": "ρ",
+      "name": "greek small letter rho",
+      "useCount": 1,
+      "lastUsed": 1707734083059
     },
     {
       "char": "β",
@@ -41722,7 +41722,9 @@
     },
     {
       "char": "ᵠ",
-      "name": "modifier letter small greek phi"
+      "name": "modifier letter small greek phi",
+      "useCount": 1,
+      "lastUsed": 1707839434402
     },
     {
       "char": "ʰ",
