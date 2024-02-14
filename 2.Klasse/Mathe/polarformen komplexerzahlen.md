@@ -41,8 +41,9 @@ Das grüne ist das was rauskommt nach der Berechnung mit dem Tanges, aber stimmt
 
 \huge{z=-3-5*j}
 \huge{\mathrm{Re}=-3,Im=-5}
-\huge{φ=\tan{^{-1}(\frac{-5}{-3})}=\tan{^{-1}(\frac{5}{3})}=59,04°}
+\huge{φ=\tan{^{-1}(\frac{-5}{-3})}=\tan{^{-1}(\frac{5}{3})}=59,04°=1,03}
 \huge{φ=180°+59,04°}
+\huge{φ=1,03°+\pi}
 ```
 ![[DR13-02-2024-18.excalidraw]]
 #### 4. Quadrant
@@ -57,9 +58,11 @@ Das grüne ist das was rauskommt nach der Berechnung mit dem Tanges, aber stimmt
 ![[DR13-02-2024-15.excalidraw]]
 #### 2 Ausnahmen
 ```math
+\mathrm{Re}=0
 ||{"id":1629106989282}||
 
-z=-2*j
+\huge{z=-2*j}
+\huge{φ=\frac{3}{2}*\pi=270°}
+\huge{z=2*j}
+\huge{φ=\frac{\pi}{2}=90°}
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
