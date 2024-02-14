@@ -1,7 +1,7 @@
 [[😖Mathiger]] [[🥲2te Klasse]] #m #2te_Klasse 
 
 ### <mark style="background: #FFB8EBA6;">Formern</mark>
-##### algeraische Normalform
+##### algeraische Normalform (Komponenform)
 $$\huge{z=a+b*j}$$
 ##### trigonometrische form
 $$\huge{z=r*(\cos(φ)*j*\sin(φ))}$$

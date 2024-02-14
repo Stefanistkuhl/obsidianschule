@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ea2f39abd62922d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Klasse/Mathe/polarformen komplexerzahlen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -155,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/betriebsysthme wiederholung.md",
+                "file": "2.Klasse/Mathe/polarformen komplexerzahlen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +212,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/betriebsysthme wiederholung.md"
+                "file": "2.Klasse/Mathe/polarformen komplexerzahlen.md"
               }
             }
           },
@@ -243,14 +255,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "f413e2e54465486d",
+  "active": "ea2f39abd62922d2",
   "lastOpenFiles": [
-    "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/transistor wiederholung.md",
     "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/betriebsysthme wiederholung.md",
+    "2.Klasse/Mathe/polarformen komplexerzahlen.md",
+    "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/transistor wiederholung.md",
     "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/frequenz sachen xd.md",
     "Zeichnungen/DR14-02-2024-16.excalidraw.md",
     "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/anitgrrrmatik v2.md",
-    "2.Klasse/Mathe/polarformen komplexerzahlen.md",
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
     "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/🤠antigrrrrrmatik.md",
     "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/grrrrrlektrotechnik v2 mit sin.md",

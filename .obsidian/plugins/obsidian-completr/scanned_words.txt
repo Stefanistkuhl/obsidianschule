@@ -329,6 +329,7 @@ KEAUI
 Kollektorstrom
 Kirchhof
 KJ
+Komponenform
 ggp
 genauen
 gibt
@@ -2171,6 +2172,7 @@ enrDbNEl
 eVRUp
 elektr
 eWZud
+entsprechen
 Übergange
 Übergänge
 Übergang
@@ -5156,6 +5158,7 @@ AZNJehsX
 AZPi
 AMO
 Atmosphäre
+Anwenders
 Griechisch
 Glauben
 Gewalt
@@ -6928,6 +6931,7 @@ Nxr
 Normalform
 NgnlSd
 Netzteile
+Nutzen
 Infizierte
 Indium
 Instanz
