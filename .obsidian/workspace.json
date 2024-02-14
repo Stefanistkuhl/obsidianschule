@@ -90,9 +90,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f91aff192309de74",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -167,7 +175,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Mathe/polarformen komplexezahlen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,9 +218,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "2.Klasse/Mathe/polarformen komplexezahlen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -255,10 +260,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "ea2f39abd62922d2",
+  "active": "f91aff192309de74",
   "lastOpenFiles": [
-    "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/betriebsysthme wiederholung.md",
     "2.Klasse/Mathe/polarformen komplexezahlen.md",
+    "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/betriebsysthme wiederholung.md",
     "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/transistor wiederholung.md",
     "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/frequenz sachen xd.md",
     "Zeichnungen/DR14-02-2024-16.excalidraw.md",
