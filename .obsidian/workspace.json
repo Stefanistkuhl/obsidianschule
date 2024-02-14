@@ -109,14 +109,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Medt/🫠Medientiger.md",
+                "file": "2.Klasse/Medt/Optimieren und Komprimieren.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "3dc5c3de82164f69",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Zeichnungen/DR14-02-2024-57.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -174,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "43b2197681096587",
@@ -190,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Medt/🫠Medientiger.md",
+                "file": "Zeichnungen/DR14-02-2024-57.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +246,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Medt/🫠Medientiger.md"
+                "file": "Zeichnungen/DR14-02-2024-57.excalidraw.md"
               }
             }
           },
@@ -278,8 +289,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "35d0d33d2230255c",
+  "active": "3dc5c3de82164f69",
   "lastOpenFiles": [
+    "2.Klasse/Medt/Optimieren und Komprimieren.md",
+    "Zeichnungen/DR14-02-2024-57.excalidraw.md",
+    "2.Klasse/Medt/medt v2.md",
+    "2.Klasse/Medt/🫠Medientiger.md",
     "2.Klasse/Ipt/Vision.md",
     "2.Klasse/Mathe/polarformen komplexezahlen.md",
     "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/betriebsysthme wiederholung.md",
@@ -303,10 +318,6 @@
     "DR13-02-2024-24.excalidraw.md",
     "Zeichnungen/DR13-02-2024-24.excalidraw.md",
     "Zeichnungen/DR12-02-2024-24.excalidraw.md",
-    "Zeichnungen/DR12-02-2024-24_0.excalidraw.md",
-    "Zeichnungen/DR12-02-2024-34.excalidraw.md",
-    "Privat/Soulskuhroring challanges notizen.md",
-    "2.Klasse/Mathe/😖Mathiger.md",
     "bilder/Pasted image 20240205193629.png",
     "2.Klasse/Deutsch/FUERST_2BHIT_STELLUNGNAHME.pdf",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/4.6.5 Packet Tracer - Connect a Wired and Wireless LAN.pka~",
