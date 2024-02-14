@@ -177,6 +177,7 @@ trigonometrische
 tHSm
 tiff
 tiefe
+trozdem
 Klasse
 Kreuzritter
 Klagenfurt
@@ -336,6 +337,9 @@ Komponenform
 Kette
 Knöchelchen
 Klangereignis
+Klang
+Komplexes
+Klanges
 ggp
 genauen
 gibt
@@ -2215,6 +2219,7 @@ entsprechende
 einfachste
 enthält
 einheit
+erkennbare
 Übergange
 Übergänge
 Übergang
@@ -3750,6 +3755,7 @@ Cjvy
 CfnwCo
 CkG
 Cochlea
+Charakterisk
 Urgeschichte
 Universitäten
 Ufern
@@ -4983,6 +4989,7 @@ Ose
 Ohren
 Oberfläche
 Obertöne
+Obertönen
 Alt
 Amerikas
 Atombindung
@@ -5448,6 +5455,7 @@ Gehirns
 Geräusche
 Gitarrenseite
 Grundton
+Grundfrequnez
 wurden
 wegen
 wird
@@ -6400,6 +6408,7 @@ Schallgeschw
 Sinuston
 Schwingung
 Sinuswelle
+Spektrum
 Handel
 Hygiene
 Halbleiter

@@ -26,3 +26,7 @@ W2 =  1000kΩ (Ausganswiederstand)
 l...länge in m
 A... Querschnitt in m²
 $$ ρ... Spezifischer Wiederstand = \frac{Ω*mm²}m{} $$
+
+
+
+[[diemensionierung transistor|dimensionierung]]
