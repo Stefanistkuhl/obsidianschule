@@ -25,7 +25,7 @@
     "2024/0/31": 5,
     "2024/1/12": 127,
     "2024/1/13": 306,
-    "2024/1/14": 393
+    "2024/1/14": 259
   },
   "todaysWordCount": {
     "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/anitgrrrmatik v2.md": {
@@ -82,11 +82,19 @@
     },
     "2.Klasse/Medt/Audio.md": {
       "initial": 2,
-      "current": 6
+      "current": 5
     },
     "notizen zu audio video.md": {
       "initial": 0,
-      "current": 225
+      "current": 42
+    },
+    "Ohr.md": {
+      "initial": 189,
+      "current": 188
+    },
+    "Audio Grundbegriffe.md": {
+      "initial": 1,
+      "current": 51
     }
   }
 }
