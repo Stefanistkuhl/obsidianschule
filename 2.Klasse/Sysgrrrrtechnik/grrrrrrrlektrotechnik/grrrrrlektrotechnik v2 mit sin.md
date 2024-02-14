@@ -1,5 +1,3 @@
-[[😡Grrrrrlektrotechnik]]
-[[🤠antigrrrrrmatik]]
-#2te_Klasse #syt
+[[😡Grrrrrlektrotechnik]] #2te_Klasse #syt
 
-[[transistor wiederholung]]
+![[transistor wiederholung]]
