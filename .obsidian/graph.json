@@ -8,6 +8,13 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "tag:#randoomminidinger  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395121
+      }
+    },
+    {
       "query": "tag:#d  ",
       "color": {
         "a": 1,
@@ -125,13 +132,6 @@
         "a": 1,
         "rgb": 5810430
       }
-    },
-    {
-      "query": "tag:#randoomminidinger  ",
-      "color": {
-        "a": 1,
-        "rgb": 5395121
-      }
     }
   ],
   "collapse-display": false,
@@ -144,6 +144,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 228,
-  "scale": 0.8760656572038965,
+  "scale": 0.8760656572038966,
   "close": false
 }
