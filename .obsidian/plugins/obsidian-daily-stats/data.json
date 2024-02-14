@@ -25,7 +25,7 @@
     "2024/0/31": 5,
     "2024/1/12": 127,
     "2024/1/13": 306,
-    "2024/1/14": 102
+    "2024/1/14": 161
   },
   "todaysWordCount": {
     "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/anitgrrrmatik v2.md": {
@@ -62,7 +62,7 @@
     },
     "2.Klasse/Medt/medt v2.md": {
       "initial": 0,
-      "current": 5
+      "current": 8
     },
     "2.Klasse/Medt/Komprimieren.md": {
       "initial": 0,
@@ -70,7 +70,11 @@
     },
     "2.Klasse/Medt/Optimieren und Komprimieren.md": {
       "initial": 9,
-      "current": 23
+      "current": 59
+    },
+    "2.Klasse/Medt/foto illustration unterschied.md": {
+      "initial": 0,
+      "current": 20
     }
   }
 }

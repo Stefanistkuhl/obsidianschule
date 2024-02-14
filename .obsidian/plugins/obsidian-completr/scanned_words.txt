@@ -556,6 +556,7 @@ gJf
 grüne
 gRf
 gsW
+gif
 Zettel
 Zwingen
 Zeichen
@@ -1576,6 +1577,8 @@ bsps
 bTQchQx
 bFeA
 brechnen
+bmp
+blend
 ist
 in
 im
@@ -1715,6 +1718,8 @@ iwaZiQ
 iEi
 ijsJ
 innen
+ico
+illustrationen
 dass
 die
 den
@@ -1932,6 +1937,7 @@ dGEy
 dW
 dOGuQp
 dFT
+deppat
 es
 entstanden
 entstehen
@@ -2178,6 +2184,7 @@ eVRUp
 elektr
 eWZud
 entsprechen
+entwicklen
 Übergange
 Übergänge
 Übergang
@@ -2497,6 +2504,7 @@ swipe
 sONVedBn
 stimmt
 slo
+svg
 und
 um
 ungefähr
@@ -2774,6 +2782,7 @@ kxVEh
 kennt
 kmh
 kByte
+kosten
 Jahreszahlen
 Jahresahlen
 Jura
@@ -4438,6 +4447,7 @@ vst
 vZhQEntd
 vMX
 vYApCB
+verlustlos
 West
 Welt
 Wachstum
@@ -4613,6 +4623,7 @@ WELGCi
 Welle
 Webseite
 WmQU
+Weibseiten
 Latein
 Leute
 Läuse
@@ -4783,6 +4794,7 @@ LTGkBCO
 Lüfter
 Läufer
 Laserschranke
+Lightroom
 Ost
 OS
 Obwohl
@@ -5528,6 +5540,7 @@ wTn
 wpT
 wYfvEe
 wFZy
+weiterbearbeiten
 christlichen
 code
 charakterisiert
@@ -5813,6 +5826,7 @@ zyOkzOxv
 ziSzyLEd
 zusatzdinger
 zZMj
+zählen
 Theologie
 Thema
 Teller
@@ -6282,6 +6296,7 @@ Szenario
 Strecke
 Schnitstelle
 Shell
+Seite
 Handel
 Hygiene
 Halbleiter
@@ -7094,6 +7109,7 @@ Imi
 InaKOR
 IJz
 Ioshit
+Illustration
 pest
 pos
 purpose
@@ -7274,6 +7290,8 @@ pgp
 passt
 paD
 pix
+png
+psd
 reiches
 real
 running
@@ -7465,6 +7483,8 @@ rauskommt
 rrI
 rZM
 refkletiert
+raw
+randoomminidinger
 hat
 hervorgerufen
 haben
@@ -7836,6 +7856,7 @@ Büroarbeit
 Basisstrom
 Berechnung
 Beide
+Bildformate
 Voraussetzungen
 Valenziabrücken
 Vekehrswesen
@@ -8013,6 +8034,7 @@ VMtNF
 VOy
 VqaQPL
 VfDIKjX
+Vektorgrafiken
 je
 jeder
 jeweils
@@ -8274,6 +8296,7 @@ lernt
 lJPVn
 lQs
 lacN
+logo
 Queue
 QHvC
 Qp

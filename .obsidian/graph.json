@@ -125,6 +125,13 @@
         "a": 1,
         "rgb": 5810430
       }
+    },
+    {
+      "query": "tag:#randoomminidinger  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395121
+      }
     }
   ],
   "collapse-display": false,

@@ -2,13 +2,14 @@
 
 
 ![[DR14-02-2024-57.excalidraw]]
+unkomprimiert das bild auf der Seite, obvi deppat weil langsam af dann und mehr kosten weil bild laden etc
 
 - Bildformate (pixel)
-	- jpg
-	- png
-	- tiff
-	- raw
-	- psd
+	- jpg ← Weibseiten
+	- png ← [[foto illustration unterschied|logo/illustration]]
+	- tiff ← für drucken weil verlustlos
+	- raw ← Fotografie (entwicklen in Lightroom)
+	- psd ← wenn zb weiterbearbeiten
 	- gif
 	- bmp
 	- ico
