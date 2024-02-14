@@ -335,6 +335,7 @@ KJ
 Komponenform
 Kette
 Knöchelchen
+Klangereignis
 ggp
 genauen
 gibt
@@ -1125,6 +1126,10 @@ DV
 Dort
 Durch
 DRPCZE
+Druckunterschiede
+Diese
+Durchlauf
+Durchläufe
 Problem
 Pest
 Portugal
@@ -1349,6 +1354,7 @@ PSO
 Pn
 Pulse
 PcVFgHXH
+Periode
 bei
 background
 bis
@@ -1592,6 +1598,8 @@ bmp
 blend
 bestehend
 bewegende
+breitet
+bewegt
 ist
 in
 im
@@ -1954,6 +1962,7 @@ dW
 dOGuQp
 dFT
 deppat
+druch
 es
 entstanden
 entstehen
@@ -2203,6 +2212,9 @@ entsprechen
 entwicklen
 elektrische
 entsprechende
+einfachste
+enthält
+einheit
 Übergange
 Übergänge
 Übergang
@@ -2805,6 +2817,7 @@ kmh
 kByte
 kosten
 komplexer
+keinerlei
 Jahreszahlen
 Jahresahlen
 Jura
@@ -3242,6 +3255,7 @@ mechanische
 mechanischen
 meine
 mittel
+menschlicher
 FFA
 Flüssen
 Furt
@@ -3896,6 +3910,7 @@ USr
 Unterbrechungen
 Unsere
 Umwandlung
+Ultraschall
 Mittelalter
 Merkmale
 Mönche
@@ -4122,6 +4137,8 @@ MPix
 Musik
 Mittelohr
 MJZoEUrU
+Materials
+Medium
 Rom
 Ratten
 Römischen
@@ -4491,6 +4508,8 @@ vibrierender
 versetzt
 versetzte
 verursachen
+verursacht
+vollen
 West
 Welt
 Wachstum
@@ -4668,6 +4687,7 @@ Webseite
 WmQU
 Weibseiten
 WjRRiXfK
+Wellenform
 Latein
 Leute
 Läuse
@@ -4841,6 +4861,8 @@ Laserschranke
 Lightroom
 Logo
 Langsame
+Luft
+Licghtgeschw
 Ost
 OS
 Obwohl
@@ -4960,6 +4982,7 @@ OWzx
 Ose
 Ohren
 Oberfläche
+Obertöne
 Alt
 Amerikas
 Atombindung
@@ -5422,6 +5445,9 @@ Gehirn
 Gehörgang
 Gehörknöchelchen
 Gehirns
+Geräusche
+Gitarrenseite
+Grundton
 wurden
 wegen
 wird
@@ -5597,6 +5623,7 @@ wFZy
 weiterbearbeiten
 wandeln
 weitergeleitet
+wahrnehmen
 christlichen
 code
 charakterisiert
@@ -6045,6 +6072,7 @@ TAdLz
 TgpHkJ
 Töne
 TwPjg
+Ton
 Städte
 Südamerika
 Spanien
@@ -6365,6 +6393,13 @@ Schwingungen
 Schalls
 Signale
 Spannungsunterscheide
+Sinnesseindrücke
+Schallsender
+Schallempfänger
+Schallgeschw
+Sinuston
+Schwingung
+Sinuswelle
 Handel
 Hygiene
 Halbleiter
@@ -6520,6 +6555,8 @@ Härchen
 Hörverlust
 Hörhrschnecke
 Höhrnerv
+Hetzt
+Höhrbereich
 an
 auf
 aus
@@ -7046,6 +7083,7 @@ Normalform
 NgnlSd
 Netzteile
 Nutzen
+Natur
 Infizierte
 Indium
 Instanz
@@ -7191,6 +7229,7 @@ IJz
 Ioshit
 Illustration
 Innenohr
+Infra
 pest
 pos
 purpose
@@ -7568,6 +7607,7 @@ raw
 randoomminidinger
 resultierenden
 rlTntFkr
+reiner
 hat
 hervorgerufen
 haben
@@ -7741,6 +7781,7 @@ hologramm
 hFnzF
 htS
 hbZl
+harmonische
 Bananen
 Buch
 Beschreiben
@@ -8120,6 +8161,8 @@ VqaQPL
 VfDIKjX
 Vektorgrafiken
 Vibrationen
+Vibration
+Vergliech
 je
 jeder
 jeweils
