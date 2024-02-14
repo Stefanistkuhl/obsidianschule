@@ -126,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichnungen/DR14-02-2024-57.excalidraw.md",
+                "file": "2.Klasse/Medt/Optimieren und Komprimieren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +246,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Zeichnungen/DR14-02-2024-57.excalidraw.md"
+                "file": "2.Klasse/Medt/Optimieren und Komprimieren.md"
               }
             }
           },
@@ -289,10 +289,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "3dc5c3de82164f69",
+  "active": "35d0d33d2230255c",
   "lastOpenFiles": [
-    "2.Klasse/Medt/Optimieren und Komprimieren.md",
     "Zeichnungen/DR14-02-2024-57.excalidraw.md",
+    "2.Klasse/Medt/Optimieren und Komprimieren.md",
     "2.Klasse/Medt/medt v2.md",
     "2.Klasse/Medt/🫠Medientiger.md",
     "2.Klasse/Ipt/Vision.md",
