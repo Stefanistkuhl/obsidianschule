@@ -85,6 +85,13 @@
       }
     },
     {
+      "query": "tag:#zusatzdinger",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
       "query": "tag:#2te_Klasse  ",
       "color": {
         "a": 1,
@@ -130,6 +137,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 228,
-  "scale": 0.8760656572038963,
+  "scale": 0.8760656572038964,
   "close": false
 }

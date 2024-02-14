@@ -683,6 +683,8 @@ Zyhw
 ZTsQ
 Zqv
 ZgyA
+Zeitmessung
+ZZLI
 Epochen
 Entdeckung
 Erste
@@ -1328,6 +1330,8 @@ PjuHR
 PDo
 PGM
 Peripherie
+PTVu
+PSO
 bei
 background
 bis
@@ -1566,6 +1570,7 @@ brief
 bsps
 bTQchQx
 bFeA
+brechnen
 ist
 in
 im
@@ -2164,6 +2169,7 @@ edges
 enrDbNEl
 eVRUp
 elektr
+eWZud
 Übergange
 Übergänge
 Übergang
@@ -2625,6 +2631,8 @@ uzkGYRWp
 uni
 uozAKVTR
 umgewandelt
+uhjBHMaj
+unterbrochen
 keine
 konnten
 kein
@@ -2755,6 +2763,7 @@ katICILD
 kSA
 kAw
 kxVEh
+kennt
 Jahreszahlen
 Jahresahlen
 Jura
@@ -3185,6 +3194,7 @@ mxA
 mLxRegq
 mRNi
 mIXfSuwZ
+messen
 FFA
 Flüssen
 Furt
@@ -3366,6 +3376,7 @@ FttkRCN
 FLnVBfhE
 Frequenz
 Festplatten
+FBzraVZb
 nach
 neue
 negativen
@@ -3669,6 +3680,8 @@ Class
 CWlUybtZ
 CHoO
 CyTDwuqp
+Cjvy
+CfnwCo
 Urgeschichte
 Universitäten
 Ufern
@@ -3823,6 +3836,10 @@ UBE
 UeS
 UDA
 UOzcsDjC
+UxhyMTuQ
+UMHGdE
+USr
+Unterbrechungen
 Mittelalter
 Merkmale
 Mönche
@@ -4746,6 +4763,8 @@ Leiche
 LqoAoR
 LTGkBCO
 Lüfter
+Läufer
+Laserschranke
 Ost
 OS
 Obwohl
@@ -5315,6 +5334,7 @@ Gleichstromrichtung
 Glh
 GgBkY
 GpzEDoaT
+Geschw
 wurden
 wegen
 wird
@@ -6232,6 +6252,9 @@ SsrAd
 Signal
 Sender
 Shit
+SpqSuDz
+Szenario
+Strecke
 Handel
 Hygiene
 Halbleiter
@@ -6376,6 +6399,7 @@ Hausaufgaben
 Heuberger
 HUNDESOHN
 HRkTS
+HIU
 an
 auf
 aus
@@ -7580,6 +7604,8 @@ hbDGKnlu
 homosexuell
 hologramm
 hFnzF
+htS
+hbZl
 Bananen
 Buch
 Beschreiben
@@ -8290,6 +8316,7 @@ Querschnitt
 Quadrant
 QzRupGOM
 QobdJc
+QcVaZdMI
 überall
 übersetzt
 übernehmen
@@ -8388,6 +8415,7 @@ xrmB
 xpVGUl
 xhEa
 xz
+xJhGETDx
 YmKqNai
 YY
 YS
@@ -8464,6 +8492,7 @@ YFKLLKtk
 YpowUI
 YXO
 YA
+YoO
 Öffnung
 Öffentliche
 Österreicher

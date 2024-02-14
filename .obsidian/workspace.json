@@ -100,9 +100,17 @@
                 "file": "Zeichnungen/DR14-02-2024-16.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "ed2dd379a4314727",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -131,7 +139,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Windoof",
+                "query": "tag:#zusatzdinger",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,7 +185,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichnungen/DR14-02-2024-16.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,9 +228,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Zeichnungen/DR14-02-2024-16.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -265,11 +270,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "a49aae5b91515962",
+  "active": "ed2dd379a4314727",
   "lastOpenFiles": [
-    "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/betriebsysthme wiederholung.md",
     "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/frequenz sachen xd.md",
     "Zeichnungen/DR14-02-2024-16.excalidraw.md",
+    "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/betriebsysthme wiederholung.md",
     "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/anitgrrrmatik v2.md",
     "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/transistor wiederholung.md",
     "2.Klasse/Mathe/polarformen komplexerzahlen.md",
