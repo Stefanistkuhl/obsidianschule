@@ -102,9 +102,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "35d0d33d2230255c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Klasse/Medt/🫠Medientiger.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -179,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Ipt/Vision.md",
+                "file": "2.Klasse/Medt/🫠Medientiger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +236,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Ipt/Vision.md"
+                "file": "2.Klasse/Medt/🫠Medientiger.md"
               }
             }
           },
@@ -267,8 +279,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "f91aff192309de74",
+  "active": "35d0d33d2230255c",
   "lastOpenFiles": [
+    "2.Klasse/Ipt/Vision.md",
     "2.Klasse/Mathe/polarformen komplexezahlen.md",
     "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/betriebsysthme wiederholung.md",
     "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/transistor wiederholung.md",
@@ -283,7 +296,6 @@
     "Zeichnungen/DR13-02-2024-59.excalidraw.md",
     "Zeichnungen/DR13-02-2024-34.excalidraw.md",
     "Privat/ccna theorie ipv4.md",
-    "2.Klasse/Ipt/Vision.md",
     "2.Klasse/Ipt/😐Bwl Tiger.md",
     "Untitled.canvas",
     "Zeichnungen/DR13-02-2024-26.excalidraw.md",
