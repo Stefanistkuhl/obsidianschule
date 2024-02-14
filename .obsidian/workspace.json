@@ -95,8 +95,12 @@
             "id": "f91aff192309de74",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2.Klasse/Ipt/Vision.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -175,6 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2.Klasse/Ipt/Vision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +223,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2.Klasse/Ipt/Vision.md"
+              }
             }
           },
           {

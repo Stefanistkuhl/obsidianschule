@@ -25,7 +25,7 @@
     "2024/0/31": 5,
     "2024/1/12": 127,
     "2024/1/13": 306,
-    "2024/1/14": 79
+    "2024/1/14": 80
   },
   "todaysWordCount": {
     "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/anitgrrrmatik v2.md": {
@@ -55,6 +55,10 @@
     "2.Klasse/Mathe/polarformen komplexezahlen.md": {
       "initial": 301,
       "current": 301
+    },
+    "2.Klasse/Ipt/Vision.md": {
+      "initial": 11,
+      "current": 12
     }
   }
 }
