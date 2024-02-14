@@ -80,28 +80,6 @@
             }
           },
           {
-            "id": "591c69d95153a9b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/frequenz sachen xd.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a49aae5b91515962",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Zeichnungen/DR14-02-2024-16.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "ed2dd379a4314727",
             "type": "leaf",
             "state": {
@@ -110,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -185,6 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/betriebsysthme wiederholung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +207,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/betriebsysthme wiederholung.md"
+              }
             }
           },
           {
@@ -270,7 +251,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "ed2dd379a4314727",
+  "active": "f413e2e54465486d",
   "lastOpenFiles": [
     "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/frequenz sachen xd.md",
     "Zeichnungen/DR14-02-2024-16.excalidraw.md",
