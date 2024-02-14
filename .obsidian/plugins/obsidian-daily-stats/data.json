@@ -25,16 +25,20 @@
     "2024/0/31": 5,
     "2024/1/12": 127,
     "2024/1/13": 306,
-    "2024/1/14": 5
+    "2024/1/14": 30
   },
   "todaysWordCount": {
     "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/anitgrrrmatik v2.md": {
       "initial": 0,
-      "current": 5
+      "current": 7
     },
     "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/grrrrrlektrotechnik v2 mit sin.md": {
       "initial": 5,
       "current": 5
+    },
+    "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/betriebsysthme wiederholung.md": {
+      "initial": 0,
+      "current": 23
     }
   }
 }
