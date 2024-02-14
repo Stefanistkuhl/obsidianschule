@@ -2,6 +2,6 @@
 
 - Ose: Linux, Windoof, Shit Os, Android, Ioshit
 - Hardware
-	- Mainboard, CPU, Festplatten, Lüfter, Netzteile, Arbeitsspeicher, I/O Ports/Geräte (Peripherie),  
+	- Mainboard, CPU, Festplatten, Lüfter, Netzteile, Arbeitsspeicher, I/O Ports/Geräte (Peripherie), Laufwerke ([[frequenz sachen xd]])  
 - Software
 	- 

@@ -890,6 +890,8 @@ Emq
 EUAD
 EoaOKNya
 ESnzuj
+Empfänger
+Erde
 Das
 Dasselbe
 Diode
@@ -1325,6 +1327,7 @@ POS
 PjuHR
 PDo
 PGM
+Peripherie
 bei
 background
 bis
@@ -2160,6 +2163,7 @@ eDEUGQQN
 edges
 enrDbNEl
 eVRUp
+elektr
 Übergange
 Übergänge
 Übergang
@@ -2478,6 +2482,7 @@ spicy
 swipe
 sONVedBn
 stimmt
+slo
 und
 um
 ungefähr
@@ -2619,6 +2624,7 @@ uYgzEhl
 uzkGYRWp
 uni
 uozAKVTR
+umgewandelt
 keine
 konnten
 kein
@@ -3358,6 +3364,8 @@ Formern
 FMtOc
 FttkRCN
 FLnVBfhE
+Frequenz
+Festplatten
 nach
 neue
 negativen
@@ -4036,6 +4044,7 @@ Mirrorspace
 Methoden
 MHIaKObN
 MyY
+Mrj
 Rom
 Ratten
 Römischen
@@ -4568,6 +4577,7 @@ Weshalb
 Wozu
 WatDLiS
 WELGCi
+Welle
 Latein
 Leute
 Läuse
@@ -4735,6 +4745,7 @@ Lastigkeit
 Leiche
 LqoAoR
 LTGkBCO
+Lüfter
 Ost
 OS
 Obwohl
@@ -4851,6 +4862,7 @@ Organizations
 OF
 OgpZWC
 OWzx
+Ose
 Alt
 Amerikas
 Atombindung
@@ -5120,6 +5132,7 @@ AJos
 AZNJehsX
 AZPi
 AMO
+Atmosphäre
 Griechisch
 Glauben
 Gewalt
@@ -5629,6 +5642,7 @@ clNsxe
 ccna
 cSBUXGqr
 cqSivP
+cJAogZlG
 zu
 zum
 zur
@@ -5755,6 +5769,7 @@ zxoP
 zDeyVlkI
 zyOkzOxv
 ziSzyLEd
+zusatzdinger
 Theologie
 Thema
 Teller
@@ -6214,6 +6229,9 @@ SLXDo
 Sk
 SKL
 SsrAd
+Signal
+Sender
+Shit
 Handel
 Hygiene
 Halbleiter
@@ -6746,6 +6764,7 @@ otmQu
 oPWWMdUI
 ozv
 oOy
+oTqV
 Namen
 Neuzeit
 Nord
@@ -6876,6 +6895,7 @@ NICHT
 Nxr
 Normalform
 NgnlSd
+Netzteile
 Infizierte
 Indium
 Instanz
@@ -7018,6 +7038,7 @@ Ib
 Imi
 InaKOR
 IJz
+Ioshit
 pest
 pos
 purpose
@@ -7386,6 +7407,8 @@ recovery
 range
 rauskommt
 rrI
+rZM
+refkletiert
 hat
 hervorgerufen
 haben
@@ -7754,6 +7777,7 @@ Bürokratie
 Büroarbeit
 Basisstrom
 Berechnung
+Beide
 Voraussetzungen
 Valenziabrücken
 Vekehrswesen
@@ -8439,6 +8463,7 @@ YtUXn
 YFKLLKtk
 YpowUI
 YXO
+YA
 Öffnung
 Öffentliche
 Österreicher
@@ -8617,6 +8642,7 @@ XCyah
 XtJXJJt
 XywtKxly
 XQM
+XwPSQhnO
 qs
 qJ
 qAne
