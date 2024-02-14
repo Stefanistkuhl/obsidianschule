@@ -174,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -249,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diemensionierung transistor.md",
+                "file": "Zeichnungen/DR22-01-2024-30.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,7 +294,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "diemensionierung transistor.md"
+                "file": "Zeichnungen/DR22-01-2024-30.excalidraw.md"
               }
             }
           },
@@ -337,11 +337,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "625c1e8cc0ce2e6c",
+  "active": "a27a8e657c2fd7d5",
   "lastOpenFiles": [
+    "diemensionierung transistor.md",
     "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/transistor.md",
     "Zeichnungen/DR12-02-2024-24.excalidraw.md",
-    "diemensionierung transistor.md",
     "Zeichnungen/DR22-01-2024-30.excalidraw.md",
     "2.Klasse/Medt/Optimieren und Komprimieren.md",
     "2.Klasse/Medt/🫠Medientiger.md",
