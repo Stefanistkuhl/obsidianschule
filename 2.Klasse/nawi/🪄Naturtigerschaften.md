@@ -106,7 +106,10 @@ Wenn die höchsten s und p Orbitale voll besetzt sind, befindet sich das Atom in
 	- Meist zw Metall und Nichtmetallen.
 	- Ein Atom gibt e- ab, ein anders Atom nimmt sie auf.
 	- Bsp: Na O
-	- 
+	- ![[DR15-02-2024-15.excalidraw]]
+	- Diese Verbindungen nemmt man <mark style="background: #FFB8EBA6;">Salze</mark>
 - e- Paarbindung
-	- 
+	- Meist zw Nichtmetallen.
+	- Atome bilden e- Paare, indem sie ihre Orbitale vereinigen.
+	- Bsp:
 - Metallbindung
