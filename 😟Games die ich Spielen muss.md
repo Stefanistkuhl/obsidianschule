@@ -6,7 +6,7 @@ tags:
 
 > Regeln: Wenn ass Spiel abrechen erlaubt obvi
 
-| game | dauer | besitz | bedürfnis | fertig | bewertung |
+| game | dauer | besitz | erwartung | fertig | bewertung |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | LIES OF P |  | ja | 11 |  |  |
 | Baldurs Gate 3 |  | nein | 8 |  |  |
