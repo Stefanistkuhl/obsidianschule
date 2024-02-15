@@ -128,3 +128,4 @@ Allgemein: Es gibt immer die Valzenz e- im Spiel
 
 > Wichtigster Vertreter Silizium Si (4te HG)
 
+

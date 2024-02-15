@@ -174,9 +174,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "960556a68eb14ef7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Zeichnungen/DR15-02-2024-34_0.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -251,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/nawi/🪄Naturtigerschaften.md",
+                "file": "Zeichnungen/DR15-02-2024-34_0.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +306,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/nawi/🪄Naturtigerschaften.md"
+                "file": "Zeichnungen/DR15-02-2024-34_0.excalidraw.md"
               }
             }
           },
@@ -339,10 +349,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "f5447c4d446257fe",
+  "active": "960556a68eb14ef7",
   "lastOpenFiles": [
-    "Zeichnungen/DR15-02-2024-34.excalidraw.md",
+    "Zeichnungen/DR15-02-2024-34_0.excalidraw.md",
     "2.Klasse/nawi/🪄Naturtigerschaften.md",
+    "Zeichnungen/DR15-02-2024-34.excalidraw.md",
     "Zeichnungen/DR15-02-2024-46.excalidraw.md",
     "Zeichnungen/DR15-02-2024-15.excalidraw.md",
     "diemensionierung transistor.md",
@@ -367,7 +378,6 @@
     "2.Klasse/Ipt/Vision.md",
     "Zeichnungen/DR14-02-2024-57.excalidraw.md",
     "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/betriebsysthme wiederholung.md",
-    "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/frequenz sachen xd.md",
     "Untitled.canvas",
     "bilder/Pasted image 20240205193629.png",
     "2.Klasse/Deutsch/FUERST_2BHIT_STELLUNGNAHME.pdf",
