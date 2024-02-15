@@ -118,3 +118,6 @@ Wenn die höchsten s und p Orbitale voll besetzt sind, befindet sich das Atom in
 	- zwischen Metallen
 	- Die Metallatome geben e- ab.
 	- Bsp Natrium
+	- ![[DR15-02-2024-34.excalidraw]]
+	- Delokalisierte e- im Gitter (e- sind frei im Gitter verteilt) Kurz: Na
+	- Diese Verbindungen nennt man <mark style="background: #FFB8EBA6;">Metalle</mark> oder <mark style="background: #FFB8EBA6;">Legierung</mark> (Bei verschienden Metallen)
