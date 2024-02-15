@@ -112,4 +112,9 @@ Wenn die höchsten s und p Orbitale voll besetzt sind, befindet sich das Atom in
 	- Meist zw Nichtmetallen.
 	- Atome bilden e- Paare, indem sie ihre Orbitale vereinigen.
 	- Bsp:
+	- ![[DR15-02-2024-46.excalidraw]]
+	- Diese Verbindungen nennt man <mark style="background: #FFB8EBA6;">Molekühle</mark>
 - Metallbindung
+	- zwischen Metallen
+	- Die Metallatome geben e- ab.
+	- Bsp Natrium
