@@ -98,3 +98,15 @@ Wenn die höchsten s und p Orbitale voll besetzt sind, befindet sich das Atom in
 ### <mark style="background: #FFB8EBA6;">Kohlenstoff-Atom C (kein Teststoff)</mark>
 
 ![[DR23-11-2023-54.excalidraw]]
+
+
+### <mark style="background: #FFB8EBA6;">Überblick Bindungarten</mark>
+
+- Ionenbindung
+	- Meist zw Metall und Nichtmetallen.
+	- Ein Atom gibt e- ab, ein anders Atom nimmt sie auf.
+	- Bsp: Na O
+	- 
+- e- Paarbindung
+	- 
+- Metallbindung

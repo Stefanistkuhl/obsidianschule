@@ -80,16 +80,6 @@
             }
           },
           {
-            "id": "a27a8e657c2fd7d5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Zeichnungen/DR22-01-2024-30.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "f413e2e54465486d",
             "type": "leaf",
             "state": {
@@ -172,9 +162,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f5447c4d446257fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Klasse/nawi/🪄Naturtigerschaften.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb0c0979777d4337",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Zeichnungen/DR15-02-2024-15.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -249,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Medt/Optimieren und Komprimieren.md",
+                "file": "Zeichnungen/DR15-02-2024-15.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,7 +306,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Medt/Optimieren und Komprimieren.md"
+                "file": "Zeichnungen/DR15-02-2024-15.excalidraw.md"
               }
             }
           },
@@ -337,13 +349,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "01f2abf2fd458c7e",
+  "active": "bb0c0979777d4337",
   "lastOpenFiles": [
-    "Zeichnungen/DR22-01-2024-30.excalidraw.md",
+    "2.Klasse/nawi/🪄Naturtigerschaften.md",
+    "Zeichnungen/DR15-02-2024-15.excalidraw.md",
     "diemensionierung transistor.md",
+    "Zeichnungen/DR22-01-2024-30.excalidraw.md",
+    "2.Klasse/Medt/Optimieren und Komprimieren.md",
     "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/transistor.md",
     "Zeichnungen/DR12-02-2024-24.excalidraw.md",
-    "2.Klasse/Medt/Optimieren und Komprimieren.md",
     "2.Klasse/Medt/🫠Medientiger.md",
     "Zeichnungen/DR14-02-2024-59.excalidraw.md",
     "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/😡Grrrrrlektrotechnik.md",
@@ -364,8 +378,6 @@
     "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/frequenz sachen xd.md",
     "Zeichnungen/DR14-02-2024-16.excalidraw.md",
     "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/anitgrrrmatik v2.md",
-    "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
-    "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/🤠antigrrrrrmatik.md",
     "Untitled.canvas",
     "bilder/Pasted image 20240205193629.png",
     "2.Klasse/Deutsch/FUERST_2BHIT_STELLUNGNAHME.pdf",
