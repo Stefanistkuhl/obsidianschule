@@ -129,4 +129,4 @@ Allgemein: Es gibt immer die Valzenz e- im Spiel
 > Wichtigster Vertreter Silizium Si (4te HG)
 
 ![[DR15-02-2024-34_0.excalidraw]]
-Die e- von Si sind schwach gebunden, dass die e- Orbitale verlassen können.
+Die e- von Si sind schwach gebunden, dass die e- Orbitale verlassen können.  
