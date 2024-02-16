@@ -148,6 +148,4 @@ D:
 	- <mark style="background: #FFB8EBA6;">Full duplex communication</mark>
 		- both devices simultaneously transmit/receive on a shared medium
 		- ethernet switches operate in full duplex
-- teststoff physical und datalink layer tcpip und osi trz können weil obvi vorraussetzung wlan großer punkt
-- testsetsetsetsetsetsetsetset
 
