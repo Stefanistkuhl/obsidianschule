@@ -150,3 +150,4 @@ D:
 		- ethernet switches operate in full duplex
 - teststoff physical und datalink layer tcpip und osi trz können weil obvi vorraussetzung wlan großer punkt
 - testsetsetsetsetsetsetsetset
+
