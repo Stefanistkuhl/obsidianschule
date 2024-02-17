@@ -1,0 +1,9 @@
+.workspace-tab-header-container {
+    background-color: rgb(224, 109, 253); /* change this to your desired colour */
+    color: #000000;
+  }
+  
+  /* additional code for windows min,mix buttons */
+  .titlebar-button-container {
+    background-color: transparent !important;
+  }
