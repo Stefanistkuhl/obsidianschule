@@ -5,7 +5,9 @@
     "clutter-free-headings",
     "clutter-free-formatting",
     "checkbox",
-    "styles"
+    "styles",
+    "test",
+    "fancyblock_quouate"
   ],
   "accentColor": "#ffc7c7",
   "interfaceFontFamily": "Cascadia Mono,Comic Sans MS",
