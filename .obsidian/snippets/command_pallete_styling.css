@@ -1,0 +1,32 @@
+.prompt {
+    border: solid rgb(255, 199, 199);
+    opacity: 0.9;
+  }
+  
+  .suggestion-highlight {
+    text-decoration: none;
+    color: var(--text-accent);
+  }
+  
+  .suggestion-item.is-selected {
+    border: solid rgb(255, 199, 199);
+    border-radius: 14px;
+  }
+  
+  .suggestion-hotkey {
+    background-color: rgb(255, 199, 199);
+    color: black;
+    border-radius: 10px;
+    font-weight: 500;
+  }
+  
+  .prompt-instruction {
+    font-weight: 500;
+  }
+  
+  .prompt-instruction-command {
+    background-color: rgba(255, 250, 254, 0.5);
+    color: black;
+    border-radius: 10px;
+    padding: 0 3px 0 3px;
+  }

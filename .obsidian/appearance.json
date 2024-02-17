@@ -9,7 +9,8 @@
     "test",
     "fancyblock_quouate",
     "fancy_checkboxen",
-    "codeblocks_besa"
+    "codeblocks_besa",
+    "command_pallete_styling"
   ],
   "accentColor": "#ffc7c7",
   "interfaceFontFamily": "Cascadia Mono,Comic Sans MS",
