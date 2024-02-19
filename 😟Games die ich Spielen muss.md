@@ -26,6 +26,7 @@ tags:
 | Witcher 3 |  | nein | 2 |  |  |
 | celeste | 13h | ja | 1 | ja | 11/10 |
 | botw |  | nein | 1 |  |  |
+| gow 2018 (für karla/flora) |  | nein | 1 |  |  |
 
 
 ##### idi
