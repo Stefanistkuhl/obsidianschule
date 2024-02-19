@@ -958,6 +958,7 @@ Enter
 Eingabetext
 Eingabetextes
 Esb
+Eingang
 Das
 Dasselbe
 Diode
@@ -1192,6 +1193,8 @@ Download
 Datenverkehr
 Dateinamen
 Den
+Differenzspannung
+Diffenzverstärkung
 Problem
 Pest
 Portugal
@@ -3794,6 +3797,7 @@ nemmt
 nochmal
 ner
 names
+nichtinvertierenden
 Christus
 Christianisierung
 Christentum
@@ -4113,6 +4117,7 @@ Ultraschall
 Ur
 UND
 Und
+UD
 Mittelalter
 Merkmale
 Mönche
@@ -5529,6 +5534,7 @@ Augenkrebs
 Anfragen
 Alphabet
 Anhand
+Ausgangspannung
 Griechisch
 Glauben
 Gewalt
