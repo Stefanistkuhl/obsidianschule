@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "08653ad50dd5caee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "idi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f413e2e54465486d",
             "type": "leaf",
             "state": {
@@ -164,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -222,8 +234,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "43b2197681096587",
@@ -239,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privat/soulskuhroring challegerun liste.md",
+                "file": "idi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,7 +295,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Privat/soulskuhroring challegerun liste.md"
+                "file": "idi.md"
               }
             }
           },
@@ -327,9 +338,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "2b72278c2b46b2df",
+  "active": "08653ad50dd5caee",
   "lastOpenFiles": [
     "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/diemensionierung transistor.md",
+    "idi.md",
+    "Privat/soulskuhroring challegerun liste.md",
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
     "Privat/Homelab/Filmliste.md",
     "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/betriebsysthme wiederholung.md",
@@ -363,8 +376,6 @@
     "Zeichnungen/DR12-02-2024-24.excalidraw.md",
     "2.Klasse/Medt/🫠Medientiger.md",
     "Zeichnungen/DR14-02-2024-59.excalidraw.md",
-    "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/😡Grrrrrlektrotechnik.md",
-    "2.Klasse/Medt/Audio Grundbegriffe.md",
     "bilder/Pasted Image 20240214142018_828.png",
     "Untitled.canvas",
     "bilder/Pasted image 20240205193629.png",
