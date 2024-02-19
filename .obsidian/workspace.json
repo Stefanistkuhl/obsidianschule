@@ -174,31 +174,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3fcb249e5e7da8ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/Operationsverstärker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69bad68f46901e56",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Zeichnungen/DR19-02-2024-29.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -273,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/Operationsverstärker.md",
+                "file": "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/grrrrrlektrotechnik v2 mit sin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -318,7 +296,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/Operationsverstärker.md"
+                "file": "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/grrrrrlektrotechnik v2 mit sin.md"
               }
             }
           },
@@ -361,8 +339,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "3fcb249e5e7da8ca",
+  "active": "66ac3bb7a5675e96",
   "lastOpenFiles": [
+    "Privat/Gwyndolin Cosplay.md",
     "Zeichnungen/DR19-02-2024-29.excalidraw.md",
     "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/Operationsverstärker.md",
     "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/grrrrrlektrotechnik v2 mit sin.md",
@@ -398,7 +377,6 @@
     "Zeichnungen/DR15-02-2024-15.excalidraw.md",
     "Zeichnungen/DR22-01-2024-30.excalidraw.md",
     "2.Klasse/Medt/Optimieren und Komprimieren.md",
-    "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/transistor.md",
     "bilder/Pasted Image 20240214142018_828.png",
     "Untitled.canvas",
     "bilder/Pasted image 20240205193629.png",

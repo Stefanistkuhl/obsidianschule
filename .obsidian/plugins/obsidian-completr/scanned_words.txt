@@ -959,6 +959,7 @@ Eingabetext
 Eingabetextes
 Esb
 Eingang
+Edz
 Das
 Dasselbe
 Diode
@@ -1195,6 +1196,7 @@ Dateinamen
 Den
 Differenzspannung
 Diffenzverstärkung
+DtXbl
 Problem
 Pest
 Portugal
@@ -1428,6 +1430,7 @@ Passworts
 Parameter
 Programmes
 Properties
+PUV
 bei
 background
 bis
@@ -3266,6 +3269,7 @@ faul
 fot
 format
 forEach
+fang
 mark
 mit
 mangelnder
@@ -4546,6 +4550,7 @@ REWARD
 Rätsels
 Runtergeladen
 Rückgängig
+RiQG
 vor
 verbreiten
 vom
@@ -4935,6 +4940,7 @@ Werten
 Wichtig
 Wortes
 Wkw
+Wtf
 Latein
 Leute
 Läuse
@@ -7197,6 +7203,7 @@ appState
 anweden
 asRyvT
 aQI
+aqjNbQd
 oft
 oder
 os

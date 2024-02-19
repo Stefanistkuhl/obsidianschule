@@ -2,3 +2,4 @@
 
 ![[transistor]]
 ![[Operationsverstärker]]
+
