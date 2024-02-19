@@ -1674,6 +1674,7 @@ buchstabe
 buchstaben
 beginnt
 backgroundColor
+boss
 ist
 in
 im
@@ -2987,6 +2988,7 @@ klammer
 komplizierter
 keys
 key
+kills
 Jahreszahlen
 Jahresahlen
 Jura
@@ -7980,6 +7982,7 @@ rWGF
 retten
 reward
 return
+runs
 hat
 hervorgerufen
 haben

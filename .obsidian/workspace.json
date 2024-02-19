@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "cd123984ebb59f96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Privat/Soulskuhroring challanges notizen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cef4ac9f2ee33f8c",
             "type": "leaf",
             "state": {
@@ -162,9 +150,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2b72278c2b46b2df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Privat/soulskuhroring challegerun liste.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -239,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/diemensionierung transistor.md",
+                "file": "Privat/soulskuhroring challegerun liste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,7 +284,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/diemensionierung transistor.md"
+                "file": "Privat/soulskuhroring challegerun liste.md"
               }
             }
           },
@@ -327,8 +327,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "625c1e8cc0ce2e6c",
+  "active": "2b72278c2b46b2df",
   "lastOpenFiles": [
+    "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/diemensionierung transistor.md",
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
     "Privat/Homelab/Filmliste.md",
     "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/betriebsysthme wiederholung.md",
@@ -356,7 +357,6 @@
     "Zeichnungen/DR15-02-2024-34.excalidraw.md",
     "Zeichnungen/DR15-02-2024-46.excalidraw.md",
     "Zeichnungen/DR15-02-2024-15.excalidraw.md",
-    "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/diemensionierung transistor.md",
     "Zeichnungen/DR22-01-2024-30.excalidraw.md",
     "2.Klasse/Medt/Optimieren und Komprimieren.md",
     "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/transistor.md",

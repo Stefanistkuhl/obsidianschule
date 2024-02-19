@@ -5,7 +5,12 @@
     "clutter-free-headings",
     "clutter-free-formatting",
     "checkbox",
-    "styles"
+    "styles",
+    "fancyblock_quouate",
+    "codeblocks_besa",
+    "command_pallete_styling",
+    "fancy_checkboxen",
+    "xd"
   ],
   "accentColor": "#ffc7c7",
   "interfaceFontFamily": "Cascadia Mono,Comic Sans MS",
