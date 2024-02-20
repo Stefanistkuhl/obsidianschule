@@ -1,4 +1,12 @@
---- 
+---
+
+---
+---
+header-left: "My Project Name"
+header-right: "Page {page}"
+footer-center: "© 2024 All Rights Reserved"
+---
+
 Laborprotokoll
 
 Bild 
