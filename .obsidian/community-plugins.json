@@ -31,5 +31,6 @@
   "ninja-cursor",
   "arrows",
   "templater-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "auto-note-mover"
 ]
