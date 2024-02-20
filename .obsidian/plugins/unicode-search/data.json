@@ -7,8 +7,14 @@
     {
       "char": "Ω",
       "name": "ohm sign",
-      "useCount": 4,
-      "lastUsed": 1707734320393
+      "useCount": 6,
+      "lastUsed": 1708419098884
+    },
+    {
+      "char": "ᵠ",
+      "name": "modifier letter small greek phi",
+      "useCount": 1,
+      "lastUsed": 1707839434402
     },
     {
       "char": "ρ",
@@ -41719,12 +41725,6 @@
     {
       "char": "ᵞ",
       "name": "modifier letter small greek gamma"
-    },
-    {
-      "char": "ᵠ",
-      "name": "modifier letter small greek phi",
-      "useCount": 1,
-      "lastUsed": 1707839434402
     },
     {
       "char": "ʰ",

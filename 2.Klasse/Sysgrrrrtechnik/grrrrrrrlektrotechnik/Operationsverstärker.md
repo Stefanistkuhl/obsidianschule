@@ -6,7 +6,9 @@
 > Ua ... Ausgangspannung
 > UD = Up-Un ... Differenzspannung
 > Vd = Ua/Ud ... Diffenzverstärkung
-> Bandbreite ... ⇐ 100 MHz
+> Bandbreite ... < = 100 MHz
+> Ausgangswiederstand ... ra ca 30 bis 100Ω (sollte klein sein)
+> Eingangswiederstand ... re ca 10^6 bis 10^12Ω  
 
 
 
