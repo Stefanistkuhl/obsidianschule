@@ -80,18 +80,6 @@
             }
           },
           {
-            "id": "f91aff192309de74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.Klasse/Ipt/Vision.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b871064720c5687a",
             "type": "leaf",
             "state": {
@@ -174,9 +162,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2e0d231e8ecd456e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Klasse/Ipt/bwl v2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6e569a73e9af01d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Klasse/Ipt/Projektmagment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7477cbc92c188c57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Klasse/Ipt/4 Team Phase.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -251,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Ipt/Vision.md",
+                "file": "2.Klasse/Ipt/4 Team Phase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +320,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Ipt/Vision.md"
+                "file": "2.Klasse/Ipt/4 Team Phase.md"
               }
             }
           },
@@ -339,8 +363,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "f91aff192309de74",
+  "active": "7477cbc92c188c57",
   "lastOpenFiles": [
+    "2.Klasse/Ipt/4 Team Phase.md",
+    "2.Klasse/Ipt/Projektmagment.md",
+    "Zeichnungen/DR20-02-2024-25.excalidraw.md",
+    "Zeichnungen/DR20-02-2024-43.excalidraw.md",
+    "2.Klasse/Ipt/bwl v2.md",
+    "2.Klasse/Mathe/polarformen komplexezahlen.md",
+    "2.Klasse/Ipt/😐Bwl Tiger.md",
+    "2.Klasse/Ipt/Vision.md",
     "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/grrrrrlektrotechnik v2 mit sin.md",
     "😟Games die ich Spielen muss.md",
     "Privat/Gwyndolin Cosplay.md",
@@ -352,8 +384,6 @@
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
     "Privat/Homelab/Filmliste.md",
     "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/betriebsysthme wiederholung.md",
-    "2.Klasse/Mathe/polarformen komplexezahlen.md",
-    "2.Klasse/Ipt/Vision.md",
     "Privat/🛜ccna theroie.md",
     "Privat/ccna therorie switching.md",
     "2.Klasse/nawi/🪄Naturtigerschaften.md",
@@ -371,12 +401,6 @@
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/~WRL2623.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/~WRD2561.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/~WRD1446.tmp",
-    "Zeichnungen/DR15-02-2024-34_0.excalidraw.md",
-    "Zeichnungen/DR15-02-2024-34.excalidraw.md",
-    "Zeichnungen/DR15-02-2024-46.excalidraw.md",
-    "Zeichnungen/DR15-02-2024-15.excalidraw.md",
-    "Zeichnungen/DR22-01-2024-30.excalidraw.md",
-    "2.Klasse/Medt/Optimieren und Komprimieren.md",
     "bilder/Pasted Image 20240214142018_828.png",
     "Untitled.canvas",
     "bilder/Pasted image 20240205193629.png",
