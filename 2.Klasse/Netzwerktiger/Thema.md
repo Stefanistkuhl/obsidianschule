@@ -13,7 +13,7 @@ Betreuer:              Zivk
 Übungsdaten:           datum
 Abgabedatum:           datum
 
-
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 # Inhaltsverzeichnis
 - [[#1. Aufgabenstellung|1. Aufgabenstellung]]
 - [[#2. Zusammenfassung|2. Zusammenfassung]]
@@ -24,7 +24,7 @@ Abgabedatum:           datum
 - [[#5. Vollständige Konfigurationsdateien|5. Vollständige Konfigurationsdateien]]
 - [[#6. Abbildungsverzeichnis|6. Abbildungsverzeichnis]]
 
-
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 ## 1. Aufgabenstellung
 aosdjasojdasd
 
