@@ -36,7 +36,8 @@ afsidjgisdgjsdg
 
 
 ![[DR20-02-2024-34.excalidraw]]
-<a name="{{name}}"></a>
+<a name="bild_1"></a>
+
 
 
 ## 4. Übungsdurführung
@@ -47,6 +48,6 @@ afsidjgisdgjsdg
 iwas
 
 ## 6. Abbildungsverzeichnis
-[bild_1](#bild_1)
+[oida](#bild_1)
 
 
