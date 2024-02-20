@@ -184,6 +184,8 @@ tief
 txt
 toLowerCase
 transparent
+tOrGJsJf
+tzPZG
 Klasse
 Kreuzritter
 Klagenfurt
@@ -960,6 +962,7 @@ Eingabetextes
 Esb
 Eingang
 Edz
+EEUJDKPw
 Das
 Dasselbe
 Diode
@@ -1197,6 +1200,7 @@ Den
 Differenzspannung
 Diffenzverstärkung
 DtXbl
+DcrW
 Problem
 Pest
 Portugal
@@ -1432,6 +1436,7 @@ Programmes
 Properties
 PUV
 Performaing
+Px
 bei
 background
 bis
@@ -1683,6 +1688,7 @@ buchstaben
 beginnt
 backgroundColor
 boss
+bM
 ist
 in
 im
@@ -1840,6 +1846,7 @@ inverts
 including
 invertColor
 invertPaletteColors
+iFdJEUV
 dass
 die
 den
@@ -2364,6 +2371,7 @@ entries
 elements
 eYxBwitI
 erwartung
+eGKi
 Übergange
 Übergänge
 Übergang
@@ -2707,6 +2715,7 @@ stringRGB
 stringHSV
 stringHEX
 strokeColor
+shzRD
 und
 um
 ungefähr
@@ -2854,6 +2863,7 @@ unterbrochen
 unmöglich
 ungefiltert
 unglaubliche
+uBtvKaRP
 keine
 konnten
 kein
@@ -3272,6 +3282,7 @@ fot
 format
 forEach
 fang
+fQFn
 mark
 mit
 mangelnder
@@ -3452,6 +3463,7 @@ musst
 maleware
 meinen
 mehrmals
+mzru
 FFA
 Flüssen
 Furt
@@ -3805,6 +3817,7 @@ nochmal
 ner
 names
 nichtinvertierenden
+nZOnfd
 Christus
 Christianisierung
 Christentum
@@ -3960,6 +3973,10 @@ Cochlea
 Charakterisk
 Crack
 Codes
+CmuOxNsK
+CSlKF
+CWxcZixf
+CdAl
 Urgeschichte
 Universitäten
 Ufern
@@ -4126,6 +4143,9 @@ UND
 Und
 UD
 Unklarheiten
+UdfueuUI
+UQR
+UIE
 Mittelalter
 Merkmale
 Mönche
@@ -4363,6 +4383,7 @@ MIR
 MÜHE
 Methode
 Math
+MmI
 Rom
 Ratten
 Römischen
@@ -4555,6 +4576,8 @@ Rätsels
 Runtergeladen
 Rückgängig
 RiQG
+RwVebzSS
+Rückwirkungskennlinie
 vor
 verbreiten
 vom
@@ -4754,6 +4777,7 @@ verwendet
 verstehst
 viewUpdateScene
 viewBackgroundColor
+vWx
 West
 Welt
 Wachstum
@@ -4945,6 +4969,8 @@ Wichtig
 Wortes
 Wkw
 Wtf
+WUm
+WtTiaan
 Latein
 Leute
 Läuse
@@ -5545,6 +5571,7 @@ Anfragen
 Alphabet
 Anhand
 Ausgangspannung
+Ausgangskennlinienfeld
 Griechisch
 Glauben
 Gewalt
@@ -6407,6 +6434,7 @@ TtUasavs
 TuCz
 Taxi
 Tommmy
+TVt
 Städte
 Südamerika
 Spanien
@@ -6915,6 +6943,7 @@ Hii
 HTML
 Hauptteils
 HTTP
+Hihw
 an
 auf
 aus
@@ -7336,6 +7365,7 @@ ozv
 oOy
 oTqV
 ohmesgesetz
+oJ
 Namen
 Neuzeit
 Nord
@@ -7476,6 +7506,8 @@ Nochmals
 Niveau
 Namens
 Norming
+NIn
+NaaiekhC
 Infizierte
 Indium
 Instanz
@@ -7625,6 +7657,9 @@ Infra
 IQdqLplh
 ICH
 Interessiert
+IB
+IckRbXZb
+IBDg
 pest
 pos
 purpose
@@ -8015,6 +8050,7 @@ retten
 reward
 return
 runs
+rkJpJU
 hat
 hervorgerufen
 haben
@@ -8410,6 +8446,7 @@ Bildes
 Buchstabe
 Buchstaben
 Buchstabens
+BvCp
 Voraussetzungen
 Valenziabrücken
 Vekehrswesen
@@ -9054,6 +9091,7 @@ xpVGUl
 xhEa
 xz
 xJhGETDx
+xNqq
 YmKqNai
 YY
 YS
@@ -9312,6 +9350,8 @@ XywtKxly
 XQM
 XwPSQhnO
 XTIh
+XNNgB
+XND
 qs
 qJ
 qAne
@@ -9393,6 +9433,7 @@ qVDM
 qyzAaN
 qzgZUPFW
 quasi
+qoFI
 Änder
 Änderung
 Änderungen

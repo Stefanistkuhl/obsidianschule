@@ -29,4 +29,6 @@ $$ ρ... Spezifischer Wiederstand = \frac{Ω*mm²}m{} $$
 
 
 
-[[diemensionierung transistor|dimensionierung]]
+![[diemensionierung transistor|dimensionierung]]
+![[Operationsverstärker]]
+
