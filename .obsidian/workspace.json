@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/Operationsverstärker.md",
+                "file": "2.Klasse/Netzwerktiger/Thema.md",
                 "mode": "source",
                 "source": false
               }
@@ -270,8 +270,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "43b2197681096587",
@@ -287,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/Operationsverstärker.md",
+                "file": "2.Klasse/Netzwerktiger/Thema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -332,7 +331,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/Operationsverstärker.md"
+                "file": "2.Klasse/Netzwerktiger/Thema.md"
               }
             }
           },
@@ -377,10 +376,13 @@
   },
   "active": "7e500c57b47c0c26",
   "lastOpenFiles": [
+    "Aufgabenstellung.md",
+    "2.Klasse/Netzwerktiger/Thema.md",
+    "2.Klasse/Netzwerktiger/Aufgaben/~$orlage.docx",
+    "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/Operationsverstärker.md",
     "Zeichnungen/DR19-02-2024-29.excalidraw.md",
     "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/transistor.md",
     "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/grrrrrlektrotechnik v2 mit sin.md",
-    "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/Operationsverstärker.md",
     "Zeichnungen/DR22-01-2024-08.excalidraw.md",
     "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/diemensionierung transistor.md",
     "2.Klasse/Ipt/4 Team Phase.md",
@@ -402,8 +404,6 @@
     "Privat/🛜ccna theroie.md",
     "Privat/ccna therorie switching.md",
     "2.Klasse/nawi/🪄Naturtigerschaften.md",
-    "Privat/Insainer Guide.md",
-    "Excalidraw/Scripts/Downloaded/Invert colors.md",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/fürst_connect_a_wired_and_wireless_lan.zip",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/fürst_connect_a_wired_and_wireless_lan.zip.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/4.6.5 Packet Tracer - Connect a Wired and Wireless LAN.pka~",
@@ -412,7 +412,6 @@
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/~WRD3020.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/~WRL2623.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/~WRD2561.tmp",
-    "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/~WRD1446.tmp",
     "bilder/Pasted Image 20240214142018_828.png",
     "Untitled.canvas",
     "bilder/Pasted image 20240205193629.png",

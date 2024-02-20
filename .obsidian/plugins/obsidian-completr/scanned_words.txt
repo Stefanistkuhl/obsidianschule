@@ -355,6 +355,7 @@ Kuhro
 KINA
 KANN
 Kleinbuchstaben
+Konfigurationsdateien
 ggp
 genauen
 gibt
@@ -603,6 +604,7 @@ getAppState
 getCM
 getViewElements
 getElements
+gesamten
 Zettel
 Zwingen
 Zeichen
@@ -738,6 +740,8 @@ ZZLI
 ZtSuNJtQ
 Zeichnung
 Zeilen
+ZIVK
+Zivk
 Epochen
 Entdeckung
 Erste
@@ -2082,6 +2086,7 @@ durchscrollst
 drücke
 dieses
 defaultColorPalette
+datum
 es
 entstanden
 entstehen
@@ -2379,6 +2384,8 @@ eGKi
 Überschuss
 Über
 Überblick
+Übungsdaten
+Übungsdurführung
 sind
 style
 schreiben
@@ -3110,6 +3117,7 @@ JAZwnmsP
 Joke
 Jetzt
 JrlInOtG
+Jahrgang
 für
 fall
 freibewegliches
@@ -4146,6 +4154,7 @@ Unklarheiten
 UdfueuUI
 UQR
 UIE
+Unterrichtsgegenstand
 Mittelalter
 Merkmale
 Mönche
@@ -5161,6 +5170,7 @@ Logik
 Leerzeichen
 Logisch
 LsLZf
+Laborprotokoll
 Ost
 OS
 Obwohl
@@ -5574,6 +5584,9 @@ Anhand
 Ausgangspannung
 Ausgangskennlinienfeld
 Ausgangswiederstand
+Abgabedatum
+Aufgabenstellung
+Abbildungsverzeichnis
 Griechisch
 Glauben
 Gewalt
@@ -7510,6 +7523,8 @@ Namens
 Norming
 NIn
 NaaiekhC
+NWT
+Netzwerktopologie
 Infizierte
 Indium
 Instanz
@@ -7662,6 +7677,7 @@ Interessiert
 IB
 IckRbXZb
 IBDg
+Inhaltsverzeichnis
 pest
 pos
 purpose
@@ -8449,6 +8465,7 @@ Buchstabe
 Buchstaben
 Buchstabens
 BvCp
+Betreuer
 Voraussetzungen
 Valenziabrücken
 Vekehrswesen
@@ -8638,6 +8655,7 @@ VdQhE
 Verschlüsselte
 Variable
 Varible
+Vollständige
 je
 jeder
 jeweils
@@ -9004,6 +9022,7 @@ QmjDjGGA
 üblicherweise
 überlappen
 überwachen
+übung
 öffentliche
 öffnung
 ökonomisch
