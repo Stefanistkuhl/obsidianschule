@@ -6,5 +6,7 @@
 > Ua ... Ausgangspannung
 > UD = Up-Un ... Differenzspannung
 > Vd = Ua/Ud ... Diffenzverstärkung
-> Bandbreite ... ⇐ 100 MBit
+> Bandbreite ... ⇐ 100 MHz
+
+
 
