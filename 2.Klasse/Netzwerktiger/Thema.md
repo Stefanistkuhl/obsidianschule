@@ -34,6 +34,11 @@ afsidjgisdgjsdg
 ## 3. Vollständige Netzwerktopologie der gesamten übung
 
 
+
+![[DR20-02-2024-34.excalidraw]]
+<a name="{{name}}"></a>
+
+
 ## 4. Übungsdurführung
 ### 4.1 Schritt 1
 #### 4.1.2 Schritt 2
@@ -42,7 +47,6 @@ afsidjgisdgjsdg
 iwas
 
 ## 6. Abbildungsverzeichnis
-
-
+[bild_1](#bild_1)
 
 
