@@ -32,6 +32,5 @@
   "arrows",
   "templater-obsidian",
   "obsidian-git",
-  "auto-note-mover",
-  "obsidian-plugin-toc"
+  "auto-note-mover"
 ]

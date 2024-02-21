@@ -31,7 +31,7 @@
     "2024/1/17": 0,
     "2024/1/18": 1,
     "2024/1/19": 41,
-    "2024/1/20": 180
+    "2024/1/20": 46
   },
   "todaysWordCount": {
     "2.Klasse/Ipt/bwl v2.md": {
@@ -65,10 +65,6 @@
     "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/Operationsverstärker.md": {
       "initial": 27,
       "current": 47
-    },
-    "2.Klasse/Netzwerktiger/Thema.md": {
-      "initial": 0,
-      "current": 134
     }
   }
 }
