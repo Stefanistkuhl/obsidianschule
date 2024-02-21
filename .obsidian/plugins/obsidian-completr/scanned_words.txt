@@ -2090,6 +2090,7 @@ drücke
 dieses
 defaultColorPalette
 datum
+durchdreht
 es
 entstanden
 entstehen
@@ -2726,6 +2727,7 @@ stringHSV
 stringHEX
 strokeColor
 shzRD
+smart
 und
 um
 ungefähr
@@ -5176,6 +5178,7 @@ Leerzeichen
 Logisch
 LsLZf
 Laborprotokoll
+Lesen
 Ost
 OS
 Obwohl
@@ -5304,6 +5307,7 @@ Objects
 Okii
 Oder
 Object
+Obvi
 Alt
 Amerikas
 Atombindung
@@ -6800,6 +6804,7 @@ Selben
 String
 Schleife
 Storming
+Sektoren
 Handel
 Hygiene
 Halbleiter

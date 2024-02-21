@@ -19,7 +19,7 @@ tags: [excalidraw]
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#000000",
-		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemStrokeColor": "#FFFFFF",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
@@ -31,10 +31,10 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 650.6626032024801,
-		"scrollY": 1853.7117384752319,
+		"scrollX": 837,
+		"scrollY": 500.7265625,
 		"zoom": {
-			"value": 0.999090264973502
+			"value": 1
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,

@@ -8,3 +8,4 @@
 	- Programme, Pr für die Hw (Treiber), Shell, User-Applikationen, File Explorer, De,    
 
 ![[DR21-02-2024-58.excalidraw]]
+[[entfragmentieren]]
