@@ -193,9 +193,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/Thema.md",
+                "file": "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/betriebsysthme wiederholung.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "9160e3dd943b8bf9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Zeichnungen/DR21-02-2024-58.excalidraw.md"
               }
             }
           }
@@ -275,7 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/Thema.md",
+                "file": "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/betriebsysthme wiederholung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -320,7 +330,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/Thema.md"
+                "file": "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/betriebsysthme wiederholung.md"
               }
             }
           },
@@ -350,22 +360,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": true,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": true,
-      "obsidian42-brat:BRAT": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "3d-graph-new:Global 3D Graph": false,
-      "3d-graph:3D Graph": false,
-      "templater-obsidian:Templater": false
+      "obsidian42-brat:BRAT": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "3d-graph-new:Global 3D Graph": true,
+      "3d-graph:3D Graph": true,
+      "templater-obsidian:Templater": true
     }
   },
   "active": "7e500c57b47c0c26",
   "lastOpenFiles": [
-    "2.Klasse/Ipt/4 Team Phase.md",
+    "Zeichnungen/DR21-02-2024-58.excalidraw.md",
+    "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/betriebsysthme wiederholung.md",
     "2.Klasse/Netzwerktiger/Thema.md",
+    "2.Klasse/Ipt/4 Team Phase.md",
     "2.Klasse/Netzwerktiger/Aufgaben/~WRL0001.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/~WRD0000.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/~$rlage - Kopie.docx",
@@ -394,7 +407,6 @@
     "Privat/soulskuhroring challegerun liste.md",
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
     "Privat/Homelab/Filmliste.md",
-    "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/betriebsysthme wiederholung.md",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/fürst_connect_a_wired_and_wireless_lan.zip",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/fürst_connect_a_wired_and_wireless_lan.zip.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/4.6.5 Packet Tracer - Connect a Wired and Wireless LAN.pka~",

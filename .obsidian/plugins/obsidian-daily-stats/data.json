@@ -31,40 +31,13 @@
     "2024/1/17": 0,
     "2024/1/18": 1,
     "2024/1/19": 41,
-    "2024/1/20": 46
+    "2024/1/20": 46,
+    "2024/1/21": 5
   },
   "todaysWordCount": {
-    "2.Klasse/Ipt/bwl v2.md": {
-      "initial": 7,
-      "current": 8
-    },
-    "2.Klasse/bwl v2.md": {
-      "initial": 7,
-      "current": 7
-    },
-    "Projektmagment.md": {
-      "initial": 1,
-      "current": 2
-    },
-    "2.Klasse/Ipt/Projektmagment.md": {
-      "initial": 2,
-      "current": 19
-    },
-    "4 Team Phase.md": {
-      "initial": 0,
-      "current": 2
-    },
-    "2.Klasse/Ipt/4 Team Phase.md": {
-      "initial": 7,
-      "current": 11
-    },
-    "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/transistor.md": {
-      "initial": 94,
-      "current": 95
-    },
-    "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/Operationsverstärker.md": {
-      "initial": 27,
-      "current": 47
+    "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/betriebsysthme wiederholung.md": {
+      "initial": 57,
+      "current": 62
     }
   }
 }
