@@ -3,7 +3,7 @@
   "maxLevel": "6",
   "displayHeader": true,
   "displayFooter": true,
-  "headerTemplate": " <div style=\"width: 200px;font-size:10px;text-align:center;\">\n        <span class=\"title\">\n            <img src=\"https://www.htl-donaustadt.at/typo3conf/ext/htl_donaustadt/Resources/Public/Pics/logo.png\" width=\"100\" height=\"40\">\n        </span>\n    </div>",
+  "headerTemplate": "<div style=\"width: 100vw;font-size:10px;text-align:center;\">\n        \n        <img src=\"https://www.htl-donaustadt.at/typo3conf/ext/htl_donaustadt/Resources/Public/Pics/logo.png\" width=8% height=auto style=\"float: right;\">\n        <p style=\"text-align:left\">htl donaustadt <br>Donaustadtstraße 45 <br>1210 Wien<br><br>Abteilung: Informationstechnologie<br>Schwerpunk: Netzwerktechnik</p>\n        <hr>\n        <p style=\"text-align: right;\">zertifiziert nach ISO 14001 <br>validert nach EMAS</p>\n    </div>",
   "footerTemplate": "<div style=\"width: 100vw;font-size:10px;text-align:center;\"><span class=\"pageNumber\"></span> / <span class=\"totalPages\"></span></div>",
   "printBackground": false,
   "generateTaggedPDF": false,
