@@ -964,6 +964,7 @@ Eingang
 Edz
 EEUJDKPw
 Eingänge
+EaAvSX
 Das
 Dasselbe
 Diode
@@ -1849,6 +1850,7 @@ invertColor
 invertPaletteColors
 iFdJEUV
 invertierten
+invertierende
 dass
 die
 den
@@ -2374,6 +2376,7 @@ elements
 eYxBwitI
 erwartung
 eGKi
+ecIRHc
 Übergange
 Übergänge
 Übergang
@@ -3659,6 +3662,7 @@ Fünfjährigen
 FZOkV
 Forming
 Fy
+Fux
 nach
 neue
 negativen
@@ -4152,6 +4156,7 @@ Unklarheiten
 UdfueuUI
 UQR
 UIE
+Ucn
 Mittelalter
 Merkmale
 Mönche
@@ -4789,6 +4794,7 @@ viewUpdateScene
 viewBackgroundColor
 vWx
 vVesManY
+vxC
 West
 Welt
 Wachstum
@@ -5172,6 +5178,7 @@ Leerzeichen
 Logisch
 LsLZf
 Loopback
+LRebF
 Ost
 OS
 Obwohl
@@ -5589,6 +5596,7 @@ Ausgangskennlinienfeld
 Ausgangswiederstand
 Ausgang
 Ausgangsspannung
+AbsHr
 Griechisch
 Glauben
 Gewalt
@@ -6454,6 +6462,7 @@ TuCz
 Taxi
 Tommmy
 TVt
+TtN
 Städte
 Südamerika
 Spanien
@@ -6964,6 +6973,7 @@ HTML
 Hauptteils
 HTTP
 Hihw
+HIMkX
 an
 auf
 aus
@@ -7386,6 +7396,7 @@ oOy
 oTqV
 ohmesgesetz
 oJ
+oCR
 Namen
 Neuzeit
 Nord
@@ -7680,6 +7691,7 @@ Interessiert
 IB
 IckRbXZb
 IBDg
+Intertierende
 pest
 pos
 purpose
@@ -8256,6 +8268,7 @@ hinzufügt
 hoffe
 hsl
 hsv
+hfOQn
 Bananen
 Buch
 Beschreiben
@@ -8467,6 +8480,8 @@ Buchstabe
 Buchstaben
 Buchstabens
 BvCp
+BySsy
+BJSOz
 Voraussetzungen
 Valenziabrücken
 Vekehrswesen
@@ -8934,6 +8949,7 @@ liste
 lightness
 lightnessTo
 lEQcE
+lMxdq
 Queue
 QHvC
 Qp
@@ -9013,6 +9029,7 @@ QobdJc
 QcVaZdMI
 QmjDjGGA
 QnxDJSCG
+Qbww
 überall
 übersetzt
 übernehmen
@@ -9192,6 +9209,7 @@ YXO
 YA
 YoO
 YdEs
+YL
 Öffnung
 Öffentliche
 Österreicher

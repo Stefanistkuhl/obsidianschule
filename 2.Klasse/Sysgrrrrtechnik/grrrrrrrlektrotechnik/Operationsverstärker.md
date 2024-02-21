@@ -18,3 +18,5 @@
 über den Spannungsteiler Rv-R1 und ein Teil der Ausgangsspannung an den invertierten Eingang zurückgeführt, mit dem Ziel Uq = 0V
 
 ##### Intertierende Verstärker
+
+##### Spannungsfolger (I)
