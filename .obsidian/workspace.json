@@ -128,16 +128,6 @@
             }
           },
           {
-            "id": "7e21bcee0a407644",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Zeichnungen/DR21-02-2024-45.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "4bb9de7bd6404a62",
             "type": "leaf",
             "state": {
@@ -232,7 +222,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -307,7 +297,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichnungen/DR21-02-2024-45.excalidraw.md",
+                "file": "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/Operationsverstärker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +342,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Zeichnungen/DR21-02-2024-45.excalidraw.md"
+                "file": "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/Operationsverstärker.md"
               }
             }
           },
@@ -395,11 +385,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "7e21bcee0a407644",
+  "active": "01f2abf2fd458c7e",
   "lastOpenFiles": [
-    "Zeichnungen/DR21-02-2024-27.excalidraw.md",
     "Zeichnungen/DR21-02-2024-45.excalidraw.md",
     "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/Operationsverstärker.md",
+    "Zeichnungen/DR21-02-2024-27.excalidraw.md",
     "Zeichnungen/DR21-02-2024-37.excalidraw.md",
     "2.Klasse/Medt/Optimieren und Komprimieren.md",
     "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/betriebsysthme wiederholung.md",

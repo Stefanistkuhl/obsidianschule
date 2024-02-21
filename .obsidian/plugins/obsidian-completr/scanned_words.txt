@@ -355,6 +355,7 @@ Kuhro
 KINA
 KANN
 Kleinbuchstaben
+KbntBa
 ggp
 genauen
 gibt
@@ -603,6 +604,7 @@ getAppState
 getCM
 getViewElements
 getElements
+gnNm
 Zettel
 Zwingen
 Zeichen
@@ -1203,6 +1205,7 @@ Differenzspannung
 Diffenzverstärkung
 DtXbl
 DcrW
+DuPe
 Problem
 Pest
 Portugal
@@ -2721,6 +2724,7 @@ stringHSV
 stringHEX
 strokeColor
 shzRD
+smz
 und
 um
 ungefähr
@@ -3116,6 +3120,7 @@ JAZwnmsP
 Joke
 Jetzt
 JrlInOtG
+JGf
 für
 fall
 freibewegliches
@@ -3290,6 +3295,7 @@ forEach
 fang
 fQFn
 fRvMEROI
+fuuUFHt
 mark
 mit
 mangelnder
@@ -3828,6 +3834,7 @@ names
 nichtinvertierenden
 nZOnfd
 nb
+nYLX
 Christus
 Christianisierung
 Christentum
@@ -3987,6 +3994,7 @@ CmuOxNsK
 CSlKF
 CWxcZixf
 CdAl
+CIhi
 Urgeschichte
 Universitäten
 Ufern
@@ -4593,6 +4601,7 @@ RiQG
 RwVebzSS
 Rückwirkungskennlinie
 Rückkoplung
+Richtkopplung
 vor
 verbreiten
 vom
@@ -5597,6 +5606,7 @@ Ausgangswiederstand
 Ausgang
 Ausgangsspannung
 AbsHr
+Abstände
 Griechisch
 Glauben
 Gewalt
@@ -5987,6 +5997,7 @@ welchen
 worum
 wiederholen
 wiederholt
+wplO
 christlichen
 code
 charakterisiert
@@ -6158,6 +6169,7 @@ currentItemStrokeColor
 currentItemBackgroundColor
 cpVMgZ
 cWQt
+caqyu
 zu
 zum
 zur
@@ -6808,6 +6820,8 @@ String
 Schleife
 Storming
 Spannungsteiler
+Spannungsfolger
+SqbXJQSW
 Handel
 Hygiene
 Halbleiter
@@ -7397,6 +7411,7 @@ oTqV
 ohmesgesetz
 oJ
 oCR
+oGv
 Namen
 Neuzeit
 Nord
@@ -7692,6 +7707,7 @@ IB
 IckRbXZb
 IBDg
 Intertierende
+IVADx
 pest
 pos
 purpose
@@ -8671,6 +8687,8 @@ VdQhE
 Verschlüsselte
 Variable
 Varible
+VNK
+VENmxnCM
 je
 jeder
 jeweils
@@ -8950,6 +8968,7 @@ lightness
 lightnessTo
 lEQcE
 lMxdq
+lwOaE
 Queue
 QHvC
 Qp

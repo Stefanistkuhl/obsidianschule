@@ -20,3 +20,4 @@
 ##### Intertierende Verstärker
 
 ##### Spannungsfolger (I)
+![[DR21-02-2024-45.excalidraw]]
