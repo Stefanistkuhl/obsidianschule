@@ -116,14 +116,6 @@
             }
           },
           {
-            "id": "2b72278c2b46b2df",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "66ac3bb7a5675e96",
             "type": "leaf",
             "state": {
@@ -184,6 +176,16 @@
             }
           },
           {
+            "id": "cea0b8a382a31c79",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Zeichnungen/DR21-02-2024-58.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "52b22bfcb1738dcd",
             "type": "leaf",
             "state": {
@@ -196,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -361,15 +363,16 @@
   },
   "active": "7e500c57b47c0c26",
   "lastOpenFiles": [
+    "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
+    "Zeichnungen/DR21-02-2024-58.excalidraw.md",
+    "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/betriebsysthme wiederholung.md",
     "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/anitgrrrmatik v2.md",
     "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/entfragmentieren.md",
-    "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/betriebsysthme wiederholung.md",
     "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/transistor.md",
     "frequenz sachen xd,[[entfragmentieren.md",
     "Zeichnungen/DR21-02-2024-46.excalidraw.md",
     "Excalidraw/Template.excalidraw.md",
     "Zeichnungen/DR21-02-2024-26.excalidraw.md",
-    "Zeichnungen/DR21-02-2024-58.excalidraw.md",
     "2.Klasse/Netzwerktiger/Thema.md",
     "2.Klasse/Ipt/4 Team Phase.md",
     "2.Klasse/Netzwerktiger/Aufgaben/~WRL0001.tmp",
@@ -392,7 +395,6 @@
     "2.Klasse/Ipt/bwl v2.md",
     "2.Klasse/Mathe/polarformen komplexezahlen.md",
     "2.Klasse/Ipt/😐Bwl Tiger.md",
-    "2.Klasse/Ipt/Vision.md",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/fürst_connect_a_wired_and_wireless_lan.zip",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/fürst_connect_a_wired_and_wireless_lan.zip.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/4.6.5 Packet Tracer - Connect a Wired and Wireless LAN.pka~",
