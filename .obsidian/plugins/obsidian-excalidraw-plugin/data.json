@@ -12533,7 +12533,7 @@
             "containerId": "sHtMW_QrShEDi3yh3SDDz",
             "originalText": "177.177.177.177:443",
             "lineHeight": 1.1875,
-            "baseline": 15
+            "baseline": 14
           },
           {
             "type": "text",
@@ -12650,7 +12650,7 @@
             "containerId": "lICycKBmxjnJcB7cz-F5M",
             "originalText": "177.177.177.177:any",
             "lineHeight": 1.1875,
-            "baseline": 15
+            "baseline": 14
           },
           {
             "type": "text",
@@ -12767,7 +12767,7 @@
             "containerId": "M5ddKoVGIbn2lEP8xRDcU",
             "originalText": "10.0.0.0/8",
             "lineHeight": 1.1875,
-            "baseline": 15
+            "baseline": 14
           },
           {
             "type": "text",
@@ -13135,7 +13135,7 @@
             "containerId": null,
             "originalText": "Fast Path",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           },
           {
             "type": "text",
@@ -13304,7 +13304,7 @@
             "containerId": null,
             "originalText": "Edge Node",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           },
           {
             "type": "text",
@@ -14175,7 +14175,7 @@
             "containerId": null,
             "originalText": "Network",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           },
           {
             "type": "text",
@@ -14214,7 +14214,7 @@
             "containerId": null,
             "originalText": "Network",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           }
         ],
         "id": "KEAxEmrj1ni-zywIjdMIO",
@@ -14262,7 +14262,7 @@
             "containerId": null,
             "originalText": "Router",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           },
           {
             "type": "ellipse",
@@ -14432,7 +14432,7 @@
             "containerId": null,
             "originalText": "Tier #-sr",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           },
           {
             "type": "ellipse",
@@ -14834,7 +14834,7 @@
             "containerId": null,
             "originalText": "Tier #-dr",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           },
           {
             "type": "ellipse",
@@ -15298,7 +15298,7 @@
             "containerId": null,
             "originalText": "Desktop",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           },
           {
             "type": "ellipse",
@@ -15606,7 +15606,7 @@
             "containerId": null,
             "originalText": "Shield",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           },
           {
             "type": "ellipse",
@@ -16110,7 +16110,7 @@
             "containerId": null,
             "originalText": "Key",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           },
           {
             "type": "ellipse",
@@ -16435,7 +16435,7 @@
             "containerId": null,
             "originalText": "Lock",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           },
           {
             "type": "ellipse",
@@ -16642,7 +16642,7 @@
             "containerId": null,
             "originalText": "DNS",
             "lineHeight": 1.1428571428571428,
-            "baseline": 25
+            "baseline": 26
           },
           {
             "type": "text",
@@ -16681,7 +16681,7 @@
             "containerId": null,
             "originalText": "DNS",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           }
         ],
         "id": "TPwu0Rb1bCt5KEBiEDavL",
@@ -16762,7 +16762,7 @@
             "containerId": null,
             "originalText": "VPN",
             "lineHeight": 1.1428571428571428,
-            "baseline": 25
+            "baseline": 26
           },
           {
             "type": "text",
@@ -16801,7 +16801,7 @@
             "containerId": null,
             "originalText": "VPN",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           }
         ],
         "id": "3PFy5ZgH2ssQcECJ0mtTt",
@@ -17157,7 +17157,7 @@
             "containerId": null,
             "originalText": "LoadBalancer",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           }
         ],
         "id": "jGsn97POKGqmj4inbvMe2",
@@ -20272,7 +20272,7 @@
             "containerId": null,
             "originalText": "SQL",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           },
           {
             "type": "text",
@@ -32049,7 +32049,7 @@
             "containerId": null,
             "originalText": "Trunk",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           }
         ],
         "id": "Fxox0XscV-4On-8cpYjZK",
@@ -32201,7 +32201,7 @@
             "containerId": null,
             "originalText": "web1",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           },
           {
             "type": "text",
@@ -32759,7 +32759,7 @@
             "containerId": null,
             "originalText": "web2",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           },
           {
             "type": "text",
@@ -33527,7 +33527,7 @@
             "containerId": null,
             "originalText": "P",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           },
           {
             "type": "text",
@@ -33567,7 +33567,7 @@
             "containerId": null,
             "originalText": "V",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           }
         ],
         "id": "slvi6IbUcMJKZoCK6Ql-W",

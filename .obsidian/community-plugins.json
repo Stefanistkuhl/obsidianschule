@@ -33,5 +33,6 @@
   "templater-obsidian",
   "obsidian-git",
   "auto-note-mover",
-  "obsidian-plugin-toc"
+  "obsidian-plugin-toc",
+  "better-export-pdf"
 ]
