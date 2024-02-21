@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "158dc1e38289de83",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b906411872c22767",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "cef4ac9f2ee33f8c",
             "type": "leaf",
             "state": {
@@ -210,29 +194,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0c8cea511fce071e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Zeichnungen/DR21-02-2024-26.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "9160e3dd943b8bf9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Zeichnungen/DR21-02-2024-58.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -307,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/entfragmentieren.md",
+                "file": "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/betriebsysthme wiederholung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +316,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/entfragmentieren.md"
+                "file": "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/betriebsysthme wiederholung.md"
               }
             }
           },
@@ -395,13 +359,15 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "7d2a89ea7b2d59bd",
+  "active": "7e500c57b47c0c26",
   "lastOpenFiles": [
-    "Zeichnungen/DR21-02-2024-46.excalidraw.md",
     "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/entfragmentieren.md",
+    "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/transistor.md",
+    "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/betriebsysthme wiederholung.md",
+    "frequenz sachen xd,[[entfragmentieren.md",
+    "Zeichnungen/DR21-02-2024-46.excalidraw.md",
     "Excalidraw/Template.excalidraw.md",
     "Zeichnungen/DR21-02-2024-26.excalidraw.md",
-    "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/betriebsysthme wiederholung.md",
     "Zeichnungen/DR21-02-2024-58.excalidraw.md",
     "2.Klasse/Netzwerktiger/Thema.md",
     "2.Klasse/Ipt/4 Team Phase.md",
@@ -415,7 +381,6 @@
     "2.Klasse/Netzwerktiger/Aufgaben/~$orlage.docx",
     "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/Operationsverstärker.md",
     "Zeichnungen/DR19-02-2024-29.excalidraw.md",
-    "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/transistor.md",
     "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/grrrrrlektrotechnik v2 mit sin.md",
     "Zeichnungen/DR22-01-2024-08.excalidraw.md",
     "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/diemensionierung transistor.md",
@@ -428,7 +393,6 @@
     "2.Klasse/Ipt/😐Bwl Tiger.md",
     "2.Klasse/Ipt/Vision.md",
     "😟Games die ich Spielen muss.md",
-    "Privat/Gwyndolin Cosplay.md",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/fürst_connect_a_wired_and_wireless_lan.zip",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/fürst_connect_a_wired_and_wireless_lan.zip.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/4.6.5 Packet Tracer - Connect a Wired and Wireless LAN.pka~",
