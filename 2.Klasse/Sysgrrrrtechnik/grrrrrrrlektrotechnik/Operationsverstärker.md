@@ -10,5 +10,7 @@
 > Ausgangswiederstand ... ra ca 30 bis 100Ω (sollte klein sein)
 > Eingangswiederstand ... re ca 10^6 bis 10^12Ω  
 
+> Allgemein: wird der Ausgang an einem der beiden Eingänge zurückgeführt ("Rückkoplung, Loopback),  Operationsverstärker den Ausgang (Ua) so zu regeln, dass die Differenz = Spannung (UD) nicht wird.
+
 
 

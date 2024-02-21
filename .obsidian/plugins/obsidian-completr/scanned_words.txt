@@ -4384,6 +4384,7 @@ MÜHE
 Methode
 Math
 MmI
+MHz
 Rom
 Ratten
 Römischen
@@ -5572,6 +5573,7 @@ Alphabet
 Anhand
 Ausgangspannung
 Ausgangskennlinienfeld
+Ausgangswiederstand
 Griechisch
 Glauben
 Gewalt
