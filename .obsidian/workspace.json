@@ -210,9 +210,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7e0b8c5086d0ced9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -287,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/Vorlage.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -332,7 +344,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/Vorlage.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -375,12 +387,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "7e500c57b47c0c26",
+  "active": "7e0b8c5086d0ced9",
   "lastOpenFiles": [
+    "2.Klasse/Netzwerktiger/Vorlage.md",
+    "conflict-files-obsidian-git.md",
     "2.Klasse/Netzwerktiger/Aufgaben/~$rlage - Kopie.docx",
     "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/Operationsverstärker.md",
     "2.Klasse/Ipt/4 Team Phase.md",
-    "2.Klasse/Netzwerktiger/Vorlage.md",
     "2.Klasse/Netzwerktiger/Aufgaben/~WRL0001.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/~WRD0000.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/Vorlage - Kopie.docx",

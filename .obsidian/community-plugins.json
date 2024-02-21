@@ -32,7 +32,11 @@
   "arrows",
   "templater-obsidian",
   "obsidian-git",
+<<<<<<< HEAD
   "auto-note-mover",
   "obsidian-plugin-toc",
   "better-export-pdf"
+=======
+  "auto-note-mover"
+>>>>>>> origin/main
 ]

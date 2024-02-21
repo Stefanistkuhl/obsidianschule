@@ -1442,6 +1442,7 @@ Properties
 PUV
 Performaing
 Px
+Please
 bei
 background
 bis
@@ -1695,6 +1696,9 @@ backgroundColor
 boss
 bM
 break
+before
+below
+blocks
 ist
 in
 im
@@ -2091,6 +2095,8 @@ drücke
 dieses
 defaultColorPalette
 datum
+deleted
+desired
 es
 entstanden
 entstehen
@@ -2730,6 +2736,7 @@ stringHSV
 stringHEX
 strokeColor
 shzRD
+strongly
 und
 um
 ungefähr
@@ -2879,6 +2886,8 @@ ungefiltert
 unglaubliche
 uBtvKaRP
 unnumbered
+using
+use
 keine
 konnten
 kein
@@ -3300,6 +3309,8 @@ format
 forEach
 fang
 fQFn
+followed
+following
 mark
 mit
 mangelnder
@@ -3671,6 +3682,7 @@ Finden
 Fünfjährigen
 FZOkV
 Forming
+For
 nach
 neue
 negativen
@@ -3995,6 +4007,7 @@ CmuOxNsK
 CSlKF
 CWxcZixf
 CdAl
+Conflicts
 Urgeschichte
 Universitäten
 Ufern
@@ -4801,6 +4814,7 @@ viewBackgroundColor
 vWx
 vollständige
 visibility
+viewing
 West
 Welt
 Wachstum
@@ -5601,6 +5615,7 @@ Abgabedatum
 Aufgabenstellung
 Abbildungsverzeichnis
 Anhang
+Additional
 Griechisch
 Glauben
 Gewalt
@@ -5991,6 +6006,7 @@ welchen
 worum
 wiederholen
 wiederholt
+workspace
 christlichen
 code
 charakterisiert
@@ -6161,6 +6177,12 @@ copyViewElementsToEAforEditing
 currentItemStrokeColor
 currentItemBackgroundColor
 cpVMgZ
+commit
+commands
+community
+cursor
+conflicted
+conflicts
 zu
 zum
 zur
@@ -6467,6 +6489,7 @@ Tommmy
 TVt
 TOC
 Toc
+This
 Städte
 Südamerika
 Spanien
@@ -7276,6 +7299,9 @@ afsidjgisdgjsdg
 aufgabenstellung
 abbildungsverzeichnis
 anhang
+automatically
+available
+above
 oft
 oder
 os
@@ -7405,6 +7431,8 @@ oTqV
 ohmesgesetz
 oJ
 optional
+obsidian
+occurrence
 Namen
 Neuzeit
 Nord
@@ -7549,6 +7577,7 @@ NIn
 NaaiekhC
 NWT
 Netzwerktopologie
+Not
 Infizierte
 Indium
 Instanz
@@ -7702,6 +7731,7 @@ IB
 IckRbXZb
 IBDg
 Inhaltsverzeichnis
+Instructions
 pest
 pos
 purpose
@@ -7893,6 +7923,8 @@ pyhton
 palette
 page
 pagebreak
+plugins
+positions
 reiches
 real
 running
@@ -8095,6 +8127,9 @@ reward
 return
 runs
 rkJpJU
+resolve
+remember
+replace
 hat
 hervorgerufen
 haben
@@ -8774,6 +8809,7 @@ jpg
 jemandem
 jeden
 javascript
+json
 ähnlich
 ändern
 ähnliches
@@ -8960,6 +8996,8 @@ lesbarer
 liste
 lightness
 lightnessTo
+list
+listed
 Queue
 QHvC
 Qp

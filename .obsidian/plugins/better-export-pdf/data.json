@@ -3,7 +3,7 @@
   "maxLevel": "6",
   "displayHeader": true,
   "displayFooter": true,
-  "headerTemplate": "<div style=\"width: 100vw;font-size:10px;text-align:center;\"><span class=\"title\"></span><img src=\"https://www.htl-donaustadt.at/typo3conf/ext/htl_donaustadt/Resources/Public/Pics/logo.png\"></div>",
+  "headerTemplate": "<div style=\"width: 500vw;font-size:10px;text-align:center;\"><span class=\"title\"></span><img src=\"https://www.htl-donaustadt.at/typo3conf/ext/htl_donaustadt/Resources/Public/Pics/logo.png\"></div>",
   "footerTemplate": "<div style=\"width: 100vw;font-size:10px;text-align:center;\"><span class=\"pageNumber\"></span> / <span class=\"totalPages\"></span></div>",
   "printBackground": false,
   "generateTaggedPDF": false,
