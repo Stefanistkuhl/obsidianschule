@@ -355,6 +355,7 @@ Kuhro
 KINA
 KANN
 Kleinbuchstaben
+Konfigurationsdateien
 ggp
 genauen
 gibt
@@ -603,6 +604,7 @@ getAppState
 getCM
 getViewElements
 getElements
+gesamten
 Zettel
 Zwingen
 Zeichen
@@ -738,6 +740,8 @@ ZZLI
 ZtSuNJtQ
 Zeichnung
 Zeilen
+ZIVK
+Zivk
 Epochen
 Entdeckung
 Erste
@@ -1689,6 +1693,7 @@ beginnt
 backgroundColor
 boss
 bM
+break
 ist
 in
 im
@@ -1847,6 +1852,7 @@ including
 invertColor
 invertPaletteColors
 iFdJEUV
+iwas
 dass
 die
 den
@@ -2082,6 +2088,7 @@ durchscrollst
 drücke
 dieses
 defaultColorPalette
+datum
 es
 entstanden
 entstehen
@@ -2379,6 +2386,8 @@ eGKi
 Überschuss
 Über
 Überblick
+Übungsdaten
+Übungsdurführung
 sind
 style
 schreiben
@@ -3110,6 +3119,7 @@ JAZwnmsP
 Joke
 Jetzt
 JrlInOtG
+Jahrgang
 für
 fall
 freibewegliches
@@ -4146,6 +4156,7 @@ Unklarheiten
 UdfueuUI
 UQR
 UIE
+Unterrichtsgegenstand
 Mittelalter
 Merkmale
 Mönche
@@ -4778,6 +4789,7 @@ verstehst
 viewUpdateScene
 viewBackgroundColor
 vWx
+visibility
 West
 Welt
 Wachstum
@@ -5160,6 +5172,7 @@ Logik
 Leerzeichen
 Logisch
 LsLZf
+Laborprotokoll
 Ost
 OS
 Obwohl
@@ -5572,6 +5585,9 @@ Alphabet
 Anhand
 Ausgangspannung
 Ausgangskennlinienfeld
+Abgabedatum
+Aufgabenstellung
+Abbildungsverzeichnis
 Griechisch
 Glauben
 Gewalt
@@ -7238,6 +7254,8 @@ anweden
 asRyvT
 aQI
 aqjNbQd
+aosdjasojdasd
+afsidjgisdgjsdg
 oft
 oder
 os
@@ -7508,6 +7526,8 @@ Namens
 Norming
 NIn
 NaaiekhC
+NWT
+Netzwerktopologie
 Infizierte
 Indium
 Instanz
@@ -7660,6 +7680,7 @@ Interessiert
 IB
 IckRbXZb
 IBDg
+Inhaltsverzeichnis
 pest
 pos
 purpose
@@ -7849,6 +7870,8 @@ passieren
 pcapng
 pyhton
 palette
+page
+pagebreak
 reiches
 real
 running
@@ -8236,6 +8259,7 @@ hinzufügt
 hoffe
 hsl
 hsv
+hidden
 Bananen
 Buch
 Beschreiben
@@ -8447,6 +8471,7 @@ Buchstabe
 Buchstaben
 Buchstabens
 BvCp
+Betreuer
 Voraussetzungen
 Valenziabrücken
 Vekehrswesen
@@ -8636,6 +8661,7 @@ VdQhE
 Verschlüsselte
 Variable
 Varible
+Vollständige
 je
 jeder
 jeweils
@@ -9002,6 +9028,7 @@ QmjDjGGA
 üblicherweise
 überlappen
 überwachen
+übung
 öffentliche
 öffnung
 ökonomisch

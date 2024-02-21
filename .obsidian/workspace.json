@@ -11,24 +11,16 @@
             "id": "158dc1e38289de83",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Privat/🛜ccna theroie.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "b906411872c22767",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Privat/ccna theorie ipv4.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -143,12 +135,8 @@
             "id": "2b72278c2b46b2df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Privat/soulskuhroring challegerun liste.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -212,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -287,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/betriebsysthme wiederholung.md",
+                "file": "2.Klasse/Netzwerktiger/Thema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -332,7 +320,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/betriebsysthme wiederholung.md"
+                "file": "2.Klasse/Netzwerktiger/Thema.md"
               }
             }
           },
@@ -362,20 +350,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "3d-graph-new:Global 3D Graph": true,
-      "3d-graph:3D Graph": true,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": true,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": true,
-      "obsidian42-brat:BRAT": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": true
+      "obsidian42-brat:BRAT": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "3d-graph-new:Global 3D Graph": false,
+      "3d-graph:3D Graph": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "b5ac9769a9c1e533",
+  "active": "7e500c57b47c0c26",
   "lastOpenFiles": [
     "2.Klasse/Ipt/4 Team Phase.md",
     "2.Klasse/Netzwerktiger/Thema.md",
