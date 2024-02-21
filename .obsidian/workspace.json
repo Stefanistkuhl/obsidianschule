@@ -212,7 +212,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -287,7 +287,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/betriebsysthme wiederholung.md",
+                "file": "2.Klasse/Medt/Optimieren und Komprimieren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -332,7 +332,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/betriebsysthme wiederholung.md"
+                "file": "2.Klasse/Medt/Optimieren und Komprimieren.md"
               }
             }
           },
@@ -375,8 +375,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "f413e2e54465486d",
+  "active": "01f2abf2fd458c7e",
   "lastOpenFiles": [
+    "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/betriebsysthme wiederholung.md",
     "Zeichnungen/DR21-02-2024-58.excalidraw.md",
     "Zeichnungen/DR21-02-2024-26.excalidraw.md",
     "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/entfragmentieren.md",
@@ -408,7 +409,6 @@
     "😟Games die ich Spielen muss.md",
     "Privat/Gwyndolin Cosplay.md",
     "idi.md",
-    "Privat/soulskuhroring challegerun liste.md",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/fürst_connect_a_wired_and_wireless_lan.zip",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/fürst_connect_a_wired_and_wireless_lan.zip.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/4.6.5 Packet Tracer - Connect a Wired and Wireless LAN.pka~",
