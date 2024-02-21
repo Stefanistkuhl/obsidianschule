@@ -12,5 +12,9 @@
 
 > Allgemein: wird der Ausgang an einem der beiden Eingänge zurückgeführt ("Rückkoplung, Loopback),  Operationsverstärker den Ausgang (Ua) so zu regeln, dass die Differenz = Spannung (UD) nicht wird.
 
+##### Nicht invertierende Verstärker
+![[DR21-02-2024-37.excalidraw]]
 
+über den Spannungsteiler Rv-R1 und ein Teil der Ausgangsspannung an den invertierten Eingang zurückgeführt, mit dem Ziel Uq = 0V
 
+##### Intertierende Verstärker

@@ -963,6 +963,7 @@ Esb
 Eingang
 Edz
 EEUJDKPw
+Eingänge
 Das
 Dasselbe
 Diode
@@ -1847,6 +1848,7 @@ including
 invertColor
 invertPaletteColors
 iFdJEUV
+invertierten
 dass
 die
 den
@@ -3009,6 +3011,7 @@ komplizierter
 keys
 key
 kills
+kfP
 Jahreszahlen
 Jahresahlen
 Jura
@@ -3283,6 +3286,7 @@ format
 forEach
 fang
 fQFn
+fRvMEROI
 mark
 mit
 mangelnder
@@ -3654,6 +3658,7 @@ Finden
 Fünfjährigen
 FZOkV
 Forming
+Fy
 nach
 neue
 negativen
@@ -3818,6 +3823,7 @@ ner
 names
 nichtinvertierenden
 nZOnfd
+nb
 Christus
 Christianisierung
 Christentum
@@ -4385,6 +4391,8 @@ Methode
 Math
 MmI
 MHz
+MuiWe
+MxF
 Rom
 Ratten
 Römischen
@@ -4579,6 +4587,7 @@ Rückgängig
 RiQG
 RwVebzSS
 Rückwirkungskennlinie
+Rückkoplung
 vor
 verbreiten
 vom
@@ -4779,6 +4788,7 @@ verstehst
 viewUpdateScene
 viewBackgroundColor
 vWx
+vVesManY
 West
 Welt
 Wachstum
@@ -5161,6 +5171,7 @@ Logik
 Leerzeichen
 Logisch
 LsLZf
+Loopback
 Ost
 OS
 Obwohl
@@ -5289,6 +5300,8 @@ Objects
 Okii
 Oder
 Object
+Operationsverstärker
+OOAF
 Alt
 Amerikas
 Atombindung
@@ -5574,6 +5587,8 @@ Anhand
 Ausgangspannung
 Ausgangskennlinienfeld
 Ausgangswiederstand
+Ausgang
+Ausgangsspannung
 Griechisch
 Glauben
 Gewalt
@@ -6134,6 +6149,7 @@ copyViewElementsToEAforEditing
 currentItemStrokeColor
 currentItemBackgroundColor
 cpVMgZ
+cWQt
 zu
 zum
 zur
@@ -6273,6 +6289,7 @@ zugewieden
 zähler
 zurückgibt
 zhMSVzzs
+zurückgeführt
 Theologie
 Thema
 Teller
@@ -6781,6 +6798,7 @@ Selben
 String
 Schleife
 Storming
+Spannungsteiler
 Handel
 Hygiene
 Halbleiter
@@ -8915,6 +8933,7 @@ lesbarer
 liste
 lightness
 lightnessTo
+lEQcE
 Queue
 QHvC
 Qp
@@ -8993,6 +9012,7 @@ QzRupGOM
 QobdJc
 QcVaZdMI
 QmjDjGGA
+QnxDJSCG
 überall
 übersetzt
 übernehmen
