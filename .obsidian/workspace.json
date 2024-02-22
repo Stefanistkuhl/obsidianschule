@@ -234,6 +234,16 @@
             }
           },
           {
+            "id": "3170e15d0c596b15",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Zeichnungen/DR22-02-2024-42.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "3abbe0c902bfd831",
             "type": "leaf",
             "state": {
@@ -246,7 +256,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -321,7 +331,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/nawi/🪄Naturtigerschaften.md",
+                "file": "Zeichnungen/DR22-02-2024-42.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -366,7 +376,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/nawi/🪄Naturtigerschaften.md"
+                "file": "Zeichnungen/DR22-02-2024-42.excalidraw.md"
               }
             }
           },
@@ -395,7 +405,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -415,11 +425,12 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "2e72b4832e8e0f8b",
+  "active": "3170e15d0c596b15",
   "lastOpenFiles": [
+    "2.Klasse/nawi/🪄Naturtigerschaften.md",
+    "Zeichnungen/DR22-02-2024-42.excalidraw.md",
     "Zeichnungen/DR22-02-2024-27.excalidraw.md",
     "Überlebenswichtige Strichlisten.md",
-    "2.Klasse/nawi/🪄Naturtigerschaften.md",
     "Zeichnungen/DR22-02-2024-11.excalidraw.md",
     "Privat/🛜ccna theroie.md",
     "2.Klasse/Ipt/4 Team Phase.md",
@@ -450,7 +461,6 @@
     "2.Klasse/Ipt/😐Bwl Tiger.md",
     "2.Klasse/Ipt/Vision.md",
     "😟Games die ich Spielen muss.md",
-    "Privat/Gwyndolin Cosplay.md",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/fürst_connect_a_wired_and_wireless_lan.zip",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/fürst_connect_a_wired_and_wireless_lan.zip.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/4.6.5 Packet Tracer - Connect a Wired and Wireless LAN.pka~",

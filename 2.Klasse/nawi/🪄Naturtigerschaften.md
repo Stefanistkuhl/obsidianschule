@@ -145,4 +145,8 @@ Ersetzen Si an manchen Positionen des Gitters durch Atome aus anderen Hauptgrupp
 ![[DR22-02-2024-27.excalidraw]]
 > Mehr Löcher → Höher Löcherstrom
 
+### <mark style="background: #FFB8EBA6;">pn-Übergang</mark>
+
+![[DR22-02-2024-42.excalidraw]]
+
 
