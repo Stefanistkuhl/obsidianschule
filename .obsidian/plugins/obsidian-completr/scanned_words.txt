@@ -357,6 +357,7 @@ KANN
 Kleinbuchstaben
 Konfigurationsdateien
 KhjLS
+Khlw
 ggp
 genauen
 gibt
@@ -2102,6 +2103,7 @@ defaultColorPalette
 datum
 deleted
 desired
+dEKNvRNv
 es
 entstanden
 entstehen
@@ -3692,6 +3694,9 @@ Fünfjährigen
 FZOkV
 Forming
 For
+FkgbfRk
+FvHQ
+FpmVqlnN
 nach
 neue
 negativen
@@ -5627,6 +5632,7 @@ Aufgabenstellung
 Abbildungsverzeichnis
 Anhang
 Additional
+AOhhkMwM
 Griechisch
 Glauben
 Gewalt
@@ -5831,6 +5837,8 @@ Gegenteil
 Großbuchstaben
 GND
 Gitters
+GMYsGmE
+GidBI
 wurden
 wegen
 wird
@@ -6335,6 +6343,7 @@ zähler
 zurückgibt
 zhMSVzzs
 zusammenfassung
+zkTZv
 Theologie
 Thema
 Teller
@@ -6503,6 +6512,7 @@ TOC
 Toc
 This
 TRZoywxg
+TayOWkEP
 Städte
 Südamerika
 Spanien
@@ -6848,6 +6858,7 @@ String
 Schleife
 Storming
 SEy
+SHlkoEIL
 Handel
 Hygiene
 Halbleiter
@@ -7318,6 +7329,7 @@ automatically
 available
 above
 amyPl
+aGLLpv
 oft
 oder
 os
@@ -8150,6 +8162,7 @@ rkJpJU
 resolve
 remember
 replace
+rxdnzqe
 hat
 hervorgerufen
 haben
@@ -8739,6 +8752,8 @@ Variable
 Varible
 Vollständige
 VjT
+VsOuK
+VYO
 je
 jeder
 jeweils
@@ -9280,6 +9295,7 @@ YXO
 YA
 YoO
 YdEs
+YiKKGF
 Öffnung
 Öffentliche
 Österreicher

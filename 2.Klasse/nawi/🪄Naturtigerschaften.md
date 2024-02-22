@@ -135,7 +135,13 @@ Die e- von Si sind schwach gebunden, dass die e- Orbitale verlassen können.
 
 Ersetzen Si an manchen Positionen des Gitters durch Atome aus anderen Hauptgruppen (meist aus 3 oder 5)
 
-### <mark style="background: #FFB8EBA6;">n-Dotierung</mark>
+### <mark style="background: #FFB8EBA6;">n(negativ)-Dotierung</mark>
 
 ![[DR22-02-2024-11.excalidraw]]
-> Wichtig; P hat eine pos Ladung
+> Mehr freie e- → höher e- Strom 
+ 
+### <mark style="background: #FFB8EBA6;">p(positiv)-Dotierung</mark>
+
+
+
+
