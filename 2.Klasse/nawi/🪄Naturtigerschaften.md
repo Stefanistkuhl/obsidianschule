@@ -156,3 +156,7 @@ Ersetzen Si an manchen Positionen des Gitters durch Atome aus anderen Hauptgrupp
 
 ### <mark style="background: #FFB8EBA6;">Durchlassrichtung</mark>
 
+![[DR22-02-2024-43.excalidraw]]
+> Raumladungszone verschwindet → Stromfluss möglich
+
+Anwendung: Diode
