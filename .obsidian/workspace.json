@@ -212,16 +212,6 @@
             }
           },
           {
-            "id": "7ce1316c7d67c4fe",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Zeichnungen/DR22-02-2024-27.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "2e72b4832e8e0f8b",
             "type": "leaf",
             "state": {
@@ -256,7 +246,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
