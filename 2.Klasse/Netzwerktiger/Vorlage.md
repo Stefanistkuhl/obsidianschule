@@ -28,7 +28,8 @@ Abgabedatum:           datum
 - [[#5. Vollständige Konfigurationsdateien|5. Vollständige Konfigurationsdateien]]
 - [[#6. Abbildungsverzeichnis|6. Abbildungsverzeichnis]]
 
-<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
+<div style="page-break-after: always; visibility: hidden"> \pagebreak 
+</div>
 
 
 ## 1. Aufgabenstellung
@@ -50,6 +51,9 @@ afsidjgisdgjsdg
 ### 4.1 Schritt 1
 #### 4.1.2 Schritt 2
 
+
+<div style="page-break-after: always; visibility: hidden"> \pagebreak 
+</div>
 ## 5. Vollständige Konfigurationsdateien
 iwas
 
