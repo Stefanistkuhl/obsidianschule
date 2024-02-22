@@ -224,16 +224,6 @@
             }
           },
           {
-            "id": "5acb6caec475c0ef",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Zeichnungen/DR22-02-2024-43.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "3abbe0c902bfd831",
             "type": "leaf",
             "state": {
@@ -244,9 +234,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f472787061abb009",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Klasse/Netzwerktiger/Vorlage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -321,7 +323,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/nawi/🪄Naturtigerschaften.md",
+                "file": "2.Klasse/Netzwerktiger/Vorlage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -366,7 +368,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/nawi/🪄Naturtigerschaften.md"
+                "file": "2.Klasse/Netzwerktiger/Vorlage.md"
               }
             }
           },
@@ -415,10 +417,10 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "2e72b4832e8e0f8b",
+  "active": "f472787061abb009",
   "lastOpenFiles": [
-    "Zeichnungen/DR22-02-2024-43.excalidraw.md",
     "2.Klasse/nawi/🪄Naturtigerschaften.md",
+    "Zeichnungen/DR22-02-2024-43.excalidraw.md",
     "Zeichnungen/DR22-02-2024-12.excalidraw.md",
     "Zeichnungen/DR22-02-2024-42.excalidraw.md",
     "Zeichnungen/DR22-02-2024-27.excalidraw.md",
