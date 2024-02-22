@@ -246,9 +246,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "24a74eefaf340594",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -417,7 +427,7 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "f472787061abb009",
+  "active": "24a74eefaf340594",
   "lastOpenFiles": [
     "2.Klasse/nawi/🪄Naturtigerschaften.md",
     "Zeichnungen/DR22-02-2024-43.excalidraw.md",
