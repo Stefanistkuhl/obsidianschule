@@ -222,9 +222,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "066c1773775f0512",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Zeichnungen/DR22-02-2024-11.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -299,7 +309,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/nawi/🪄Naturtigerschaften.md",
+                "file": "Zeichnungen/DR22-02-2024-11.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -344,7 +354,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/nawi/🪄Naturtigerschaften.md"
+                "file": "Zeichnungen/DR22-02-2024-11.excalidraw.md"
               }
             }
           },
@@ -382,19 +392,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": true,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": true,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian42-brat:BRAT": false,
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "ff61ac6edcaf5b51",
+  "active": "066c1773775f0512",
   "lastOpenFiles": [
+    "2.Klasse/nawi/🪄Naturtigerschaften.md",
+    "Zeichnungen/DR22-02-2024-11.excalidraw.md",
     "Privat/🛜ccna theroie.md",
     "2.Klasse/Ipt/4 Team Phase.md",
     "2.Klasse/Netzwerktiger/Vorlage.md",
@@ -427,8 +439,6 @@
     "Privat/Gwyndolin Cosplay.md",
     "idi.md",
     "Privat/soulskuhroring challegerun liste.md",
-    "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
-    "Privat/Homelab/Filmliste.md",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/fürst_connect_a_wired_and_wireless_lan.zip",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/fürst_connect_a_wired_and_wireless_lan.zip.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/4.6.5 Packet Tracer - Connect a Wired and Wireless LAN.pka~",

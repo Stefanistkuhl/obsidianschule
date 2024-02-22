@@ -124,9 +124,18 @@ Wenn die höchsten s und p Orbitale voll besetzt sind, befindet sich das Atom in
 
 Allgemein: Es gibt immer die Valzenz e- im Spiel
 
-### <mark style="background: #FFB8EBA6;">Halbleiter</mark>
+# <mark style="background: #FFB8EBA6;">Halbleiter</mark>
 
 > Wichtigster Vertreter Silizium Si (4te HG)
 
 ![[DR15-02-2024-34_0.excalidraw]]
 Die e- von Si sind schwach gebunden, dass die e- Orbitale verlassen können.  
+
+## <mark style="background: #FFB8EBA6;">Dotierung</mark>
+
+Ersetzen Si an manchen Positionen des Gitters durch Atome aus anderen Hauptgruppen (meist aus 3 oder 5)
+
+### <mark style="background: #FFB8EBA6;">n-Dotierung</mark>
+
+![[DR22-02-2024-11.excalidraw]]
+> Wichtig; P hat eine pos Ladung
