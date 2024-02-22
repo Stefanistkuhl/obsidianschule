@@ -160,3 +160,4 @@ Ersetzen Si an manchen Positionen des Gitters durch Atome aus anderen Hauptgrupp
 > Raumladungszone verschwindet → Stromfluss möglich
 
 Anwendung: Diode
+
