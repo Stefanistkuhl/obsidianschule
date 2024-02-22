@@ -246,19 +246,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "24a74eefaf340594",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
         ],
-        "currentTab": 20
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -427,8 +417,9 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "24a74eefaf340594",
+  "active": "f472787061abb009",
   "lastOpenFiles": [
+    "2.Klasse/Netzwerktiger/Aufgaben/~$rlage - Kopie.docx",
     "2.Klasse/nawi/🪄Naturtigerschaften.md",
     "Zeichnungen/DR22-02-2024-43.excalidraw.md",
     "Zeichnungen/DR22-02-2024-12.excalidraw.md",
@@ -442,7 +433,6 @@
     "2.Klasse/Netzwerktiger/header.png",
     "2.Klasse/Netzwerktiger/Bild2.png",
     "conflict-files-obsidian-git.md",
-    "2.Klasse/Netzwerktiger/Aufgaben/~$rlage - Kopie.docx",
     "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/Operationsverstärker.md",
     "2.Klasse/Netzwerktiger/Aufgaben/~WRL0001.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/~WRD0000.tmp",
@@ -462,7 +452,6 @@
     "Zeichnungen/DR20-02-2024-43.excalidraw.md",
     "2.Klasse/Ipt/bwl v2.md",
     "2.Klasse/Mathe/polarformen komplexezahlen.md",
-    "2.Klasse/Ipt/😐Bwl Tiger.md",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/fürst_connect_a_wired_and_wireless_lan.zip",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/fürst_connect_a_wired_and_wireless_lan.zip.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/4.6.5 Packet Tracer - Connect a Wired and Wireless LAN.pka~",
