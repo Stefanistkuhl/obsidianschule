@@ -142,6 +142,7 @@ Ersetzen Si an manchen Positionen des Gitters durch Atome aus anderen Hauptgrupp
  
 ### <mark style="background: #FFB8EBA6;">p(positiv)-Dotierung</mark>
 
-
+![[DR22-02-2024-27.excalidraw]]
+> Mehr Löcher → Höher Löcherstrom
 
 

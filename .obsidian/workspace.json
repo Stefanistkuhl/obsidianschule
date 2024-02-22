@@ -212,7 +212,17 @@
             }
           },
           {
-            "id": "19c908fa45d40719",
+            "id": "7ce1316c7d67c4fe",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Zeichnungen/DR22-02-2024-27.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "2e72b4832e8e0f8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -220,16 +230,6 @@
                 "file": "2.Klasse/nawi/🪄Naturtigerschaften.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "7ce1316c7d67c4fe",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Zeichnungen/DR22-02-2024-27.excalidraw.md"
               }
             }
           },
@@ -246,7 +246,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -321,7 +321,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Überlebenswichtige Strichlisten.md",
+                "file": "2.Klasse/nawi/🪄Naturtigerschaften.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -366,7 +366,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Überlebenswichtige Strichlisten.md"
+                "file": "2.Klasse/nawi/🪄Naturtigerschaften.md"
               }
             }
           },
@@ -415,7 +415,7 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "3abbe0c902bfd831",
+  "active": "2e72b4832e8e0f8b",
   "lastOpenFiles": [
     "Zeichnungen/DR22-02-2024-27.excalidraw.md",
     "Überlebenswichtige Strichlisten.md",

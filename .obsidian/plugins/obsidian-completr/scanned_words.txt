@@ -7026,6 +7026,7 @@ HTTP
 Hihw
 Heading
 Hauptgruppen
+HprcfvD
 an
 auf
 aus
@@ -7608,6 +7609,7 @@ NWT
 Netzwerktopologie
 Not
 NHrVqD
+Neg
 Infizierte
 Indium
 Instanz
