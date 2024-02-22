@@ -224,12 +224,12 @@
             }
           },
           {
-            "id": "3170e15d0c596b15",
+            "id": "5acb6caec475c0ef",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Zeichnungen/DR22-02-2024-42.excalidraw.md"
+                "file": "Zeichnungen/DR22-02-2024-43.excalidraw.md"
               }
             }
           },
@@ -321,7 +321,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichnungen/DR22-02-2024-42.excalidraw.md",
+                "file": "Zeichnungen/DR22-02-2024-43.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -366,7 +366,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Zeichnungen/DR22-02-2024-42.excalidraw.md"
+                "file": "Zeichnungen/DR22-02-2024-43.excalidraw.md"
               }
             }
           },
@@ -415,9 +415,11 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "3170e15d0c596b15",
+  "active": "5acb6caec475c0ef",
   "lastOpenFiles": [
     "2.Klasse/nawi/🪄Naturtigerschaften.md",
+    "Zeichnungen/DR22-02-2024-43.excalidraw.md",
+    "Zeichnungen/DR22-02-2024-12.excalidraw.md",
     "Zeichnungen/DR22-02-2024-42.excalidraw.md",
     "Zeichnungen/DR22-02-2024-27.excalidraw.md",
     "Überlebenswichtige Strichlisten.md",
@@ -449,8 +451,6 @@
     "2.Klasse/Ipt/bwl v2.md",
     "2.Klasse/Mathe/polarformen komplexezahlen.md",
     "2.Klasse/Ipt/😐Bwl Tiger.md",
-    "2.Klasse/Ipt/Vision.md",
-    "😟Games die ich Spielen muss.md",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/fürst_connect_a_wired_and_wireless_lan.zip",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/fürst_connect_a_wired_and_wireless_lan.zip.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/connect a wired and wireless lan/4.6.5 Packet Tracer - Connect a Wired and Wireless LAN.pka~",

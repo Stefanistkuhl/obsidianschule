@@ -149,4 +149,10 @@ Ersetzen Si an manchen Positionen des Gitters durch Atome aus anderen Hauptgrupp
 
 ![[DR22-02-2024-42.excalidraw]]
 
+### <mark style="background: #FFB8EBA6;">Sperrichtung</mark>
+
+![[DR22-02-2024-12.excalidraw]]
+> Raumladungszone breitet sich aus → Stromfluss blockiert (bis zu einer bestimmten Spannung)
+
+### <mark style="background: #FFB8EBA6;">Durchlassrichtung</mark>
 
