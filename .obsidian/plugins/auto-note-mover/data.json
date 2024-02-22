@@ -2,7 +2,68 @@
   "trigger_auto_manual": "Automatic",
   "use_regex_to_check_for_tags": false,
   "statusBar_trigger_indicator": true,
-  "folder_tag_pattern": [],
+  "folder_tag_pattern": [
+    {
+      "folder": "2.Klasse/nawi",
+      "tag": "#nawi",
+      "pattern": ""
+    },
+    {
+      "folder": "2.Klasse/Itsi",
+      "tag": "#itsi",
+      "pattern": ""
+    },
+    {
+      "folder": "2.Klasse/Ipt",
+      "tag": "#ipt",
+      "pattern": ""
+    },
+    {
+      "folder": "2.Klasse/Sysgrrrrtechnik",
+      "tag": "#syt",
+      "pattern": ""
+    },
+    {
+      "folder": "2.Klasse/Netzwerktiger",
+      "tag": "nwt",
+      "pattern": ""
+    },
+    {
+      "folder": "2.Klasse/Medt",
+      "tag": "#medt",
+      "pattern": ""
+    },
+    {
+      "folder": "2.Klasse/Ggp",
+      "tag": "#ggp",
+      "pattern": ""
+    },
+    {
+      "folder": "2.Klasse/Mathe",
+      "tag": "#m",
+      "pattern": ""
+    },
+    {
+      "folder": "Privat",
+      "tag": "#Privat",
+      "pattern": ""
+    },
+    {
+      "folder": "2.Klasse/English",
+      "tag": "#e",
+      "pattern": ""
+    },
+    {
+      "folder": "2.Klasse/Deutsch",
+      "tag": "#d",
+      "pattern": ""
+    },
+    {
+      "folder": "2.Klasse/Sew",
+      "tag": "#sew",
+      "pattern": ""
+    }
+  ],
   "use_regex_to_check_for_excluded_folder": false,
   "excluded_folder": [
     {

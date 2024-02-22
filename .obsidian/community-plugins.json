@@ -16,10 +16,19 @@
   "obsidian-kanban",
   "obsidian-image-toolkit",
   "obsidian-icon-folder",
-  "obsidian-html-tags-autocomplete",
   "highlightr-plugin",
   "execute-code",
   "obsidian-excalidraw-plugin",
   "emoji-titler",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-emoji-toolbar",
+  "obsidian-daily-stats",
+  "obsidian-completr",
+  "obsidian42-brat",
+  "better-word-count",
+  "better-export-pdf",
+  "auto-note-mover",
+  "arrows",
+  "advanced-cursors",
+  "3d-graph-new"
 ]
