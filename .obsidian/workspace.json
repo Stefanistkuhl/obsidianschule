@@ -210,9 +210,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "19c908fa45d40719",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Klasse/nawi/🪄Naturtigerschaften.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -287,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/Vorlage.md",
+                "file": "2.Klasse/nawi/🪄Naturtigerschaften.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -332,7 +344,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/Vorlage.md"
+                "file": "2.Klasse/nawi/🪄Naturtigerschaften.md"
               }
             }
           },
@@ -362,28 +374,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "3d-graph-new:Global 3D Graph": true,
-      "3d-graph:3D Graph": true,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": true,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": true,
-      "obsidian42-brat:BRAT": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": true
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "7e500c57b47c0c26",
+  "active": "19c908fa45d40719",
   "lastOpenFiles": [
+    "2.Klasse/Ipt/4 Team Phase.md",
+    "2.Klasse/Netzwerktiger/Vorlage.md",
     "2.Klasse/Netzwerktiger/header.png",
     "2.Klasse/Netzwerktiger/Bild2.png",
     "conflict-files-obsidian-git.md",
-    "2.Klasse/Netzwerktiger/Vorlage.md",
     "2.Klasse/Netzwerktiger/Aufgaben/~$rlage - Kopie.docx",
     "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/Operationsverstärker.md",
-    "2.Klasse/Ipt/4 Team Phase.md",
     "2.Klasse/Netzwerktiger/Aufgaben/~WRL0001.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/~WRD0000.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/Vorlage - Kopie.docx",
@@ -423,7 +430,6 @@
     "Zeichnungen/DR04-12-2023-27.excalidraw.png",
     "bilder/Pasted image 20231218122609.png",
     "bilder/Pasted image 20231216162919.png",
-    "Excalidraw/Scripts/Downloaded/Slideshow.svg",
     "Zeichnungen/Untitled.canvas"
   ]
 }
