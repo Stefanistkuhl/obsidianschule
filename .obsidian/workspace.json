@@ -246,9 +246,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ab86621a5b83b91f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Privat/Soulskuhroring challanges notizen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -323,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/Vorlage.md",
+                "file": "Privat/Soulskuhroring challanges notizen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -368,7 +380,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/Vorlage.md"
+                "file": "Privat/Soulskuhroring challanges notizen.md"
               }
             }
           },
@@ -417,8 +429,9 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "f472787061abb009",
+  "active": "ab86621a5b83b91f",
   "lastOpenFiles": [
+    "2.Klasse/Netzwerktiger/Vorlage.md",
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/Fürst_Frame_Analyse_Wireshark.pdf",
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/~WRD0149.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/~WRL2042.tmp",
@@ -429,7 +442,6 @@
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/~WRD0937.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/~WRL0695.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/~WRD0641.tmp",
-    "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/~WRL3914.tmp",
     "2.Klasse/nawi/🪄Naturtigerschaften.md",
     "Zeichnungen/DR22-02-2024-43.excalidraw.md",
     "Zeichnungen/DR22-02-2024-12.excalidraw.md",
@@ -439,7 +451,6 @@
     "Zeichnungen/DR22-02-2024-11.excalidraw.md",
     "Privat/🛜ccna theroie.md",
     "2.Klasse/Ipt/4 Team Phase.md",
-    "2.Klasse/Netzwerktiger/Vorlage.md",
     "2.Klasse/Netzwerktiger/header.png",
     "2.Klasse/Netzwerktiger/Bild2.png",
     "conflict-files-obsidian-git.md",

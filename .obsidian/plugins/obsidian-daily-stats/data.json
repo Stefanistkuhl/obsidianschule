@@ -1,19 +1,12 @@
 {
   "dayCounts": {
-    "2024/1/22": 132
+    "2024/1/22": 132,
+    "2024/1/23": 0
   },
   "todaysWordCount": {
-    "2.Klasse/nawi/🪄Naturtigerschaften.md": {
-      "initial": 635,
-      "current": 745
-    },
-    "Überlebenswichtige Strichlisten.md": {
-      "initial": 0,
-      "current": 12
-    },
-    "2.Klasse/Netzwerktiger/Vorlage.md": {
-      "initial": 134,
-      "current": 144
+    "Privat/Soulskuhroring challanges notizen.md": {
+      "initial": 226,
+      "current": 226
     }
   }
 }
