@@ -2114,6 +2114,7 @@ deleted
 desired
 dEKNvRNv
 dAGe
+dashen
 es
 entstanden
 entstehen
@@ -2757,6 +2758,9 @@ strokeColor
 shzRD
 strongly
 sUUGwU
+stmapf
+seite
+sprung
 und
 um
 ungefähr
@@ -3879,6 +3883,7 @@ nichtinvertierenden
 nZOnfd
 netzwerktopologie
 nUccb
+niall
 Christus
 Christianisierung
 Christentum
@@ -7373,6 +7378,7 @@ amyPl
 aGLLpv
 aVjy
 aOMYEXtK
+aufstehen
 oft
 oder
 os
@@ -8213,6 +8219,7 @@ remember
 replace
 rxdnzqe
 rej
+riposte
 hat
 hervorgerufen
 haben
