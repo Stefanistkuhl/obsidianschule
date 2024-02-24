@@ -360,6 +360,7 @@ Konfigurationsdateien
 KhjLS
 Khlw
 KWYKKI
+Komplexe
 ggp
 genauen
 gibt
@@ -1456,6 +1457,7 @@ Positionen
 PjG
 PJCRjBPx
 PhB
+Polarformen
 bei
 background
 bis
@@ -8621,6 +8623,7 @@ Buchstabens
 BvCp
 Betreuer
 BFBHiHp
+Brüche
 Voraussetzungen
 Valenziabrücken
 Vekehrswesen

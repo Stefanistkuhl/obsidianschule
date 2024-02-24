@@ -258,9 +258,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "48b77b08ac952e6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Klasse/Mathe/😖Mathiger.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -335,7 +347,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privat/Soulskuhroring challanges notizen.md",
+                "file": "2.Klasse/Mathe/😖Mathiger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -380,7 +392,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Privat/Soulskuhroring challanges notizen.md"
+                "file": "2.Klasse/Mathe/😖Mathiger.md"
               }
             }
           },
@@ -429,8 +441,9 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "ab86621a5b83b91f",
+  "active": "48b77b08ac952e6a",
   "lastOpenFiles": [
+    "Privat/Soulskuhroring challanges notizen.md",
     "2.Klasse/Netzwerktiger/Vorlage.md",
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/Fürst_Frame_Analyse_Wireshark.pdf",
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/~WRD0149.tmp",
