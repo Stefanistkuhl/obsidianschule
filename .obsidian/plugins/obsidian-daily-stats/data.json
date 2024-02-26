@@ -2,12 +2,13 @@
   "dayCounts": {
     "2024/1/22": 132,
     "2024/1/23": 22,
-    "2024/1/24": 5
+    "2024/1/24": 5,
+    "2024/1/26": 0
   },
   "todaysWordCount": {
     "2.Klasse/Mathe/😖Mathiger.md": {
-      "initial": 2530,
-      "current": 2535
+      "initial": 2543,
+      "current": 2543
     }
   }
 }
