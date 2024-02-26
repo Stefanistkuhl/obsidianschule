@@ -628,12 +628,12 @@ x=1-i*\sqrt{ 3 }
 ```
 #### Hü 8
 
+4.76e)
 ```math
 ||{"id":466857197238}||
 
+1,5*lg(x)=\frac{1}{2}
 
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 
 
