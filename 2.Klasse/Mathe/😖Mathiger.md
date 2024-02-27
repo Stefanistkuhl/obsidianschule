@@ -656,7 +656,11 @@ N0 startanz
 
 f(t)=N_{0}*1,28^t
 
-N_{0}*e^{\lambda}
+f(t)=N_{0}*e^{\lambda*t}
+1,28=e^{\lambda}|\ln
+\ln_{1,28}=\ln e*\lambda=\ln_{1,28}=\lambda=0,2468
+
+
 
 ```
 
