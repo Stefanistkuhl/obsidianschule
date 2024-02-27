@@ -641,8 +641,12 @@ Radium
 ```math
 ||{"id":189549197194}||
 
-10770=\frac{\ln(0,01)}{\lambda}|*\lambda
-10770*\lambda=\ln(0,01)
+10770=\frac{\ln_{0,01}}{\lambda}|*\lambda
+10770*\lambda=\ln_{0,01}:10770
+\lambda = \frac{\ln_{0,01}}{10770}=0,004276 a^{-1}
+T \frac{1}{2}=\frac{\ln_{2}}{\lambda}=1671 Jahre
+Prozentuelle Abnahme
+e^{-\lambda}-1
 ```
 
 <div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
