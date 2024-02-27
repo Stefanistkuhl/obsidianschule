@@ -659,14 +659,12 @@ f(t)=N_{0}*1,28^t
 f(t)=N_{0}*e^{\lambda*t}
 1,28=e^{\lambda}|\ln
 \ln_{1,28}=\ln e*\lambda=\ln_{1,28}=\lambda=0,2468
-
-
-
+f(t)=N_{0}*e^{0,2468*t}
 ```
 
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
-
 4.87)
+3h von 40 auf 150
+prozentuelle Wachtstum?
 ```math
 ||{"id":216434309203}||
 
