@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5adf7cec60fbd0a4",
+        "id": "de0692b9a1657732",
         "type": "tabs",
         "children": [
           {
-            "id": "60e2e999db0545e0",
+            "id": "b3961adc549b4364",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Linuxdateisystem.md",
+                "file": "2.Klasse/Mathe/😖Mathiger.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Linuxdateisystem.md",
+                "file": "2.Klasse/Mathe/😖Mathiger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Linuxdateisystem.md"
+                "file": "2.Klasse/Mathe/😖Mathiger.md"
               }
             }
           },
@@ -188,20 +188,15 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "60e2e999db0545e0",
+  "active": "b3961adc549b4364",
   "lastOpenFiles": [
-    "bilder/Pasted image 20240227094254.png",
     "2.Klasse/Sysgrrrrtechnik/Tux Basics.md",
+    "2.Klasse/Mathe/😖Mathiger.md",
+    "bilder/Pasted image 20240227094254.png",
+    "2.Klasse/Sysgrrrrtechnik/anitgrrrmatik v2.md",
     "2.Klasse/Sysgrrrrtechnik/Linuxdateisystem.md",
     "2.Klasse/Sysgrrrrtechnik/Linux my beloved.md",
-    "2.Klasse/Sysgrrrrtechnik/anitgrrrmatik v2.md",
     "2.Klasse/Ipt/Motivation.md",
-    "2.Klasse/Ipt/bwl v2.md",
-    "2.Klasse/Ipt/Vision.md",
-    "2.Klasse/Ipt/Projektmagment.md",
-    "2.Klasse/Ipt/4 Team Phase.md",
-    "Untitled.md",
-    "2.Klasse/Mathe/😖Mathiger.md",
     "Privat/Soulskuhroring challanges notizen.md",
     "2.Klasse/Netzwerktiger/Vorlage.md",
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/Fürst_Frame_Analyse_Wireshark.pdf",
@@ -222,12 +217,17 @@
     "Überlebenswichtige Strichlisten.md",
     "Zeichnungen/DR22-02-2024-11.excalidraw.md",
     "Privat/🛜ccna theroie.md",
+    "2.Klasse/Ipt/4 Team Phase.md",
     "2.Klasse/Netzwerktiger/header.png",
     "2.Klasse/Netzwerktiger/Bild2.png",
     "conflict-files-obsidian-git.md",
     "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/Operationsverstärker.md",
     "2.Klasse/Netzwerktiger/Aufgaben/test.md",
     "Zeichnungen/DR20-02-2024-34.excalidraw.md",
+    "Aufgabenstellung.md",
+    "Zeichnungen/DR19-02-2024-29.excalidraw.md",
+    "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/transistor.md",
+    "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/grrrrrlektrotechnik v2 mit sin.md",
     "bilder/Pasted Image 20240214142018_828.png",
     "Untitled.canvas",
     "bilder/Pasted image 20240205193629.png",
@@ -236,7 +236,6 @@
     "bilder/Pasted image 20240124180145.png",
     "Zeichnungen/DR04-12-2023-27.excalidraw.png",
     "bilder/Pasted image 20231218122609.png",
-    "bilder/Pasted image 20231216162919.png",
     "Zeichnungen/Untitled.canvas"
   ]
 }

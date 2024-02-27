@@ -187,7 +187,7 @@ transparent
 tOrGJsJf
 tzPZG
 tqAvfV
-tion
+tux
 Klasse
 Kreuzritter
 Klagenfurt
@@ -749,7 +749,6 @@ Zeilen
 ZIVK
 Zivk
 ZbqUNRQ
-Zusatzlich
 Epochen
 Entdeckung
 Erste
@@ -977,7 +976,7 @@ Edz
 EEUJDKPw
 Ersetzen
 ERupg
-Eskalieren
+Entwickelt
 Das
 Dasselbe
 Diode
@@ -3344,8 +3343,6 @@ followed
 following
 frrBVTrm
 fSuI
-fragen
-fürs
 mark
 mit
 mangelnder
@@ -4464,8 +4461,6 @@ Methode
 Math
 MmI
 MHz
-Motiva
-Motiv
 Rom
 Ratten
 Römischen
@@ -4661,7 +4656,6 @@ RiQG
 RwVebzSS
 Rückwirkungskennlinie
 Raumladungszone
-Recherche
 vor
 verbreiten
 vom
@@ -5256,6 +5250,7 @@ Laborprotokoll
 Löcherstrom
 LzejfvcZ
 LNxCF
+Linus
 Ost
 OS
 Obwohl
@@ -6563,7 +6558,7 @@ Toc
 This
 TRZoywxg
 TayOWkEP
-Team
+Torvalds
 Städte
 Südamerika
 Spanien
@@ -6913,7 +6908,6 @@ SHlkoEIL
 Sf
 SDVA
 Stromfluss
-Sew
 Handel
 Hygiene
 Halbleiter
@@ -8828,7 +8822,6 @@ VjT
 VsOuK
 VYO
 Vereinfachte
-Verwandten
 je
 jeder
 jeweils
