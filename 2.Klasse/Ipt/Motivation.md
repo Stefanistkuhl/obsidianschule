@@ -4,7 +4,7 @@
 ↑
 Jeder hat ein Motiv 
 
-Bsp: ← Nachfragen und so das Urziel finden
+Bsp: ← Nachfragen und so das Grundmotiv finden
 Sew 
 - Zusatzlich etwas lernen
 - Abschluss → Geld

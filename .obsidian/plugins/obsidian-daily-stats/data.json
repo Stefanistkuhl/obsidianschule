@@ -4,7 +4,7 @@
     "2024/1/23": 22,
     "2024/1/24": 5,
     "2024/1/26": 1,
-    "2024/1/27": 47
+    "2024/1/27": 65
   },
   "todaysWordCount": {
     "2.Klasse/Ipt/Projektmagment.md": {
@@ -26,6 +26,30 @@
     "2.Klasse/Ipt/Motivation.md": {
       "initial": 2,
       "current": 31
+    },
+    "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/anitgrrrmatik v2.md": {
+      "initial": 7,
+      "current": 7
+    },
+    "2.Klasse/Sysgrrrrtechnik/anitgrrrmatik v2.md": {
+      "initial": 8,
+      "current": 10
+    },
+    "Linux my beloved.md": {
+      "initial": 0,
+      "current": 2
+    },
+    "2.Klasse/Sysgrrrrtechnik/Linux my beloved.md": {
+      "initial": 2,
+      "current": 5
+    },
+    "Tux Basics.md": {
+      "initial": 0,
+      "current": 3
+    },
+    "2.Klasse/Sysgrrrrtechnik/Tux Basics.md": {
+      "initial": 3,
+      "current": 11
     }
   }
 }
