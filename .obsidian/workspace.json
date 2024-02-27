@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Tux Basics.md",
+                "file": "2.Klasse/Sysgrrrrtechnik/Linuxdateisystem.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Tux Basics.md",
+                "file": "2.Klasse/Sysgrrrrtechnik/Linuxdateisystem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Tux Basics.md"
+                "file": "2.Klasse/Sysgrrrrtechnik/Linuxdateisystem.md"
               }
             }
           },
@@ -190,8 +190,10 @@
   },
   "active": "60e2e999db0545e0",
   "lastOpenFiles": [
-    "2.Klasse/Sysgrrrrtechnik/Linux my beloved.md",
+    "bilder/Pasted image 20240227094254.png",
     "2.Klasse/Sysgrrrrtechnik/Tux Basics.md",
+    "2.Klasse/Sysgrrrrtechnik/Linuxdateisystem.md",
+    "2.Klasse/Sysgrrrrtechnik/Linux my beloved.md",
     "2.Klasse/Sysgrrrrtechnik/anitgrrrmatik v2.md",
     "2.Klasse/Ipt/Motivation.md",
     "2.Klasse/Ipt/bwl v2.md",
@@ -226,8 +228,6 @@
     "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/Operationsverstärker.md",
     "2.Klasse/Netzwerktiger/Aufgaben/test.md",
     "Zeichnungen/DR20-02-2024-34.excalidraw.md",
-    "Aufgabenstellung.md",
-    "Zeichnungen/DR19-02-2024-29.excalidraw.md",
     "bilder/Pasted Image 20240214142018_828.png",
     "Untitled.canvas",
     "bilder/Pasted image 20240205193629.png",

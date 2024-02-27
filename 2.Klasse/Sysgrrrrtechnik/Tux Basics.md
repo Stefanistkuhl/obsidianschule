@@ -3,3 +3,4 @@
 - Entwickelt von Linus Torvalds in 1991
 - Open Source 
 
+![[Linuxdateisystem]]
