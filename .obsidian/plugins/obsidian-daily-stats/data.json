@@ -4,7 +4,7 @@
     "2024/1/23": 22,
     "2024/1/24": 5,
     "2024/1/26": 1,
-    "2024/1/27": 73
+    "2024/1/27": 87
   },
   "todaysWordCount": {
     "2.Klasse/Ipt/Projektmagment.md": {
@@ -58,6 +58,10 @@
     "2.Klasse/Sysgrrrrtechnik/Dateisystem.md": {
       "initial": 7,
       "current": 7
+    },
+    "2.Klasse/Sysgrrrrtechnik/Linuxdateisystem.md": {
+      "initial": 7,
+      "current": 21
     }
   }
 }
