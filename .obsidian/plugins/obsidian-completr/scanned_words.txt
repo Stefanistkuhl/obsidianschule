@@ -611,6 +611,8 @@ getCM
 getViewElements
 getElements
 gesamten
+gerne
+graph
 Zettel
 Zwingen
 Zeichen
@@ -6072,6 +6074,8 @@ wiederholen
 wiederholt
 workspace
 wzA
+wüsste
+wieso
 christlichen
 code
 charakterisiert
@@ -9107,6 +9111,7 @@ lightnessTo
 list
 listed
 lTSCndA
+ln
 Queue
 QHvC
 Qp

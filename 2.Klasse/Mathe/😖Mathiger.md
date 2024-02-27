@@ -657,7 +657,7 @@ f)
 \frac{1}{x}=e^{0,5}=1.649
 x=\frac{1}{1.649}=0,607
 ```
-oida ich wüsste gerne wieso das 
+oida ich wüsste gerne wieso das fancy plugin um den graph zu machen, ln nicht erkennt D:
 ![[Pasted image 20240227172103.png]]
 
 

@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b3961adc549b4364",
+            "id": "31be939b625cffac",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -188,10 +188,12 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "b3961adc549b4364",
+  "active": "31be939b625cffac",
   "lastOpenFiles": [
-    "bilder/Pasted image 20240227172103.png",
+    "Stefan Fürst 2BHIT Mhü 8.md",
     "2.Klasse/Mathe/😖Mathiger.md",
+    "Untitled.md",
+    "bilder/Pasted image 20240227172103.png",
     "2.Klasse/Sysgrrrrtechnik/Tux Basics.md",
     "bilder/Pasted image 20240227094254.png",
     "2.Klasse/Sysgrrrrtechnik/anitgrrrmatik v2.md",
@@ -228,7 +230,6 @@
     "Aufgabenstellung.md",
     "Zeichnungen/DR19-02-2024-29.excalidraw.md",
     "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/transistor.md",
-    "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/grrrrrlektrotechnik v2 mit sin.md",
     "bilder/Pasted Image 20240214142018_828.png",
     "Untitled.canvas",
     "bilder/Pasted image 20240205193629.png",
@@ -236,7 +237,6 @@
     "bilder/Pasted image 20240124180154.png",
     "bilder/Pasted image 20240124180145.png",
     "Zeichnungen/DR04-12-2023-27.excalidraw.png",
-    "bilder/Pasted image 20231218122609.png",
     "Zeichnungen/Untitled.canvas"
   ]
 }

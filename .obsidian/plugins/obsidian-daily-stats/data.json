@@ -4,12 +4,16 @@
     "2024/1/23": 22,
     "2024/1/24": 5,
     "2024/1/26": 1,
-    "2024/1/27": 200
+    "2024/1/27": 432
   },
   "todaysWordCount": {
     "2.Klasse/Mathe/😖Mathiger.md": {
       "initial": 2552,
-      "current": 2752
+      "current": 2762
+    },
+    "Stefan Fürst 2BHIT Mhü 8.md": {
+      "initial": 8,
+      "current": 230
     }
   }
 }
