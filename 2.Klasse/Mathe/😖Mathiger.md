@@ -637,13 +637,12 @@ x=1-i*\sqrt{ 3 }
 ```
 4.83)
 Radium
-10700 Jahre → 1%
+10770 Jahre → 1%
 ```math
 ||{"id":189549197194}||
 
-10700=\frac{1}{100}*N_{0}
-N_{0}=\frac{10700}{0,01}=
-
+10770=\frac{\ln(0,01)}{\lambda}|*\lambda
+10770*\lambda=\ln(0,01)
 ```
 
 <div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
