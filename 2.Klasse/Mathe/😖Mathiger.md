@@ -643,24 +643,18 @@ Radium
 
 10770=\frac{\ln_{0,01}}{\lambda}|*\lambda
 10770*\lambda=\ln_{0,01}:10770
-\lambda = \frac{\ln_{0,01}}{10770}=0,004276 a^{-1}
-T \frac{1}{2}=\frac{\ln_{2}}{\lambda}=1671 Jahre
+\lambda = \frac{\ln_{0,01}}{10770}=0,0004276 a^{-1}
+T \frac{1}{2}=\frac{\ln_{2}}{\lambda}=1621 Jahre
 Prozentuelle Abnahme
-e^{-\lambda}-1
+e^{-\lambda}-1=-0,0004275=0,04\%
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 4.86)
+pro h + 28%
+N0 startanz
 ```math
 ||{"id":30767411302}||
 
 
 ```
 
-4.87)
-```math
-||{"id":216434309203}||
-
-
-```
-
+<div tabindex='-1'contenteditable='false' cla
