@@ -1,15 +1,17 @@
 {
   "pluginList": [
+    "TS-Tobias/obsidian-no-tabs",
     "HananoshikaYomaru/obsidian-3d-graph"
   ],
   "pluginSubListFrozenVersion": [],
   "themesList": [],
   "updateAtStartup": true,
   "updateThemesAtStartup": false,
-  "ribbonIconEnabled": true,
+  "enableAfterInstall": true,
   "loggingEnabled": false,
   "loggingPath": "BRAT-log",
   "loggingVerboseEnabled": false,
   "debuggingMode": true,
-  "notificationsEnabled": true
+  "notificationsEnabled": true,
+  "ribbonIconEnabled": true
 }
