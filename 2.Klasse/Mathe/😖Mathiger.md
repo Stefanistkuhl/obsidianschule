@@ -653,9 +653,13 @@ f)
 ||{"id":1385710779778}||
 
 \frac{1}{2}*\ln_{\frac{1}{x}}=\frac{1}{4}|:0,5
-\ln_{\frac{1}{x}}=0,125
-\frac{1}{x}=e^{0,125}=
+\ln_{\frac{1}{x}}=0,15
+\frac{1}{x}=e^{0,5}=1.649
+x=\frac{1}{1.649}=0,607
 ```
+oida ich wüsste gerne wieso das 
+![[Pasted image 20240227172103.png]]
+
 
 4.83)
 Radium
