@@ -636,11 +636,25 @@ x=1-i*\sqrt{ 3 }
 \log_{x}=0,\overline{3}= x=10^{0,\overline{3}}=2,154
 ```
 
+```functionplot
+---
+title: 
+xLabel: 
+yLabel: 
+bounds: [-10,10,-10,10]
+disableZoom: false
+grid: true
+---
+f(x)=log(x)*1.5
+```
+
 f)
 ```math
 ||{"id":1385710779778}||
 
-
+\frac{1}{2}*\ln_{\frac{1}{x}}=\frac{1}{4}|:0,5
+\ln_{\frac{1}{x}}=0,125
+\frac{1}{x}=e^{0,125}=
 ```
 
 4.83)
