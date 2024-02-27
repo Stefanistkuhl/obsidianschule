@@ -3,12 +3,29 @@
     "2024/1/22": 132,
     "2024/1/23": 22,
     "2024/1/24": 5,
-    "2024/1/26": 1
+    "2024/1/26": 1,
+    "2024/1/27": 47
   },
   "todaysWordCount": {
-    "2.Klasse/Mathe/😖Mathiger.md": {
-      "initial": 2543,
-      "current": 2544
+    "2.Klasse/Ipt/Projektmagment.md": {
+      "initial": 19,
+      "current": 19
+    },
+    "2.Klasse/Ipt/Vision.md": {
+      "initial": 11,
+      "current": 27
+    },
+    "Motivation.md": {
+      "initial": 0,
+      "current": 2
+    },
+    "2.Klasse/Itsi/Motivation.md": {
+      "initial": 2,
+      "current": 2
+    },
+    "2.Klasse/Ipt/Motivation.md": {
+      "initial": 2,
+      "current": 31
     }
   }
 }

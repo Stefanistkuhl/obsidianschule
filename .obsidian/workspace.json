@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "93172be860814f03",
+        "id": "5adf7cec60fbd0a4",
         "type": "tabs",
         "children": [
           {
-            "id": "15bb13be4ea0eda4",
+            "id": "2bdc01a8d4238e3e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2.Klasse/Ipt/Motivation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2.Klasse/Ipt/Motivation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2.Klasse/Ipt/Motivation.md"
+              }
             }
           },
           {
@@ -181,8 +188,13 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "7d2a89ea7b2d59bd",
+  "active": "2bdc01a8d4238e3e",
   "lastOpenFiles": [
+    "2.Klasse/Ipt/bwl v2.md",
+    "2.Klasse/Ipt/Motivation.md",
+    "2.Klasse/Ipt/Vision.md",
+    "2.Klasse/Ipt/Projektmagment.md",
+    "2.Klasse/Ipt/4 Team Phase.md",
     "Untitled.md",
     "2.Klasse/Mathe/😖Mathiger.md",
     "Privat/Soulskuhroring challanges notizen.md",
@@ -205,7 +217,6 @@
     "Überlebenswichtige Strichlisten.md",
     "Zeichnungen/DR22-02-2024-11.excalidraw.md",
     "Privat/🛜ccna theroie.md",
-    "2.Klasse/Ipt/4 Team Phase.md",
     "2.Klasse/Netzwerktiger/header.png",
     "2.Klasse/Netzwerktiger/Bild2.png",
     "conflict-files-obsidian-git.md",
@@ -217,10 +228,6 @@
     "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/transistor.md",
     "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/grrrrrlektrotechnik v2 mit sin.md",
     "Zeichnungen/DR22-01-2024-08.excalidraw.md",
-    "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/diemensionierung transistor.md",
-    "2.Klasse/Ipt/Projektmagment.md",
-    "Zeichnungen/DR20-02-2024-25.excalidraw.md",
-    "Zeichnungen/DR20-02-2024-43.excalidraw.md",
     "bilder/Pasted Image 20240214142018_828.png",
     "Untitled.canvas",
     "bilder/Pasted image 20240205193629.png",

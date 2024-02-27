@@ -14,5 +14,6 @@
   "trashOption": "none",
   "alwaysUpdateLinks": true,
   "spellcheck": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "vimMode": true
 }

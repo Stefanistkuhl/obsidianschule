@@ -13,8 +13,8 @@
     "xd"
   ],
   "accentColor": "#ffc7c7",
-  "interfaceFontFamily": "Cascadia Mono,Comic Sans MS",
-  "textFontFamily": "Cascadia Mono,Comic Sans MS",
+  "interfaceFontFamily": "Cascadia Mono",
+  "textFontFamily": "Cascadia Mono",
   "monospaceFontFamily": "Comic Sans MS",
   "cssTheme": "",
   "theme": "obsidian",
