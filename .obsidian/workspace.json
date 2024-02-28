@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "65ba287c43bd68a7",
+        "id": "48825c4138be482a",
         "type": "tabs",
         "children": [
           {
-            "id": "cf89d35e6d9ca040",
+            "id": "61b242955ba94051",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Überlebenswichtige Strichlisten.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Überlebenswichtige Strichlisten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Überlebenswichtige Strichlisten.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,7 +182,7 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "cf89d35e6d9ca040",
+  "active": "61b242955ba94051",
   "lastOpenFiles": [
     "Überlebenswichtige Strichlisten.md",
     "2.Klasse/Ipt/Tim Minchin 9 live lessons aufgabe.md",
