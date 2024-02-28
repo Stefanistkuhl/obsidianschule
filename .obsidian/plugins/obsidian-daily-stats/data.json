@@ -5,7 +5,7 @@
     "2024/1/24": 5,
     "2024/1/26": 1,
     "2024/1/27": 432,
-    "2024/1/28": 2
+    "2024/1/28": 9
   },
   "todaysWordCount": {
     "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/betriebsysthme wiederholung.md": {
@@ -18,7 +18,7 @@
     },
     "2.Klasse/Sysgrrrrtechnik/Hardware.md": {
       "initial": 3,
-      "current": 4
+      "current": 7
     },
     "Eva-Prinzip.md": {
       "initial": 62,
@@ -27,6 +27,22 @@
     "2.Klasse/Sysgrrrrtechnik/Eva-Prinzip.md": {
       "initial": 61,
       "current": 59
+    },
+    "Geschichte der Hardware.md": {
+      "initial": 1,
+      "current": 5
+    },
+    "2.Klasse/Sysgrrrrtechnik/Geschichte der Hardware.md": {
+      "initial": 6,
+      "current": 5
+    },
+    "Von-Neumannn-Rechnermodell.md": {
+      "initial": 116,
+      "current": 116
+    },
+    "2.Klasse/Sysgrrrrtechnik/Von-Neumannn-Rechnermodell.md": {
+      "initial": 113,
+      "current": 113
     }
   }
 }

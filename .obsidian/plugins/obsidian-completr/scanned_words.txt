@@ -362,6 +362,8 @@ KhjLS
 Khlw
 KWYKKI
 Komplexe
+Konzept
+Kommuniziert
 ggp
 genauen
 gibt
@@ -613,6 +615,8 @@ getElements
 gesamten
 gerne
 graph
+gelicher
+geteilt
 Zettel
 Zwingen
 Zeichen
@@ -751,6 +755,7 @@ Zeilen
 ZIVK
 Zivk
 ZbqUNRQ
+Zellen
 Epochen
 Entdeckung
 Erste
@@ -1462,6 +1467,7 @@ PjG
 PJCRjBPx
 PhB
 Polarformen
+Peripheriegeräten
 bei
 background
 bis
@@ -1719,6 +1725,9 @@ before
 below
 blocks
 blockiert
+beschrieb
+bearbeiteten
+bezeichnet
 ist
 in
 im
@@ -2121,6 +2130,7 @@ desired
 dEKNvRNv
 dAGe
 dashen
+deren
 es
 entstanden
 entstehen
@@ -2768,6 +2778,7 @@ stmapf
 seite
 sprung
 startanz
+steuert
 und
 um
 ungefähr
@@ -2919,6 +2930,8 @@ uBtvKaRP
 unnumbered
 using
 use
+universellen
+unabhängig
 keine
 konnten
 kein
@@ -3169,6 +3182,7 @@ JrlInOtG
 Jahrgang
 JYVUELdA
 JtBSB
+John
 für
 fall
 freibewegliches
@@ -3346,6 +3360,7 @@ followed
 following
 frrBVTrm
 fSuI
+fortlaufende
 mark
 mit
 mangelnder
@@ -3724,6 +3739,7 @@ FkgbfRk
 FvHQ
 FpmVqlnN
 FJXYoLW
+Führt
 nach
 neue
 negativen
@@ -4660,6 +4676,9 @@ RwVebzSS
 Rückwirkungskennlinie
 Raumladungszone
 Radium
+Rechnet
+Rechenwerk
+Rechen
 vor
 verbreiten
 vom
@@ -5062,6 +5081,7 @@ WtTiaan
 Wv
 WkyxWmwM
 Wachtstum
+Werken
 Latein
 Leute
 Läuse
@@ -5677,6 +5697,11 @@ Anhang
 Additional
 AOhhkMwM
 Ar
+Arethmetische
+Abfolge
+Ausgabewerk
+Ausgabe
+Anwender
 Griechisch
 Glauben
 Gewalt
@@ -6396,6 +6421,7 @@ zkTZv
 zGw
 zsH
 zcwk
+zugänglich
 Theologie
 Thema
 Teller
@@ -6915,6 +6941,8 @@ SHlkoEIL
 Sf
 SDVA
 Stromfluss
+Steuerwerk
+Steuert
 Handel
 Hygiene
 Halbleiter
@@ -7672,6 +7700,8 @@ Not
 NHrVqD
 Neg
 NnVPwPWj
+Neuman
+Nummern
 Infizierte
 Indium
 Instanz
@@ -7829,6 +7859,8 @@ Instructions
 IDeGKFAY
 IpZg
 ITSsPvn
+Interpretiert
+ISt
 pest
 pos
 purpose
