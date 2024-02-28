@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7248b4460b955b0e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Zeichnungen/DR28-02-2024-18.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Von-Neumannn-Rechnermodell.md",
+                "file": "Zeichnungen/DR28-02-2024-18.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +150,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Von-Neumannn-Rechnermodell.md"
+                "file": "Zeichnungen/DR28-02-2024-18.excalidraw.md"
               }
             }
           },
@@ -188,10 +199,11 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "f760c7642d1f4b76",
+  "active": "7248b4460b955b0e",
   "lastOpenFiles": [
-    "2.Klasse/Sysgrrrrtechnik/Hardware.md",
     "2.Klasse/Sysgrrrrtechnik/Von-Neumannn-Rechnermodell.md",
+    "Zeichnungen/DR28-02-2024-18.excalidraw.md",
+    "2.Klasse/Sysgrrrrtechnik/Hardware.md",
     "2.Klasse/Sysgrrrrtechnik/Geschichte der Hardware.md",
     "2.Klasse/Sysgrrrrtechnik/Eva-Prinzip.md",
     "2.Klasse/Sysgrrrrtechnik/betriebsysthme wiederholung.md",
@@ -229,7 +241,6 @@
     "2.Klasse/Netzwerktiger/header.png",
     "2.Klasse/Netzwerktiger/Bild2.png",
     "conflict-files-obsidian-git.md",
-    "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/Operationsverstärker.md",
     "bilder/Pasted Image 20240214142018_828.png",
     "Untitled.canvas",
     "bilder/Pasted image 20240205193629.png",
