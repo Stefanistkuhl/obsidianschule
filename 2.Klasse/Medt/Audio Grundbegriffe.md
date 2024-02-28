@@ -31,4 +31,16 @@
 
 - Der Klan einer natürlichen Klangquelle durchläuft in seinem <mark style="background: #FFB8EBA6;">Zeitlichen Verlauf</mark> mehrere Phasen.
 - Dieser Verlauf ist charakterischtisch für die Verschiedenen Musikinstrumente
-- 
+- Einschwingphase
+	- Zb Anschlagen der Gitarrenseite
+- Rückgang
+- stationäre Phase
+- Auschwing Phase
+
+# Musik
+
+- Musikalische Klangereignisse haben eine erkennbare <mark style="background: #FFB8EBA6;">Grundfrequnez</mark> zb Kammerton A = 400Hz
+- Die Empfindung der Tonhöhe eines musikalischen Tones wird durch die <mark style="background: #FFB8EBA6;">Freuenz</mark> seines Grundtones bestimmt.
+- Die Charakterisk eines Klanges wird druch seine <mark style="background: #FFB8EBA6;">Obertonschwingungen</mark> bestimmt. Jedes Musikinstrument hat ein anderes Obertonspektrum.
+- Intervalle beschreiben das <mark style="background: #FFB8EBA6;">Frequenzverhältnis</mark> zweier Töne zb <mark style="background: #FFB8EBA6;">Oktave</mark> = Verhältnis = 1:2 
+- Der Tonfrequnzbereich des meschlichen Gehörs umfasst ca 10 Oktaven (20hz,40hz,...)
