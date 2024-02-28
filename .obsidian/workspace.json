@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "23d578f6adc3795b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Zeichnungen/DR28-02-2024-18.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichnungen/DR28-02-2024-18.excalidraw.md",
+                "file": "2.Klasse/Sysgrrrrtechnik/Von-Neumannn-Rechnermodell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Zeichnungen/DR28-02-2024-18.excalidraw.md"
+                "file": "2.Klasse/Sysgrrrrtechnik/Von-Neumannn-Rechnermodell.md"
               }
             }
           },
@@ -199,7 +188,7 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "23d578f6adc3795b",
+  "active": "f760c7642d1f4b76",
   "lastOpenFiles": [
     "2.Klasse/Sysgrrrrtechnik/Von-Neumannn-Rechnermodell.md",
     "Zeichnungen/DR28-02-2024-18.excalidraw.md",
