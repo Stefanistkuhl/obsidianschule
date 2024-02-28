@@ -13,3 +13,5 @@ John von Neuman beschrieb 1945 das Konzept eines <mark style="background: #FFB8E
 	- Steuert Ein und Ausgabe von Daten.
 	- Kommuniziert mit Anwender und Peripheriegeräten
 
+![[DR28-02-2024-18.excalidraw]]
+

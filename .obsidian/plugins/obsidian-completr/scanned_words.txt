@@ -364,6 +364,7 @@ KWYKKI
 Komplexe
 Konzept
 Kommuniziert
+Kd
 ggp
 genauen
 gibt
@@ -984,6 +985,9 @@ EEUJDKPw
 Ersetzen
 ERupg
 Entwickelt
+EmLsK
+ETJhR
+Eingeit
 Das
 Dasselbe
 Diode
@@ -1225,6 +1229,9 @@ DcrW
 Datum
 Dot
 Darstellung
+Decodierung
+Datenbus
+DnAYkLu
 Problem
 Pest
 Portugal
@@ -1889,6 +1896,8 @@ iFdJEUV
 iwas
 inhaltsverzeichnis
 ikZ
+inw
+ibHj
 dass
 die
 den
@@ -2423,6 +2432,8 @@ erwartung
 eGKi
 eizq
 ehZ
+efTodjyl
+eghZa
 Übergange
 Übergänge
 Übergang
@@ -3907,6 +3918,7 @@ nZOnfd
 netzwerktopologie
 nUccb
 niall
+npBdbif
 Christus
 Christianisierung
 Christentum
@@ -4068,6 +4080,7 @@ CWxcZixf
 CdAl
 Conflicts
 CZHVU
+CxB
 Urgeschichte
 Universitäten
 Ufern
@@ -4241,6 +4254,7 @@ Unterrichtsgegenstand
 Unteüberschrift
 UwCqEpsM
 UFUch
+UCKkvDzb
 Mittelalter
 Merkmale
 Mönche
@@ -4885,6 +4899,7 @@ viewing
 vGHndXq
 vCq
 verschwindet
+vulCZjfO
 West
 Welt
 Wachstum
@@ -5276,6 +5291,8 @@ Löcherstrom
 LzejfvcZ
 LNxCF
 Linus
+LUDtimm
+Leitwerk
 Ost
 OS
 Obwohl
@@ -5405,6 +5422,7 @@ Okii
 Oder
 Object
 OUA
+OE
 Alt
 Amerikas
 Atombindung
@@ -5702,6 +5720,11 @@ Abfolge
 Ausgabewerk
 Ausgabe
 Anwender
+Adressbus
+Adresswerk
+Ausführungs
+ALU
+Adresse
 Griechisch
 Glauben
 Gewalt
@@ -5910,6 +5933,8 @@ GMYsGmE
 GidBI
 GXEUQyWr
 GXWV
+GhVf
+GWM
 wurden
 wegen
 wird
@@ -6943,6 +6968,7 @@ SDVA
 Stromfluss
 Steuerwerk
 Steuert
+Statusregister
 Handel
 Hygiene
 Halbleiter
@@ -7420,6 +7446,8 @@ aGLLpv
 aVjy
 aOMYEXtK
 aufstehen
+ahY
+aSWC
 oft
 oder
 os
@@ -7552,6 +7580,7 @@ optional
 obsidian
 occurrence
 onuVxB
+oZikq
 Namen
 Neuzeit
 Nord
@@ -8454,6 +8483,8 @@ hsv
 hidden
 hZMdx
 hQMI
+hFN
+hjlAXOEz
 Bananen
 Buch
 Beschreiben
@@ -8668,6 +8699,9 @@ BvCp
 Betreuer
 BFBHiHp
 Brüche
+Befehlsregister
+Befehlszähler
+Befehle
 Voraussetzungen
 Valenziabrücken
 Vekehrswesen
@@ -9144,6 +9178,8 @@ list
 listed
 lTSCndA
 ln
+lPfui
+logical
 Queue
 QHvC
 Qp
@@ -9409,6 +9445,8 @@ YA
 YoO
 YdEs
 YiKKGF
+YJU
+YalSJ
 Öffnung
 Öffentliche
 Österreicher
@@ -9511,6 +9549,7 @@ yp
 ywo
 ylnz
 yFETWS
+yYKFn
 XaShZjh
 XXtqRDri
 Xc
