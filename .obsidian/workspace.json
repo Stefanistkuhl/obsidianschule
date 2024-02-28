@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "22cd2bc294b03c35",
+        "id": "4c2187e24565f81e",
         "type": "tabs",
         "children": [
           {
-            "id": "a0155d70b78a6c79",
+            "id": "24518e1501ef6d03",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.Klasse/Medt/Audio Grundbegriffe.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Medt/Audio Grundbegriffe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "2.Klasse/Medt/Audio Grundbegriffe.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,8 +182,9 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "a0155d70b78a6c79",
+  "active": "24518e1501ef6d03",
   "lastOpenFiles": [
+    "2.Klasse/Medt/Audio Grundbegriffe.md",
     "2.Klasse/Medt/Audio.md",
     "Überlebenswichtige Strichlisten.md",
     "2.Klasse/Ipt/Tim Minchin 9 live lessons aufgabe.md",
@@ -228,7 +222,6 @@
     "Zeichnungen/DR22-02-2024-43.excalidraw.md",
     "Zeichnungen/DR22-02-2024-12.excalidraw.md",
     "Zeichnungen/DR22-02-2024-42.excalidraw.md",
-    "Zeichnungen/DR22-02-2024-27.excalidraw.md",
     "2.Klasse/Netzwerktiger/header.png",
     "2.Klasse/Netzwerktiger/Bild2.png",
     "bilder/Pasted Image 20240214142018_828.png",
