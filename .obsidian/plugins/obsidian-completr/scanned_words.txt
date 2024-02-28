@@ -2770,6 +2770,7 @@ stmapf
 seite
 sprung
 startanz
+scanned
 und
 um
 ungefähr
@@ -6081,6 +6082,7 @@ workspace
 wzA
 wüsste
 wieso
+words
 christlichen
 code
 charakterisiert
@@ -6257,6 +6259,7 @@ community
 cursor
 conflicted
 conflicts
+completr
 zu
 zum
 zur
