@@ -26,3 +26,9 @@
 - Ein Ton der ein sehr <mark style="background: #FFB8EBA6;">Komplexes Spektrum</mark> an Obertönen beinhaltet und trozdem eine erkennbare Grundfrequnez hat, nennt man <mark style="background: #FFB8EBA6;">Klang</mark>
 - Das <mark style="background: #FFB8EBA6;">Spektrum an Obertönen</mark> macht an die Charakterisk eines Klanges aus.
 - zb Musikinstrumente
+
+# Klangverlauf
+
+- Der Klan einer natürlichen Klangquelle durchläuft in seinem <mark style="background: #FFB8EBA6;">Zeitlichen Verlauf</mark> mehrere Phasen.
+- Dieser Verlauf ist charakterischtisch für die Verschiedenen Musikinstrumente
+- 
