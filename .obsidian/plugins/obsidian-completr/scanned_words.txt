@@ -1721,6 +1721,7 @@ before
 below
 blocks
 blockiert
+beeing
 ist
 in
 im
@@ -2771,6 +2772,7 @@ seite
 sprung
 startanz
 scanned
+shittalken
 und
 um
 ungefähr
@@ -4468,6 +4470,7 @@ Math
 MmI
 MHz
 Markmale
+Momente
 Rom
 Ratten
 Römischen
@@ -5261,6 +5264,7 @@ LzejfvcZ
 LNxCF
 Linus
 Leitfaden
+Lehrer
 Ost
 OS
 Obwohl
@@ -5390,6 +5394,7 @@ Okii
 Oder
 Object
 OUA
+Osko
 Alt
 Amerikas
 Atombindung
@@ -7680,6 +7685,7 @@ Not
 NHrVqD
 Neg
 NnVPwPWj
+Noten
 Infizierte
 Indium
 Instanz

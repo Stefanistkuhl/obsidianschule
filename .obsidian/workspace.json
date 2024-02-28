@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f2d8c1d059491b09",
+        "id": "65ba287c43bd68a7",
         "type": "tabs",
         "children": [
           {
-            "id": "33f689f12022f184",
+            "id": "cf89d35e6d9ca040",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.Klasse/Ipt/Tim Minchin 9 live lessons aufgabe.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Ipt/Tim Minchin 9 live lessons aufgabe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "2.Klasse/Ipt/Tim Minchin 9 live lessons aufgabe.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,8 +182,9 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "33f689f12022f184",
+  "active": "cf89d35e6d9ca040",
   "lastOpenFiles": [
+    "Überlebenswichtige Strichlisten.md",
     "2.Klasse/Ipt/Tim Minchin 9 live lessons aufgabe.md",
     "2.Klasse/Ipt/Vision.md",
     "2.Klasse/Sysgrrrrtechnik/Hardware.md",
@@ -227,7 +221,6 @@
     "Zeichnungen/DR22-02-2024-12.excalidraw.md",
     "Zeichnungen/DR22-02-2024-42.excalidraw.md",
     "Zeichnungen/DR22-02-2024-27.excalidraw.md",
-    "Überlebenswichtige Strichlisten.md",
     "Zeichnungen/DR22-02-2024-11.excalidraw.md",
     "2.Klasse/Netzwerktiger/header.png",
     "2.Klasse/Netzwerktiger/Bild2.png",
