@@ -8,7 +8,7 @@ John von Neuman beschrieb 1945 das Konzept eines <mark style="background: #FFB8E
 	- Interpretiert Programme und steuert deren Abfolge
 - <mark style="background: #FFB8EBA6;">Arbeitsspeicher</mark>
 	- Speichert Programme und Daten, welche für das Rechen und Steuerwerk zugänglich sind.
-	- ISt in Zellen gleicher Größe geteilt, die durch fortlaufende Nummern ("Adressen") bezeichnet werden.
+	- Ist in Zellen gleicher Größe geteilt, die durch fortlaufende Nummern ("Adressen") bezeichnet werden.
 - <mark style="background: #FFB8EBA6;">Ein/Ausgabewerk</mark>
 	- Steuert Ein und Ausgabe von Daten.
 	- Kommuniziert mit Anwender und Peripheriegeräten
