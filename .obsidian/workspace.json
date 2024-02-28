@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "708a28a53a82c8ec",
+        "id": "f2d8c1d059491b09",
         "type": "tabs",
         "children": [
           {
-            "id": "a4c0230272c0cd3c",
+            "id": "33f689f12022f184",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2.Klasse/Ipt/Tim Minchin 9 live lessons aufgabe.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#2te_Klasse",
+                "query": "tag:#ipt  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2.Klasse/Ipt/Tim Minchin 9 live lessons aufgabe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2.Klasse/Ipt/Tim Minchin 9 live lessons aufgabe.md"
+              }
             }
           },
           {
@@ -165,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,14 +189,15 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "a4c0230272c0cd3c",
+  "active": "33f689f12022f184",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "2.Klasse/Ipt/Tim Minchin 9 live lessons aufgabe.md",
     "2.Klasse/Ipt/Vision.md",
+    "2.Klasse/Sysgrrrrtechnik/Hardware.md",
+    "conflict-files-obsidian-git.md",
     "Zeichnungen/DR28-02-2024-18.excalidraw.md",
     "2.Klasse/Sysgrrrrtechnik/betriebsysthme wiederholung.md",
     "2.Klasse/Sysgrrrrtechnik/Von-Neumannn-Rechnermodell.md",
-    "2.Klasse/Sysgrrrrtechnik/Hardware.md",
     "2.Klasse/Sysgrrrrtechnik/Geschichte der Hardware.md",
     "2.Klasse/Sysgrrrrtechnik/Eva-Prinzip.md",
     "Stefan Fürst 2BHIT Mhü 8.md",
@@ -219,7 +229,6 @@
     "Zeichnungen/DR22-02-2024-27.excalidraw.md",
     "Überlebenswichtige Strichlisten.md",
     "Zeichnungen/DR22-02-2024-11.excalidraw.md",
-    "Privat/🛜ccna theroie.md",
     "2.Klasse/Netzwerktiger/header.png",
     "2.Klasse/Netzwerktiger/Bild2.png",
     "bilder/Pasted Image 20240214142018_828.png",

@@ -4,16 +4,21 @@
     "2024/1/23": 22,
     "2024/1/24": 5,
     "2024/1/26": 1,
-    "2024/1/27": 432
+    "2024/1/27": 432,
+    "2024/1/28": 7
   },
   "todaysWordCount": {
-    "2.Klasse/Mathe/😖Mathiger.md": {
-      "initial": 2552,
-      "current": 2762
+    "2.Klasse/Ipt/Vision.md": {
+      "initial": 27,
+      "current": 33
     },
-    "Stefan Fürst 2BHIT Mhü 8.md": {
-      "initial": 8,
-      "current": 230
+    "Tim Minchin 9 live lessons aufgabe.md": {
+      "initial": 1,
+      "current": 2
+    },
+    "2.Klasse/Ipt/Tim Minchin 9 live lessons aufgabe.md": {
+      "initial": 2,
+      "current": 2
     }
   }
 }
