@@ -182,3 +182,7 @@ npn
 - Mosfet 
 - Mos = Metalloxid
 
+![[DR29-02-2024-24.excalidraw]]
+
+- Ohne Ugs keine e- Brücke zwischen den n Bereichen → Kein Stromfluss
+- Mit Ugs: e- Brücke bildet sich → Stromfluss

@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0780b3c935660227",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Zeichnungen/DR29-02-2024-24.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichnungen/DR29-02-2024-24.excalidraw.md",
+                "file": "2.Klasse/nawi/🪄Naturtigerschaften.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +140,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Zeichnungen/DR29-02-2024-24.excalidraw.md"
+                "file": "2.Klasse/nawi/🪄Naturtigerschaften.md"
               }
             }
           },
@@ -200,10 +189,10 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "0780b3c935660227",
+  "active": "24518e1501ef6d03",
   "lastOpenFiles": [
-    "2.Klasse/nawi/🪄Naturtigerschaften.md",
     "Zeichnungen/DR29-02-2024-24.excalidraw.md",
+    "2.Klasse/nawi/🪄Naturtigerschaften.md",
     "Zeichnungen/DR29-02-2024-28.excalidraw.md",
     "Zeichnungen/DR29-02-2024-21.excalidraw.md",
     "2.Klasse/Medt/Audio Grundbegriffe.md",
