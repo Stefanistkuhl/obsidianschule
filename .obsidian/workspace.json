@@ -11,11 +11,26 @@
             "id": "24518e1501ef6d03",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2.Klasse/nawi/🪄Naturtigerschaften.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7834098d86b93b1c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Zeichnungen/DR29-02-2024-21.excalidraw.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zeichnungen/DR29-02-2024-21.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Zeichnungen/DR29-02-2024-21.excalidraw.md"
+              }
             }
           },
           {
@@ -182,8 +200,10 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "24518e1501ef6d03",
+  "active": "7834098d86b93b1c",
   "lastOpenFiles": [
+    "2.Klasse/nawi/🪄Naturtigerschaften.md",
+    "Zeichnungen/DR29-02-2024-21.excalidraw.md",
     "2.Klasse/Medt/Audio Grundbegriffe.md",
     "2.Klasse/Medt/Audio.md",
     "Überlebenswichtige Strichlisten.md",
@@ -218,10 +238,8 @@
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/~WRD0937.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/~WRL0695.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/~WRD0641.tmp",
-    "2.Klasse/nawi/🪄Naturtigerschaften.md",
     "Zeichnungen/DR22-02-2024-43.excalidraw.md",
     "Zeichnungen/DR22-02-2024-12.excalidraw.md",
-    "Zeichnungen/DR22-02-2024-42.excalidraw.md",
     "2.Klasse/Netzwerktiger/header.png",
     "2.Klasse/Netzwerktiger/Bild2.png",
     "bilder/Pasted Image 20240214142018_828.png",

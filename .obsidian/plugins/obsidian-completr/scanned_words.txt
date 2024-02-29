@@ -2434,7 +2434,6 @@ style
 schreiben
 syt
 sie
-sein
 statt
 so
 soft
@@ -2600,7 +2599,6 @@ semaphore
 security
 state
 sinnbereit
-seine
 schritte
 syncthing
 setup
@@ -2746,7 +2744,6 @@ slo
 svg
 schnellere
 spielt
-sEIL
 schwach
 schlau
 schulde

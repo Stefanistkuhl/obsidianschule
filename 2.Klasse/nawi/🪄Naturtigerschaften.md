@@ -159,5 +159,9 @@ Ersetzen Si an manchen Positionen des Gitters durch Atome aus anderen Hauptgrupp
 ![[DR22-02-2024-43.excalidraw]]
 > Raumladungszone verschwindet → Stromfluss möglich
 
-Anwendung: Diode
+Anwendung: Diode, LED, Zener-Dioden
+
+### <mark style="background: #FFB8EBA6;">Bipolartransistor</mark>
+
+npn
 
