@@ -613,6 +613,7 @@ getElements
 gesamten
 gerne
 graph
+gelanngen
 Zettel
 Zwingen
 Zeichen
@@ -751,6 +752,7 @@ Zeilen
 ZIVK
 Zivk
 ZbqUNRQ
+Zwei
 Epochen
 Entdeckung
 Erste
@@ -2923,6 +2925,7 @@ uBtvKaRP
 unnumbered
 using
 use
+ungehinderdeter
 keine
 konnten
 kein
@@ -3729,6 +3732,8 @@ FkgbfRk
 FvHQ
 FpmVqlnN
 FJXYoLW
+Feldeffekt
+FET
 nach
 neue
 negativen
@@ -5265,6 +5270,7 @@ LNxCF
 Linus
 Leitfaden
 Lehrer
+Linke
 Ost
 OS
 Obwohl
@@ -5395,6 +5401,7 @@ Oder
 Object
 OUA
 Osko
+Ohne
 Alt
 Amerikas
 Atombindung
@@ -6928,6 +6935,9 @@ SHlkoEIL
 Sf
 SDVA
 Stromfluss
+Sperrschichten
+Schalter
+SFET
 Handel
 Hygiene
 Halbleiter
@@ -7098,6 +7108,7 @@ Hauptgruppen
 HprcfvD
 Höher
 HjvQM
+Halt
 an
 auf
 aus
@@ -9222,6 +9233,7 @@ QFBD
 übung
 übungsdurchführung
 überschrift
+überfluten
 öffentliche
 öffnung
 ökonomisch

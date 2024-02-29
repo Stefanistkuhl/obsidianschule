@@ -175,5 +175,10 @@ npn
 
 - SFET (Sperrschicht-FET)
 
+![[DR29-02-2024-28.excalidraw]]
+- Ohne Usg: Sperrschichten bleiben unverändert → Stromfluss ungehindert
+- Mit Usg: Sperrschichten breiten sich aus → Stromfluss wird gedrosselt
 
+- Mosfet 
+- Mos = Metalloxid
 
