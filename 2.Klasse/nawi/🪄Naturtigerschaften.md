@@ -173,5 +173,7 @@ npn
 
 ### <mark style="background: #FFB8EBA6;">Feldeffekt Transistor</mark>
 
+- SFET (Sperrschicht-FET)
+
 
 
