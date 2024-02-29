@@ -164,4 +164,14 @@ Anwendung: Diode, LED, Zener-Dioden
 ### <mark style="background: #FFB8EBA6;">Bipolartransistor</mark>
 
 npn
+![[DR29-02-2024-21.excalidraw]]
+
+- Ohne Ube: Zwei Sperrschichten → kein ungehinderdeter Stromfluss
+- Mit Ube: Linke Sperrschicht verschwindet → e- "überfluten" den p-Bereich so stark, dass sie durch die rechte Sperrschicht gelanngen → Stromfluss 
+
+> Halt mit Stromfluss oda nd hat man nen Schalter zb Strom 1 ohne 0 
+
+### <mark style="background: #FFB8EBA6;">Feldeffekt Transistor</mark>
+
+
 

@@ -8651,6 +8651,7 @@ BvCp
 Betreuer
 BFBHiHp
 Brüche
+Bipolartransistor
 Voraussetzungen
 Valenziabrücken
 Vekehrswesen
