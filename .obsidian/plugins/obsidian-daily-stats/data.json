@@ -7,12 +7,12 @@
     "2024/1/27": 432,
     "2024/1/28": 134,
     "2024/1/29": 113,
-    "2024/2/1": 203
+    "2024/2/1": 215
   },
   "todaysWordCount": {
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md": {
       "initial": 777,
-      "current": 508
+      "current": 518
     },
     "Datalink.md": {
       "initial": 270,
@@ -24,7 +24,7 @@
     },
     "Privat/ccna therorie switching.md": {
       "initial": 224,
-      "current": 227
+      "current": 228
     },
     "Ethernet Frame aufbau.md": {
       "initial": 287,
@@ -41,6 +41,10 @@
     "Überlebenswichtige Strichlisten.md": {
       "initial": 16,
       "current": 16
+    },
+    "Layer 3.md": {
+      "initial": 0,
+      "current": 11
     }
   }
 }

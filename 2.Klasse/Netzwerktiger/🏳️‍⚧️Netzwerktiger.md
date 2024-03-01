@@ -112,3 +112,7 @@ D:
 #### <mark style="background: #FFB8EBA6;">Datalink</mark>
 
 ![[Datalink Layer2]]
+
+### <mark style="background: #FFB8EBA6;">L3 Network</mark> 
+
+![[Layer 3]]

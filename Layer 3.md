@@ -1,0 +1,5 @@
+- Protokolle: 
+	- Ipv4, Ipv6
+- Adressen: Ipv4-Adressen
+	- privat
+		- 10.0.0.

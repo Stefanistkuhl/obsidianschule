@@ -5105,6 +5105,7 @@ WtTiaan
 Wv
 WkyxWmwM
 Wachtstum
+Wieder
 Latein
 Leute
 Läuse
@@ -6622,6 +6623,7 @@ TRZoywxg
 TayOWkEP
 Torvalds
 Tabble
+Tabelle
 Städte
 Südamerika
 Spanien
@@ -7454,6 +7456,7 @@ aVjy
 aOMYEXtK
 aufstehen
 adr
+angenommen
 oft
 oder
 os
@@ -8303,6 +8306,7 @@ replace
 rxdnzqe
 rej
 riposte
+repeat
 hat
 hervorgerufen
 haben
@@ -9285,6 +9289,7 @@ QFBD
 überschrift
 überfluten
 überein
+übereinstimmt
 öffentliche
 öffnung
 ökonomisch
