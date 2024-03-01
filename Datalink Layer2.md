@@ -1,4 +1,4 @@
-
+#2te_Klasse #nwt 
 > Responsible for communications between enddevice and nics
 > 
 > allows upper layer protocols to access the physical layer zb encapsulates L3 Packets into L2 Frames
@@ -12,8 +12,11 @@
 - <mark style="background: #FFB8EBA6;">Brodcast</mark>
 	- 1 zu mehrere (1 zu N)
 	- SRC: A1:B1:C1:D1:E1:F1 
-	- DST: FF:FF:FF:FF:FF:FF
+	- DST: FF:FF:FF:FF:FF:FF (nur 1er in Binär)
 
+![[Frame Proccessing]]
+
+![[Switch]]
 - <mark style="background: #FFB8EBA6;">2 sublayer</mark>
 	- <mark style="background: #FFB8EBA6;">Logical Link Control(LLC)</mark>
 		- communicates between upper layers and the device hardware at the lower layers

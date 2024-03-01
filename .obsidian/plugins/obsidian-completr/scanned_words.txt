@@ -984,6 +984,7 @@ EEUJDKPw
 Ersetzen
 ERupg
 Entwickelt
+Encapsulated
 Das
 Dasselbe
 Diode
@@ -1225,6 +1226,7 @@ DcrW
 Datum
 Dot
 Darstellung
+Datenpacket
 Problem
 Pest
 Portugal
@@ -2424,6 +2426,7 @@ erwartung
 eGKi
 eizq
 ehZ
+erhaltenen
 Übergange
 Übergänge
 Übergang
@@ -2933,6 +2936,7 @@ use
 ungehinderdeter
 unverändert
 ungehindert
+ugnY
 keine
 konnten
 kein
@@ -3742,6 +3746,7 @@ FpmVqlnN
 FJXYoLW
 Feldeffekt
 FET
+Framestop
 nach
 neue
 negativen
@@ -4489,6 +4494,8 @@ Momente
 Mosfet
 Mos
 Metalloxid
+Muss
+MqC
 Rom
 Ratten
 Römischen
@@ -4891,6 +4898,7 @@ viewing
 vGHndXq
 vCq
 verschwindet
+verworfen
 West
 Welt
 Wachstum
@@ -5415,6 +5423,7 @@ Object
 OUA
 Osko
 Ohne
+Od
 Alt
 Amerikas
 Atombindung
@@ -7561,6 +7570,7 @@ optional
 obsidian
 occurrence
 onuVxB
+oCiBG
 Namen
 Neuzeit
 Nord
@@ -8064,6 +8074,7 @@ pVErXzFK
 pCdIdM
 pbZO
 prozentuelle
+prüft
 reiches
 real
 running
@@ -8677,6 +8688,8 @@ BFBHiHp
 Brüche
 Bipolartransistor
 Brücke
+Binär
+Brodcastdomäne
 Voraussetzungen
 Valenziabrücken
 Vekehrswesen
@@ -8871,6 +8884,7 @@ VjT
 VsOuK
 VYO
 Vereinfachte
+VPOpeGsl
 je
 jeder
 jeweils
@@ -9248,6 +9262,7 @@ QFBD
 übungsdurchführung
 überschrift
 überfluten
+überein
 öffentliche
 öffnung
 ökonomisch

@@ -7,7 +7,7 @@
     "2024/1/27": 432,
     "2024/1/28": 134,
     "2024/1/29": 113,
-    "2024/2/1": 49
+    "2024/2/1": 130
   },
   "todaysWordCount": {
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md": {
@@ -16,7 +16,27 @@
     },
     "Datalink.md": {
       "initial": 270,
-      "current": 319
+      "current": 327
+    },
+    "Frame Proccessing.md": {
+      "initial": 0,
+      "current": 41
+    },
+    "Privat/ccna therorie switching.md": {
+      "initial": 224,
+      "current": 227
+    },
+    "Ethernet Frame aufbau.md": {
+      "initial": 287,
+      "current": 300
+    },
+    "Datalink Layer2.md": {
+      "initial": 327,
+      "current": 328
+    },
+    "Switch.md": {
+      "initial": 1,
+      "current": 16
     }
   }
 }
