@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4c2187e24565f81e",
+        "id": "8ad948ac8b1c8046",
         "type": "tabs",
         "children": [
           {
-            "id": "24518e1501ef6d03",
+            "id": "a6d91677ed94695e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/nawi/🪄Naturtigerschaften.md",
+                "file": "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/nawi/🪄Naturtigerschaften.md",
+                "file": "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/nawi/🪄Naturtigerschaften.md"
+                "file": "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md"
               }
             }
           },
@@ -189,10 +188,10 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "24518e1501ef6d03",
+  "active": "a6d91677ed94695e",
   "lastOpenFiles": [
-    "Zeichnungen/DR29-02-2024-24.excalidraw.md",
     "2.Klasse/nawi/🪄Naturtigerschaften.md",
+    "Zeichnungen/DR29-02-2024-24.excalidraw.md",
     "Zeichnungen/DR29-02-2024-28.excalidraw.md",
     "Zeichnungen/DR29-02-2024-21.excalidraw.md",
     "2.Klasse/Medt/Audio Grundbegriffe.md",

@@ -362,6 +362,7 @@ KhjLS
 Khlw
 KWYKKI
 Komplexe
+Kein
 ggp
 genauen
 gibt
@@ -615,6 +616,7 @@ gerne
 graph
 gelanngen
 gedrosselt
+gow
 Zettel
 Zwingen
 Zeichen
@@ -1726,6 +1728,7 @@ blocks
 blockiert
 beeing
 breiten
+bildet
 ist
 in
 im
@@ -3358,6 +3361,7 @@ following
 frrBVTrm
 fSuI
 fReIwIlLiG
+flora
 mark
 mit
 mangelnder
@@ -4240,6 +4244,7 @@ Unteüberschrift
 UwCqEpsM
 UFUch
 Usg
+Ugs
 Mittelalter
 Merkmale
 Mönche
@@ -8671,6 +8676,7 @@ Betreuer
 BFBHiHp
 Brüche
 Bipolartransistor
+Brücke
 Voraussetzungen
 Valenziabrücken
 Vekehrswesen

@@ -149,3 +149,4 @@ D:
 		- both devices simultaneously transmit/receive on a shared medium
 		- ethernet switches operate in full duplex
 
+

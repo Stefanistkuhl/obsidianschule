@@ -6,27 +6,27 @@ tags:
 
 > Regeln: Wenn ass Spiel abrechen erlaubt obvi
 
-| game | dauer | besitz | erwartung | fertig | bewertung |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-| LIES OF P |  | ja | 11 |  |  |
-| Baldurs Gate 3 |  | nein | 8 |  |  |
-| Armored Core 6 |  | nein | 8 |  |  |
-| Dmc 5 |  | nein | 7 |  |  |
-| Ds1 |  | ja | 9 |  |  |
-| Ds2 |  | ja | 5 |  |  |
-| Final fatasy ding wo femboy |  | nein | 2 |  |  |
-| Hitman 3 |  | nein | 3 |  |  |
-| Fallout New Vegas |  | nein | 4 |  |  |
-| Disco Elysium |  | ja | 6 |  |  |
-| Outer Wilds |  | nein | 3 |  |  |
-| sw force unleashed 1 und 2 |  | nein | 4 |  |  |
-| doom ethernal |  | nein | 5 |  |  |
-| cyberpunk 2077 |  | nein | 3 |  |  |
-| hollow Knight |  | nein | 6 |  |  |
-| Witcher 3 |  | nein | 2 |  |  |
-| celeste | 13h | ja | 1 | ja | 11/10 |
-| botw |  | nein | 1 |  |  |
-| gow 2018 (für karla/flora) |  | nein | 1 |  |  |
+| game                        | dauer | besitz | erwartung | fertig | bewertung |
+| --------------------------- | ----- | ------ | --------- | ------ | --------- |
+| LIES OF P                   |       | ja     | 11        |        |           |
+| Baldurs Gate 3              |       | nein   | 8         |        |           |
+| Armored Core 6              |       | nein   | 8         |        |           |
+| Dmc 5                       |       | nein   | 7         |        |           |
+| Ds1                         |       | ja     | 9         |        |           |
+| Ds2                         |       | ja     | 5         |        |           |
+| Final fatasy ding wo femboy |       | nein   | 2         |        |           |
+| Hitman 3                    |       | nein   | 3         |        |           |
+| Fallout New Vegas           |       | nein   | 4         |        |           |
+| Disco Elysium               |       | ja     | 6         |        |           |
+| Outer Wilds                 |       | nein   | 3         |        |           |
+| sw force unleashed 1 und 2  |       | nein   | 4         |        |           |
+| doom ethernal               |       | nein   | 5         |        |           |
+| cyberpunk 2077              |       | nein   | 3         |        |           |
+| hollow Knight               |       | nein   | 6         |        |           |
+| Witcher 3                   |       | nein   | 2         |        |           |
+| celeste                     | 13h   | ja     | 1         | ja     | 11/10     |
+| botw                        |       | nein   | 1         |        |           |
+| gow 2018 (für karla/flora)  |       | nein   | 1         |        |           |
 
 
 ##### idi
