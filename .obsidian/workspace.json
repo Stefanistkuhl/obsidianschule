@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
+                "file": "Datalink.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
+                "file": "Datalink.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md"
+                "file": "Datalink.md"
               }
             }
           },
@@ -190,6 +190,8 @@
   },
   "active": "a6d91677ed94695e",
   "lastOpenFiles": [
+    "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
+    "Datalink.md",
     "2.Klasse/nawi/🪄Naturtigerschaften.md",
     "Zeichnungen/DR29-02-2024-24.excalidraw.md",
     "Zeichnungen/DR29-02-2024-28.excalidraw.md",
@@ -216,8 +218,6 @@
     "2.Klasse/Sysgrrrrtechnik/Linuxdateisystem.md",
     "2.Klasse/Sysgrrrrtechnik/Linux my beloved.md",
     "2.Klasse/Ipt/Motivation.md",
-    "Privat/Soulskuhroring challanges notizen.md",
-    "2.Klasse/Netzwerktiger/Vorlage.md",
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/Fürst_Frame_Analyse_Wireshark.pdf",
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/~WRD0149.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/~WRL2042.tmp",

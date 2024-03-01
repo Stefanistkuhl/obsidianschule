@@ -7,12 +7,16 @@
     "2024/1/27": 432,
     "2024/1/28": 134,
     "2024/1/29": 113,
-    "2024/2/1": 0
+    "2024/2/1": 49
   },
   "todaysWordCount": {
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md": {
       "initial": 777,
-      "current": 777
+      "current": 508
+    },
+    "Datalink.md": {
+      "initial": 270,
+      "current": 319
     }
   }
 }
