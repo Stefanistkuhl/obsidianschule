@@ -363,6 +363,7 @@ Khlw
 KWYKKI
 Komplexe
 Kein
+Kopiert
 ggp
 genauen
 gibt
@@ -756,6 +757,7 @@ ZIVK
 Zivk
 ZbqUNRQ
 Zwei
+ZSEHcwhQ
 Epochen
 Entdeckung
 Erste
@@ -1471,6 +1473,8 @@ PhB
 Polarformen
 Projekts
 Projektteam
+Prüft
+Prüfen
 bei
 background
 bis
@@ -1731,6 +1735,7 @@ blockiert
 beeing
 breiten
 bildet
+bhsPgio
 ist
 in
 im
@@ -2782,6 +2787,7 @@ startanz
 scanned
 shittalken
 sEiD
+schickt
 und
 um
 ungefähr
@@ -2937,6 +2943,7 @@ ungehinderdeter
 unverändert
 ungehindert
 ugnY
+uaRp
 keine
 konnten
 kein
@@ -3083,6 +3090,7 @@ keys
 key
 kills
 konfigurationsdateien
+korrekte
 Jahreszahlen
 Jahresahlen
 Jura
@@ -3549,6 +3557,7 @@ mehrmals
 mzru
 manchen
 mFPHWGhS
+merkt
 FFA
 Flüssen
 Furt
@@ -3914,6 +3923,7 @@ nZOnfd
 netzwerktopologie
 nUccb
 niall
+nwevnr
 Christus
 Christianisierung
 Christentum
@@ -5717,6 +5727,8 @@ Additional
 AOhhkMwM
 Ar
 Absichten
+Adresstable
+Adr
 Griechisch
 Glauben
 Gewalt
@@ -6294,6 +6306,7 @@ cursor
 conflicted
 conflicts
 completr
+cATqZ
 zu
 zum
 zur
@@ -6608,6 +6621,7 @@ This
 TRZoywxg
 TayOWkEP
 Torvalds
+Tabble
 Städte
 Südamerika
 Spanien
@@ -6960,6 +6974,7 @@ Stromfluss
 Sperrschichten
 Schalter
 SFET
+SGIybfVj
 Handel
 Hygiene
 Halbleiter
@@ -7438,6 +7453,7 @@ aGLLpv
 aVjy
 aOMYEXtK
 aufstehen
+adr
 oft
 oder
 os
@@ -7720,6 +7736,7 @@ NHrVqD
 Neg
 NnVPwPWj
 Noten
+Nummer
 Infizierte
 Indium
 Instanz
@@ -7877,6 +7894,8 @@ Instructions
 IDeGKFAY
 IpZg
 ITSsPvn
+Interfaces
+IOKy
 pest
 pos
 purpose
@@ -8075,6 +8094,7 @@ pCdIdM
 pbZO
 prozentuelle
 prüft
+prüfen
 reiches
 real
 running
@@ -8472,6 +8492,7 @@ hidden
 hZMdx
 hQMI
 hIeR
+haPDwGcM
 Bananen
 Buch
 Beschreiben
@@ -8885,6 +8906,7 @@ VsOuK
 VYO
 Vereinfachte
 VPOpeGsl
+VEDbpv
 je
 jeder
 jeweils

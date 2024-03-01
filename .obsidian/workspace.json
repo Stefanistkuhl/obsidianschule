@@ -11,9 +11,11 @@
             "id": "78db636130bab46b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Zeichnungen/DR01-03-2024-22.excalidraw.md"
+                "file": "Switch.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichnungen/DR01-03-2024-22.excalidraw.md",
+                "file": "Switch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Zeichnungen/DR01-03-2024-22.excalidraw.md"
+                "file": "Switch.md"
               }
             }
           },
@@ -188,20 +190,21 @@
   },
   "active": "78db636130bab46b",
   "lastOpenFiles": [
+    "Privat/ccna therorie switching.md",
     "Switch.md",
-    "Datalink Layer2.md",
     "Zeichnungen/DR01-03-2024-22.excalidraw.md",
+    "Überlebenswichtige Strichlisten.md",
+    "Zeichnungen/DR04-12-2023-18.excalidraw.md",
+    "Datalink Layer2.md",
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
     "Frame Proccessing.md",
     "Ethernet Frame aufbau.md",
-    "Privat/ccna therorie switching.md",
     "2.Klasse/nawi/🪄Naturtigerschaften.md",
     "Zeichnungen/DR29-02-2024-24.excalidraw.md",
     "Zeichnungen/DR29-02-2024-28.excalidraw.md",
     "Zeichnungen/DR29-02-2024-21.excalidraw.md",
     "2.Klasse/Medt/Audio Grundbegriffe.md",
     "2.Klasse/Medt/Audio.md",
-    "Überlebenswichtige Strichlisten.md",
     "2.Klasse/Ipt/Tim Minchin 9 live lessons aufgabe.md",
     "2.Klasse/Ipt/Vision.md",
     "2.Klasse/Sysgrrrrtechnik/Hardware.md",
@@ -213,7 +216,6 @@
     "2.Klasse/Sysgrrrrtechnik/Eva-Prinzip.md",
     "Stefan Fürst 2BHIT Mhü 8.md",
     "2.Klasse/Mathe/😖Mathiger.md",
-    "Untitled.md",
     "bilder/Pasted image 20240227172103.png",
     "bilder/Pasted image 20240227094254.png",
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/Fürst_Frame_Analyse_Wireshark.pdf",

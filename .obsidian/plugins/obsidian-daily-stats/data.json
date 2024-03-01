@@ -7,7 +7,7 @@
     "2024/1/27": 432,
     "2024/1/28": 134,
     "2024/1/29": 113,
-    "2024/2/1": 130
+    "2024/2/1": 203
   },
   "todaysWordCount": {
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md": {
@@ -36,6 +36,10 @@
     },
     "Switch.md": {
       "initial": 1,
+      "current": 89
+    },
+    "Überlebenswichtige Strichlisten.md": {
+      "initial": 16,
       "current": 16
     }
   }
