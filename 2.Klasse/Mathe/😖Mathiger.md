@@ -705,10 +705,11 @@ a=1.55 = 55\%
 ```math
 ||{"id":825721844301}||
 
-
+f_{1}(t)=50*0,95^t
+f_{2}(t)=8*e^{0.01*t}
+f_{3}(t)30*e^{-0.1*t}
+f_{4}(t)=4*1,02^t
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 
 4.115)
 4.117)
