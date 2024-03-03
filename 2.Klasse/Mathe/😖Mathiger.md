@@ -720,10 +720,21 @@ a)
 b)
 ![[Pasted image 20240303182844.png]]
 c)
+ca 8 m/s
+d)
 ```math
 ||{"id":1307828577457}||
 
-V(240)=8*(1-e^-{\frac{250}{50}})=
+V(240)=8*(1-e^-{\frac{240}{50}})=7,934 \frac{m}{s}
+```
+e)
+```math
+||{"id":1666325768451}||
+
+5=8*(1-e^{-\frac{t}{50}})
+5=8-8*e^{-\frac{t}{50}}|-8
+-3=-8*e^{-\frac{t}{50}}|\ln
+\ln(-3)=-8^{-\frac{t}{50}}
 ```
 
 <div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
