@@ -770,7 +770,29 @@ a)
 ||{"id":1346904273014}||
 
 2011-1991 = 20
-N(20)=48000 = N_{0}*e^{\lambda*t}
+N(20)=48000 = N_{0}*e^{\lambda*20}
 e^{-\lambda}-1=0,02|+1
-e^{-\lambda}=
+e^{-\lambda}=1,02 |\ln
+-\lambda = \ln(1,02)=0,0198026273
+48000 = N_{0}*e^{\lambda*t}|*e^{\lambda*t}
+\frac{48000}{e^{\lambda*20}}=N_{0}=32302.62399=32303
 ```
+b)
+```math
+||{"id":105161409664}||
+
+N(t)=32303*e^{\lambda*t}
+```
+c)
+```math
+||{"id":427856293526}||
+
+N(25)=32303*e^{\lambda*25}=52997
+52997-15000=37997
+37997=32303*e^{\lambda*t}|:32303
+\frac{37997}{32303}=e^{\lambda*t}|\ln
+\ln(1,1762684580)=\lambda*t|:\lambda
+
+```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
