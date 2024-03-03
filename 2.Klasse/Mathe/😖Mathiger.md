@@ -746,13 +746,16 @@ a)
 5^{x+1}=5^2*5^{2x+2}=5^{2x+4}|\ln
 (x+1)*\ln(5)=(2x+4)*\ln(5)
 x+1=2x+4|-1
-x= 2x+3|-2x
+x= 2x+3|-2x |*-1
+x=3
+```
+
+b)
+```math
+||{"id":1343385771663}||
 
 
 ```
 
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
-
-b)
 
 4.137)
