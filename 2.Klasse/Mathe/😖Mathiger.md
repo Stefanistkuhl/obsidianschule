@@ -734,10 +734,8 @@ e)
 5=8*(1-e^{-\frac{t}{50}})
 5=8-8*e^{-\frac{t}{50}}|-8
 -3=-8*e^{-\frac{t}{50}}|\ln
-\ln(-3)=-8^{-\frac{t}{50}}
+\ln(-3)=-8-\frac{t}{50}
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 
 
 4.131)
