@@ -699,3 +699,20 @@ prozentuelle Wachtstum?
 a=1.55 = 55\%
 ```
 
+### <mark style="background: #FFB8EBA6;">Hü 9</mark>
+
+4.114)
+```math
+||{"id":825721844301}||
+
+
+```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
+
+4.115)
+4.117)
+4.131)
+a)
+b)
+4.137)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/Layer 3.md",
+                "file": "2.Klasse/Mathe/😖Mathiger.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "43b2197681096587",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/Layer 3.md",
+                "file": "2.Klasse/Mathe/😖Mathiger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/Layer 3.md"
+                "file": "2.Klasse/Mathe/😖Mathiger.md"
               }
             }
           },
@@ -189,8 +190,8 @@
   },
   "active": "78db636130bab46b",
   "lastOpenFiles": [
-    "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
     "2.Klasse/Netzwerktiger/Layer 3.md",
+    "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
     "2.Klasse/Netzwerktiger/ccna therorie switching.md",
     "2.Klasse/Netzwerktiger/Switch.md",
     "2.Klasse/Netzwerktiger/Frame Proccessing.md",
