@@ -714,11 +714,20 @@ f_{4}(t)=4*1.02^t → Zunahme
 4.115)
 ![[Pasted image 20240303143831.png]]
 4.117)
+a)
+8 → gleichbleinde Kraft F → Newton
+50 → 
+b)
+![[Pasted image 20240303182844.png]]
+c)
 ```math
-||{"id":363382999319}||
+||{"id":1307828577457}||
 
-
+V(240)=8*(1-e^-{\frac{250}{50}})=
 ```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
+
 
 4.131)
 a)
