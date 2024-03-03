@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "78db636130bab46b",
+            "id": "f66eb1c30fdf6056",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -188,13 +188,14 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "78db636130bab46b",
+  "active": "f66eb1c30fdf6056",
   "lastOpenFiles": [
+    "Stefan Fürst Mathe Hü 9.md",
+    "2.Klasse/Mathe/😖Mathiger.md",
     "bilder/Pasted image 20240303182844.png",
     "2.Klasse/Mathe/Komplexe Zahlen.md",
     "2.Klasse/Ipt/bwl v2.md",
     "😟Games die ich Spielen muss.md",
-    "2.Klasse/Mathe/😖Mathiger.md",
     "bilder/Pasted image 20240303143831.png",
     "2.Klasse/Netzwerktiger/Layer 3.md",
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
@@ -202,7 +203,6 @@
     "2.Klasse/Netzwerktiger/Switch.md",
     "2.Klasse/Netzwerktiger/Frame Proccessing.md",
     "2.Klasse/Netzwerktiger/Ethernet Frame aufbau.md",
-    "Untitled.md",
     "2.Klasse/Netzwerktiger/Datalink Layer2.md",
     "Zeichnungen/DR01-03-2024-22.excalidraw.md",
     "Überlebenswichtige Strichlisten.md",
@@ -236,7 +236,6 @@
     "bilder/Pasted image 20240205193629.png",
     "bilder/Pasted image 20240125174628.png",
     "bilder/Pasted image 20240124180154.png",
-    "bilder/Pasted image 20240124180145.png",
     "Zeichnungen/Untitled.canvas"
   ]
 }

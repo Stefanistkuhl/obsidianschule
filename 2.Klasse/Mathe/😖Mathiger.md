@@ -792,7 +792,5 @@ N(25)=32303*e^{\lambda*25}=52997
 37997=32303*e^{\lambda*t}|:32303
 \frac{37997}{32303}=e^{\lambda*t}|\ln
 \ln(1,1762684580)=\lambda*t|:\lambda
-
+\frac{\ln(1,1762684580)}{\lambda}=8.2
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
