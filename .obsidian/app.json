@@ -15,5 +15,5 @@
   "alwaysUpdateLinks": true,
   "spellcheck": false,
   "promptDelete": false,
-  "vimMode": true
+  "vimMode": false
 }
