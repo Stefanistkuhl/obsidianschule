@@ -34,3 +34,4 @@ Durch die Rückkoplung gilt:
 		- "Wer misst misst Mist"
 	- Impetanzwandler
 	- Signalübertragung
+		- zb Bei Netzwerk verbindungen zb Kabel ja nur 100m max aba zb Pc zu server der weiter als 100m is ja zb Switch oda so daszwischen und die Kabel zw jedem Aktiven komponenten > 100m weil jedes ding ja verstärkt
