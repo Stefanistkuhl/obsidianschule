@@ -29,3 +29,8 @@ Durch die Rückkoplung gilt:
 	- Quelle wird kaum belastet
 - Ausgangswiederstand: ra ist klein,
 	- der durchgang darf belastet werden (oder mit einer "niederohmigen" last)
+- Anwendung 
+	- Puffer zw Sensor und Mikrocontroller 
+		- "Wer misst misst Mist"
+	- Impetanzwandler
+	- Signalübertragung
