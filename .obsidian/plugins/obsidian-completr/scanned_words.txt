@@ -365,6 +365,7 @@ Komplexe
 Kein
 Kopiert
 Kraft
+KbntBa
 ggp
 genauen
 gibt
@@ -620,6 +621,7 @@ gelanngen
 gedrosselt
 gow
 gleichbleinde
+gnNm
 Zettel
 Zwingen
 Zeichen
@@ -989,6 +991,7 @@ Ersetzen
 ERupg
 Entwickelt
 Encapsulated
+Eingänge
 Das
 Dasselbe
 Diode
@@ -1232,6 +1235,7 @@ Dot
 Darstellung
 Datenpacket
 Dns
+DuPe
 Problem
 Pest
 Portugal
@@ -1902,6 +1906,8 @@ iwas
 inhaltsverzeichnis
 ikZ
 iHr
+invertierende
+invertierten
 dass
 die
 den
@@ -2792,6 +2798,7 @@ scanned
 shittalken
 sEiD
 schickt
+smz
 und
 um
 ungefähr
@@ -3199,6 +3206,7 @@ JrlInOtG
 Jahrgang
 JYVUELdA
 JtBSB
+JGf
 für
 fall
 freibewegliches
@@ -3378,6 +3386,7 @@ frrBVTrm
 fSuI
 fReIwIlLiG
 flora
+fuuUFHt
 mark
 mit
 mangelnder
@@ -3562,6 +3571,7 @@ mzru
 manchen
 mFPHWGhS
 merkt
+main
 FFA
 Flüssen
 Furt
@@ -3928,6 +3938,7 @@ netzwerktopologie
 nUccb
 niall
 nwevnr
+nYLX
 Christus
 Christianisierung
 Christentum
@@ -4089,6 +4100,7 @@ CWxcZixf
 CdAl
 Conflicts
 CZHVU
+CIhi
 Urgeschichte
 Universitäten
 Ufern
@@ -4707,6 +4719,8 @@ Rückwirkungskennlinie
 Raumladungszone
 Radium
 Resulution
+Rückkoplung
+Richtkopplung
 vor
 verbreiten
 vom
@@ -5308,6 +5322,7 @@ Linus
 Leitfaden
 Lehrer
 Linke
+Loopback
 Ost
 OS
 Obwohl
@@ -5440,6 +5455,7 @@ OUA
 Osko
 Ohne
 Od
+Operationsverstärker
 Alt
 Amerikas
 Atombindung
@@ -5735,6 +5751,9 @@ Ar
 Absichten
 Adresstable
 Adr
+Ausgang
+Ausgangsspannung
+Abstände
 Griechisch
 Glauben
 Gewalt
@@ -6136,6 +6155,7 @@ wzA
 wüsste
 wieso
 words
+wplO
 christlichen
 code
 charakterisiert
@@ -6314,6 +6334,7 @@ conflicted
 conflicts
 completr
 cATqZ
+caqyu
 zu
 zum
 zur
@@ -6458,6 +6479,7 @@ zkTZv
 zGw
 zsH
 zcwk
+zurückgeführt
 Theologie
 Thema
 Teller
@@ -6983,6 +7005,9 @@ Sperrschichten
 Schalter
 SFET
 SGIybfVj
+Spannungsteiler
+Spannungsfolger
+SqbXJQSW
 Handel
 Hygiene
 Halbleiter
@@ -7154,6 +7179,7 @@ HprcfvD
 Höher
 HjvQM
 Halt
+HEAD
 an
 auf
 aus
@@ -7596,6 +7622,8 @@ obsidian
 occurrence
 onuVxB
 oCiBG
+origin
+oGv
 Namen
 Neuzeit
 Nord
@@ -7907,6 +7935,8 @@ ITSsPvn
 Interfaces
 IOKy
 Ipv
+Intertierende
+IVADx
 pest
 pos
 purpose
@@ -8724,6 +8754,7 @@ Bipolartransistor
 Brücke
 Binär
 Brodcastdomäne
+Boschi
 Voraussetzungen
 Valenziabrücken
 Vekehrswesen
@@ -8920,6 +8951,8 @@ VYO
 Vereinfachte
 VPOpeGsl
 VEDbpv
+VNK
+VENmxnCM
 je
 jeder
 jeweils
@@ -9203,6 +9236,7 @@ listed
 lTSCndA
 ln
 localhost
+lwOaE
 Queue
 QHvC
 Qp

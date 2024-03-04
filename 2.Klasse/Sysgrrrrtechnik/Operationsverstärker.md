@@ -20,8 +20,10 @@
 ##### Intertierende Verstärker
 
 ##### Spannungsfolger (I)
-<<<<<<< HEAD
+
 ![[DR21-02-2024-45.excalidraw]]
-=======
-![[DR21-02-2024-45.excalidraw]]
->>>>>>> origin/main
+
+Durch die Rückkoplung gilt:
+- Vu~1,bzw ua~uc
+- Eingangsformel: re ist groß
+	- Quelle wird kaum belastet

@@ -8,16 +8,24 @@
     "2024/1/28": 134,
     "2024/1/29": 113,
     "2024/2/1": 257,
-    "2024/2/4": 1
+    "2024/2/4": 14
   },
   "todaysWordCount": {
     "Überlebenswichtige Strichlisten.md": {
       "initial": 16,
-      "current": 17
+      "current": 18
     },
     "2.Klasse/Sysgrrrrtechnik/betriebsysthme wiederholung.md": {
       "initial": 64,
       "current": 64
+    },
+    "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/Operationsverstärker.md": {
+      "initial": 116,
+      "current": 116
+    },
+    "2.Klasse/Sysgrrrrtechnik/Operationsverstärker.md": {
+      "initial": 115,
+      "current": 127
     }
   }
 }
