@@ -27,3 +27,5 @@ Durch die Rückkoplung gilt:
 - Vu~1,bzw ua~uc
 - Eingangsformel: re ist groß
 	- Quelle wird kaum belastet
+- Ausgangswiederstand: ra ist klein,
+	- der durchgang darf belastet werden (oder mit einer "niederohmigen" last)
