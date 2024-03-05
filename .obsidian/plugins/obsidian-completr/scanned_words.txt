@@ -630,6 +630,7 @@ gow
 gleichbleinde
 gnNm
 größeres
+gMiarleL
 Zettel
 Zwingen
 Zeichen
@@ -2472,6 +2473,7 @@ erhaltenen
 erfolgreiche
 elektrisches
 eingang
+eyuxpDUt
 Übergange
 Übergänge
 Übergang
@@ -7568,6 +7570,7 @@ adr
 angenommen
 aqB
 andersum
+aQORpXs
 oft
 oder
 os
@@ -8025,6 +8028,7 @@ IVADx
 Impetanzwandler
 IRo
 ILpyom
+Invertierender
 pest
 pos
 purpose

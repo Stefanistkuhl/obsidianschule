@@ -8,13 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f66eb1c30fdf6056",
+            "id": "821f5901beffcd23",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Zeichnungen/DR05-03-2024-55.excalidraw.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -92,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichnungen/DR05-03-2024-55.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Zeichnungen/DR05-03-2024-55.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,11 +181,12 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "f66eb1c30fdf6056",
+  "active": "821f5901beffcd23",
   "lastOpenFiles": [
     "2.Klasse/Sysgrrrrtechnik/Komperator.md",
-    "Zeichnungen/DR05-03-2024-28.excalidraw.md",
+    "Zeichnungen/DR05-03-2024-37.excalidraw.md",
     "Zeichnungen/DR05-03-2024-55.excalidraw.md",
+    "Zeichnungen/DR05-03-2024-28.excalidraw.md",
     "Zeichnungen/DR05-03-2024-08.excalidraw.md",
     "Zeichnungen/DR05-03-2024-10.excalidraw.md",
     "2.Klasse/Sysgrrrrtechnik/grrrrrlektrotechnik v2 mit sin.md",
@@ -216,7 +212,6 @@
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
     "2.Klasse/Netzwerktiger/ccna therorie switching.md",
     "2.Klasse/Netzwerktiger/Switch.md",
-    "2.Klasse/Netzwerktiger/Frame Proccessing.md",
     "bilder/Pasted image 20240227172103.png",
     "bilder/Pasted image 20240227094254.png",
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/Fürst_Frame_Analyse_Wireshark.pdf",

@@ -14,7 +14,9 @@ ua min → andersum
 			- Prinzip:
 				- ![[DR05-03-2024-28.excalidraw]]
 					- Einfaches bsp 
-						- 
+						- ![[DR05-03-2024-55.excalidraw]]
+	- Invertierender Komperator
+		- 
 
 
 
