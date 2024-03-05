@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "821f5901beffcd23",
+            "id": "daab501b6737f3d2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2.Klasse/Sysgrrrrtechnik/Hardware.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2.Klasse/Sysgrrrrtechnik/Hardware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2.Klasse/Sysgrrrrtechnik/Hardware.md"
+              }
             }
           },
           {
@@ -181,8 +188,11 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "821f5901beffcd23",
+  "active": "daab501b6737f3d2",
   "lastOpenFiles": [
+    "2.Klasse/Sysgrrrrtechnik/Von-Neumannn-Rechnermodell.md",
+    "2.Klasse/Sysgrrrrtechnik/Hardware.md",
+    "2.Klasse/Sysgrrrrtechnik/betriebsysthme wiederholung.md",
     "2.Klasse/Sysgrrrrtechnik/Komperator.md",
     "Zeichnungen/DR05-03-2024-37.excalidraw.md",
     "Zeichnungen/DR05-03-2024-55.excalidraw.md",
@@ -202,7 +212,6 @@
     "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/diemensionierung transistor.md",
     "Überlebenswichtige Strichlisten.md",
     "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/transistor.md",
-    "2.Klasse/Sysgrrrrtechnik/betriebsysthme wiederholung.md",
     "Stefan Fürst Mathe Hü 9.md",
     "bilder/Pasted image 20240303182844.png",
     "2.Klasse/Mathe/Komplexe Zahlen.md",
@@ -210,8 +219,6 @@
     "bilder/Pasted image 20240303143831.png",
     "2.Klasse/Netzwerktiger/Layer 3.md",
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
-    "2.Klasse/Netzwerktiger/ccna therorie switching.md",
-    "2.Klasse/Netzwerktiger/Switch.md",
     "bilder/Pasted image 20240227172103.png",
     "bilder/Pasted image 20240227094254.png",
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/Fürst_Frame_Analyse_Wireshark.pdf",

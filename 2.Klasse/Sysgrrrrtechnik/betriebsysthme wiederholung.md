@@ -1,4 +1,4 @@
-- [ ] l[[anitgrrrmatik v2]] [[🥲2te Klasse]] #2te_Klasse #syt 
+[[anitgrrrmatik v2]] [[🥲2te Klasse]] #2te_Klasse #syt 
 
 > Os = Schnitstelle zw Hardware und Software, die versucht den Nutzen des Anwenders zu entsprechen
 - Ose: Linux, Windoof, Shit Os, Android, Ioshit

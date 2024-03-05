@@ -373,6 +373,8 @@ Kosten
 Komperatoren
 KfGvFU
 Komperator
+Konzept
+Kommuniziert
 ggp
 genauen
 gibt
@@ -631,6 +633,7 @@ gleichbleinde
 gnNm
 größeres
 gMiarleL
+geteilt
 Zettel
 Zwingen
 Zeichen
@@ -773,6 +776,7 @@ Zwei
 ZSEHcwhQ
 ZNR
 Zeitverzögerung
+Zellen
 Epochen
 Entdeckung
 Erste
@@ -1504,6 +1508,7 @@ Puffer
 Plichtenheft
 Pegels
 Paralellverfahren
+Peripheriegeräten
 bei
 background
 bis
@@ -1767,6 +1772,9 @@ bildet
 bhsPgio
 belastet
 bLkPVCw
+beschrieb
+bearbeiteten
+bezeichnet
 ist
 in
 im
@@ -2177,6 +2185,7 @@ durchgang
 daszwischen
 delay
 dazw
+deren
 es
 entstanden
 entstehen
@@ -2835,6 +2844,7 @@ sofort
 sonder
 sxZKip
 sEla
+steuert
 und
 um
 ungefähr
@@ -2992,6 +3002,8 @@ ungehindert
 ugnY
 uaRp
 uc
+universellen
+unabhängig
 keine
 konnten
 kein
@@ -3247,6 +3259,7 @@ JYVUELdA
 JtBSB
 JGf
 JkY
+John
 für
 fall
 freibewegliches
@@ -3428,6 +3441,7 @@ fReIwIlLiG
 flora
 fuuUFHt
 fragen
+fortlaufende
 mark
 mit
 mangelnder
@@ -3819,6 +3833,7 @@ FjPpEY
 Fleischwandler
 FA
 FQXA
+Führt
 nach
 neue
 negativen
@@ -4780,6 +4795,9 @@ Richtkopplung
 Recherche
 Rahmenbedingungen
 Realisierung
+Rechnet
+Rechenwerk
+Rechen
 vor
 verbreiten
 vom
@@ -5188,6 +5206,7 @@ WkyxWmwM
 Wachtstum
 Wieder
 WnLlFG
+Werken
 Latein
 Leute
 Läuse
@@ -5823,6 +5842,11 @@ Anforderungen
 ABVm
 Analoger
 Adc
+Arethmetische
+Abfolge
+Ausgabewerk
+Ausgabe
+Anwender
 Griechisch
 Glauben
 Gewalt
@@ -6553,6 +6577,7 @@ zGw
 zsH
 zcwk
 zurückgeführt
+zugänglich
 Theologie
 Thema
 Teller
@@ -7087,6 +7112,8 @@ SqbXJQSW
 Signalübertragung
 Spezifikationen
 Sample
+Steuerwerk
+Steuert
 Handel
 Hygiene
 Halbleiter
@@ -7863,6 +7890,8 @@ Newton
 NkB
 NgIHk
 Ngfn
+Neuman
+Nummern
 Infizierte
 Indium
 Instanz
@@ -8029,6 +8058,7 @@ Impetanzwandler
 IRo
 ILpyom
 Invertierender
+Interpretiert
 pest
 pos
 purpose
