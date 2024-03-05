@@ -188,6 +188,7 @@ tOrGJsJf
 tzPZG
 tqAvfV
 tux
+technishen
 Klasse
 Kreuzritter
 Klagenfurt
@@ -1486,6 +1487,7 @@ Prüft
 Prüfen
 Protokolle
 Puffer
+Plichtenheft
 bei
 background
 bis
@@ -2448,6 +2450,7 @@ eGKi
 eizq
 ehZ
 erhaltenen
+erfolgreiche
 Übergange
 Übergänge
 Übergang
@@ -4735,6 +4738,8 @@ Resulution
 Rückkoplung
 Richtkopplung
 Recherche
+Rahmenbedingungen
+Realisierung
 vor
 verbreiten
 vom
@@ -5770,6 +5775,7 @@ Ausgang
 Ausgangsspannung
 Abstände
 Aktiven
+Anforderungen
 Griechisch
 Glauben
 Gewalt
@@ -7025,6 +7031,7 @@ Spannungsteiler
 Spannungsfolger
 SqbXJQSW
 Signalübertragung
+Spezifikationen
 Handel
 Hygiene
 Halbleiter
