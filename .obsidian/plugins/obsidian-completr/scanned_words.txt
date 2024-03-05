@@ -370,6 +370,9 @@ Kopiert
 Kraft
 KbntBa
 Kosten
+Komperatoren
+KfGvFU
+Komperator
 ggp
 genauen
 gibt
@@ -1001,6 +1004,7 @@ Encapsulated
 Eingänge
 Eingangsformel
 Eskalieren
+Einfaches
 Das
 Dasselbe
 Diode
@@ -1246,6 +1250,8 @@ Datenpacket
 Dns
 DuPe
 Digitalisierung
+Dout
+Decoder
 Problem
 Pest
 Portugal
@@ -1759,6 +1765,7 @@ breiten
 bildet
 bhsPgio
 belastet
+bLkPVCw
 ist
 in
 im
@@ -2824,6 +2831,8 @@ schickt
 smz
 sofort
 sonder
+sxZKip
+sEla
 und
 um
 ungefähr
@@ -3605,6 +3614,7 @@ main
 misst
 miteinernader
 mO
+mRqS
 FFA
 Flüssen
 Furt
@@ -3804,6 +3814,9 @@ Feldeffekt
 FET
 Framestop
 FjPpEY
+Fleischwandler
+FA
+FQXA
 nach
 neue
 negativen
@@ -4137,6 +4150,7 @@ CdAl
 Conflicts
 CZHVU
 CIhi
+CMC
 Urgeschichte
 Universitäten
 Ufern
@@ -4313,6 +4327,7 @@ UFUch
 Usg
 Ugs
 UcVISjz
+Ufoi
 Mittelalter
 Merkmale
 Mönche
@@ -5170,6 +5185,7 @@ Wv
 WkyxWmwM
 Wachtstum
 Wieder
+WnLlFG
 Latein
 Leute
 Läuse
@@ -5501,6 +5517,7 @@ Osko
 Ohne
 Od
 Operationsverstärker
+Out
 Alt
 Amerikas
 Atombindung
@@ -5802,6 +5819,8 @@ Abstände
 Aktiven
 Anforderungen
 ABVm
+Analoger
+Adc
 Griechisch
 Glauben
 Gewalt
@@ -6386,6 +6405,7 @@ completr
 cATqZ
 caqyu
 cWTsDJ
+cUCe
 zu
 zum
 zur
@@ -7064,6 +7084,7 @@ Spannungsfolger
 SqbXJQSW
 Signalübertragung
 Spezifikationen
+Sample
 Handel
 Hygiene
 Halbleiter
@@ -7684,6 +7705,7 @@ origin
 oGv
 oM
 oQn
+oMJjXuQ
 Namen
 Neuzeit
 Nord
@@ -7836,6 +7858,8 @@ Noten
 Nummer
 Newton
 NkB
+NgIHk
+Ngfn
 Infizierte
 Indium
 Instanz
@@ -8200,6 +8224,9 @@ pbZO
 prozentuelle
 prüft
 prüfen
+pCpY
+pIjyROOR
+pvN
 reiches
 real
 running
@@ -8601,6 +8628,8 @@ hQMI
 hIeR
 haPDwGcM
 höheres
+hold
+hFTqdTsP
 Bananen
 Buch
 Beschreiben
@@ -9385,6 +9414,7 @@ QcVaZdMI
 QmjDjGGA
 QFE
 QFBD
+QKSwMGB
 überall
 übersetzt
 übernehmen
@@ -9678,6 +9708,7 @@ ywo
 ylnz
 yFETWS
 yCyB
+yzj
 XaShZjh
 XXtqRDri
 Xc
@@ -9759,6 +9790,7 @@ XwPSQhnO
 XTIh
 XNNgB
 XND
+XsGMZDly
 qs
 qJ
 qAne
@@ -9842,6 +9874,7 @@ qzgZUPFW
 quasi
 qoFI
 qe
+qSB
 Änder
 Änderung
 Änderungen

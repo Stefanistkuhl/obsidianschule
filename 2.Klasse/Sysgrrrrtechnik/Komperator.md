@@ -12,7 +12,9 @@ ua min → andersum
 	- Analog Digital Converter (ADC)
 		- Paralellverfahren (Fleischwandler)
 			- Prinzip:
-				- 
+				- ![[DR05-03-2024-28.excalidraw]]
+					- Einfaches bsp 
+						- 
 
 
 
