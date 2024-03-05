@@ -2153,6 +2153,7 @@ dEKNvRNv
 dAGe
 dashen
 durchgang
+daszwischen
 es
 entstanden
 entstehen
@@ -4938,6 +4939,7 @@ vGHndXq
 vCq
 verschwindet
 verworfen
+verbindungen
 West
 Welt
 Wachstum
@@ -5764,6 +5766,7 @@ Adr
 Ausgang
 Ausgangsspannung
 Abstände
+Aktiven
 Griechisch
 Glauben
 Gewalt
@@ -7018,6 +7021,7 @@ SGIybfVj
 Spannungsteiler
 Spannungsfolger
 SqbXJQSW
+Signalübertragung
 Handel
 Hygiene
 Halbleiter
@@ -7947,6 +7951,7 @@ IOKy
 Ipv
 Intertierende
 IVADx
+Impetanzwandler
 pest
 pos
 purpose
