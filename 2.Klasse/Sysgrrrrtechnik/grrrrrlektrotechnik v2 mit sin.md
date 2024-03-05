@@ -2,4 +2,5 @@
 
 ![[transistor]]
 ![[Operationsverstärker]]
+![[Komperator]]
 

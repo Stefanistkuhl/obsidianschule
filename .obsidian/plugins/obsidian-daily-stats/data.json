@@ -9,7 +9,7 @@
     "2024/1/29": 113,
     "2024/2/1": 257,
     "2024/2/4": 79,
-    "2024/2/5": 32
+    "2024/2/5": 77
   },
   "todaysWordCount": {
     "2.Klasse/Ipt/Projektmagment.md": {
@@ -23,6 +23,22 @@
     "2.Klasse/Ipt/Plichtenheft.md": {
       "initial": 2,
       "current": 28
+    },
+    "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/grrrrrlektrotechnik v2 mit sin.md": {
+      "initial": 5,
+      "current": 5
+    },
+    "2.Klasse/Sysgrrrrtechnik/grrrrrlektrotechnik v2 mit sin.md": {
+      "initial": 6,
+      "current": 6
+    },
+    "Komperator.md": {
+      "initial": 0,
+      "current": 2
+    },
+    "2.Klasse/Sysgrrrrtechnik/Komperator.md": {
+      "initial": 2,
+      "current": 45
     }
   }
 }
