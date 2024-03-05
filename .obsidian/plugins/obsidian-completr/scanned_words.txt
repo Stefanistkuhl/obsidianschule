@@ -189,6 +189,8 @@ tzPZG
 tqAvfV
 tux
 technishen
+tcOXYsjX
+tRAiM
 Klasse
 Kreuzritter
 Klagenfurt
@@ -367,6 +369,7 @@ Kein
 Kopiert
 Kraft
 KbntBa
+Kosten
 ggp
 genauen
 gibt
@@ -3217,6 +3220,7 @@ Jahrgang
 JYVUELdA
 JtBSB
 JGf
+JkY
 für
 fall
 freibewegliches
@@ -6674,6 +6678,8 @@ TayOWkEP
 Torvalds
 Tabble
 Tabelle
+Technik
+Termin
 Städte
 Südamerika
 Spanien
@@ -7513,6 +7519,7 @@ aOMYEXtK
 aufstehen
 adr
 angenommen
+aqB
 oft
 oder
 os
@@ -9452,6 +9459,7 @@ xJhGETDx
 xNqq
 xvihThf
 xte
+xNQ
 YmKqNai
 YY
 YS
