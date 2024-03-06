@@ -9,12 +9,21 @@
     "2024/1/29": 113,
     "2024/2/1": 257,
     "2024/2/4": 79,
-    "2024/2/5": 0
+    "2024/2/5": 0,
+    "2024/2/6": 75
   },
   "todaysWordCount": {
-    "2.Klasse/Sysgrrrrtechnik/betriebsysthme wiederholung.md": {
-      "initial": 63,
-      "current": 63
+    "2.Klasse/Sysgrrrrtechnik/Hardware.md": {
+      "initial": 7,
+      "current": 8
+    },
+    "Ram.md": {
+      "initial": 1,
+      "current": 2
+    },
+    "2.Klasse/Sysgrrrrtechnik/Ram.md": {
+      "initial": 2,
+      "current": 75
     }
   }
 }

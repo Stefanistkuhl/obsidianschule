@@ -2,4 +2,4 @@
 
 ![[Eva-Prinzip]]
 
-![[Geschichte der Hardware]]
+![[Geschichte der Hardware]]![[Ram]]
