@@ -7,8 +7,14 @@
     {
       "char": "ω",
       "name": "greek small letter omega",
+      "useCount": 3,
+      "lastUsed": 1709734950151
+    },
+    {
+      "char": "Π",
+      "name": "greek capital letter pi",
       "useCount": 2,
-      "lastUsed": 1709734144824
+      "lastUsed": 1709735056719
     },
     {
       "char": "Ω",
@@ -25063,12 +25069,6 @@
     {
       "char": "Φ",
       "name": "greek capital letter phi"
-    },
-    {
-      "char": "Π",
-      "name": "greek capital letter pi",
-      "useCount": 1,
-      "lastUsed": 1709734242075
     },
     {
       "char": "Ψ",
