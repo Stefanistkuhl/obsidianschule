@@ -10,12 +10,12 @@
     "2024/2/1": 257,
     "2024/2/4": 79,
     "2024/2/5": 0,
-    "2024/2/6": 302
+    "2024/2/6": 322
   },
   "todaysWordCount": {
     "2.Klasse/Sysgrrrrtechnik/Hardware.md": {
       "initial": 7,
-      "current": 9
+      "current": 10
     },
     "Ram.md": {
       "initial": 1,
@@ -31,7 +31,15 @@
     },
     "2.Klasse/Sysgrrrrtechnik/Rom.md": {
       "initial": 2,
-      "current": 87
+      "current": 100
+    },
+    "Festdatenspeicher.md": {
+      "initial": 1,
+      "current": 2
+    },
+    "2.Klasse/Sysgrrrrtechnik/Festdatenspeicher.md": {
+      "initial": 2,
+      "current": 7
     }
   }
 }

@@ -4,3 +4,4 @@
 
 ![[Geschichte der Hardware]]![[Ram]]
 ![[Rom]]
+![[Festdatenspeicher]]
