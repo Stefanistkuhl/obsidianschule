@@ -4329,7 +4329,7 @@ function waitFor(cond, timeout = 0) {
 function getAllStyles() {
   const cssTexts = [];
   Array.from(document.styleSheets).forEach((sheet) => {
-    var _a, _b;
+    var _a, _b, _c;
     const id = (_a = sheet.ownerNode) == null ? void 0 : _a.id;
     if (id == null ? void 0 : id.startsWith("svelte-")) {
       return;
@@ -4337,9 +4337,13 @@ function getAllStyles() {
     const href = (_b = sheet.ownerNode) == null ? void 0 : _b.href;
     const division = `/* ----------${id ? `id:${id}` : href ? `href:${href}` : ""}---------- */`;
     cssTexts.push(division);
-    Array.from(sheet.cssRules).forEach((rule) => {
-      cssTexts.push(rule.cssText);
-    });
+    try {
+      Array.from((_c = sheet == null ? void 0 : sheet.cssRules) != null ? _c : []).forEach((rule) => {
+        cssTexts.push(rule.cssText);
+      });
+    } catch (error2) {
+      console.error(error2);
+    }
   });
   cssTexts.push(...getPatchStyle());
   return cssTexts;
@@ -4387,14 +4391,20 @@ function getPatchStyle() {
 function getPrintStyle() {
   const cssTexts = [];
   Array.from(document.styleSheets).forEach((sheet) => {
-    Array.from(sheet.cssRules).forEach((rule) => {
-      if (rule.constructor.name == "CSSMediaRule") {
-        if (rule.conditionText === "print") {
-          const res = rule.cssText.replace(/@media print\s*\{(.+)\}/gms, "$1");
-          cssTexts.push(res);
+    var _a;
+    try {
+      const cssRules = (_a = sheet == null ? void 0 : sheet.cssRules) != null ? _a : [];
+      Array.from(cssRules).forEach((rule) => {
+        if (rule.constructor.name == "CSSMediaRule") {
+          if (rule.conditionText === "print") {
+            const res = rule.cssText.replace(/@media print\s*\{(.+)\}/gms, "$1");
+            cssTexts.push(res);
+          }
         }
-      }
-    });
+      });
+    } catch (error2) {
+      console.error(error2);
+    }
   });
   return cssTexts;
 }
@@ -20474,6 +20484,11 @@ var ExportConfigModal = class extends import_obsidian2.Modal {
     });
     const contentEl = wrapper.createDiv();
     contentEl.setAttribute("style", "width:320px;margin-left:16px;");
+    contentEl.addEventListener("keyup", (event) => {
+      if (event.key === "Enter") {
+        handleExport();
+      }
+    });
     this.generateForm(contentEl);
     const handleExport = async () => {
       this.plugin.settings.prevConfig = this.config;
@@ -20497,6 +20512,7 @@ var ExportConfigModal = class extends import_obsidian2.Modal {
     };
     new import_obsidian2.Setting(contentEl).setHeading().addButton((button) => {
       button.setButtonText("Export").onClick(handleExport);
+      button.setCta();
       fullWidthButton(button);
     });
     new import_obsidian2.Setting(contentEl).setHeading().addButton((button) => {
