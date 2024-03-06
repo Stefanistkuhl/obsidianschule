@@ -384,6 +384,7 @@ Kapazität
 Konstanten
 Kernbotschaften
 KVPiLK
+Kreisfrequenz
 ggp
 genauen
 gibt
@@ -648,6 +649,7 @@ gestalterischen
 gehalten
 gII
 gPIf
+gabMFios
 Zettel
 Zwingen
 Zeichen
@@ -1037,6 +1039,7 @@ Entwurf
 Einrahmen
 Effekte
 Eio
+Effektivwert
 Das
 Dasselbe
 Diode
@@ -2248,6 +2251,7 @@ dazw
 deren
 direkten
 dmxfwIuJ
+dach
 es
 entstanden
 entstehen
@@ -2927,6 +2931,10 @@ sVDpaU
 sFU
 suaiJ
 stattfindet
+sin
+sqrt
+sinusförmige
+sYpo
 und
 um
 ungefähr
@@ -4468,6 +4476,7 @@ Ufoi
 Usability
 Untertietel
 Uein
+Udach
 Mittelalter
 Merkmale
 Mönche
@@ -4728,6 +4737,7 @@ MpZ
 Maschienen
 MuzmDm
 MSB
+Momentanwert
 Rom
 Ratten
 Römischen
@@ -5362,6 +5372,8 @@ Wachtstum
 Wieder
 WnLlFG
 Werken
+Winkelgeschwindigkeit
+WRB
 Latein
 Leute
 Läuse
@@ -7341,6 +7353,7 @@ Symbole
 Sachverhalt
 Sinusförmiger
 SaBM
+Scheitelwer
 Handel
 Hygiene
 Halbleiter
@@ -7835,6 +7848,7 @@ adressbeozgenen
 aufgefrischt
 allen
 anM
+ausschießlich
 oft
 oder
 os

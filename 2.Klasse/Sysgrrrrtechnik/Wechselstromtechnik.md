@@ -6,5 +6,8 @@
 	- f = Anazahl der vollständigen Schwingungen pro Sekunde zb f = 50hz → T = 0,025 = 25ms
 	- U mit dach ... Scheitelwer
 	- u(t) ... Momentanwert
-	- u(t) = U ... sin(ω * t)
-	- ω = 2 * Π * p ... Winkelgeschwindigkeit, Kreis
+	- u(t) = Udach ... sin(ω * t)
+	- ω = 2 * Π * p ... Winkelgeschwindigkeit, Kreisfrequenz
+	- U= Udach/sqrt(2) ... Effektivwert (Anmerkung: 1/sqrt(2), gilt ausschießlich für sinusförmige Größen)
+
+![[Zeiger und liniendiagramm]]
