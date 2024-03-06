@@ -4,3 +4,4 @@
 ![[Operationsverstärker]]
 ![[Komperator]]
 
+![[Wechselstromtechnik]]

@@ -18,6 +18,7 @@ ua min → andersum
 	- Invertierender Komperator
 		- ![[DR05-03-2024-55.excalidraw]]
 	- Nicht Invertierender Komperator 
+		- ![[DR06-03-2024-50.excalidraw]]
 		- 
 
 

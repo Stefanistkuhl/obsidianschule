@@ -10,7 +10,7 @@
     "2024/2/1": 257,
     "2024/2/4": 79,
     "2024/2/5": 0,
-    "2024/2/6": 752
+    "2024/2/6": 764
   },
   "todaysWordCount": {
     "2.Klasse/Sysgrrrrtechnik/Hardware.md": {
@@ -127,7 +127,23 @@
     },
     "2.Klasse/Sysgrrrrtechnik/Komperator.md": {
       "initial": 64,
-      "current": 67
+      "current": 72
+    },
+    "2.Klasse/Sysgrrrrtechnik/grrrrrlektrotechnik v2 mit sin.md": {
+      "initial": 6,
+      "current": 7
+    },
+    "Wechselstromtechnik.md": {
+      "initial": 1,
+      "current": 2
+    },
+    "2.Klasse/Sew/Wechselstromtechnik.md": {
+      "initial": 2,
+      "current": 2
+    },
+    "2.Klasse/Sysgrrrrtechnik/Wechselstromtechnik.md": {
+      "initial": 2,
+      "current": 7
     }
   }
 }

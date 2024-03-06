@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Komperator.md",
+                "file": "2.Klasse/Sysgrrrrtechnik/Wechselstromtechnik.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c30505aa5782eafc",
+            "id": "04d2c095ccba1822",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Zeichnungen/DR06-03-2024-50.excalidraw.md"
+                "file": "Zeichnungen/DR06-03-2024-07.excalidraw.md"
               }
             }
           }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichnungen/DR06-03-2024-50.excalidraw.md",
+                "file": "Zeichnungen/DR06-03-2024-07.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Zeichnungen/DR06-03-2024-50.excalidraw.md"
+                "file": "Zeichnungen/DR06-03-2024-07.excalidraw.md"
               }
             }
           },
@@ -199,12 +199,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c30505aa5782eafc",
+  "active": "04d2c095ccba1822",
   "lastOpenFiles": [
+    "2.Klasse/Sysgrrrrtechnik/Wechselstromtechnik.md",
+    "Zeichnungen/DR06-03-2024-07.excalidraw.md",
+    "2.Klasse/Sysgrrrrtechnik/grrrrrlektrotechnik v2 mit sin.md",
     "2.Klasse/Sysgrrrrtechnik/Komperator.md",
     "Zeichnungen/DR06-03-2024-50.excalidraw.md",
     "Zeichnungen/DR05-03-2024-55.excalidraw.md",
-    "2.Klasse/Sysgrrrrtechnik/grrrrrlektrotechnik v2 mit sin.md",
     "2.Klasse/Sysgrrrrtechnik/Operationsverstärker.md",
     "2.Klasse/Medt/Formaler Aufbau-Layout.md",
     "2.Klasse/Medt/Design.md",
@@ -225,8 +227,6 @@
     "Zeichnungen/DR05-03-2024-37.excalidraw.md",
     "Zeichnungen/DR05-03-2024-28.excalidraw.md",
     "Zeichnungen/DR05-03-2024-08.excalidraw.md",
-    "Zeichnungen/DR05-03-2024-10.excalidraw.md",
-    "2.Klasse/Ipt/Plichtenheft.md",
     "bilder/Pflichtenheft bsp.pdf",
     "bilder/Pasted image 20240303182844.png",
     "bilder/Pasted image 20240303143831.png",
