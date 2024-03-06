@@ -194,6 +194,7 @@ tRAiM
 teurer
 trotz
 technischen
+treffenden
 Klasse
 Kreuzritter
 Klagenfurt
@@ -380,6 +381,8 @@ Konzept
 Kommuniziert
 Kapazität
 Konstanten
+Kernbotschaften
+KVPiLK
 ggp
 genauen
 gibt
@@ -642,6 +645,7 @@ geteilt
 geringere
 gestalterischen
 gehalten
+gII
 Zettel
 Zwingen
 Zeichen
@@ -788,6 +792,7 @@ Zellen
 Zwischenspeicher
 Zugruff
 Zugriffszeit
+Zeichnen
 Epochen
 Entdeckung
 Erste
@@ -1026,6 +1031,8 @@ EPROM
 Erasable
 EEPROM
 Entwurf
+Einrahmen
+Effekte
 Das
 Dasselbe
 Diode
@@ -1541,6 +1548,9 @@ Primärspeicher
 PROM
 Programierbarer
 Programable
+Platzieren
+PN
+PZWkzE
 bei
 background
 bis
@@ -1812,6 +1822,7 @@ besückt
 beschrieben
 benutzerfreundlicher
 bedienen
+btw
 ist
 in
 im
@@ -1981,6 +1992,7 @@ instructions
 internen
 int
 intuitiv
+itXCiP
 dass
 die
 den
@@ -2228,6 +2240,7 @@ delay
 dazw
 deren
 direkten
+dmxfwIuJ
 es
 entstanden
 entstehen
@@ -2533,6 +2546,7 @@ elektrisch
 einmal
 einzuhalten
 einfachund
+ensprechendem
 Übergange
 Übergänge
 Übergang
@@ -2902,6 +2916,7 @@ senkrecht
 sIxAM
 schöner
 spricht
+sVDpaU
 und
 um
 ungefähr
@@ -3064,6 +3079,8 @@ unabhängig
 un
 ust
 ub
+udh
+uOoddDN
 keine
 konnten
 kein
@@ -3321,6 +3338,7 @@ JtBSB
 JGf
 JkY
 John
+JorEi
 für
 fall
 freibewegliches
@@ -3506,6 +3524,9 @@ fortlaufende
 flüchtig
 funktioneller
 farbiger
+festlegen
+farbiges
+fmsgv
 mark
 mit
 mangelnder
@@ -3909,6 +3930,8 @@ Fest
 Festwertspeicher
 Flasg
 Festgelegte
+Flächenverhältnis
+Ffi
 nach
 neue
 negativen
@@ -4253,6 +4276,7 @@ Chips
 Compact
 CLeK
 Corporate
+CP
 Urgeschichte
 Universitäten
 Ufern
@@ -4431,6 +4455,8 @@ Ugs
 UcVISjz
 Ufoi
 Usability
+Untertietel
+Uein
 Mittelalter
 Merkmale
 Mönche
@@ -4689,6 +4715,8 @@ Magnetbänder
 Magnetoptische
 MpZ
 Maschienen
+MuzmDm
+MSB
 Rom
 Ratten
 Römischen
@@ -5118,6 +5146,11 @@ vKnv
 vorgesehen
 veränderbaren
 verändert
+verwendete
+verzichten
+vVcvdY
+vwFJ
+vNOFLES
 West
 Welt
 Wachstum
@@ -5523,6 +5556,8 @@ LqGhgZvl
 Lesespeicher
 Lesevorgang
 Lesemodus
+LQEIQnbI
+LSB
 Ost
 OS
 Obwohl
@@ -6385,6 +6420,7 @@ words
 wplO
 wEOGUOFX
 worterklärungen
+wTcPnDDK
 christlichen
 code
 charakterisiert
@@ -6717,6 +6753,7 @@ zugänglich
 zugriffen
 zumeist
 zweckmäßiger
+zqSMdCXy
 Theologie
 Thema
 Teller
@@ -6897,6 +6934,10 @@ Taktzyklen
 Taktfreqzuenz
 Tertiärspeicher
 Typen
+Teilung
+Textblock
+TiEtel
+TioIuucv
 Städte
 Südamerika
 Spanien
@@ -7280,6 +7321,9 @@ Stromversorgung
 Stromunterbrechung
 Sticks
 Stil
+Seitentietel
+Symbole
+Sachverhalt
 Handel
 Hygiene
 Halbleiter
@@ -7456,6 +7500,7 @@ Höhere
 Heute
 Hintergrundspeicher
 HIOpu
+Hinterlgen
 an
 auf
 aus
@@ -8067,6 +8112,8 @@ Ngfn
 Neuman
 Nummern
 Nano
+Navigationsymbole
+NfI
 Infizierte
 Indium
 Instanz
@@ -8236,6 +8283,7 @@ Invertierender
 Interpretiert
 Inline
 IKL
+IiJXK
 pest
 pos
 purpose
@@ -8439,6 +8487,8 @@ pCpY
 pIjyROOR
 pvN
 permanente
+prägnanten
+pFHuhFMj
 reiches
 real
 running
@@ -8848,6 +8898,7 @@ hFTqdTsP
 hinen
 hPJUl
 hinter
+hervorheben
 Bananen
 Buch
 Beschreiben
@@ -9080,6 +9131,12 @@ Bestriebssysteme
 Bitmuster
 Bios
 Bedinung
+Bildteil
+Begriffen
+BTA
+BVf
+BVVG
+BfZcOqey
 Voraussetzungen
 Valenziabrücken
 Vekehrswesen
@@ -9568,6 +9625,8 @@ lwOaE
 lEzWnizF
 laufenden
 lJkqze
+leiste
+ldkQapqP
 Queue
 QHvC
 Qp
@@ -9649,6 +9708,7 @@ QmjDjGGA
 QFE
 QFBD
 QKSwMGB
+QcvjnZXT
 überall
 übersetzt
 übernehmen
@@ -9666,6 +9726,8 @@ QKSwMGB
 überfluten
 überein
 übereinstimmt
+übertönen
+überdecken
 öffentliche
 öffnung
 ökonomisch
@@ -10110,6 +10172,7 @@ qoFI
 qe
 qSB
 qoubeJEX
+qEYuOI
 Änder
 Änderung
 Änderungen

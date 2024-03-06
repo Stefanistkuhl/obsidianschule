@@ -10,7 +10,7 @@
     "2024/2/1": 257,
     "2024/2/4": 79,
     "2024/2/5": 0,
-    "2024/2/6": 749
+    "2024/2/6": 752
   },
   "todaysWordCount": {
     "2.Klasse/Sysgrrrrtechnik/Hardware.md": {
@@ -124,6 +124,10 @@
     "2.Klasse/Medt/Formaler Aufbau-Layout.md": {
       "initial": 2,
       "current": 56
+    },
+    "2.Klasse/Sysgrrrrtechnik/Komperator.md": {
+      "initial": 64,
+      "current": 67
     }
   }
 }

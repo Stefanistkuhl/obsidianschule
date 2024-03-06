@@ -16,6 +16,8 @@ ua min → andersum
 					- Einfaches bsp 
 						- ![[DR05-03-2024-55.excalidraw]]
 	- Invertierender Komperator
+		- ![[DR05-03-2024-55.excalidraw]]
+	- Nicht Invertierender Komperator 
 		- 
 
 
