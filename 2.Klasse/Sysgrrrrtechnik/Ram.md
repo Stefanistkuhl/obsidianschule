@@ -6,4 +6,17 @@ Der Arbeitsspeicher wird zur Speicherun der aktuall laufenden Programme verwende
 
 Speicherzelle im Arbeitsspeicher ist 1 Byte groß, jedoch kann natürlich auf 1 Bit dessen zugriffen werden. 
 
-Ram Speicher ust flüchtig. Beim 
+Ram Speicher ust flüchtig. Beim Abschlaten des Rechners wird die Stromzufuhr unterbrochen und alle Daten gehen verloren 
+
+Arten von RAM Halbleitern:
+- SRAN (Static RAM) - schnell teurer als DRAN, wird für Prozessor Register verwendet.
+- DRAN (Dynamic RAM) - langsamer als SRAM muss aber immer wieder aufgefrischt werden. (Refreshing - ub der Regel im Nano-Sekunden Bereich, je nach Baustein). Wird als Arbeitsspeicher eingesetzt.
+
+Dual Inline Memory Module (DIMM):
+
+Der Arbeitsspeicher besteht aus kleinen, rechteckigen Platinen mit mehreren RAM-Chips (zumeist 8 baugleiche DRAMs), die in den auf den Mainboard vorhandenen Slot senkrecht eingesteckt werden.
+
+SD-RAM (Synchronnous Dynamic RAM): Schreiben und Lesen von Speicherzellen mit der Taktfreqzuenz des Mainboards (Achtung: nicht mit der internen Taktfrequnz des Prozessors!)
+
+DDR-,DDR2-,DDr3-SDRAM (Double Data Rate RAM): Höhere Datenrate im Vergleich zu SD-RAM. Heute werden Hauptspeicher bereit mit DDR5 Ram Bausteinen besückt. U.a. in Graphikkarten mitlerweile DDR6 verwendet.
+

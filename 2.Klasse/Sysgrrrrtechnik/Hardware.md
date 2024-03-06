@@ -3,3 +3,4 @@
 ![[Eva-Prinzip]]
 
 ![[Geschichte der Hardware]]![[Ram]]
+![[Rom]]
