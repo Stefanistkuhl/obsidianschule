@@ -16,4 +16,3 @@ Arten von RAM Halbleiterbausteinen:
 	- Der Arbeitsspeicher besteht aus kleinen, rechteckigen Platinen mit mehreren RAM-Chips (zumeist 8 baugleiche DRAMs), die in den auf den Mainboard vorhandenen Slot senkrecht eingesteckt werden.
 - SD-RAM (Synchronnous Dynamic RAM): Schreiben und Lesen von Speicherzellen mit der Taktfreqzuenz des Mainboards (Achtung: nicht mit der internen Taktfrequnz des Prozessors!)
 - DDR-,DDR2-,DDr3-SDRAM (Double Data Rate RAM): Höhere Datenrate im Vergleich zu SD-RAM. Heute werden Hauptspeicher bereit mit DDR5 Ram Bausteinen besückt. U.a. in Graphikkarten mitlerweile DDR6 verwendet.
-

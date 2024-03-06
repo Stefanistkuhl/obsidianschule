@@ -192,6 +192,7 @@ technishen
 tcOXYsjX
 tRAiM
 teurer
+trotz
 Klasse
 Kreuzritter
 Klagenfurt
@@ -1016,6 +1017,10 @@ Eingänge
 Eingangsformel
 Eskalieren
 Einfaches
+Einsatzgebient
+EPROM
+Erasable
+EEPROM
 Das
 Dasselbe
 Diode
@@ -1527,6 +1532,9 @@ Prozessors
 Prozessor
 Platinen
 Primärspeicher
+PROM
+Programierbarer
+Programable
 bei
 background
 bis
@@ -1795,6 +1803,7 @@ bearbeiteten
 bezeichnet
 baugleiche
 besückt
+beschrieben
 ist
 in
 im
@@ -2510,6 +2519,9 @@ eyuxpDUt
 eingesetzt
 eingesteckt
 ext
+eingebrantes
+elektrisch
+einmal
 Übergange
 Übergänge
 Übergang
@@ -3878,6 +3890,9 @@ Führt
 Flops
 Floating
 Flash
+Fest
+Festwertspeicher
+Flasg
 nach
 neue
 negativen
@@ -4863,6 +4878,8 @@ Registerlänge
 Rate
 Refreshing
 Regel
+Read
+ROM
 vor
 verbreiten
 vom
@@ -5078,6 +5095,9 @@ verwendeten
 verändern
 vorhandenen
 vKnv
+vorgesehen
+veränderbaren
+verändert
 West
 Welt
 Wachstum
@@ -5480,6 +5500,9 @@ Leistungsbewertung
 Leistungsangaben
 Lesen
 LqGhgZvl
+Lesespeicher
+Lesevorgang
+Lesemodus
 Ost
 OS
 Obwohl
@@ -5616,6 +5639,7 @@ Operationsverstärker
 Out
 Operations
 Optische
+Only
 Alt
 Amerikas
 Atombindung
@@ -6846,6 +6870,7 @@ Taktfrequnz
 Taktzyklen
 Taktfreqzuenz
 Tertiärspeicher
+Typen
 Städte
 Südamerika
 Spanien
@@ -7225,6 +7250,9 @@ Schreiben
 SDRAM
 SSD
 Sekunfärspeicher
+Stromversorgung
+Stromunterbrechung
+Sticks
 Handel
 Hygiene
 Halbleiter
@@ -8382,6 +8410,7 @@ prüfen
 pCpY
 pIjyROOR
 pvN
+permanente
 reiches
 real
 running
@@ -9018,6 +9047,9 @@ Beim
 Baustein
 Bausteinen
 BJX
+Bestriebssysteme
+Bitmuster
+Bios
 Voraussetzungen
 Valenziabrücken
 Vekehrswesen
