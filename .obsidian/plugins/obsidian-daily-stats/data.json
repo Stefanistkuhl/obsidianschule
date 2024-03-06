@@ -10,7 +10,7 @@
     "2024/2/1": 257,
     "2024/2/4": 79,
     "2024/2/5": 0,
-    "2024/2/6": 589
+    "2024/2/6": 691
   },
   "todaysWordCount": {
     "2.Klasse/Sysgrrrrtechnik/Hardware.md": {
@@ -68,6 +68,54 @@
     "2.Klasse/Sysgrrrrtechnik/Überischt Festdatenspeicher.md": {
       "initial": 2,
       "current": 7
+    },
+    "2.Klasse/Medt/medt v2.md": {
+      "initial": 9,
+      "current": 12
+    },
+    "Gestaltung von Webseiten.md": {
+      "initial": 1,
+      "current": 2
+    },
+    "2.Klasse/Sysgrrrrtechnik/Gestaltung von Webseiten.md": {
+      "initial": 2,
+      "current": 5
+    },
+    "Design.md": {
+      "initial": 1,
+      "current": 2
+    },
+    "2.Klasse/Mathe/Design.md": {
+      "initial": 2,
+      "current": 2
+    },
+    "2.Klasse/Mathe/Gestaltung von Webseiten.md": {
+      "initial": 5,
+      "current": 5
+    },
+    "2.Klasse/Medt/Gestaltung von Webseiten.md": {
+      "initial": 5,
+      "current": 5
+    },
+    "2.Klasse/Medt/Design.md": {
+      "initial": 2,
+      "current": 37
+    },
+    "Style Guide.md": {
+      "initial": 1,
+      "current": 3
+    },
+    "2.Klasse/Medt/Style Guide.md": {
+      "initial": 3,
+      "current": 33
+    },
+    "Usability.md": {
+      "initial": 0,
+      "current": 2
+    },
+    "2.Klasse/Medt/Usability.md": {
+      "initial": 2,
+      "current": 27
     }
   }
 }

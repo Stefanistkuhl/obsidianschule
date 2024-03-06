@@ -193,6 +193,7 @@ tcOXYsjX
 tRAiM
 teurer
 trotz
+technischen
 Klasse
 Kreuzritter
 Klagenfurt
@@ -378,6 +379,7 @@ Komperator
 Konzept
 Kommuniziert
 Kapazität
+Konstanten
 ggp
 genauen
 gibt
@@ -638,6 +640,8 @@ größeres
 gMiarleL
 geteilt
 geringere
+gestalterischen
+gehalten
 Zettel
 Zwingen
 Zeichen
@@ -1021,6 +1025,7 @@ Einsatzgebient
 EPROM
 Erasable
 EEPROM
+Entwurf
 Das
 Dasselbe
 Diode
@@ -1276,6 +1281,7 @@ DRAMs
 DDR
 DDr
 Datenrate
+Designs
 Problem
 Pest
 Portugal
@@ -1804,6 +1810,8 @@ bezeichnet
 baugleiche
 besückt
 beschrieben
+benutzerfreundlicher
+bedienen
 ist
 in
 im
@@ -1972,6 +1980,7 @@ iEVAC
 instructions
 internen
 int
+intuitiv
 dass
 die
 den
@@ -2522,6 +2531,8 @@ ext
 eingebrantes
 elektrisch
 einmal
+einzuhalten
+einfachund
 Übergange
 Übergänge
 Übergang
@@ -2889,6 +2900,8 @@ simulieren
 sowhol
 senkrecht
 sIxAM
+schöner
+spricht
 und
 um
 ungefähr
@@ -3491,6 +3504,8 @@ fuuUFHt
 fragen
 fortlaufende
 flüchtig
+funktioneller
+farbiger
 mark
 mit
 mangelnder
@@ -3893,6 +3908,7 @@ Flash
 Fest
 Festwertspeicher
 Flasg
+Festgelegte
 nach
 neue
 negativen
@@ -4065,6 +4081,7 @@ nYLX
 nbJT
 niederohmigen
 natürlich
+neutzerfreundlichem
 Christus
 Christianisierung
 Christentum
@@ -4235,6 +4252,7 @@ Chache
 Chips
 Compact
 CLeK
+Corporate
 Urgeschichte
 Universitäten
 Ufern
@@ -4412,6 +4430,7 @@ Usg
 Ugs
 UcVISjz
 Ufoi
+Usability
 Mittelalter
 Merkmale
 Mönche
@@ -4669,6 +4688,7 @@ Mainboards
 Magnetbänder
 Magnetoptische
 MpZ
+Maschienen
 Rom
 Ratten
 Römischen
@@ -5952,6 +5972,8 @@ Adressregistern
 Arbeitspeicher
 Abschlaten
 Achtung
+Absicht
+Auftrag
 Griechisch
 Glauben
 Gewalt
@@ -6166,6 +6188,8 @@ GgKDltPh
 Geschwindigkeit
 Grundtaktes
 Graphikkarten
+Geräten
+Guter
 wurden
 wegen
 wird
@@ -6360,6 +6384,7 @@ wieso
 words
 wplO
 wEOGUOFX
+worterklärungen
 christlichen
 code
 charakterisiert
@@ -6691,6 +6716,7 @@ zurückgeführt
 zugänglich
 zugriffen
 zumeist
+zweckmäßiger
 Theologie
 Thema
 Teller
@@ -7253,6 +7279,7 @@ Sekunfärspeicher
 Stromversorgung
 Stromunterbrechung
 Sticks
+Stil
 Handel
 Hygiene
 Halbleiter
@@ -7744,6 +7771,7 @@ aQORpXs
 aktuall
 adressbeozgenen
 aufgefrischt
+allen
 oft
 oder
 os
@@ -8819,6 +8847,7 @@ hold
 hFTqdTsP
 hinen
 hPJUl
+hinter
 Bananen
 Buch
 Beschreiben
@@ -9050,6 +9079,7 @@ BJX
 Bestriebssysteme
 Bitmuster
 Bios
+Bedinung
 Voraussetzungen
 Valenziabrücken
 Vekehrswesen
@@ -9250,6 +9280,7 @@ VNK
 VENmxnCM
 Verwandten
 Vielfaches
+Vorgaben
 je
 jeder
 jeweils
