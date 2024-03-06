@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Von-Neumannn-Rechnermodell.md",
+                "file": "2.Klasse/Sysgrrrrtechnik/Leistungsmerkmale von Prozessoren.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Von-Neumannn-Rechnermodell.md",
+                "file": "2.Klasse/Sysgrrrrtechnik/Leistungsmerkmale von Prozessoren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Von-Neumannn-Rechnermodell.md"
+                "file": "2.Klasse/Sysgrrrrtechnik/Leistungsmerkmale von Prozessoren.md"
               }
             }
           },
@@ -188,14 +188,16 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "ff61ac6edcaf5b51",
+  "active": "daab501b6737f3d2",
   "lastOpenFiles": [
+    "2.Klasse/Sysgrrrrtechnik/Mikroprozessoren.md",
+    "2.Klasse/Sysgrrrrtechnik/Leistungsmerkmale von Prozessoren.md",
+    "2.Klasse/Sysgrrrrtechnik/Von-Neumannn-Rechnermodell.md",
     "2.Klasse/Sysgrrrrtechnik/Hardware.md",
     "2.Klasse/Sysgrrrrtechnik/Festdatenspeicher.md",
     "Zeichnungen/DR06-03-2024-51.excalidraw.md",
     "2.Klasse/Sysgrrrrtechnik/Rom.md",
     "2.Klasse/Sysgrrrrtechnik/Ram.md",
-    "2.Klasse/Sysgrrrrtechnik/Von-Neumannn-Rechnermodell.md",
     "2.Klasse/Sysgrrrrtechnik/betriebsysthme wiederholung.md",
     "2.Klasse/Sysgrrrrtechnik/Komperator.md",
     "Zeichnungen/DR05-03-2024-37.excalidraw.md",
@@ -215,8 +217,6 @@
     "Zeichnungen/DR21-02-2024-45.excalidraw.md",
     "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/diemensionierung transistor.md",
     "Überlebenswichtige Strichlisten.md",
-    "2.Klasse/Sysgrrrrtechnik/grrrrrrrlektrotechnik/transistor.md",
-    "Stefan Fürst Mathe Hü 9.md",
     "bilder/Pasted image 20240303182844.png",
     "bilder/Pasted image 20240303143831.png",
     "bilder/Pasted image 20240227172103.png",

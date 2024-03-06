@@ -10,7 +10,7 @@
     "2024/2/1": 257,
     "2024/2/4": 79,
     "2024/2/5": 0,
-    "2024/2/6": 428
+    "2024/2/6": 575
   },
   "todaysWordCount": {
     "2.Klasse/Sysgrrrrtechnik/Hardware.md": {
@@ -43,7 +43,23 @@
     },
     "2.Klasse/Sysgrrrrtechnik/Von-Neumannn-Rechnermodell.md": {
       "initial": 118,
-      "current": 224
+      "current": 221
+    },
+    "Mikroprozessoren.md": {
+      "initial": 1,
+      "current": 2
+    },
+    "2.Klasse/Sysgrrrrtechnik/Mikroprozessoren.md": {
+      "initial": 2,
+      "current": 5
+    },
+    "Leistungsmerkmale von Prozessoren.md": {
+      "initial": 0,
+      "current": 1
+    },
+    "2.Klasse/Sysgrrrrtechnik/Leistungsmerkmale von Prozessoren.md": {
+      "initial": 2,
+      "current": 147
     }
   }
 }
