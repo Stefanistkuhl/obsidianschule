@@ -10,7 +10,7 @@
     "2024/2/1": 257,
     "2024/2/4": 79,
     "2024/2/5": 0,
-    "2024/2/6": 322
+    "2024/2/6": 428
   },
   "todaysWordCount": {
     "2.Klasse/Sysgrrrrtechnik/Hardware.md": {
@@ -40,6 +40,10 @@
     "2.Klasse/Sysgrrrrtechnik/Festdatenspeicher.md": {
       "initial": 2,
       "current": 7
+    },
+    "2.Klasse/Sysgrrrrtechnik/Von-Neumannn-Rechnermodell.md": {
+      "initial": 118,
+      "current": 224
     }
   }
 }
