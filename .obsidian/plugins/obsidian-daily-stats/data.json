@@ -10,7 +10,7 @@
     "2024/2/1": 257,
     "2024/2/4": 79,
     "2024/2/5": 0,
-    "2024/2/6": 691
+    "2024/2/6": 749
   },
   "todaysWordCount": {
     "2.Klasse/Sysgrrrrtechnik/Hardware.md": {
@@ -99,7 +99,7 @@
     },
     "2.Klasse/Medt/Design.md": {
       "initial": 2,
-      "current": 37
+      "current": 40
     },
     "Style Guide.md": {
       "initial": 1,
@@ -116,6 +116,14 @@
     "2.Klasse/Medt/Usability.md": {
       "initial": 2,
       "current": 27
+    },
+    "Formaler Aufbau-Layout.md": {
+      "initial": 1,
+      "current": 2
+    },
+    "2.Klasse/Medt/Formaler Aufbau-Layout.md": {
+      "initial": 2,
+      "current": 56
     }
   }
 }

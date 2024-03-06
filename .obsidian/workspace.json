@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Medt/Usability.md",
+                "file": "2.Klasse/Medt/Formaler Aufbau-Layout.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Medt/Usability.md",
+                "file": "2.Klasse/Medt/Formaler Aufbau-Layout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Medt/Usability.md"
+                "file": "2.Klasse/Medt/Formaler Aufbau-Layout.md"
               }
             }
           },
@@ -190,9 +190,10 @@
   },
   "active": "cc5a3054058b8a71",
   "lastOpenFiles": [
-    "2.Klasse/Medt/Style Guide.md",
-    "2.Klasse/Medt/Usability.md",
     "2.Klasse/Medt/Design.md",
+    "2.Klasse/Medt/Formaler Aufbau-Layout.md",
+    "2.Klasse/Medt/Usability.md",
+    "2.Klasse/Medt/Style Guide.md",
     "2.Klasse/Medt/Gestaltung von Webseiten.md",
     "2.Klasse/Medt/medt v2.md",
     "2.Klasse/Sysgrrrrtechnik/Rom.md",
@@ -215,7 +216,6 @@
     "2.Klasse/Sysgrrrrtechnik/Operationsverstärker.md",
     "2.Klasse/Ipt/Plichtenheft.md",
     "2.Klasse/Mathe/😖Mathiger.md",
-    "2.Klasse/Sysgrrrrtechnik/antigrrrrrinformatik/Stefan Fürst 2BHIT SYT HÜ3.md",
     "bilder/Pflichtenheft bsp.pdf",
     "bilder/Pasted image 20240303182844.png",
     "bilder/Pasted image 20240303143831.png",

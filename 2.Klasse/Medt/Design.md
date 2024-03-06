@@ -7,3 +7,5 @@ Die Absicht etwas schöner, funktioneller, zweckmäßiger, farbiger, benutzerfre
 Vorgaben im [[Style Guide]] des Corporate Designs sind einzuhalten!
 
 ![[Usability]]
+
+![[Formaler Aufbau-Layout]]
