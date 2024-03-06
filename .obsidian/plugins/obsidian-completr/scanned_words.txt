@@ -195,6 +195,7 @@ teurer
 trotz
 technischen
 treffenden
+teVa
 Klasse
 Kreuzritter
 Klagenfurt
@@ -646,6 +647,7 @@ geringere
 gestalterischen
 gehalten
 gII
+gPIf
 Zettel
 Zwingen
 Zeichen
@@ -793,6 +795,7 @@ Zwischenspeicher
 Zugruff
 Zugriffszeit
 Zeichnen
+ZLrNKmqA
 Epochen
 Entdeckung
 Erste
@@ -1033,6 +1036,7 @@ EEPROM
 Entwurf
 Einrahmen
 Effekte
+Eio
 Das
 Dasselbe
 Diode
@@ -1551,6 +1555,8 @@ Programable
 Platzieren
 PN
 PZWkzE
+Paramter
+Periodendauer
 bei
 background
 bis
@@ -1993,6 +1999,7 @@ internen
 int
 intuitiv
 itXCiP
+ibb
 dass
 die
 den
@@ -2917,6 +2924,9 @@ sIxAM
 schöner
 spricht
 sVDpaU
+sFU
+suaiJ
+stattfindet
 und
 um
 ungefähr
@@ -3720,6 +3730,7 @@ miit
 mehreren
 mitlerweile
 mNa
+ms
 FFA
 Flüssen
 Furt
@@ -5151,6 +5162,7 @@ verzichten
 vVcvdY
 vwFJ
 vNOFLES
+vollständigen
 West
 Welt
 Wachstum
@@ -6009,6 +6021,7 @@ Abschlaten
 Achtung
 Absicht
 Auftrag
+Anazahl
 Griechisch
 Glauben
 Gewalt
@@ -6225,6 +6238,8 @@ Grundtaktes
 Graphikkarten
 Geräten
 Guter
+Größen
+Gyd
 wurden
 wegen
 wird
@@ -7324,6 +7339,8 @@ Stil
 Seitentietel
 Symbole
 Sachverhalt
+Sinusförmiger
+SaBM
 Handel
 Hygiene
 Halbleiter
@@ -7817,6 +7834,7 @@ aktuall
 adressbeozgenen
 aufgefrischt
 allen
+anM
 oft
 oder
 os
@@ -9430,6 +9448,7 @@ jemandem
 jeden
 javascript
 json
+jene
 ähnlich
 ändern
 ähnliches
@@ -9709,6 +9728,7 @@ QFE
 QFBD
 QKSwMGB
 QcvjnZXT
+QKhNi
 überall
 übersetzt
 übernehmen

@@ -1,4 +1,10 @@
 #2te_Klasse #syt 
 
-1. Paramter Sinusförmiger Größen 
-	1. 
+- Paramter Sinusförmiger Größen 
+	- ![[DR06-03-2024-07.excalidraw]]
+	- T = jene Zeit, in der 1 vollständige Schwingung stattfindet, bei der das Signal zu wiederholen beginnt.
+	- f = Anazahl der vollständigen Schwingungen pro Sekunde zb f = 50hz → T = 0,025 = 25ms
+	- U mit dach ... Scheitelwer
+	- u(t) ... Momentanwert
+	- u(t) = U ... sin(ω * t)
+	- ω = 2 * Π * p ... Winkelgeschwindigkeit, Kreis

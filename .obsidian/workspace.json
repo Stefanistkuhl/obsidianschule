@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "04d2c095ccba1822",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Zeichnungen/DR06-03-2024-07.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichnungen/DR06-03-2024-07.excalidraw.md",
+                "file": "2.Klasse/Sysgrrrrtechnik/Wechselstromtechnik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Zeichnungen/DR06-03-2024-07.excalidraw.md"
+                "file": "2.Klasse/Sysgrrrrtechnik/Wechselstromtechnik.md"
               }
             }
           },
@@ -199,10 +188,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "04d2c095ccba1822",
+  "active": "cc5a3054058b8a71",
   "lastOpenFiles": [
-    "2.Klasse/Sysgrrrrtechnik/Wechselstromtechnik.md",
     "Zeichnungen/DR06-03-2024-07.excalidraw.md",
+    "2.Klasse/Sysgrrrrtechnik/Wechselstromtechnik.md",
     "2.Klasse/Sysgrrrrtechnik/grrrrrlektrotechnik v2 mit sin.md",
     "2.Klasse/Sysgrrrrtechnik/Komperator.md",
     "Zeichnungen/DR06-03-2024-50.excalidraw.md",
