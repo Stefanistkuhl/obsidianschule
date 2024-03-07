@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/nawi/Reaktionsgleichung.md",
+                "file": "2.Klasse/nawi/Übung zum Ausgleichen von Reaktionsgleichungen.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/nawi/Reaktionsgleichung.md",
+                "file": "2.Klasse/nawi/Übung zum Ausgleichen von Reaktionsgleichungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/nawi/Reaktionsgleichung.md"
+                "file": "2.Klasse/nawi/Übung zum Ausgleichen von Reaktionsgleichungen.md"
               }
             }
           },
@@ -190,8 +190,9 @@
   },
   "active": "cc5a3054058b8a71",
   "lastOpenFiles": [
-    "Zeichnungen/DR07-03-2024-48.excalidraw.md",
     "2.Klasse/nawi/Reaktionsgleichung.md",
+    "2.Klasse/nawi/Übung zum Ausgleichen von Reaktionsgleichungen.md",
+    "Zeichnungen/DR07-03-2024-48.excalidraw.md",
     "2.Klasse/nawi/Chemishe Reaktionen.md",
     "2.Klasse/nawi/Versuch Natrium in Wasser.md",
     "Zeichnungen/DR07-03-2024-51.excalidraw.md",
@@ -215,7 +216,6 @@
     "2.Klasse/Sysgrrrrtechnik/Rom.md",
     "2.Klasse/Sysgrrrrtechnik/Ram.md",
     "Zeichnungen/DR06-03-2024-51.excalidraw.md",
-    "2.Klasse/Sysgrrrrtechnik/Überischt Festdatenspeicher.md",
     "bilder/Pflichtenheft bsp.pdf",
     "bilder/Pasted image 20240303182844.png",
     "bilder/Pasted image 20240303143831.png",
