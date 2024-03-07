@@ -196,6 +196,7 @@ trotz
 technischen
 treffenden
 teVa
+tLnp
 Klasse
 Kreuzritter
 Klagenfurt
@@ -385,6 +386,7 @@ Konstanten
 Kernbotschaften
 KVPiLK
 Kreisfrequenz
+KhQD
 ggp
 genauen
 gibt
@@ -650,6 +652,7 @@ gehalten
 gII
 gPIf
 gabMFios
+gYY
 Zettel
 Zwingen
 Zeichen
@@ -799,6 +802,7 @@ Zugriffszeit
 Zeichnen
 ZLrNKmqA
 Zmig
+ZRPOvKhL
 Epochen
 Entdeckung
 Erste
@@ -1298,6 +1302,8 @@ DDR
 DDr
 Datenrate
 Designs
+DRSQk
+DPlRm
 Problem
 Pest
 Portugal
@@ -2005,6 +2011,7 @@ int
 intuitiv
 itXCiP
 ibb
+ikT
 dass
 die
 den
@@ -2254,6 +2261,9 @@ deren
 direkten
 dmxfwIuJ
 dach
+dHU
+dtlsH
+daVX
 es
 entstanden
 entstehen
@@ -2560,6 +2570,8 @@ einmal
 einzuhalten
 einfachund
 ensprechendem
+eJQcUpSo
+eshOPq
 Übergange
 Übergänge
 Übergang
@@ -2937,6 +2949,10 @@ sin
 sqrt
 sinusförmige
 sYpo
+sYgYMIBp
+sTum
+sWNQn
+sIO
 und
 um
 ungefähr
@@ -3101,6 +3117,7 @@ ust
 ub
 udh
 uOoddDN
+uRgPg
 keine
 konnten
 kein
@@ -3251,6 +3268,7 @@ korrekte
 kippt
 ktX
 kEW
+kIM
 Jahreszahlen
 Jahresahlen
 Jura
@@ -3359,6 +3377,7 @@ JGf
 JkY
 John
 JorEi
+JHudodIm
 für
 fall
 freibewegliches
@@ -3741,6 +3760,7 @@ mehreren
 mitlerweile
 mNa
 ms
+mVN
 FFA
 Flüssen
 Furt
@@ -4127,6 +4147,7 @@ nbJT
 niederohmigen
 natürlich
 neutzerfreundlichem
+nFFStGv
 Christus
 Christianisierung
 Christentum
@@ -4299,6 +4320,7 @@ Compact
 CLeK
 Corporate
 CP
+CckpeozM
 Urgeschichte
 Universitäten
 Ufern
@@ -4745,6 +4767,9 @@ MuzmDm
 MSB
 Momentanwert
 Mhz
+McaAbyE
+Mgb
+MT
 Rom
 Ratten
 Römischen
@@ -4956,6 +4981,7 @@ Refreshing
 Regel
 Read
 ROM
+RkIXH
 vor
 verbreiten
 vom
@@ -5180,6 +5206,8 @@ vVcvdY
 vwFJ
 vNOFLES
 vollständigen
+vLIWUFXO
+vZErn
 West
 Welt
 Wachstum
@@ -5382,6 +5410,8 @@ Werken
 Winkelgeschwindigkeit
 WRB
 Wlan
+WY
+WLNsIJAL
 Latein
 Leute
 Läuse
@@ -5591,6 +5621,7 @@ Lesemodus
 LQEIQnbI
 LSB
 LakFFnkT
+LoGSlDf
 Ost
 OS
 Obwohl
@@ -6044,6 +6075,7 @@ Absicht
 Auftrag
 Anazahl
 AuEckYUo
+Atomar
 Griechisch
 Glauben
 Gewalt
@@ -6263,6 +6295,7 @@ Guter
 Größen
 Gyd
 Ghz
+GXMQHEO
 wurden
 wegen
 wird
@@ -6459,6 +6492,7 @@ wplO
 wEOGUOFX
 worterklärungen
 wTcPnDDK
+wklc
 christlichen
 code
 charakterisiert
@@ -6793,6 +6827,7 @@ zumeist
 zweckmäßiger
 zqSMdCXy
 ziehen
+zyvDk
 Theologie
 Thema
 Teller
@@ -7367,6 +7402,12 @@ Sinusförmiger
 SaBM
 Scheitelwer
 Sauerstoff
+Skizze
+SwvwkwsF
+Steigt
+SNy
+Shzv
+SGPafk
 Handel
 Hygiene
 Halbleiter
@@ -7862,6 +7903,8 @@ aufgefrischt
 allen
 anM
 ausschießlich
+avvhAJA
+aS
 oft
 oder
 os
@@ -8000,6 +8043,7 @@ oGv
 oM
 oQn
 oMJjXuQ
+oPu
 Namen
 Neuzeit
 Nord
@@ -8160,6 +8204,7 @@ Nano
 Navigationsymbole
 NfI
 Netzspannung
+NgkkdC
 Infizierte
 Indium
 Instanz
@@ -8535,6 +8580,7 @@ pvN
 permanente
 prägnanten
 pFHuhFMj
+pTpW
 reiches
 real
 running
@@ -8748,6 +8794,9 @@ reserviert
 reale
 rechteckigen
 register
+rHZrjIop
+rTMv
+rekyf
 hat
 hervorgerufen
 haben
@@ -9384,6 +9433,7 @@ VENmxnCM
 Verwandten
 Vielfaches
 Vorgaben
+VkLEkxYu
 je
 jeder
 jeweils
@@ -9477,6 +9527,7 @@ jeden
 javascript
 json
 jene
+jjX
 ähnlich
 ändern
 ähnliches
@@ -9674,6 +9725,7 @@ laufenden
 lJkqze
 leiste
 ldkQapqP
+laGV
 Queue
 QHvC
 Qp
@@ -9757,6 +9809,7 @@ QFBD
 QKSwMGB
 QcvjnZXT
 QKhNi
+QvtZAvqW
 überall
 übersetzt
 übernehmen
@@ -10053,6 +10106,7 @@ ylnz
 yFETWS
 yCyB
 yzj
+yhd
 XaShZjh
 XXtqRDri
 Xc
@@ -10135,6 +10189,7 @@ XTIh
 XNNgB
 XND
 XsGMZDly
+XvQ
 qs
 qJ
 qAne
@@ -10221,6 +10276,8 @@ qe
 qSB
 qoubeJEX
 qEYuOI
+qSQM
+qBboHroH
 Änder
 Änderung
 Änderungen

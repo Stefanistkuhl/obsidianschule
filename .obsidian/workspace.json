@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5df0f50af3c3dd10",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Zeichnungen/DR07-03-2024-51.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichnungen/DR07-03-2024-51.excalidraw.md",
+                "file": "2.Klasse/nawi/Versuch Natrium in Wasser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Zeichnungen/DR07-03-2024-51.excalidraw.md"
+                "file": "2.Klasse/nawi/Versuch Natrium in Wasser.md"
               }
             }
           },
@@ -199,10 +188,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5df0f50af3c3dd10",
+  "active": "cc5a3054058b8a71",
   "lastOpenFiles": [
-    "2.Klasse/nawi/Versuch Natrium in Wasser.md",
     "Zeichnungen/DR07-03-2024-51.excalidraw.md",
+    "2.Klasse/nawi/Versuch Natrium in Wasser.md",
     "2.Klasse/nawi/Chemishe Reaktionen.md",
     "Zeichnungen/DR07-03-2024-49.excalidraw.md",
     "2.Klasse/nawi/🪄Naturtigerschaften.md",
