@@ -10,148 +10,21 @@
     "2024/2/1": 257,
     "2024/2/4": 79,
     "2024/2/5": 0,
-    "2024/2/6": 909
+    "2024/2/6": 909,
+    "2024/2/7": 17
   },
   "todaysWordCount": {
-    "2.Klasse/Sysgrrrrtechnik/Hardware.md": {
-      "initial": 7,
-      "current": 12
+    "2.Klasse/nawi/🪄Naturtigerschaften.md": {
+      "initial": 858,
+      "current": 860
     },
-    "Ram.md": {
+    "Chemishe Reaktionen.md": {
       "initial": 1,
       "current": 2
     },
-    "2.Klasse/Sysgrrrrtechnik/Ram.md": {
+    "2.Klasse/nawi/Chemishe Reaktionen.md": {
       "initial": 2,
-      "current": 221
-    },
-    "Rom.md": {
-      "initial": 1,
-      "current": 2
-    },
-    "2.Klasse/Sysgrrrrtechnik/Rom.md": {
-      "initial": 2,
-      "current": 104
-    },
-    "Festdatenspeicher.md": {
-      "initial": 1,
-      "current": 2
-    },
-    "2.Klasse/Sysgrrrrtechnik/Festdatenspeicher.md": {
-      "initial": 2,
-      "current": 4
-    },
-    "2.Klasse/Sysgrrrrtechnik/Von-Neumannn-Rechnermodell.md": {
-      "initial": 118,
-      "current": 221
-    },
-    "Mikroprozessoren.md": {
-      "initial": 1,
-      "current": 2
-    },
-    "2.Klasse/Sysgrrrrtechnik/Mikroprozessoren.md": {
-      "initial": 2,
-      "current": 5
-    },
-    "Leistungsmerkmale von Prozessoren.md": {
-      "initial": 0,
-      "current": 1
-    },
-    "2.Klasse/Sysgrrrrtechnik/Leistungsmerkmale von Prozessoren.md": {
-      "initial": 2,
-      "current": 147
-    },
-    "Überischt Festdatenspeicher.md": {
-      "initial": 1,
-      "current": 1
-    },
-    "2.Klasse/Sysgrrrrtechnik/Überischt Festdatenspeicher.md": {
-      "initial": 2,
-      "current": 7
-    },
-    "2.Klasse/Medt/medt v2.md": {
-      "initial": 9,
-      "current": 12
-    },
-    "Gestaltung von Webseiten.md": {
-      "initial": 1,
-      "current": 2
-    },
-    "2.Klasse/Sysgrrrrtechnik/Gestaltung von Webseiten.md": {
-      "initial": 2,
-      "current": 5
-    },
-    "Design.md": {
-      "initial": 1,
-      "current": 2
-    },
-    "2.Klasse/Mathe/Design.md": {
-      "initial": 2,
-      "current": 2
-    },
-    "2.Klasse/Mathe/Gestaltung von Webseiten.md": {
-      "initial": 5,
-      "current": 5
-    },
-    "2.Klasse/Medt/Gestaltung von Webseiten.md": {
-      "initial": 5,
-      "current": 5
-    },
-    "2.Klasse/Medt/Design.md": {
-      "initial": 2,
-      "current": 40
-    },
-    "Style Guide.md": {
-      "initial": 1,
-      "current": 3
-    },
-    "2.Klasse/Medt/Style Guide.md": {
-      "initial": 3,
-      "current": 33
-    },
-    "Usability.md": {
-      "initial": 0,
-      "current": 2
-    },
-    "2.Klasse/Medt/Usability.md": {
-      "initial": 2,
-      "current": 27
-    },
-    "Formaler Aufbau-Layout.md": {
-      "initial": 1,
-      "current": 2
-    },
-    "2.Klasse/Medt/Formaler Aufbau-Layout.md": {
-      "initial": 2,
-      "current": 56
-    },
-    "2.Klasse/Sysgrrrrtechnik/Komperator.md": {
-      "initial": 64,
-      "current": 72
-    },
-    "2.Klasse/Sysgrrrrtechnik/grrrrrlektrotechnik v2 mit sin.md": {
-      "initial": 6,
-      "current": 7
-    },
-    "Wechselstromtechnik.md": {
-      "initial": 1,
-      "current": 2
-    },
-    "2.Klasse/Sew/Wechselstromtechnik.md": {
-      "initial": 2,
-      "current": 2
-    },
-    "2.Klasse/Sysgrrrrtechnik/Wechselstromtechnik.md": {
-      "initial": 2,
-      "current": 76
-    },
-    "Zeiger und liniendiagramm.md": {
-      "initial": 1,
-      "current": 2
-    },
-    "2.Klasse/Sysgrrrrtechnik/Zeiger und liniendiagramm.md": {
-      "initial": 7,
-      "current": 82
+      "current": 16
     }
   }
 }

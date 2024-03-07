@@ -186,3 +186,6 @@ npn
 
 - Ohne Ugs keine e- Brücke zwischen den n Bereichen → Kein Stromfluss
 - Mit Ugs: e- Brücke bildet sich → Stromfluss
+
+
+![[Chemishe Reaktionen]]
