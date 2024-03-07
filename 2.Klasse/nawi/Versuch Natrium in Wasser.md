@@ -6,3 +6,5 @@
 	- pH-Wert sollte über 7 sein ✅ 
 	- Na-Block löst sich auf ✅
 
+
+

@@ -11,7 +11,7 @@
     "2024/2/4": 79,
     "2024/2/5": 0,
     "2024/2/6": 909,
-    "2024/2/7": 43
+    "2024/2/7": 54
   },
   "todaysWordCount": {
     "2.Klasse/nawi/🪄Naturtigerschaften.md": {
@@ -24,7 +24,7 @@
     },
     "2.Klasse/nawi/Chemishe Reaktionen.md": {
       "initial": 2,
-      "current": 20
+      "current": 21
     },
     "Versuch Natrium in Wasser.md": {
       "initial": 1,
@@ -33,6 +33,14 @@
     "2.Klasse/nawi/Versuch Natrium in Wasser.md": {
       "initial": 2,
       "current": 23
+    },
+    "Rekationsgelichung.md": {
+      "initial": 0,
+      "current": 2
+    },
+    "2.Klasse/nawi/Reaktionsgleichung.md": {
+      "initial": 2,
+      "current": 10
     }
   }
 }
