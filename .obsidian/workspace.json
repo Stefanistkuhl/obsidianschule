@@ -11,13 +11,26 @@
             "id": "cc5a3054058b8a71",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Klasse/nawi/Versuch Natrium in Wasser.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5df0f50af3c3dd10",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Zeichnungen/DR07-03-2024-49.excalidraw.md"
+                "file": "Zeichnungen/DR07-03-2024-51.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichnungen/DR07-03-2024-49.excalidraw.md",
+                "file": "Zeichnungen/DR07-03-2024-51.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +150,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Zeichnungen/DR07-03-2024-49.excalidraw.md"
+                "file": "Zeichnungen/DR07-03-2024-51.excalidraw.md"
               }
             }
           },
@@ -186,8 +199,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "cc5a3054058b8a71",
+  "active": "5df0f50af3c3dd10",
   "lastOpenFiles": [
+    "2.Klasse/nawi/Versuch Natrium in Wasser.md",
+    "Zeichnungen/DR07-03-2024-51.excalidraw.md",
     "2.Klasse/nawi/Chemishe Reaktionen.md",
     "Zeichnungen/DR07-03-2024-49.excalidraw.md",
     "2.Klasse/nawi/🪄Naturtigerschaften.md",
@@ -212,8 +227,6 @@
     "2.Klasse/Sysgrrrrtechnik/Überischt Festdatenspeicher.md",
     "2.Klasse/Sysgrrrrtechnik/Festdatenspeicher.md",
     "2.Klasse/Sysgrrrrtechnik/Leistungsmerkmale von Prozessoren.md",
-    "2.Klasse/Sysgrrrrtechnik/Hardware.md",
-    "2.Klasse/Sysgrrrrtechnik/Mikroprozessoren.md",
     "bilder/Pflichtenheft bsp.pdf",
     "bilder/Pasted image 20240303182844.png",
     "bilder/Pasted image 20240303143831.png",
