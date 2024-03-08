@@ -1,6 +1,6 @@
 #2te_Klasse #nwt
 - Protokolle: 
-	- Ipv4, Ipv6, Arp (Adress Resulution Protocol)
+	- Ipv4, Ipv6, Arp (Adress Resulution Protocol) Ip(Internetprotocol)
 - Adressen: Ipv4-Adressen
 	- privat
 		- 10.0.0.8/8
@@ -11,4 +11,5 @@
 	- reserviert
 		- dürfen nicht frei gewählt werden 
 			- zb localhost (127.0.0.0/8)
-		- 
+
+![[Arp]]
