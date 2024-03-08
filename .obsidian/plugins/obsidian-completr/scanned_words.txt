@@ -389,6 +389,7 @@ KVPiLK
 Kreisfrequenz
 KhQD
 Koeffizientten
+KHrNoPGF
 ggp
 genauen
 gibt
@@ -1049,6 +1050,7 @@ Eio
 Effektivwert
 EdFHHq
 EeyzNhbG
+EBCcDZ
 Das
 Dasselbe
 Diode
@@ -1572,6 +1574,8 @@ PN
 PZWkzE
 Paramter
 Periodendauer
+PSfCyE
+PEMO
 bei
 background
 bis
@@ -1844,6 +1848,7 @@ beschrieben
 benutzerfreundlicher
 bedienen
 btw
+blET
 ist
 in
 im
@@ -3985,6 +3990,7 @@ Festgelegte
 Flächenverhältnis
 Ffi
 Frequenzen
+FN
 nach
 neue
 negativen
@@ -4334,6 +4340,7 @@ Corporate
 CP
 CckpeozM
 Calcium
+CeUf
 Urgeschichte
 Universitäten
 Ufern
@@ -4998,6 +5005,7 @@ Read
 ROM
 RkIXH
 Reaktion
+Reply
 vor
 verbreiten
 vom
@@ -5225,6 +5233,7 @@ vollständigen
 vLIWUFXO
 vZErn
 vTPNO
+verwirft
 West
 Welt
 Wachstum
@@ -6098,6 +6107,7 @@ Anazahl
 AuEckYUo
 Atomar
 Auch
+Addr
 Griechisch
 Glauben
 Gewalt
@@ -7609,6 +7619,7 @@ Heute
 Hintergrundspeicher
 HIOpu
 Hinterlgen
+HnOIAVk
 an
 auf
 aus
@@ -7929,6 +7940,7 @@ anM
 ausschießlich
 avvhAJA
 aS
+aXTcLrBh
 oft
 oder
 os

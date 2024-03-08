@@ -13,9 +13,12 @@ Client ARP-Table
 	2. Jeder, der nicht 10.255.255.254 ist verwirft, das Packet 
 3. I am "10.255.255.254" → ARP-Reply 
 	1. L2 → SRC: 12:12:12 DST: AA:AA:AA
+4. Speicher Mac und Ip in der Tabelle 
+
+
 
 | Ip             | Mac      |
 | -------------- | -------- |
 | 10.255.255.254 | 12:12:12 |
 |                |          |
-
+![[DR01-03-2024-22.excalidraw]]
