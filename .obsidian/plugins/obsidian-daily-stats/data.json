@@ -12,7 +12,7 @@
     "2024/2/5": 0,
     "2024/2/6": 909,
     "2024/2/7": 136,
-    "2024/2/8": 15
+    "2024/2/8": 62
   },
   "todaysWordCount": {
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md": {
@@ -30,6 +30,18 @@
     "2.Klasse/Netzwerktiger/Arp.md": {
       "initial": 2,
       "current": 13
+    },
+    "2.Klasse/Netzwerktiger/Switch.md": {
+      "initial": 89,
+      "current": 90
+    },
+    "Brodcastdomäne.md": {
+      "initial": 0,
+      "current": 3
+    },
+    "2.Klasse/Netzwerktiger/Brodcastdomäne.md": {
+      "initial": 3,
+      "current": 46
     }
   }
 }

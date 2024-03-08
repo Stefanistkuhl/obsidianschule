@@ -15,3 +15,4 @@
 
 ![[DR04-12-2023-18.excalidraw]]
 ![[DR01-03-2024-22.excalidraw]]
+![[Brodcastdomäne]]

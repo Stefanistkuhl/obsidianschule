@@ -11,11 +11,9 @@
             "id": "cc5a3054058b8a71",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/Arp.md",
-                "mode": "source",
-                "source": false
+                "file": "Zeichnungen/DR01-03-2024-22.excalidraw.md"
               }
             }
           }
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/Arp.md",
+                "file": "Zeichnungen/DR01-03-2024-22.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/Arp.md"
+                "file": "Zeichnungen/DR01-03-2024-22.excalidraw.md"
               }
             }
           },
@@ -190,8 +188,11 @@
   },
   "active": "cc5a3054058b8a71",
   "lastOpenFiles": [
-    "2.Klasse/Netzwerktiger/Layer 3.md",
+    "2.Klasse/Netzwerktiger/Brodcastdomäne.md",
     "2.Klasse/Netzwerktiger/Arp.md",
+    "2.Klasse/Netzwerktiger/Switch.md",
+    "2.Klasse/Netzwerktiger/Datalink Layer2.md",
+    "2.Klasse/Netzwerktiger/Layer 3.md",
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
     "2.Klasse/nawi/Übung zum Ausgleichen von Reaktionsgleichungen.md",
     "2.Klasse/nawi/Reaktionsgleichung.md",
@@ -213,9 +214,6 @@
     "2.Klasse/Medt/Formaler Aufbau-Layout.md",
     "2.Klasse/Medt/Design.md",
     "2.Klasse/Medt/Usability.md",
-    "2.Klasse/Medt/Style Guide.md",
-    "2.Klasse/Medt/Gestaltung von Webseiten.md",
-    "2.Klasse/Medt/medt v2.md",
     "bilder/Pflichtenheft bsp.pdf",
     "bilder/Pasted image 20240303182844.png",
     "bilder/Pasted image 20240303143831.png",
