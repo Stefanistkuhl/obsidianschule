@@ -11,8 +11,12 @@
             "id": "cc5a3054058b8a71",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2.Klasse/Netzwerktiger/Host Routing.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2.Klasse/Netzwerktiger/Host Routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2.Klasse/Netzwerktiger/Host Routing.md"
+              }
             }
           },
           {
@@ -184,6 +191,7 @@
   "active": "cc5a3054058b8a71",
   "lastOpenFiles": [
     "2.Klasse/Netzwerktiger/Standard Gateway.md",
+    "2.Klasse/Netzwerktiger/Host Routing.md",
     "2.Klasse/Netzwerktiger/Arp.md",
     "Zeichnungen/DR01-03-2024-22.excalidraw.md",
     "2.Klasse/Netzwerktiger/Switch.md",
@@ -208,7 +216,6 @@
     "2.Klasse/Sysgrrrrtechnik/grrrrrlektrotechnik v2 mit sin.md",
     "2.Klasse/Sysgrrrrtechnik/Komperator.md",
     "Zeichnungen/DR06-03-2024-50.excalidraw.md",
-    "Zeichnungen/DR05-03-2024-55.excalidraw.md",
     "bilder/Pflichtenheft bsp.pdf",
     "bilder/Pasted image 20240303182844.png",
     "bilder/Pasted image 20240303143831.png",
