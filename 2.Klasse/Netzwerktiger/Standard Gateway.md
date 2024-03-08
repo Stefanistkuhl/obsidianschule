@@ -2,4 +2,5 @@
 
 > 1. Router im lokalen Netzwerk
 > 1. Anlaufstelle in andere Netzwerke
-> 1. Nachrichten an unbekannte Ne
+> Nachrichten an unbekannte Netze werden an das Standard Gateway geschickt 
+
