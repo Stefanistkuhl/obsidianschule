@@ -1,0 +1,63 @@
+{
+  "dayCounts": {
+    "2024/1/22": 132,
+    "2024/1/23": 22,
+    "2024/1/24": 5,
+    "2024/1/26": 1,
+    "2024/1/27": 432,
+    "2024/1/28": 134,
+    "2024/1/29": 113,
+    "2024/2/1": 257,
+    "2024/2/4": 79,
+    "2024/2/5": 0,
+    "2024/2/6": 909,
+    "2024/2/7": 136,
+    "2024/2/8": 188
+  },
+  "todaysWordCount": {
+    "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md": {
+      "initial": 518,
+      "current": 518
+    },
+    "2.Klasse/Netzwerktiger/Layer 3.md": {
+      "initial": 55,
+      "current": 57
+    },
+    "Arp.md": {
+      "initial": 0,
+      "current": 2
+    },
+    "2.Klasse/Netzwerktiger/Arp.md": {
+      "initial": 2,
+      "current": 108
+    },
+    "2.Klasse/Netzwerktiger/Switch.md": {
+      "initial": 89,
+      "current": 90
+    },
+    "Brodcastdomäne.md": {
+      "initial": 0,
+      "current": 3
+    },
+    "2.Klasse/Netzwerktiger/Brodcastdomäne.md": {
+      "initial": 3,
+      "current": 46
+    },
+    "Standard Gateway.md": {
+      "initial": 1,
+      "current": 2
+    },
+    "2.Klasse/Netzwerktiger/Standard Gateway.md": {
+      "initial": 2,
+      "current": 24
+    },
+    "Host Routing.md": {
+      "initial": 0,
+      "current": 2
+    },
+    "2.Klasse/Netzwerktiger/Host Routing.md": {
+      "initial": 2,
+      "current": 8
+    }
+  }
+}
