@@ -7,5 +7,5 @@
 - lokal 
 	- Kommunikation innerhalb des lokalen Netzwerks 
 - remote 
-	- Kommunikation mit entfer 
+	- Kommunikation mit entfernten Netzwerken über das Standard Gateway 
 
