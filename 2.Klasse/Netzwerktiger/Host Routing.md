@@ -9,5 +9,6 @@
 - remote 
 	- Kommunikation mit entfernten Netzwerken über das Standard Gateway 
 
+![[DR08-03-2024-13.excalidraw]]
 
 
