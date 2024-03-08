@@ -12,10 +12,10 @@ Client ARP-Table
 	1. Brodcast → L2-DSt FF:FF:FF:FF:FF:FF 
 	2. Jeder, der nicht 10.255.255.254 ist verwirft, das Packet 
 3. I am "10.255.255.254" → ARP-Reply 
-	1. 
+	1. L2 → SRC: 12:12:12 DST: AA:AA:AA
 
-| Ip  | Mac |
-| --- | --- |
-|     |     |
-|     |     |
+| Ip             | Mac      |
+| -------------- | -------- |
+| 10.255.255.254 | 12:12:12 |
+|                |          |
 
