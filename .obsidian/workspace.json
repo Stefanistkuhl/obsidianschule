@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "tiger.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "tiger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled.md"
+                "file": "tiger.md"
               }
             }
           },
@@ -190,7 +190,7 @@
   },
   "active": "4314eecead42a3bf",
   "lastOpenFiles": [
-    "Untitled.md",
+    "tiger.md",
     "Zeichnungen/DR08-03-2024-13.excalidraw.md",
     "2.Klasse/Netzwerktiger/Host Routing.md",
     "2.Klasse/Netzwerktiger/Standard Gateway.md",
