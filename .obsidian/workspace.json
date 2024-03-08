@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a2668812741a8c64",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Zeichnungen/DR08-03-2024-13.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/Host Routing.md",
+                "file": "Zeichnungen/DR08-03-2024-13.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +150,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/Host Routing.md"
+                "file": "Zeichnungen/DR08-03-2024-13.excalidraw.md"
               }
             }
           },
@@ -188,10 +199,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "cc5a3054058b8a71",
+  "active": "a2668812741a8c64",
   "lastOpenFiles": [
-    "2.Klasse/Netzwerktiger/Standard Gateway.md",
     "2.Klasse/Netzwerktiger/Host Routing.md",
+    "Zeichnungen/DR08-03-2024-13.excalidraw.md",
+    "2.Klasse/Netzwerktiger/Standard Gateway.md",
     "2.Klasse/Netzwerktiger/Arp.md",
     "Zeichnungen/DR01-03-2024-22.excalidraw.md",
     "2.Klasse/Netzwerktiger/Switch.md",
@@ -215,7 +227,6 @@
     "Zeichnungen/DR06-03-2024-07.excalidraw.md",
     "2.Klasse/Sysgrrrrtechnik/grrrrrlektrotechnik v2 mit sin.md",
     "2.Klasse/Sysgrrrrtechnik/Komperator.md",
-    "Zeichnungen/DR06-03-2024-50.excalidraw.md",
     "bilder/Pflichtenheft bsp.pdf",
     "bilder/Pasted image 20240303182844.png",
     "bilder/Pasted image 20240303143831.png",
