@@ -1307,6 +1307,7 @@ Datenrate
 Designs
 DRSQk
 DPlRm
+DSt
 Problem
 Pest
 Portugal
@@ -5428,6 +5429,7 @@ WRB
 Wlan
 WY
 WLNsIJAL
+Who
 Latein
 Leute
 Läuse
@@ -8228,6 +8230,7 @@ NfI
 Netzspannung
 NgkkdC
 NBfeijM
+Nachschauen
 Infizierte
 Indium
 Instanz

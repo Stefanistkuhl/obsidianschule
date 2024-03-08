@@ -7,12 +7,15 @@
 	- DST:10.255.255.254 
 
 Client ARP-Table
-
 1. Nachschauen in der ARP-Tabelle 
 2. Who is "10.255.255.254" → ARP-Request 
 	1. Brodcast → L2-DSt FF:FF:FF:FF:FF:FF 
-3. 
+	2. Jeder, der nicht 10.255.255.254 ist verwirft, das Packet 
+3. I am "10.255.255.254" → ARP-Reply 
+	1. 
 
 | Ip  | Mac |
 | --- | --- |
 |     |     |
+|     |     |
+
