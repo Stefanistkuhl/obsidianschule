@@ -15,10 +15,8 @@ Client ARP-Table
 	1. L2 → SRC: 12:12:12 DST: AA:AA:AA
 4. Speicher Mac und Ip in der Tabelle 
 
-
-
 | Ip             | Mac      |
 | -------------- | -------- |
 | 10.255.255.254 | 12:12:12 |
-|                |          |
+
 ![[DR01-03-2024-22.excalidraw]]
