@@ -21,4 +21,4 @@ Client ARP-Table
 
 ![[DR01-03-2024-22.excalidraw]]
 
-![[Standar]]
+![[Standard Gateway]]
