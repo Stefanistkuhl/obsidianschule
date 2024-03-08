@@ -2,4 +2,9 @@
 
 > Wegfindung von einem Host 
 
-- 
+- selbst
+	- 127.0.0.0/8  
+- lokal 
+	- 
+- remote 
+
