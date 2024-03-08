@@ -11,9 +11,11 @@
             "id": "cc5a3054058b8a71",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Zeichnungen/DR01-03-2024-22.excalidraw.md"
+                "file": "2.Klasse/Netzwerktiger/Arp.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichnungen/DR01-03-2024-22.excalidraw.md",
+                "file": "2.Klasse/Netzwerktiger/Arp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Zeichnungen/DR01-03-2024-22.excalidraw.md"
+                "file": "2.Klasse/Netzwerktiger/Arp.md"
               }
             }
           },
@@ -188,6 +190,7 @@
   },
   "active": "cc5a3054058b8a71",
   "lastOpenFiles": [
+    "Zeichnungen/DR01-03-2024-22.excalidraw.md",
     "2.Klasse/Netzwerktiger/Brodcastdomäne.md",
     "2.Klasse/Netzwerktiger/Arp.md",
     "2.Klasse/Netzwerktiger/Switch.md",
@@ -213,7 +216,6 @@
     "2.Klasse/Sysgrrrrtechnik/Operationsverstärker.md",
     "2.Klasse/Medt/Formaler Aufbau-Layout.md",
     "2.Klasse/Medt/Design.md",
-    "2.Klasse/Medt/Usability.md",
     "bilder/Pflichtenheft bsp.pdf",
     "bilder/Pasted image 20240303182844.png",
     "bilder/Pasted image 20240303143831.png",
