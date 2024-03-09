@@ -6,7 +6,7 @@ $$\huge{z=a+b*j}$$
 ##### trigonometrische form
 $$\huge{z=r*(\cos(φ)*j*\sin(φ))}$$
 ###### Versorform
-$$$$
+$$e^{j*\phi}=\angle\phi$$
 ##### Exponentialform
 $$\huge{z=r*e^{j*φ}}$$
 ###### eulersche Formel 
