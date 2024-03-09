@@ -40,7 +40,7 @@ b)
 $$z_{2}=4j$$
 $$r=\sqrt{ 0^2+4^2 }=4$$
 ϕ ist 90° da bei der Zeigerdarstellung es nur auf der y achse nach oben geht wäre es -4j wäre ϕ 180° weil es dann nur runtergehen würde 
-$$$$
+$$z=4*(\cos(90°)+j*\sin(90°))$$
 
 #### 1. Quadrant
 ```math
