@@ -42,9 +42,10 @@ $$r=\sqrt{ 0^2+4^2 }=4$$
 ϕ ist 90° da bei der Zeigerdarstellung es nur auf der y achse nach oben geht wäre es -4j wäre ϕ 180° weil es dann nur runtergehen würde 
 $$z=4*(\cos(90°)+j*\sin(90°))=4*e^{j*90°}$$
 c)
+a >
 $$z_{3}=-3+2j$$
 $$r=\sqrt{ -3^2+2^2 }=\sqrt{ 13 }$$
-$$\phi = \tan^{-}$$
+$$\phi = \tan^{-1}=\frac{2}{3}+180°=-33,7°+180°=146,3°$$
 
 #### 1. Quadrant
 ```math
