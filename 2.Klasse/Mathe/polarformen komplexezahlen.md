@@ -6,12 +6,12 @@ $$\huge{z=a+b*j}$$
 ##### trigonometrische form
 $$\huge{z=r*(\cos(φ)*j*\sin(φ))}$$
 ###### Versorform
-$$e^{j*\phi}=\angle\phi$$
+$$\huge e^{j*\phi}=\angle\phi → z=r*\angle\phi={z=r*e^{j*φ}}$$
 ##### Exponentialform
 $$\huge{z=r*e^{j*φ}}$$
 ###### eulersche Formel 
 
-$$e^{j*\phi}=\cos(\phi)+j*\sin (\phi)$$
+$$\huge e^{j*\phi}=\cos(\phi)+j*\sin (\phi)$$
 
 
 ##### Wie man auf r und φ kommt
