@@ -8,13 +8,11 @@ $$\huge{z=r*(\cos(φ)*j*\sin(φ))}$$
 ##### Exponentialform
 $$\huge{z=r*e^{j*φ}}$$
 ###### eulersche Formel 
-```math
+
 ||{"id":61419294361}||
 
-e^{j*\phi}=\cos(\phi)+j*\sin (\phi)
-```
+$$e^{j*\phi}=\cos(\phi)+j*\sin (\phi)$$
 
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 
 ##### Wie man auf r und φ kommt
 $$\huge{r=|z|=\sqrt{ Re²+Im^2 }}$$
