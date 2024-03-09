@@ -39,7 +39,7 @@ man muss nur auf auf ϕ und r kommen dann kann man, einfach beide formen ohne pr
 b)
 $$z_{2}=4j$$
 $$r=\sqrt{ 0^2+4^2 }=4$$
-ϕ ist 90° da 
+ϕ ist 90° da bei der Zeigerdarstell
 $$$$
 
 #### 1. Quadrant
