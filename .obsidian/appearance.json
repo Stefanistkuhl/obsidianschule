@@ -10,7 +10,8 @@
     "codeblocks_besa",
     "command_pallete_styling",
     "fancy_checkboxen",
-    "xd"
+    "xd",
+    "smoothcursor"
   ],
   "accentColor": "#ffc7c7",
   "interfaceFontFamily": "Cascadia Mono",
