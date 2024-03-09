@@ -26,7 +26,7 @@ $$\phi = \tan^{-1}(\frac{b}{a})$$
  > a < 0 → Zeiger im 2. oder 3. Quadranten 
 
 $$\phi = \tan^{-1}(\frac{b}{a})+180°$$
-
+ 
 
 ### <mark style="background: #FFB8EBA6;">bsps oder so</mark>
 
