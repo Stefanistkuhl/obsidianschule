@@ -13,54 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Hardware.md",
+                "file": "2.Klasse/Ipt/Projektmagment.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "1cd493c874b95f36"
-          }
-        ]
-      },
-      {
-        "id": "85bb6fe37c8b3659",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d1ecf39c708a9dc0",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Hardware.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "1cd493c874b95f36"
+            }
           }
         ]
       }
@@ -137,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Hardware.md",
+                "file": "2.Klasse/Ipt/Projektmagment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Hardware.md"
+                "file": "2.Klasse/Ipt/Projektmagment.md"
               }
             }
           },
@@ -230,9 +187,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d1ecf39c708a9dc0",
+  "active": "1a8f795cb7a1d5ec",
   "lastOpenFiles": [
     "2.Klasse/Mathe/polarformen komplexezahlen.md",
+    "2.Klasse/Sysgrrrrtechnik/Hardware.md",
     "2.Klasse/Mathe/😖Mathiger.md",
     "2.Klasse/Netzwerktiger/Host Routing.md",
     "Zeichnungen/DR08-03-2024-13.excalidraw.md",
@@ -257,7 +215,6 @@
     "2.Klasse/nawi/🪄Naturtigerschaften.md",
     "2.Klasse/Sysgrrrrtechnik/Zeiger und liniendiagramm.md",
     "Zeichnungen/DR06-03-2024-00.excalidraw.md",
-    "2.Klasse/Sysgrrrrtechnik/Wechselstromtechnik.md",
     "bilder/Pflichtenheft bsp.pdf",
     "bilder/Pasted image 20240303182844.png",
     "bilder/Pasted image 20240303143831.png",
