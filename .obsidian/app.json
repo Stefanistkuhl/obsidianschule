@@ -15,5 +15,6 @@
   "alwaysUpdateLinks": true,
   "spellcheck": false,
   "promptDelete": false,
-  "vimMode": true
+  "vimMode": true,
+  "showLineNumber": true
 }
