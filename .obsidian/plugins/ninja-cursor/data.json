@@ -1,5 +1,5 @@
 {
   "reactToContentEditable": false,
-  "reactToVimMode": false,
+  "reactToVimMode": true,
   "reactToInputElement": false
 }
