@@ -11,9 +11,56 @@
             "id": "1a8f795cb7a1d5ec",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
+              "type": "markdown",
+              "state": {
+                "file": "2.Klasse/Sysgrrrrtechnik/Hardware.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "1cd493c874b95f36"
+          }
+        ]
+      },
+      {
+        "id": "85bb6fe37c8b3659",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1ecf39c708a9dc0",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "2.Klasse/Sysgrrrrtechnik/Hardware.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "1cd493c874b95f36"
           }
         ]
       }
@@ -90,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2.Klasse/Sysgrrrrtechnik/Hardware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2.Klasse/Sysgrrrrtechnik/Hardware.md"
+              }
             }
           },
           {
@@ -180,7 +230,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1a8f795cb7a1d5ec",
+  "active": "d1ecf39c708a9dc0",
   "lastOpenFiles": [
     "2.Klasse/Mathe/polarformen komplexezahlen.md",
     "2.Klasse/Mathe/😖Mathiger.md",
