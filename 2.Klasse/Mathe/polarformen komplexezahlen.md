@@ -10,6 +10,10 @@ $$\huge{z=r*e^{j*φ}}$$
 ##### Wie man auf r und φ kommt
 $$\huge{r=|z|=\sqrt{ Re²+Im^2 }}$$
 $$\huge{φ=\tan^{-1}\left( \frac{Im}{Re} \right)}$$
+### <mark style="background: #FFB8EBA6;">umwandlung der formen</mark>
+
+
+
 ### <mark style="background: #FFB8EBA6;">bsps oder so</mark>
 
 #### 1. Quadrant
