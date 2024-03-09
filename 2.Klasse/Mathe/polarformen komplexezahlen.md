@@ -30,7 +30,7 @@ $$\phi = \tan^{-1}(\frac{b}{a})+180°$$
 
 a) $$z_{1}=3+2j$$
 $$r=\sqrt{ a^2+b^2 }=\sqrt{ 3^2+2^2 }=\sqrt{ 13 }=3.61$$
-$$\tan \phi =\frac{2}{3}→$$
+$$\tan \phi =\frac{2}{3}→\phi = \tan^{-1}(\frac{2}{3})$$
 
 ### <mark style="background: #FFB8EBA6;">bsps oder so</mark>
 
