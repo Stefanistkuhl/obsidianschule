@@ -5,10 +5,10 @@
   },
   "data": [
     {
-      "char": "ω",
-      "name": "greek small letter omega",
-      "useCount": 3,
-      "lastUsed": 1709734950151
+      "char": "ᵠ",
+      "name": "modifier letter small greek phi",
+      "useCount": 2,
+      "lastUsed": 1710005571862
     },
     {
       "char": "Π",
@@ -17,16 +17,16 @@
       "lastUsed": 1709735056719
     },
     {
+      "char": "ω",
+      "name": "greek small letter omega",
+      "useCount": 3,
+      "lastUsed": 1709734950151
+    },
+    {
       "char": "Ω",
       "name": "ohm sign",
       "useCount": 6,
       "lastUsed": 1708419098884
-    },
-    {
-      "char": "ᵠ",
-      "name": "modifier letter small greek phi",
-      "useCount": 1,
-      "lastUsed": 1707839434402
     },
     {
       "char": "ρ",
@@ -25292,7 +25292,9 @@
     },
     {
       "char": "ϕ",
-      "name": "greek phi symbol"
+      "name": "greek phi symbol",
+      "useCount": 1,
+      "lastUsed": 1710005579345
     },
     {
       "char": "ϖ",
