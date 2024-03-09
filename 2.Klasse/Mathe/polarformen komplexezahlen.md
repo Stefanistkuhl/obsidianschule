@@ -28,7 +28,7 @@ $$\phi = \tan^{-1}(\frac{b}{a})$$
 $$\phi = \tan^{-1}(\frac{b}{a})+180°$$
 #### bsp für umwandeln#
 
-
+a) 
 
 ### <mark style="background: #FFB8EBA6;">bsps oder so</mark>
 
