@@ -19,7 +19,9 @@ $$\huge{r=|z|=\sqrt{ Re²+Im^2 }}$$
 $$\huge{φ=\tan^{-1}\left( \frac{Im}{Re} \right)}$$
 ### <mark style="background: #FFB8EBA6;">umwandlung der formen</mark>
 
+> a > 0 → Zei
 
+$$\phi = \tan^{-1}(\frac{b}{a})$$
 
 ### <mark style="background: #FFB8EBA6;">bsps oder so</mark>
 
