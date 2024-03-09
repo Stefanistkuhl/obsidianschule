@@ -46,7 +46,7 @@ a < 0 also 2ter oder 3ter Quadrant also 180 addieren
 $$z_{3}=-3+2j$$
 $$r=\sqrt{ -3^2+2^2 }=\sqrt{ 13 }$$
 $$\phi = \tan^{-1}=\frac{2}{3}+180°=-33,7°+180°=146,3°$$
-$$z_{3}=\sqrt{ 13 }*(\cos(146.3)+j *\sin (146.3°))$$
+$$z_{3}=\sqrt{ 13 }*(\cos(146.3°)+j *\sin (146.3°))=\sqrt{ 13 }*e^{j*146.3°}$$
 #### 1. Quadrant
 ```math
 ||{"id":380113209060}||
