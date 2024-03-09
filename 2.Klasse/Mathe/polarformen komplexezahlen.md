@@ -34,7 +34,9 @@ $$\tan \phi =\frac{2}{3}→\phi = \tan^{-1}(\frac{2}{3})=33,7°$$
 Polarform:
 $$z=\sqrt{ 13 }*(\cos((33,7°)+j*\sin(33,7°))$$
 Exponentialform:
-$$z=\sqrt{ 13 }*e^{j*}$$
+$$z=\sqrt{ 13 }*e^{j*33,7°}$$
+man muss nur auf auf  
+
 #### 1. Quadrant
 ```math
 ||{"id":380113209060}||
