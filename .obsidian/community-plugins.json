@@ -33,5 +33,6 @@
   "no-tabs",
   "auto-note-mover",
   "dataview",
-  "obsidian-relative-line-numbers"
+  "obsidian-relative-line-numbers",
+  "obsidian-tagfolder"
 ]

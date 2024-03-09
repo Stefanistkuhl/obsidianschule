@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "43b2197681096587",
@@ -94,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Mathe/polarformen komplexezahlen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "2.Klasse/Mathe/polarformen komplexezahlen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,12 +183,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1a8f795cb7a1d5ec",
+  "active": "7d2a89ea7b2d59bd",
   "lastOpenFiles": [
+    "Untitled 1",
+    "Untitled",
+    "2.Klasse/Mathe/polarformen komplexezahlen.md",
     "bilder/Pflichtenheft bsp.pdf",
     "2.Klasse/Ipt/Plichtenheft.md",
     "2.Klasse/Ipt/Projektmagment.md",
-    "2.Klasse/Mathe/polarformen komplexezahlen.md",
     "2.Klasse/Sysgrrrrtechnik/Hardware.md",
     "2.Klasse/Mathe/😖Mathiger.md",
     "2.Klasse/Netzwerktiger/Host Routing.md",
@@ -227,7 +225,6 @@
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/~WRD0870.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/~WRL0988.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/~WRD0937.tmp",
-    "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/~WRL0695.tmp",
     "2.Klasse/Netzwerktiger/header.png",
     "2.Klasse/Netzwerktiger/Bild2.png",
     "bilder/Pasted Image 20240214142018_828.png",
