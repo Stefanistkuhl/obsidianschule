@@ -2586,6 +2586,7 @@ eshOPq
 eMi
 eqmMAwRe
 entfernten
+eulersche
 Übergange
 Übergänge
 Übergang
@@ -3134,6 +3135,8 @@ uOoddDN
 uRgPg
 uaqm
 unbekannte
+umwandlung
+umwandeln
 keine
 konnten
 kein
@@ -3582,6 +3585,7 @@ farbiger
 festlegen
 farbiges
 fmsgv
+formen
 mark
 mit
 mangelnder
@@ -3994,6 +3998,7 @@ Ffi
 Frequenzen
 FN
 FnaXD
+Formel
 nach
 neue
 negativen
@@ -9503,6 +9508,7 @@ VkLEkxYu
 Verhältniszahlen
 VT
 Vquv
+Versorform
 je
 jeder
 jeweils
@@ -9883,6 +9889,7 @@ QKhNi
 QvtZAvqW
 QujixMOm
 QcEj
+Quadranten
 überall
 übersetzt
 übernehmen
