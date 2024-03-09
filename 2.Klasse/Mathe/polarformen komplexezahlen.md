@@ -10,7 +10,6 @@ $$$$
 ##### Exponentialform
 $$\huge{z=r*e^{j*φ}}$$
 ###### eulersche Formel 
-||{"id":61419294361}||
 
 $$e^{j*\phi}=\cos(\phi)+j*\sin (\phi)$$
 
