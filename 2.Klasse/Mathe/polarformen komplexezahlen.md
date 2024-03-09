@@ -36,6 +36,9 @@ $$z=\sqrt{ 13 }*(\cos((33,7°)+j*\sin(33,7°))$$
 Exponentialform:
 $$z=\sqrt{ 13 }*e^{j*33,7°}$$
 man muss nur auf auf ϕ und r kommen dann kann man, einfach beide formen ohne problem aufschreiben 
+b)
+$$z_{2}=4j$$
+
 
 #### 1. Quadrant
 ```math
