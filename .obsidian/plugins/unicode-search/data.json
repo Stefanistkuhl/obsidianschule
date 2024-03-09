@@ -5,6 +5,12 @@
   },
   "data": [
     {
+      "char": "ϕ",
+      "name": "greek phi symbol",
+      "useCount": 2,
+      "lastUsed": 1710006135751
+    },
+    {
       "char": "ᵠ",
       "name": "modifier letter small greek phi",
       "useCount": 2,
@@ -25289,12 +25295,6 @@
     {
       "char": "῀",
       "name": "greek perispomeni"
-    },
-    {
-      "char": "ϕ",
-      "name": "greek phi symbol",
-      "useCount": 1,
-      "lastUsed": 1710005579345
     },
     {
       "char": "ϖ",
