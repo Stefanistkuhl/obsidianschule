@@ -31,7 +31,7 @@ $$\phi = \tan^{-1}(\frac{b}{a})+180°$$
 a) $$z_{1}=3+2j$$
 $$r=\sqrt{ a^2+b^2 }=\sqrt{ 3^2+2^2 }=\sqrt{ 13 }=3.61$$
 $$\tan \phi =\frac{2}{3}→\phi = \tan^{-1}(\frac{2}{3})=33,7°$$
-$$$$
+$$\sqrt{ 13 }*(\cos(33,7°+j*\sin))$$
 
 
 #### 1. Quadrant
@@ -86,3 +86,4 @@ Das grüne ist das was rauskommt nach der Berechnung mit dem Tanges, aber stimmt
 \huge{φ=\frac{3}{2}*\pi=270°}
 \huge{z=2*j}
 \huge{φ=\frac{\pi}{2}=90°}
+```
