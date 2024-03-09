@@ -19,9 +19,14 @@ $$\huge{r=|z|=\sqrt{ Re²+Im^2 }}$$
 $$\huge{φ=\tan^{-1}\left( \frac{Im}{Re} \right)}$$
 ### <mark style="background: #FFB8EBA6;">umwandlung der formen</mark>
 
-> a > 0 → Zei
+> a > 0 → Zeiger im 1. oder 4. Quadranten 
 
 $$\phi = \tan^{-1}(\frac{b}{a})$$
+
+ > a < 0 → Zeiger im 2. oder 3. Quadranten 
+
+$$\phi = \tan^{-1}(\frac{b}{a})+180°$$
+
 
 ### <mark style="background: #FFB8EBA6;">bsps oder so</mark>
 
