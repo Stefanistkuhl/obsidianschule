@@ -58,14 +58,6 @@
             }
           },
           {
-            "id": "304765cf2ce8f9de",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "d27a175bb64ce2c4",
             "type": "leaf",
             "state": {
@@ -77,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "43b2197681096587",
@@ -93,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2.Klasse/Mathe/polarformen komplexezahlen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2.Klasse/Mathe/polarformen komplexezahlen.md"
+              }
             }
           },
           {
