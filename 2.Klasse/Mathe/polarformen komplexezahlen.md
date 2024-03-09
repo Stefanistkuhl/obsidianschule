@@ -28,7 +28,8 @@ $$\phi = \tan^{-1}(\frac{b}{a})$$
 $$\phi = \tan^{-1}(\frac{b}{a})+180°$$
 #### bsp für umwandeln#
 
-a) 
+a) $$z_{1}=3+2j$$
+$$r=\sqrt{ a^2+b^2 }=$$
 
 ### <mark style="background: #FFB8EBA6;">bsps oder so</mark>
 
