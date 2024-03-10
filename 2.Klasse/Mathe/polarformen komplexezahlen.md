@@ -1,5 +1,5 @@
 [[😖Mathiger]] [[🥲2te Klasse]] #m #2te_Klasse 
-
+[[mathe übungszellel 2kl 3te sa]]
 ### <mark style="background: #FFB8EBA6;">Formern</mark>
 ##### algeraische Normalform (Komponenform)
 $$\huge{z=a+b*j}$$
