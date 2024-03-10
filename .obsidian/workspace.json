@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4f5e39878a47a84e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Zeichnungen/DR10-03-2024-13.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md",
+                "file": "Zeichnungen/DR10-03-2024-13.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md"
+                "file": "Zeichnungen/DR10-03-2024-13.excalidraw.md"
               }
             }
           },
@@ -190,10 +201,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "e8e3ac065019b631",
+  "active": "4f5e39878a47a84e",
   "lastOpenFiles": [
-    "2.Klasse/Mathe/polarformen komplexezahlen.md",
     "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md",
+    "Zeichnungen/DR10-03-2024-13.excalidraw.md",
+    "2.Klasse/Mathe/polarformen komplexezahlen.md",
     "templates/syt_elektro.md",
     "templates/mathe.md",
     "templates/Syt_elektro.md",
@@ -220,7 +232,6 @@
     "2.Klasse/Netzwerktiger/Datalink Layer2.md",
     "2.Klasse/Netzwerktiger/Layer 3.md",
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
-    "2.Klasse/nawi/Übung zum Ausgleichen von Reaktionsgleichungen.md",
     "bilder/Pasted image 20240303182844.png",
     "bilder/Pasted image 20240303143831.png",
     "bilder/Pasted image 20240227172103.png",
