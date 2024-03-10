@@ -1,14 +1,17 @@
 /* Very faint line numbers (cm5) */
 .cm-s-obsidian div.CodeMirror-linenumber {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.2em;
     /*color: var(--text-faint);*/
     color: pink;
-    filter: brightness(100%);
+    filter: brightness(69%);
 }
 
 /* Very faint line numbers (cm6) */
 .markdown-source-view.mod-cm6 .cm-gutterElement {
+    font-family: 'Courier New', Courier, monospace;
     font-size: 1.2em;
     /*color: var(--text-faint);*/
     color: pink;
-    filter: brightness(100%);
+    filter: brightness(69%);
 }
