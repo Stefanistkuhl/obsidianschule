@@ -55,4 +55,5 @@ e^{-\lambda}-1=-0,005083704=0,5\%
 Prozentuelle Abnahme pro Zeiteinheit beträgt 0,5% und nach 903,56 Minuten sind nur noch 1% des Stoffes Vorhanden.
 
 12)
-Im Jahr 2008 war die Fläche 
+Im Jahr 2008 war die Fläche Mitteleuropas von rund 5.106ha Wald bedeckt. Nach Schätzungen nimmt der Bestand jährlich um 0,267% zu. Um wie viel Prozent wird die Waldfläche demnach bis zum Jahr 2030 zunehmen? 
+Verwe
