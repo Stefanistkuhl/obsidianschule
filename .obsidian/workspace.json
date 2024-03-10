@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Syt_info.md",
+                "file": "templates/mathe.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,13 +73,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "43b2197681096587",
@@ -95,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Syt_info.md",
+                "file": "templates/mathe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +138,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "templates/Syt_info.md"
+                "file": "templates/mathe.md"
               }
             }
           },
@@ -192,8 +190,11 @@
   },
   "active": "1a8f795cb7a1d5ec",
   "lastOpenFiles": [
-    "2.Klasse/English/mathe übungszellel 2kl 3te sa.md",
+    "templates/netzwerktiger.md",
+    "templates/mathe.md",
+    "templates/Syt_elektro.md",
     "templates/Syt_info.md",
+    "2.Klasse/English/mathe übungszellel 2kl 3te sa.md",
     "templates",
     "2.Klasse/Mathe/polarformen komplexezahlen.md",
     "Untitled 1",
@@ -218,9 +219,6 @@
     "2.Klasse/nawi/Übung zum Ausgleichen von Reaktionsgleichungen.md",
     "2.Klasse/nawi/Reaktionsgleichung.md",
     "Zeichnungen/DR07-03-2024-48.excalidraw.md",
-    "2.Klasse/nawi/Chemishe Reaktionen.md",
-    "2.Klasse/nawi/Versuch Natrium in Wasser.md",
-    "Zeichnungen/DR07-03-2024-51.excalidraw.md",
     "bilder/Pasted image 20240303182844.png",
     "bilder/Pasted image 20240303143831.png",
     "bilder/Pasted image 20240227172103.png",
