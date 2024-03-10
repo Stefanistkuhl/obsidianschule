@@ -48,7 +48,8 @@ T \frac{3}{2}=136=\frac{\ln(2)}{\lambda}|:\lambda
 \lambda=\frac{\ln(4)}{136}=0,0050966704
 e^{-\lambda}-1=-0,005083704=0,5\%
 \frac{1}{100}=e*^{-\lambda*t}|\ln
-\ln(0,001=l
+\ln(0,001)=-\lambda*t|:-\lambda
+\frac{\ln(0,001)}{(-\lambda)}=t=
 ```
 
 <div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
