@@ -57,9 +57,11 @@ $$z_{1}*z_{2}=r_{1}*r_{2}*(\cos(\phi_{1}+\phi_{2})+j*\sin(\phi_{1}+\phi_{2}))=r_
 #### Dividieren
 $$\frac{z_{1}}{z_{2}}=\frac{r_{1}}{r_{2}}*(\cos(\phi_{1}-\phi_{2})+j*\sin(\phi_{1}-\phi_{2}))=\frac{r_{1}}{r_{2}}*e^{j*(\phi_{1}-\phi_{2})}$$
 
-> Beträge werden dividiertund Winkel werden addiert
+> Beträge werden dividiert und Winkel werden subtrahiert
 #### Potenzieren
 $$z^n=r^n*e^{j*(\phi*n)}$$
+
+> Beträge werden potenziert und Winkel werden subtrahiert
 #### 1. Quadrant
 ```math
 ||{"id":380113209060}||
