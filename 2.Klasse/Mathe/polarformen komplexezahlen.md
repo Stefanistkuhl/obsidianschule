@@ -27,7 +27,7 @@ $$\phi = \tan^{-1}(\frac{b}{a})$$
 
 $$\phi = \tan^{-1}(\frac{b}{a})+180°$$
 $$a=r*\cos(\phi)$$
-$$$$
+$$b=r*\sin(\phi)$$
 #### bsp für umwandeln#
 
 a) $$z_{1}=3+2j$$
