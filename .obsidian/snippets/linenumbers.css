@@ -7,7 +7,7 @@
 
 /* Very faint line numbers (cm6) */
 .markdown-source-view.mod-cm6 .cm-gutterElement {
-    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2em;
     /*color: var(--text-faint);*/
     color: pink;
     filter: brightness(100%);
