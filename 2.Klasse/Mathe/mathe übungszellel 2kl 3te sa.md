@@ -30,5 +30,3 @@ Um ein rechteckiges Schwimmbecken von 40m länge und 30m Breite soll einen an al
 A_{Rasen}=5*(30*40)=6000m^2
 6000=
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
