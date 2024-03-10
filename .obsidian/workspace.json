@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4f5e39878a47a84e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Zeichnungen/DR10-03-2024-13.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichnungen/DR10-03-2024-13.excalidraw.md",
+                "file": "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +140,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Zeichnungen/DR10-03-2024-13.excalidraw.md"
+                "file": "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md"
               }
             }
           },
@@ -201,10 +190,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "4f5e39878a47a84e",
+  "active": "e8e3ac065019b631",
   "lastOpenFiles": [
-    "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md",
     "Zeichnungen/DR10-03-2024-13.excalidraw.md",
+    "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md",
     "2.Klasse/Mathe/polarformen komplexezahlen.md",
     "templates/syt_elektro.md",
     "templates/mathe.md",
