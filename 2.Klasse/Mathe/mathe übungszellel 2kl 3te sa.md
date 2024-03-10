@@ -60,8 +60,8 @@ Verwende die Formel $$N(n)=N_{0}*(1+p)^n$$ (n: Anzahl der Jahre, p Prozentsatz)
 ```math
 ||{"id":1382573524769}||
 
-N(n)=N_{0}*(1+p)^n=N(n)=5106*1,267^n
-N(22)=5106*1,267^22=
+N(n)=N_{0}*(1+p)^n=N(n)=5106*1,00267^n
+N(22)=5106*1,00267^22=
 ```
 
 <div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
