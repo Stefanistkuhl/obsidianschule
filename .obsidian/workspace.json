@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/syt_elektro.md",
+                "file": "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,11 +73,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "43b2197681096587",
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/syt_elektro.md",
+                "file": "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +140,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "templates/syt_elektro.md"
+                "file": "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md"
               }
             }
           },
@@ -190,8 +192,8 @@
   },
   "active": "db6afcb1e7cf7aaa",
   "lastOpenFiles": [
-    "templates/mathe.md",
     "templates/syt_elektro.md",
+    "templates/mathe.md",
     "templates/Syt_elektro.md",
     "2.Klasse/Sysgrrrrtechnik/sye678tgui.md",
     "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md",
