@@ -47,4 +47,5 @@ T \frac{3}{2}=136=\frac{\ln(2)}{\lambda}|:\lambda
 136*\lambda = \ln(2)|:136
 \lambda=\frac{\ln(4)}{136}=0,0050966704
 e^{-\lambda}-1=-0,005083704=0,5\%
+
 ```
