@@ -950,6 +950,7 @@ ZGK
 Zgr
 ZjY
 ZkwT
+Zeigerdarstellung
 Epochen
 Entdeckung
 Erste
@@ -1852,6 +1853,7 @@ Paq
 PXh
 Pccz
 Params
+Polarform
 bei
 background
 bis
@@ -9277,6 +9279,7 @@ abt
 aKK
 aQi
 aA
+achse
 oft
 oder
 os
@@ -10358,6 +10361,7 @@ rgn
 rmt
 remM
 rmh
+runtergehen
 hat
 hervorgerufen
 haben
