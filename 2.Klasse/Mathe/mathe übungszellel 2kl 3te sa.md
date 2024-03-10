@@ -49,7 +49,7 @@ T \frac{3}{2}=136=\frac{\ln(2)}{\lambda}|:\lambda
 e^{-\lambda}-1=-0,005083704=0,5\%
 \frac{1}{100}=e*^{-\lambda*t}|\ln
 \ln(0,001)=-\lambda*t|:-\lambda
-\frac{\ln(0,001)}{(-\lambda)}=t=
-```
 
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
+\frac{\ln(0,001)}{(-\lambda)}=t=903,56
+```
+Prozentulle Abhnatme pro Zeiteinheit: 0,5%
