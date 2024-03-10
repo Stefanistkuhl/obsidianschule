@@ -15,8 +15,6 @@ r=\sqrt{ 7²+2² }=\sqrt{ 53 }
 z_{1}=\sqrt{ 53 }*(\cos(1595°)+j*\sin(15.95°))=\sqrt{ 53 }*e^{j*15.85°}
 
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 a)
 ```math
 ||{"id":231348030228}||
