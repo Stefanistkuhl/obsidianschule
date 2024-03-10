@@ -53,3 +53,6 @@ e^{-\lambda}-1=-0,005083704=0,5\%
 \frac{\ln(0,001)}{(-\lambda)}=t=903,56
 ```
 Prozentuelle Abnahme pro Zeiteinheit beträgt 0,5% und nach 903,56 Minuten sind nur noch 1% des Stoffes Vorhanden.
+
+12)
+Im Jahr 2008 war die Fläche 
