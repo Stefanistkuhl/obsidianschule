@@ -30,9 +30,9 @@ Um ein rechteckiges Schwimmbecken von 40m länge und 30m Breite soll einen an al
 A_{Rasen}=5*(30*40)=6000m^2
 6000=(40+2x)*(30*2x)=1200+80x+60x+4x²=4x²+140x+1200=6000|-6000
 4x²+140x-4800=0|:4 
-x²+35x-1200=0 → -\frac{35}{2}\pm \sqrt{ (\frac{35}{2})²+1200 }=x_{1}=56.31,x_{2}=-21.3
-Schwimmbecken_{länge} = 40+2*56,31=152,62m
-Schwimmbecken_{breite}=30+2*56,31=142.62m=30+2*56,31=142.62m
+x²+35x-1200=0 → -\frac{35}{2}\pm \sqrt{ (\frac{35}{2})²+1200 }=x_{1}=-56.31,x_{2}=21.3
+Schwimmbecken_{länge} = 40+2*21,31=152,62m
+Schwimmbecken_{breite}=30+2*21,31=142.62m=30+2*56,31=72.62m
 ```
 
 <div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
