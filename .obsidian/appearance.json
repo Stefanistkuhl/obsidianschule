@@ -11,7 +11,8 @@
     "command_pallete_styling",
     "fancy_checkboxen",
     "xd",
-    "smoothcursor"
+    "smoothcursor",
+    "linenumbers"
   ],
   "accentColor": "#ffc7c7",
   "interfaceFontFamily": "Cascadia Mono",
