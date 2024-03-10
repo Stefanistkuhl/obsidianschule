@@ -61,7 +61,8 @@ Verwende die Formel $$N(n)=N_{0}*(1+p)^n$$ (n: Anzahl der Jahre, p Prozentsatz)
 ||{"id":1382573524769}||
 
 N(n)=N_{0}*(1+p)^n=N(n)=5106*1,00267^n
-N(22)=5106*1,00267^22=
+N(22)=5106*1,00267^22=5414.486465ha
+
 ```
 
 <div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
