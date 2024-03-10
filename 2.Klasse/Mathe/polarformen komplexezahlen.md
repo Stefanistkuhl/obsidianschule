@@ -61,7 +61,7 @@ $$\frac{z_{1}}{z_{2}}=\frac{r_{1}}{r_{2}}*(\cos(\phi_{1}-\phi_{2})+j*\sin(\phi_{
 #### Potenzieren
 $$z^n=r^n*e^{j*(\phi*n)}$$
 
-> Beträge werden potenziert und Winkel werden subtrahiert
+> Beträge werden potenziert und Winkel werden multipliziert
 #### 1. Quadrant
 ```math
 ||{"id":380113209060}||
