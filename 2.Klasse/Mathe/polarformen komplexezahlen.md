@@ -26,6 +26,8 @@ $$\phi = \tan^{-1}(\frac{b}{a})$$
  > a < 0 → Zeiger im 2. oder 3. Quadranten 
 
 $$\phi = \tan^{-1}(\frac{b}{a})+180°$$
+$$a=r*\cos(\phi)$$
+$$$$
 #### bsp für umwandeln#
 
 a) $$z_{1}=3+2j$$
