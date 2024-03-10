@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sye678tgui.md",
+                "file": "templates/mathe.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,13 +73,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "43b2197681096587",
@@ -95,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sye678tgui.md",
+                "file": "templates/mathe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +138,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "sye678tgui.md"
+                "file": "templates/mathe.md"
               }
             }
           },
@@ -192,11 +190,11 @@
   },
   "active": "db6afcb1e7cf7aaa",
   "lastOpenFiles": [
-    "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md",
-    "sye678tgui.md",
-    "templates/mathe.md",
-    "templates/netzwerktiger.md",
     "templates/Syt_elektro.md",
+    "2.Klasse/Sysgrrrrtechnik/sye678tgui.md",
+    "templates/mathe.md",
+    "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md",
+    "templates/netzwerktiger.md",
     "templates/Syt_info.md",
     "templates",
     "2.Klasse/Mathe/polarformen komplexezahlen.md",
