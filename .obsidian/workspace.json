@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Syt_info.md",
+                "file": "templates/Syt_info.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,11 +73,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "43b2197681096587",
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Syt_info.md",
+                "file": "templates/Syt_info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +140,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Syt_info.md"
+                "file": "templates/Syt_info.md"
               }
             }
           },
@@ -191,7 +193,7 @@
   "active": "1a8f795cb7a1d5ec",
   "lastOpenFiles": [
     "2.Klasse/English/mathe übungszellel 2kl 3te sa.md",
-    "2.Klasse/Sysgrrrrtechnik/Syt_info.md",
+    "templates/Syt_info.md",
     "templates",
     "2.Klasse/Mathe/polarformen komplexezahlen.md",
     "Untitled 1",
