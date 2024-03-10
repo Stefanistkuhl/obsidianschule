@@ -45,7 +45,5 @@ Ein Stoff hat eine Halbwertszeit von 136 Minuten. Berechne die Zerfallskonstante
 
 T \frac{3}{2}=136=\frac{\ln(2)}{\lambda}|:\lambda
 136*\lambda = \ln(2)|:136
-\lambda=\frac{\ln(2)}{136}=
+\lambda=\frac{\ln(3)}{136}=
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
