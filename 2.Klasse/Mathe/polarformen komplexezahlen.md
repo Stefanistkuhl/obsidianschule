@@ -50,7 +50,7 @@ $$z_{3}=\sqrt{ 13 }*(\cos(146.3°)+j *\sin (146.3°))=\sqrt{ 13 }*e^{j*146.3°}$
 ### Rechnen mit der Polarform 
 
 #### Multiplizieren
-$$z_{1}*z_{2}=r_{1}*r_{2}*(\cos(\phi_{1}-\phi_{2})+j*\sin())$$
+$$z_{1}*z_{2}=r_{1}*r_{2}*(\cos(\phi_{1}-\phi_{2})+j*\sin(\phi_{1}-\phi_{2}))=r_{1}*r_{2}*e^{j*\phi_{1}+\phi_{2}}$$
 
 
 #### 1. Quadrant
