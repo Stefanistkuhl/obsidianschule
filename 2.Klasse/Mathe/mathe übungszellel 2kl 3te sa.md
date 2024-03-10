@@ -13,8 +13,6 @@ z_{1}=7-2j
 r=\sqrt{ 7²+2² }=
 ```
 
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
-
 a)
 ```math
 ||{"id":231348030228}||
