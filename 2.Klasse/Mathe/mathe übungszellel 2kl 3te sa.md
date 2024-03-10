@@ -60,5 +60,8 @@ Verwende die Formel $$N(n)=N_{0}*(1+p)^n$$ (n: Anzahl der Jahre, p Prozentsatz)
 ```math
 ||{"id":1382573524769}||
 
+N(n)=N_{0}*(1+p)^n=N(n)=N_{0}*1,267^n
 
 ```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
