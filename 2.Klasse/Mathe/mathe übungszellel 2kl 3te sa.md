@@ -38,4 +38,10 @@ Schwimmbecken_{breite}=30+2*21,31=142.62m=30+2*56,31=72.62m
 A: Das Schwimmbecken ist 82m lang und 72m breit
 
 11)
-Ein Sotff hat eine Halbwerts
+Ein Stoff hat eine Halbwertszeit von 136 Minuten. Berechne die Zerfallskonstante lambda, die prozentuellel Abhanme pro Minute und wenn unr noch 1% des Stoffes vorhanden ist.
+
+```math
+||{"id":1506362045842}||
+
+
+```
