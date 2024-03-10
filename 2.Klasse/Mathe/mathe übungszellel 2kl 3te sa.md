@@ -10,9 +10,11 @@ dinger in sämtliche formen umwandeln:
 ||{"id":744537520871}||
 
 z_{1}=7-2j
-r=\sqrt{ 7²+2² }=
+r=\sqrt{ 7²+2² }=\sqrt{ 53 }
+
 ```
 
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 a)
 ```math
 ||{"id":231348030228}||
