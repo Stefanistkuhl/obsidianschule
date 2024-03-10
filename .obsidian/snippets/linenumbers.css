@@ -1,11 +1,13 @@
 /* Very faint line numbers (cm5) */
 .cm-s-obsidian div.CodeMirror-linenumber {
-    color: var(--text-faint);
+    /*color: var(--text-faint);*/
+    color: pink;
     filter: brightness(140%);
 }
 
 /* Very faint line numbers (cm6) */
 .markdown-source-view.mod-cm6 .cm-gutterElement {
-    color: var(--text-faint);
+    /*color: var(--text-faint);*/
+    color: pink;
     filter: brightness(140%);
 }
