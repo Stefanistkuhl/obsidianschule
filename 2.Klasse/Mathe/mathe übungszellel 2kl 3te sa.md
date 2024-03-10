@@ -62,5 +62,3 @@ Verwende die Formel $$N(n)=N_{0}*(1+p)^n$$ (n: Anzahl der Jahre, p Prozentsatz)
 
 
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
