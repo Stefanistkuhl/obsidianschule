@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/mathe.md",
+                "file": "templates/syt_elektro.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/mathe.md",
+                "file": "templates/syt_elektro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "templates/mathe.md"
+                "file": "templates/syt_elektro.md"
               }
             }
           },
@@ -190,9 +190,10 @@
   },
   "active": "db6afcb1e7cf7aaa",
   "lastOpenFiles": [
+    "templates/mathe.md",
+    "templates/syt_elektro.md",
     "templates/Syt_elektro.md",
     "2.Klasse/Sysgrrrrtechnik/sye678tgui.md",
-    "templates/mathe.md",
     "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md",
     "templates/netzwerktiger.md",
     "templates/Syt_info.md",
@@ -218,7 +219,6 @@
     "2.Klasse/Netzwerktiger/Layer 3.md",
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
     "2.Klasse/nawi/Übung zum Ausgleichen von Reaktionsgleichungen.md",
-    "2.Klasse/nawi/Reaktionsgleichung.md",
     "bilder/Pasted image 20240303182844.png",
     "bilder/Pasted image 20240303143831.png",
     "bilder/Pasted image 20240227172103.png",

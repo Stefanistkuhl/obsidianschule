@@ -14,7 +14,7 @@
     "2024/2/7": 136,
     "2024/2/8": 214,
     "2024/2/9": 228,
-    "2024/2/10": 89
+    "2024/2/10": 93
   },
   "todaysWordCount": {
     "2.Klasse/Mathe/polarformen komplexezahlen.md": {
@@ -47,6 +47,10 @@
     },
     "sye678tgui.md": {
       "initial": 4,
+      "current": 4
+    },
+    "templates/syt_elektro.md": {
+      "initial": 0,
       "current": 4
     }
   }
