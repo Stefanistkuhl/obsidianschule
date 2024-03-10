@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/English/mathe übungszellel 2kl 3te sa.md",
+                "file": "templates/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,13 +73,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "43b2197681096587",
@@ -95,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/English/mathe übungszellel 2kl 3te sa.md",
+                "file": "templates/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +138,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/English/mathe übungszellel 2kl 3te sa.md"
+                "file": "templates/Untitled.md"
               }
             }
           },
@@ -186,15 +184,17 @@
       "3d-graph-new:Global 3D Graph": false,
       "templater-obsidian:Templater": false,
       "obsidian42-brat:BRAT": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "templates:Insert template": false
     }
   },
   "active": "1a8f795cb7a1d5ec",
   "lastOpenFiles": [
-    "2.Klasse/Mathe/polarformen komplexezahlen.md",
     "2.Klasse/English/mathe übungszellel 2kl 3te sa.md",
+    "templates/Untitled.md",
+    "templates",
+    "2.Klasse/Mathe/polarformen komplexezahlen.md",
     "Untitled 1",
-    "Untitled",
     "bilder/Pflichtenheft bsp.pdf",
     "2.Klasse/Ipt/Plichtenheft.md",
     "2.Klasse/Ipt/Projektmagment.md",
@@ -219,7 +219,6 @@
     "2.Klasse/nawi/Chemishe Reaktionen.md",
     "2.Klasse/nawi/Versuch Natrium in Wasser.md",
     "Zeichnungen/DR07-03-2024-51.excalidraw.md",
-    "Zeichnungen/DR07-03-2024-49.excalidraw.md",
     "bilder/Pasted image 20240303182844.png",
     "bilder/Pasted image 20240303143831.png",
     "bilder/Pasted image 20240227172103.png",
