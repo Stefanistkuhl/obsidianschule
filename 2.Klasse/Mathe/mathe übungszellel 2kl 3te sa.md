@@ -35,4 +35,5 @@ Schwimmbecken_{länge} = 40+2*21,31=82,62m
 Schwimmbecken_{breite}=30+2*21,31=142.62m=30+2*56,31=72.62m
 82,62*72,62=6000
 ```
-A: Das Schwimmbecken ist 152m lang und 142m breit
+A: Das Schwimmbecken ist 82m lang und 72m breit
+
