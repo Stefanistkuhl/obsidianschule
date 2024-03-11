@@ -15,12 +15,20 @@
     "2024/2/8": 214,
     "2024/2/9": 228,
     "2024/2/10": 526,
-    "2024/2/11": 67
+    "2024/2/11": 69
   },
   "todaysWordCount": {
     "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md": {
       "initial": 394,
       "current": 461
+    },
+    "logarihtmen.md": {
+      "initial": 3,
+      "current": 3
+    },
+    "2.Klasse/Mathe/logarihtmen.md": {
+      "initial": 4,
+      "current": 6
     }
   }
 }
