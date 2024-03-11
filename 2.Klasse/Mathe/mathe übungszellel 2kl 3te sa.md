@@ -67,3 +67,11 @@ N(22)=5106*1,00267^22=5414.486465ha
 Die Waldfläche nimmt von 2008 bis 2030 um 6% zu. 
 
 6)
+```math
+||{"id":352336948265}||
+
+y=2x²+20x-4
+y=(x-50)
+```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
