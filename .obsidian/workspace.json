@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "740d4a6a8e5b769a",
+        "id": "3e40556393f14f78",
         "type": "tabs",
         "children": [
           {
-            "id": "e2941dd00a1fa022",
+            "id": "de6a70d27bfc57bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md"
               }
             }
           },
@@ -190,10 +190,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "e2941dd00a1fa022",
+  "active": "de6a70d27bfc57bc",
   "lastOpenFiles": [
-    "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md",
     "conflict-files-obsidian-git.md",
+    "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md",
     "Zeichnungen/DR10-03-2024-13.excalidraw.md",
     "2.Klasse/Mathe/polarformen komplexezahlen.md",
     "templates/syt_elektro.md",
