@@ -1241,6 +1241,7 @@ EHO
 EWN
 EQX
 EmbeddedFile
+Entlogarighieren
 Das
 Dasselbe
 Diode
@@ -5908,6 +5909,7 @@ RE
 RSJ
 Rkd
 Rasenfläche
+Rechengesätze
 vor
 verbreiten
 vom
@@ -6673,6 +6675,7 @@ Lbl
 Lmpy
 LIV
 LVg
+Logarithmische
 Ost
 OS
 Obwohl
