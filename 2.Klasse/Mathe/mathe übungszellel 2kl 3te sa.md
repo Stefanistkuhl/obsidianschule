@@ -85,5 +85,3 @@ b)
 
 
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
