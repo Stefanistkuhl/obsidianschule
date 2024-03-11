@@ -73,5 +73,5 @@ Die Waldfläche nimmt von 2008 bis 2030 um 6% zu.
 y=2x²+20x-4
 (\frac{20}{2})²=100
 y=2x²+20x+100-100-4=2x²+20x-4
-y=(2x-50)²-54
+y=(2x+10)²-4
 ```
