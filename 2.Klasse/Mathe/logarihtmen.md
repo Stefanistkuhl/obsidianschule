@@ -9,4 +9,5 @@ $$\ln(\frac{u}{v})=\ln u-\ln v$$
 $$\ln(u^{n})=n*\ln u$$
 
 Entlogarighieren
-$$$$
+$$\ln(u)=c → u=e^c$$
+$$lg(u)=c$$
