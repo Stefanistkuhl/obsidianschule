@@ -68,6 +68,8 @@ Die Waldfläche nimmt von 2008 bis 2030 um 6% zu.
 
 6)
 > hälfte von b in die bin formel hauen und (b/2)² addieren und substrahieren
+
+a)
 ```math
 ||{"id":352336948265}||
 
@@ -77,3 +79,11 @@ y=2x²+20x+100-100-4=2x²+20x-4
 100-100-4=-4
 y=2x*(x+10)²-4
 ```
+b)
+```math
+||{"id":1586213450905}||
+
+
+```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
