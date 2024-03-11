@@ -11,4 +11,5 @@ $$\ln(u^{n})=n*\ln u$$
 Entlogarighieren
 $$\ln(u)=c → u=e^c$$
 $$lg(u)=c → u=10^c$$
-$$\ln(u)=\ln(v)$$
+$$\ln(u)=\ln(v) →u=v$$
+$$\lg(u)=\lg(v) →u=v$$
