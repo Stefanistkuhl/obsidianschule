@@ -71,5 +71,7 @@ Die Waldfläche nimmt von 2008 bis 2030 um 6% zu.
 ||{"id":352336948265}||
 
 y=2x²+20x-4
+(\frac{20}{2})²=100
+
 y=(x-50)²-54
 ```
