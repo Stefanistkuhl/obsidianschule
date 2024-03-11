@@ -3451,6 +3451,7 @@ sD
 su
 sm
 sJU
+substrahieren
 und
 um
 ungefähr
@@ -10633,6 +10634,7 @@ hee
 hwA
 ha
 hLW
+hauen
 Bananen
 Buch
 Beschreiben
