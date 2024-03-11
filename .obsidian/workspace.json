@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bc657b39f0c2127a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Zeichnungen/DR11-03-2024-08.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "43b2197681096587",
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Mathe/logarihtmen.md",
+                "file": "Zeichnungen/DR11-03-2024-08.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Mathe/logarihtmen.md"
+                "file": "Zeichnungen/DR11-03-2024-08.excalidraw.md"
               }
             }
           },
@@ -189,10 +201,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "a0457eefd376c8bb",
+  "active": "bc657b39f0c2127a",
   "lastOpenFiles": [
-    "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md",
     "2.Klasse/Mathe/logarihtmen.md",
+    "Zeichnungen/DR11-03-2024-08.excalidraw.md",
+    "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md",
     "conflict-files-obsidian-git.md",
     "Zeichnungen/DR10-03-2024-13.excalidraw.md",
     "2.Klasse/Mathe/polarformen komplexezahlen.md",
@@ -219,7 +232,6 @@
     "Zeichnungen/DR04-12-2023-45.excalidraw.md",
     "2.Klasse/Netzwerktiger/ccna therorie switching.md",
     "2.Klasse/Netzwerktiger/Brodcastdomäne.md",
-    "2.Klasse/Netzwerktiger/Datalink Layer2.md",
     "bilder/Pasted image 20240303182844.png",
     "bilder/Pasted image 20240303143831.png",
     "bilder/Pasted image 20240227172103.png",
