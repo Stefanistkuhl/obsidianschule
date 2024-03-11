@@ -67,11 +67,13 @@ N(22)=5106*1,00267^22=5414.486465ha
 Die Waldfläche nimmt von 2008 bis 2030 um 6% zu. 
 
 6)
+> hälfte von b in die bin formel hauen und (b/2)² addieren und substrahieren
 ```math
 ||{"id":352336948265}||
 
 y=2x²+20x-4
 (\frac{20}{2})²=100
 y=2x²+20x+100-100-4=2x²+20x-4
-y=(2x+10)²-4
+100-100-4=-4
+y=2x*(x+10)²-4
 ```
