@@ -951,6 +951,8 @@ Zgr
 ZjY
 ZkwT
 Zeigerdarstellung
+Zerfallskonstante
+Zeiteinheit
 Epochen
 Entdeckung
 Erste
@@ -1854,6 +1856,9 @@ PXh
 Pccz
 Params
 Polarform
+Prozentuelle
+Prozent
+Prozentsatz
 bei
 background
 bis
@@ -2168,6 +2173,9 @@ btF
 bI
 bw
 breite
+breit
+beträgt
+bedeckt
 ist
 in
 im
@@ -2672,6 +2680,7 @@ djc
 dy
 dKa
 dAY
+demnach
 es
 entstanden
 entstehen
@@ -4697,6 +4706,7 @@ FmE
 Filespec
 Fjson
 Flächenihalt
+Fläche
 nach
 neue
 negativen
@@ -5650,6 +5660,9 @@ MCU
 MRSC
 Mh
 MMP
+Minuten
+Minute
+Mitteleuropas
 Rom
 Ratten
 Römischen
@@ -6161,6 +6174,7 @@ vQv
 vRGT
 vfX
 vAtL
+vorhanden
 West
 Welt
 Wachstum
@@ -6410,6 +6424,8 @@ WB
 WsQ
 WpJE
 WGt
+Wald
+Waldfläche
 Latein
 Leute
 Läuse
@@ -7176,6 +7192,8 @@ AzB
 AFRelationship
 ADBE
 Abmessungen
+Abhanme
+Abnahme
 Griechisch
 Glauben
 Gewalt
@@ -8078,6 +8096,7 @@ zRe
 zPXp
 zeC
 zVN
+zunehmen
 Theologie
 Thema
 Teller
@@ -8735,6 +8754,8 @@ Scan
 Schwimmbecken
 Seiten
 Schwimmbeckens
+Stoffes
+Schätzungen
 Handel
 Hygiene
 Halbleiter
@@ -8941,6 +8962,7 @@ Hnnu
 HCfaJy
 HaP
 HA
+Halbwertszeit
 an
 auf
 aus
@@ -9672,6 +9694,7 @@ NWx
 Nf
 NXF
 NYFK
+Nach
 Infizierte
 Indium
 Instanz
@@ -10119,6 +10142,7 @@ pDe
 pBrP
 pZB
 pageEntities
+prozentuellel
 reiches
 real
 running
@@ -10372,6 +10396,7 @@ remM
 rmh
 runtergehen
 rechteckiges
+rund
 hat
 hervorgerufen
 haben
@@ -10888,6 +10913,7 @@ BQg
 BJW
 Breite
 Berechne
+Bestand
 Voraussetzungen
 Valenziabrücken
 Vekehrswesen
@@ -11127,6 +11153,8 @@ VkVU
 VOn
 VoO
 VsE
+Vorhanden
+Verwende
 je
 jeder
 jeweils
@@ -11246,6 +11274,7 @@ jzf
 jMQ
 jiZ
 jDqX
+jährlich
 ähnlich
 ändern
 ähnliches
@@ -11477,6 +11506,7 @@ lxJ
 lbG
 lY
 lwzx
+lambda
 Queue
 QHvC
 Qp
