@@ -11,8 +11,12 @@
             "id": "bc657b39f0c2127a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2.Klasse/Sysgrrrrtechnik/frequenz sachen xd.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -91,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2.Klasse/Sysgrrrrtechnik/frequenz sachen xd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2.Klasse/Sysgrrrrtechnik/frequenz sachen xd.md"
+              }
             }
           },
           {
@@ -185,6 +192,8 @@
   },
   "active": "bc657b39f0c2127a",
   "lastOpenFiles": [
+    "2.Klasse/Sysgrrrrtechnik/entfragmentieren.md",
+    "2.Klasse/Sysgrrrrtechnik/Leistungsmerkmale von Prozessoren.md",
     "2.Klasse/Sysgrrrrtechnik/Überischt Festdatenspeicher.md",
     "2.Klasse/Sysgrrrrtechnik/Festdatenspeicher.md",
     "2.Klasse/Sysgrrrrtechnik/Hardware.md",
@@ -209,8 +218,6 @@
     "2.Klasse/Sysgrrrrtechnik/transistor.md",
     "2.Klasse/Sysgrrrrtechnik/diemensionierung transistor.md",
     "2.Klasse/🥲2te Klasse.md",
-    "templates/syt_elektro.md",
-    "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md",
     "templates",
     "Untitled 1",
     "bilder/Pflichtenheft bsp.pdf",

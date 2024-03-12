@@ -2692,6 +2692,7 @@ dKa
 dAY
 demnach
 direkte
+durchdreht
 es
 entstanden
 entstehen
@@ -3462,6 +3463,7 @@ su
 sm
 sJU
 substrahieren
+smart
 und
 um
 ungefähr
@@ -6861,6 +6863,7 @@ Obs
 OR
 Oie
 OHx
+Obvi
 Alt
 Amerikas
 Atombindung
@@ -8780,6 +8783,7 @@ Seiten
 Schwimmbeckens
 Stoffes
 Schätzungen
+Sektoren
 Handel
 Hygiene
 Halbleiter

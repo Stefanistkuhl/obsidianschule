@@ -1,4 +1,9 @@
-#2te_Klasse #syt 
+---
+tags:
+  - 2te_Klasse
+  - syt
+  - syt_info
+---
 
 - <mark style="background: #FFB8EBA6;">Registerlänge:</mark> Anzahl der Bits in den Registern des Prozessors (teilweise bei Daten- un Adressregistern unterschiedlich).
 - <mark style="background: #FFB8EBA6;">Taktfrequnz (Clock Rate):</mark> Bestimmt die Geschwindigkeit des Prozessors, ist ein Vielfaches des Mainbord-Grundtaktes. Die Taktfrequnz ist nicht das Maß aller Dinger. Wichtig ist auch die Anzahl der für die Ausführung eines Befehls benötigen Taktzyklen!
