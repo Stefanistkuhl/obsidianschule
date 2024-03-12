@@ -22,14 +22,16 @@ z_{3}=e^{j* \frac{\pi}{6}}
 z_{3}=\cos(\frac{\pi}{6})+j*\sin(\frac{\pi}{6})
 a=\cos(\frac{\pi}{6})=\frac{\sqrt{ 3 }}{2}
 b=sis(\frac{\pi}{6})=0.5
-z_{3}=
+z_{3}=\frac{\sqrt{  3}}{2}+0,5j
 ```
 a)
 ```math
 ||{"id":231348030228}||
 z_{1}+z_{2}-z_{3}
-(7-2j)+(2.29+1.92j)-()
+(7-2j)+(2.29+1.92j)-(\frac{\sqrt{ 3 }}{2}+0,5j)
 ```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 c)
 ![[DR11-03-2024-08.excalidraw]]
 5)
