@@ -48,11 +48,10 @@ c)
 ||{"id":1389357644736}||
 
 \frac{z_{2}-z_{3}}{z_{1}}
-\frac {3.29+1.92*j-(0.86+0,5j)}{\sqrt{ 53 }*e^{j*344°}
-```
+\frac {3.29+1.92*j-(0.86+0,5j)}{\sqrt{ 53 }*e^{j*344°}}
 
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
-c)
+```
+kc)
 ![[DR11-03-2024-08.excalidraw]]
 5)
 Um ein rechteckiges Schwimmbecken von 40m länge und 30m Breite soll einen an allen Seiten breite Rasenfläche angelegt werden, deren Flächenihalt 5-mal so groß wie der des Schwimmbeckens sein soll. Berechne die äußeren Abmessungen der Rasenfläche.
