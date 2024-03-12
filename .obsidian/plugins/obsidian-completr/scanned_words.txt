@@ -8967,6 +8967,7 @@ HCfaJy
 HaP
 HA
 Halbwertszeit
+Hirachische
 an
 auf
 aus
@@ -10147,6 +10148,7 @@ pBrP
 pZB
 pageEntities
 prozentuellel
+programme
 reiches
 real
 running
@@ -10635,6 +10637,7 @@ hwA
 ha
 hLW
 hauen
+home
 Bananen
 Buch
 Beschreiben
@@ -10919,6 +10922,7 @@ BJW
 Breite
 Berechne
 Bestand
+Beginned
 Voraussetzungen
 Valenziabrücken
 Vekehrswesen
@@ -11160,6 +11164,7 @@ VoO
 VsE
 Vorhanden
 Verwende
+Verzeichnisse
 je
 jeder
 jeweils

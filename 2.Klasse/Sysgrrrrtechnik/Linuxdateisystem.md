@@ -1,4 +1,9 @@
-#2te_Klasse #syt #tux 
+---
+tags:
+  - 2te_Klasse
+  - syt
+  - syt_info
+---
 ![[Pasted image 20240227094254.png]]
 
 - Hirachische Struktur

@@ -1,3 +1,9 @@
+---
+tags:
+  - 2te_Klasse
+  - syt
+  - syt_info
+---
 [[anitgrrrmatik v2]] [[🥲2te Klasse]] #2te_Klasse #syt 
 
 > Os = Schnitstelle zw Hardware und Software, die versucht den Nutzen des Anwenders zu entsprechen

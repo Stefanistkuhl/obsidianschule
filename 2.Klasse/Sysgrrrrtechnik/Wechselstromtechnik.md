@@ -1,3 +1,9 @@
+---
+tags:
+  - 2te_Klasse
+  - syt
+  - syt_elektro
+---
 #2te_Klasse #syt 
 
 - Paramter Sinusförmiger Größen 
