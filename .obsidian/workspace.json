@@ -11,9 +11,11 @@
             "id": "1b983d27dd01a70c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Zeichnungen/DR11-03-2024-08.excalidraw.md"
+                "file": "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichnungen/DR11-03-2024-08.excalidraw.md",
+                "file": "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +140,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Zeichnungen/DR11-03-2024-08.excalidraw.md"
+                "file": "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md"
               }
             }
           },
@@ -190,6 +192,7 @@
   },
   "active": "1b983d27dd01a70c",
   "lastOpenFiles": [
+    "Zeichnungen/DR11-03-2024-08.excalidraw.md",
     "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md",
     "2.Klasse/Mathe/polarformen komplexezahlen.md",
     "2.Klasse/Mathe/Dumme Scheitelform kake bei Qu fkt.md",
@@ -215,7 +218,6 @@
     "2.Klasse/Sysgrrrrtechnik/Tux Basics.md",
     "2.Klasse/Sysgrrrrtechnik/Linuxdateisystem.md",
     "2.Klasse/Sysgrrrrtechnik/🤠antigrrrrrmatik.md",
-    "2.Klasse/Sysgrrrrtechnik/Zeiger und liniendiagramm.md",
     "templates",
     "Untitled 1",
     "bilder/Pflichtenheft bsp.pdf",
