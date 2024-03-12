@@ -29,6 +29,8 @@ a)
 ||{"id":231348030228}||
 z_{1}+z_{2}-z_{3}
 (7-2j)+(2.29+1.92j)-(\frac{\sqrt{ 3 }}{2}+0,5j)
+7-2j+2.29+1.92j-\frac{\sqrt{ 3 }}{2}-0,5j=
+
 ```
 
 <div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
