@@ -32,8 +32,6 @@ z_{1}+z_{2}-z_{3}
 7-2j+2.29+1.92j-\frac{\sqrt{ 3 }}{2}-0,5j=5-0.58j
 
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 c)
 ![[DR11-03-2024-08.excalidraw]]
 5)
