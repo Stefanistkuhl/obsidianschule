@@ -3,8 +3,7 @@ tags:
   - 2te_Klasse
   - m
 ---
-
-
+> Immer wenn vor dem x etwas steht, wie zb 2x² → Herausheben also nur die 2 Herausheben nicht das Ganze !!!
 $$v(t)=t²+6t-2$$
 
 Quadratische Erägnzung:

@@ -97,8 +97,9 @@ a)
 ||{"id":352336948265}||
 
 y=2x²+20x-4
-
 ```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 b)
 ```math
 ||{"id":1586213450905}||
