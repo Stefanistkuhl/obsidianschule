@@ -55,11 +55,9 @@ r=\sqrt{ 1.43²+1.42² }=2.81
 \phi=\arctan(\frac{1.42}{1.43})=44.8°
 z_{2-3}=2.81*e^{44.8°}
 \frac {2.81*e^{44.8°}}{\sqrt{ 53 }*e^{j*344°}}=20.45*e^{-299.2}
--299.2+360=46°
-20.45*e^{j*46°}
+-299.2+360=60.8°
+20.45*e^{j*60,8°}
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 c)
 ![[DR11-03-2024-08.excalidraw]]
 5)
