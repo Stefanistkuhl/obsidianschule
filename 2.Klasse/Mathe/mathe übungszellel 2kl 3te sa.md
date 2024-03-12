@@ -19,13 +19,11 @@ a=r*\cos(\phi)=2.29
 b=r*\sin(\phi)=1.92
 z_{2}=2.29+1.92*j
 z_{3}=e^{j* \frac{\pi}{6}}
-z_{3}=\cos(\frac{\pi}{6})*\sin(\frac{\pi}{6})
+z_{3}=\cos(\frac{\pi}{6})+j*\sin(\frac{\pi}{6})
 a=\cos(\frac{\pi}{6})=\frac{\sqrt{ 3 }}{2}
 b=sis(\frac{\pi}{6})=0.5
 z_{3}=
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 a)
 ```math
 ||{"id":231348030228}||
