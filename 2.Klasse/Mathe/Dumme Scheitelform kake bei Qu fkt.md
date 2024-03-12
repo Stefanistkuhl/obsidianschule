@@ -11,7 +11,7 @@ dann einfach das ergänze dazu addieren und subtrahieren zwschen b und c
 $$t²+6t+3²-3²-2$$
  ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎  ‎--------  ← Bin formel
  $$v(t)=(t+3)²-11$$
- Vorzeichen von dem Vieh in 
+ Vorzeichen von dem Vieh in der Klammer umdrehen (andres bleibt gleich) und Scheitelpunkt ablese
  $$S(-3|-11)$$
 
 ```functionplot
@@ -23,5 +23,5 @@ bounds: [-10,10,-10,10]
 disableZoom: false
 grid: true
 ---
-v(t)=t^2+6t-2
+y=x*x+6x-2
 ```
