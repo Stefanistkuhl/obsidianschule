@@ -1,4 +1,9 @@
-#2te_Klasse #syt 
+---
+tags:
+  - 2te_Klasse
+  - syt
+  - syt_info
+---
 
 John von Neuman beschrieb 1945 das Konzept eines <mark style="background: #FFB8EBA6;">universellen Rechners</mark>,dh eines Rechners, dessen Struktur unabhängig vom bearbeiteten Problem ist. Der Rechnet besteht aus 4 Werken, die bis heute in Computern verwendet werden:
 

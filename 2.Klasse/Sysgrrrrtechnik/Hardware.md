@@ -8,5 +8,6 @@ tags:
 ![[Eva-Prinzip]]
 
 ![[Geschichte der Hardware]]![[Ram]]
+![[Ram]]
 ![[Rom]]
 ![[Festdatenspeicher]]

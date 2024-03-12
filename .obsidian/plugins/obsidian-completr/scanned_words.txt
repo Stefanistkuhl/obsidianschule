@@ -1551,6 +1551,8 @@ DI
 DKK
 DSJ
 Document
+Dateninden
+DRAM
 Problem
 Pest
 Portugal
@@ -1865,6 +1867,8 @@ Polarform
 Prozentuelle
 Prozent
 Prozentsatz
+Prozessoren
+Pointer
 bei
 background
 bis
@@ -2687,6 +2691,7 @@ dy
 dKa
 dAY
 demnach
+direkte
 es
 entstanden
 entstehen
@@ -4225,6 +4230,7 @@ fsU
 fmy
 fEcnS
 fLSm
+fest
 mark
 mit
 mangelnder
@@ -5671,6 +5677,7 @@ MMP
 Minuten
 Minute
 Mitteleuropas
+Maschienenbefehl
 Rom
 Ratten
 Römischen
@@ -5917,6 +5924,8 @@ RSJ
 Rkd
 Rasenfläche
 Rechengesätze
+Registertypen
+Registers
 vor
 verbreiten
 vom
@@ -6683,6 +6692,7 @@ Lmpy
 LIV
 LVg
 Logarithmische
+Länge
 Ost
 OS
 Obwohl
@@ -7204,6 +7214,9 @@ ADBE
 Abmessungen
 Abhanme
 Abnahme
+Arbeitsregister
+Arbeitsregistern
+Adresse
 Griechisch
 Glauben
 Gewalt
@@ -8975,6 +8988,7 @@ HaP
 HA
 Halbwertszeit
 Hirachische
+Halbleiterbausteinen
 an
 auf
 aus
@@ -9324,6 +9338,8 @@ aA
 achse
 angelegt
 ausgabegeräte
+auszuführenden
+adressierbarem
 oft
 oder
 os
@@ -10931,6 +10947,9 @@ Breite
 Berechne
 Bestand
 Beginned
+Befehlszähler
+Beinhaltet
+Befehlsregister
 Voraussetzungen
 Valenziabrücken
 Vekehrswesen
@@ -11526,6 +11545,7 @@ lbG
 lY
 lwzx
 lambda
+legt
 Queue
 QHvC
 Qp

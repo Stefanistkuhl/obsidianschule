@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Geschichte der Hardware.md",
+                "file": "2.Klasse/Sysgrrrrtechnik/Festdatenspeicher.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Geschichte der Hardware.md",
+                "file": "2.Klasse/Sysgrrrrtechnik/Festdatenspeicher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Geschichte der Hardware.md"
+                "file": "2.Klasse/Sysgrrrrtechnik/Festdatenspeicher.md"
               }
             }
           },
@@ -193,6 +193,11 @@
   "active": "bc657b39f0c2127a",
   "lastOpenFiles": [
     "2.Klasse/Sysgrrrrtechnik/Hardware.md",
+    "2.Klasse/Sysgrrrrtechnik/Ram.md",
+    "2.Klasse/Sysgrrrrtechnik/Rom.md",
+    "2.Klasse/Sysgrrrrtechnik/Geschichte der Hardware.md",
+    "2.Klasse/Sysgrrrrtechnik/Von-Neumannn-Rechnermodell.md",
+    "2.Klasse/Sysgrrrrtechnik/Mikroprozessoren.md",
     "2.Klasse/Sysgrrrrtechnik/Eva-Prinzip.md",
     "2.Klasse/Sysgrrrrtechnik/betriebsysthme wiederholung.md",
     "2.Klasse/Sysgrrrrtechnik/anitgrrrmatik v2.md",
@@ -213,11 +218,6 @@
     "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md",
     "Zeichnungen/DR11-03-2024-08.excalidraw.md",
     "2.Klasse/Mathe/logarihtmen.md",
-    "conflict-files-obsidian-git.md",
-    "Zeichnungen/DR10-03-2024-13.excalidraw.md",
-    "2.Klasse/Mathe/polarformen komplexezahlen.md",
-    "templates/mathe.md",
-    "templates/Syt_elektro.md",
     "templates",
     "Untitled 1",
     "bilder/Pflichtenheft bsp.pdf",
