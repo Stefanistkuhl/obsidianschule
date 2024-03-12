@@ -55,8 +55,6 @@ r=\sqrt{ 2.43²+1.42² }=2.81
 \phi=\arctan(\frac{1.42}{2.43})
 \arctan
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 c)
 ![[DR11-03-2024-08.excalidraw]]
 5)
