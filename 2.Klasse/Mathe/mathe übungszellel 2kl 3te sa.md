@@ -37,7 +37,7 @@ b)
 
 z_{1}*z_{2}+z_{3}
 (\sqrt{ 53 }*e^{j*344°}*3*e^{j*40°})+\frac{\sqrt{  3}}{2}+0,5j
-\sqrt{ 53 }*3*e^{j*(344+40)}=3*\sqrt{ 53 }*e^{j*384}=
+\sqrt{ 53 }*3*e^{j*(344+40)}={j*384}
 ```
 
 <div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
