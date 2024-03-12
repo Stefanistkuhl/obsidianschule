@@ -51,8 +51,6 @@ c)
 
 ```
 
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
-
 c)
 ![[DR11-03-2024-08.excalidraw]]
 5)
