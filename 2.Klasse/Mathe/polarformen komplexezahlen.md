@@ -19,7 +19,7 @@ $$\huge{r=|z|=\sqrt{ Re²+Im^2 }}$$
 $$\huge{φ=\tan^{-1}\left( \frac{Im}{Re} \right)}$$
 ### <mark style="background: #FFB8EBA6;">umwandlung der formen</mark>
 
-> a > 0 → Zeiger im 1. oder 4. Quadranten 
+> a > 0 → Zeiger im 1. Quadranten 
 
 $$\phi = \tan^{-1}(\frac{b}{a})$$
 
@@ -28,6 +28,7 @@ $$\phi = \tan^{-1}(\frac{b}{a})$$
 $$\phi = \tan^{-1}(\frac{b}{a})+180°$$
 $$a=r*\cos(\phi)$$
 $$b=r*\sin(\phi)$$
+> Wenn im 4. Quadranten 360° dazuaddieren
 #### bsp für umwandeln#
 
 a) $$z_{1}=3+2j$$
