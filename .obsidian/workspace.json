@@ -11,8 +11,12 @@
             "id": "bc657b39f0c2127a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2.Klasse/Sysgrrrrtechnik/grrrrrlektrotechnik v2 mit sin.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -91,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2.Klasse/Sysgrrrrtechnik/grrrrrlektrotechnik v2 mit sin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2.Klasse/Sysgrrrrtechnik/grrrrrlektrotechnik v2 mit sin.md"
+              }
             }
           },
           {
@@ -185,9 +192,13 @@
   },
   "active": "bc657b39f0c2127a",
   "lastOpenFiles": [
+    "2.Klasse/Sysgrrrrtechnik/Komperator.md",
+    "2.Klasse/Sysgrrrrtechnik/grrrrrlektrotechnik v2 mit sin.md",
+    "2.Klasse/Sysgrrrrtechnik/😡Grrrrrlektrotechnik.md",
+    "2.Klasse/Sysgrrrrtechnik/Operationsverstärker.md",
+    "2.Klasse/Sysgrrrrtechnik/transistor.md",
     "2.Klasse/Sysgrrrrtechnik/diemensionierung transistor.md",
     "2.Klasse/🥲2te Klasse.md",
-    "2.Klasse/Sysgrrrrtechnik/Komperator.md",
     "templates/syt_elektro.md",
     "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md",
     "Zeichnungen/DR11-03-2024-08.excalidraw.md",
@@ -210,10 +221,6 @@
     "2.Klasse/Netzwerktiger/Host Routing.md",
     "Zeichnungen/DR08-03-2024-13.excalidraw.md",
     "tiger.md",
-    "2.Klasse/Netzwerktiger/Standard Gateway.md",
-    "2.Klasse/Netzwerktiger/Arp.md",
-    "Zeichnungen/DR01-03-2024-22.excalidraw.md",
-    "2.Klasse/Netzwerktiger/Switch.md",
     "bilder/Pasted image 20240303182844.png",
     "bilder/Pasted image 20240303143831.png",
     "bilder/Pasted image 20240227172103.png",

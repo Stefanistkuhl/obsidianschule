@@ -1,3 +1,9 @@
+---
+tags:
+  - 2te_Klasse
+  - syt
+  - syt_elektro
+---
 #2te_Klasse #syt
 
 ![[DR19-02-2024-29.excalidraw]]

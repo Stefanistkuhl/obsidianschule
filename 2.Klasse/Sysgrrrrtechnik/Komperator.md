@@ -1,3 +1,9 @@
+---
+tags:
+  - 2te_Klasse
+  - syt
+  - syt_elektro
+---
 #2te_Klasse #syt 
 
 > Die beiden Eingänge werden miteinernader verglichen jenachdem welcher der Eingänge ein größeres elektrisches potential hat kippt der Ausgang 

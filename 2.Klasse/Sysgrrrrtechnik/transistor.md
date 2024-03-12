@@ -1,3 +1,9 @@
+---
+tags:
+  - 2te_Klasse
+  - syt
+  - syt_elektro
+---
 [[grrrrrlektrotechnik v2 mit sin]]
 [[🤠antigrrrrrmatik]]
 #2te_Klasse #syt
