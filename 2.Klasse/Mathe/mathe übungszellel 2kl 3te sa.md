@@ -117,3 +117,13 @@ y=2*x*x+20x-4
 ```
 
 b)
+[[Dumme Scheitelform kake bei Qu fkt]]
+e)
+```math
+||{"id":644761949346}||
+
+y=x²+2x-3
+
+```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
