@@ -11,12 +11,8 @@
             "id": "bc657b39f0c2127a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Komperator.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "3d-graph-view-global",
+              "state": {}
             }
           }
         ]
@@ -95,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Komperator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Komperator.md"
-              }
+              "state": {}
             }
           },
           {
@@ -192,6 +185,7 @@
   },
   "active": "bc657b39f0c2127a",
   "lastOpenFiles": [
+    "2.Klasse/Sysgrrrrtechnik/Komperator.md",
     "templates/syt_elektro.md",
     "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md",
     "Zeichnungen/DR11-03-2024-08.excalidraw.md",
@@ -220,7 +214,6 @@
     "2.Klasse/Netzwerktiger/Switch.md",
     "Zeichnungen/DR04-12-2023-45.excalidraw.md",
     "2.Klasse/Netzwerktiger/ccna therorie switching.md",
-    "2.Klasse/Netzwerktiger/Brodcastdomäne.md",
     "bilder/Pasted image 20240303182844.png",
     "bilder/Pasted image 20240303143831.png",
     "bilder/Pasted image 20240227172103.png",

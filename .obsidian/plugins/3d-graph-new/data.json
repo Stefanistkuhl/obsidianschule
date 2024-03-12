@@ -28,7 +28,7 @@
   },
   "temporaryGlobalGraphSetting": {
     "filter": {
-      "searchQuery": "",
+      "searchQuery": "-path:Zeichnungen  ",
       "showOrphans": true,
       "showAttachments": false
     },
@@ -44,7 +44,7 @@
       "linkHoverColor": "#0000ff",
       "showExtension": false,
       "showFullPath": false,
-      "showCenterCoordinates": true,
+      "showCenterCoordinates": false,
       "showLinkArrow": true,
       "dontMoveWhenDrag": false,
       "dagOrientation": "null"
