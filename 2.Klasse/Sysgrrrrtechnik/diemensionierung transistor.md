@@ -1,3 +1,9 @@
+---
+tags:
+  - 2te_Klasse
+  - syt
+  - syt_elektro
+---
 Kennlinienfeld:
 ![[DR22-01-2024-08.excalidraw]]
 
