@@ -126,11 +126,10 @@ f(a)=-a²-16a+12
 -(a²+16a-12)
 8²
 -(a²+16a+8²-8²-12)
--(a²+8)-8²-12)
-
+-((a+8)²-76)
+-(a+8)²+76
+S(-8|76)
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 
 e)
 ```math
