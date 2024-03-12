@@ -13,7 +13,8 @@ z_{1}=7-2j
 r=\sqrt{ 7²+2² }=\sqrt{ 53 }
 \phi=\arctan(\frac{2}{7})=15.95°
 z_{1}=\sqrt{ 53 }*(\cos(15.95°)+j*\sin(15.95°))=\sqrt{ 53 }*e^{j*15.85°}
-z_{2}=
+z_{2}=3*\angle 40
+z_{2}=3*e^{j*40°}=3*(\cos(40°))
 ```
 
 <div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
