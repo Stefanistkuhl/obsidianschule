@@ -36,7 +36,9 @@ b)
 ||{"id":177913198601}||
 
 z_{1}*z_{2}+z_{3}
-(\sqrt{ 53 }*e^{j*344°}*3*e^{j*40°})
+(\sqrt{ 53 }*e^{j*344°}*3*e^{j*40°})+\frac{\sqrt{  3}}{2}+0,5j
+\sqrt{ 53 }*3*e^{}
+
 ```
 
 <div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
