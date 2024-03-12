@@ -47,7 +47,8 @@ c)
 ```math
 ||{"id":1389357644736}||
 
-z_{1}
+\frac{z_{2}-z_{3}}{z_{1}}
+
 ```
 
 <div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
