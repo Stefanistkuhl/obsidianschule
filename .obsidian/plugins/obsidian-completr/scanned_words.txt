@@ -2190,6 +2190,7 @@ breite
 breit
 beträgt
 bedeckt
+bleibt
 ist
 in
 im
@@ -8799,6 +8800,7 @@ Schwimmbeckens
 Stoffes
 Schätzungen
 Sektoren
+Scheitelpunkt
 Handel
 Hygiene
 Halbleiter
@@ -9359,6 +9361,8 @@ angelegt
 ausgabegeräte
 auszuführenden
 adressierbarem
+andres
+ablese
 oft
 oder
 os
@@ -11216,6 +11220,7 @@ Vorhanden
 Verwende
 Verzeichnisse
 Verarbeitung
+Vorzeichen
 je
 jeder
 jeweils

@@ -3,6 +3,8 @@ tags:
   - 2te_Klasse
   - m
 ---
+
+
 $$v(t)=t²+6t-2$$
 
 Quadratische Erägnzung:
@@ -13,7 +15,6 @@ $$t²+6t+3²-3²-2$$
  $$v(t)=(t+3)²-11$$
  Vorzeichen von dem Vieh in der Klammer umdrehen (andres bleibt gleich) und Scheitelpunkt ablese
  $$S(-3|-11)$$
-
 ```functionplot
 ---
 title: 

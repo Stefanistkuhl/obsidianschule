@@ -3,7 +3,7 @@ tags:
   - 2te_Klasse
   - m
 ---
-![[Dumme Scheitelform kake bei Qu fkt]]
+[[Dumme Scheitelform kake bei Qu fkt]]
 4)
 $$z_{1}=7-2j,z_{2}=3+\angle_{}40°,z_{3}=e^{j*\frac{\pi}{6}}$$
 dinger in sämtliche formen umwandeln:
@@ -32,8 +32,6 @@ z_{1}+z_{2}-z_{3}
 (7-2j)+(2.29+1.92j)-(\frac{\sqrt{ 3 }}{2}+0,5j)
 7-2j+2.29+1.92j-\frac{\sqrt{ 3 }}{2}-0,5j=8.4-0.58j
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 b)
 ```math
 ||{"id":177913198601}||
@@ -68,7 +66,6 @@ Ein Stoff hat eine Halbwertszeit von 136 Minuten. Berechne die Zerfallskonstante
 
 ```math
 ||{"id":1506362045842}||
-
 T \frac{3}{2}=136=\frac{\ln(2)}{\lambda}|:\lambda
 136*\lambda = \ln(2)|:136
 \lambda=\frac{\ln(4)}{136}=0,0050966704
@@ -100,10 +97,7 @@ a)
 ||{"id":352336948265}||
 
 y=2x²+20x-4
-(\frac{20}{2})²=100
-y=2x²+20x+100-100-4=2x²+20x-4
-100-100-4=-4
-y=2x*(x+10)-4
+
 ```
 b)
 ```math
