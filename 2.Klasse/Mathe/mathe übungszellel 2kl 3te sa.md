@@ -97,6 +97,9 @@ a)
 ||{"id":352336948265}||
 
 y=2x²+20x-4
+2*(x²+10x-2)
+2*(x²+10x+5²-5²-2)
+
 ```
 
 <div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
