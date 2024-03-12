@@ -3,6 +3,7 @@ tags:
   - 2te_Klasse
   - m
 ---
+![[Dumme Scheitelform kake bei Qu fkt]]
 4)
 $$z_{1}=7-2j,z_{2}=3+\angle_{}40°,z_{3}=e^{j*\frac{\pi}{6}}$$
 dinger in sämtliche formen umwandeln:
@@ -31,6 +32,8 @@ z_{1}+z_{2}-z_{3}
 (7-2j)+(2.29+1.92j)-(\frac{\sqrt{ 3 }}{2}+0,5j)
 7-2j+2.29+1.92j-\frac{\sqrt{ 3 }}{2}-0,5j=8.4-0.58j
 ```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 b)
 ```math
 ||{"id":177913198601}||
@@ -41,8 +44,6 @@ z_{1}*z_{2}+z_{3}
 a=24.84*\cos(384)=22.69,b=24.84*\sin(384)=10,1
 22.29-10.1j-0.87+0.5j=22.82-9.6j
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 
 c)
 ![[DR11-03-2024-08.excalidraw]]
