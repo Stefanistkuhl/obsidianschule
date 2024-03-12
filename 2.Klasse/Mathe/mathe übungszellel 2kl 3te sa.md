@@ -50,9 +50,11 @@ c)
 \frac{z_{2}-z_{3}}{z_{1}}
 \frac {3.29+1.92*j-(0.86+0,5j)}{\sqrt{ 53 }*e^{j*344°}}
 \frac {3.29+1.92*j-0.86-0,5j}{\sqrt{ 53 }*e^{j*344°}}
-\frac {}{\sqrt{ 53 }*e^{j*344°}}
-
+\frac {2.43-1.42j}{\sqrt{ 53 }*e^{j*344°}}
+r=\sqrt{ 2.43²+1.42² }=
 ```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 c)
 ![[DR11-03-2024-08.excalidraw]]
 5)
