@@ -11,8 +11,12 @@
             "id": "bc657b39f0c2127a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -91,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md"
+              }
             }
           },
           {
