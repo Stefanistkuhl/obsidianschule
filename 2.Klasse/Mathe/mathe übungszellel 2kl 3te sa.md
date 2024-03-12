@@ -125,7 +125,8 @@ e)
 y=0,5x²+2x-3
 0,5(x²+4x-6)
 2²
-
+0,5(x²+4x+2²-2²-6)
+0,5((x+2)²-10)
+0,5(x+2)²-5
+S(-2|-5)
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
