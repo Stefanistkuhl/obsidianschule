@@ -51,7 +51,9 @@ c)
 \frac {3.29+1.92*j-(0.86+0,5j)}{\sqrt{ 53 }*e^{j*344°}}
 \frac {3.29+1.92*j-0.86-0,5j}{\sqrt{ 53 }*e^{j*344°}}
 \frac {2.43-1.42j}{\sqrt{ 53 }*e^{j*344°}}
-r=\sqrt{ 2.43²+1.42² }=
+r=\sqrt{ 2.43²+1.42² }=2.81
+\phi=\arctan(\frac{1.42}{2.43})
+\arctan
 ```
 
 <div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
