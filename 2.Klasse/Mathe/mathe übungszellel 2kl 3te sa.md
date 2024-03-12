@@ -44,6 +44,15 @@ a=24.84*\cos(384)=22.69,b=24.84*\sin(384)=10,1
 ```
 
 c)
+```math
+||{"id":1389357644736}||
+
+z_{1}
+```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
+
+c)
 ![[DR11-03-2024-08.excalidraw]]
 5)
 Um ein rechteckiges Schwimmbecken von 40m länge und 30m Breite soll einen an allen Seiten breite Rasenfläche angelegt werden, deren Flächenihalt 5-mal so groß wie der des Schwimmbeckens sein soll. Berechne die äußeren Abmessungen der Rasenfläche.
