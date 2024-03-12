@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:Zeichnungen  ",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -12,6 +12,13 @@
       "color": {
         "a": 1,
         "rgb": 5395121
+      }
+    },
+    {
+      "query": "tag:#zusatzdinger",
+      "color": {
+        "a": 1,
+        "rgb": 15074565
       }
     },
     {
@@ -60,7 +67,7 @@
       "query": "tag:#excalidraw  ",
       "color": {
         "a": 1,
-        "rgb": 16768256
+        "rgb": 16777215
       }
     },
     {
@@ -103,13 +110,6 @@
       "color": {
         "a": 1,
         "rgb": 10747872
-      }
-    },
-    {
-      "query": "tag:#zusatzdinger",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
       }
     },
     {
@@ -158,6 +158,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 228,
-  "scale": 0.3806898562699179,
+  "scale": 0.2537932375132786,
   "close": false
 }

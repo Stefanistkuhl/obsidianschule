@@ -11,12 +11,8 @@
             "id": "bc657b39f0c2127a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/frequenz sachen xd.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -95,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/frequenz sachen xd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/frequenz sachen xd.md"
-              }
+              "state": {}
             }
           },
           {
@@ -192,6 +185,8 @@
   },
   "active": "bc657b39f0c2127a",
   "lastOpenFiles": [
+    "2.Klasse/Sysgrrrrtechnik/grrrrrlektrotechnik v2 mit sin.md",
+    "2.Klasse/Sysgrrrrtechnik/frequenz sachen xd.md",
     "2.Klasse/Sysgrrrrtechnik/entfragmentieren.md",
     "2.Klasse/Sysgrrrrtechnik/Leistungsmerkmale von Prozessoren.md",
     "2.Klasse/Sysgrrrrtechnik/Überischt Festdatenspeicher.md",
@@ -211,13 +206,11 @@
     "2.Klasse/Sysgrrrrtechnik/🤠antigrrrrrmatik.md",
     "2.Klasse/Sysgrrrrtechnik/Zeiger und liniendiagramm.md",
     "2.Klasse/Sysgrrrrtechnik/Wechselstromtechnik.md",
-    "2.Klasse/Sysgrrrrtechnik/grrrrrlektrotechnik v2 mit sin.md",
     "2.Klasse/Sysgrrrrtechnik/Komperator.md",
     "2.Klasse/Sysgrrrrtechnik/😡Grrrrrlektrotechnik.md",
     "2.Klasse/Sysgrrrrtechnik/Operationsverstärker.md",
     "2.Klasse/Sysgrrrrtechnik/transistor.md",
     "2.Klasse/Sysgrrrrtechnik/diemensionierung transistor.md",
-    "2.Klasse/🥲2te Klasse.md",
     "templates",
     "Untitled 1",
     "bilder/Pflichtenheft bsp.pdf",
