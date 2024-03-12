@@ -11,7 +11,7 @@ dinger in sämtliche formen umwandeln:
 
 z_{1}=7-2j
 r=\sqrt{ 7²+2² }=\sqrt{ 53 }
-\phi=\arctan(\frac{2}{7})+360°=
+\phi=\arctan(\frac{-2}{7})+360°=344°
 z_{1}=\sqrt{ 53 }*(\cos(15.95°)+j*\sin(15.95°))=\sqrt{ 53 }*e^{j*15.85°}
 z_{2}=3*\angle 40
 z_{2}=3*e^{j*40°}=3*(\cos(40°)+j*\sin(40°))
@@ -24,8 +24,6 @@ a=\cos(\frac{\pi}{6})=\frac{\sqrt{ 3 }}{2}
 b=sis(\frac{\pi}{6})=0.5
 z_{3}=\frac{\sqrt{  3}}{2}+0,5j
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 a)
 ```math
 ||{"id":231348030228}||
@@ -37,8 +35,11 @@ b)
 ```math
 ||{"id":177913198601}||
 
+z_{1}*z_{2}+z_{3}
 
 ```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 
 c)
 ![[DR11-03-2024-08.excalidraw]]
