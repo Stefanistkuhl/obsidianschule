@@ -9,3 +9,5 @@ Quadratische Erägnzung:
 $$(\frac{6}{2})²→ (\frac{b}{2})²$$
 dann einfach das ergänze dazu addieren und subtrahieren zwschen b und c 
 $$t²+6t+3²-3²-2$$
+ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎  ‎--------  ← Bin formel
+ $$v(t)=(t+3)²$$
