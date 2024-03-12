@@ -19,7 +19,8 @@ a=r*\cos(\phi)=2.29
 b=r*\sin(\phi)=1.92
 z_{2}=2.29+1.92*j
 z_{3}=e^{j* \frac{\pi}{6}}
-z_{3}=\cos(\frac{\pi}{6})*\sin()
+z_{3}=\cos(\frac{\pi}{6})*\sin(\frac{\pi}{6})
+a=\cos(\pi)
 ```
 
 <div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
