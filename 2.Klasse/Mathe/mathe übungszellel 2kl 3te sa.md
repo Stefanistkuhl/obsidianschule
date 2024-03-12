@@ -100,17 +100,20 @@ y=2x²+20x-4
 2*(x²+10x-2)
 2*(x²+10x+5²-5²-2)
 2*((x+5)²-27)
-2*
+2*(x+5)²-54
+S(-5|-54)
 ```
 
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
+```functionplot
+---
+title: 
+xLabel: 
+yLabel: 
+bounds: [-10,10,-10,10]
+disableZoom: false
+grid: true
+---
+y=2*x*x+20x-4
+```
 
 b)
-```math
-||{"id":1586213450905}||
-
-v(t)=t²+6t-2
-(\frac{6}{2})²=9
-9-9-2=-2
-v(t)=(x-3)²-2
-```
