@@ -56,10 +56,8 @@ r=\sqrt{ 2.43²+1.42² }=2.81
 z_{2-3}=2.81*e^{30}
 \frac {2.81*e^{30}}{\sqrt{ 53 }*e^{j*344°}}=20.45*e^{-314}
 -314+360=46°
-20.45*e^{46°
+20.45*e^{j*46°}
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 c)
 ![[DR11-03-2024-08.excalidraw]]
 5)
