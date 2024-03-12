@@ -118,6 +118,16 @@ y=2*x*x+20x-4
 
 b)
 [[Dumme Scheitelform kake bei Qu fkt]]
+c)
+```math
+||{"id":281685829134}||
+
+f(a)=-a²-16a+12
+
+```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
+
 e)
 ```math
 ||{"id":644761949346}||
