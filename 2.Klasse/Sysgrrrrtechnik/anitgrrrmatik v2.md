@@ -4,7 +4,7 @@ tags:
   - syt
   - syt_info
 ---
-[[🥲2te Klasse]] [[🤠antigrrrrrmatik]] #2te_Klasse #syt 
+[[🥲2te Klasse]] [[🤠antigrrrrrmatik]]
 
 ![[betriebsysthme wiederholung]]
 

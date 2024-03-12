@@ -760,6 +760,8 @@ ge
 gxf
 gC
 gv
+gelangen
+geschieht
 Zettel
 Zwingen
 Zeichen
@@ -953,6 +955,7 @@ ZkwT
 Zeigerdarstellung
 Zerfallskonstante
 Zeiteinheit
+Zentraleinheinheit
 Epochen
 Entdeckung
 Erste
@@ -1242,6 +1245,8 @@ EWN
 EQX
 EmbeddedFile
 Entlogarighieren
+EVA
+Eingabeeinheiten
 Das
 Dasselbe
 Diode
@@ -5121,6 +5126,7 @@ CF
 CPX
 CQp
 Contact
+Computertechnik
 Urgeschichte
 Universitäten
 Ufern
@@ -7457,6 +7463,7 @@ Ge
 GBC
 GBb
 Gki
+Geschichte
 wurden
 wegen
 wird
@@ -9316,6 +9323,7 @@ aQi
 aA
 achse
 angelegt
+ausgabegeräte
 oft
 oder
 os
@@ -11165,6 +11173,7 @@ VsE
 Vorhanden
 Verwende
 Verzeichnisse
+Verarbeitung
 je
 jeder
 jeweils

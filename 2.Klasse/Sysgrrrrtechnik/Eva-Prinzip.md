@@ -1,4 +1,9 @@
-#2te_Klasse #syt 
+---
+tags:
+  - 2te_Klasse
+  - syt
+  - syt_info
+---
 
 Computer arbeiten nach dem EVA-Prinzip (Eingabe, Verarbeitung und Ausgabe)
 
