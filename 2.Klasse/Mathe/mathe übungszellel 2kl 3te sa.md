@@ -48,9 +48,10 @@ c)
 ||{"id":1389357644736}||
 
 \frac{z_{2}-z_{3}}{z_{1}}
-2.29
+2.29+1.92*j-
 ```
 
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 c)
 ![[DR11-03-2024-08.excalidraw]]
 5)
