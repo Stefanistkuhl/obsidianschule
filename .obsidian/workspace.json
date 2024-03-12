@@ -11,11 +11,9 @@
             "id": "1b983d27dd01a70c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md",
-                "mode": "source",
-                "source": false
+                "file": "Zeichnungen/DR11-03-2024-08.excalidraw.md"
               }
             }
           }
@@ -95,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md",
+                "file": "Zeichnungen/DR11-03-2024-08.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +138,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md"
+                "file": "Zeichnungen/DR11-03-2024-08.excalidraw.md"
               }
             }
           },
@@ -192,8 +190,8 @@
   },
   "active": "1b983d27dd01a70c",
   "lastOpenFiles": [
-    "2.Klasse/Mathe/polarformen komplexezahlen.md",
     "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md",
+    "2.Klasse/Mathe/polarformen komplexezahlen.md",
     "2.Klasse/Mathe/Dumme Scheitelform kake bei Qu fkt.md",
     "2.Klasse/nawi/Reaktionsgleichung.md",
     "2.Klasse/nawi/Übung zum Ausgleichen von Reaktionsgleichungen.md",
