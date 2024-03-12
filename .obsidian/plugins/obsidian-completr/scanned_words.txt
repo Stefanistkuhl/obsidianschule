@@ -1869,6 +1869,7 @@ Prozent
 Prozentsatz
 Prozessoren
 Pointer
+Potenzieren
 bei
 background
 bis
@@ -2693,6 +2694,7 @@ dAY
 demnach
 direkte
 durchdreht
+dividiert
 es
 entstanden
 entstehen
@@ -3464,6 +3466,7 @@ sm
 sJU
 substrahieren
 smart
+subtrahiert
 und
 um
 ungefähr
@@ -4475,6 +4478,7 @@ mGz
 mha
 myy
 myP
+multipliziert
 FFA
 Flüssen
 Furt
@@ -6446,6 +6450,7 @@ WpJE
 WGt
 Wald
 Waldfläche
+Winkel
 Latein
 Leute
 Läuse
@@ -10177,6 +10182,7 @@ pZB
 pageEntities
 prozentuellel
 programme
+potenziert
 reiches
 real
 running
@@ -10954,6 +10960,7 @@ Beginned
 Befehlszähler
 Beinhaltet
 Befehlsregister
+Beträge
 Voraussetzungen
 Valenziabrücken
 Vekehrswesen
