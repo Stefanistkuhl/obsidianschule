@@ -6,3 +6,4 @@ tags:
 ---
 
 ![[Tux Basics]]
+![[Linux Shell Basics]]

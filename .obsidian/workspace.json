@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3e40556393f14f78",
+        "id": "3aa3f4e44d518587",
         "type": "tabs",
         "children": [
           {
-            "id": "1b983d27dd01a70c",
+            "id": "a96cf88c3c47aa4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Ram.md",
+                "file": "2.Klasse/Sysgrrrrtechnik/Linux Shell Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Ram.md",
+                "file": "2.Klasse/Sysgrrrrtechnik/Linux Shell Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Ram.md"
+                "file": "2.Klasse/Sysgrrrrtechnik/Linux Shell Basics.md"
               }
             }
           },
@@ -190,8 +190,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "1b983d27dd01a70c",
+  "active": "a96cf88c3c47aa4e",
   "lastOpenFiles": [
+    "2.Klasse/Sysgrrrrtechnik/Linux my beloved.md",
+    "2.Klasse/Sysgrrrrtechnik/Linux Shell Basics.md",
+    "2.Klasse/Sysgrrrrtechnik/Ram.md",
     "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md",
     "Untitled.md",
     "2.Klasse/Mathe/polarformen komplexezahlen.md",
@@ -207,7 +210,6 @@
     "2.Klasse/Sysgrrrrtechnik/Überischt Festdatenspeicher.md",
     "2.Klasse/Sysgrrrrtechnik/Festdatenspeicher.md",
     "2.Klasse/Sysgrrrrtechnik/Hardware.md",
-    "2.Klasse/Sysgrrrrtechnik/Ram.md",
     "2.Klasse/Sysgrrrrtechnik/Rom.md",
     "2.Klasse/Sysgrrrrtechnik/Geschichte der Hardware.md",
     "2.Klasse/Sysgrrrrtechnik/Von-Neumannn-Rechnermodell.md",
@@ -215,9 +217,7 @@
     "2.Klasse/Sysgrrrrtechnik/Eva-Prinzip.md",
     "2.Klasse/Sysgrrrrtechnik/betriebsysthme wiederholung.md",
     "2.Klasse/Sysgrrrrtechnik/anitgrrrmatik v2.md",
-    "2.Klasse/Sysgrrrrtechnik/Linux my beloved.md",
     "2.Klasse/Sysgrrrrtechnik/Tux Basics.md",
-    "2.Klasse/Sysgrrrrtechnik/Linuxdateisystem.md",
     "templates",
     "Untitled 1",
     "bilder/Pflichtenheft bsp.pdf",

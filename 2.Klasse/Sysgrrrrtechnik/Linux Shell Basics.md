@@ -1,0 +1,32 @@
+---
+tags:
+  - 2te_Klasse
+  - syt
+  - syt_info
+---
+- Echo
+	- Mit echo ist quasi print also kann man text, umgebungsvariablen ausgeben, oder in datein schreiben 
+	- echo "text"
+	- echo $HOME
+	- echo "\n test" > file
+	- nein dafür gibt es cat
+	- echo "Ich verwende Linux!"
+	- echo "Hallo aus der Datei" > echo_test.txt
+- pwd
+	- der Verzeichnis in dem man ist
+	- damit man seinen pfad copy pasten kann und zb in der andern shell sofort hin kann
+	- im Verzeichnis ist zb /home die wurzel und /home/test wäre dann quasi eine qurzel
+	- /home/tux/dotfiles
+	- /home/stefiii/obsidanschule
+- cd
+	- cd == change directory
+	- cd oder cd ~
+	- beim absoulten pfad muss man angeben zb wenn man von ~/ka in /bin will muss man cd /bin schreiben und wenn man von ~/ka in ~ will geht cd ..
+	- cd ..
+	- man ist in ~
+	- übungsaufgaben:
+		- cd 
+		- mkdir TestDirectory 
+		- cd TestDirectory 
+			- pwd
+		- cd ..
