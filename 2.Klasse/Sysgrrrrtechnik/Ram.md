@@ -14,7 +14,7 @@ Speicherzelle im Arbeitsspeicher ist 1 Byte groß, jedoch kann natürlich auf 1 
 Ram Speicher ust flüchtig. Beim Abschlaten des Rechners wird die Stromzufuhr unterbrochen und alle Daten gehen verloren 
 
 Arten von RAM Halbleiterbausteinen:
-- SRAN (Static RAM) - schnell teurer als DRAN, wird für Prozessor Register verwendet.
+- SRAM (Static RAM) - schnell teurer als DRAN, wird für Prozessor Register verwendet.
 - DRAM (Dynamic RAM) - langsamer als SRAM muss aber immer wieder aufgefrischt werden. ([Refreshing](https://youtu.be/o59V3_4NvPM?si=e_fOAJRpM_9bITRD) - ub der Regel im Nano-Sekunden Bereich, je nach Baustein). Wird als Arbeitsspeicher eingesetzt.
 
 - Dual Inline Memory Module (DIMM):
