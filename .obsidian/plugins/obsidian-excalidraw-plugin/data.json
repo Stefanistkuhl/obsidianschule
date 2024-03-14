@@ -12537,7 +12537,7 @@
             "containerId": "sHtMW_QrShEDi3yh3SDDz",
             "originalText": "177.177.177.177:443",
             "lineHeight": 1.1875,
-            "baseline": 15
+            "baseline": 14
           },
           {
             "type": "text",
@@ -12654,7 +12654,7 @@
             "containerId": "lICycKBmxjnJcB7cz-F5M",
             "originalText": "177.177.177.177:any",
             "lineHeight": 1.1875,
-            "baseline": 15
+            "baseline": 14
           },
           {
             "type": "text",
@@ -12771,7 +12771,7 @@
             "containerId": "M5ddKoVGIbn2lEP8xRDcU",
             "originalText": "10.0.0.0/8",
             "lineHeight": 1.1875,
-            "baseline": 15
+            "baseline": 14
           },
           {
             "type": "text",
@@ -13437,7 +13437,7 @@
             "containerId": null,
             "originalText": "Tier1",
             "lineHeight": 1.226215113297017,
-            "baseline": 12
+            "baseline": 11
           },
           {
             "type": "text",

@@ -90,7 +90,6 @@ temperatur
 trz
 transmission
 torenten
-test
 tvshows
 tauschen
 ter
@@ -172,7 +171,6 @@ typ
 tech
 teuer
 tod
-testen
 trigonometrische
 tHSm
 tiff
@@ -462,6 +460,7 @@ Kj
 KrQ
 KbY
 Knallgasreaktion
+Ktf
 ggp
 genauen
 gibt
@@ -764,6 +763,7 @@ gv
 gelangen
 geschieht
 gesehen
+größter
 Zettel
 Zwingen
 Zeichen
@@ -958,6 +958,7 @@ Zeigerdarstellung
 Zerfallskonstante
 Zeiteinheit
 Zentraleinheinheit
+ZrXJosjB
 Epochen
 Entdeckung
 Erste
@@ -1250,6 +1251,8 @@ Entlogarighieren
 EVA
 Eingabeeinheiten
 Erägnzung
+Echo
+EooqVhz
 Das
 Dasselbe
 Diode
@@ -2406,6 +2409,7 @@ iRH
 iFs
 iA
 isBackSide
+ideales
 dass
 die
 den
@@ -2699,6 +2703,9 @@ demnach
 direkte
 durchdreht
 dividiert
+datein
+dotfiles
+directory
 es
 entstanden
 entstehen
@@ -3055,6 +3062,8 @@ efcA
 elektro
 ensteht
 ergänze
+echo
+effektive
 Übergange
 Übergänge
 Übergang
@@ -3473,6 +3482,7 @@ sJU
 substrahieren
 smart
 subtrahiert
+stefiii
 und
 um
 ungefähr
@@ -3688,6 +3698,7 @@ uiSu
 ubsD
 uOx
 uP
+umgebungsvariablen
 keine
 konnten
 kein
@@ -4485,6 +4496,7 @@ mha
 myy
 myP
 multipliziert
+mkdir
 FFA
 Flüssen
 Furt
@@ -4732,6 +4744,7 @@ Filespec
 Fjson
 Flächenihalt
 Fläche
+FgDJPKpQ
 nach
 neue
 negativen
@@ -4939,6 +4952,7 @@ neZL
 nEGj
 nJE
 ngd
+nFR
 Christus
 Christianisierung
 Christentum
@@ -6206,6 +6220,7 @@ vRGT
 vfX
 vAtL
 vorhanden
+verwende
 West
 Welt
 Wachstum
@@ -6459,6 +6474,7 @@ Wald
 Waldfläche
 Winkel
 Wir
+Wirkwiederstand
 Latein
 Leute
 Läuse
@@ -6877,6 +6893,7 @@ OR
 Oie
 OHx
 Obvi
+Ohmscher
 Alt
 Amerikas
 Atombindung
@@ -7955,6 +7972,8 @@ cif
 cAA
 cZ
 cPZ
+cat
+change
 zu
 zum
 zur
@@ -8238,7 +8257,6 @@ Theads
 Testverbesserung
 Trump
 Teststoff
-Test
 Tovdp
 Tracer
 Terminiert
@@ -8350,7 +8368,6 @@ TWR
 TQ
 Te
 Testanforderungen
-Tests
 TUm
 Txk
 Tmu
@@ -8362,6 +8379,7 @@ TKW
 TR
 TkX
 TH
+TestDirectory
 Städte
 Südamerika
 Spanien
@@ -9011,6 +9029,8 @@ HA
 Halbwertszeit
 Hirachische
 Halbleiterbausteinen
+HOME
+HmhhZ
 an
 auf
 aus
@@ -9364,6 +9384,9 @@ auszuführenden
 adressierbarem
 andres
 ablese
+ausgeben
+andern
+absoulten
 oft
 oder
 os
@@ -9957,6 +9980,8 @@ INX
 IJM
 IZa
 IuxS
+Impedanz
+Imaginär
 pest
 pos
 purpose
@@ -10198,6 +10223,10 @@ pageEntities
 prozentuellel
 programme
 potenziert
+print
+pwd
+pfad
+pasten
 reiches
 real
 running
@@ -10453,6 +10482,7 @@ runtergehen
 rechteckiges
 rund
 reagiert
+reel
 hat
 hervorgerufen
 haben
@@ -10978,6 +11008,7 @@ Beinhaltet
 Befehlsregister
 Beträge
 Bin
+Blindwiederstnad
 Voraussetzungen
 Valenziabrücken
 Vekehrswesen
@@ -11222,6 +11253,7 @@ Verwende
 Verzeichnisse
 Verarbeitung
 Vorzeichen
+Verzeichnis
 je
 jeder
 jeweils
@@ -11342,6 +11374,7 @@ jMQ
 jiZ
 jDqX
 jährlich
+jx
 ähnlich
 ändern
 ähnliches
@@ -11575,6 +11608,8 @@ lY
 lwzx
 lambda
 legt
+liniendiagramm
+lbs
 Queue
 QHvC
 Qp
@@ -11699,6 +11734,7 @@ QO
 QUGK
 QtAB
 QY
+QFj
 überall
 übersetzt
 übernehmen
@@ -11718,6 +11754,7 @@ QY
 übereinstimmt
 übertönen
 überdecken
+übungsaufgaben
 öffentliche
 öffnung
 ökonomisch
@@ -12356,6 +12393,7 @@ qmd
 qPj
 qP
 qXA
+qurzel
 Änder
 Änderung
 Änderungen

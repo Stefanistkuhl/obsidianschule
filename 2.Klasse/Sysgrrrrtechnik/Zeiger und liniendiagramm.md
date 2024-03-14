@@ -4,7 +4,6 @@ tags:
   - syt
   - syt_elektro
 ---
-#2te_Klasse #syt 
 
 ![[DR06-03-2024-00.excalidraw]]
 Bsp Netzspannung ("Steckdose")

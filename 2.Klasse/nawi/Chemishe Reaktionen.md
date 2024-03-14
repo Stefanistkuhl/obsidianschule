@@ -6,3 +6,4 @@ Bsp:
 ![[DR07-03-2024-49.excalidraw]]
 ![[Versuch Natrium in Wasser]]
 ![[Reaktionsgleichung]]
+![[Chemisches Rechen]]

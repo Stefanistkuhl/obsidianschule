@@ -4,7 +4,6 @@ tags:
   - syt
   - syt_elektro
 ---
-#2te_Klasse #syt 
 
 - Paramter Sinusförmiger Größen 
 	- ![[DR06-03-2024-07.excalidraw]]
@@ -17,3 +16,4 @@ tags:
 	- U= Udach/sqrt(2) ... Effektivwert (Anmerkung: 1/sqrt(2), gilt ausschießlich für sinusförmige Größen)
 
 ![[Zeiger und liniendiagramm]]
+![[Wechselstrom Komponenten]]
