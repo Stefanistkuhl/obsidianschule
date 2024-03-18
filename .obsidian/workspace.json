@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3aa3f4e44d518587",
+        "id": "8d1d1f6ba547ca89",
         "type": "tabs",
         "children": [
           {
-            "id": "a96cf88c3c47aa4e",
+            "id": "ec0bd9d27ec16e0b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2.Klasse/nawi/Chemisches Rechen.md",
-                "mode": "source",
-                "source": false
+                "file": "Zeichnungen/DR18-03-2024-07.excalidraw.md"
               }
             }
           }
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/nawi/Chemisches Rechen.md",
+                "file": "Zeichnungen/DR18-03-2024-07.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/nawi/Chemisches Rechen.md"
+                "file": "Zeichnungen/DR18-03-2024-07.excalidraw.md"
               }
             }
           },
@@ -189,34 +187,40 @@
       "templates:Insert template": false
     }
   },
-  "active": "a96cf88c3c47aa4e",
+  "active": "ec0bd9d27ec16e0b",
   "lastOpenFiles": [
-    "templates/Nawi.md",
+    "Excalidraw/Template.excalidraw.md",
+    "Zeichnungen/DR18-03-2024-07.excalidraw.md",
+    "2.Klasse/Sysgrrrrtechnik/Zeiger und liniendiagramm einer Spule.md",
+    "2.Klasse/Sysgrrrrtechnik/Wechselstrom Komponenten.md",
+    "2.Klasse/Sysgrrrrtechnik/Zeiger und liniendiagramm.md",
+    "Zeichnungen/DR18-03-2024-35.excalidraw.md",
+    "2.Klasse/Sysgrrrrtechnik/Wechselstromtechnik.md",
+    "Überlebenswichtige Strichlisten.md",
+    "2.Klasse/Sysgrrrrtechnik/Überischt Festdatenspeicher.md",
+    "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md",
+    "bilder/Pasted Image 20240315152110_533.png",
+    "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/asjifjsdjgds.pkt~",
+    "2.Klasse/Sysgrrrrtechnik/anitgrrrmatik v2.md",
+    "bilder/Pasted Image 20240315145648_786.png",
+    "bilder/Pasted Image 20240315144352_514.png",
+    "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
+    "Zeichnungen/DR15-03-2024-40.excalidraw.md",
+    "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/asjifjsdjgds.pkt",
+    "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol",
+    "templates/netzwerktiger.md",
     "2.Klasse/nawi/Chemisches Rechen.md",
+    "😟Games die ich Spielen muss.md",
+    "templates/Nawi.md",
     "2.Klasse/nawi/Chemishe Reaktionen.md",
     "2.Klasse/nawi/Übung zum Ausgleichen von Reaktionsgleichungen.md",
     "2.Klasse/nawi/Reaktionsgleichung.md",
-    "2.Klasse/Sysgrrrrtechnik/Wechselstrom Komponenten.md",
     "Zeichnungen/DR13-03-2024-21.excalidraw.md",
     "Zeichnungen/DR13-03-2024-26.excalidraw.md",
     "2.Klasse/Sysgrrrrtechnik/elektrischer Wiederstand aufbau.md",
     "Zeichnungen/DR13-03-2024-12.excalidraw.md",
-    "2.Klasse/Sysgrrrrtechnik/Wechselstromtechnik.md",
-    "2.Klasse/Sysgrrrrtechnik/Zeiger und liniendiagramm.md",
     "Zeichnungen/DR06-03-2024-00.excalidraw.md",
     "2.Klasse/Sysgrrrrtechnik/Linux Shell Basics.md",
-    "2.Klasse/Sysgrrrrtechnik/Linux my beloved.md",
-    "2.Klasse/Sysgrrrrtechnik/Ram.md",
-    "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md",
-    "Untitled.md",
-    "2.Klasse/Mathe/polarformen komplexezahlen.md",
-    "Zeichnungen/DR11-03-2024-08.excalidraw.md",
-    "2.Klasse/Mathe/Dumme Scheitelform kake bei Qu fkt.md",
-    "2.Klasse/Sysgrrrrtechnik/Komperator.md",
-    "2.Klasse/Sysgrrrrtechnik/grrrrrlektrotechnik v2 mit sin.md",
-    "2.Klasse/Sysgrrrrtechnik/frequenz sachen xd.md",
-    "2.Klasse/Sysgrrrrtechnik/entfragmentieren.md",
-    "2.Klasse/Sysgrrrrtechnik/Leistungsmerkmale von Prozessoren.md",
     "templates",
     "Untitled 1",
     "bilder/Pflichtenheft bsp.pdf",
@@ -228,16 +232,10 @@
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/~WRD0149.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/~WRL2042.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/~WRD2011.tmp",
-    "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/~WRL0901.tmp",
-    "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/~WRD0870.tmp",
-    "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/~WRL0988.tmp",
     "2.Klasse/Netzwerktiger/header.png",
     "2.Klasse/Netzwerktiger/Bild2.png",
     "bilder/Pasted Image 20240214142018_828.png",
     "Untitled.canvas",
-    "bilder/Pasted image 20240205193629.png",
-    "bilder/Pasted image 20240125174628.png",
-    "bilder/Pasted image 20240124180154.png",
     "Zeichnungen/Untitled.canvas"
   ]
 }

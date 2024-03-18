@@ -6,6 +6,7 @@ tags:
 ---
 
 ![[DR06-03-2024-00.excalidraw]]
+
 Bsp Netzspannung ("Steckdose")
 f = 50hz → 25ms
 u(t)=Uspitze * sin(ω * t)

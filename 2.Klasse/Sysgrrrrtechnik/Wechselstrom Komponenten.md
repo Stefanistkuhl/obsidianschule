@@ -19,4 +19,5 @@ tags:
 		- ![[DR13-03-2024-26.excalidraw]]
 		- b) 
 			- ![[DR13-03-2024-21.excalidraw]]
-			- ⇒ je größer die Fragen, desto größter X2 
+			- ⇒ je größer die Frequenz, desto größter X2 
+	- ![[Zeiger und liniendiagramm einer Spule]]
