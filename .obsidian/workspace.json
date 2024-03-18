@@ -11,9 +11,11 @@
             "id": "ec0bd9d27ec16e0b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Zeichnungen/DR18-03-2024-07.excalidraw.md"
+                "file": "2.Klasse/Sysgrrrrtechnik/Zeiger und liniendiagramm einer Spule.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichnungen/DR18-03-2024-07.excalidraw.md",
+                "file": "2.Klasse/Sysgrrrrtechnik/Zeiger und liniendiagramm einer Spule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Zeichnungen/DR18-03-2024-07.excalidraw.md"
+                "file": "2.Klasse/Sysgrrrrtechnik/Zeiger und liniendiagramm einer Spule.md"
               }
             }
           },
@@ -189,8 +191,8 @@
   },
   "active": "ec0bd9d27ec16e0b",
   "lastOpenFiles": [
-    "Excalidraw/Template.excalidraw.md",
     "Zeichnungen/DR18-03-2024-07.excalidraw.md",
+    "Excalidraw/Template.excalidraw.md",
     "2.Klasse/Sysgrrrrtechnik/Zeiger und liniendiagramm einer Spule.md",
     "2.Klasse/Sysgrrrrtechnik/Wechselstrom Komponenten.md",
     "2.Klasse/Sysgrrrrtechnik/Zeiger und liniendiagramm.md",

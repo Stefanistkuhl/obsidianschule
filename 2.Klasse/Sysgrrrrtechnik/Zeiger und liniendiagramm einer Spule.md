@@ -4,4 +4,11 @@ tags:
   - syt
   - syt_elektro
 ---
-ϕ
+![[DR18-03-2024-07.excalidraw]]
+Bsp 
+```math
+||{"id":1434725607386}||
+
+L=120Hz
+Y_{L}=? 
+```
