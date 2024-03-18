@@ -11,5 +11,8 @@ Bsp
 
 L=120Hz
 Y_{L}=? 
-Y_{L}=37,7 Ω
+Y_{L}=37,7Ω
+Y_{L}=377
 ```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
