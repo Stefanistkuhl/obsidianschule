@@ -12,7 +12,6 @@ Bsp
 L=120Hz
 Y_{L}=? 
 Y_{L}=37,7Ω
-Y_{L}=377
+Y_{L_{2}}=377Ω
+Y_{L_{3}}=3,77kHz
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
