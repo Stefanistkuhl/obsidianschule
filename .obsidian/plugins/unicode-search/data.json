@@ -5,6 +5,12 @@
   },
   "data": [
     {
+      "char": "ϕ",
+      "name": "greek phi symbol",
+      "useCount": 4,
+      "lastUsed": 1710761238270
+    },
+    {
       "char": "ρ",
       "name": "greek small letter rho",
       "useCount": 3,
@@ -13,20 +19,14 @@
     {
       "char": "Ω",
       "name": "ohm sign",
-      "useCount": 7,
-      "lastUsed": 1710329410887
+      "useCount": 8,
+      "lastUsed": 1710761893573
     },
     {
       "char": "Π",
       "name": "greek capital letter pi",
       "useCount": 3,
       "lastUsed": 1710252606204
-    },
-    {
-      "char": "ϕ",
-      "name": "greek phi symbol",
-      "useCount": 4,
-      "lastUsed": 1710761238270
     },
     {
       "char": "ᵠ",
