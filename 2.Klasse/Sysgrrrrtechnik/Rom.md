@@ -18,4 +18,4 @@ tags:
 	- ROM: Fest "eingebrantes" Bitmuster mit nicht veränderbaren Daten.
 	- PROM: Programierbarer Festwertspeicher - wird u.a elektrisch einmal beschrieben, kann aber nicht mehr verändert werden.
 	- EPROM: Erasable Programable Read Only Memory - wie PROM, kann aber mit UV Licht gelöscht werden und neu beschrieben werden.
-	- Flash EEPROM: U.a für USB Sticks verwendet. EEPR
+	- Flash EEPROM(Electrical Ereaable Programable Read Only Memmory): U.a für USB Sticks verwendet.
