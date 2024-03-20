@@ -6,3 +6,4 @@ tags:
   - syt_elektro
 ---
 - kapazität, Kondensator
+	- 

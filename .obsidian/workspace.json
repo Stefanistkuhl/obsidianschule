@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6d04c51e22a41773",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Zeichnungen/DR20-03-2024-03.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Kapazitiver Bildwiderstand.md",
+                "file": "Zeichnungen/DR20-03-2024-03.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +150,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Kapazitiver Bildwiderstand.md"
+                "file": "Zeichnungen/DR20-03-2024-03.excalidraw.md"
               }
             }
           },
@@ -189,10 +200,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "8ab51351e8e72cfb",
+  "active": "6d04c51e22a41773",
   "lastOpenFiles": [
-    "2.Klasse/Sysgrrrrtechnik/Wechselstrom Komponenten.md",
     "2.Klasse/Sysgrrrrtechnik/Kapazitiver Bildwiderstand.md",
+    "Zeichnungen/DR20-03-2024-03.excalidraw.md",
+    "2.Klasse/Sysgrrrrtechnik/Wechselstrom Komponenten.md",
     "2.Klasse/Medt/Farbdesign.md",
     "2.Klasse/Medt/Gestaltung von Webseiten.md",
     "2.Klasse/Medt/Formaler Aufbau-Layout.md",
@@ -225,7 +237,6 @@
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/asjifjsdjgds.pkt",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol",
     "templates/netzwerktiger.md",
-    "2.Klasse/nawi/Chemisches Rechen.md",
     "templates",
     "Untitled 1",
     "bilder/Pflichtenheft bsp.pdf",
