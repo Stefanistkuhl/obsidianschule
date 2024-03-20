@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6d04c51e22a41773",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Zeichnungen/DR20-03-2024-03.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichnungen/DR20-03-2024-03.excalidraw.md",
+                "file": "2.Klasse/Sysgrrrrtechnik/Kapazitiver Bildwiderstand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Zeichnungen/DR20-03-2024-03.excalidraw.md"
+                "file": "2.Klasse/Sysgrrrrtechnik/Kapazitiver Bildwiderstand.md"
               }
             }
           },
@@ -200,10 +189,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "6d04c51e22a41773",
+  "active": "8ab51351e8e72cfb",
   "lastOpenFiles": [
-    "2.Klasse/Sysgrrrrtechnik/Kapazitiver Bildwiderstand.md",
     "Zeichnungen/DR20-03-2024-03.excalidraw.md",
+    "2.Klasse/Sysgrrrrtechnik/Kapazitiver Bildwiderstand.md",
     "2.Klasse/Sysgrrrrtechnik/Wechselstrom Komponenten.md",
     "2.Klasse/Medt/Farbdesign.md",
     "2.Klasse/Medt/Gestaltung von Webseiten.md",

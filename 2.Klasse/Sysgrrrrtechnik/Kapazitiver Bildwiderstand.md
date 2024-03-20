@@ -6,4 +6,5 @@ tags:
   - syt_elektro
 ---
 - kapazität, Kondensator
-	- 
+	- ![[DR20-03-2024-03.excalidraw]]
+- 
