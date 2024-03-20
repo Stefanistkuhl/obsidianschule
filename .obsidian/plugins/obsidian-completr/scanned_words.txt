@@ -809,6 +809,7 @@ gch
 gnc
 gMb
 gliediert
+gMXoO
 Zettel
 Zwingen
 Zeichen
@@ -2339,6 +2340,7 @@ byf
 bNu
 bAj
 bfbc
+bipolar
 ist
 in
 im
@@ -3930,6 +3932,7 @@ uUB
 uSQ
 ukbdDU
 unterschiedlichen
+unipolar
 keine
 konnten
 kein
@@ -6910,6 +6913,7 @@ WL
 Wsrr
 Wkp
 WagQD
+WHX
 Latein
 Leute
 Läuse
@@ -10021,6 +10025,7 @@ aiF
 aCA
 auj
 aaa
+aeCSzfgJ
 oft
 oder
 os
@@ -11204,6 +11209,7 @@ rhT
 rQLCWouy
 rKNR
 rvyjsA
+rYSU
 hat
 hervorgerufen
 haben

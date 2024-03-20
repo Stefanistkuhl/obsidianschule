@@ -7,4 +7,5 @@ tags:
 ---
 - kapazität, Kondensator
 	- ![[DR20-03-2024-03.excalidraw]]
-- 
+- kapazitiver Blindwiederstnad
+	- $$$$
