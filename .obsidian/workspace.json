@@ -11,9 +11,11 @@
             "id": "8ab51351e8e72cfb",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Zeichnungen/DR20-03-2024-33.excalidraw.md"
+                "file": "2.Klasse/Sysgrrrrtechnik/Kapazitiver Bildwiderstand.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichnungen/DR20-03-2024-33.excalidraw.md",
+                "file": "2.Klasse/Sysgrrrrtechnik/Kapazitiver Bildwiderstand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Zeichnungen/DR20-03-2024-33.excalidraw.md"
+                "file": "2.Klasse/Sysgrrrrtechnik/Kapazitiver Bildwiderstand.md"
               }
             }
           },
@@ -189,10 +191,11 @@
   },
   "active": "8ab51351e8e72cfb",
   "lastOpenFiles": [
-    "2.Klasse/Sysgrrrrtechnik/Kapazitiver Bildwiderstand.md",
-    "Zeichnungen/DR20-03-2024-33.excalidraw.md",
-    "Zeichnungen/DR20-03-2024-03.excalidraw.md",
     "2.Klasse/Sysgrrrrtechnik/Wechselstrom Komponenten.md",
+    "Zeichnungen/Drawing 2024-03-20 14.46.08.excalidraw.md",
+    "Zeichnungen/DR20-03-2024-33.excalidraw.md",
+    "2.Klasse/Sysgrrrrtechnik/Kapazitiver Bildwiderstand.md",
+    "Zeichnungen/DR20-03-2024-03.excalidraw.md",
     "2.Klasse/Medt/Farbdesign.md",
     "2.Klasse/Medt/Gestaltung von Webseiten.md",
     "2.Klasse/Medt/Formaler Aufbau-Layout.md",
@@ -221,7 +224,6 @@
     "bilder/Pasted Image 20240315145648_786.png",
     "bilder/Pasted Image 20240315144352_514.png",
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
-    "Zeichnungen/DR15-03-2024-40.excalidraw.md",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/asjifjsdjgds.pkt",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol",
     "templates",

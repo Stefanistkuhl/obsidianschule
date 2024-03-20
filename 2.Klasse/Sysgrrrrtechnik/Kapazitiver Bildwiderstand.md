@@ -9,4 +9,4 @@ tags:
 	- ![[DR20-03-2024-03.excalidraw]]
 - kapazitiver Blindwiederstnad
 	- $$Y_{c}=\frac{1}{\omega* C}\left( =\frac{U}{I} \right),[Y_{c}]=\ohm ⇐⇒B_{c}=-\frac{1}{Y_{C}}=\omega*C [B_{c}]=S$$
-	- ϕ
+	- ![[Drawing 2024-03-20 14.46.08.excalidraw]]
