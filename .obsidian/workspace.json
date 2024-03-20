@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ec0bd9d27ec16e0b",
+            "id": "1b2fbc1199bed8e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Ram.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Ram.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Ram.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -189,10 +189,14 @@
       "templates:Insert template": false
     }
   },
-  "active": "ec0bd9d27ec16e0b",
+  "active": "1b2fbc1199bed8e9",
   "lastOpenFiles": [
-    "2.Klasse/Sysgrrrrtechnik/Rom.md",
     "2.Klasse/Sysgrrrrtechnik/Ram.md",
+    "conflict-files-obsidian-git.md",
+    "bilder/Pasted image 20240313215213.png",
+    "bilder/Pasted image 20240313214624.png",
+    "bilder/Pasted image 20240313214616.png",
+    "2.Klasse/Sysgrrrrtechnik/Rom.md",
     "2.Klasse/Ipt/bwl v2.md",
     "Überlebenswichtige Strichlisten.md",
     "2.Klasse/Sysgrrrrtechnik/Zeiger und liniendiagramm einer Spule.md",
@@ -222,7 +226,6 @@
     "2.Klasse/nawi/Übung zum Ausgleichen von Reaktionsgleichungen.md",
     "2.Klasse/nawi/Reaktionsgleichung.md",
     "Zeichnungen/DR13-03-2024-21.excalidraw.md",
-    "Zeichnungen/DR13-03-2024-26.excalidraw.md",
     "templates",
     "Untitled 1",
     "bilder/Pflichtenheft bsp.pdf",
@@ -234,9 +237,6 @@
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/~WRD0149.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/~WRL2042.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/~WRD2011.tmp",
-    "2.Klasse/Netzwerktiger/header.png",
-    "2.Klasse/Netzwerktiger/Bild2.png",
-    "bilder/Pasted Image 20240214142018_828.png",
     "Untitled.canvas",
     "Zeichnungen/Untitled.canvas"
   ]
