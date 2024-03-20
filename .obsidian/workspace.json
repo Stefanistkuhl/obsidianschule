@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Wechselstrom Komponenten.md",
+                "file": "2.Klasse/Sysgrrrrtechnik/Kapazitiver Bildwiderstand.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Wechselstrom Komponenten.md",
+                "file": "2.Klasse/Sysgrrrrtechnik/Kapazitiver Bildwiderstand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Wechselstrom Komponenten.md"
+                "file": "2.Klasse/Sysgrrrrtechnik/Kapazitiver Bildwiderstand.md"
               }
             }
           },
@@ -191,6 +191,8 @@
   },
   "active": "8ab51351e8e72cfb",
   "lastOpenFiles": [
+    "2.Klasse/Sysgrrrrtechnik/Wechselstrom Komponenten.md",
+    "2.Klasse/Sysgrrrrtechnik/Kapazitiver Bildwiderstand.md",
     "2.Klasse/Medt/Farbdesign.md",
     "2.Klasse/Medt/Gestaltung von Webseiten.md",
     "2.Klasse/Medt/Formaler Aufbau-Layout.md",
@@ -208,7 +210,6 @@
     "Zeichnungen/DR18-03-2024-34.excalidraw.md",
     "Zeichnungen/DR18-03-2024-07.excalidraw.md",
     "Excalidraw/Template.excalidraw.md",
-    "2.Klasse/Sysgrrrrtechnik/Wechselstrom Komponenten.md",
     "2.Klasse/Sysgrrrrtechnik/Zeiger und liniendiagramm.md",
     "Zeichnungen/DR18-03-2024-35.excalidraw.md",
     "2.Klasse/Sysgrrrrtechnik/Wechselstromtechnik.md",
@@ -225,7 +226,6 @@
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol",
     "templates/netzwerktiger.md",
     "2.Klasse/nawi/Chemisches Rechen.md",
-    "😟Games die ich Spielen muss.md",
     "templates",
     "Untitled 1",
     "bilder/Pflichtenheft bsp.pdf",

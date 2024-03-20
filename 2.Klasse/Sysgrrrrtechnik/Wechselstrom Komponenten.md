@@ -22,4 +22,4 @@ tags:
 			- ⇒ je größer die Frequenz, desto größter X2 
 	- ![[Zeiger und liniendiagramm einer Spule]]
 
-![[korpative Blindwiederstand]]
+![[Kapazitiver Bildwiderstand]]
