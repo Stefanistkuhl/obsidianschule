@@ -2,4 +2,4 @@
 
 ![[Design]]
 [[Gestaltungsregeln]]
-[[Farbdesign]]
+![[Farbdesign]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Medt/Formaler Aufbau-Layout.md",
+                "file": "2.Klasse/Medt/Farbdesign.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Medt/Formaler Aufbau-Layout.md",
+                "file": "2.Klasse/Medt/Farbdesign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Medt/Formaler Aufbau-Layout.md"
+                "file": "2.Klasse/Medt/Farbdesign.md"
               }
             }
           },
@@ -191,9 +191,10 @@
   },
   "active": "8ab51351e8e72cfb",
   "lastOpenFiles": [
-    "templates/Medientiger.md",
-    "2.Klasse/Medt/Formaler Aufbau-Layout.md",
     "2.Klasse/Medt/Gestaltung von Webseiten.md",
+    "2.Klasse/Medt/Farbdesign.md",
+    "2.Klasse/Medt/Formaler Aufbau-Layout.md",
+    "templates/Medientiger.md",
     "2.Klasse/Medt/medt v2.md",
     "Überlebenswichtige Strichlisten.md",
     "2.Klasse/Sysgrrrrtechnik/Rom.md",
@@ -225,7 +226,6 @@
     "templates/netzwerktiger.md",
     "2.Klasse/nawi/Chemisches Rechen.md",
     "😟Games die ich Spielen muss.md",
-    "templates/Nawi.md",
     "templates",
     "Untitled 1",
     "bilder/Pflichtenheft bsp.pdf",
