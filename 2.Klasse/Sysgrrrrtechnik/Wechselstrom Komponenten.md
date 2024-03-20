@@ -21,3 +21,5 @@ tags:
 			- ![[DR13-03-2024-21.excalidraw]]
 			- ⇒ je größer die Frequenz, desto größter X2 
 	- ![[Zeiger und liniendiagramm einer Spule]]
+
+![[korpative Blindwiederstand]]
