@@ -8,4 +8,4 @@ tags:
 - kapazität, Kondensator
 	- ![[DR20-03-2024-03.excalidraw]]
 - kapazitiver Blindwiederstnad
-	- $$Y_{c}=\frac{1}{\omega* C}(=\frac{U}{I},[])$$
+	- $$Y_{c}=\frac{1}{\omega* C}(=\frac{U}{I}),[Y_{c}]=\ohm ⇐⇒B_{c}$$
