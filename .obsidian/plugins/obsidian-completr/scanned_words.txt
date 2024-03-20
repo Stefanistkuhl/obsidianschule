@@ -2004,6 +2004,7 @@ PuRNBhQX
 Phasenverschiebung
 PzgfqMVV
 PBH
+PnZ
 bei
 background
 bis
@@ -2341,6 +2342,7 @@ bNu
 bAj
 bfbc
 bipolar
+bdO
 ist
 in
 im
@@ -4137,6 +4139,7 @@ kIDAT
 kRpoeEXC
 kPTtUe
 kQxf
+kapazitiver
 Jahreszahlen
 Jahresahlen
 Jura
@@ -12567,6 +12570,7 @@ QQQ
 Qhq
 Qay
 QDtdw
+Qdfo
 überall
 übersetzt
 übernehmen
