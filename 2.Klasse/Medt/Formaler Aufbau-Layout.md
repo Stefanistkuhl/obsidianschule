@@ -1,4 +1,8 @@
-#2te_Klasse #medt 
+---
+tags:
+  - 2te_Klasse
+  - medt
+---
 
 - Platzieren von Logo und Firmenname
 - Position von Seitentietel und Untertietel
