@@ -11,7 +11,7 @@ Der Arbeitsspeicher wird zur Speicherun der aktuall laufenden Programme verwende
 
 Speicherzelle im Arbeitsspeicher ist 1 Byte groß, jedoch kann natürlich auf 1 Bit dessen zugriffen werden. 
 
-Ram Speicher ust flüchtig. Beim Abschlaten des Rechners wird die Stromzufuhr unterbrochen und alle Daten gehen verloren 
+Ram Speicher ist flüchtig. Beim Abschlaten des Rechners wird die Stromzufuhr unterbrochen und alle Daten gehen verloren 
 
 Arten von RAM Halbleiterbausteinen:
 - SRAM (Static RAM) - schnell teurer als DRAN, wird für Prozessor Register verwendet.
