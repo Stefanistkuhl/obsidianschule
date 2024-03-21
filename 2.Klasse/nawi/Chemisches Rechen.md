@@ -13,7 +13,7 @@ tags:
 	- Wie bestimmt man die Teilchenzahl?
 		- In der Chemie sind die Teilchen sehr groß (In der Größenordnung 10^25)
 		- Errinerung: 1 Dutzend = 12 
-			- In der Chemie: $$1mol=6,022*10^23$$
+			- In der Chemie: $$1mol=6,022*10^{23}$$
 			- <mark style="background: #FFB8EBA6;">Stoffmengen</mark> werden in Mol angegeben
 	- Bsp:$$3,011*10^23 /Cl_{2}-Molekühle$$$$n(Cl_{2}) =0,5mol$$
 	- Molmasse M ist die Masse m pro Mol. ...
