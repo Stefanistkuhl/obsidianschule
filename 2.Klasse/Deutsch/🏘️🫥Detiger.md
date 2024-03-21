@@ -39,5 +39,7 @@ Mein Ansatz wäre es ein neues Schulfach einzuführen, in welchem es um Medienko
 
 arugment:
 
-- behauptung
-- be
+- Behauptung
+	- 
+- Begründung
+- Beispiel
