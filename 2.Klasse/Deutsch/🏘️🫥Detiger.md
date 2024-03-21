@@ -40,6 +40,6 @@ Mein Ansatz wäre es ein neues Schulfach einzuführen, in welchem es um Medienko
 arugment:
 
 - Behauptung
-	- Ich bin dafür weil, Österreich dann eine 
+	- Ich bin dafür weil, Österreich dann 
 - Begründung
 - Beispiel
