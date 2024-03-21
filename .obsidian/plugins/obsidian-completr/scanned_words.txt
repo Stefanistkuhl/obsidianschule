@@ -496,6 +496,8 @@ KYC
 Kd
 KKK
 Kapazitiver
+Kilogramm
+Kupfergewinnung
 ggp
 genauen
 gibt
@@ -813,6 +815,7 @@ gliediert
 gMXoO
 gWNF
 gADAhu
+genau
 Zettel
 Zwingen
 Zeichen
@@ -1337,6 +1340,8 @@ EFecTlet
 EGVefunq
 Esz
 Ereaable
+Euro
+Eisenoxid
 Das
 Dasselbe
 Diode
@@ -4808,6 +4813,7 @@ mkV
 mXq
 mFn
 mpqq
+massen
 FFA
 Flüssen
 Furt
@@ -5777,6 +5783,7 @@ UTm
 Uxc
 UpK
 UZx
+Umrechnung
 Mittelalter
 Merkmale
 Mönche
@@ -6108,6 +6115,8 @@ MzTlhDbh
 MWXPC
 MQy
 Milka
+Münzen
+Münze
 Rom
 Ratten
 Römischen
@@ -7746,6 +7755,7 @@ ATB
 AVYklorV
 AFKgXFAZ
 AOtoA
+Ausbeute
 Griechisch
 Glauben
 Gewalt
@@ -8027,6 +8037,7 @@ GQm
 GaFW
 Gzz
 Gestaltungsmittel
+Geg
 wurden
 wegen
 wird
@@ -8284,6 +8295,9 @@ wyhs
 wichtigste
 wuEduwTH
 weRoZqTR
+wissen
+wiegen
+wiegt
 christlichen
 code
 charakterisiert
@@ -8966,6 +8980,7 @@ Txq
 TDe
 TFST
 TyxMO
+Tonen
 Städte
 Südamerika
 Spanien
@@ -9424,6 +9439,7 @@ Shm
 SYy
 SUA
 SJeQjoNK
+Stoffmenge
 Handel
 Hygiene
 Halbleiter
@@ -9665,6 +9681,7 @@ HXn
 HncazxM
 HHx
 HJx
+Haben
 an
 auf
 aus
