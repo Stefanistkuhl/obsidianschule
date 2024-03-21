@@ -19,4 +19,5 @@ tags:
 	- Molmasse M ist die Masse m pro Mol. ...
 	- $$M=\frac{m}{n}$$
 	- Einheit:$$\frac{g}{mol}$$ 
-	- Bsp haben 20.000 1€ Münzen, 
+	- Bsp haben 20.000 1€ Münzen, wissen das aber nicht. 
+		- 
