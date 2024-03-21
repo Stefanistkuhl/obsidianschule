@@ -29,5 +29,5 @@ tags:
 			- ⇒ $$m(Cu_{2}O) = 54.000.000g = 54t$$
 		- b) Wie viel Tonen Cu entstehen
 			- $$n(Cu) = 6*187.000 = 1.125.000mol$$
-			- $$M(Cu)= 72.000.000g= 72t$$jjj
-				- 
+			- $$M(Cu)= 72.000.000g= 72t$$
+- 
