@@ -18,5 +18,5 @@ tags:
 	- Ausbeute berechnen
 		- Bsp
 			- Eisenoxid $$Fe_{2}O_{3}+3CO→2Fe + 3 CO_{2}$$ 
-				- a) Geg:$$m(Fe_{2}O_{2})=50t$$$$m(Fe_{2}O_{2})=\frac{m}{M}=50*10^6$$
+				- a) Geg:$$m(Fe_{2}O_{2})=50t$$$$m(Fe_{2}O_{2})=\frac{m}{M}=\frac{50*10^6g}{160* \frac{g}{mol}}$$$$n(Fe_{2}O_{3}):n(Fe)=1:2$$
 				- 
