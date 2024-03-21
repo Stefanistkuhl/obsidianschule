@@ -22,5 +22,12 @@ tags:
 				- Umrechnung Aus 1t Fe3O3 kann man 0,7t Fe gewinnen 
 		- Bsp Kupfergewinnung $$Cu_{2}S+2Cu_{2}O→6Cu+SO_{2}$$
 			- Wie viel t Cu2O benötigt man, wenn man 30t Cu2S hat? 
-				- $$M(Cu)=64* \frac{g}{moll}$$  $$M(S)=32* \frac{g}{moll}$$ $$M(Cu_{2}S)=160* \frac{g}{moll}$$$$n(Cu_{2}S)=30$$
+				- $$M(Cu)=64* \frac{g}{moll}$$  $$M(S)=32* \frac{g}{moll}$$ $$M(Cu_{2}S)=160* \frac{g}{moll}$$
+				-  $$M()Cu_{2}S = 144 \frac{g}{mol}$$
+			- $$n(Cu_{2}S) = \frac{30*10^6}{160 \frac{g}{mol}} = 187.500mol$$
+			- ⇒ $$n(Cu_{2}S) = 37500mol$$
+			- ⇒ $$m(Cu_{2}O) = 54.000.000g = 54t$$
+		- b) Wie viel Tonen Cu entstehen
+			- $$n(Cu) = 6*187.000 = 1.125.000mol$$
+			- $$M(Cu)= 72.000.000g= 72t$$jjj
 				- 
