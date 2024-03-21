@@ -42,5 +42,6 @@ arugment:
 - Behauptung
 	- Ich bin dafür weil, Österreich dann einen Wichtigen ersten Schirtt in Europa machen würde in diesem Bereich.
 - Begründung
-	- Sobald ein Land den ersten Schritt in so einem beginnt werden, andere folgen und so wird solche Technik mehr verbreitet und hilft im Langen mehr der Umwelt, weil es 
+	- Sobald ein Land den ersten Schritt in so einem beginnt werden, andere folgen und so wird solche Technik mehr verbreitet und hilft im Langen mehr der Umwelt, weil es so de Zerstörung der Umwelt durch Viehzucht vermindert.
 - Beispiel
+	- 
