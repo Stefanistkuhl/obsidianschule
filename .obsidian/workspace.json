@@ -158,14 +158,6 @@
               "type": "code-execute-manage-executors",
               "state": {}
             }
-          },
-          {
-            "id": "939afa563d643778",
-            "type": "leaf",
-            "state": {
-              "type": "Saved Queries View",
-              "state": {}
-            }
           }
         ]
       }
