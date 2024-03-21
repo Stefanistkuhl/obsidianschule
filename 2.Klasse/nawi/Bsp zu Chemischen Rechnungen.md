@@ -13,4 +13,4 @@ tags:
     - In PSE sind die Mol-massen M aller Elemente zu finden
         - Masse pro mol = g/Mol
 - Bsp Stoffmenge(n) von H2O in 0,5L Wasser 
-	- Anzahl in mo
+	- Anzahl in mol $$$$
