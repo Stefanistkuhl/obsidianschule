@@ -14,3 +14,4 @@ tags:
         - Masse pro mol = g/Mol
 - Bsp Stoffmenge(n) von H2O in 0,5L Wasser 
 	- Anzahl in mol $$n(H_{2}O)=\frac{500}{18}=20 mol = 168*10^{23}$$
+	- 
