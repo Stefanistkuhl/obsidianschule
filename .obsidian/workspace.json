@@ -168,7 +168,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": true,
@@ -178,7 +177,8 @@
       "templater-obsidian:Templater": false,
       "obsidian42-brat:BRAT": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "templates:Insert template": false
+      "templates:Insert template": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "03dd4bb56026c091",

@@ -560,7 +560,7 @@ function make_dirty(component, i) {
   component.$$.dirty[i / 31 | 0] |= 1 << i % 31;
 }
 
-function init(component, options, instance7, create_fragment7, not_equal, props, append_styles2, dirty = [ -1 ]) {
+function init(component, options, instance7, create_fragment7, not_equal, props, append_styles2 = null, dirty = [ -1 ]) {
   const parent_component = current_component;
   set_current_component(component);
   const $$ = component.$$ = {
@@ -668,12 +668,16 @@ if ("function" == typeof HTMLElement) SvelteElement = class extends HTMLElement 
         };
       };
       await Promise.resolve();
-      if (!this.$$cn) return;
+      if (!this.$$cn || this.$$c) return;
       const $$slots = {}, existing_slots = get_custom_elements_slots(this);
       for (const name of this.$$s) if (name in existing_slots) $$slots[name] = [ create_slot2(name) ];
       for (const attribute of this.attributes) {
         const name = this.$$g_p(attribute.name);
         if (!(name in this.$$d)) this.$$d[name] = get_custom_element_value(name, attribute.value, this.$$p_d, "toProp");
+      }
+      for (const key in this.$$p_d) if (!(key in this.$$d) && void 0 !== this[key]) {
+        this.$$d[key] = this[key];
+        delete this[key];
       }
       this.$$c = new this.$$ctor({
         target: this.shadowRoot || this,
@@ -691,7 +695,7 @@ if ("function" == typeof HTMLElement) SvelteElement = class extends HTMLElement 
           this.$$d[key] = this.$$c.$$.ctx[this.$$c.$$.props[key]];
           if (this.$$p_d[key].reflect) {
             const attribute_value = get_custom_element_value(key, this.$$d[key], this.$$p_d, "toAttribute");
-            if (null == attribute_value) this.removeAttribute(key); else this.setAttribute(this.$$p_d[key].attribute || key, attribute_value);
+            if (null == attribute_value) this.removeAttribute(this.$$p_d[key].attribute || key); else this.setAttribute(this.$$p_d[key].attribute || key, attribute_value);
           }
         }
         this.$$r = false;
@@ -3721,6 +3725,9 @@ var TagFolderViewBase = class extends import_obsidian5.ItemView {
     if (leaves.length) this.app.workspace.revealLeaf(leaves[0]);
   }
 }, TagFolderView = class extends TagFolderViewBase {
+  getIcon() {
+    return "stacked-levels";
+  }
   constructor(leaf, plugin, viewType) {
     super(leaf);
     this.plugin = plugin;
@@ -3730,9 +3737,6 @@ var TagFolderViewBase = class extends import_obsidian5.ItemView {
     this.showLevelSelect = this.showLevelSelect.bind(this);
     this.switchView = this.switchView.bind(this);
     this.treeViewType = viewType;
-  }
-  getIcon() {
-    return "stacked-levels";
   }
   newNote(evt) {
     this.app.commands.executeCommandById("file-explorer:new-file");
@@ -4047,13 +4051,19 @@ var TagFolderPlugin5 = class extends import_obsidian8.Plugin {
       }
     };
     this.register(onElement(document, "click", 'a.tag[href^="#"]', ((event, targetEl) => {
+      var _a;
       if (!this.settings.overrideTagClicking) return;
       const tagString = targetEl.innerText.substring(1);
-      if (tagString) setTagSearchString(event, tagString);
+      if (tagString) {
+        setTagSearchString(event, tagString);
+        const leaf = null == (_a = this.getView()) ? void 0 : _a.leaf;
+        if (leaf) this.app.workspace.revealLeaf(leaf);
+      }
     }), {
       capture: true
     }));
     this.register(onElement(document, "click", "span.cm-hashtag.cm-meta", ((event, targetEl) => {
+      var _a;
       if (!this.settings.overrideTagClicking) return;
       let enumTags = targetEl, tagString = "";
       for (;!enumTags.classList.contains("cm-hashtag-begin"); ) {
@@ -4072,6 +4082,8 @@ var TagFolderPlugin5 = class extends import_obsidian8.Plugin {
       } while (enumTags);
       tagString = tagString.substring(1);
       setTagSearchString(event, tagString);
+      const leaf = null == (_a = this.getView()) ? void 0 : _a.leaf;
+      if (leaf) this.app.workspace.revealLeaf(leaf);
     }), {
       capture: true
     }));

@@ -4420,19 +4420,34 @@ function getFrontMatter(app, file) {
   };
 }
 async function renderMarkdown(app, file, config) {
-  var _a, _b, _c, _d, _e, _f;
+  var _a, _b, _c, _d, _e, _f, _g;
   const ws = app.workspace;
+  if (((_a = ws.getActiveFile()) == null ? void 0 : _a.path) != file.path) {
+    const leaf = ws.getLeaf();
+    await leaf.openFile(file);
+  }
   const view = ws.getActiveViewOfType(import_obsidian.MarkdownView);
-  const data = (_d = (_b = view == null ? void 0 : view.data) != null ? _b : (_a = ws == null ? void 0 : ws.getActiveFileView()) == null ? void 0 : _a.data) != null ? _d : (_c = ws.activeEditor) == null ? void 0 : _c.data;
+  const data = (_e = (_c = view == null ? void 0 : view.data) != null ? _c : (_b = ws == null ? void 0 : ws.getActiveFileView()) == null ? void 0 : _b.data) != null ? _e : (_d = ws.activeEditor) == null ? void 0 : _d.data;
   if (!data) {
     new import_obsidian.Notice("data is empty!");
+  }
+  const frontMatter = getFrontMatter(app, file);
+  const cssclasses = [];
+  for (const [key, val] of Object.entries(frontMatter)) {
+    if (key.toLowerCase() == "cssclass" || key.toLowerCase() == "cssclasses") {
+      if (Array.isArray(val)) {
+        cssclasses.push(...val);
+      } else {
+        cssclasses.push(val);
+      }
+    }
   }
   const comp = new import_obsidian.Component();
   comp.load();
   const promises = [];
   const printEl = document.body.createDiv("print");
   const viewEl = printEl.createDiv({
-    cls: "markdown-preview-view markdown-rendered"
+    cls: "markdown-preview-view markdown-rendered " + cssclasses.join(" ")
   });
   app.vault.cachedRead(file);
   viewEl.toggleClass("rtl", app.vault.getConfig("rightToLeft"));
@@ -4443,8 +4458,8 @@ async function renderMarkdown(app, file, config) {
     });
   }
   const cache = app.metadataCache.getFileCache(file);
-  const lines = (_e = data == null ? void 0 : data.split("\n")) != null ? _e : [];
-  Object.entries((_f = cache == null ? void 0 : cache.blocks) != null ? _f : {}).forEach(([key, c]) => {
+  const lines = (_f = data == null ? void 0 : data.split("\n")) != null ? _f : [];
+  Object.entries((_g = cache == null ? void 0 : cache.blocks) != null ? _g : {}).forEach(([key, c]) => {
     const idx = c.position.end.line;
     lines[idx] = `<span id="^${key}" class="blockid"></span>
 ` + lines[idx];

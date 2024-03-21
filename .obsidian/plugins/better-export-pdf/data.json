@@ -8,7 +8,7 @@
   "printBackground": false,
   "generateTaggedPDF": false,
   "displayMetadata": false,
-  "debug": false,
+  "debug": true,
   "prevConfig": {
     "pageSise": "A4",
     "marginType": "3",

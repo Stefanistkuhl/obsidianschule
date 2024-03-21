@@ -20,6 +20,7 @@
   "displayExportedImageIfAvailable": false,
   "previewMatchObsidianTheme": false,
   "width": "400",
+  "height": "",
   "dynamicStyling": "colorful",
   "isLeftHanded": false,
   "iframeMatchExcalidrawTheme": true,
@@ -39216,7 +39217,7 @@
     }
   },
   "defaultTrayMode": false,
-  "previousRelease": "2.0.23",
+  "previousRelease": "2.0.25",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",

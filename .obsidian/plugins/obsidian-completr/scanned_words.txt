@@ -2013,6 +2013,7 @@ Phasenverschiebung
 PzgfqMVV
 PBH
 PnZ
+Potential
 bei
 background
 bis
@@ -4561,6 +4562,7 @@ fAJuUoLQ
 fcili
 fQpIaN
 fleisch
+folgen
 mark
 mit
 mangelnder
@@ -5786,6 +5788,7 @@ Uxc
 UpK
 UZx
 Umrechnung
+Umwelt
 Mittelalter
 Merkmale
 Mönche
@@ -6666,6 +6669,9 @@ vfo
 vSQ
 voj
 vuu
+vermindern
+verbreitet
+vermindert
 West
 Welt
 Wachstum
@@ -6932,6 +6938,7 @@ Wsrr
 Wkp
 WagQD
 WHX
+Wichtigen
 Latein
 Leute
 Läuse
@@ -7202,6 +7209,8 @@ LXt
 LlBpkO
 Lgi
 LLeira
+Laborfleisch
+Langen
 Ost
 OS
 Obwohl
@@ -8040,6 +8049,7 @@ GaFW
 Gzz
 Gestaltungsmittel
 Geg
+Gentechnik
 wurden
 wegen
 wird
@@ -8983,6 +8993,7 @@ TDe
 TFST
 TyxMO
 Tonen
+Tierleid
 Städte
 Südamerika
 Spanien
@@ -11498,6 +11509,7 @@ hvv
 hvef
 hZt
 hignt
+helfen
 Bananen
 Buch
 Beschreiben
@@ -12077,6 +12089,7 @@ VCz
 VAK
 VsYBa
 VTK
+Viehzucht
 je
 jeder
 jeweils
@@ -12919,6 +12932,7 @@ YcwbURV
 Österreicher
 Österreichern
 Öffentlich
+Österreich
 yHwDk
 yxvPi
 yZHgdqD
