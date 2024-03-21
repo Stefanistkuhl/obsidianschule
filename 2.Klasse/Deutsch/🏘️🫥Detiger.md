@@ -33,3 +33,11 @@ Der Einfluss von Digitalen Medien auf unsere Psyche ist bewiesen, jedoch ist die
 Dies zeigt die Komplexität des Problems, welches keine einfache Lösung hat, aber stattdessen einige wichtige Faktoren, die einen großen Einfluss auf die schwer Lastigkeit (kann man das so sagen? ich glaube nicht) des Problems. Der Wahrscheinlich größte Faktor ist eine mangelnde Medienkompetenz, welche meiner Meinung nach viel zu spät im Deutsch Unterricht behandelt wird und  stattdessen sollten schon in der Volkschule den Schülern beigebracht werden, dass seine Probleme mit Social Media lösen ein schlechterer Ansatz ist als sie mit einer vertrauten Person zu besprechen. Außerdem haben Jugendliche durch die Schule und Zukunft sehr hohen Druck, welcher auch einen großen Teil zum Problem beiträgt. 
 Mein Ansatz wäre es ein neues Schulfach einzuführen, in welchem es um Medienkompetenz, Gesellschaftliche Probleme und Selbstfindung geht, so dass kommende Generationen verstehen wie Social Media funktioniert und auch noch im Jugendlichen alter mit vertrauten Personen ihre Probleme teilen.    
 
+
+
+### kultiviertes fleisch
+
+arugment:
+
+- behauptung
+- be
