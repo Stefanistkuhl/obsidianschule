@@ -22,4 +22,5 @@ tags:
 				- Umrechnung Aus 1t Fe3O3 kann man 0,7t Fe gewinnen 
 		- Bsp Kupfergewinnung $$Cu_{2}S+2Cu_{2}O→6Cu+SO_{2}$$
 			- Wie viel t Cu2O benötigt man, wenn man 30t Cu2S hat? 
-				- $$M(Cu)=64* \frac{g}{moll}$$  $$M(S)=32* \frac{g}{moll}$$$$$$
+				- $$M(Cu)=64* \frac{g}{moll}$$  $$M(S)=32* \frac{g}{moll}$$
+				- 
