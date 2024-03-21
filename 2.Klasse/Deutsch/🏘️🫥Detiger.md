@@ -40,8 +40,8 @@ Mein Ansatz wäre es ein neues Schulfach einzuführen, in welchem es um Medienko
 arugment:
 
 - Behauptung
-	- Ich bin dafür weil, Österreich dann einen Wichtigen ersten Schirtt in Europa machen würde in diesem Bereich.
+	- Ich bin dafür weil, Österreich dann einen Wichtigen ersten Schirtt in Europa machen würde im Bereich Gentechnik.
 - Begründung
-	- Sobald ein Land den ersten Schritt in so einem beginnt werden, andere folgen und so wird solche Technik mehr verbreitet und hilft im Langen mehr der Umwelt, weil es so de Zerstörung der Umwelt durch Viehzucht vermindert.
+	- Östte
 - Beispiel
-	- 
+	- Sobald ein Land den ersten Schritt in so einem beginnt werden, andere folgen und so wird solche Technik mehr verbreitet und hilft im Langen mehr der Umwelt, weil es so de Zerstörung der Umwelt durch Viehzucht vermindert.
