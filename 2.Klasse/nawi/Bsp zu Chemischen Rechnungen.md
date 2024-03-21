@@ -15,3 +15,6 @@ tags:
 - Bsp Stoffmenge(n) von H2O in 0,5L Wasser 
 	- Anzahl in mol $$n(H_{2}O)=\frac{500}{18}=20 mol = 168*10^{23}$$ $$M(H)=1*\frac{g}{mol}$$$$M(O)=16* \frac{g}{mol}$$$$M(H_{2}O)=2+16=18* \frac{g}{mol}$$
 - Anwendungen
+	- Ausbeute berechnen
+		- Bsp
+			- $$Fe_{2}O_{3}+CO$$
