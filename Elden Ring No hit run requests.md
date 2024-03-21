@@ -11,3 +11,4 @@ tags:
 | Flamberge |               | stefiii     | no hit any%  |      |                |
 |           |               | karla       | no hit any%  |      |                |
 |           | crystal knife | marcel      | no hit any%  |      |                |
+|           |               | idi         | no hit any%  |      |                |
