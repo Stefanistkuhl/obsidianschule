@@ -17,6 +17,5 @@ tags:
 - Anwendungen
 	- Ausbeute berechnen
 		- Bsp
-			Eisenmonoxid
-			- $$Fe_{2}O_{3}+3CO→2Fe + 3 CO_{2}$$ 
-			- 
+			- Eisenoxid $$Fe_{2}O_{3}+3CO→2Fe + 3 CO_{2}$$ 
+				- a) 
