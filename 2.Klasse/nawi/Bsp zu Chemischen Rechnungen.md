@@ -9,6 +9,8 @@ tags:
         - Eine Münze wiegt 7,50g
         - Dann alle Münzen → 7,50 * 20.000 = 150.000g = 150 Kilogramm
         - Anzahl an Münzen = 150.000g/7,50g = 20.000
-- In der Chemie geht man genau so vor:
-- In PSE sind die Mol-massen M aller Elemente zu finden
-    - Masse pro mol = g/Mol
+    - In der Chemie geht man genau so vor:
+    - In PSE sind die Mol-massen M aller Elemente zu finden
+        - Masse pro mol = g/Mol
+- Bsp Stoffmenge(n) von H2O in 0,5L Wasser 
+	- Anzahl in mo
