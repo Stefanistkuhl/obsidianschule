@@ -19,4 +19,5 @@ tags:
 		- Bsp
 			- Eisenoxid $$Fe_{2}O_{3}+3CO→2Fe + 3 CO_{2}$$ 
 				- a) Geg:$$m(Fe_{2}O_{2})=50t$$$$n(Fe_{2}O_{2})=\frac{m}{M}=\frac{50*10^6g}{160* \frac{g}{mol}}$$$$n(Fe_{2}O_{3}):n(Fe)=1:2$$$$n(Fe)=625000mol$$$$n(Fe)=650000mol*56 * \frac{g}{mol} = 35000000g=35t$$
-				- 
+				- Umrechnung Aus 1t Fe3O3 kann man 0,7t Fe gewinnen 
+		- Bsp Kupfergewinnung $$$$
