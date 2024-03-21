@@ -40,6 +40,7 @@ Mein Ansatz wäre es ein neues Schulfach einzuführen, in welchem es um Medienko
 arugment:
 
 - Behauptung
-	- Ich bin dafür weil, Österreich dann 
+	- Ich bin dafür weil, Österreich dann einen Wichtigen ersten Schirtt in Europa machen würde in diesem Bereich.
 - Begründung
+	- Sobald ein Land den ersten Schr
 - Beispiel
