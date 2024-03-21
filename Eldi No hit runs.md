@@ -8,4 +8,6 @@ tags:
 
 | Waffe     | Status | Vorschläger | Restrictions | link | Abschlussdatum |
 | --------- | ------ | ----------- | ------------ | ---- | -------------- |
-| Flamberge |        |             | no hit any%  |      |                |
+| Flamberge |        | stefiii     | no hit any%  |      |                |
+|           |        | karla       | no hit any%  |      |                |
+|           |        |             |              |      |                |
