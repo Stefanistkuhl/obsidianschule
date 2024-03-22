@@ -1,11 +1,14 @@
-### Vergleich zwischen Windows und Linux Server 
+### Vergelich zwischen Windows Server und Linux 
 
 ---
 ### Inhaltsverzeichnis
 
-- Vergleich
-	- 
 - Vor und Nachteile
-	- 
+	- Windows
+	- Linux
 - Fazit
-	- 
+---
+
+### Windows Server Vorteile
+
+- 
