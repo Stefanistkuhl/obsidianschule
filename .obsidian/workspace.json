@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/Beispiel Routing.md",
+                "file": "Überlebenswichtige Strichlisten.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/Beispiel Routing.md",
+                "file": "Überlebenswichtige Strichlisten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/Beispiel Routing.md"
+                "file": "Überlebenswichtige Strichlisten.md"
               }
             }
           },
@@ -183,8 +183,8 @@
   },
   "active": "5e83b34ab7d7d7d4",
   "lastOpenFiles": [
-    "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md",
     "2.Klasse/Netzwerktiger/Beispiel Routing.md",
+    "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md",
     "Zeichnungen/DR22-03-2024-14.excalidraw.md",
     "2.Klasse/Netzwerktiger/Host Routing.md",
     "2.Klasse/Netzwerktiger/Standard Gateway.md",
