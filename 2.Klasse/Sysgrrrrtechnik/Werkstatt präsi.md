@@ -37,4 +37,6 @@
 	- Neustarts für Änderungen nur sehr selten Notwendig → mehr Uptime
 - Community
 	- Große Community → sehr gute Dokumentation und viele Problem Lösugen auffindbar
-	
+---
+### Linux Server Nachteile
+- 
