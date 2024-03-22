@@ -19,4 +19,5 @@
 		- Standart Edition ~ 120€
 		- Datacenter Edition ~ ab 1000€ 
 - Ressourcen Intensiv
-	- Windows Server braucht mehr 
+	- Windows Server braucht bessere Hardware → Mehr Kosten
+	- 
