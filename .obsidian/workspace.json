@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8774a76818219f4d",
+        "id": "003a235ccdcb12e6",
         "type": "tabs",
         "children": [
           {
-            "id": "bcfb2bc4df86f4d7",
+            "id": "59f88967270928a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Werkstatt präsnteation und fertig.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Werkstatt präsnteation und fertig.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Werkstatt präsnteation und fertig.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -181,14 +181,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bcfb2bc4df86f4d7",
+  "active": "59f88967270928a8",
   "lastOpenFiles": [
-    "Überlebenswichtige Strichlisten.md",
+    "conflict-files-obsidian-git.md",
     "Werkstatt präsnteation und fertig.md",
+    "Elden Ring No hit run requests.md",
+    "Überlebenswichtige Strichlisten.md",
     "2.Klasse/Deutsch/🏘️🫥Detiger.md",
     "2.Klasse/nawi/Bsp zu Chemischen Rechnungen.md",
     "2.Klasse/nawi/Chemisches Rechen.md",
-    "conflict-files-obsidian-git.md",
     "2.Klasse/Sysgrrrrtechnik/Kapazitiver Bildwiderstand.md",
     "Zeichnungen/Drawing 2024-03-20 14.47.49.excalidraw.md",
     "2.Klasse/Sysgrrrrtechnik/Wechselstrom Komponenten.md",
@@ -211,7 +212,6 @@
     "Zeichnungen/DR18-03-2024-07.excalidraw.md",
     "Excalidraw/Template.excalidraw.md",
     "2.Klasse/Sysgrrrrtechnik/Zeiger und liniendiagramm.md",
-    "Zeichnungen/DR18-03-2024-35.excalidraw.md",
     "bilder/Pasted Image 20240315152110_533.png",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/asjifjsdjgds.pkt~",
     "bilder/Pasted Image 20240315145648_786.png",
