@@ -43,7 +43,7 @@
 ### Linux Server Nachteile
 - Steile Lernkurve 
 - Software Kompatibilität
-	- Viel alter Serversoftware, die für Windows entwickelt wurde funktionie
+	- Viel alte Software, die für Windows entwickelt wurde funktioniert nicht.
 ---
 ### Fazit
 - Open Source und anpassen → Linux
