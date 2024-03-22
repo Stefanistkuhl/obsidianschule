@@ -44,4 +44,4 @@
 ### Fazit
 - Philosophische Entscheidung
 	- Open Source und anpassen 
-	- Just works aber dafür teurer bei 
+	- Just works und Benutzerfreundlichkeit aber dafür teurer und komplizierter sobald  
