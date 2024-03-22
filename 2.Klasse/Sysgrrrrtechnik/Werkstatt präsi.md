@@ -1,5 +1,6 @@
-### Vergelich zwischen Windows Server und Linux 
+### Vergleich zwischen Windows Server und Linux 
 
+- von Aladin, Boschi und Stefan
 ---
 ### Inhaltsverzeichnis
 
