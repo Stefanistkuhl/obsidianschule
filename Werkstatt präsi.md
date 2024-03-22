@@ -34,4 +34,6 @@
 - Niedrige Systemanforderungen
 	- Linux läuft auf allem, hat extrem niedrige Systemanforderungen und kann noch zusätzlich vom Nutzer Optimiert werden.
 - Stabilität
-	- Neustarts für Änderungen nur selten Notwendig
+	- Neustarts für Änderungen nur sehr selten Notwendig → mehr Uptime
+- Community
+	- 
