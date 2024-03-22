@@ -4,5 +4,8 @@
 ### Inhaltsverzeichnis
 
 - Vergleich
+	- 
 - Vor und Nachteile
-- 
+	- 
+- Fazit
+	- 
