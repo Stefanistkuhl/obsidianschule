@@ -23,5 +23,8 @@
 		- Deswegen auch teuer in der Cloud zu hosten
 - Stabilität
 	- Muss oft neugestartet werden und Windows hat generell keinen guten Ruf in stabilität
-	---
-	k
+-	Schwere Verwaltung von Konfigurationen
+---
+### Linux Server Vorteile
+- 
+
