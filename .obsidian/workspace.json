@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/Host Routing.md",
+                "file": "2.Klasse/Netzwerktiger/Beispiel Routing.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/Host Routing.md",
+                "file": "2.Klasse/Netzwerktiger/Beispiel Routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/Host Routing.md"
+                "file": "2.Klasse/Netzwerktiger/Beispiel Routing.md"
               }
             }
           },
@@ -183,8 +183,9 @@
   },
   "active": "54734a87545b2ce9",
   "lastOpenFiles": [
-    "Zeichnungen/DR22-03-2024-14.excalidraw.md",
     "2.Klasse/Netzwerktiger/Host Routing.md",
+    "2.Klasse/Netzwerktiger/Beispiel Routing.md",
+    "Zeichnungen/DR22-03-2024-14.excalidraw.md",
     "2.Klasse/Netzwerktiger/Standard Gateway.md",
     "2.Klasse/Netzwerktiger/Arp.md",
     "2.Klasse/Netzwerktiger/Layer 3.md",
@@ -211,7 +212,6 @@
     "2.Klasse/Medt/Formaler Aufbau-Layout.md",
     "templates/Medientiger.md",
     "2.Klasse/Medt/medt v2.md",
-    "2.Klasse/Sysgrrrrtechnik/Rom.md",
     "bilder/Pasted image 20240313215213.png",
     "bilder/Pasted image 20240313214624.png",
     "bilder/Pasted image 20240313214616.png",
