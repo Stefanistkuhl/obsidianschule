@@ -17,4 +17,5 @@
 - Kosten 
 	- Lizenz
 		- Standart Edition ~ 120€
-		- Datacenter Edition ~  
+		- Datacenter Edition ~ ab 1000€ 
+- 
