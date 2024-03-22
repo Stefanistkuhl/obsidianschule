@@ -3,3 +3,6 @@
 ---
 ### Inhaltsverzeichnis
 
+- Vergleich
+- Vor und Nachteile
+- 
