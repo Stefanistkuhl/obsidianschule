@@ -22,3 +22,8 @@ PC-A Routing Tabelle
 | --------------------- | -------- |
 | 0.0.0.0/0 (unbekannt) | 10.0.0.1 |
 |                       |          |
+R1 Routing Tabelle
+
+| Ziel Netz |     |
+| --------- | --- |
+|           |     |
