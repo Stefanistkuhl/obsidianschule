@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "003a235ccdcb12e6",
+        "id": "6126c9c64e15a514",
         "type": "tabs",
         "children": [
           {
-            "id": "59f88967270928a8",
+            "id": "7c87340f0879db9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Werkstatt präsi.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Werkstatt präsi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Werkstatt präsi.md"
               }
             }
           },
@@ -181,10 +181,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "59f88967270928a8",
+  "active": "7c87340f0879db9f",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
-    "Werkstatt präsnteation und fertig.md",
+    "Werkstatt präsi.md",
     "Elden Ring No hit run requests.md",
     "Überlebenswichtige Strichlisten.md",
     "2.Klasse/Deutsch/🏘️🫥Detiger.md",
