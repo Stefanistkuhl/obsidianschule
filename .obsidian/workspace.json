@@ -11,9 +11,11 @@
             "id": "54734a87545b2ce9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Zeichnungen/DR22-03-2024-14.excalidraw.md"
+                "file": "2.Klasse/Netzwerktiger/Beispiel Routing.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichnungen/DR22-03-2024-14.excalidraw.md",
+                "file": "2.Klasse/Netzwerktiger/Beispiel Routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Zeichnungen/DR22-03-2024-14.excalidraw.md"
+                "file": "2.Klasse/Netzwerktiger/Beispiel Routing.md"
               }
             }
           },
@@ -181,8 +183,8 @@
   },
   "active": "54734a87545b2ce9",
   "lastOpenFiles": [
-    "2.Klasse/Netzwerktiger/Beispiel Routing.md",
     "Zeichnungen/DR22-03-2024-14.excalidraw.md",
+    "2.Klasse/Netzwerktiger/Beispiel Routing.md",
     "2.Klasse/Netzwerktiger/Host Routing.md",
     "2.Klasse/Netzwerktiger/Standard Gateway.md",
     "2.Klasse/Netzwerktiger/Arp.md",
