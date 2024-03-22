@@ -12,7 +12,8 @@
 
 ### Windows Server Vorteile
 - Einfacher zu benutzen
-- 
+- Kompatibilität
+	- Man 
 ---
 ### Windows Server Nachteile
 - Kosten 
