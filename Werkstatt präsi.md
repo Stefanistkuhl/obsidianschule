@@ -15,4 +15,4 @@
 ---
 ### Windows Server Nachteile
 - Kosten 
-	-  
+	- Lizenz alleine  
