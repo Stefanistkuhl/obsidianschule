@@ -23,13 +23,13 @@
 	- Windows Server braucht bessere Hardware → Mehr Kosten
 		- Deswegen auch teuer in der Cloud zu hosten
 - Stabilität
-	- Muss oft neugestartet werden und Windows hat generell keinen guten Ruf in stabilität
+	- Muss oft neugestartet werden und Windows hat generell keinen guten Ruf in Stabilität
 -	Schwere Verwaltung von Konfigurationen
 ---
 ### Linux Server Vorteile
 - Open Source
 	- Hohe Flexibilität und Anpassungsfähigkeit
-	- Keine Bindung an Properitäre Software, die es erschwert einene Oss alternative zu nutzen
+	- Keine Bindung an Proprietäre Software, die es erschwert einene Oss alternativen zu nutzen
 - Einfache Verwaltung von Konfigurationen
 	- Da alles in Config Datein ist, kann man mit git diese Verwaltung und einfach zu älteren Version Wiederherzustellen. 
 - Niedrige Systemanforderungen
@@ -37,7 +37,7 @@
 - Stabilität
 	- Neustarts für Änderungen nur sehr selten Notwendig → mehr Uptime
 - Community
-	- Große Community → sehr gute Dokumentation und viele Problem Lösugen auffindbar
+	- Große Community → sehr gute Dokumentation und viele Problem Lösungen auffindbar
 ---
 ### Linux Server Nachteile
 - Steile Lernkurve 
