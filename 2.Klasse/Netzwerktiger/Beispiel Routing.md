@@ -49,3 +49,4 @@ R3 Routing Tabelle
 | --------------- | ---------- |
 | 10.0.0.0/24<br> | 172.16.1.1 |
 > Letzer Schritt braucht keine Routubg Tabelle weil is in einem Lan mit dem Ziel
+
