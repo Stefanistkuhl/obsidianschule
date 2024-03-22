@@ -29,6 +29,12 @@ R1 Routing Tabelle
 | 10.0.1.0/24 | 172.16.10.3 |
 R3 Routing Tabelle
 
-| Ziel Netz | Next Hop |
-| --------- | -------- |
-| 10.0.0    |          |
+| Ziel Netz   | Next Hop   |
+| ----------- | ---------- |
+| 10.0.1.0/24 | 172.16.3.4 |
+
+R4 Routing Tabelle
+
+| Ziel Netz   | Next Hop   |
+| ----------- | ---------- |
+| 10.0.1.0/24 | 172.16.3.4 |
