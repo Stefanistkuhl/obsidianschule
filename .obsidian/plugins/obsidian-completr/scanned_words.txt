@@ -1343,6 +1343,7 @@ Esz
 Ereaable
 Euro
 Eisenoxid
+Edition
 Das
 Dasselbe
 Diode
@@ -1673,6 +1674,7 @@ DKq
 DRR
 DoHN
 DplWgfxn
+Datacenter
 Problem
 Pest
 Portugal
@@ -2353,6 +2355,7 @@ bAj
 bfbc
 bipolar
 bdO
+bessere
 ist
 in
 im
@@ -7216,6 +7219,7 @@ Lgi
 LLeira
 Laborfleisch
 Langen
+Lizenz
 Ost
 OS
 Obwohl
@@ -9458,6 +9462,7 @@ SYy
 SUA
 SJeQjoNK
 Stoffmenge
+Standart
 Handel
 Hygiene
 Halbleiter
@@ -10725,6 +10730,7 @@ Izm
 IWt
 Ideal
 IJMvUZr
+Intensiv
 pest
 pos
 purpose
@@ -12097,6 +12103,8 @@ VAK
 VsYBa
 VTK
 Viehzucht
+Vergelich
+Vor
 je
 jeder
 jeweils
