@@ -11,12 +11,8 @@
             "id": "7c87340f0879db9f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Werkstatt präsi.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -95,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Werkstatt präsi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Werkstatt präsi.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,13 +175,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1e0663fc88fc05e8",
+  "active": "7c87340f0879db9f",
   "lastOpenFiles": [
+    "Werkstatt präsi.md",
     "bilder/Pasted image 20240322083354.png",
     "bilder/Pasted image 20240322083132.png",
     "bilder/Pasted image 20240322082942.png",
     "conflict-files-obsidian-git.md",
-    "Werkstatt präsi.md",
     "Elden Ring No hit run requests.md",
     "Überlebenswichtige Strichlisten.md",
     "2.Klasse/Deutsch/🏘️🫥Detiger.md",
@@ -225,7 +218,6 @@
     "Untitled 1",
     "bilder/Pflichtenheft bsp.pdf",
     "bilder/Pasted image 20240303182844.png",
-    "bilder/Pasted image 20240303143831.png",
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/Fürst_Frame_Analyse_Wireshark.pdf",
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/~WRD0149.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/~WRL2042.tmp",
