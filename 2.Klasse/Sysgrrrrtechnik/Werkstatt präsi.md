@@ -42,6 +42,7 @@
 ---
 ### Linux Server Nachteile
 - Steile Lernkurve 
+- 
 ---
 ### Fazit
 - Open Source und anpassen → Linux
