@@ -13,7 +13,7 @@
 ### Windows Server Vorteile
 - Einfacher zu benutzen
 - Kompatibilität
-	- Man 
+	- Man kann so gut wie jede Antike exe problemlos ausführen
 ---
 ### Windows Server Nachteile
 - Kosten 
