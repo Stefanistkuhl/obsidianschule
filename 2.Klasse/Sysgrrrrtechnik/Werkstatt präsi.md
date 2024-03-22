@@ -12,12 +12,12 @@
 
 ### Windows Server Vorteile
 
-- 
+- it jsut wo
 ---
 ### Windows Server Nachteile
 - Kosten 
 	- Lizenz
-		- Standart Edition ~ 120€
+		- Standard Edition ~ 120€
 		- Datacenter Edition ~ ab 1000€ 
 - Ressourcen Intensiv
 	- Windows Server braucht bessere Hardware → Mehr Kosten
@@ -29,9 +29,9 @@
 ### Linux Server Vorteile
 - Open Source
 	- Hohe Flexibilität und Anpassungsfähigkeit
-	- Keine Bindung an Proprietäre Software, die es erschwert einene Oss alternativen zu nutzen
+	- Keine Bindung an Proprietäre Software, die es erschwert eigene Oss alternativen zu nutzen
 - Einfache Verwaltung von Konfigurationen
-	- Da alles in Config Datein ist, kann man mit git diese Verwaltung und einfach zu älteren Version Wiederherzustellen. 
+	- Da alles in Config Dateien ist, kann man mit git diese Verwaltung und einfach zu älteren Version Wiederherzustellen. 
 - Niedrige Systemanforderungen
 	- Linux läuft auf allem, hat extrem niedrige Systemanforderungen und kann noch zusätzlich vom Nutzer Optimiert werden.
 - Stabilität
