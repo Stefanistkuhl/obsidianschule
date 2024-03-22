@@ -14,3 +14,10 @@ tags:
 	- Kommunikation mit entfernten Netzwerken über das Standard Gateway 
 
 ![[DR08-03-2024-13.excalidraw]]
+![[DR22-03-2024-14.excalidraw]]
+PC-A → PC-B
+PC-A Routing Tabelle
+
+|     |     |
+| --- | --- |
+|     |     |
