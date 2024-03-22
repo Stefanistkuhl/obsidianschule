@@ -32,4 +32,4 @@
 - Einfache Verwaltung von Konfigurationen
 	- Da alles in Config Datein ist, kann man mit git diese Verwaltung und einfach zu älteren Version Wiederherzustellen. 
 - Niedrige Systemanforderungen
-	- 
+	- Linux läuft auf allem, hat extrem niedrige Systemanforderungen und kann noch zusätzlich vom Nutzer Optimiert werden um zb 
