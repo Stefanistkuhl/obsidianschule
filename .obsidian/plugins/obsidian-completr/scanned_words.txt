@@ -235,6 +235,7 @@ tl
 taMT
 thk
 tBid
+teuerer
 Klasse
 Kreuzritter
 Klagenfurt
@@ -499,6 +500,7 @@ Kapazitiver
 Kilogramm
 Kupfergewinnung
 Konfiguration
+Kompatibilität
 ggp
 genauen
 gibt
@@ -817,6 +819,10 @@ gMXoO
 gWNF
 gADAhu
 genau
+generell
+guten
+git
+gute
 Zettel
 Zwingen
 Zeichen
@@ -1344,6 +1350,7 @@ Ereaable
 Euro
 Eisenoxid
 Edition
+Einfacher
 Das
 Dasselbe
 Diode
@@ -1676,6 +1683,7 @@ DoHN
 DplWgfxn
 Datacenter
 Deswegen
+Dokumentation
 Problem
 Pest
 Portugal
@@ -2018,6 +2026,7 @@ PzgfqMVV
 PBH
 PnZ
 Potential
+Proprietäre
 bei
 background
 bis
@@ -2357,6 +2366,7 @@ bfbc
 bipolar
 bdO
 bessere
+beabsichtigten
 ist
 in
 im
@@ -3279,6 +3289,8 @@ evh
 exK
 eZs
 ebef
+erschwert
+extrem
 Übergange
 Übergänge
 Übergang
@@ -3724,6 +3736,8 @@ signaliesiert
 schreit
 sdf
 sdgdghadufhjs
+selten
+sobald
 und
 um
 ungefähr
@@ -4314,6 +4328,7 @@ JJPcj
 Jqc
 JKKC
 JmLKGkCz
+Just
 für
 fall
 freibewegliches
@@ -5318,6 +5333,7 @@ nGf
 nBd
 nHsHm
 neugestartet
+niedrige
 Christus
 Christianisierung
 Christentum
@@ -5541,6 +5557,7 @@ CSWi
 CuSs
 CjJ
 Cu
+Community
 Urgeschichte
 Universitäten
 Ufern
@@ -5798,6 +5815,7 @@ UpK
 UZx
 Umrechnung
 Umwelt
+Uptime
 Mittelalter
 Merkmale
 Mönche
@@ -6396,6 +6414,7 @@ RHI
 RPX
 RShNE
 Rwo
+Ruf
 vor
 verbreiten
 vom
@@ -7222,6 +7241,8 @@ LLeira
 Laborfleisch
 Langen
 Lizenz
+Lösungen
+Lernkurve
 Ost
 OS
 Obwohl
@@ -7403,6 +7424,8 @@ OCz
 OUW
 Otb
 OrJza
+Oss
+Optimiert
 Alt
 Amerikas
 Atombindung
@@ -7778,6 +7801,8 @@ AVYklorV
 AFKgXFAZ
 AOtoA
 Ausbeute
+Aladin
+Anpassungsfähigkeit
 Griechisch
 Glauben
 Gewalt
@@ -8321,6 +8346,7 @@ weRoZqTR
 wissen
 wiegen
 wiegt
+works
 christlichen
 code
 charakterisiert
@@ -9466,6 +9492,8 @@ SJeQjoNK
 Stoffmenge
 Standart
 Stabilität
+Schwere
+Systemanforderungen
 Handel
 Hygiene
 Halbleiter
@@ -9708,6 +9736,7 @@ HncazxM
 HHx
 HJx
 Haben
+Hohe
 an
 auf
 aus
@@ -10083,6 +10112,8 @@ aeCSzfgJ
 arugment
 asofjsaifjsdf
 asf
+alternativen
+auffindbar
 oft
 oder
 os
@@ -10494,6 +10525,9 @@ NPk
 NeM
 NLL
 NPjB
+Niedrige
+Neustarts
+Notwendig
 Infizierte
 Indium
 Instanz
@@ -10994,6 +11028,7 @@ puk
 pwq
 pFH
 pRmlhQW
+problemlos
 reiches
 real
 running
@@ -11527,6 +11562,7 @@ hZt
 hignt
 helfen
 hosten
+hinausgeht
 Bananen
 Buch
 Beschreiben
@@ -12109,6 +12145,7 @@ VTK
 Viehzucht
 Vergelich
 Vor
+Viel
 je
 jeder
 jeweils
@@ -12251,6 +12288,7 @@ jrrABz
 ältere
 äußere
 äußeren
+älteren
 linke
 liefern
 leeres
