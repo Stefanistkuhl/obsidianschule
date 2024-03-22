@@ -31,4 +31,5 @@
 	- Keine Bindung an Properitäre Software, die es erschwert einene Oss alternative zu nutzen
 - Einfache Verwaltung von Konfigurationen
 	- Da alles in Config Datein ist, kann man mit git diese Verwaltung und einfach zu älteren Version Wiederherzustellen. 
-- 
+- Niedrige Systemanforderungen
+	- Der Nutzer kann so viel 
