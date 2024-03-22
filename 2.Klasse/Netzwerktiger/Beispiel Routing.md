@@ -24,3 +24,5 @@ R3 Routing Tabelle
 | 10.0.1.0/24 | 172.16.3.4 |
 > Router 4 braucht keinen Eintrag in der Routing Tabelle, da er im einem Lan mit PC-B ist und deshalb das Ziel schon kennt.
 
+PC-B → PC-A in 5 Hops
+
