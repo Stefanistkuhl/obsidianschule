@@ -43,4 +43,6 @@
 - Steile Lernkurve 
 ---
 ### Fazit
-- 
+- Philosophische Entscheidung
+	- Open Source oder nicht das ist die Frage
+	- 
