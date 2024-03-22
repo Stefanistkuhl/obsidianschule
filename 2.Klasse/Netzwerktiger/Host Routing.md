@@ -18,6 +18,7 @@ tags:
 PC-A → PC-B
 PC-A Routing Tabelle
 
-|     |     |
-| --- | --- |
-|     |     |
+| Ziel Netz             | Next Hop |
+| --------------------- | -------- |
+| 0.0.0.0/0 (unbekannt) | 10.0.0.1 |
+|                       |          |
