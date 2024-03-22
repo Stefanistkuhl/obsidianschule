@@ -1354,6 +1354,7 @@ Eisenoxid
 Edition
 Einfacher
 EUP
+Eintrag
 Das
 Dasselbe
 Diode
@@ -6432,6 +6433,7 @@ Rwo
 Ruf
 RLYnb
 RYHaK
+Routing
 vor
 verbreiten
 vom
@@ -10555,6 +10557,8 @@ NPjB
 Niedrige
 Neustarts
 Notwendig
+Netz
+Next
 Infizierte
 Indium
 Instanz
