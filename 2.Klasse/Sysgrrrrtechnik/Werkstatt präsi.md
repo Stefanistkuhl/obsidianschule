@@ -44,3 +44,4 @@
 ### Fazit
 - Open Source und anpassen → Linux
 - Just works und Benutzerfreundlichkeit aber dafür teurer und komplizierter sobald man über die "beabsichtigten" hinausgeht → Windows
+--- 
