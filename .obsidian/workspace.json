@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/Standard Gateway.md",
+                "file": "2.Klasse/Netzwerktiger/Host Routing.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/Standard Gateway.md",
+                "file": "2.Klasse/Netzwerktiger/Host Routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/Standard Gateway.md"
+                "file": "2.Klasse/Netzwerktiger/Host Routing.md"
               }
             }
           },
@@ -183,6 +183,8 @@
   },
   "active": "54734a87545b2ce9",
   "lastOpenFiles": [
+    "2.Klasse/Netzwerktiger/Host Routing.md",
+    "2.Klasse/Netzwerktiger/Standard Gateway.md",
     "2.Klasse/Netzwerktiger/Arp.md",
     "2.Klasse/Netzwerktiger/Layer 3.md",
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
@@ -213,8 +215,6 @@
     "bilder/Pasted image 20240313215213.png",
     "bilder/Pasted image 20240313214624.png",
     "bilder/Pasted image 20240313214616.png",
-    "2.Klasse/Ipt/bwl v2.md",
-    "2.Klasse/Sysgrrrrtechnik/Zeiger und liniendiagramm einer Spule.md",
     "bilder/Pasted Image 20240315152110_533.png",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/asjifjsdjgds.pkt~",
     "bilder/Pasted Image 20240315145648_786.png",
