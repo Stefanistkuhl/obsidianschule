@@ -11,8 +11,7 @@
 ---
 
 ### Windows Server Vorteile
-
-- it jsut wo
+- it just works
 ---
 ### Windows Server Nachteile
 - Kosten 
@@ -44,5 +43,5 @@
 ---
 ### Fazit
 - Philosophische Entscheidung
-	- Open Source oder nicht das ist die Frage
-	- 
+	- Open Source und anpassen 
+	- Just works aber dafür Teu
