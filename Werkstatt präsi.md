@@ -20,4 +20,6 @@
 		- Datacenter Edition ~ ab 1000€ 
 - Ressourcen Intensiv
 	- Windows Server braucht bessere Hardware → Mehr Kosten
-		- Deswegen auch 
+		- Deswegen auch teuer in der Cloud zu hosten
+- Stabilität
+	- Bluescreen 
