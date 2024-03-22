@@ -39,4 +39,5 @@
 	- Große Community → sehr gute Dokumentation und viele Problem Lösugen auffindbar
 ---
 ### Linux Server Nachteile
-- 
+- Steile Lernkurve 
+	- 
