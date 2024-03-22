@@ -36,4 +36,4 @@
 - Stabilität
 	- Neustarts für Änderungen nur sehr selten Notwendig → mehr Uptime
 - Community
-	- 
+	- Große Community → viele Probleme D
