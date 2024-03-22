@@ -33,12 +33,18 @@ PC-B Routing Tabelle
 |                       |          |
 R4 Routing Tabelle
 
-| Ziel Netz   | Next Hop    |
-| ----------- | ----------- |
-| 10.0.0.0/24 | 172.16.10.3 |
+| Ziel Netz   | Next Hop   |
+| ----------- | ---------- |
+| 10.0.0.0/24 | 172.16.2.4 |
 R3 Routing Tabelle
 
 | Ziel Netz       | Next Hop   |
 | --------------- | ---------- |
-| 10.0.0.0/24<br> | 172.16.3.4 |
+| 10.0.0.0/24<br> | 172.16.2.3 |
 
+
+R3 Routing Tabelle
+
+| Ziel Netz       | Next Hop   |
+| --------------- | ---------- |
+| 10.0.0.0/24<br> | 172.16.2.3 |
