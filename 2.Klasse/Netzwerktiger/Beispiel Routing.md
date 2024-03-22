@@ -35,7 +35,7 @@ R4 Routing Tabelle
 
 | Ziel Netz   | Next Hop   |
 | ----------- | ---------- |
-| 10.0.0.0/24 | 172.16.2.4 |
+| 10.0.0.0/24 | 172.16.4.2 |
 R3 Routing Tabelle
 
 | Ziel Netz       | Next Hop   |
