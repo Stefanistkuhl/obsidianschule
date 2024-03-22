@@ -15,7 +15,7 @@
 - Kompatibilität
 	- Man kann so gut wie jede Antike exe problemlos ausführen
 ---
-### Windows Server Nachteile
+Windows Server Nachteile
 - Kosten 
 	- Lizenz
 		- Standard Edition ~ 120€
@@ -27,7 +27,7 @@
 	- Muss oft neugestartet werden und Windows hat generell keinen guten Ruf in Stabilität
 -	Schwere Verwaltung von Konfigurationen
 ---
-### Linux Server Vorteile
+Linux Server Vorteile
 - Open Source
 	- Hohe Flexibilität und Anpassungsfähigkeit
 	- Keine Bindung an Proprietäre Software, die es erschwert eigene Oss alternativen zu nutzen
@@ -40,12 +40,12 @@
 - Community
 	- Große Community → sehr gute Dokumentation und viele Problem Lösungen auffindbar
 ---
-### Linux Server Nachteile
+Linux Server Nachteile
 - Steile Lernkurve 
 - Software Kompatibilität
 	- Viel alte Software, die für Windows entwickelt wurde funktioniert nicht.
 ---
-### Fazit
+Fazit
 - Open Source und anpassen → Linux
 - Just works und Benutzerfreundlichkeit aber dafür teurer und komplizierter sobald man über die "beabsichtigten" hinausgeht → Windows
 --- 
