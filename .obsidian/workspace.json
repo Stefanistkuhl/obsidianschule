@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9b3ff9cad9845516",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Zeichnungen/DR22-03-2024-14.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/Host Routing.md",
+                "file": "Zeichnungen/DR22-03-2024-14.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +150,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/Host Routing.md"
+                "file": "Zeichnungen/DR22-03-2024-14.excalidraw.md"
               }
             }
           },
@@ -181,9 +192,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "54734a87545b2ce9",
+  "active": "9b3ff9cad9845516",
   "lastOpenFiles": [
     "2.Klasse/Netzwerktiger/Host Routing.md",
+    "Zeichnungen/DR22-03-2024-14.excalidraw.md",
     "2.Klasse/Netzwerktiger/Standard Gateway.md",
     "2.Klasse/Netzwerktiger/Arp.md",
     "2.Klasse/Netzwerktiger/Layer 3.md",
@@ -211,7 +223,6 @@
     "templates/Medientiger.md",
     "2.Klasse/Medt/medt v2.md",
     "2.Klasse/Sysgrrrrtechnik/Rom.md",
-    "2.Klasse/Sysgrrrrtechnik/Ram.md",
     "bilder/Pasted image 20240313215213.png",
     "bilder/Pasted image 20240313214624.png",
     "bilder/Pasted image 20240313214616.png",
