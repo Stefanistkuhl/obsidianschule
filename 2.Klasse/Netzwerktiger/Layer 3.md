@@ -1,4 +1,8 @@
-#2te_Klasse #nwt
+---
+tags:
+  - 2te_Klasse
+  - nwt
+---
 - Protokolle: 
 	- Ipv4, Ipv6, Arp (Adress Resulution Protocol) Ip(Internetprotocol)
 - Adressen: Ipv4-Adressen

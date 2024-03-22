@@ -1,4 +1,8 @@
-#2te_Klasse #nwt 
+---
+tags:
+  - 2te_Klasse
+  - nwt
+---
 
 > 1. Router im lokalen Netzwerk
 > 1. Anlaufstelle in andere Netzwerke
