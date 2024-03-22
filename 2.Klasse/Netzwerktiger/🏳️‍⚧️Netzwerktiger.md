@@ -23,15 +23,15 @@ tags:
 
 <mark style="background: #FFB8EBA6;">Osi 7 Schiten Modell</mark>
 
-| Name | Erklärung idk useless ig xd |
-| ---- | --------- |
-|    Application  |           |
-| Presentation     |           |
-| Session     |           |
-|   Transport   |           |
-|  Network    |          Mehrere Netzwerke verbinden |
-|   Data-Link   |      Mehre Geräte in einem Netzwerk verbinden     |
-|   Physical   |  Datenübertragen         |
+| Name         | Erklärung idk useless ig xd              |
+| ------------ | ---------------------------------------- |
+| Application  |                                          |
+| Presentation |                                          |
+| Session      |                                          |
+| Transport    |                                          |
+| Network      | Mehrere Netzwerke verbinden              |
+| Data-Link    | Mehre Geräte in einem Netzwerk verbinden |
+| Physical     | Datenübertragen                          |
 
 #### <mark style="background: #FFB8EBA6;">Physical</mark>
 
