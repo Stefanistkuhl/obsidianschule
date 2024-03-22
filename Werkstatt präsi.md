@@ -1,11 +1,8 @@
-### Warum linux besser ist als Windoof für Server
+### Warum linux besser ist als Windows für Server
 
 ---
 ### Konfiguration verwalten geht nicht 
-- asofjsaifjsdf
-- asf.sdf
-	- sdgdghadufhjs
-		- dgjsdjgki
+- 
 ---
 ### Quizfrage: Was ist einfacher zu verwalten:
 ---
