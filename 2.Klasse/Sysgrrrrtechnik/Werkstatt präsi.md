@@ -1,8 +1,8 @@
-### Vergleich zwischen Windows Server und Linux 
+Vergleich zwischen Windows Server und Linux 
 
 - von Aladin, Boschi und Stefan
 ---
-### Inhaltsverzeichnis
+Inhaltsverzeichnis
 
 - Vor und Nachteile
 	- Windows
@@ -10,7 +10,7 @@
 - Fazit
 ---
 
-### Windows Server Vorteile
+ Windows Server Vorteile
 - Einfacher zu benutzen
 - Kompatibilität
 	- Man kann so gut wie jede Antike exe problemlos ausführen
@@ -46,6 +46,7 @@ Linux Server Nachteile
 	- Viel alte Software, die für Windows entwickelt wurde funktioniert nicht.
 ---
 Fazit
+
 - Open Source und anpassen → Linux
 - Just works und Benutzerfreundlichkeit aber dafür teurer und komplizierter sobald man über die "beabsichtigten" hinausgeht → Windows
 --- 
