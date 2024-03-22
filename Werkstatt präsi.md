@@ -28,6 +28,7 @@
 ### Linux Server Vorteile
 - Open Source
 	- Hohe Flexibilität und Anpassungsfähigkeit
-	- Keine Bindung an Properitäre Software, die es erschwert einene Oss alternative zu nuetzen
+	- Keine Bindung an Properitäre Software, die es erschwert einene Oss alternative zu nutzen
 - Einfache Verwaltung von Konfigurationen
-	- Da alles in Config Datein ist, kann man 
+	- Da alles in Config Datein ist, kann man mit git diese Verwaltung und einfach zu älteren Version Wiederherzustellen. 
+- 
