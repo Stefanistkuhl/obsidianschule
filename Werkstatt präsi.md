@@ -16,5 +16,5 @@
 ### Windows Server Nachteile
 - Kosten 
 	- Lizenz
-		- Standart Edition ~ 30€
+		- Standart Edition ~ 120€
 		- Datacenter Edition ~  
