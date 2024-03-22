@@ -20,6 +20,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "b5fec529e442c582",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "721e63c3f176c8de",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,6 +197,7 @@
   },
   "active": "7c87340f0879db9f",
   "lastOpenFiles": [
+    "bilder/Pasted image 20240322083354.png",
     "bilder/Pasted image 20240322083132.png",
     "bilder/Pasted image 20240322082942.png",
     "conflict-files-obsidian-git.md",
@@ -224,7 +239,6 @@
     "bilder/Pflichtenheft bsp.pdf",
     "bilder/Pasted image 20240303182844.png",
     "bilder/Pasted image 20240303143831.png",
-    "bilder/Pasted image 20240227172103.png",
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/Fürst_Frame_Analyse_Wireshark.pdf",
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/~WRD0149.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/~WRL2042.tmp",
