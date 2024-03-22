@@ -11,9 +11,11 @@
             "id": "5e83b34ab7d7d7d4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md"
+                "file": "2.Klasse/Netzwerktiger/Beispiel Routing.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md",
+                "file": "2.Klasse/Netzwerktiger/Beispiel Routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md"
+                "file": "2.Klasse/Netzwerktiger/Beispiel Routing.md"
               }
             }
           },
@@ -181,6 +183,7 @@
   },
   "active": "5e83b34ab7d7d7d4",
   "lastOpenFiles": [
+    "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md",
     "2.Klasse/Netzwerktiger/Beispiel Routing.md",
     "Zeichnungen/DR22-03-2024-14.excalidraw.md",
     "2.Klasse/Netzwerktiger/Host Routing.md",
@@ -209,7 +212,6 @@
     "2.Klasse/Medt/Gestaltung von Webseiten.md",
     "2.Klasse/Medt/Formaler Aufbau-Layout.md",
     "templates/Medientiger.md",
-    "2.Klasse/Medt/medt v2.md",
     "bilder/Pasted image 20240313215213.png",
     "bilder/Pasted image 20240313214624.png",
     "bilder/Pasted image 20240313214616.png",
