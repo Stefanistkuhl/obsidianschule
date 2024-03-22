@@ -1675,6 +1675,7 @@ DRR
 DoHN
 DplWgfxn
 Datacenter
+Deswegen
 Problem
 Pest
 Portugal
@@ -5316,6 +5317,7 @@ ned
 nGf
 nBd
 nHsHm
+neugestartet
 Christus
 Christianisierung
 Christentum
@@ -9463,6 +9465,7 @@ SUA
 SJeQjoNK
 Stoffmenge
 Standart
+Stabilität
 Handel
 Hygiene
 Halbleiter
@@ -11523,6 +11526,7 @@ hvef
 hZt
 hignt
 helfen
+hosten
 Bananen
 Buch
 Beschreiben

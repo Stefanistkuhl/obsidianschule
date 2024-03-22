@@ -22,4 +22,6 @@
 	- Windows Server braucht bessere Hardware → Mehr Kosten
 		- Deswegen auch teuer in der Cloud zu hosten
 - Stabilität
-	- Bluescreen 
+	- Muss oft neugestartet werden und Windows hat generell keinen guten Ruf in stabilität
+	---
+	k
