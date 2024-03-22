@@ -28,4 +28,4 @@
 ### Linux Server Vorteile
 - Open Source
 	- Hohe Flexibilität und Anpassungsfähigkeit
-	- Viele Distros
+	- Viele Distros je
