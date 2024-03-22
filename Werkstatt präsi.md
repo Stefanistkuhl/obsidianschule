@@ -32,4 +32,4 @@
 - Einfache Verwaltung von Konfigurationen
 	- Da alles in Config Datein ist, kann man mit git diese Verwaltung und einfach zu älteren Version Wiederherzustellen. 
 - Niedrige Systemanforderungen
-	- Der Nutzer kann so viel 
+	- Der Nutzer kann so viel ausschalten/optmieren wie er will 
