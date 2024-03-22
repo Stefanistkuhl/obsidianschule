@@ -498,6 +498,7 @@ KKK
 Kapazitiver
 Kilogramm
 Kupfergewinnung
+Konfiguration
 ggp
 genauen
 gibt
@@ -2904,6 +2905,7 @@ ddf
 de
 dRAh
 dcJ
+dgjsdjgki
 es
 entstanden
 entstehen
@@ -3716,6 +3718,8 @@ saTcePo
 schmückt
 signaliesiert
 schreit
+sdf
+sdgdghadufhjs
 und
 um
 ungefähr
@@ -6330,7 +6334,6 @@ Rechen
 Registerlänge
 Rate
 Refreshing
-Regel
 Read
 ROM
 RkIXH
@@ -6672,6 +6675,7 @@ vuu
 vermindern
 verbreitet
 vermindert
+verwalten
 West
 Welt
 Wachstum
@@ -10069,6 +10073,8 @@ auj
 aaa
 aeCSzfgJ
 arugment
+asofjsaifjsdf
+asf
 oft
 oder
 os
@@ -12618,6 +12624,7 @@ Qhq
 Qay
 QDtdw
 Qdfo
+Quizfrage
 überall
 übersetzt
 übernehmen
