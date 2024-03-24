@@ -11,8 +11,12 @@
             "id": "8195b7c584120132",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2.Klasse/Netzwerktiger/Layer 3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2.Klasse/Netzwerktiger/Layer 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2.Klasse/Netzwerktiger/Layer 3.md"
+              }
             }
           },
           {
@@ -176,6 +183,7 @@
   },
   "active": "8195b7c584120132",
   "lastOpenFiles": [
+    "2.Klasse/Netzwerktiger/Layer 3.md",
     "2.Klasse/Netzwerktiger/asijdiasjdfiasjfiasjfasf.md",
     "Zeichnungen/DR24-03-2024-02.excalidraw.md",
     "Zeichnungen/DR24-03-2024-20.excalidraw.md",
@@ -186,7 +194,6 @@
     "2.Klasse/Netzwerktiger/Host Routing.md",
     "2.Klasse/Netzwerktiger/Standard Gateway.md",
     "2.Klasse/Netzwerktiger/Arp.md",
-    "2.Klasse/Netzwerktiger/Layer 3.md",
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
     "2.Klasse/Sysgrrrrtechnik/Werkstatt präsi.md",
     "😟Games die ich Spielen muss.md",
