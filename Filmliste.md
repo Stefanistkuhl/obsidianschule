@@ -10,6 +10,8 @@ tags:
 | Fight Club             | fertig | 8,5/10    | 16.12.2023 |
 | Batman begins          |        |           |            |
 | tennet                 |        |           |            |
+| Django Unchained       |        |           |            |
+| Prisoners              |        |           |            |
 |                        |        |           |            |
 
 # <mark style="background: #FFB8EBA6;">oida alt</mark>
