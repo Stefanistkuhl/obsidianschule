@@ -7,7 +7,7 @@ tags:
 | ---------------------- | ------ | --------- | ---------- |
 | no country for old men | fertig | fav film  | 20.11.2023 |
 | insterstellar          | fertig | 9,5/10    | 12.12.2023 |
-| Fight Club             |        |           |            |
+| Fight Club             | fertig |           |            |
 
 # <mark style="background: #FFB8EBA6;">oida alt</mark>
 
