@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - goofyahlisten
 ---
 [[Privat]]
 

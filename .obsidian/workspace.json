@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Privat/Homelab/Filmliste.md",
+                "file": "Filmliste.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "43b2197681096587",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privat/Homelab/Filmliste.md",
+                "file": "Filmliste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Privat/Homelab/Filmliste.md"
+                "file": "Filmliste.md"
               }
             }
           },
@@ -182,6 +183,9 @@
   },
   "active": "8195b7c584120132",
   "lastOpenFiles": [
+    "Elden Ring No hit run requests.md",
+    "😟Games die ich Spielen muss.md",
+    "Filmliste.md",
     "2.Klasse/Netzwerktiger/Layer 3.md",
     "2.Klasse/Netzwerktiger/asijdiasjdfiasjfiasjfasf.md",
     "Zeichnungen/DR24-03-2024-02.excalidraw.md",
@@ -195,12 +199,10 @@
     "2.Klasse/Netzwerktiger/Arp.md",
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
     "2.Klasse/Sysgrrrrtechnik/Werkstatt präsi.md",
-    "😟Games die ich Spielen muss.md",
     "bilder/Pasted image 20240322083354.png",
     "bilder/Pasted image 20240322083132.png",
     "bilder/Pasted image 20240322082942.png",
     "conflict-files-obsidian-git.md",
-    "Elden Ring No hit run requests.md",
     "2.Klasse/Deutsch/🏘️🫥Detiger.md",
     "2.Klasse/nawi/Bsp zu Chemischen Rechnungen.md",
     "2.Klasse/nawi/Chemisches Rechen.md",
@@ -210,7 +212,6 @@
     "Zeichnungen/Drawing 2024-03-20 14.46.08.excalidraw.md",
     "Zeichnungen/DR20-03-2024-33.excalidraw.md",
     "Zeichnungen/DR20-03-2024-03.excalidraw.md",
-    "2.Klasse/Medt/Farbdesign.md",
     "bilder/Pasted image 20240313215213.png",
     "bilder/Pasted image 20240313214624.png",
     "bilder/Pasted image 20240313214616.png",
