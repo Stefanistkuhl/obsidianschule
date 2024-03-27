@@ -3,9 +3,10 @@ tags:
   - goofyahlisten
 ---
 
-| name                   | status | bewertung | datum |
-| ---------------------- | ------ | --------- | ----- |
-| no country for old men | fertig |           |       |
+| name                   | status | bewertung | datum      |
+| ---------------------- | ------ | --------- | ---------- |
+| no country for old men | fertig | fav film  | 20.11.2023 |
+| insterstellar          | fertig | 9,5/10    |            |
 
 # <mark style="background: #FFB8EBA6;">oida alt</mark>
 
