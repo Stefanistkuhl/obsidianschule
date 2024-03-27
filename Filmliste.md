@@ -3,9 +3,9 @@ tags:
   - goofyahlisten
 ---
 
-| name | status | beweru |
-| ---- | ------ | ------ |
-|      |        |        |
+| name                   | status | bewertung | datum |
+| ---------------------- | ------ | --------- | ----- |
+| no country for old men | fertig |           |       |
 
 # <mark style="background: #FFB8EBA6;">oida alt</mark>
 
