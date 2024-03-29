@@ -806,8 +806,6 @@ N(25)=32303*e^{\lambda*25}=52997
 2^{x+4}=2^{2x}
 
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 4.133b)
 4.134a)
 4.134d)
