@@ -807,8 +807,6 @@ N(25)=32303*e^{\lambda*25}=52997
 (x+4)*\ln(2)=2x*\ln(2)
 
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 4.133b)
 4.134a)
 4.134d)
