@@ -802,8 +802,10 @@ N(25)=32303*e^{\lambda*25}=52997
 ```math
 ||{"id":942958592073}||
 
-
+8*2^
 ```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 4.133b)
 4.134a)
 4.134d)
