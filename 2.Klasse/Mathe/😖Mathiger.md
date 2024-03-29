@@ -674,6 +674,8 @@ T \frac{1}{2}=\frac{\ln_{2}}{\lambda}=1621 Jahre
 Prozentuelle Abnahme
 e^{-\lambda}-1=-0,0004275=-0,04\%
 ```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 4.86)
 pro h + 28%
 N0 startanz
@@ -793,4 +795,12 @@ N(25)=32303*e^{\lambda*25}=52997
 \frac{37997}{32303}=e^{\lambda*t}|\ln
 \ln(1,1762684580)=\lambda*t|:\lambda
 \frac{\ln(1,1762684580)}{\lambda}=8.2
+```
+### <mark style="background: #FFB8EBA6;">10.Hü</mark>
+
+4
+```math
+||{"id":942958592073}||
+
+
 ```
