@@ -12,6 +12,7 @@ Rollen
 	- Hauptverantworter 
 	- Finanzielle Verantwortung
 - Entscheider 
+	- nicht richtig oder flasch sonder effektiv oder bzw nicht effektiv
 - Supporter 
 - Anwender
 
