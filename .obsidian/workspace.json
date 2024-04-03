@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Farbe und Kontrast.md",
+                "file": "2.Klasse/Medt/Farbe und Kontrast.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "98cdfd509c4a150c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Zeichnungen/DR03-04-2024-47.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Farbe und Kontrast.md",
+                "file": "Zeichnungen/DR03-04-2024-47.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +150,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Farbe und Kontrast.md"
+                "file": "Zeichnungen/DR03-04-2024-47.excalidraw.md"
               }
             }
           },
@@ -181,10 +192,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8195b7c584120132",
+  "active": "98cdfd509c4a150c",
   "lastOpenFiles": [
+    "2.Klasse/Medt/Farbe und Kontrast.md",
+    "Zeichnungen/DR03-04-2024-47.excalidraw.md",
     "2.Klasse/Medt/Farbdesign.md",
-    "Farbe und Kontrast.md",
     "Überlebenswichtige Strichlisten.md",
     "2.Klasse/Medt/medt v2.md",
     "2.Klasse/Ipt/Rollen im Projektmanagment.md",
@@ -209,7 +221,6 @@
     "2.Klasse/Netzwerktiger/Beispiel Routing.md",
     "Zeichnungen/DR22-03-2024-14.excalidraw.md",
     "2.Klasse/Netzwerktiger/Host Routing.md",
-    "2.Klasse/Netzwerktiger/Standard Gateway.md",
     "bilder/Pasted image 20240322083354.png",
     "bilder/Pasted image 20240322083132.png",
     "bilder/Pasted image 20240322082942.png",
