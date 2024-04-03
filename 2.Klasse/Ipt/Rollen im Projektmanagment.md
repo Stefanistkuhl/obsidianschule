@@ -8,6 +8,9 @@ tags:
 
 Rollen
 - Genehmiger 
+	- Erlabnis 
+	- Hauptverantworter 
+	- Finanzielle Verantwortung
 - Entscheider 
 - Supporter 
 - Anwender
