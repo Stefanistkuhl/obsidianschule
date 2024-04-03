@@ -10,3 +10,4 @@ Vorgaben im [[Style Guide]] des Corporate Designs sind einzuhalten!
 
 ![[Formaler Aufbau-Layout]]
 ![[Textdesign]]
+![[Vielvalt der Bilder]]

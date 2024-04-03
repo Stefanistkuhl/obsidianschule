@@ -10,4 +10,6 @@ Für das Lesen am Bildschirm wurden spezielle Schriften entwickelt. Diese erhöh
 - Spezielle Webschriftarten (Web Fonts)
 - Gängige Schriftarten (Monospace, Arial, Helvacita oder Verdana)
 - Korrekte Schriftgrößte verwenden 
-- Maximal zwei Schirftfamilien, jeweils für Tietel und texte 
+- Maximal zwei Schirftfamilien, jeweils für Tietel und Texte 
+	- 6-8 für Bildunterschriften, Fußnoten 
+	- 9-12 übliche LEsegrößte für den Fließtext  
