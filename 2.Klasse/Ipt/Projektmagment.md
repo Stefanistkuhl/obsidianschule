@@ -17,3 +17,9 @@ tags:
 ![[4 Team Phase]]
 
 Rollen
+- Genehmiger 
+- Entscheider 
+- Supporter 
+- A
+![[DR03-04-2024-56.excalidraw]]
+

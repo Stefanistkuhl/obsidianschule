@@ -11,9 +11,11 @@
             "id": "8195b7c584120132",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Zeichnungen/DR03-04-2024-56.excalidraw.md"
+                "file": "2.Klasse/Ipt/Projektmagment.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichnungen/DR03-04-2024-56.excalidraw.md",
+                "file": "2.Klasse/Ipt/Projektmagment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Zeichnungen/DR03-04-2024-56.excalidraw.md"
+                "file": "2.Klasse/Ipt/Projektmagment.md"
               }
             }
           },
@@ -181,8 +183,10 @@
   },
   "active": "8195b7c584120132",
   "lastOpenFiles": [
-    "2.Klasse/Ipt/Projektmagment.md",
     "Zeichnungen/DR03-04-2024-56.excalidraw.md",
+    "Überlebenswichtige Strichlisten.md",
+    "2.Klasse/Sysgrrrrtechnik/Überischt Festdatenspeicher.md",
+    "2.Klasse/Ipt/Projektmagment.md",
     "Privat.md",
     "2.Klasse/Ipt/4 Team Phase.md",
     "templates/bwl.md",
@@ -199,7 +203,6 @@
     "Zeichnungen/DR24-03-2024-02.excalidraw.md",
     "Zeichnungen/DR24-03-2024-20.excalidraw.md",
     "2.Klasse/Netzwerktiger/Beispiel Routing.md",
-    "Überlebenswichtige Strichlisten.md",
     "Zeichnungen/DR22-03-2024-14.excalidraw.md",
     "2.Klasse/Netzwerktiger/Host Routing.md",
     "2.Klasse/Netzwerktiger/Standard Gateway.md",
@@ -210,7 +213,6 @@
     "bilder/Pasted image 20240322083132.png",
     "bilder/Pasted image 20240322082942.png",
     "conflict-files-obsidian-git.md",
-    "2.Klasse/Deutsch/🏘️🫥Detiger.md",
     "bilder/Pasted image 20240313215213.png",
     "bilder/Pasted image 20240313214624.png",
     "bilder/Pasted image 20240313214616.png",
