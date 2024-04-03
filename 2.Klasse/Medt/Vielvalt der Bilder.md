@@ -9,4 +9,4 @@ Webseiten können mit vier verschiedennen Typen von Bildern sinnvoll und ästhet
 - fotografische Abbildungen
 - Schaubilder 
 - Diagramme 
-- auflockernde Elemente, sogennate Stim
+- auflockernde Elemente, sogennate Stimulanzien und Textdarstsellungen
