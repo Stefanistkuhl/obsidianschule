@@ -11,9 +11,11 @@
             "id": "8195b7c584120132",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md"
+                "file": "2.Klasse/Ipt/Projektmagment.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md",
+                "file": "2.Klasse/Ipt/Projektmagment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md"
+                "file": "2.Klasse/Ipt/Projektmagment.md"
               }
             }
           },
@@ -181,10 +183,11 @@
   },
   "active": "8195b7c584120132",
   "lastOpenFiles": [
+    "2.Klasse/Ipt/bwl v2.md",
+    "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/asjifjsdjgds.pkt~",
     "2.Klasse/Mathe/😖Mathiger.md",
     "templates/mathe.md",
-    "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md",
     "Filmliste.md",
     "Elden Ring No hit run requests.md",
     "😟Games die ich Spielen muss.md",
