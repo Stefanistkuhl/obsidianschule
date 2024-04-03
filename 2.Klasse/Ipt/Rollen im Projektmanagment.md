@@ -16,6 +16,6 @@ Rollen
 - Supporter 
 - Anwender
 
-
+Genehmiger ←→ Entscheider
 
 Bsp Hausbau
