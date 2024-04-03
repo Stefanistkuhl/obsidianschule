@@ -9,3 +9,4 @@ ist das wichtigste Gestaltungsmittel
 - Farben wirken in unterschiedlichen Umgebungen unterschiedlich 
 - Farbe hat immer eine bestimmt Botschaft. 
 - Farbe ist indentitätsstiftend. (Bsp Milka)
+![[Farbe und Kontrast]]

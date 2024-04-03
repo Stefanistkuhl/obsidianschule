@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Medt/Farbdesign.md",
+                "file": "Farbe und Kontrast.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Medt/Farbdesign.md",
+                "file": "Farbe und Kontrast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Medt/Farbdesign.md"
+                "file": "Farbe und Kontrast.md"
               }
             }
           },
@@ -183,8 +183,9 @@
   },
   "active": "8195b7c584120132",
   "lastOpenFiles": [
-    "Überlebenswichtige Strichlisten.md",
     "2.Klasse/Medt/Farbdesign.md",
+    "Farbe und Kontrast.md",
+    "Überlebenswichtige Strichlisten.md",
     "2.Klasse/Medt/medt v2.md",
     "2.Klasse/Ipt/Rollen im Projektmanagment.md",
     "2.Klasse/Ipt/Projektmagment.md",
@@ -209,7 +210,6 @@
     "Zeichnungen/DR22-03-2024-14.excalidraw.md",
     "2.Klasse/Netzwerktiger/Host Routing.md",
     "2.Klasse/Netzwerktiger/Standard Gateway.md",
-    "2.Klasse/Netzwerktiger/Arp.md",
     "bilder/Pasted image 20240322083354.png",
     "bilder/Pasted image 20240322083132.png",
     "bilder/Pasted image 20240322082942.png",
