@@ -9,3 +9,5 @@ Für das Lesen am Bildschirm wurden spezielle Schriften entwickelt. Diese erhöh
 - Serifenlose Schriftarten (Sans Serif)
 - Spezielle Webschriftarten (Web Fonts)
 - Gängige Schriftarten (Monospace, Arial, Helvacita oder Verdana)
+- Korrekte Schriftgrößte verwenden 
+- Maximal zwei Schirftfamilien, jeweils für Tietel und texte 
