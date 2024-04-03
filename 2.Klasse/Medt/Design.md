@@ -9,3 +9,4 @@ Vorgaben im [[Style Guide]] des Corporate Designs sind einzuhalten!
 ![[Usability]]
 
 ![[Formaler Aufbau-Layout]]
+![[Textdesign]]

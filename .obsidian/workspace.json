@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Medt/Farbe und Kontrast.md",
+                "file": "2.Klasse/Medt/Textdesign.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "98cdfd509c4a150c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Zeichnungen/DR03-04-2024-47.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichnungen/DR03-04-2024-47.excalidraw.md",
+                "file": "2.Klasse/Medt/Textdesign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Zeichnungen/DR03-04-2024-47.excalidraw.md"
+                "file": "2.Klasse/Medt/Textdesign.md"
               }
             }
           },
@@ -192,8 +181,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "98cdfd509c4a150c",
+  "active": "8195b7c584120132",
   "lastOpenFiles": [
+    "2.Klasse/Medt/Design.md",
+    "2.Klasse/Medt/Textdesign.md",
+    "2.Klasse/Medt/Gestaltung von Webseiten.md",
     "2.Klasse/Medt/Farbe und Kontrast.md",
     "Zeichnungen/DR03-04-2024-47.excalidraw.md",
     "2.Klasse/Medt/Farbdesign.md",
@@ -218,9 +210,6 @@
     "2.Klasse/Netzwerktiger/asijdiasjdfiasjfiasjfasf.md",
     "Zeichnungen/DR24-03-2024-02.excalidraw.md",
     "Zeichnungen/DR24-03-2024-20.excalidraw.md",
-    "2.Klasse/Netzwerktiger/Beispiel Routing.md",
-    "Zeichnungen/DR22-03-2024-14.excalidraw.md",
-    "2.Klasse/Netzwerktiger/Host Routing.md",
     "bilder/Pasted image 20240322083354.png",
     "bilder/Pasted image 20240322083132.png",
     "bilder/Pasted image 20240322082942.png",

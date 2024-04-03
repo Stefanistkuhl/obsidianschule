@@ -7015,6 +7015,7 @@ Wichtigen
 Warum
 Wanted
 Waffe
+Wirkung
 Latein
 Leute
 Läuse
@@ -9804,6 +9805,7 @@ Hohe
 HHyBP
 Hop
 Hatchet
+Helligkeitsunderscheid
 an
 auf
 aus
