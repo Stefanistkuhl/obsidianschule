@@ -1359,6 +1359,7 @@ EUP
 Eintrag
 Elden
 Entscheider
+Einheiten
 Das
 Dasselbe
 Diode
@@ -5147,6 +5148,7 @@ FnKu
 Flamberge
 Fallingstar
 Forked
+Forat
 nach
 neue
 negativen
@@ -9821,6 +9823,7 @@ HHyBP
 Hop
 Hatchet
 Helligkeitsunderscheid
+Henry
 an
 auf
 aus
