@@ -23,4 +23,4 @@ tags:
 	- ![[Zeiger und liniendiagramm einer Spule]]
 
 ![[Kapazitiver Bildwiderstand]]
-![[Wh Komplexer Wiederstand, Kondenstator]]
+![[Wh Komplexer Wiederstand, Impedanzen]]

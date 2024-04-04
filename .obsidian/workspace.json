@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Wh Komplexer Wiederstand, Kondenstator.md",
+                "file": "2.Klasse/Sysgrrrrtechnik/Wh Komplexer Wiederstand, Impedanzen.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Wh Komplexer Wiederstand, Kondenstator.md",
+                "file": "2.Klasse/Sysgrrrrtechnik/Wh Komplexer Wiederstand, Impedanzen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Wh Komplexer Wiederstand, Kondenstator.md"
+                "file": "2.Klasse/Sysgrrrrtechnik/Wh Komplexer Wiederstand, Impedanzen.md"
               }
             }
           },
@@ -184,7 +184,7 @@
   "active": "8195b7c584120132",
   "lastOpenFiles": [
     "2.Klasse/Sysgrrrrtechnik/Wechselstrom Komponenten.md",
-    "2.Klasse/Sysgrrrrtechnik/Wh Komplexer Wiederstand, Kondenstator.md",
+    "2.Klasse/Sysgrrrrtechnik/Wh Komplexer Wiederstand, Impedanzen.md",
     "2.Klasse/Sysgrrrrtechnik/Wechselstromtechnik.md",
     "2.Klasse/Sysgrrrrtechnik/grrrrrlektrotechnik v2 mit sin.md",
     "templates/syt_elektro.md",
