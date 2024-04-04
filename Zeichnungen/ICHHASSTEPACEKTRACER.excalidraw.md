@@ -4124,10 +4124,10 @@ LAN26 ^XsPmGSi1
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 465.57260600001126,
-		"scrollY": 322.2488982743729,
+		"scrollX": 461.29617627402615,
+		"scrollY": 318.1265838212477,
 		"zoom": {
-			"value": 1.4500000000000002
+			"value": 1.4000000000000001
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
