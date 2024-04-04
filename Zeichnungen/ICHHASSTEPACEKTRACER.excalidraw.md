@@ -127,10 +127,10 @@ LAN26 ^XsPmGSi1
 		{
 			"id": "s5UqOBuPntFHLtW9fyTwB",
 			"type": "image",
-			"x": -422.974802366046,
+			"x": -422.97480236604605,
 			"y": -276.41031847824297,
-			"width": 922.9219843268967,
-			"height": 421.0831553491467,
+			"width": 922.9219843268968,
+			"height": 421.08315534914664,
 			"angle": 0,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
@@ -4107,39 +4107,6 @@ LAN26 ^XsPmGSi1
 			"originalText": "LAN26",
 			"lineHeight": 1.25,
 			"baseline": 5
-		},
-		{
-			"type": "image",
-			"version": 238,
-			"versionNonce": 1639738848,
-			"isDeleted": true,
-			"id": "P8Semx3BXHp9ic58h05Aa",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "dashed",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -403.8816781038693,
-			"y": -268.56531683426323,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
-			"width": 873.9007965003108,
-			"height": 409.6409983595207,
-			"seed": 283582606,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1712226561954,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "542816816ea60f56fd33d3d3fcf0ebef7609ff76",
-			"scale": [
-				1,
-				1
-			]
 		}
 	],
 	"appState": {
@@ -4157,10 +4124,10 @@ LAN26 ^XsPmGSi1
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 577.1853610741671,
-		"scrollY": 362.2188344841916,
+		"scrollX": 465.57260600001126,
+		"scrollY": 322.2488982743729,
 		"zoom": {
-			"value": 1.3197166197407733
+			"value": 1.4500000000000002
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
