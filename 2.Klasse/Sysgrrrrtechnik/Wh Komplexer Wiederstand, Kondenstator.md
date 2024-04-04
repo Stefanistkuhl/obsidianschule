@@ -4,4 +4,4 @@ tags:
   - syt
   - syt_elektro
 ---
-Ohmschwer Wiederstand: R$$$$ 
+Ohmschwer Wiederstand: R$$\\underline{Z}$$ 
