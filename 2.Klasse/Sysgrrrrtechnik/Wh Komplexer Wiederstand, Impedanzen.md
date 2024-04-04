@@ -11,6 +11,6 @@ Einheiten
 [U]=V
 [I]=A
 [Z]=[R]=Ω
-[L]=H
-[C]=
+[L]=H...Henry
+[C]=F..Forat
 ![[DR04-04-2024-45.excalidraw]]
