@@ -7485,6 +7485,7 @@ Otb
 OrJza
 Oss
 Optimiert
+Ohmschwer
 Alt
 Amerikas
 Atombindung
@@ -11974,6 +11975,7 @@ BBejjL
 Behauptung
 BRjave
 Bildern
+Blindwiederstand
 Voraussetzungen
 Valenziabrücken
 Vekehrswesen
