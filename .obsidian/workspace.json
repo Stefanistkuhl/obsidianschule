@@ -11,9 +11,11 @@
             "id": "3d6ab5ded6c75e98",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md"
+                "file": "Überlebenswichtige Strichlisten.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md",
+                "file": "Überlebenswichtige Strichlisten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md"
+                "file": "Überlebenswichtige Strichlisten.md"
               }
             }
           },
@@ -181,6 +183,10 @@
   },
   "active": "3d6ab5ded6c75e98",
   "lastOpenFiles": [
+    "2.Klasse/Sysgrrrrtechnik/Überischt Festdatenspeicher.md",
+    "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md",
+    "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/Fürst_Pkt.pkt",
+    "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/Fürst_Protokoll.docx",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/asjifjsdjgds.pkt~",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/oida.docx",
     "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.png",
@@ -205,7 +211,6 @@
     "2.Klasse/Ipt/Rollen im Projektmanagment.md",
     "2.Klasse/Ipt/Projektmagment.md",
     "Zeichnungen/DR03-04-2024-56.excalidraw.md",
-    "2.Klasse/Sysgrrrrtechnik/Überischt Festdatenspeicher.md",
     "Privat.md",
     "2.Klasse/Ipt/4 Team Phase.md",
     "templates/bwl.md",
@@ -224,9 +229,6 @@
     "Untitled 1",
     "bilder/Pflichtenheft bsp.pdf",
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/Fürst_Frame_Analyse_Wireshark.pdf",
-    "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/~WRD0149.tmp",
-    "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/~WRL2042.tmp",
-    "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/~WRD2011.tmp",
     "Untitled.canvas",
     "Zeichnungen/Untitled.canvas"
   ]
