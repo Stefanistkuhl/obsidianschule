@@ -4,4 +4,5 @@ tags:
   - syt
   - syt_elektro
 ---
-Ohmschwer Wiederstand: R$$\\underline{Z}$$ 
+Ohmschwer Wiederstand: R$$\underline{Z}_{R}=R=R\angle 0°$$ 
+Blindwiederstand: L $$\\underline{}$$
