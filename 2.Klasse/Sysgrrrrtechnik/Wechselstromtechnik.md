@@ -17,3 +17,5 @@ tags:
 
 ![[Zeiger und liniendiagramm]]
 ![[Wechselstrom Komponenten]]
+
+![[Wechselstrombsp idk no lol]]
