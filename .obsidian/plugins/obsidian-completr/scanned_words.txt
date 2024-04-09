@@ -1360,6 +1360,7 @@ Eintrag
 Elden
 Entscheider
 Einheiten
+Erlabnis
 Das
 Dasselbe
 Diode
@@ -3309,6 +3310,7 @@ ebef
 erschwert
 extrem
 emu
+effektiv
 Übergange
 Übergänge
 Übergang
@@ -4618,6 +4620,7 @@ fsd
 fav
 film
 fotografische
+flasch
 mark
 mit
 mangelnder
@@ -5149,6 +5152,7 @@ Flamberge
 Fallingstar
 Forked
 Forat
+Finanzielle
 nach
 neue
 negativen
@@ -9824,6 +9828,7 @@ Hop
 Hatchet
 Helligkeitsunderscheid
 Henry
+Hauptverantworter
 an
 auf
 aus
@@ -12250,6 +12255,7 @@ VZjf
 VebuFzY
 VTEPEdtr
 Vorschläger
+Verantwortung
 je
 jeder
 jeweils

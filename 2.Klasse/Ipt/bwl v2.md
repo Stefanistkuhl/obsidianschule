@@ -3,3 +3,4 @@
 
 ![[Vision]]
 ![[Projektmagment]]
+![[Monetäre Ziele]]
