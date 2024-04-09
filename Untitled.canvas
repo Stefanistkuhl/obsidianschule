@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"a7d0e13af332c902","x":-87,"y":-4,"width":250,"height":60,"type":"text","text":""},
+		{"id":"123c4b6f1e1981b8","x":-220,"y":-160,"width":250,"height":60,"type":"text","text":"[[Rollen im Projektmanagment|Rollen]]"},
+		{"id":"cdfc1d6acff4f890","x":-440,"y":0,"width":250,"height":60,"type":"text","text":"Monetäre Ziele"}
+	],
+	"edges":[]
+}

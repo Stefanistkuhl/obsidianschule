@@ -6198,6 +6198,8 @@ Milka
 Münzen
 Münze
 Most
+Mone
+Monetäre
 Rom
 Ratten
 Römischen
@@ -8422,6 +8424,7 @@ wiegt
 works
 wZsWlKtY
 waffen
+width
 christlichen
 code
 charakterisiert
@@ -8669,6 +8672,7 @@ chZnu
 coole
 crystal
 cfEDlBlm
+cdfc
 zu
 zum
 zur
@@ -10210,6 +10214,7 @@ axgbie
 asdijasidjasidjiasdfj
 any
 auflockernde
+acff
 oft
 oder
 os
@@ -11665,6 +11670,7 @@ helfen
 hosten
 hinausgeht
 hfLV
+height
 Bananen
 Buch
 Beschreiben

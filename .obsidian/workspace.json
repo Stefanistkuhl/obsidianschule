@@ -11,11 +11,14 @@
             "id": "3d6ab5ded6c75e98",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2.Klasse/Ipt/Monetäre Ziele.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Ipt/Monetäre Ziele.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +142,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Ipt/Monetäre Ziele.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -183,8 +186,9 @@
   },
   "active": "3d6ab5ded6c75e98",
   "lastOpenFiles": [
-    "2.Klasse/Ipt/bwl v2.md",
     "2.Klasse/Ipt/Monetäre Ziele.md",
+    "Untitled.canvas",
+    "2.Klasse/Ipt/bwl v2.md",
     "2.Klasse/Ipt/Rollen im Projektmanagment.md",
     "Überlebenswichtige Strichlisten.md",
     "2.Klasse/Sysgrrrrtechnik/Wechselstromtechnik.md",
@@ -217,7 +221,6 @@
     "2.Klasse/Ipt/Projektmagment.md",
     "Zeichnungen/DR03-04-2024-56.excalidraw.md",
     "Privat.md",
-    "2.Klasse/Ipt/4 Team Phase.md",
     "bilder/Pasted image 20240322083354.png",
     "bilder/Pasted image 20240322083132.png",
     "bilder/Pasted image 20240322082942.png",
@@ -229,7 +232,6 @@
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/asjifjsdjgds.pkt",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol",
     "templates",
-    "Untitled.canvas",
     "Zeichnungen/Untitled.canvas"
   ]
 }
