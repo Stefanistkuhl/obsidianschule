@@ -11,14 +11,11 @@
             "id": "beb3c72f718a21a3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "2.Klasse/Ipt/MonetäreZiele.canvas",
-                "viewState": {
-                  "x": -98.53616818446949,
-                  "y": 258.2445866739696,
-                  "zoom": -5.551115123125783e-16
-                }
+                "file": "2.Klasse/Sysgrrrrtechnik/Wechselstromtechnik.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Ipt/MonetäreZiele.canvas",
+                "file": "2.Klasse/Sysgrrrrtechnik/Wechselstromtechnik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Ipt/MonetäreZiele.canvas"
+                "file": "2.Klasse/Sysgrrrrtechnik/Wechselstromtechnik.md"
               }
             }
           },
@@ -186,8 +183,8 @@
   },
   "active": "beb3c72f718a21a3",
   "lastOpenFiles": [
-    "2.Klasse/Ipt/Monetäre Ziele.md",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
+    "2.Klasse/Ipt/Monetäre Ziele.md",
     "2.Klasse/Ipt/bwl v2.md",
     "2.Klasse/Ipt/Rollen im Projektmanagment.md",
     "Überlebenswichtige Strichlisten.md",
