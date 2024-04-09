@@ -1036,6 +1036,8 @@ ZGE
 ZIGdMd
 ZGYA
 ZzN
+Zussamenarb
+Zussamenarbeit
 Epochen
 Entdeckung
 Erste
@@ -4879,6 +4881,7 @@ massen
 mot
 mJn
 marcel
+monetäre
 FFA
 Flüssen
 Furt
@@ -7875,6 +7878,7 @@ ArcR
 AegcXJtu
 Abschlussdatum
 Abbildungen
+Angelegenheiten
 Griechisch
 Glauben
 Gewalt
@@ -8673,6 +8677,7 @@ coole
 crystal
 cfEDlBlm
 cdfc
+ccd
 zu
 zum
 zur
@@ -11411,6 +11416,7 @@ rvyjsA
 rYSU
 rUWFP
 rZULx
+resl
 hat
 hervorgerufen
 haben
