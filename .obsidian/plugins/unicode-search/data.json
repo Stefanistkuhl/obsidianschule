@@ -5,16 +5,16 @@
   },
   "data": [
     {
+      "char": "Ω",
+      "name": "ohm sign",
+      "useCount": 10,
+      "lastUsed": 1712647808165
+    },
+    {
       "char": "ϕ",
       "name": "greek phi symbol",
       "useCount": 5,
       "lastUsed": 1710943042300
-    },
-    {
-      "char": "Ω",
-      "name": "ohm sign",
-      "useCount": 9,
-      "lastUsed": 1712220684451
     },
     {
       "char": "ρ",
