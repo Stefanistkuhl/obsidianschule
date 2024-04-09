@@ -7,8 +7,14 @@
     {
       "char": "↑",
       "name": "upwards arrow",
+      "useCount": 3,
+      "lastUsed": 1712649093000
+    },
+    {
+      "char": "↓",
+      "name": "downwards arrow",
       "useCount": 1,
-      "lastUsed": 1712648942679
+      "lastUsed": 1712648956987
     },
     {
       "char": "Ω",
@@ -20313,12 +20319,6 @@
     {
       "char": "⸔",
       "name": "downwards ancora"
-    },
-    {
-      "char": "↓",
-      "name": "downwards arrow",
-      "useCount": 1,
-      "lastUsed": 1712648956987
     },
     {
       "char": "↧",
