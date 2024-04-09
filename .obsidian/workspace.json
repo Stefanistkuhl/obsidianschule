@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Wechselstromtechnik.md",
+                "file": "2.Klasse/Sysgrrrrtechnik/Wechselstrombsp idk no lol.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "34676ccc3d37ea08",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Zeichnungen/DR09-04-2024-03.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Wechselstromtechnik.md",
+                "file": "Zeichnungen/DR09-04-2024-03.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +150,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Wechselstromtechnik.md"
+                "file": "Zeichnungen/DR09-04-2024-03.excalidraw.md"
               }
             }
           },
@@ -181,14 +192,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "beb3c72f718a21a3",
+  "active": "34676ccc3d37ea08",
   "lastOpenFiles": [
+    "2.Klasse/Sysgrrrrtechnik/Wechselstrombsp idk no lol.md",
+    "Zeichnungen/DR09-04-2024-03.excalidraw.md",
+    "2.Klasse/Sysgrrrrtechnik/Wechselstromtechnik.md",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
     "2.Klasse/Ipt/Monetäre Ziele.md",
     "2.Klasse/Ipt/bwl v2.md",
     "2.Klasse/Ipt/Rollen im Projektmanagment.md",
     "Überlebenswichtige Strichlisten.md",
-    "2.Klasse/Sysgrrrrtechnik/Wechselstromtechnik.md",
     "2.Klasse/Sysgrrrrtechnik/Wechselstrom Komponenten.md",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/Fürst_Großes_NW.zip",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/ziex0ae8",
@@ -217,7 +230,6 @@
     "2.Klasse/Medt/medt v2.md",
     "2.Klasse/Ipt/Projektmagment.md",
     "Zeichnungen/DR03-04-2024-56.excalidraw.md",
-    "Privat.md",
     "bilder/Pasted image 20240322083354.png",
     "bilder/Pasted image 20240322083132.png",
     "bilder/Pasted image 20240322082942.png",
