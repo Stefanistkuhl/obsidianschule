@@ -4623,6 +4623,7 @@ fav
 film
 fotografische
 flasch
+fbbafed
 mark
 mit
 mangelnder
@@ -10220,6 +10221,7 @@ asdijasidjasidjiasdfj
 any
 auflockernde
 acff
+aea
 oft
 oder
 os
@@ -12800,6 +12802,9 @@ Qay
 QDtdw
 Qdfo
 Quizfrage
+Quanti
+Quantitative
+Qualitative
 überall
 übersetzt
 übernehmen
