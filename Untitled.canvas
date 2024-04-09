@@ -1,10 +1,16 @@
 {
 	"nodes":[
-		{"id":"123c4b6f1e1981b8","x":-220,"y":-160,"width":250,"height":60,"type":"text","text":"[[Rollen im Projektmanagment|Rollen]]"},
 		{"id":"cdfc1d6acff4f890","x":-440,"y":0,"width":250,"height":60,"type":"text","text":"Monetäre Ziele"},
 		{"id":"a7d0e13af332c902","x":-20,"y":0,"width":250,"height":60,"type":"text","text":"|| nicht monetäre Ziele"},
 		{"id":"9507318c96dd6e71","x":-400,"y":120,"width":250,"height":60,"type":"text","text":"Geld, Finanzielle Angelegenheiten"},
-		{"id":"ccd102f5dd81d8d8","x":-20,"y":120,"width":250,"height":60,"type":"text","text":"alle resl Ziele u,a Umwelt, Zussamenarbeit, ..."}
+		{"id":"ccd102f5dd81d8d8","x":-20,"y":120,"width":320,"height":60,"type":"text","text":"alle resl Ziele u,a Umwelt, Zussamenarbeit, ..."},
+		{"id":"123c4b6f1e1981b8","x":-220,"y":-140,"width":250,"height":60,"type":"text","text":"[[Rollen im Projektmanagment|Rollen]]"},
+		{"id":"2b8f161ba190ddd8","x":-220,"y":240,"width":250,"height":60,"type":"text","text":"[[Motivation|Motiv]] Warum?"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"8b7e87ee461db30d","fromNode":"cdfc1d6acff4f890","fromSide":"bottom","toNode":"9507318c96dd6e71","toSide":"top"},
+		{"id":"e13463f151803226","fromNode":"a7d0e13af332c902","fromSide":"bottom","toNode":"ccd102f5dd81d8d8","toSide":"top"},
+		{"id":"bd46e2777dafbbf4","fromNode":"cdfc1d6acff4f890","fromSide":"top","toNode":"123c4b6f1e1981b8","toSide":"bottom"},
+		{"id":"5c42f841bb9c914a","fromNode":"9507318c96dd6e71","fromSide":"bottom","toNode":"2b8f161ba190ddd8","toSide":"top"}
+	]
 }
