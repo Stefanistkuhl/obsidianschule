@@ -54730,7 +54730,9 @@
     },
     {
       "char": "↑",
-      "name": "upwards arrow"
+      "name": "upwards arrow",
+      "useCount": 1,
+      "lastUsed": 1712648942679
     },
     {
       "char": "↥",
