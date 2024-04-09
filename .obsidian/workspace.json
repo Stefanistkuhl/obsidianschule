@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "34676ccc3d37ea08",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Zeichnungen/DR09-04-2024-03.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichnungen/DR09-04-2024-03.excalidraw.md",
+                "file": "2.Klasse/Sysgrrrrtechnik/Wechselstrombsp idk no lol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Zeichnungen/DR09-04-2024-03.excalidraw.md"
+                "file": "2.Klasse/Sysgrrrrtechnik/Wechselstrombsp idk no lol.md"
               }
             }
           },
@@ -192,10 +181,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "34676ccc3d37ea08",
+  "active": "beb3c72f718a21a3",
   "lastOpenFiles": [
-    "2.Klasse/Sysgrrrrtechnik/Wechselstrombsp idk no lol.md",
     "Zeichnungen/DR09-04-2024-03.excalidraw.md",
+    "2.Klasse/Sysgrrrrtechnik/Wechselstrombsp idk no lol.md",
     "2.Klasse/Sysgrrrrtechnik/Wechselstromtechnik.md",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
     "2.Klasse/Ipt/Monetäre Ziele.md",
