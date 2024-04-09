@@ -4,3 +4,4 @@ tags:
   - syt
   - syt_elektro
 ---
+![[DR09-04-2024-03.excalidraw]]
