@@ -4,20 +4,20 @@
 		{"id":"a7d0e13af332c902","type":"text","text":"|| nicht monetäre Ziele","x":-20,"y":0,"width":250,"height":60},
 		{"id":"9507318c96dd6e71","type":"text","text":"Geld, Finanzielle Angelegenheiten","x":-400,"y":120,"width":250,"height":60},
 		{"id":"ccd102f5dd81d8d8","type":"text","text":"alle resl Ziele u,a Umwelt, Zussamenarbeit, ...","x":-20,"y":120,"width":320,"height":60},
-		{"id":"123c4b6f1e1981b8","type":"text","text":"[[Rollen im Projektmanagment|Rollen]]","x":-220,"y":-140,"width":250,"height":60},
 		{"id":"2b8f161ba190ddd8","type":"text","text":"[[Motivation|Motiv]] Warum?","x":-220,"y":240,"width":250,"height":60},
 		{"id":"5aea5f9fbbafed56","type":"text","text":"Qualitative Ziele","x":-20,"y":360,"width":250,"height":50},
 		{"id":"1cc0cb4c6a0de50e","type":"text","text":"Quantitative Ziele","x":-400,"y":360,"width":250,"height":50},
 		{"id":"7168ee1a2a8c27bb","x":-415,"y":474,"width":250,"height":60,"type":"text","text":"Wieviel?"},
-		{"id":"5f948f909344fe91","x":-11,"y":481,"width":250,"height":60,"type":"text","text":""}
+		{"id":"5f948f909344fe91","x":-11,"y":481,"width":250,"height":60,"type":"text","text":"Wie gut?"},
+		{"id":"f4ea03ba49af7ca9","x":-295,"y":-520,"width":400,"height":400,"type":"file","file":"2.Klasse/Ipt/Rollen im Projektmanagment.md"}
 	],
 	"edges":[
 		{"id":"8b7e87ee461db30d","fromNode":"cdfc1d6acff4f890","fromSide":"bottom","toNode":"9507318c96dd6e71","toSide":"top"},
 		{"id":"e13463f151803226","fromNode":"a7d0e13af332c902","fromSide":"bottom","toNode":"ccd102f5dd81d8d8","toSide":"top"},
-		{"id":"bd46e2777dafbbf4","fromNode":"cdfc1d6acff4f890","fromSide":"top","toNode":"123c4b6f1e1981b8","toSide":"bottom"},
-		{"id":"c6239fe2213ba06c","fromNode":"a7d0e13af332c902","fromSide":"top","toNode":"123c4b6f1e1981b8","toSide":"bottom"},
 		{"id":"5c42f841bb9c914a","fromNode":"9507318c96dd6e71","fromSide":"bottom","toNode":"2b8f161ba190ddd8","toSide":"top"},
 		{"id":"e58948cd6cc85ba3","fromNode":"1cc0cb4c6a0de50e","fromSide":"bottom","toNode":"7168ee1a2a8c27bb","toSide":"top"},
-		{"id":"d8c119fe9c1ba6c3","fromNode":"5aea5f9fbbafed56","fromSide":"bottom","toNode":"5f948f909344fe91","toSide":"top"}
+		{"id":"d8c119fe9c1ba6c3","fromNode":"5aea5f9fbbafed56","fromSide":"bottom","toNode":"5f948f909344fe91","toSide":"top"},
+		{"id":"68e7734fb1bbc817","fromNode":"a7d0e13af332c902","fromSide":"top","toNode":"f4ea03ba49af7ca9","toSide":"bottom"},
+		{"id":"d1667c8b3c3f3e9c","fromNode":"cdfc1d6acff4f890","fromSide":"top","toNode":"f4ea03ba49af7ca9","toSide":"bottom"}
 	]
 }
