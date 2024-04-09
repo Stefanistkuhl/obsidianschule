@@ -3,4 +3,4 @@ tags:
   - 2te_Klasse
   - ipt
 ---
--Monetäre Ziele → Geld, Finanzielle 
+[[Rollen im Projektmanagment|Rollen]] → Monetäre Ziele → Geld, Finanzielle Angelegenheiten
