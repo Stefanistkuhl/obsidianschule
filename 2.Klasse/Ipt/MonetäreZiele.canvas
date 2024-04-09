@@ -6,7 +6,7 @@
 		{"id":"ccd102f5dd81d8d8","type":"text","text":"alle resl Ziele u,a Umwelt, Zussamenarbeit, ...","x":-20,"y":120,"width":320,"height":60},
 		{"id":"123c4b6f1e1981b8","type":"text","text":"[[Rollen im Projektmanagment|Rollen]]","x":-220,"y":-140,"width":250,"height":60},
 		{"id":"2b8f161ba190ddd8","type":"text","text":"[[Motivation|Motiv]] Warum?","x":-220,"y":240,"width":250,"height":60},
-		{"id":"1cc0cb4c6a0de50e","type":"text","text":"Quantitative Ziele","x":-400,"y":360,"width":250,"height":60},
+		{"id":"1cc0cb4c6a0de50e","type":"text","text":"Quantitative Ziele\n","x":-400,"y":360,"width":250,"height":60},
 		{"id":"5aea5f9fbbafed56","type":"text","text":"Qualitative Ziele","x":-20,"y":360,"width":250,"height":60}
 	],
 	"edges":[
