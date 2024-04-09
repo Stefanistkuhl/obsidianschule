@@ -5,4 +5,4 @@ tags:
   - syt_elektro
 ---
 ![[DR09-04-2024-03.excalidraw]]
-[[Anwendung der Frequnez auf Spule ]]
+[[Anwendung der Frequnez auf Spule bzw Kondensator]]
