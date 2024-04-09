@@ -11,8 +11,15 @@
             "id": "beb3c72f718a21a3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "2.Klasse/Ipt/MonetäreZiele.canvas",
+                "viewState": {
+                  "x": 6.8333282470703125,
+                  "y": 83.80361938476562,
+                  "zoom": 0
+                }
+              }
             }
           }
         ]
@@ -73,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "43b2197681096587",
@@ -89,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2.Klasse/Ipt/MonetäreZiele.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2.Klasse/Ipt/MonetäreZiele.canvas"
+              }
             }
           },
           {
