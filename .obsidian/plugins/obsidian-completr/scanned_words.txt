@@ -7037,6 +7037,7 @@ Waffe
 Wirkung
 Worte
 Webseiten
+Wieviel
 Latein
 Leute
 Läuse
