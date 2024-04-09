@@ -5,6 +5,12 @@
   },
   "data": [
     {
+      "char": "↑",
+      "name": "upwards arrow",
+      "useCount": 1,
+      "lastUsed": 1712648942679
+    },
+    {
       "char": "Ω",
       "name": "ohm sign",
       "useCount": 10,
@@ -20310,7 +20316,9 @@
     },
     {
       "char": "↓",
-      "name": "downwards arrow"
+      "name": "downwards arrow",
+      "useCount": 1,
+      "lastUsed": 1712648956987
     },
     {
       "char": "↧",
@@ -54727,12 +54735,6 @@
     {
       "char": "⸕",
       "name": "upwards ancora"
-    },
-    {
-      "char": "↑",
-      "name": "upwards arrow",
-      "useCount": 1,
-      "lastUsed": 1712648942679
     },
     {
       "char": "↥",
