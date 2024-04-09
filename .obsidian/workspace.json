@@ -11,12 +11,8 @@
             "id": "beb3c72f718a21a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.Klasse/Ipt/Monetäre Ziele.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Ipt/Monetäre Ziele.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "2.Klasse/Ipt/Monetäre Ziele.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,8 +175,8 @@
   },
   "active": "beb3c72f718a21a3",
   "lastOpenFiles": [
-    "2.Klasse/Ipt/MonetäreZiele.canvas",
     "2.Klasse/Ipt/Monetäre Ziele.md",
+    "2.Klasse/Ipt/MonetäreZiele.canvas",
     "2.Klasse/Ipt/bwl v2.md",
     "2.Klasse/Ipt/Rollen im Projektmanagment.md",
     "Überlebenswichtige Strichlisten.md",
