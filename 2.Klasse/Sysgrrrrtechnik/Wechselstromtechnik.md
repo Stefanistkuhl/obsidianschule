@@ -18,4 +18,4 @@ tags:
 ![[Zeiger und liniendiagramm]]
 ![[Wechselstrom Komponenten]]
 
-![[Wechselstrombsp idk no lol]]
+![[Wechselstrombsps idk no lol]]
