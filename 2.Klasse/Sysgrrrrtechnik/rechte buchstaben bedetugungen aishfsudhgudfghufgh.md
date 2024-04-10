@@ -8,7 +8,8 @@ tags:
 d|r-x|r-x|r-x
 ```
 
-> d ... filetype (in dem fall für directory) l wäre 
+> d ... directory 
+> l ... symbolic lin
 > r ... read 
 > w ... write 
 > x ... execute 
