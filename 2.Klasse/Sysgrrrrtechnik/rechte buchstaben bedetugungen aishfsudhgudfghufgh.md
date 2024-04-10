@@ -4,6 +4,10 @@ tags:
   - syt
   - syt_info
 ---
+```sh
+dr-x r-x r-x
+```
+
 > r ...
 > w ... 
 > x ...
