@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "beb3c72f718a21a3",
+            "id": "b400952c16f31b7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Anwendung der Frequnez auf Spule bzw Kondensator.md",
+                "file": "oida.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Anwendung der Frequnez auf Spule bzw Kondensator.md",
+                "file": "oida.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Anwendung der Frequnez auf Spule bzw Kondensator.md"
+                "file": "oida.md"
               }
             }
           },
@@ -181,10 +181,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "beb3c72f718a21a3",
+  "active": "b400952c16f31b7b",
   "lastOpenFiles": [
-    "2.Klasse/Sysgrrrrtechnik/Wechselstrombsps idk no lol.md",
     "2.Klasse/Sysgrrrrtechnik/Anwendung der Frequnez auf Spule bzw Kondensator.md",
+    "oida.md",
+    "2.Klasse/Sysgrrrrtechnik/Wechselstrombsps idk no lol.md",
     "Zeichnungen/DR09-04-2024-03.excalidraw.md",
     "2.Klasse/Sysgrrrrtechnik/Wechselstromtechnik.md",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
@@ -218,7 +219,6 @@
     "Zeichnungen/DR03-04-2024-47.excalidraw.md",
     "2.Klasse/Medt/Farbdesign.md",
     "2.Klasse/Medt/medt v2.md",
-    "2.Klasse/Ipt/Projektmagment.md",
     "bilder/Pasted image 20240322083354.png",
     "bilder/Pasted image 20240322083132.png",
     "bilder/Pasted image 20240322082942.png",
