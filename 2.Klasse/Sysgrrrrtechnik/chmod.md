@@ -7,6 +7,8 @@ tags:
 > chmod == changemode
 > chomd ist ein command zum rechte ändern
 
+geht nach UGO → Ultra Greatword (User, Group, )
+
 ```sh
 chmod u-r
 # entfernt dem nutzer lese rechte
