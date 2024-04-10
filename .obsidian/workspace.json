@@ -15,7 +15,7 @@
               "state": {
                 "file": "2.Klasse/Netzwerktiger/Vorlage.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -177,7 +177,8 @@
       "obsidian-advanced-slides:Show Slide Preview": false,
       "templates:Insert template": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "3d-graph-new:Global 3D Graph": false
     }
   },
   "active": "b400952c16f31b7b",
