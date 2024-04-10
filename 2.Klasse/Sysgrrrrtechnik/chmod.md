@@ -18,5 +18,7 @@ chmod g+w
 command mit zahlen damit man fancier ist [[rechte buchstaben bedetugungen aishfsudhgudfghufgh|zahlen bedeutungen]]
 ```sh
 chmod 750
-# man addiert 
+# man addiert 7 für den user → 4 +2 +1 → rwx
+# group → r-x
+# other → ---
 ```
