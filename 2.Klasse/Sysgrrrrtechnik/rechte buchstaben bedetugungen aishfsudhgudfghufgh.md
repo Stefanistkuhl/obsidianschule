@@ -15,7 +15,7 @@ die striche sind zum abtrenne der teile da
 > r ... read 
 > w ... write 
 > x ... execute 
-> - ... keine rechte
+> - ... keine rechte (leer)
 > 4 ... read 
 > 2 ... write 
 > 1 ... execute
