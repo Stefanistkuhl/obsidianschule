@@ -7,5 +7,7 @@ tags:
 [[Tux Basics]]
 
 ```bash 
-root:
+root:x:0:0:root:/root:/bin/sh
 ```
+Username:Passwort:
+::
