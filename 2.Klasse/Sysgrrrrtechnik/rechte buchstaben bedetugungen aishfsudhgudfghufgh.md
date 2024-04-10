@@ -13,4 +13,6 @@ d|r-x|r-x|r-x
 > w ... write 
 > x ... execute 
 > - ... keine rechte
-> 
+> 4 ... read 
+> 2 ... write 
+> 1 ... execute
