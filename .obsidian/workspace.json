@@ -11,12 +11,8 @@
             "id": "b400952c16f31b7b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "datein bewegen.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "datein bewegen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "datein bewegen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,8 +176,8 @@
   },
   "active": "b400952c16f31b7b",
   "lastOpenFiles": [
-    "2.Klasse/Sysgrrrrtechnik/Anwendung der Frequnez auf Spule bzw Kondensator.md",
     "datein bewegen.md",
+    "2.Klasse/Sysgrrrrtechnik/Anwendung der Frequnez auf Spule bzw Kondensator.md",
     "2.Klasse/Sysgrrrrtechnik/Wechselstrombsps idk no lol.md",
     "Zeichnungen/DR09-04-2024-03.excalidraw.md",
     "2.Klasse/Sysgrrrrtechnik/Wechselstromtechnik.md",
