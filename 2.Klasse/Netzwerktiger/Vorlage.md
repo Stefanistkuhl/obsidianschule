@@ -55,4 +55,3 @@ afsidjgisdgjsdg
 ## 5. Vollständige Konfigurationsdateien
 
 iwas
-
