@@ -13,3 +13,4 @@ root:x:0:0:root:/root:/bin/sh
 
 :: ← Wenn kein pw
 :x: ← Wenn verschlüsslt 
+
