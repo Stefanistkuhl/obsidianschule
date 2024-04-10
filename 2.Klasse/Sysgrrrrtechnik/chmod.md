@@ -4,3 +4,10 @@ tags:
   - syt
   - syt_info
 ---
+> chmod == changemode
+> chomd ist ein command zum rechte ändern
+
+```sh
+chmod u
+```
+
