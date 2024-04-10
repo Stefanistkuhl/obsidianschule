@@ -25,3 +25,4 @@ die striche sind zum abtrennen der teile da
 > 1 ... execute
 
 [mehr dazu](https://contabo.com/blog/linux-permission-basics/)
+![[chmod]]
