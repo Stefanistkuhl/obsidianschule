@@ -15,3 +15,4 @@ root:x:0:0:root:/root:/bin/sh
 :x: ← Wenn verschlüsslt 
 
 ![[commands diie was mit usern zu tun haben]]
+![[rechte buchstaben bedetugungen aishfsudhgudfghufgh]]
