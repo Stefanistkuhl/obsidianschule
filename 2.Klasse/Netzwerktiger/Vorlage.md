@@ -13,6 +13,7 @@ Betreuer:              Zivk
 Abgabedatum:           datum
 
 <div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
+
 # Inhaltsverzeichnis
 
 - [[#1. Aufgabenstellung|1. Aufgabenstellung]]
@@ -50,6 +51,7 @@ afsidjgisdgjsdg
 
 <div style="page-break-after: always; visibility: hidden"> \pagebreak 
 </div>
+
 ## 5. Vollständige Konfigurationsdateien
 
 iwas
