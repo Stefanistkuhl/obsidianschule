@@ -19,6 +19,6 @@ command mit zahlen damit man fancier ist [[rechte buchstaben bedetugungen aishfs
 ```sh
 chmod 750
 # man addiert 7 für den user → 4 +2 +1 → rwx
-# group → r-x
-# other → ---
+# group → 4+0+1 → r-x
+# other → 0+0+0 → ---
 ```
