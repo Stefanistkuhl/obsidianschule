@@ -5,11 +5,11 @@ tags:
   - syt_info
 ---
 [[Tux Basics]]
-```bash 
+```sh
 root:x:0:0:root:/root:/bin/sh
 ```
 
-> Username:Passwort:userID:groupID:GECOS:homedir:
+> Username:Passwort:userID:groupID:GECOS:homedir:/bin/bash
 
 :: ← Wenn kein pw
 :x: ← Wenn verschlüsslt 
