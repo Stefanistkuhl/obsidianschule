@@ -9,6 +9,6 @@ tags:
 ```bash 
 root:x:0:0:root:/root:/bin/sh
 ```
-Username:Passwort:
+Username:Passwort:UserID:GroupID:
 :: ← Wenn kein pw
 :x: ← Wenn verschlüsslt 
