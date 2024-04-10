@@ -5,8 +5,9 @@ tags:
   - syt_info
 ---
 ```sh
-dr-x r-x r-x
+d|r-x|r-x|r-x
 ```
+
 
 > r ...
 > w ... 
