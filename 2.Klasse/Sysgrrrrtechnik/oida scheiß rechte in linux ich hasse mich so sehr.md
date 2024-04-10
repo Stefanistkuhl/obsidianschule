@@ -9,7 +9,7 @@ tags:
 root:x:0:0:root:/root:/bin/sh
 ```
 
-> Username:Passwort:userID:groupID:GECOS:
+> Username:Passwort:userID:groupID:GECOS:homedir:
 
 :: ← Wenn kein pw
 :x: ← Wenn verschlüsslt 
