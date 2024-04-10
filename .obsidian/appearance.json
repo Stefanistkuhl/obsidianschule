@@ -11,7 +11,8 @@
     "fancy_checkboxen",
     "xd",
     "smoothcursor",
-    "linenumbers"
+    "linenumbers",
+    "codeblocks_besa"
   ],
   "accentColor": "#ffc7c7",
   "interfaceFontFamily": "Cascadia Mono",
