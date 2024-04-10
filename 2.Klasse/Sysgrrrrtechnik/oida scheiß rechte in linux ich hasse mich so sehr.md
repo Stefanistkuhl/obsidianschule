@@ -8,7 +8,8 @@ tags:
 ```bash 
 root:x:0:0:root:/root:/bin/sh
 ```
-Username:Passwort:userID:groupID:
+
+> Username:Passwort:userID:groupID:GECOS:
 
 :: ← Wenn kein pw
 :x: ← Wenn verschlüsslt 
