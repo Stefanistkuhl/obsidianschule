@@ -5,10 +5,10 @@ tags:
   - syt_info
 ---
 [[Tux Basics]]
-
 ```bash 
 root:x:0:0:root:/root:/bin/sh
 ```
-Username:Passwort:UserID:GroupID:
+Username:Passwort:userID:groupID:
+
 :: ← Wenn kein pw
 :x: ← Wenn verschlüsslt 
