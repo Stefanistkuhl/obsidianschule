@@ -10,9 +10,9 @@ tags:
 geht nach UGO → Ultra Greatword (User, Group, Other)
 
 ```sh
-chmod u-r filen
+chmod u-r 
 # entfernt dem nutzer lese rechte
-chmod g+w
+chmod g+w 
 # gibt einer gruppe schreibrechte
 ```
 
