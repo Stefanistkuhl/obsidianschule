@@ -6,3 +6,6 @@ tags:
 ---
 [[Tux Basics]]
 
+```bash 
+root:
+```
