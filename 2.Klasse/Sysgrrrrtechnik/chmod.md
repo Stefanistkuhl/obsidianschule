@@ -15,7 +15,8 @@ chmod u-r
 chmod g+w 
 # gibt einer gruppe schreibrechte
 ```
-command mit zahlen damit man fancier ist [[rechte buchstaben bedetugungen aishfsudhgudfghufgh]]
+command mit zahlen damit man fancier ist [[rechte buchstaben bedetugungen aishfsudhgudfghufgh|zahlen bedeutungen]]
 ```sh
-chmod 
+chmod 750
+# man addiert 
 ```
