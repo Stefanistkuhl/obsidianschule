@@ -8,6 +8,7 @@ tags:
 > chomd ist ein command zum rechte ändern
 
 ```sh
-chmod u
+chmod u-r
+# entfernt dem nutzer lese rechte
 ```
 
