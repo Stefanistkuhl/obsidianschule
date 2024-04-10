@@ -9,8 +9,8 @@ d|r-x|r-x|r-x
 ```
 die striche sind zum abtrennen der teile da
 
-erster teil ist für die benutzer rechte 
-zweter teil für die
+1.teil → user permissions
+2.teil → group permissions
 
 > d ... directory 
 > l ... symbolic link 
