@@ -7,9 +7,11 @@ tags:
 ```sh
 d|r-x|r-x|r-x
 ```
+die striche sind zum abtrenne der teile da
 
 > d ... directory 
-> l ... symbolic lin
+> l ... symbolic link 
+> - ... file
 > r ... read 
 > w ... write 
 > x ... execute 
