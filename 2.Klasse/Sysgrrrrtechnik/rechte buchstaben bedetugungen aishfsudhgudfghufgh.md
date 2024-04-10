@@ -8,7 +8,7 @@ tags:
 d|r-x|r-x|r-x
 ```
 
-> d ... filetype (in dem fall für directory)
+> d ... filetype (in dem fall für directory) l wäre 
 > r ... read 
 > w ... write 
 > x ... execute 
