@@ -11,6 +11,7 @@ die striche sind zum abtrennen der teile da
 
 1.teil → user permissions
 2.teil → group permissions
+3.teil → other permissions
 
 > d ... directory 
 > l ... symbolic link 
@@ -22,3 +23,5 @@ die striche sind zum abtrennen der teile da
 > 4 ... read 
 > 2 ... write 
 > 1 ... execute
+
+(mehr da)
