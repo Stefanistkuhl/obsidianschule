@@ -5876,6 +5876,7 @@ Umwelt
 Uptime
 UqmfbGP
 UHeJA
+UGO
 Mittelalter
 Merkmale
 Mönche
@@ -7508,6 +7509,7 @@ OrJza
 Oss
 Optimiert
 Ohmschwer
+Other
 Alt
 Amerikas
 Atombindung
@@ -8178,6 +8180,8 @@ Genehmiger
 Gestaltet
 GPVDIl
 GECOS
+Greatword
+Group
 wurden
 wegen
 wird
@@ -8693,6 +8697,8 @@ cdfc
 ccd
 chmod
 chown
+changemode
+chomd
 zu
 zum
 zur
@@ -8894,6 +8900,7 @@ zrG
 zVKWBcbB
 zsCwtZ
 zusatzinfos
+zahlen
 Theologie
 Thema
 Teller
