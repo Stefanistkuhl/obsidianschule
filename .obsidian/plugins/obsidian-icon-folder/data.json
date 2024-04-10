@@ -25,7 +25,9 @@
     "iconsBackgroundCheckEnabled": false,
     "iconInFrontmatterEnabled": false,
     "iconsInNotesEnabled": true,
-    "iconIdentifier": ":"
+    "iconIdentifier": ":",
+    "iconsInLinksEnabled": true,
+    "debugMode": false
   },
   "2.Klasse": "TiSchool",
   "Privat": "TiSchoolOff",
