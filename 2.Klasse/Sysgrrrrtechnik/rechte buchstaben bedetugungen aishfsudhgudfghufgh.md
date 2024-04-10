@@ -24,4 +24,4 @@ die striche sind zum abtrennen der teile da
 > 2 ... write 
 > 1 ... execute
 
-(mehr da)
+[mehr dazu](https://contabo.com/blog/linux-permission-basics/)
