@@ -7,7 +7,10 @@ tags:
 ```sh
 d|r-x|r-x|r-x
 ```
-die striche sind zum abtrenne der teile da
+die striche sind zum abtrennen der teile da
+
+erster teil ist für die benutzer rechte 
+zweter teil für die
 
 > d ... directory 
 > l ... symbolic link 
