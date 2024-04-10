@@ -58,7 +58,3 @@ afsidjgisdgjsdg
 
 iwas
 
-## 6. Abbildungsverzeichnis
-[oida](#bild_1)
-
-
