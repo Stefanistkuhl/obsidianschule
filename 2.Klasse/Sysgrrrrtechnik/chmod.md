@@ -15,7 +15,7 @@ chmod u-r
 chmod g+w 
 # gibt einer gruppe schreibrechte
 ```
-command mit zahlen damit man fancier ist [[rechte buchstaben bedetugungen aishfsudhgudfghufgh|zahlen bedeutungen]]
+command mit zahlen [[rechte buchstaben bedetugungen aishfsudhgudfghufgh|zahlen bedeutungen]]
 ```sh
 chmod 750
 # man addiert 7 für den user → 4 +2 +1 → rwx
