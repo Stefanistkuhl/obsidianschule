@@ -3768,6 +3768,7 @@ socke
 sagt
 sinnvoll
 sogennate
+sudo
 und
 um
 ungefähr
@@ -3999,6 +4000,8 @@ unipolar
 uJxltKRQ
 unm
 userID
+useradd
+userdel
 keine
 konnten
 kein
@@ -8688,6 +8691,8 @@ crystal
 cfEDlBlm
 cdfc
 ccd
+chmod
+chown
 zu
 zum
 zur
@@ -11154,6 +11159,7 @@ pwq
 pFH
 pRmlhQW
 problemlos
+passwd
 reiches
 real
 running
