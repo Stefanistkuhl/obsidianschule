@@ -10,4 +10,5 @@ tags:
 root:x:0:0:root:/root:/bin/sh
 ```
 Username:Passwort:
-::
+:: ← Wenn kein pw
+:x: ← Wenn verschlüsslt 
