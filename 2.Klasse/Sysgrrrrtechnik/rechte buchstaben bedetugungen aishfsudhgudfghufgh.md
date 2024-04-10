@@ -8,7 +8,9 @@ tags:
 d|r-x|r-x|r-x
 ```
 
-> d ... filetype
+> d ... filetype (in dem fall für directory)
 > r ... read 
 > w ... write 
 > x ... execute 
+> - ... keine rechte
+> 
