@@ -11,9 +11,11 @@
             "id": "8379f4aa78860025",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Zeichnungen/nwt tabbelen ding.excalidraw.md"
+                "file": "2.Klasse/Netzwerktiger/Beispiel Routing.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichnungen/nwt tabbelen ding.excalidraw.md",
+                "file": "2.Klasse/Netzwerktiger/Beispiel Routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Zeichnungen/nwt tabbelen ding.excalidraw.md"
+                "file": "2.Klasse/Netzwerktiger/Beispiel Routing.md"
               }
             }
           },
@@ -180,6 +182,8 @@
   },
   "active": "8379f4aa78860025",
   "lastOpenFiles": [
+    "2.Klasse/Netzwerktiger/Host Routing.md",
+    "Zeichnungen/nwt tabbelen ding.excalidraw.md",
     "2.Klasse/nawi/Zwei Kugeln 1 und 2 werden auf zwei Fächer verteilt.md",
     "2.Klasse/nawi/Versuch Zitronensäure mit Natriumcarbonatdecahydrat.md",
     "Überlebenswichtige Strichlisten.md",
@@ -189,7 +193,6 @@
     "2.Klasse/nawi/Bsp zu Chemischen Rechnungen.md",
     "2.Klasse/nawi/Chemisches Rechen.md",
     "2.Klasse/Netzwerktiger/Vorlage.md",
-    "Zeichnungen/nwt tabbelen ding.excalidraw.md",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/lu6827ox0u.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/lu6827ox0s.tmp",
     "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md",
@@ -218,7 +221,6 @@
     "2.Klasse/Ipt/bwl v2.md",
     "2.Klasse/Ipt/Rollen im Projektmanagment.md",
     "2.Klasse/Sysgrrrrtechnik/Wechselstrom Komponenten.md",
-    "2.Klasse/Sysgrrrrtechnik/Überischt Festdatenspeicher.md",
     "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.png",
     "bilder/Pasted Image 20240404122913_923.png",
     "bilder/Pasted image 20240322083354.png",
