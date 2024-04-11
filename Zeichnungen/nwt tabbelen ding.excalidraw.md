@@ -51,12 +51,54 @@ tags: [excalidraw]
 				1,
 				1
 			]
+		},
+		{
+			"id": "XyBk0YAR-xVBg2j17g0RR",
+			"type": "arrow",
+			"x": -395.9883193858218,
+			"y": 31.26792766407806,
+			"width": 5.803544072896386,
+			"height": 50.91292283554631,
+			"angle": 0,
+			"strokeColor": "#E15988",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 959658825,
+			"version": 25,
+			"versionNonce": 340415687,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1712821306083,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					5.803544072896386,
+					-50.91292283554631
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#000000",
-		"currentItemStrokeColor": "#FFFFFF",
+		"currentItemStrokeColor": "#E15988",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
@@ -68,10 +110,10 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 746.099609375,
-		"scrollY": 334.1428527832031,
+		"scrollX": 535.5001134612774,
+		"scrollY": 138.74546274894251,
 		"zoom": {
-			"value": 1
+			"value": 2.883748568779247
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
