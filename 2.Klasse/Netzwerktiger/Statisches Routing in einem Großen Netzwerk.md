@@ -1,6 +1,6 @@
 Laborprotokoll
 
-![[Pasted image 20240411212057.png]]
+![[Pasted image 20240411212057.png|690]]
 
 Unterrichtsgegenstand: NWT1|ZIVK
 
