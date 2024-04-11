@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2b0ab903cb9a18f6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Zeichnungen/nwt tabbelen ding.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/Vorlage.md",
+                "file": "Zeichnungen/nwt tabbelen ding.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +150,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/Vorlage.md"
+                "file": "Zeichnungen/nwt tabbelen ding.excalidraw.md"
               }
             }
           },
@@ -181,11 +192,13 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "b400952c16f31b7b",
+  "active": "2b0ab903cb9a18f6",
   "lastOpenFiles": [
+    "bilder/Pasted Image 20240411093839_460.png",
+    "2.Klasse/Netzwerktiger/Vorlage.md",
+    "Zeichnungen/nwt tabbelen ding.excalidraw.md",
     "Zeichnungen/DR11-04-2024-00.excalidraw.md",
     "bilder/Pasted Image 20240411092415_737.png",
-    "2.Klasse/Netzwerktiger/Vorlage.md",
     "2.Klasse/Sysgrrrrtechnik/chmod.md",
     "2.Klasse/Sysgrrrrtechnik/commands die was mit usern zu tun haben.md",
     "2.Klasse/Sysgrrrrtechnik/rechte buchstaben bedetugungen aishfsudhgudfghufgh.md",
@@ -218,7 +231,6 @@
     "2.Klasse/Sysgrrrrtechnik/grrrrrlektrotechnik v2 mit sin.md",
     "templates/syt_elektro.md",
     "2.Klasse/Medt/Vielvalt der Bilder.md",
-    "2.Klasse/Medt/Design.md",
     "bilder/Pasted image 20240322083354.png",
     "bilder/Pasted image 20240322083132.png",
     "bilder/Pasted image 20240322082942.png",
