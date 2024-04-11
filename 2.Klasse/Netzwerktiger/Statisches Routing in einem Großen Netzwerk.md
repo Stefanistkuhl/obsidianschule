@@ -64,6 +64,6 @@ PC1 Tabelle
 
 | Ziel Netz | Nexthop |
 | --------- | ------- |
-|           |         |
+| 0.0.0.0/0 |         |
 
 
