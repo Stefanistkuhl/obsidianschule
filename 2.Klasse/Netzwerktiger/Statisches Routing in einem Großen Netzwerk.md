@@ -58,5 +58,12 @@ Viele Pfeile zeichnen und Tabellen machen.
 ![[Pasted image 20240411212326.png]]
 
 
-#### 4.1.2 Schritt 2
+### 4.2 Routing Tabellen 
+#### Pc 5 zu Server 1
+PC1 Tabelle 
+
+| Ziel Netz | Nexthop |
+| --------- | ------- |
+|           |         |
+
 
