@@ -5,6 +5,9 @@ tags:
 ---
 Beobachtung: 
 - Davor:
-	- Beides Festoffe  
+	- Beides Festoffe
+	- Glas hat Raumtemperatur 
 - Danach:
 	- Flüssig mit Gasentwicklung
+	- Glas wurde kalt
+	- Endotherme
