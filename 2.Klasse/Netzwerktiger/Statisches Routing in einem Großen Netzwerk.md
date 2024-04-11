@@ -20,10 +20,12 @@ Abgabedatum:           11.04.2024
 - [[#2. Zusammenfassung|2. Zusammenfassung]]
 - [[#3. Vollständige Netzwerktopologie der gesamten übung|3. Vollständige Netzwerktopologie der gesamten übung]]
 - [[#4. Übungsdurführung|4. Übungsdurführung]]
-	- [[#4. Übungsdurführung#4.1 Schritt 1|4.1 Schritt 1]]
-		- [[#4.1 Schritt 1#4.1.2 Schritt 2|4.1.2 Schritt 2]]
-- [[#5. Vollständige Konfigurationsdateien|5. Vollständige Konfigurationsdateien]]
-- [[#6. Abbildungsverzeichnis|6. Abbildungsverzeichnis]]
+	- [[#4. Übungsdurführung#4.1 Unzählige Bilder|4.1 Unzählige Bilder]]
+	- [[#4. Übungsdurführung#4.2 Routing Tabellen|4.2 Routing Tabellen]]
+		- [[#4.2 Routing Tabellen#4.2.1 Pc 5 zu Server 1|4.2.1 Pc 5 zu Server 1]]
+		- [[#4.2 Routing Tabellen#4.2.2 Rückweg|4.2.2 Rückweg]]
+		- [[#4.2 Routing Tabellen#4.2.3 Pc 0 zu Server 0|4.2.3 Pc 0 zu Server 0]]
+		- [[#4.2 Routing Tabellen#4.2.4 Rückweg|4.2.4 Rückweg]]
 
 <div style="page-break-after: always; visibility: hidden"> \pagebreak 
 </div>
@@ -115,4 +117,9 @@ Router2 Tabelle
 
 | Ziel Netz   | Nexthop      |
 | ----------- | ------------ |
-| 10.0.1.0/24 | 10.04.254/24 |
+| 10.0.1.0/24 | 10.03.254/24 |
+Router1 Tabble
+
+| Ziel Netz   | Nexthop      |
+| ----------- | ------------ |
+| 10.0.1.0/24 | 10.02.254/24 |
