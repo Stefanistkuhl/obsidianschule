@@ -1409,6 +1409,9 @@ Ena
 EpZ
 ETB
 Enthalpie
+Endotherme
+Einflusgröße
+Entropie
 Das
 Dasselbe
 Diode
@@ -1753,6 +1756,8 @@ DiP
 Dxh
 Dgg
 DEE
+Davor
+Danach
 Problem
 Pest
 Portugal
@@ -4340,6 +4345,7 @@ kGF
 knN
 kCSRA
 kZQ
+kalt
 Jahreszahlen
 Jahresahlen
 Jura
@@ -5339,6 +5345,9 @@ FEE
 FYV
 Fächern
 FooGxx
+Festoffe
+Flüssig
+Fächer
 nach
 neue
 negativen
@@ -6703,6 +6712,7 @@ RvA
 RtP
 Ryc
 Rxf
+Raumtemperatur
 vor
 verbreiten
 vom
@@ -8452,6 +8462,8 @@ GBs
 GcL
 GBR
 GHf
+Glas
+Gasentwicklung
 wurden
 wegen
 wird
@@ -12439,6 +12451,8 @@ Bsz
 BDS
 BSd
 BhzXtFcA
+Beobachtung
+Beides
 Voraussetzungen
 Valenziabrücken
 Vekehrswesen
