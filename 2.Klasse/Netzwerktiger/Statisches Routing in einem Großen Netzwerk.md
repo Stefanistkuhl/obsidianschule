@@ -93,4 +93,9 @@ Pc0 Tabelle
 | Ziel Netz | Nexthop       |
 | --------- | ------------- |
 | 0.0.0.0/0 | 10.0.1.254/24 |
+Router0 Tabelle
+
+| Ziel Netz | Nexthop       |
+| --------- | ------------- |
+|           | 10.0.1.254/24 |
 
