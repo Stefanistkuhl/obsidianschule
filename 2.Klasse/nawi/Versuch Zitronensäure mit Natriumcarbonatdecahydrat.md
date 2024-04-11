@@ -11,3 +11,6 @@ Beobachtung:
 	- Flüssig mit Gasentwicklung
 	- Glas wurde kalt
 	- → Endotherme Reaktion
+	
+
+Es muss noch eine zweite Einflusgröße geben, 
