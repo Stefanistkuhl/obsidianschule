@@ -44,6 +44,9 @@ Viele Pfeile zeichnen und Tabellen machen.
 ![[Pasted image 20240411210955.png]]
 
 
+<div style="page-break-after: always; visibility: hidden"> \pagebreak 
+</div>
+
 ## 4. Übungsdurführung
 ### 4.1 Unzählige Bilder 
 ![[Pasted image 20240411212158.png]]
