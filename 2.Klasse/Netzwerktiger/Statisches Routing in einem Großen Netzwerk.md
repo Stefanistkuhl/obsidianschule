@@ -59,7 +59,7 @@ Viele Pfeile zeichnen und Tabellen machen.
 
 
 ### 4.2 Routing Tabellen 
-#### Pc 5 zu Server 1
+#### 4.2.1 Pc 5 zu Server 1
 
 PC1 Tabelle 
 
@@ -72,4 +72,4 @@ Router 9 Tabelle
 | Ziel Netz    | Nexthop          |
 | ------------ | ---------------- |
 | 10.0.26.0/24 | 10.0.0.24.253/24 |
-
+#### 4.2.2 Rückweg
