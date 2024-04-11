@@ -4,3 +4,4 @@ tags:
   - nawi
 ---
 ![[DR11-04-2024-53.excalidraw]]
+Teilchen sind ständig in Bewegung
