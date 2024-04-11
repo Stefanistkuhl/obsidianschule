@@ -10,4 +10,4 @@ Beobachtung:
 - Danach:
 	- Flüssig mit Gasentwicklung
 	- Glas wurde kalt
-	- Endotherme
+	- → Endotherme Reaktion
