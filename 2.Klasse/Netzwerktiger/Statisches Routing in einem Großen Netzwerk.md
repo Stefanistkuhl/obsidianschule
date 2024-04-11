@@ -35,6 +35,8 @@ Statisches Routing in einem großen Netzwerk
 
 ## 2. Zusammenfassung
 
+Viele Pfeile zeichnen und Tabellen machen.
+
 ## 3. Vollständige Netzwerktopologie der gesamten übung
 
 
