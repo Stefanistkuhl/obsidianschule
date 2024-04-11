@@ -9,8 +9,8 @@ Name:                  Name
 
 Betreuer:              Zivk
 
-Übungsdaten:           
-Abgabedatum:           datum
+Übungsdaten:           11.04.2024
+Abgabedatum:           11.04.2024
 
 <div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 
@@ -30,16 +30,15 @@ Abgabedatum:           datum
 
 
 ## 1. Aufgabenstellung
-aosdjasojdasd
+
+Statisches Routing in einem großen Netzwerk
 
 ## 2. Zusammenfassung
-afsidjgisdgjsdg
 
 ## 3. Vollständige Netzwerktopologie der gesamten übung
 
 
 
-![[DR20-02-2024-34.excalidraw]]
 <a name="bild_1"></a>
 
 
