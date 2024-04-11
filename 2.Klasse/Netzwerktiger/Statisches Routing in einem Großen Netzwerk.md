@@ -107,3 +107,12 @@ Router1 Tabelle
 #### 4.2.4 Rückweg
 
 Server0 Tabelle
+
+| Ziel Netz | Nexthop      |
+| --------- | ------------ |
+| 0.0.0.0/0 | 10.04.254/24 |
+Router2 Tabelle
+
+| Ziel Netz   | Nexthop      |
+| ----------- | ------------ |
+| 10.0.1.0/24 | 10.04.254/24 |
