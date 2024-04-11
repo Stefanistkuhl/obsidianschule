@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2b0ab903cb9a18f6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Zeichnungen/nwt tabbelen ding.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichnungen/nwt tabbelen ding.excalidraw.md",
+                "file": "2.Klasse/Netzwerktiger/Vorlage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Zeichnungen/nwt tabbelen ding.excalidraw.md"
+                "file": "2.Klasse/Netzwerktiger/Vorlage.md"
               }
             }
           },
@@ -192,13 +181,13 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "2b0ab903cb9a18f6",
+  "active": "b400952c16f31b7b",
   "lastOpenFiles": [
+    "Zeichnungen/nwt tabbelen ding.excalidraw.md",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/lu6827ox0u.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/lu6827ox0s.tmp",
     "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/lu6827ox0q.tmp",
-    "Zeichnungen/nwt tabbelen ding.excalidraw.md",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/lu6827owpm.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/lu6827owle.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/lu6827owkv.tmp",
@@ -225,7 +214,6 @@
     "2.Klasse/Ipt/Rollen im Projektmanagment.md",
     "Überlebenswichtige Strichlisten.md",
     "2.Klasse/Sysgrrrrtechnik/Wechselstrom Komponenten.md",
-    "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/Fürst_Großes_NW.zip",
     "2.Klasse/Sysgrrrrtechnik/Überischt Festdatenspeicher.md",
     "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.png",
     "bilder/Pasted Image 20240404122913_923.png",
