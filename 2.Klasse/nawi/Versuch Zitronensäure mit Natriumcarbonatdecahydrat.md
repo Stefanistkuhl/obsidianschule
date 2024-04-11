@@ -7,4 +7,4 @@ Beobachtung:
 - Davor:
 	- Beides Festoffe  
 - Danach:
-	- 
+	- Flüssig mit Gasentwicklung
