@@ -1,6 +1,6 @@
 Laborprotokoll
 
-Bild 
+![[Pasted image 20240411212057.png]]
 
 Unterrichtsgegenstand: NWT1|ZIVK
 
@@ -51,6 +51,3 @@ Viele Pfeile zeichnen und Tabellen machen.
 <div style="page-break-after: always; visibility: hidden"> \pagebreak 
 </div>
 
-## 5. Vollständige Konfigurationsdateien
-
-iwas
