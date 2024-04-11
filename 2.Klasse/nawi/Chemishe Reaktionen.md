@@ -7,3 +7,4 @@ Bsp:
 ![[Versuch Natrium in Wasser]]
 ![[Reaktionsgleichung]]
 ![[Chemisches Rechen]]
+![[Triebkräfte hinter Reaktionen]]
