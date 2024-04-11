@@ -13,4 +13,6 @@ Beobachtung:
 	- → Endotherme Reaktion
 	
 
-Es muss noch eine zweite Einflusgröße geben, 
+Es muss noch eine zweite Einflusgröße geben, die etwas mit dem Aggregatszustand zu tun hat. 
+
+> Die Größe heißt <mark style="background: #FFB8EBA6;">Entropie S</mark> ... Maß für die "Ungewissheit"
