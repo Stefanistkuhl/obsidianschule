@@ -49,6 +49,14 @@ Viele Pfeile zeichnen und Tabellen machen.
 ![[Pasted image 20240411212211.png]]
 ![[Pasted image 20240411212221.png]]
 ![[Pasted image 20240411212228.png]]
+![[Pasted image 20240411212236.png]]
+![[Pasted image 20240411212246.png]]
+![[Pasted image 20240411212252.png]]
+![[Pasted image 20240411212308.png]]
+![[Pasted image 20240411212314.png]]
+![[Pasted image 20240411212321.png]]
+![[Pasted image 20240411212326.png]]
+
 
 #### 4.1.2 Schritt 2
 
