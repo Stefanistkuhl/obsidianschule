@@ -11,3 +11,4 @@ Diese Energie kommt von den Verbindungen!
 
 > Eine Triebkraft für eine Reaktion ist, wenn $$ΔH=H_{Nach}-H_{Vor}<0$$ (exotherm) (endotherm: ΔH>0)
 
+![[Versuc]]
