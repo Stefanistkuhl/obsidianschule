@@ -1406,6 +1406,7 @@ EqII
 Ena
 EpZ
 ETB
+Enthalpie
 Das
 Dasselbe
 Diode
@@ -3872,6 +3873,7 @@ sLEE
 skT
 soQBr
 stI
+steckt
 und
 um
 ungefähr
@@ -7278,6 +7280,7 @@ Wdr
 WJg
 WOg
 WBF
+Wärme
 Latein
 Leute
 Läuse
@@ -9451,6 +9454,7 @@ TNz
 TSk
 TrdjN
 TctNKE
+Triebkraft
 Städte
 Südamerika
 Spanien
