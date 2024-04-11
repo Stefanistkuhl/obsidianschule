@@ -5,6 +5,12 @@
   },
   "data": [
     {
+      "char": "Δ",
+      "name": "greek capital letter delta",
+      "useCount": 3,
+      "lastUsed": 1712831113346
+    },
+    {
       "char": "↑",
       "name": "upwards arrow",
       "useCount": 3,
@@ -63,12 +69,6 @@
       "name": "micro sign",
       "useCount": 1,
       "lastUsed": 1705320554998
-    },
-    {
-      "char": "Δ",
-      "name": "greek capital letter delta",
-      "useCount": 2,
-      "lastUsed": 1712831073901
     },
     {
       "char": "α",
