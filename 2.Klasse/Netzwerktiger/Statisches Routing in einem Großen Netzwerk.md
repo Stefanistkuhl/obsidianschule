@@ -39,10 +39,7 @@ Viele Pfeile zeichnen und Tabellen machen.
 
 ## 3. Vollständige Netzwerktopologie der gesamten übung
 
-
-
-<a name="bild_1"></a>
-
+![[Pasted image 20240411210955.png]]
 
 
 ## 4. Übungsdurführung

@@ -11,9 +11,11 @@
             "id": "7e9c519fc4c21aaa",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md"
+                "file": "2.Klasse/Netzwerktiger/Statisches Routing in einem Großen Netzwerk.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md",
+                "file": "2.Klasse/Netzwerktiger/Statisches Routing in einem Großen Netzwerk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md"
+                "file": "2.Klasse/Netzwerktiger/Statisches Routing in einem Großen Netzwerk.md"
               }
             }
           },
@@ -181,9 +183,10 @@
   },
   "active": "7e9c519fc4c21aaa",
   "lastOpenFiles": [
+    "bilder/Pasted image 20240411210955.png",
+    "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md",
     "2.Klasse/Netzwerktiger/Statisches Routing in einem Großen Netzwerk.md",
     "2.Klasse/Netzwerktiger/Vorlage.md",
-    "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/~WRL2989.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/~WRD2950.tmp",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/~WRL0003.tmp",
@@ -219,7 +222,6 @@
     "2.Klasse/Sysgrrrrtechnik/Wechselstromtechnik.md",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
     "2.Klasse/Ipt/Monetäre Ziele.md",
-    "2.Klasse/Ipt/bwl v2.md",
     "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.png",
     "bilder/Pasted Image 20240404122913_923.png",
     "bilder/Pasted image 20240322083354.png",

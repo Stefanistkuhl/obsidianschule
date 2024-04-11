@@ -2112,6 +2112,7 @@ PIuX
 PYE
 PJM
 Pdj
+Pfeile
 bei
 background
 bis
@@ -9217,6 +9218,7 @@ zHHi
 zfY
 zlm
 zOhMuPo
+zeichnen
 Theologie
 Thema
 Teller
@@ -9475,6 +9477,7 @@ TrdjN
 TctNKE
 Triebkraft
 TTbE
+Tabellen
 Städte
 Südamerika
 Spanien
@@ -9950,6 +9953,7 @@ SeP
 SRr
 SWm
 SCIuD
+Statisches
 Handel
 Hygiene
 Halbleiter
@@ -12738,6 +12742,7 @@ VG
 VYJ
 VVXPXp
 Vier
+Viele
 je
 jeder
 jeweils
