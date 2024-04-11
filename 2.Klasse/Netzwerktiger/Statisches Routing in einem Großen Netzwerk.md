@@ -44,10 +44,11 @@ Viele Pfeile zeichnen und Tabellen machen.
 
 ## 4. Übungsdurführung
 ### 4.1 Unzählige Bilder 
+![[Pasted image 20240411212158.png]]
+![[Pasted image 20240411212204.png]]
+![[Pasted image 20240411212211.png]]
+![[Pasted image 20240411212221.png]]
+![[Pasted image 20240411212228.png]]
 
 #### 4.1.2 Schritt 2
-
-
-<div style="page-break-after: always; visibility: hidden"> \pagebreak 
-</div>
 
