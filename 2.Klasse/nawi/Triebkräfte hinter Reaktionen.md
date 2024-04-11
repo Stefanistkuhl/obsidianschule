@@ -9,5 +9,5 @@ Diese Energie kommt von den Verbindungen!
 
 > Enthalpie H ... Energie, die in einer Verbindung steckt
 
-> Eine Triebkraft für eine Reaktion ist, wenn $$ΔH=H_{Nach}-H_{Vor}<0$$ (exotherm)
+> Eine Triebkraft für eine Reaktion ist, wenn $$ΔH=H_{Nach}-H_{Vor}<0$$ (exotherm) (endotherm: ΔH>0)
 
