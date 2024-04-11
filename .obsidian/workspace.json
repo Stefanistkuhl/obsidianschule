@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b400952c16f31b7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.Klasse/nawi/Versuch Zitronensäure mit Natriumcarbonatdecahydrat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8379f4aa78860025",
             "type": "leaf",
             "state": {
@@ -29,8 +17,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,8 +180,9 @@
   },
   "active": "8379f4aa78860025",
   "lastOpenFiles": [
-    "2.Klasse/nawi/Versuch Zitronensäure mit Natriumcarbonatdecahydrat.md",
+    "Überlebenswichtige Strichlisten.md",
     "Zeichnungen/DR11-04-2024-53.excalidraw.md",
+    "2.Klasse/nawi/Versuch Zitronensäure mit Natriumcarbonatdecahydrat.md",
     "2.Klasse/nawi/Triebkräfte hinter Reaktionen.md",
     "2.Klasse/nawi/Chemishe Reaktionen.md",
     "2.Klasse/nawi/Bsp zu Chemischen Rechnungen.md",
@@ -228,7 +216,6 @@
     "2.Klasse/Ipt/Monetäre Ziele.md",
     "2.Klasse/Ipt/bwl v2.md",
     "2.Klasse/Ipt/Rollen im Projektmanagment.md",
-    "Überlebenswichtige Strichlisten.md",
     "2.Klasse/Sysgrrrrtechnik/Wechselstrom Komponenten.md",
     "2.Klasse/Sysgrrrrtechnik/Überischt Festdatenspeicher.md",
     "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.png",

@@ -520,6 +520,7 @@ KFE
 KBtID
 KqV
 KPALtU
+Kugeln
 ggp
 genauen
 gibt
@@ -1074,6 +1075,7 @@ ZVU
 Zi
 ZQk
 ZKF
+ZBHkKpxg
 Epochen
 Entdeckung
 Erste
@@ -5335,6 +5337,8 @@ FHh
 FrCdS
 FEE
 FYV
+Fächern
+FooGxx
 nach
 neue
 negativen
@@ -6074,6 +6078,7 @@ UbR
 UWi
 URF
 UUZ
+Ungewissheit
 Mittelalter
 Merkmale
 Mönche
@@ -6995,6 +7000,7 @@ vsC
 vmw
 vLh
 vrss
+vbvuiSb
 West
 Welt
 Wachstum
@@ -9198,6 +9204,7 @@ zyn
 zHHi
 zfY
 zlm
+zOhMuPo
 Theologie
 Thema
 Teller
@@ -9455,6 +9462,7 @@ TSk
 TrdjN
 TctNKE
 Triebkraft
+TTbE
 Städte
 Südamerika
 Spanien
@@ -10772,6 +10780,7 @@ oCc
 ozXS
 osA
 oJk
+oCIfPfKR
 Namen
 Neuzeit
 Nord
@@ -11018,6 +11027,7 @@ NWU
 NQy
 Nrr
 NSV
+NRXJSEhB
 Infizierte
 Indium
 Instanz
@@ -11832,6 +11842,7 @@ rss
 rrOE
 rOG
 rnI
+rscg
 hat
 hervorgerufen
 haben
@@ -12711,6 +12722,8 @@ VGQ
 VbA
 VG
 VYJ
+VVXPXp
+Vier
 je
 jeder
 jeweils
@@ -13610,6 +13623,7 @@ YHH
 YWf
 YII
 YSWl
+YDuSq
 Öffnung
 Öffentliche
 Österreicher
@@ -13937,6 +13951,7 @@ XKo
 XZ
 Xla
 XpY
+XAlVZTKt
 qs
 qJ
 qAne
