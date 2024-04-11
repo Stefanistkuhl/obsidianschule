@@ -60,10 +60,16 @@ Viele Pfeile zeichnen und Tabellen machen.
 
 ### 4.2 Routing Tabellen 
 #### Pc 5 zu Server 1
+
 PC1 Tabelle 
 
-| Ziel Netz | Nexthop |
-| --------- | ------- |
-| 0.0.0.0/0 |         |
+| Ziel Netz | Nexthop          |
+| --------- | ---------------- |
+| 0.0.0.0/0 | 10.0.0.25.254/24 |
 
+Router 9 Tabelle
+
+| Ziel Netz | Nexthop          |
+| --------- | ---------------- |
+| 0.0.0.0/0 | 10.0.0.25.254/24 |
 
