@@ -7,6 +7,7 @@ tags:
 nvidi 5000 serie
 
 gerüchte:
+- soll q4 2024 erscheinen
 - gddr7 → bis zu 36 Gbit/s aba weil firt gen wshl ca 28 wirds haben und 25% mehr ernergie effeizienz
 	- gddr 6 nur max 18Gbit/s
 - 384 bit bus oder 512 gerüchte von beidem 384 is wie in 4090
@@ -17,5 +18,6 @@ gerüchte:
 		- mögliche latenzprobleme
 	- B200 haben schon angewegendet
 - blackwell was die kake eig 
+	- 
 	- 
 ![[Pasted image 20240412090338.png]]
