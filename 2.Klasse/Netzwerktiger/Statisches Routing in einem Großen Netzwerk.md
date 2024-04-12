@@ -126,4 +126,9 @@ Router1 Tabble
 | Ziel Netz   | Nexthop      |
 | ----------- | ------------ |
 | 10.0.1.0/24 | 10.02.254/24 |
-###
+### 4.2 Zusatzaufgabe
+
+Server0 zu Server1
+
+
+
