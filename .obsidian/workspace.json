@@ -11,11 +11,9 @@
             "id": "7e9c519fc4c21aaa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
-                "mode": "source",
-                "source": false
+                "file": "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md"
               }
             }
           }
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
+                "file": "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md"
+                "file": "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md"
               }
             }
           },
@@ -183,6 +181,7 @@
   },
   "active": "7e9c519fc4c21aaa",
   "lastOpenFiles": [
+    "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
     "2.Klasse/Sysgrrrrtechnik/werkstatt gpu dings notizen oidoa.md",
     "bilder/Pasted image 20240412090338.png",
     "2.Klasse/Netzwerktiger/Statisches Routing in einem Großen Netzwerk.md",
