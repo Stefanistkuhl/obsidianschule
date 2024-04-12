@@ -6089,6 +6089,7 @@ UWi
 URF
 UUZ
 Ungewissheit
+Unzählige
 Mittelalter
 Merkmale
 Mönche
@@ -6714,6 +6715,7 @@ RtP
 Ryc
 Rxf
 Raumtemperatur
+Rückweg
 vor
 verbreiten
 vom
@@ -11044,6 +11046,7 @@ NQy
 Nrr
 NSV
 NRXJSEhB
+Nexthop
 Infizierte
 Indium
 Instanz
