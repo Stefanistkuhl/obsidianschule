@@ -20,5 +20,5 @@ gerüchte:
 - blackwell was die kake eig 
 	- 
 - warum will man das überhaupt kaufen
-	- mit ner gebrauchten 30er serie kann man eh jedes game ohne problem spielen selbst die
+	- mit ner gebrauchten 30er serie kann man eh jedes game ohne problem spielen selbst die 40er serie ist recht unnötig
 ![[Pasted image 20240412090338.png]]
