@@ -11,5 +11,8 @@ gerüchte:
 	- gddr 6 nur max 18Gbit/s
 - 384 bit bus oder 512 gerüchte von beidem 384 is wie in 4090
 - GB202 → aus der blackmage generation → neuer chip → weil blackmage ding für ki schaß optmiert
+- multie die
+	- graka aus
+	- B200 haben schon angewegendet
 
 ![[Pasted image 20240412090338.png]]
