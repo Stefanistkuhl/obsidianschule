@@ -14,6 +14,7 @@ gerüchte:
 - multie die
 	- graka aus mehreren chips zusammengetzt
 	- ne tonne mehr potiontial für leistung
+		- mögliche latenzprobleme
 	- B200 haben schon angewegendet
 
 ![[Pasted image 20240412090338.png]]
