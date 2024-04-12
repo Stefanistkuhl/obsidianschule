@@ -249,6 +249,7 @@ tCp
 tNOD
 tHq
 tTS
+tonne
 Klasse
 Kreuzritter
 Klagenfurt
@@ -854,6 +855,13 @@ gIJ
 geG
 gOs
 gIGOydj
+gerüchte
+gddr
+gen
+generation
+graka
+gpu
+gebrauchten
 Zettel
 Zwingen
 Zeichen
@@ -2463,6 +2471,9 @@ bcK
 bRcT
 bnn
 bbbL
+beidem
+blackmage
+blackwell
 ist
 in
 im
@@ -2708,6 +2719,7 @@ iGd
 iwI
 igEU
 iQN
+iNtErCoNnEcteTeN
 dass
 die
 den
@@ -3421,6 +3433,9 @@ eYX
 erb
 eaa
 eTvUBOU
+erscheinen
+ernergie
+effeizienz
 Übergange
 Übergänge
 Übergang
@@ -3882,6 +3897,8 @@ skT
 soQBr
 stI
 steckt
+serie
+schaß
 und
 um
 ungefähr
@@ -4125,6 +4142,7 @@ uPi
 ukj
 uVMC
 uUqtzY
+unnötig
 keine
 konnten
 kein
@@ -4347,6 +4365,7 @@ knN
 kCSRA
 kZQ
 kalt
+kaufen
 Jahreszahlen
 Jahresahlen
 Jura
@@ -4789,6 +4808,7 @@ fei
 fwf
 fjv
 fnYE
+firt
 mark
 mit
 mangelnder
@@ -5059,6 +5079,7 @@ mQQ
 muQm
 mjrJat
 mhWWWEBp
+multie
 FFA
 Flüssen
 Furt
@@ -5584,6 +5605,7 @@ nlH
 nGU
 nb
 njj
+nvidi
 Christus
 Christianisierung
 Christentum
@@ -8467,6 +8489,7 @@ GBR
 GHf
 Glas
 Gasentwicklung
+Gbit
 wurden
 wegen
 wird
@@ -8738,6 +8761,7 @@ wQo
 wgjWL
 wrsG
 wol
+wirds
 christlichen
 code
 charakterisiert
@@ -9221,6 +9245,7 @@ zfY
 zlm
 zOhMuPo
 zeichnen
+zusammengetzt
 Theologie
 Thema
 Teller
@@ -10605,6 +10630,8 @@ aSP
 aCvSu
 ajX
 aAy
+angewegendet
+archetektur
 oft
 oder
 os
@@ -10799,6 +10826,7 @@ ozXS
 osA
 oJk
 oCIfPfKR
+optmiert
 Namen
 Neuzeit
 Nord
@@ -11570,6 +11598,7 @@ pfB
 pdpX
 pSz
 pXL
+potiontial
 reiches
 real
 running
@@ -13155,6 +13184,8 @@ lP
 lQL
 lui
 ltl
+leistung
+latenzprobleme
 Queue
 QHvC
 Qp
@@ -13338,6 +13369,7 @@ Qqs
 übertönen
 überdecken
 übungsaufgaben
+überhaupt
 öffentliche
 öffnung
 ökonomisch
