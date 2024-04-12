@@ -11,9 +11,11 @@
             "id": "7e9c519fc4c21aaa",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md"
+                "file": "2.Klasse/Netzwerktiger/Statisches Routing in einem Großen Netzwerk.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md",
+                "file": "2.Klasse/Netzwerktiger/Statisches Routing in einem Großen Netzwerk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md"
+                "file": "2.Klasse/Netzwerktiger/Statisches Routing in einem Großen Netzwerk.md"
               }
             }
           },
@@ -181,6 +183,7 @@
   },
   "active": "7e9c519fc4c21aaa",
   "lastOpenFiles": [
+    "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/oida",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/Fürst_Pkt.pkt~",
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
@@ -204,8 +207,6 @@
     "bilder/Pasted image 20240411212236.png",
     "bilder/Pasted image 20240411212228.png",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/~$rd sollte verboten werden.docx",
-    "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/word sollte verboten werden.docx",
-    "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md",
     "2.Klasse/Netzwerktiger/Vorlage.md",
     "2.Klasse/Netzwerktiger/Beispiel Routing.md",
     "2.Klasse/Netzwerktiger/Host Routing.md",
