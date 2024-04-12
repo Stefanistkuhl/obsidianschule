@@ -8,4 +8,5 @@ nvidi 5000 serie
 
 gerüchte:
 - gddr7 
+- 384 bit bus oder 512 gerüchte von beidem 
 - 
