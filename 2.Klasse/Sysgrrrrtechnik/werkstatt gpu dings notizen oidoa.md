@@ -5,3 +5,7 @@ tags:
   - syt_info
 ---
 nvidi 5000 serie
+
+gerüchte:
+- gddr7 
+- 
