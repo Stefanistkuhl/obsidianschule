@@ -18,6 +18,7 @@ gerüchte:
 		- mögliche latenzprobleme
 	- B200 haben schon angewegendet
 - blackwell was die kake eig 
+	- neue gpu archetektur
 	- 
 - warum will man das überhaupt kaufen
 	- mit ner gebrauchten 30er serie kann man eh jedes game ohne problem spielen selbst die 40er serie ist recht unnötig
