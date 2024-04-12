@@ -19,7 +19,8 @@ gerüchte:
 	- B200 haben schon angewegendet
 - blackwell was die kake eig 
 	- neue gpu archetektur
-	- 
+	- multie die chip to chip mit 10TB/s
+	- mehre chips zu einer iNtErC
 - warum will man das überhaupt kaufen
 	- mit ner gebrauchten 30er serie kann man eh jedes game ohne problem spielen selbst die 40er serie ist recht unnötig
 ![[Pasted image 20240412090338.png]]
