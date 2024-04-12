@@ -19,5 +19,6 @@ gerüchte:
 	- B200 haben schon angewegendet
 - blackwell was die kake eig 
 	- 
-	- 
+- warum will man das überhaupt kaufen
+	- mit ner gebrauchten 30er serie 
 ![[Pasted image 20240412090338.png]]
