@@ -112,7 +112,6 @@ LAN24 ^MzTlhDbh
 
 LAN26 ^XsPmGSi1
 
-
 # Embedded files
 0e0cdba247ee7c239341f66991fa659af3ef873d: [[Pasted Image 20240404122913_923.png]]
 
@@ -122,31 +121,31 @@ LAN26 ^XsPmGSi1
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.25",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.1.3",
 	"elements": [
 		{
-			"id": "s5UqOBuPntFHLtW9fyTwB",
 			"type": "image",
-			"x": -422.97480236604605,
-			"y": -276.41031847824297,
-			"width": 922.9219843268968,
-			"height": 421.08315534914664,
-			"angle": 0,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
+			"version": 415,
+			"versionNonce": 1378584032,
+			"isDeleted": false,
+			"id": "s5UqOBuPntFHLtW9fyTwB",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "dashed",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": -422.97480236604605,
+			"y": -276.41031847824297,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 922.9219843268968,
+			"height": 421.08315534914664,
+			"seed": 343218656,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 343218656,
-			"version": 415,
-			"versionNonce": 1378584032,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1712226583265,
 			"link": null,
 			"locked": false,
@@ -2218,8 +2217,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "10.0.1.0/24",
-			"lineHeight": 1.25,
-			"baseline": 9
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -2255,8 +2253,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "10.0.2.0/24",
-			"lineHeight": 1.25,
-			"baseline": 9
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -2292,8 +2289,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "10.0.3.0/24",
-			"lineHeight": 1.25,
-			"baseline": 9
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -2329,8 +2325,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "10.0.4.0/24",
-			"lineHeight": 1.25,
-			"baseline": 9
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -2366,8 +2361,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "10.0.5.0/24",
-			"lineHeight": 1.25,
-			"baseline": 5
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -2403,8 +2397,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "10.0.6.0/24",
-			"lineHeight": 1.25,
-			"baseline": 5
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -2440,8 +2433,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "10.0.7.0/24",
-			"lineHeight": 1.25,
-			"baseline": 5
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -2477,8 +2469,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "10.0.8.0/24",
-			"lineHeight": 1.25,
-			"baseline": 5
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -2514,8 +2505,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "10.0.9.0/24",
-			"lineHeight": 1.25,
-			"baseline": 5
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -2551,8 +2541,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "10.0.10.0/24",
-			"lineHeight": 1.25,
-			"baseline": 5
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -2588,8 +2577,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "10.0.11.0/24",
-			"lineHeight": 1.25,
-			"baseline": 5
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -2625,8 +2613,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "10.0.12.0/24",
-			"lineHeight": 1.25,
-			"baseline": 5
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -2662,8 +2649,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "10.0.13.0/24",
-			"lineHeight": 1.25,
-			"baseline": 5
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -2699,8 +2685,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "10.0.14.0/24",
-			"lineHeight": 1.25,
-			"baseline": 5
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -2736,8 +2721,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "10.0.15.0/24",
-			"lineHeight": 1.25,
-			"baseline": 5
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -2773,8 +2757,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "10.0.16.0/24",
-			"lineHeight": 1.25,
-			"baseline": 5
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -2810,8 +2793,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "10.0.17.0/24",
-			"lineHeight": 1.25,
-			"baseline": 5
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -2847,8 +2829,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "10.0.18.0/24",
-			"lineHeight": 1.25,
-			"baseline": 5
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -2884,8 +2865,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "10.0.19.0/24",
-			"lineHeight": 1.25,
-			"baseline": 5
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -2921,8 +2901,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "10.0.20.0/24",
-			"lineHeight": 1.25,
-			"baseline": 5
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -2958,8 +2937,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "10.0.21.0/24",
-			"lineHeight": 1.25,
-			"baseline": 5
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -2995,8 +2973,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "10.0.22.0/24",
-			"lineHeight": 1.25,
-			"baseline": 5
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -3032,8 +3009,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "10.0.23.0/24",
-			"lineHeight": 1.25,
-			"baseline": 5
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -3069,8 +3045,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "10.0.24.0/24",
-			"lineHeight": 1.25,
-			"baseline": 5
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -3106,8 +3081,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "10.0.25.0/24",
-			"lineHeight": 1.25,
-			"baseline": 5
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -3143,8 +3117,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "10.0.26.0/24",
-			"lineHeight": 1.25,
-			"baseline": 5
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -3180,8 +3153,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "LAN1",
-			"lineHeight": 1.25,
-			"baseline": 7
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -3217,8 +3189,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "LAN2",
-			"lineHeight": 1.25,
-			"baseline": 7
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -3254,8 +3225,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "LAN3",
-			"lineHeight": 1.25,
-			"baseline": 7
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -3291,8 +3261,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "LAN4",
-			"lineHeight": 1.25,
-			"baseline": 7
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -3328,8 +3297,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "LAN5",
-			"lineHeight": 1.25,
-			"baseline": 7
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -3365,8 +3333,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "LAN6",
-			"lineHeight": 1.25,
-			"baseline": 7
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -3402,8 +3369,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "LAN7",
-			"lineHeight": 1.25,
-			"baseline": 7
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -3439,8 +3405,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "LAN8",
-			"lineHeight": 1.25,
-			"baseline": 7
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -3476,8 +3441,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "LAN9",
-			"lineHeight": 1.25,
-			"baseline": 7
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -3513,8 +3477,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "LAN10",
-			"lineHeight": 1.25,
-			"baseline": 7
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -3550,8 +3513,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "LAN11",
-			"lineHeight": 1.25,
-			"baseline": 7
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -3587,8 +3549,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "LAN12",
-			"lineHeight": 1.25,
-			"baseline": 6
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -3624,8 +3585,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "LAN13",
-			"lineHeight": 1.25,
-			"baseline": 7
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -3661,8 +3621,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "LAN14",
-			"lineHeight": 1.25,
-			"baseline": 5
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -3698,8 +3657,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "LAN15",
-			"lineHeight": 1.25,
-			"baseline": 5
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -3735,8 +3693,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "LAN16",
-			"lineHeight": 1.25,
-			"baseline": 5
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -3772,8 +3729,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "LAN17",
-			"lineHeight": 1.25,
-			"baseline": 5
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -3809,8 +3765,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "LAN18",
-			"lineHeight": 1.25,
-			"baseline": 5
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -3846,8 +3801,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "LAN19",
-			"lineHeight": 1.25,
-			"baseline": 5
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -3883,8 +3837,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "LAN20",
-			"lineHeight": 1.25,
-			"baseline": 5
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -3920,8 +3873,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "LAN21",
-			"lineHeight": 1.25,
-			"baseline": 5
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -3957,8 +3909,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "LAN22",
-			"lineHeight": 1.25,
-			"baseline": 5
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -3994,8 +3945,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "LAN23",
-			"lineHeight": 1.25,
-			"baseline": 5
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -4031,8 +3981,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "LAN24",
-			"lineHeight": 1.25,
-			"baseline": 5
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -4068,8 +4017,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "LAN25",
-			"lineHeight": 1.25,
-			"baseline": 5
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -4105,8 +4053,7 @@ LAN26 ^XsPmGSi1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "LAN26",
-			"lineHeight": 1.25,
-			"baseline": 5
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -4124,10 +4071,10 @@ LAN26 ^XsPmGSi1
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 461.29617627402615,
-		"scrollY": 318.1265838212477,
+		"scrollX": 162.4823598571157,
+		"scrollY": 197.63636443113,
 		"zoom": {
-			"value": 1.4000000000000001
+			"value": 2.6049796625180277
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
