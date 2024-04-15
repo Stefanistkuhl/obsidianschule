@@ -7,6 +7,6 @@
 \contentsline {subsubsection}{\numberline {4.1.2}Rückweg}{5}{}%
 \contentsline {subsection}{\numberline {4.2}Pc 0 zu Pc 5}{5}{}%
 \contentsline {subsubsection}{\numberline {4.2.1}Hinweg}{5}{}%
-\contentsline {subsubsection}{\numberline {4.2.2}Rückweg}{5}{}%
-\contentsline {section}{\numberline {5}Vollständige Konfigurationsdatein}{6}{}%
-\contentsline {section}{\numberline {6}Abbildungsverzeichnis}{7}{}%
+\contentsline {subsubsection}{\numberline {4.2.2}Rückweg}{6}{}%
+\contentsline {section}{\numberline {5}Vollständige Konfigurationsdatein}{7}{}%
+\contentsline {section}{\numberline {6}Abbildungsverzeichnis}{8}{}%
