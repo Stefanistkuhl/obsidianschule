@@ -11,11 +11,9 @@
             "id": "acaca247dfb03e38",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md"
               }
             }
           }
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled.md"
+                "file": "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md"
               }
             }
           },
@@ -183,8 +181,8 @@
   },
   "active": "acaca247dfb03e38",
   "lastOpenFiles": [
-    "oida.at.md",
     "Untitled.md",
+    "oida.at.md",
     "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md",
     "test.md",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/oida20commands~",
