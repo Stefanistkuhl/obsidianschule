@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "acaca247dfb03e38",
+            "id": "f9758e4b362c70b2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -179,8 +181,10 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "acaca247dfb03e38",
+  "active": "f9758e4b362c70b2",
   "lastOpenFiles": [
+    "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md",
+    "Untitled.md",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/Fürst_Pkt.pkt~",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/oida20commands~",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/pdflatex21170.fls",
@@ -191,10 +195,7 @@
     "latex template der nwt protokoll vorlage/test.tex~",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/pdflatex21062.fls",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/pdflatex21055.fls",
-    "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/pdflatex21011.fls",
-    "Untitled.md",
     "oida.at.md",
-    "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md",
     "test.md",
     "latex template der nwt protokoll vorlage/meme.jpeg",
     "latex template der nwt protokoll vorlage/logo.png",
