@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "793e6a7951c6bcff",
+            "id": "acaca247dfb03e38",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -179,10 +181,12 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "793e6a7951c6bcff",
+  "active": "acaca247dfb03e38",
   "lastOpenFiles": [
-    "test.md",
+    "oida.at.md",
+    "Untitled.md",
     "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md",
+    "test.md",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/oida20commands~",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/StatischesRouting.tex~",
     "latex template der nwt protokoll vorlage/meme.jpeg",
@@ -225,8 +229,6 @@
     "2.Klasse/Sysgrrrrtechnik/rechte buchstaben bedetugungen aishfsudhgudfghufgh.md",
     "datein bewegen.md",
     "2.Klasse/Sysgrrrrtechnik/Anwendung der Frequnez auf Spule bzw Kondensator.md",
-    "2.Klasse/Sysgrrrrtechnik/Wechselstrombsps idk no lol.md",
-    "Zeichnungen/DR09-04-2024-03.excalidraw.md",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
     "Zeichnungen/Untitled.canvas"
   ]
