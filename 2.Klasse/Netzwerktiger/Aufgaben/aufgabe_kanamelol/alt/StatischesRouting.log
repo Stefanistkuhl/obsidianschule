@@ -211,7 +211,7 @@ Package pdftex.def Info: logo.png  used on input line 72.
  [4 <./topologie.png>]
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 203.
+Package pdftex.def Info: logo.png  used on input line 216.
 (pdftex.def)             Requested size: 186.09352pt x 55.10535pt.
  [5] (./StatischesRouting.lof)
 \tf@lof=\write4
@@ -219,19 +219,19 @@ Package pdftex.def Info: logo.png  used on input line 203.
 
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 209.
+Package pdftex.def Info: logo.png  used on input line 222.
 (pdftex.def)             Requested size: 186.09352pt x 55.10535pt.
  [6] (./StatischesRouting.aux) ) 
 Here is how much of TeX's memory you used:
  2205 strings out of 478051
  35553 string characters out of 5840943
- 1865330 words of memory out of 5000000
+ 1866330 words of memory out of 5000000
  22349 multiletter control sequences out of 15000+600000
  513805 words of font info for 37 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  57i,16n,62p,215b,322s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on StatischesRouting.pdf (6 pages, 251388 bytes).
+Output written on StatischesRouting.pdf (6 pages, 251483 bytes).
 PDF statistics:
  44 PDF objects out of 1000 (max. 8388607)
  24 compressed objects within 1 object stream
