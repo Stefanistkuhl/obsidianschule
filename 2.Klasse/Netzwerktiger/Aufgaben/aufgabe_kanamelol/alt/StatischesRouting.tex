@@ -1,5 +1,6 @@
 \documentclass[a4paper]{article}
 \usepackage{graphicx}
+\usepackage{tabularx}
 \usepackage{fancyhdr}
 \usepackage{geometry}
 \geometry{
@@ -75,7 +76,16 @@ Tonnenweise Pfeile zeichnen und Tabellen machen und Packet Tracer UX genießen.
 \subsection{Routing Tabellen}
 \subsubsection{Pc 5 zu Server 1}
 
-
+\begin{tabularx}{0.69\textwidth} { 
+		| >{\raggedright\arraybackslash}X 
+		| >{\centering\arraybackslash}X| 
+	}
+	\hline
+	Ziel Netz & Nexthop\\
+	\hline
+	item 21  & item 22    \\
+	\hline
+\end{tabularx}
 
 \subsection{Einstellen der Statischenn Routen in Packet Tracer mit der Gui.}
 
