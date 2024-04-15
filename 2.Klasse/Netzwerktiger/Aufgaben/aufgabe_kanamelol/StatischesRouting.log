@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.4.15)  15 APR 2024 20:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.4.15)  15 APR 2024 20:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -180,42 +180,52 @@ File: logo.png Graphic file (type png)
 Package pdftex.def Info: logo.png  used on input line 64.
 (pdftex.def)             Requested size: 186.09352pt x 55.10535pt.
  [3]
+<topologie.png, id=18, 945.5325pt x 442.65375pt>
+File: topologie.png Graphic file (type png)
+<use topologie.png>
+Package pdftex.def Info: topologie.png  used on input line 69.
+(pdftex.def)             Requested size: 567.32388pt x 265.59428pt.
+
+Overfull \hbox (83.62704pt too wide) in paragraph at lines 69--70
+[][] 
+ []
+
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 68.
+Package pdftex.def Info: logo.png  used on input line 73.
 (pdftex.def)             Requested size: 186.09352pt x 55.10535pt.
- [4]
-Underfull \hbox (badness 10000) in paragraph at lines 74--84
+[4 <./topologie.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 79--89
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--96
+Underfull \hbox (badness 10000) in paragraph at lines 91--101
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--116
+Underfull \hbox (badness 10000) in paragraph at lines 106--121
 
  []
 
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 116.
+Package pdftex.def Info: logo.png  used on input line 121.
 (pdftex.def)             Requested size: 186.09352pt x 55.10535pt.
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 119--134
+Underfull \hbox (badness 10000) in paragraph at lines 124--139
 
  []
 
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 137.
+Package pdftex.def Info: logo.png  used on input line 142.
 (pdftex.def)             Requested size: 186.09352pt x 55.10535pt.
 [6]
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 141.
+Package pdftex.def Info: logo.png  used on input line 146.
 (pdftex.def)             Requested size: 186.09352pt x 55.10535pt.
  [7] (./StatischesRouting.lof)
 \tf@lof=\write4
@@ -223,22 +233,22 @@ Package pdftex.def Info: logo.png  used on input line 141.
 
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 147.
+Package pdftex.def Info: logo.png  used on input line 152.
 (pdftex.def)             Requested size: 186.09352pt x 55.10535pt.
  [8] (./StatischesRouting.aux) ) 
 Here is how much of TeX's memory you used:
- 2067 strings out of 478051
- 33291 string characters out of 5840943
+ 2074 strings out of 478051
+ 33413 string characters out of 5840943
  1855330 words of memory out of 5000000
- 22218 multiletter control sequences out of 15000+600000
+ 22224 multiletter control sequences out of 15000+600000
  513805 words of font info for 37 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  57i,16n,62p,215b,322s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on StatischesRouting.pdf (8 pages, 121403 bytes).
+Output written on StatischesRouting.pdf (8 pages, 252441 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
- 29 compressed objects within 1 object stream
+ 52 PDF objects out of 1000 (max. 8388607)
+ 30 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
