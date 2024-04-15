@@ -1,1 +1,1 @@
-[du idi](.at)
+[du idi]()
