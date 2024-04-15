@@ -25,4 +25,7 @@ ip route 10.0.4.0 255.255.255.0 10.0.7.254✅
 
 Pc0 zu Pc 5
 hinweg
+router 0
 ip route 10.0.25.0 255.255.255.0 10.0.2.253✅ 
+router 1
+
