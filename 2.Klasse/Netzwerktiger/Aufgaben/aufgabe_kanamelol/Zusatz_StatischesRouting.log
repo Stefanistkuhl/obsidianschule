@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.4.15)  15 APR 2024 21:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.4.15)  15 APR 2024 21:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**StatischesRouting.tex
-(./StatischesRouting.tex
+**Zusatz_StatischesRouting.tex
+(./Zusatz_StatischesRouting.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-01-16> (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -79,8 +79,8 @@ Package geometry Warning: Over-specification in `v'-direction.
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count196
 \l__pdf_internal_box=\box51
-) (./StatischesRouting.aux)
-\openout1 = `StatischesRouting.aux'.
+) (./Zusatz_StatischesRouting.aux)
+\openout1 = `Zusatz_StatischesRouting.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
 LaTeX Font Info:    ... okay on input line 27.
@@ -161,14 +161,14 @@ Package pdftex.def Info: logo.png  used on input line 54.
 (pdftex.def)             Requested size: 186.09352pt x 55.10535pt.
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
- <./logo.png> <./meme.jpeg>] (./StatischesRouting.toc
+ <./logo.png> <./meme.jpeg>] (./Zusatz_StatischesRouting.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 5.
 )
 \tf@toc=\write3
-\openout3 = `StatischesRouting.toc'.
+\openout3 = `Zusatz_StatischesRouting.toc'.
 
 File: logo.png Graphic file (type png)
 <use logo.png>
@@ -217,25 +217,25 @@ File: logo.png Graphic file (type png)
 <use logo.png>
 Package pdftex.def Info: logo.png  used on input line 141.
 (pdftex.def)             Requested size: 186.09352pt x 55.10535pt.
-[6] (./StatischesRouting.lof)
+[6] (./Zusatz_StatischesRouting.lof)
 \tf@lof=\write4
-\openout4 = `StatischesRouting.lof'.
+\openout4 = `Zusatz_StatischesRouting.lof'.
 
 File: logo.png Graphic file (type png)
 <use logo.png>
 Package pdftex.def Info: logo.png  used on input line 147.
 (pdftex.def)             Requested size: 186.09352pt x 55.10535pt.
- [7] (./StatischesRouting.aux) ) 
+ [7] (./Zusatz_StatischesRouting.aux) ) 
 Here is how much of TeX's memory you used:
  2074 strings out of 478051
- 33413 string characters out of 5840943
+ 33546 string characters out of 5840943
  1855330 words of memory out of 5000000
  22224 multiletter control sequences out of 15000+600000
  513805 words of font info for 37 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 57i,16n,62p,215b,322s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,16n,62p,222b,322s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on StatischesRouting.pdf (7 pages, 359629 bytes).
+Output written on Zusatz_StatischesRouting.pdf (7 pages, 359755 bytes).
 PDF statistics:
  49 PDF objects out of 1000 (max. 8388607)
  28 compressed objects within 1 object stream
