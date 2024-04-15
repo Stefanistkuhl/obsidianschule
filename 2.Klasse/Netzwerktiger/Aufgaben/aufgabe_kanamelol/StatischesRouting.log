@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.4.15)  15 APR 2024 20:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.4.15)  15 APR 2024 20:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -184,17 +184,12 @@ Package pdftex.def Info: logo.png  used on input line 64.
 File: topologie.png Graphic file (type png)
 <use topologie.png>
 Package pdftex.def Info: topologie.png  used on input line 69.
-(pdftex.def)             Requested size: 567.32388pt x 265.59428pt.
-
-Overfull \hbox (83.62704pt too wide) in paragraph at lines 69--70
-[][] 
- []
-
+(pdftex.def)             Requested size: 472.76509pt x 221.32632pt.
 File: logo.png Graphic file (type png)
 <use logo.png>
 Package pdftex.def Info: logo.png  used on input line 73.
 (pdftex.def)             Requested size: 186.09352pt x 55.10535pt.
-[4 <./topologie.png>]
+ [4 <./topologie.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 79--89
 
  []
