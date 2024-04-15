@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1713213677 "StatischesRouting.tex" "StatischesRouting.pdf" "StatischesRouting" 1713213681 0
+["pdflatex"] 1713213835 "StatischesRouting.tex" "StatischesRouting.pdf" "StatischesRouting" 1713213838 0
   "/etc/texmf/web2c/texmf.cnf" 1713191559 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -30,10 +30,15 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1713191563 125915 807ff72f6023b33a59c427bfd156a3d1 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1713191576 6475501 68f98c21cee213695d302f81bbdcd303 ""
   "1.jpg" 1713213531 43876 b63b2e8948a97be62c4b0390fec2c6bb ""
-  "StatischesRouting.aux" 1713213681 1935 79b1eda605dfe3e029e8b1c97da0ca52 "pdflatex"
-  "StatischesRouting.lof" 1713213681 335 576e4c70eb04dacbcd99806083359029 "pdflatex"
-  "StatischesRouting.tex" 1713213675 5073 dc57707af4d41c440be13d0893ac2a86 ""
-  "StatischesRouting.toc" 1713213681 912 2048d765238ebf2f2a3958fd3f2f656c "pdflatex"
+  "2.jpg" 1713213535 43860 677cb06864e41d2cda81c3160be78d7f ""
+  "3.jpg" 1713213541 44817 66b6e7f385c444a2dd6238ed9f0c4158 ""
+  "4.jpg" 1713213544 42282 0d5269dce231bd24d87b48cc78726152 ""
+  "5.jpg" 1713213550 43047 5005fa0cd35c76ae675a7dc510464502 ""
+  "6.jpg" 1713213553 45310 5550b6d765d6088b34bc7a3f890bda47 ""
+  "StatischesRouting.aux" 1713213838 2470 b38f8f99c0b1386c2ee7eb2be0604913 "pdflatex"
+  "StatischesRouting.lof" 1713213838 665 a449c088b035344cc5d75425aab94838 "pdflatex"
+  "StatischesRouting.tex" 1713213831 5583 a1ac04ef6afbc6eab6ffef7c38732faa ""
+  "StatischesRouting.toc" 1713213838 912 d96116062a5032cf2b329c2ccb7cfba3 "pdflatex"
   "logo.png" 1713092064 5251 cc1f58f2715d780a35156b77ab1d3f18 ""
   "meme.jpeg" 1713105251 53695 9ca04814b540b759dd07a3b5f3428ea7 ""
   "ptgui.png" 1713213105 39775 bbfdd3f9781b3d6c08a9fde0c246a519 ""
