@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.4.15)  15 APR 2024 22:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.4.15)  15 APR 2024 22:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -40,36 +40,17 @@ File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen141
 \Gin@req@width=\dimen142
-) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
-Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
- (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen143
-\ar@mcellbox=\box51
-\extrarowheight=\dimen144
-\NC@list=\toks17
-\extratabsurround=\skip50
-\backup@length=\skip51
-\ar@cellbox=\box52
-)
-\TX@col@width=\dimen145
-\TX@old@table=\dimen146
-\TX@old@col=\dimen147
-\TX@target=\dimen148
-\TX@delta=\dimen149
-\TX@cols=\count193
-\TX@ftn=\toks18
 ) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
-\f@nch@headwidth=\skip52
-\f@nch@O@elh=\skip53
-\f@nch@O@erh=\skip54
-\f@nch@O@olh=\skip55
-\f@nch@O@orh=\skip56
-\f@nch@O@elf=\skip57
-\f@nch@O@erf=\skip58
-\f@nch@O@olf=\skip59
-\f@nch@O@orf=\skip60
+\f@nch@headwidth=\skip50
+\f@nch@O@elh=\skip51
+\f@nch@O@erh=\skip52
+\f@nch@O@olh=\skip53
+\f@nch@O@orh=\skip54
+\f@nch@O@elf=\skip55
+\f@nch@O@erf=\skip56
+\f@nch@O@olf=\skip57
+\f@nch@O@orf=\skip58
 ) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
@@ -77,18 +58,18 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
  (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count194
-\Gm@cntv=\count195
-\c@Gm@tempcnt=\count196
-\Gm@bindingoffset=\dimen150
-\Gm@wd@mp=\dimen151
-\Gm@odd@mp=\dimen152
-\Gm@even@mp=\dimen153
-\Gm@layoutwidth=\dimen154
-\Gm@layoutheight=\dimen155
-\Gm@layouthoffset=\dimen156
-\Gm@layoutvoffset=\dimen157
-\Gm@dimlist=\toks19
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
+\Gm@bindingoffset=\dimen143
+\Gm@wd@mp=\dimen144
+\Gm@odd@mp=\dimen145
+\Gm@even@mp=\dimen146
+\Gm@layoutwidth=\dimen147
+\Gm@layoutheight=\dimen148
+\Gm@layouthoffset=\dimen149
+\Gm@layoutvoffset=\dimen150
+\Gm@dimlist=\toks17
 )
 
 Package geometry Warning: Over-specification in `v'-direction.
@@ -96,38 +77,38 @@ Package geometry Warning: Over-specification in `v'-direction.
 
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count197
-\l__pdf_internal_box=\box53
+\l__color_backend_stack_int=\count196
+\l__pdf_internal_box=\box51
 ) (./StatischesRouting.aux)
 \openout1 = `StatischesRouting.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count198
-\scratchdimen=\dimen158
-\scratchbox=\box54
-\nofMPsegments=\count199
-\nofMParguments=\count266
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count267
-\MPscratchDim=\dimen159
-\MPnumerator=\count268
-\makeMPintoPDFobject=\count269
-\everyMPtoPDFconversion=\toks21
+\scratchcounter=\count197
+\scratchdimen=\dimen151
+\scratchbox=\box52
+\nofMPsegments=\count198
+\nofMParguments=\count199
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count266
+\MPscratchDim=\dimen152
+\MPnumerator=\count267
+\makeMPintoPDFobject=\count268
+\everyMPtoPDFconversion=\toks19
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -171,12 +152,12 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 <meme.jpeg, id=1, 777.90625pt x 811.03pt>
 File: meme.jpeg Graphic file (type jpg)
 <use meme.jpeg>
-Package pdftex.def Info: meme.jpeg  used on input line 36.
+Package pdftex.def Info: meme.jpeg  used on input line 35.
 (pdftex.def)             Requested size: 466.74734pt x 486.62175pt.
 <logo.png, id=2, 413.545pt x 122.4575pt>
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 54.
+Package pdftex.def Info: logo.png  used on input line 53.
 (pdftex.def)             Requested size: 186.09352pt x 55.10535pt.
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
@@ -191,27 +172,27 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 57.
+Package pdftex.def Info: logo.png  used on input line 56.
 (pdftex.def)             Requested size: 186.09352pt x 55.10535pt.
  [2]
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 63.
+Package pdftex.def Info: logo.png  used on input line 62.
 (pdftex.def)             Requested size: 186.09352pt x 55.10535pt.
  [3]
 <topologie.png, id=18, 945.5325pt x 442.65375pt>
 File: topologie.png Graphic file (type png)
 <use topologie.png>
-Package pdftex.def Info: topologie.png  used on input line 68.
+Package pdftex.def Info: topologie.png  used on input line 67.
 (pdftex.def)             Requested size: 472.76509pt x 221.32632pt.
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 72.
+Package pdftex.def Info: logo.png  used on input line 71.
 (pdftex.def)             Requested size: 186.09352pt x 55.10535pt.
  [4 <./topologie.png>]
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 92.
+Package pdftex.def Info: logo.png  used on input line 82.
 (pdftex.def)             Requested size: 186.09352pt x 55.10535pt.
  [5] (./StatischesRouting.lof)
 \tf@lof=\write4
@@ -219,19 +200,19 @@ Package pdftex.def Info: logo.png  used on input line 92.
 
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 98.
+Package pdftex.def Info: logo.png  used on input line 88.
 (pdftex.def)             Requested size: 186.09352pt x 55.10535pt.
  [6] (./StatischesRouting.aux) ) 
 Here is how much of TeX's memory you used:
- 2205 strings out of 478051
- 35553 string characters out of 5840943
+ 2075 strings out of 478051
+ 33421 string characters out of 5840943
  1854330 words of memory out of 5000000
- 22349 multiletter control sequences out of 15000+600000
+ 22225 multiletter control sequences out of 15000+600000
  513805 words of font info for 37 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  57i,16n,62p,215b,322s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on StatischesRouting.pdf (6 pages, 249763 bytes).
+Output written on StatischesRouting.pdf (6 pages, 249263 bytes).
 PDF statistics:
  44 PDF objects out of 1000 (max. 8388607)
  24 compressed objects within 1 object stream
