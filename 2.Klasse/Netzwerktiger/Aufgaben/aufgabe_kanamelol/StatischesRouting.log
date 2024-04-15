@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.4.15)  15 APR 2024 21:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.4.15)  15 APR 2024 21:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -80,16 +80,21 @@ File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count196
 \l__pdf_internal_box=\box51
 ) (./StatischesRouting.aux)
+Runaway argument?
+{\con 
+./StatischesRouting.tex:27: File ended while scanning use of \@writefile.
+<inserted text> 
+                \par 
+l.27 \begin{document}
+                     
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
 \openout1 = `StatischesRouting.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input nt Info:    ... okay on input line 27.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
 LaTeX Font Info:    ... okay on input line 27.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
@@ -125,39 +130,35 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * modes: 
 * h-part:(L,W,R)=(56.9055pt, 483.69684pt, 56.90553pt)
 * v-part:(T,H,B)=(56.9055pt, 677.1756pt, 110.96574pt)
+* \paperwidth=597.50787por TeX Live
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69684pt, 56.90553pt)
+* v-part:(T,H,B)=(56.9055pt, 677.1756pt, 110.96574pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=483.69684pt
 * \textheight=677.1756pt
 * \oddsidemargin=-15.36449pt
 * \evensidemargin=-15.36449pt
-* \topmargin=-52.36449pt
-* \headheight=82.70538pt
-* \headsep=25.0pt
-* \topskip=10.0pt
-* \footskip=30.0pt
-* \marginparwidth=57.0pt
-* \marginparsep=11.0pt
-* \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+*53pt)
 
 <meme.jpeg, id=1, 842.14626pt x 1405.25pt>
 File: meme.jpeg Graphic file (type jpg)
 <use meme.jpeg>
-Package pdftex.def Info: meme.jpeg  used on input line 35.
+Package pdftex.def Info: meme.jpeg  used on input line 36.
 (pdftex.def)             Requested size: 294.7556pt x 491.84488pt.
 <logo.png, id=2, 413.545pt x 122.4575pt>
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 53.
+Package pdftex.def Info: logo.png  used on input line 54.
 (pdftex.def)             Requested size: 186.09352pt x 55.10535pt.
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
@@ -172,50 +173,50 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 56.
+Package pdftex.def Info: logo.png  used on input line 57.
 (pdftex.def)             Requested size: 186.09352pt x 55.10535pt.
  [2]
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 64.
+Package pdftex.def Info: logo.png  used on input line 65.
 (pdftex.def)             Requested size: 186.09352pt x 55.10535pt.
  [3]
 <topologie.png, id=18, 945.5325pt x 442.65375pt>
 File: topologie.png Graphic file (type png)
 <use topologie.png>
-Package pdftex.def Info: topologie.png  used on input line 69.
+Package pdftex.def Info: topologie.png  used on input line 70.
 (pdftex.def)             Requested size: 472.76509pt x 221.32632pt.
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 73.
+Package pdftex.def Info: logo.png  used on input line 74.
 (pdftex.def)             Requested size: 186.09352pt x 55.10535pt.
  [4 <./topologie.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 79--89
+Underfull \hbox (badness 10000) in paragraph at lines 80--90
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--101
+Underfull \hbox (badness 10000) in paragraph at lines 92--102
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--120
+Underfull \hbox (badness 10000) in paragraph at lines 107--121
 
  []
 
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 120.
+Package pdftex.def Info: logo.png  used on input line 121.
 (pdftex.def)             Requested size: 186.09352pt x 55.10535pt.
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 123--137
+Underfull \hbox (badness 10000) in paragraph at lines 124--138
 
  []
 
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 140.
+Package pdftex.def Info: logo.png  used on input line 141.
 (pdftex.def)             Requested size: 186.09352pt x 55.10535pt.
 [6] (./StatischesRouting.lof)
 \tf@lof=\write4
@@ -223,19 +224,32 @@ Package pdftex.def Info: logo.png  used on input line 140.
 
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 146.
+Package pdftex.def Info: logo.png  used on input line 147.
+(pdftex.def)             Requested size: 186.09352pt x 55.10535pt.
+ [7] (./StatischesRouting.input line 141.
+(pdftex.def)             Requested size: 186.09352pt x 55.10535pt.
+[6] (./StatischesRouting.lof)
+\tf@lof=\write4
+\openout4 = `StatischesRouting.lof'.
+
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 147.
 (pdftex.def)             Requested size: 186.09352pt x 55.10535pt.
  [7] (./StatischesRouting.aux) ) 
 Here is how much of TeX's memory you used:
- 2074 strings out of 478051
- 33413 string characters out of 5840943
- 1855330 words of memory out of 5000000
- 22224 multiletter control sequences out of 15000+600000
- 513805 words of font info for 37 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
- 57i,16n,62p,215b,322s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on StatischesRouting.pdf (7 pages, 359617 bytes).
+ 2075 strings out of 478051
+ 33416 string characters out of 5840943
+ 1855330 words of metype1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on StatischesRouting.pdf (7 pages, 359620 bytes).
+PDF statistics:
+ 49 PDF objects out of 1000 (max. 8388607)
+ 28 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+
+cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on StatischesRouting.pdf (7 pages, 359620 bytes).
 PDF statistics:
  49 PDF objects out of 1000 (max. 8388607)
  28 compressed objects within 1 object stream
