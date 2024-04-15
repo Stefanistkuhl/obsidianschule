@@ -2,26 +2,26 @@
 \usepackage{graphicx}
 \usepackage{fancyhdr}
 \usepackage{geometry}
- \geometry{
- a4paper,
- total={170mm,257mm},
- left=20mm,
- top=20mm,
- bottom=39mm,
+\geometry{
+	a4paper,
+	total={170mm,257mm},
+	left=20mm,
+	top=20mm,
+	bottom=39mm,
 }
 
 \setlength{\headheight}{82.70538pt}
 
 \fancypagestyle{oida}{
-\fancyhf{}
-\fancyhead[L]{\fontsize{7.5}{7.5}htl donaustadt\\ Donaustadtstraße 45\\
- 1220 Wien\\~\\ Abteilung: Informationstechnologie\\ 
- Schwerpunkt: Netzwerktechnik}
-\fancyhead[R]{\includegraphics[scale=0.45]{logo.png}}
+	\fancyhf{}
+	\fancyhead[L]{\fontsize{7.5}{7.5}htl donaustadt\\ Donaustadtstraße 45\\
+		1220 Wien\\~\\ Abteilung: Informationstechnologie\\ 
+	Schwerpunkt: Netzwerktechnik}
+	\fancyhead[R]{\includegraphics[scale=0.45]{logo.png}}
 
-\fancyfoot[L]{\today}
-\fancyfoot[C]{\jobname}
-\fancyfoot[R]{Seite: \thepage}
+	\fancyfoot[L]{\today}
+	\fancyfoot[C]{\jobname}
+	\fancyfoot[R]{Seite: \thepage}
 }
 
 \begin{document}
@@ -32,8 +32,8 @@
 Laborprotokoll
 
 \begin{figure}[h]
-\includegraphics[scale=0.6]{meme.jpeg}
-\caption{memes klauen ist nicht ethisch}
+	\includegraphics[scale=0.6]{meme.jpeg}
+	\caption{memes klauen ist nicht ethisch}
 \end{figure}
 
 \vspace*{\fill}
@@ -68,7 +68,6 @@ Server 0 und 1 miteinander kommunizieren lassen, indem man statische Routen mit 
 \newpage
 
 \section{Übungsdurchführung}
-
 \subsection{Server 0 zu Server 1}
 
 \subsubsection{Hinweg}
@@ -95,8 +94,9 @@ ip route 10.0.4.0 255.255.255.0 10.0.10.254\\
 router 3\\
 ip route 10.0.4.0 255.255.255.0 10.0.7.254\\
 
+\subsection{Pc 0 zu Pc 5}
 
-
+\subsubsection{}
 
 \newpage
 
