@@ -6,4 +6,4 @@ tags:
 ---
 > Datenschutzgrundverordnung ist ein Gesetz der EU und regelt den Umgang mit personenbezogenen Daten 
 
-Brauch
+Eine Zustimmung des Nutzers wird benötigt, damit ihre Daten benutzt werden können.
