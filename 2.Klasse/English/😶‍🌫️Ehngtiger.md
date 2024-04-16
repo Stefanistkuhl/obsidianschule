@@ -20,7 +20,7 @@ by Stefan
 Addiction amongst youth and what we can do about it!
 
 Hi everyone!
-Today I want to write about a statistic about Addiction among UK youth, which was written by PFA Research in 2019. As i am young myself, i felt the need to write about this.
+Today I want to write about addiction amonst young people, to which a statistic As i am young myself, i felt the need to write about this.
 
 First of all lets break down the results: The main results from the bar chart show, that by far marijuana is the most common addiction amonst UK youth which is followed by alcohol and presription drugs. For age 18-26 prescription drugs lead the chart.
 
