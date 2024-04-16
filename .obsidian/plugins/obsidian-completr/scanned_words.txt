@@ -1767,6 +1767,7 @@ Dgg
 DEE
 Davor
 Danach
+Datenschutzgrundverordnung
 Problem
 Pest
 Portugal
@@ -6115,6 +6116,7 @@ URF
 UUZ
 Ungewissheit
 Unzählige
+Umgang
 Mittelalter
 Merkmale
 Mönche
@@ -8493,6 +8495,7 @@ GHf
 Glas
 Gasentwicklung
 Gbit
+Gesetz
 wurden
 wegen
 wird
@@ -11602,6 +11605,7 @@ pdpX
 pSz
 pXL
 potiontial
+personenbezogenen
 reiches
 real
 running
