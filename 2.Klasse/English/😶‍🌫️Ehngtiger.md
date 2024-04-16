@@ -9,3 +9,5 @@ tags:
 # sa üben
 
 p59 4c)
+
+The main results from the bar chart show, h
