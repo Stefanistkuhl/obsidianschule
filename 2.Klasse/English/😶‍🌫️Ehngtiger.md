@@ -22,4 +22,6 @@ Today I want to write about a statistic about Addiction among UK youth, which wa
 
 First of all lets break down the results: The main results from the bar chart show, that by far marijuana is the most common addiction amonst UK youth aged whichs followed by alcohol and presription drugs. For age 18-26 prescription drugs lead the chart.
 
-Now, you might ask yourself how addictions can affect the lives of young people. Most effects can be categorized into physical and mental issues. Physical issues are for example Alcohol can permanently damage your liver. 
+Now, you might ask yourself how addictions can affect the lives of young people. Most effects can be categorized into physical and mental issues. Physical issues are for example Alcohol can permanently damage your liver. Going cold turkey would be an example for mental issues.
+
+
