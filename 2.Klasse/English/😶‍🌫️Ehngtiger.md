@@ -22,7 +22,7 @@ Addiction amongst youth and what we can do about it!
 Hi everyone!
 Today I want to write about addiction amongst young people. A statistic from PKA Research from 2019 inspired me to pick up this topic. As I am young myself, I felt the need to write about this.
 
-First of all, let's break down the results: The main results from the bar chart show that by far marijuana is the most common addiction amongst UK youth, which is followed by alcohol and prescription drugs. For age 18-26, prescription drugs lead the chart.
+First of all, let's break down their findings: The main results from the bar chart show that by far marijuana is the most common addiction amongst UK youth, followed by alcohol and prescription drugs.
 
 Now, you might ask yourself how addictions can affect the lives of young people. Most effects can be categorized into physical and social issues. Physical issues are for example the damage to your liver that is caused by Alcohol consumption. Arguing with your friends and family would be an example for a social issue.
 
