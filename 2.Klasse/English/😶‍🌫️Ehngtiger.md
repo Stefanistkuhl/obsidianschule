@@ -17,6 +17,8 @@ The main results from the bar chart show, that by far marijuana is the most comm
 by Stefan 
 6.9.2069
 
+Addiction amongst youth and what we can do about it!
+
 Hi everyone!
 Today I want to write about a statistic about Addiction among UK youth, which was written by PFA Research in 2019. As i am young myself, 
 
@@ -26,4 +28,4 @@ Now, you might ask yourself how addictions can affect the lives of young people.
 
 Lets think about what schools can do to prevent this. In my opinion pupils should be educated about the risks of comsuming drugs and if they plan to try them anyways information on how they can do that in a safe and controlled environment should be provided. 
 
-What do you think about that? If you have any more thoughts about it feel free to leave a comment and join the disccusiion 
+What do you think about that? If you have any more thoughts about it feel free to leave a comment and join the disccusion down below.
