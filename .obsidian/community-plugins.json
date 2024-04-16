@@ -34,5 +34,7 @@
   "obsidian-advanced-slides",
   "vim-yank-highlight",
   "global-search-and-replace",
-  "3d-graph-new"
+  "3d-graph-new",
+  "leader-hotkeys-obsidian",
+  "obsidian-vimrc-support"
 ]
