@@ -18,4 +18,5 @@ by Stefan
 6.9.2069
 
 Hi everyone!
-Today I want to write about a statistic about Addiction among UK youth, which was written by PFA Research in 2019. Becouse i am young myself and 
+Today I want to write about a statistic about Addiction among UK youth, which was written by PFA Research in 2019. As i am young myself, 
+
