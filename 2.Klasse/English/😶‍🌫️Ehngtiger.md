@@ -26,6 +26,6 @@ First of all, let's break down their findings: The main results from the bar cha
 
 Now, you might ask yourself how addictions can affect the lives of young people. Most effects can be categorized into physical and social issues. Physical issues are for example the damage to your liver that is caused by alcohol consumption. Arguing with your friends and family would be an example for a social issue.
 
-Let's think about what schools can do to prevent this. In my opinion pupils should be educated about the risks of consuming drugs. Furthermore if they plan to try them anyway information on how they can do that in a safe and controlled environment should be provided. 
+Let's think about what schools can do to prevent this. In my opinion pupils should be educated about the risks of consuming drugs. Furthermore, if they plan to try them anyway, schools should provide information on how they can do that in a safe and controlled environment. 
 
 What do you think about that? If you have any more thoughts about it, feel free to leave a comment and join the discussion down below.
