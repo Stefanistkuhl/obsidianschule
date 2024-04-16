@@ -522,6 +522,7 @@ KBtID
 KqV
 KPALtU
 Kugeln
+Komplementäre
 ggp
 genauen
 gibt
@@ -2720,6 +2721,7 @@ iwI
 igEU
 iQN
 iNtErCoNnEcteTeN
+indifferente
 dass
 die
 den
@@ -4366,6 +4368,7 @@ kCSRA
 kZQ
 kalt
 kaufen
+konkurrierende
 Jahreszahlen
 Jahresahlen
 Jura

@@ -4,4 +4,3 @@ tags:
   - ipt
 ---
 Komplementäre, konkurrierende, indifferente Ziele
-
