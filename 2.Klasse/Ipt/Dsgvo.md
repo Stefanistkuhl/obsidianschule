@@ -4,6 +4,4 @@ tags:
   - ipt
   - randoomminidinger
 ---
-> Datenschutzgrundverordnung 
-
-Zustimmung um für einen Zweck
+> Datenschutzgrundverordnung regelt den Umgang mit Personenbe
