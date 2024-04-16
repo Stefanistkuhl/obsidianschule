@@ -2477,6 +2477,7 @@ bbbL
 beidem
 blackmage
 blackwell
+bar
 ist
 in
 im
@@ -3057,6 +3058,7 @@ dHA
 dQrr
 dUo
 dfl
+drugs
 es
 entstanden
 entstehen
@@ -4814,6 +4816,7 @@ fwf
 fjv
 fnYE
 firt
+far
 mark
 mit
 mangelnder
@@ -5085,6 +5088,7 @@ muQm
 mjrJat
 mhWWWEBp
 multie
+marijuana
 FFA
 Flüssen
 Furt
@@ -8769,6 +8773,7 @@ wgjWL
 wrsG
 wol
 wirds
+whichs
 christlichen
 code
 charakterisiert
@@ -9034,6 +9039,7 @@ crI
 cbf
 cbbc
 cdba
+chart
 zu
 zum
 zur
@@ -10639,6 +10645,9 @@ ajX
 aAy
 angewegendet
 archetektur
+addiction
+amonst
+alcohol
 oft
 oder
 os
@@ -11608,6 +11617,7 @@ pSz
 pXL
 potiontial
 personenbezogenen
+presription
 reiches
 real
 running
@@ -11900,6 +11910,7 @@ rrOE
 rOG
 rnI
 rscg
+results
 hat
 hervorgerufen
 haben
@@ -13379,6 +13390,7 @@ Qqs
 überdecken
 übungsaufgaben
 überhaupt
+üben
 öffentliche
 öffnung
 ökonomisch
@@ -13866,6 +13878,7 @@ yqPO
 yG
 yozq
 yOHJBxL
+youth
 XaShZjh
 XXtqRDri
 Xc
