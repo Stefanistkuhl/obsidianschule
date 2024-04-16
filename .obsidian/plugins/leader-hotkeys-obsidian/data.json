@@ -1,0 +1,23 @@
+{
+  "hotkeys": [
+    {
+      "sequence": [
+        {
+          "key": " ",
+          "shift": false,
+          "alt": false,
+          "ctrl": false,
+          "meta": false
+        },
+        {
+          "key": "d",
+          "shift": false,
+          "alt": false,
+          "ctrl": false,
+          "meta": false
+        }
+      ],
+      "commandID": "obsidian-excalidraw-plugin:excalidraw-autocreate-newtab"
+    }
+  ]
+}
