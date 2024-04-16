@@ -9,4 +9,3 @@ tags:
 # sa üben
 
 p59 4c)
-oida akl überall hoch und grad bei 12-17 deppat hoch 
