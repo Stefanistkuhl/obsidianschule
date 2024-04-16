@@ -3,6 +3,7 @@ tags:
   - 2te_Klasse
   - ipt
 ---
+![[Ziele]]
 ![[DR20-02-2024-43.excalidraw]]
 - Unklarheiten im Projekt →
 	- Recherche
