@@ -17,4 +17,5 @@ The main results from the bar chart show, that by far marijuana is the most comm
 by Stefan 
 6.9.2069
 
-Hi everyone
+Hi everyone!
+
