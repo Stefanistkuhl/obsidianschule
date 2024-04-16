@@ -24,4 +24,4 @@ First of all lets break down the results: The main results from the bar chart sh
 
 Now, you might ask yourself how addictions can affect the lives of young people. Most effects can be categorized into physical and soical issues. Physical issues are for example Alcohol can permanently damage your liver. Losing your freinds would be an example for a social issue.
 
-
+Lastly
