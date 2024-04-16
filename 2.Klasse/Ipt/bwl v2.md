@@ -4,4 +4,4 @@
 ![[Vision]]
 ![[Projektmagment]]
 ![[Monetäre Ziele]]
-![[]]
+![[Dsgvo]]
