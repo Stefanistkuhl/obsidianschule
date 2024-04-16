@@ -4,4 +4,4 @@ tags:
   - ipt
   - randoomminidinger
 ---
-> Datenschutzgrundverordnung regelt den Umgang mit Personenbe
+> Datenschutzgrundverordnung ist ein  regelt den Umgang mit personenbezogenen Daten 
