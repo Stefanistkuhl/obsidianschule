@@ -134,5 +134,14 @@
       "key": "D"
     }
   ],
-  "editor:delete-paragraph": []
+  "editor:delete-paragraph": [],
+  "leader-hotkeys-obsidian:register-modal": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
+    }
+  ],
+  "obsidian-completr:completr-open-suggestion-popup": []
 }
