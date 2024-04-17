@@ -48,7 +48,7 @@ Trigger
 Coping mechanisms → begreifs mechanismen
 Support Network 
 Intervention
-Stigma
+Stigma → vorurteile
 Recovery journey
 Sobriety → beeing sober like not drinking for a month
 Treatment
