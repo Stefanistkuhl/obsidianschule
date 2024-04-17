@@ -39,7 +39,7 @@ Dependency
 Substance abuse 
 Withdrawal
 Craving → something you really need to do 
-Compulsion → irresistable urge to do something specific
+Compulsion → irresistable urge to do something specific → zwang
 Recovery 
 Relapse 
 Rehabilitation 
@@ -50,7 +50,7 @@ Support Network
 Intervention
 Stigma
 Recovery journey
-Sobriety
+Sobriety → beeing sober like not drinking for a month
 Treatment
 Peer preasure 
 Dual diagnosis 
