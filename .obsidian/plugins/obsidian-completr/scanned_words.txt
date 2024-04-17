@@ -866,6 +866,7 @@ generation
 graka
 gpu
 gebrauchten
+gruppenzwang
 Zettel
 Zwingen
 Zeichen
@@ -1772,6 +1773,8 @@ DEE
 Davor
 Danach
 Datenschutzgrundverordnung
+Dependency
+Detoxification
 Problem
 Pest
 Portugal
@@ -2128,6 +2131,7 @@ PJM
 Pdj
 Pfeile
 PKA
+Peer
 bei
 background
 bis
@@ -2482,6 +2486,7 @@ beidem
 blackmage
 blackwell
 bar
+begreifs
 ist
 in
 im
@@ -2733,6 +2738,7 @@ inspired
 issues
 issue
 information
+irresistable
 dass
 die
 den
@@ -3070,6 +3076,8 @@ drugs
 down
 damage
 discussion
+drinking
+diagnosis
 es
 entstanden
 entstehen
@@ -3923,6 +3931,9 @@ statistic
 schools
 should
 safe
+something
+specific
+sober
 und
 um
 ungefähr
@@ -4167,6 +4178,7 @@ ukj
 uVMC
 uUqtzY
 unnötig
+urge
 keine
 konnten
 kein
@@ -5115,6 +5127,9 @@ marijuana
 myself
 might
 more
+mechanisms
+mechanismen
+month
 FFA
 Flüssen
 Furt
@@ -5878,6 +5893,9 @@ CBhia
 CBcI
 CMRE
 CqK
+Craving
+Compulsion
+Coping
 Urgeschichte
 Universitäten
 Ufern
@@ -6776,6 +6794,9 @@ Rxf
 Raumtemperatur
 Rückweg
 Research
+Relapse
+Rückfall
+Rehabilitation
 vor
 verbreiten
 vom
@@ -7074,6 +7095,7 @@ vmw
 vLh
 vrss
 vbvuiSb
+vorurteile
 West
 Welt
 Wachstum
@@ -7361,6 +7383,7 @@ WOg
 WBF
 Wärme
 What
+Withdrawal
 Latein
 Leute
 Läuse
@@ -9559,6 +9582,8 @@ TTbE
 Tabellen
 Tietel
 Today
+Trigger
+Treatment
 Städte
 Südamerika
 Spanien
@@ -10035,6 +10060,9 @@ SRr
 SWm
 SCIuD
 Statisches
+Substance
+Stigma
+Sobriety
 Handel
 Hygiene
 Halbleiter
@@ -10694,6 +10722,8 @@ ask
 addictions
 affect
 anyway
+abhängigkeit
+abuse
 oft
 oder
 os
@@ -11397,6 +11427,7 @@ IBP
 ITHU
 ITd
 IvF
+Intervention
 pest
 pos
 purpose
@@ -11671,6 +11702,7 @@ prevent
 pupils
 plan
 provide
+preasure
 reiches
 real
 running
@@ -11965,6 +11997,7 @@ rnI
 rscg
 results
 risks
+really
 hat
 hervorgerufen
 haben
@@ -12998,6 +13031,7 @@ jRE
 jgT
 jCgbSBk
 join
+journey
 ähnlich
 ändern
 ähnliches
