@@ -47,3 +47,10 @@ Detoxification
 Trigger 
 Coping mechanisms 
 Support Network 
+Intervention
+Stigma
+Recovery journey
+Sobriety
+Treatment
+Peer preasure 
+Dual diagnosis 
