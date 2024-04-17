@@ -36,7 +36,7 @@ What do you think about that? If you have any more thoughts about it, feel free 
 
 Addiction 
 Dependency → abhängigkeit 
-Substance abuse → obvi
+Substance abuse
 Withdrawal  
 Craving → something you really need to do 
 Compulsion → irresistable urge to do something specific → zwang
