@@ -39,7 +39,7 @@ Dependency
 Substance abuse 
 Withdrawal
 Craving - something you really need to do 
-Compulsion - irresis
+Compulsion - irresistable urge to do something specific
 Recovery 
 Relapse 
 Rehabilitation 
