@@ -250,6 +250,9 @@ tNOD
 tHq
 tTS
 tonne
+topic
+try
+thoughts
 Klasse
 Kreuzritter
 Klagenfurt
@@ -2124,6 +2127,7 @@ PYE
 PJM
 Pdj
 Pfeile
+PKA
 bei
 background
 bis
@@ -2725,6 +2729,10 @@ igEU
 iQN
 iNtErCoNnEcteTeN
 indifferente
+inspired
+issues
+issue
+information
 dass
 die
 den
@@ -3059,6 +3067,9 @@ dQrr
 dUo
 dfl
 drugs
+down
+damage
+discussion
 es
 entstanden
 entstehen
@@ -3442,6 +3453,9 @@ eTvUBOU
 erscheinen
 ernergie
 effeizienz
+everyone
+effects
+educated
 Übergange
 Übergänge
 Übergang
@@ -3905,6 +3919,10 @@ stI
 steckt
 serie
 schaß
+statistic
+schools
+should
+safe
 und
 um
 ungefähr
@@ -4817,6 +4835,11 @@ fjv
 fnYE
 firt
 far
+felt
+findings
+friends
+family
+free
 mark
 mit
 mangelnder
@@ -5089,6 +5112,9 @@ mjrJat
 mhWWWEBp
 multie
 marijuana
+myself
+might
+more
 FFA
 Flüssen
 Furt
@@ -5379,6 +5405,7 @@ FooGxx
 Festoffe
 Flüssig
 Fächer
+Furthermore
 nach
 neue
 negativen
@@ -6748,6 +6775,7 @@ Ryc
 Rxf
 Raumtemperatur
 Rückweg
+Research
 vor
 verbreiten
 vom
@@ -7332,6 +7360,7 @@ WJg
 WOg
 WBF
 Wärme
+What
 Latein
 Leute
 Läuse
@@ -7620,6 +7649,7 @@ Lmd
 Lbx
 Lfu
 LtUKhOre
+Let
 Ost
 OS
 Obwohl
@@ -8197,6 +8227,8 @@ Ajz
 AnN
 AHusB
 AlBf
+Addiction
+Arguing
 Griechisch
 Glauben
 Gewalt
@@ -8774,6 +8806,7 @@ wrsG
 wol
 wirds
 whichs
+want
 christlichen
 code
 charakterisiert
@@ -9040,6 +9073,12 @@ cbf
 cbbc
 cdba
 chart
+categorized
+caused
+consumption
+consuming
+controlled
+comment
 zu
 zum
 zur
@@ -9518,6 +9557,8 @@ TctNKE
 Triebkraft
 TTbE
 Tabellen
+Tietel
+Today
 Städte
 Südamerika
 Spanien
@@ -10648,6 +10689,11 @@ archetektur
 addiction
 amonst
 alcohol
+amongst
+ask
+addictions
+affect
+anyway
 oft
 oder
 os
@@ -11092,6 +11138,7 @@ NSV
 NRXJSEhB
 Nexthop
 Nutzers
+Now
 Infizierte
 Indium
 Instanz
@@ -11618,6 +11665,11 @@ pXL
 potiontial
 personenbezogenen
 presription
+prescription
+prevent
+pupils
+plan
+provide
 reiches
 real
 running
@@ -11911,6 +11963,7 @@ rOG
 rnI
 rscg
 results
+risks
 hat
 hervorgerufen
 haben
@@ -12178,6 +12231,7 @@ hNp
 hBag
 haC
 hhw
+have
 Bananen
 Buch
 Beschreiben
@@ -12942,6 +12996,7 @@ jSX
 jRE
 jgT
 jCgbSBk
+join
 ähnlich
 ändern
 ähnliches
@@ -13206,6 +13261,9 @@ lui
 ltl
 leistung
 latenzprobleme
+lives
+liver
+leave
 Queue
 QHvC
 Qp
@@ -13879,6 +13937,8 @@ yG
 yozq
 yOHJBxL
 youth
+young
+yourself
 XaShZjh
 XXtqRDri
 Xc
