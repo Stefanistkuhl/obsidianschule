@@ -1,7 +1,6 @@
 {
   "pluginList": [
-    "TS-Tobias/obsidian-no-tabs",
-    "HananoshikaYomaru/obsidian-3d-graph"
+    "TS-Tobias/obsidian-no-tabs"
   ],
   "pluginSubListFrozenVersion": [],
   "themesList": [],
@@ -13,5 +12,6 @@
   "loggingVerboseEnabled": false,
   "debuggingMode": true,
   "notificationsEnabled": true,
+  "personalAccessToken": "",
   "ribbonIconEnabled": true
 }
