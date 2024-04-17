@@ -38,8 +38,8 @@ Addiction
 Dependency 
 Substance abuse 
 Withdrawal
-Craving - something you really need to do 
-Compulsion - irresistable urge to do something specific
+Craving → something you really need to do 
+Compulsion → irresistable urge to do something specific
 Recovery 
 Relapse 
 Rehabilitation 
