@@ -36,4 +36,14 @@ What do you think about that? If you have any more thoughts about it, feel free 
 
 Addiction 
 Dependency 
-Su
+Substance abuse 
+Withdrawal
+Craving
+Compulsion 
+Recovery 
+Relapse 
+Rehabilitation 
+Detoxification 
+Trigger 
+Coping mechanisms 
+Support Network 
