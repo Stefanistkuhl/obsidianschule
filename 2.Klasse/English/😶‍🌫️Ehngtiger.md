@@ -41,7 +41,7 @@ Withdrawal
 Craving → something you really need to do 
 Compulsion → irresistable urge to do something specific → zwang
 Recovery 
-Relapse 
+Relapse → Rückfall
 Rehabilitation 
 Detoxification 
 Trigger 
