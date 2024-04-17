@@ -35,9 +35,9 @@ What do you think about that? If you have any more thoughts about it, feel free 
 # ka oia
 
 Addiction 
-Dependency 
-Substance abuse 
-Withdrawal
+Dependency → abhängigkeit 
+Substance abuse → obvi
+Withdrawal  
 Craving → something you really need to do 
 Compulsion → irresistable urge to do something specific → zwang
 Recovery 
