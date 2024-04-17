@@ -45,7 +45,7 @@ Relapse → Rückfall
 Rehabilitation 
 Detoxification 
 Trigger 
-Coping mechanisms 
+Coping mechanisms → begreifs mechanismen
 Support Network 
 Intervention
 Stigma
