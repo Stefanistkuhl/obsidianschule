@@ -38,8 +38,8 @@ Addiction
 Dependency 
 Substance abuse 
 Withdrawal
-Craving
-Compulsion 
+Craving - something you really need to do 
+Compulsion - irresis
 Recovery 
 Relapse 
 Rehabilitation 
