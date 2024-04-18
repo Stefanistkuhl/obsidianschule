@@ -56,3 +56,4 @@ oversvierungen:
 - 2/5 aller leute zocken
 - Wachstum überall
 
+Eine Befragung zum Thema Computerspiele hat gezeigt, dass mittlerweile zwei von fünf 
