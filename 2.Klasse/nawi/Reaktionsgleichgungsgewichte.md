@@ -25,4 +25,4 @@ Bei schwachen Säuren ist das umkehrbar!
 
 $$CH_{3}C00+H_{2}O(Essissäure)
 ←→CH_{3}COO⁻+H_{3}O⁺$$
-
+                                         
