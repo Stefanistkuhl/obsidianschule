@@ -253,6 +253,7 @@ tonne
 topic
 try
 thoughts
+typen
 Klasse
 Kreuzritter
 Klagenfurt
@@ -526,6 +527,7 @@ KqV
 KPALtU
 Kugeln
 Komplementäre
+Kategorien
 ggp
 genauen
 gibt
@@ -867,6 +869,9 @@ graka
 gpu
 gebrauchten
 gruppenzwang
+größtes
+gewachsen
+gezeigt
 Zettel
 Zwingen
 Zeichen
@@ -1776,6 +1781,7 @@ Danach
 Datenschutzgrundverordnung
 Dependency
 Detoxification
+Datenpunkte
 Problem
 Pest
 Portugal
@@ -2489,6 +2495,8 @@ blackmage
 blackwell
 bar
 begreifs
+bissl
+befragt
 ist
 in
 im
@@ -3467,6 +3475,7 @@ everyone
 effects
 educated
 entladen
+einteteilt
 Übergange
 Übergänge
 Übergang
@@ -3937,6 +3946,8 @@ safe
 something
 specific
 sober
+stammen
+sieben
 und
 um
 ungefähr
@@ -4856,6 +4867,8 @@ findings
 friends
 family
 free
+frauen
+fünf
 mark
 mit
 mangelnder
@@ -5134,6 +5147,7 @@ more
 mechanisms
 mechanismen
 month
+mittlerweile
 FFA
 Flüssen
 Furt
@@ -5902,6 +5916,7 @@ CqK
 Craving
 Compulsion
 Coping
+Computerspiele
 Urgeschichte
 Universitäten
 Ufern
@@ -6514,6 +6529,7 @@ MaC
 MfpM
 MzB
 MMs
+Mädchen
 Rom
 Ratten
 Römischen
@@ -7103,6 +7119,7 @@ vrss
 vbvuiSb
 vorurteile
 vollständig
+veröffentlicht
 West
 Welt
 Wachstum
@@ -8266,6 +8283,9 @@ Akkus
 Also
 Akku
 ANALYSE
+Altersgruppen
+Aris
+Altersgruppe
 Griechisch
 Glauben
 Gewalt
@@ -8572,6 +8592,7 @@ Gbit
 Gesetz
 GRÜN
 GRAFIK
+Geschlecht
 wurden
 wegen
 wird
@@ -9337,6 +9358,7 @@ zlm
 zOhMuPo
 zeichnen
 zusammengetzt
+zocken
 Theologie
 Thema
 Teller
@@ -10080,6 +10102,7 @@ Substance
 Stigma
 Sobriety
 Sowohl
+Statistik
 Handel
 Hygiene
 Halbleiter
@@ -10741,6 +10764,8 @@ affect
 anyway
 abhängigkeit
 abuse
+analfick
+aktivitäten
 oft
 oder
 os
@@ -10937,6 +10962,7 @@ oJk
 oCIfPfKR
 optmiert
 oia
+oversvierungen
 Namen
 Neuzeit
 Nord
@@ -12614,6 +12640,11 @@ BSd
 BhzXtFcA
 Beobachtung
 Beides
+Befragung
+Befragten
+Bitkom
+Balkendiagramm
+Buben
 Voraussetzungen
 Valenziabrücken
 Vekehrswesen
@@ -12900,6 +12931,7 @@ VYJ
 VVXPXp
 Vier
 Viele
+Videospiele
 je
 jeder
 jeweils
@@ -13049,6 +13081,8 @@ jgT
 jCgbSBk
 join
 journey
+jährige
+jüngste
 ähnlich
 ändern
 ähnliches
@@ -13059,6 +13093,7 @@ journey
 älteren
 ästhethisch
 änderungen
+älter
 linke
 liefern
 leeres
@@ -13317,6 +13352,7 @@ latenzprobleme
 lives
 liver
 leave
+leute
 Queue
 QHvC
 Qp

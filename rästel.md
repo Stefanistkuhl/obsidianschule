@@ -1,1 +1,0 @@
-cater undsohn fahrem im auto schwerer umfall vater wird sofot getötet sohn kommt mit ner kopfervlertzungs ins spital wird von nem spezialisten behaldelt chihroug kommt rein und sagt oida mein sohn kann ich nd operieren 
