@@ -49,6 +49,6 @@ arugment:
 # WIR FAHREN GRÜN GRAFIK ANALYSE 
 
 ![[Pasted image 20240418143027.png]]
-:
-- 50-64
+oversvierungen:
+- 50-64 größtes % Wachtstum
 - 
