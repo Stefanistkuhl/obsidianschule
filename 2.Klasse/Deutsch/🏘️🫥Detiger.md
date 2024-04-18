@@ -50,6 +50,3 @@ arugment:
 # WIR FAHREN GRÜN GRAFIK ANALYSE 
 
 ![[Pasted image 20240418142408.png]]
-
-
-
