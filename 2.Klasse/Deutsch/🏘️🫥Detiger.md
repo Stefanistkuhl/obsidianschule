@@ -56,4 +56,4 @@ oversvierungen:
 - 2/5 aller leute zocken
 - Wachstum überall
 
-Die Befragung "Zwei von fünf spielen Computer u" zum Thema Computerspiele hat gezeigt, dass mittlerweile zwei von fünf 
+Die Befragung "Zwei von fünf spielen Computer- und Video Spiele" zum Thema Computerspiele hat gezeigt, dass mittlerweile zwei von fünf Befragten  
