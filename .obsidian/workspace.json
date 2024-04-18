@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "08ee9ede85919206",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Zeichnungen/DR18-04-2024-09.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichnungen/DR18-04-2024-09.excalidraw.md",
+                "file": "2.Klasse/nawi/Reaktionsgleichgungsgewichte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Zeichnungen/DR18-04-2024-09.excalidraw.md"
+                "file": "2.Klasse/nawi/Reaktionsgleichgungsgewichte.md"
               }
             }
           },
@@ -191,10 +180,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "08ee9ede85919206",
+  "active": "f9758e4b362c70b2",
   "lastOpenFiles": [
-    "2.Klasse/nawi/Reaktionsgleichgungsgewichte.md",
     "Zeichnungen/DR18-04-2024-09.excalidraw.md",
+    "2.Klasse/nawi/Reaktionsgleichgungsgewichte.md",
     "2.Klasse/nawi/Reaktionsgleichung.md",
     "2.Klasse/nawi/Reaktopns ding mit entopie.md",
     "2.Klasse/nawi/Versuch Zitronensäure mit Natriumcarbonatdecahydrat entopie.md",

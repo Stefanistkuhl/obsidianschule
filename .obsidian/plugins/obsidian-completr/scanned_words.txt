@@ -1426,6 +1426,7 @@ Enthalpie
 Endotherme
 Einflusgröße
 Entropie
+Entladen
 Das
 Dasselbe
 Diode
@@ -2132,6 +2133,7 @@ Pdj
 Pfeile
 PKA
 Peer
+Photosynthese
 bei
 background
 bis
@@ -3464,6 +3466,7 @@ effeizienz
 everyone
 effects
 educated
+entladen
 Übergange
 Übergänge
 Übergang
@@ -4179,6 +4182,7 @@ uVMC
 uUqtzY
 unnötig
 urge
+umkerhrbar
 keine
 konnten
 kein
@@ -5657,6 +5661,7 @@ nGU
 nb
 njj
 nvidi
+ncht
 Christus
 Christianisierung
 Christentum
@@ -7096,6 +7101,7 @@ vLh
 vrss
 vbvuiSb
 vorurteile
+vollständig
 West
 Welt
 Wachstum
@@ -7673,6 +7679,7 @@ Lbx
 Lfu
 LtUKhOre
 Let
+Laden
 Ost
 OS
 Obwohl
@@ -8252,6 +8259,10 @@ AHusB
 AlBf
 Addiction
 Arguing
+Atmung
+Akkus
+Also
+Akku
 Griechisch
 Glauben
 Gewalt
@@ -10063,6 +10074,7 @@ Statisches
 Substance
 Stigma
 Sobriety
+Sowohl
 Handel
 Hygiene
 Halbleiter
