@@ -13,4 +13,5 @@ $$C_{6}H_{12}+6O_{2}←→6CO_{2}+6H_{2}O$$
 Atmung →
 ← Photosynthese
 b) Akkus
-A+B Laden
+A+B Laden → ← Entladen C+D
+Also beim Akku is die die eine Reaktion Laden und eine entladen in dem Bsp
