@@ -47,4 +47,9 @@ arugment:
 	- Sobald ein Land den ersten Schritt in so einem beginnt werden, andere folgen und so wird solche Technik mehr verbreitet und hilft im Langen mehr der Umwelt, weil es so de Zerstörung der Umwelt durch Viehzucht vermindert.
 	
 
-# WIR FAHREN GRÜN GRA
+# WIR FAHREN GRÜN GRAFIK ANALYSE 
+
+![[Pasted image 20240418142408.png]]
+
+
+
