@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/nawi/Reaktopns ding mit entopie.md",
+                "file": "2.Klasse/nawi/Reaktionsgleichgungsgewichte.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/nawi/Reaktopns ding mit entopie.md",
+                "file": "2.Klasse/nawi/Reaktionsgleichgungsgewichte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/nawi/Reaktopns ding mit entopie.md"
+                "file": "2.Klasse/nawi/Reaktionsgleichgungsgewichte.md"
               }
             }
           },
@@ -182,10 +182,11 @@
   },
   "active": "f9758e4b362c70b2",
   "lastOpenFiles": [
-    "2.Klasse/nawi/Versuch Zitronensäure mit Natriumcarbonatdecahydrat entopie.md",
-    "2.Klasse/nawi/Reaktopns ding mit entopie.md",
-    "2.Klasse/nawi/Übung zum Ausgleichen von Reaktionsgleichungen.md",
     "2.Klasse/nawi/Reaktionsgleichung.md",
+    "2.Klasse/nawi/Reaktionsgleichgungsgewichte.md",
+    "2.Klasse/nawi/Reaktopns ding mit entopie.md",
+    "2.Klasse/nawi/Versuch Zitronensäure mit Natriumcarbonatdecahydrat entopie.md",
+    "2.Klasse/nawi/Übung zum Ausgleichen von Reaktionsgleichungen.md",
     "2.Klasse/nawi/Bsp zu Chemischen Rechnungen.md",
     "2.Klasse/nawi/Chemisches Rechen.md",
     "2.Klasse/Medt/Farbe und Kontrast.md",
@@ -227,7 +228,6 @@
     "2.Klasse/Netzwerktiger/Statisches Routing in einem Großen Netzwerk.md",
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
     "2.Klasse/Sysgrrrrtechnik/werkstatt gpu dings notizen oidoa.md",
-    "2.Klasse/Netzwerktiger/Vorlage.md",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
     "Zeichnungen/Untitled.canvas"
   ]

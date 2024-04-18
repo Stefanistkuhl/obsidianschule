@@ -13,3 +13,4 @@ Bsp: Wir haben zwei Reaktionen gesehen:
 
 $$2H_{2}+O_{2}→2H_{2}O$$
 ![[Übung zum Ausgleichen von Reaktionsgleichungen]]
+![[Reaktionsgleichgungsgewichte]]
