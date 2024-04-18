@@ -22,5 +22,6 @@ Also beim Akku is die die eine Reaktion Laden und eine entladen in dem Bsp
 Bsp: Schwache Säure
 Soure .. Kann man in H-Atome abgeben, behalten sich dabei das e- 
 Bei schwachen Säuren ist das umkehrbar!
-$$CH_{3}C00+H_{2}(Oessissäure)
-←→CH_{3}$$
+
+$$CH_{3}C00+H_{2}O(Essissäure)
+←→CH_{3}COO⁻+H_{3}O⁺$$
