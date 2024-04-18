@@ -18,4 +18,3 @@ Also beim Akku is die die eine Reaktion Laden und eine entladen in dem Bsp
 
 > Viele Reaktionen laufen ncht vollständig in eine Richtung ab:
 
-A+B ←→ C+D
