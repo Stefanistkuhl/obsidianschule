@@ -10,4 +10,4 @@ tags:
 insgesamt: $$ΔG=ΔH-TΔS <0$$
 G → Gibs-Energie
 
-> Wen
+> Wenn ΔG<0, dann möchte die Reaktion A+B → C+D bevorzugt von links nach rechts ablaufen.
