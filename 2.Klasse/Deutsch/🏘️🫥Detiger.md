@@ -56,4 +56,4 @@ oversvierungen:
 - 2/5 aller leute zocken
 - Wachstum überall
 
-Die Befragung "Zwei von fünf spielen Computer- und Videospiele" zum Thema Computerspiele hat gezeigt, dass mittlerweile zwei von fünf Befragten regelmäßig solche aktivitäten ausführen. Die Grafik 
+Die Befragung "Zwei von fünf spielen Computer- und Videospiele" zum Thema Computerspiele hat gezeigt, dass mittlerweile zwei von fünf Befragten regelmäßig solche aktivitäten ausführen. Es wurden vier Altersgruppen befragt zwischen 1
