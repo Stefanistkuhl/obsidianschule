@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d85baf3c88764525",
+            "id": "69cf7e6648e33c53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Deutsch/🏘️🫥Detiger.md",
+                "file": "rästel.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Deutsch/🏘️🫥Detiger.md",
+                "file": "rästel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Deutsch/🏘️🫥Detiger.md"
+                "file": "rästel.md"
               }
             }
           },
@@ -180,10 +180,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d85baf3c88764525",
+  "active": "69cf7e6648e33c53",
   "lastOpenFiles": [
-    "2.Klasse/Deutsch/Grafikanalyse.md",
     "2.Klasse/Deutsch/🏘️🫥Detiger.md",
+    "rästel.md",
+    "2.Klasse/Deutsch/Grafikanalyse.md",
     "templates/Deutsch.md",
     "bilder/Pasted image 20240418143027.png",
     "bilder/Pasted image 20240418142408.png",
@@ -227,7 +228,6 @@
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/alt/2.jpg",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/alt/1.jpg",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/alt/12.jpg",
-    "Untitled.md",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
     "Zeichnungen/Untitled.canvas"
   ]
