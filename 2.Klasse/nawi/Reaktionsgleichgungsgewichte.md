@@ -32,5 +32,4 @@ $$CH_{3}C00+H_{2}O
 Anwendung 
 - Spurensicherung bei DNA-Proben 
 - Stabilhalten von Stoffen, sich bei pH-Wertändeerungen zersetzen würden
-
-Zb dna proben dürfen nicht den Ph wert ändern deshalb wird eine schwache Säure (Pufferlösung) benutzt, damit Basen aufgefangen werden und die probe sich nicht verändert.
+![[Reaktionsgeschwindigkeit]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/nawi/Reaktionsgleichgungsgewichte.md",
+                "file": "2.Klasse/nawi/Reaktionsgeschwindigkeit.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/nawi/Reaktionsgleichgungsgewichte.md",
+                "file": "2.Klasse/nawi/Reaktionsgeschwindigkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/nawi/Reaktionsgleichgungsgewichte.md"
+                "file": "2.Klasse/nawi/Reaktionsgeschwindigkeit.md"
               }
             }
           },
@@ -182,8 +182,9 @@
   },
   "active": "f9758e4b362c70b2",
   "lastOpenFiles": [
-    "Zeichnungen/DR18-04-2024-09.excalidraw.md",
     "2.Klasse/nawi/Reaktionsgleichgungsgewichte.md",
+    "2.Klasse/nawi/Reaktionsgeschwindigkeit.md",
+    "Zeichnungen/DR18-04-2024-09.excalidraw.md",
     "2.Klasse/nawi/Reaktionsgleichung.md",
     "2.Klasse/nawi/Reaktopns ding mit entopie.md",
     "2.Klasse/nawi/Versuch Zitronensäure mit Natriumcarbonatdecahydrat entopie.md",
@@ -227,7 +228,6 @@
     "test.md",
     "2.Klasse/Sysgrrrrtechnik/oida scheiß rechte in linux ich hasse mich so sehr.md",
     "2.Klasse/Netzwerktiger/Statisches Routing in einem Großen Netzwerk.md",
-    "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
     "Zeichnungen/Untitled.canvas"
   ]
