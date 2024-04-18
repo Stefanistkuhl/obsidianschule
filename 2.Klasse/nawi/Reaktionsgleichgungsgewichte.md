@@ -20,4 +20,6 @@ Also beim Akku is die die eine Reaktion Laden und eine entladen in dem Bsp
 
 ![[DR18-04-2024-09.excalidraw]]
 Bsp: Schwache Säure
+Soure .. Kann man in H-Atome abgeben, behalten sich dabei das e- 
+Bei schwachen Säuren ist das umkehrbar!
 
