@@ -28,3 +28,5 @@ $$CH_{3}C00+H_{2}O
 ‎‎‎‎‎‎‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎Essigsäure‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎Base
 
 > Wenn sowhol Säure als auch die dazugehörige Base in einer Lösung vorhanden sind, spricht man von einer Pufferlösung.
+
+Zb dna problem dürfen nicht den Ph wert ändern deshalb wird eine schwache Säure benutzt, damit Basen aufgefangen werden und die probe sich nicht ver
