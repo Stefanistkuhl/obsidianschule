@@ -5425,6 +5425,7 @@ Festoffe
 Flüssig
 Fächer
 Furthermore
+FAHREN
 nach
 neue
 negativen
@@ -7390,6 +7391,7 @@ WBF
 Wärme
 What
 Withdrawal
+WIR
 Latein
 Leute
 Läuse
@@ -8263,6 +8265,7 @@ Atmung
 Akkus
 Also
 Akku
+ANALYSE
 Griechisch
 Glauben
 Gewalt
@@ -8567,6 +8570,8 @@ Glas
 Gasentwicklung
 Gbit
 Gesetz
+GRÜN
+GRAFIK
 wurden
 wegen
 wird
@@ -13053,6 +13058,7 @@ journey
 äußeren
 älteren
 ästhethisch
+änderungen
 linke
 liefern
 leeres

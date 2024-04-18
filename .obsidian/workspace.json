@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6126c9c64e15a514",
+        "id": "8ef7449b58c17a9a",
         "type": "tabs",
         "children": [
           {
-            "id": "f9758e4b362c70b2",
+            "id": "d85baf3c88764525",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Deutsch/🏘️🫥Detiger.md",
+                "file": "2.Klasse/Deutsch/Grafikanalyse.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Deutsch/🏘️🫥Detiger.md",
+                "file": "2.Klasse/Deutsch/Grafikanalyse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Deutsch/🏘️🫥Detiger.md"
+                "file": "2.Klasse/Deutsch/Grafikanalyse.md"
               }
             }
           },
@@ -181,8 +180,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "f9758e4b362c70b2",
+  "active": "d85baf3c88764525",
   "lastOpenFiles": [
+    "2.Klasse/Deutsch/🏘️🫥Detiger.md",
+    "templates/Deutsch.md",
+    "2.Klasse/Deutsch/Grafikanalyse.md",
     "bilder/Pasted image 20240418143027.png",
     "bilder/Pasted image 20240418142408.png",
     "2.Klasse/nawi/Reaktionsgeschwindigkeit.md",
@@ -225,10 +227,7 @@
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/alt/2.jpg",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/alt/1.jpg",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/alt/12.jpg",
-    "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/alt/11.jpg",
     "Untitled.md",
-    "oida.at.md",
-    "test.md",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
     "Zeichnungen/Untitled.canvas"
   ]
