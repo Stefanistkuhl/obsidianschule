@@ -59,4 +59,4 @@ oversvierungen:
 Die Befragung "Zwei von fünf spielen Computer- und Videospiele" zum Thema Computerspiele hat gezeigt, dass mittlerweile zwei von fünf Befragten regelmäßig solche aktivitäten ausführen. Es wurden vier Altersgruppen befragt zwischen 14 und 65 oder älter. Die Daten stammen von "Bitkom" und "Aris", sie im Jahre 2015 veröffentlicht.Es handelt sich um ein Balkendiagramm, welches in sieben Kategorien einteteilt ist.
 
 In diesem Balkendiagramm, welches zwei Datenpunkte pro Geschlecht und Altersgruppe hat, die jeweils aus dem Jahre 2014 und 13 sind. 
-Angeführt wird die Statistik von der jüngsten Altersgruppe (14-29), bei welcher 83% der Buben und 80% der Mädchen Videospiele spielen. Gefolgt von 30-49 Jahren, wo jeweils 50 und 44% 
+Angeführt wird die Statistik von der jüngsten Altersgruppe (14-29), bei welcher 83% der Buben und 80% der Mädchen Videospiele spielen. Nach einem größeren Abstand mit 50 und 44% folgen 39 bis 40 jährige.  
