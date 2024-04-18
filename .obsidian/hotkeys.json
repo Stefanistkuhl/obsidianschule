@@ -143,5 +143,14 @@
       "key": " "
     }
   ],
-  "obsidian-completr:completr-open-suggestion-popup": []
+  "obsidian-completr:completr-open-suggestion-popup": [],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "I"
+    }
+  ]
 }
