@@ -50,5 +50,6 @@ arugment:
 
 ![[Pasted image 20240418143027.png]]
 oversvierungen:
-- 50-64 größtes % Wachtstum
+- 50-64 größtes % Wachtstum 10%
+	- danach 14-29 jährige frauen um 9%
 - 
