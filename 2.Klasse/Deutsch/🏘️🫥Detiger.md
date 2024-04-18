@@ -46,7 +46,7 @@ arugment:
 - Beispiel
 	- Sobald ein Land den ersten Schritt in so einem beginnt werden, andere folgen und so wird solche Technik mehr verbreitet und hilft im Langen mehr der Umwelt, weil es so de Zerstörung der Umwelt durch Viehzucht vermindert.
 
-# WIR FAHREN GRÜN GRAFIK ANALYSE 
+# 
 
 ![[Pasted image 20240418143027.png]]
 oversvierungen:
@@ -59,5 +59,5 @@ oversvierungen:
 Die Befragung "Zwei von fünf spielen Computer- und Videospiele" zum Thema Computerspiele hat gezeigt, dass mittlerweile zwei von fünf Befragten regelmäßig solche aktivitäten ausführen. Es wurden vier Altersgruppen befragt zwischen 14 und 65 oder älter. Die Daten stammen von "Bitkom" und "Aris", sie im Jahre 2015 veröffentlicht.Es handelt sich um ein Balkendiagramm, welches in sieben Kategorien einteteilt ist.
 
 
-In diesem Balkendiagramm, welches zwei Datenpunkte pro Geschlecht und Altersgruppe hat, jeweils aus dem Jahre 2014 und 13
+In diesem Balkendiagramm, welches zwei Datenpunkte pro Geschlecht und Altersgruppe hat, die jeweils aus dem Jahre 2014 und 13 sind. 
 
