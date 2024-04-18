@@ -3,4 +3,5 @@ tags:
   - 2te_Klasse
   - nawi
 ---
-$$ H<0$$
+> ΔH<0 und ΔS>0 sind vorteilhaft für den Ablauf einer Reaktion 
+
