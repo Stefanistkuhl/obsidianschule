@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d0be1e14f150fe94",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Zeichnungen/DR18-04-2024-07.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichnungen/DR18-04-2024-07.excalidraw.md",
+                "file": "2.Klasse/nawi/Reaktionsgeschwindigkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +140,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Zeichnungen/DR18-04-2024-07.excalidraw.md"
+                "file": "2.Klasse/nawi/Reaktionsgeschwindigkeit.md"
               }
             }
           },
@@ -191,10 +181,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d0be1e14f150fe94",
+  "active": "f9758e4b362c70b2",
   "lastOpenFiles": [
-    "2.Klasse/nawi/Reaktionsgeschwindigkeit.md",
     "Zeichnungen/DR18-04-2024-07.excalidraw.md",
+    "2.Klasse/nawi/Reaktionsgeschwindigkeit.md",
     "2.Klasse/nawi/Reaktionsgleichgungsgewichte.md",
     "Zeichnungen/DR18-04-2024-09.excalidraw.md",
     "2.Klasse/nawi/Reaktionsgleichung.md",
