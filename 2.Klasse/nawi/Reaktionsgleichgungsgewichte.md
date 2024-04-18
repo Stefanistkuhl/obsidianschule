@@ -30,6 +30,7 @@ $$CH_{3}C00+H_{2}O
 > Wenn sowhol Säure als auch die dazugehörige Base in einer Lösung vorhanden sind, spricht man von einer Pufferlösung.
 
 Anwendung 
-- 
+- Spurensicherung bei DNA-Proben 
+- Stabilhalten von Stoffen, sich bei pH-Wertändeerungen zersetzen würden
 
 Zb dna proben dürfen nicht den Ph wert ändern deshalb wird eine schwache Säure (Pufferlösung) benutzt, damit Basen aufgefangen werden und die probe sich nicht verändert.
