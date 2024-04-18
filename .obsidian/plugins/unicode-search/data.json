@@ -7,8 +7,14 @@
     {
       "char": "Δ",
       "name": "greek capital letter delta",
-      "useCount": 10,
-      "lastUsed": 1713435599496
+      "useCount": 12,
+      "lastUsed": 1713435677657
+    },
+    {
+      "char": "ϕ",
+      "name": "greek phi symbol",
+      "useCount": 6,
+      "lastUsed": 1713435638528
     },
     {
       "char": "↑",
@@ -27,12 +33,6 @@
       "name": "ohm sign",
       "useCount": 10,
       "lastUsed": 1712647808165
-    },
-    {
-      "char": "ϕ",
-      "name": "greek phi symbol",
-      "useCount": 5,
-      "lastUsed": 1710943042300
     },
     {
       "char": "ρ",

@@ -5,3 +5,4 @@ tags:
 ---
 > ΔH<0 und ΔS>0 sind vorteilhaft für den Ablauf einer Reaktion 
 
+> Es gibt Fälle, in denen ΔH>0 ist, die Reakion aber dennoch abläuft. ΔS muss das als
