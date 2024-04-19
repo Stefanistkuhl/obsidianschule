@@ -4,4 +4,7 @@ Unter dem Schalgwort passive Netzwerkkompenen werden alle Produkte zusammengefas
 	- Kupferkabel
 	- Lichtwellenleiter 
 	- Licht- oder Radiowellen
-	- 
+	- Anschlusstecker 
+	- Anschlussdosen 
+	- Patchpanels 
+	- Ne
