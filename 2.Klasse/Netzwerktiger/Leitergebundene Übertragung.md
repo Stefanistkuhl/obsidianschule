@@ -9,7 +9,11 @@ Für die leitergebundene Informafrionsübertraggung werden Medien in Form von Ko
 leitergebundene Übertragungsmedien: 
 - Kupferkabel 
 	- Twisted Pair 
-	- Coax 
+	- Coax
+		- Half Duplex
+		- Satelieten fürs Fershenen 
+		- DAC  
 - Lichtwellenleiter
 	- Glasfaserkabel 
 	- Polymer optische Faser 
+		- Fiber auch zur Beleuchtung
