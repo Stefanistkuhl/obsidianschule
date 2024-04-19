@@ -8,7 +8,7 @@ Für die leitergebundene Informafrionsübertraggung werden Medien in Form von Ko
 
 leitergebundene Übertragungsmedien: 
 - Kupferkabel 
-	- Twisted Pair 
+	- [[Twisted Pair Kabel]] 
 	- Coax
 		- Half Duplex
 		- Satelieten fürs Fershenen 
