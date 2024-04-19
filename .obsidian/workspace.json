@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UTP-Kabel.md",
+                "file": "STP-Kabel.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UTP-Kabel.md",
+                "file": "STP-Kabel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "UTP-Kabel.md"
+                "file": "STP-Kabel.md"
               }
             }
           },
@@ -183,6 +183,7 @@
   "active": "c7641eb34ae32554",
   "lastOpenFiles": [
     "2.Klasse/Netzwerktiger/Twisted Pair Kabel.md",
+    "STP-Kabel.md",
     "UTP-Kabel.md",
     "2.Klasse/Netzwerktiger/Leitergebundene Übertragung.md",
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
@@ -209,7 +210,6 @@
     "2.Klasse/Medt/Gestaltung von Webseiten.md",
     "Gestaltungsregeln.md",
     "2.Klasse/English/😶‍🌫️Ehngtiger.md",
-    "Zeichnungen/DR17-04-2024-02.excalidraw.md",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/Zusatz_StatischesRouting.synctex(busy)",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/pdflatex27972.fls",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/Fürst_StatischesRouting.zip",

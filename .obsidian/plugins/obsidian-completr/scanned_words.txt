@@ -255,6 +255,7 @@ try
 thoughts
 typen
 transportieren
+twisted
 Klasse
 Kreuzritter
 Klagenfurt
@@ -533,6 +534,10 @@ Kupferkabel
 Kopferkabel
 Kupferleiter
 Kunststoff
+Kble
+Kupferadern
+Kupferlizze
+Kupferdraht
 ggp
 genauen
 gibt
@@ -1792,6 +1797,7 @@ Datenpunkte
 Daher
 DIese
 Datensicherheut
+Drathgeflecht
 Problem
 Pest
 Portugal
@@ -2154,6 +2160,7 @@ Planung
 Passive
 Patchpanels
 Polymer
+Patchkabel
 bei
 background
 bis
@@ -2513,6 +2520,8 @@ bissl
 befragt
 beitrage
 benötigit
+bewirt
+benachbarten
 ist
 in
 im
@@ -3497,6 +3506,8 @@ erflogreiche
 entsehen
 elektrischer
 erhebliche
+elektromagnetische
+elekromagnetische
 Übergange
 Übergänge
 Übergang
@@ -3513,6 +3524,7 @@ erhebliche
 Übertragung
 Übertragungsgeschw
 Übertragungsmedien
+Übersprechen
 sind
 style
 schreiben
@@ -3975,6 +3987,8 @@ stammen
 sieben
 sowiso
 schenllen
+sternförmige
+starker
 und
 um
 ungefähr
@@ -4446,6 +4460,7 @@ kZQ
 kalt
 kaufen
 konkurrierende
+kabel
 Jahreszahlen
 Jahresahlen
 Jura
@@ -5182,6 +5197,8 @@ mittlerweile
 mindestns
 mittels
 mobil
+magenetische
+massiver
 FFA
 Flüssen
 Furt
@@ -5477,6 +5494,8 @@ FAHREN
 Für
 Faser
 Fershenen
+Felder
+Folie
 nach
 neue
 negativen
@@ -7161,6 +7180,10 @@ vorurteile
 vollständig
 veröffentlicht
 voneinander
+verdrillten
+verschieden
+verdrillung
+verdrillt
 West
 Welt
 Wachstum
@@ -8337,6 +8360,8 @@ Anschlusstecker
 Anschlussdosen
 Ader
 Adersn
+Adernpaare
+Adernpaaren
 Griechisch
 Glauben
 Gewalt
@@ -8919,6 +8944,7 @@ wol
 wirds
 whichs
 want
+werde
 christlichen
 code
 charakterisiert
@@ -9413,6 +9439,7 @@ zusammengetzt
 zocken
 zusammengefasst
 zuverlässigen
+zusätlicher
 Theologie
 Thema
 Teller
@@ -10163,6 +10190,9 @@ Schichtenmodels
 Schänden
 Steckerverbindungen
 Satelieten
+Schlaglänge
+Schlaglängen
+Schirm
 Handel
 Hygiene
 Halbleiter
@@ -10827,6 +10857,7 @@ abuse
 analfick
 aktivitäten
 ausgetasucht
+abgestrahöt
 oft
 oder
 os
@@ -11544,6 +11575,8 @@ Infrastruktur
 Informafrionsübertraggung
 Isolationsschichten
 Impulse
+Innenleiter
+Instalationskabel
 pest
 pos
 purpose
@@ -11821,6 +11854,7 @@ provide
 preasure
 passive
 physikalischen
+pair
 reiches
 real
 running
@@ -12118,6 +12152,7 @@ risks
 really
 regelnde
 richtige
+reduzieren
 hat
 hervorgerufen
 haben
@@ -13012,6 +13047,9 @@ Vier
 Viele
 Videospiele
 Verkabelung
+Verkabellung
+Verdrillte
+Verdrillung
 je
 jeder
 jeweils
@@ -13436,6 +13474,7 @@ leave
 leute
 leitergebundene
 leitenden
+leitender
 Queue
 QHvC
 Qp
