@@ -7,4 +7,4 @@
 	- Anschlusstecker 
 	- Anschlussdosen 
 	- Patchpanels 
-	- Netzwerkschrän 
+	- Netzwerkschränke
