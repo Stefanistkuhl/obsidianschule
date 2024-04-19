@@ -532,6 +532,7 @@ Kategorien
 Kupferkabel
 Kopferkabel
 Kupferleiter
+Kunststoff
 ggp
 genauen
 gibt
