@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/werkstatt oida.md",
+                "file": "Passive Netzwerkmpontenten.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/werkstatt oida.md",
+                "file": "Passive Netzwerkmpontenten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/werkstatt oida.md"
+                "file": "Passive Netzwerkmpontenten.md"
               }
             }
           },
@@ -182,8 +182,9 @@
   },
   "active": "c7641eb34ae32554",
   "lastOpenFiles": [
-    "2.Klasse/Deutsch/🏘️🫥Detiger.md",
     "2.Klasse/Netzwerktiger/werkstatt oida.md",
+    "Passive Netzwerkmpontenten.md",
+    "2.Klasse/Deutsch/🏘️🫥Detiger.md",
     "rästel.md",
     "2.Klasse/Deutsch/Grafikanalyse.md",
     "templates/Deutsch.md",
@@ -211,7 +212,6 @@
     "2.Klasse/Ipt/Dsgvo.md",
     "2.Klasse/Ipt/Ziele.md",
     "2.Klasse/Ipt/bwl v2.md",
-    "2.Klasse/Ipt/Projektmagment.md",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/Fürst_StatischesRouting.zip",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/alt/StatischesRouting.synctex(busy)",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/alt/pdflatex5818.fls",

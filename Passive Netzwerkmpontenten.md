@@ -1,0 +1,1 @@
+Unter dem Schalgwort passive Netzwerkkompenen werden alle Produkte zusammengefasst, die ohne eigene regelnde Intiligenz dazu beitrage, Informationen von A nach B zu transportieren. Ohne funktionionierende passive Netzwerkkompnenten könn
