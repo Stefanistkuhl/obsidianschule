@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/SUTP-Kabel.md",
+                "file": "Steckverdingungen.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/SUTP-Kabel.md",
+                "file": "Steckverdingungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/SUTP-Kabel.md"
+                "file": "Steckverdingungen.md"
               }
             }
           },
@@ -182,16 +182,17 @@
   },
   "active": "c7641eb34ae32554",
   "lastOpenFiles": [
-    "2.Klasse/Netzwerktiger/UTP-Kabel.md",
+    "2.Klasse/Netzwerktiger/Leitergebundene Übertragung.md",
+    "Steckverdingungen.md",
+    "2.Klasse/Netzwerktiger/Passive Netzwerkmpontenten.md",
     "2.Klasse/Netzwerktiger/SUTP-Kabel.md",
+    "2.Klasse/Netzwerktiger/UTP-Kabel.md",
     "2.Klasse/Netzwerktiger/Twisted Pair Kabel.md",
     "S/UTP-Kabel.md",
     "S",
     "2.Klasse/Netzwerktiger/STP-Kabel.md",
-    "2.Klasse/Netzwerktiger/Leitergebundene Übertragung.md",
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
     "+.md",
-    "2.Klasse/Netzwerktiger/Passive Netzwerkmpontenten.md",
     "2.Klasse/Netzwerktiger/werkstatt oida.md",
     "2.Klasse/Deutsch/🏘️🫥Detiger.md",
     "rästel.md",
@@ -210,7 +211,6 @@
     "2.Klasse/nawi/Bsp zu Chemischen Rechnungen.md",
     "2.Klasse/nawi/Chemisches Rechen.md",
     "2.Klasse/Medt/Farbe und Kontrast.md",
-    "2.Klasse/Medt/Gestaltung von Webseiten.md",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/Zusatz_StatischesRouting.synctex(busy)",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/pdflatex27972.fls",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/Fürst_StatischesRouting.zip",
