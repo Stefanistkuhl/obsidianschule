@@ -7,3 +7,4 @@ Ein Netzwerk mit Twisted-Pair-Kble benutzt eine sternförmige Verkabellung. Die 
 
 [[UTP-Kabel]]
 [[STP-Kabel]]
+[[SUTP-Kabel]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/STP-Kabel.md",
+                "file": "SUTP-Kabel.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/STP-Kabel.md",
+                "file": "SUTP-Kabel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/STP-Kabel.md"
+                "file": "SUTP-Kabel.md"
               }
             }
           },
@@ -182,9 +182,12 @@
   },
   "active": "c7641eb34ae32554",
   "lastOpenFiles": [
-    "2.Klasse/Netzwerktiger/UTP-Kabel.md",
-    "2.Klasse/Netzwerktiger/STP-Kabel.md",
     "2.Klasse/Netzwerktiger/Twisted Pair Kabel.md",
+    "SUTP-Kabel.md",
+    "S/UTP-Kabel.md",
+    "S",
+    "2.Klasse/Netzwerktiger/STP-Kabel.md",
+    "2.Klasse/Netzwerktiger/UTP-Kabel.md",
     "2.Klasse/Netzwerktiger/Leitergebundene Übertragung.md",
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
     "+.md",
@@ -208,8 +211,6 @@
     "2.Klasse/nawi/Chemisches Rechen.md",
     "2.Klasse/Medt/Farbe und Kontrast.md",
     "2.Klasse/Medt/Gestaltung von Webseiten.md",
-    "Gestaltungsregeln.md",
-    "2.Klasse/English/😶‍🌫️Ehngtiger.md",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/Zusatz_StatischesRouting.synctex(busy)",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/pdflatex27972.fls",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/Fürst_StatischesRouting.zip",
@@ -219,7 +220,6 @@
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/alt/pdflatex5799.fls",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/alt/topologie.png.0.pdnSave",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/alt/pdflatex5730.fls",
-    "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/alt/pdflatex5706.fls",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/alt/7.jpg",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/alt/6.jpg",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/alt/5.jpg",
