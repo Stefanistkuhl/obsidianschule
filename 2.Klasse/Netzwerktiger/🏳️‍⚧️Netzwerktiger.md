@@ -86,7 +86,7 @@ D:
 	- Vieher die man braucht
 		- WAP
 		- Wireless Apdaper für Client 
-	- Topologien
+	- Topologiexn
 		- Point to Point 
 		- Stern alles 1 Ap
 		- Reapeater (Ass)
