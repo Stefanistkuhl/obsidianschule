@@ -8286,6 +8286,7 @@ ANALYSE
 Altersgruppen
 Aris
 Altersgruppe
+Angeführt
 Griechisch
 Glauben
 Gewalt
@@ -13083,6 +13084,7 @@ join
 journey
 jährige
 jüngste
+jüngsten
 ähnlich
 ändern
 ähnliches

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "69cf7e6648e33c53",
+            "id": "c7641eb34ae32554",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Deutsch/🏘️🫥Detiger.md",
+                "file": "2.Klasse/Netzwerktiger/werkstatt oida.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Deutsch/🏘️🫥Detiger.md",
+                "file": "2.Klasse/Netzwerktiger/werkstatt oida.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Deutsch/🏘️🫥Detiger.md"
+                "file": "2.Klasse/Netzwerktiger/werkstatt oida.md"
               }
             }
           },
@@ -180,10 +180,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "69cf7e6648e33c53",
+  "active": "c7641eb34ae32554",
   "lastOpenFiles": [
-    "rästel.md",
     "2.Klasse/Deutsch/🏘️🫥Detiger.md",
+    "2.Klasse/Netzwerktiger/werkstatt oida.md",
+    "rästel.md",
     "2.Klasse/Deutsch/Grafikanalyse.md",
     "templates/Deutsch.md",
     "bilder/Pasted image 20240418143027.png",
@@ -211,7 +212,6 @@
     "2.Klasse/Ipt/Ziele.md",
     "2.Klasse/Ipt/bwl v2.md",
     "2.Klasse/Ipt/Projektmagment.md",
-    "Zeichnungen/ICHHASSTEPACEKTRACER.excalidraw.md",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/Fürst_StatischesRouting.zip",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/alt/StatischesRouting.synctex(busy)",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/alt/pdflatex5818.fls",
