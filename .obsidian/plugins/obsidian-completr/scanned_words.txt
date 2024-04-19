@@ -1445,6 +1445,8 @@ Einflusgröße
 Entropie
 Entladen
 Ebenene
+Endgeräte
+Einsazt
 Das
 Dasselbe
 Diode
@@ -1800,6 +1802,7 @@ DIese
 Datensicherheut
 Drathgeflecht
 Drahtgefelcht
+Datensteckern
 Problem
 Pest
 Portugal
@@ -6594,6 +6597,7 @@ MzB
 MMs
 Mädchen
 Meiden
+Miniaturstecksystem
 Rom
 Ratten
 Römischen
@@ -8370,6 +8374,8 @@ Adersn
 Adernpaare
 Adernpaaren
 Aluminiumfoldie
+Anschlussbereich
+Anschlusskabel
 Griechisch
 Glauben
 Gewalt
@@ -10207,6 +10213,7 @@ Schirm
 Schielded
 Screened
 Schirmung
+Steckystem
 Handel
 Hygiene
 Halbleiter
@@ -10873,6 +10880,7 @@ analfick
 aktivitäten
 ausgetasucht
 abgestrahöt
+achtpoliges
 oft
 oder
 os
@@ -13066,6 +13074,8 @@ Verkabelung
 Verkabellung
 Verdrillte
 Verdrillung
+Verbreitung
+Verbundung
 je
 jeder
 jeweils
