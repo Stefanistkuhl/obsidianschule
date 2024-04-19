@@ -2,3 +2,6 @@ Unter dem Schalgwort passive Netzwerkkompenen werden alle Produkte zusammengefas
 
 - Passive Netzwerkkompotnenten: 
 	- Kupferkabel
+	- Lichtwellenleiter 
+	- Licht- oder Radiowellen
+	- 
