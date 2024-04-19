@@ -2152,6 +2152,7 @@ Photosynthese
 Planung
 Passive
 Patchpanels
+Polymer
 bei
 background
 bis
@@ -3510,6 +3511,7 @@ erhebliche
 Übertragungsstrecke
 Übertragung
 Übertragungsgeschw
+Übertragungsmedien
 sind
 style
 schreiben
@@ -4896,6 +4898,7 @@ frauen
 fünf
 funktionierende
 flexibeln
+fürs
 mark
 mit
 mangelnder
@@ -5472,6 +5475,7 @@ Furthermore
 FAHREN
 Für
 Faser
+Fershenen
 nach
 neue
 negativen
@@ -5949,6 +5953,7 @@ Craving
 Compulsion
 Coping
 Computerspiele
+Coax
 Urgeschichte
 Universitäten
 Ufern
@@ -8638,6 +8643,7 @@ Gesetz
 GRÜN
 GRAFIK
 Geschlecht
+Glasfaserkabel
 wurden
 wegen
 wird
@@ -10155,6 +10161,7 @@ Schlüsselfaktoren
 Schichtenmodels
 Schänden
 Steckerverbindungen
+Satelieten
 Handel
 Hygiene
 Halbleiter
@@ -11017,6 +11024,7 @@ optmiert
 oia
 oversvierungen
 order
+optische
 Namen
 Neuzeit
 Nord
@@ -12714,6 +12722,7 @@ Bitkom
 Balkendiagramm
 Buben
 Bedeutung
+Beleuchtung
 Voraussetzungen
 Valenziabrücken
 Vekehrswesen

@@ -95,12 +95,12 @@ D:
 
 ###### <mark style="background: #FFB8EBA6;">Tcp/Ip</mark>
 
-| Name        | Protokoll |
-| ----------- | --------- |
-| Application |          http(s), ftp, dns ... |
-| Transport   |        TCP, UDP, Ports ranges: System: 0-1024, User:1024-49151, Dynamic:49152-65535    |
-| Internet    |  IPv4, IPv6 , Ip Adressen        |
-| Network Access            |    Ethernet,PPP(Point to point protocol),PPoE(over ethernet) Mac Adressen       |
+| Name           | Protokoll                                                                    |
+| -------------- | ---------------------------------------------------------------------------- |
+| Application    | http(s), ftp, dns ...                                                        |
+| Transport      | TCP, UDP, Ports ranges: System: 0-1024, User:1024-49151, Dynamic:49152-65535 |
+| Internet       | IPv4, IPv6 , Ip Adressen                                                     |
+| Network Access | Ethernet,PPP(Point to point protocol),PPoE(over ethernet) Mac Adressen       |
 
 ![[dr_Fr_21_2023_27.excalidraw]]
 
