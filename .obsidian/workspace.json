@@ -17,50 +17,7 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "b1994f98e97f7c5a"
-          }
-        ]
-      },
-      {
-        "id": "e69b0b3be907a276",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "46a48b3cd5e1aa6b",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "2.Klasse/Netzwerktiger/RJ45.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "b1994f98e97f7c5a"
+            }
           }
         ]
       }
