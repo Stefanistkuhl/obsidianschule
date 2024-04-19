@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STP-Kabel.md",
+                "file": "2.Klasse/Netzwerktiger/UTP-Kabel.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STP-Kabel.md",
+                "file": "2.Klasse/Netzwerktiger/UTP-Kabel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "STP-Kabel.md"
+                "file": "2.Klasse/Netzwerktiger/UTP-Kabel.md"
               }
             }
           },
@@ -182,9 +182,9 @@
   },
   "active": "c7641eb34ae32554",
   "lastOpenFiles": [
+    "2.Klasse/Netzwerktiger/STP-Kabel.md",
     "2.Klasse/Netzwerktiger/Twisted Pair Kabel.md",
-    "STP-Kabel.md",
-    "UTP-Kabel.md",
+    "2.Klasse/Netzwerktiger/UTP-Kabel.md",
     "2.Klasse/Netzwerktiger/Leitergebundene Übertragung.md",
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
     "+.md",
