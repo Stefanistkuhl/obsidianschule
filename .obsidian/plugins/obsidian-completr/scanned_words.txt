@@ -2528,6 +2528,8 @@ benötigit
 bewirt
 benachbarten
 betshet
+blog
+become
 ist
 in
 im
@@ -3120,6 +3122,10 @@ damage
 discussion
 drinking
 diagnosis
+discovered
+decided
+describe
+drug
 es
 entstanden
 entstehen
@@ -3514,6 +3520,7 @@ elektrischer
 erhebliche
 elektromagnetische
 elekromagnetische
+explain
 Übergange
 Übergänge
 Übergang
@@ -3995,6 +4002,7 @@ sowiso
 schenllen
 sternförmige
 starker
+share
 und
 um
 ungefähr
@@ -7484,6 +7492,8 @@ Wärme
 What
 Withdrawal
 WIR
+Website
+Websites
 Latein
 Leute
 Läuse
@@ -8960,6 +8970,9 @@ wirds
 whichs
 want
 werde
+website
+why
+whether
 christlichen
 code
 charakterisiert
@@ -9232,6 +9245,7 @@ consumption
 consuming
 controlled
 comment
+consum
 zu
 zum
 zur
@@ -9720,6 +9734,7 @@ Trigger
 Treatment
 Twistet
 Topologiexn
+Topic
 Städte
 Südamerika
 Spanien
@@ -10881,6 +10896,7 @@ aktivitäten
 ausgetasucht
 abgestrahöt
 achtpoliges
+argue
 oft
 oder
 os
@@ -11080,6 +11096,7 @@ oia
 oversvierungen
 order
 optische
+offers
 Namen
 Neuzeit
 Nord
@@ -12445,6 +12462,7 @@ hBag
 haC
 hhw
 have
+helpful
 Bananen
 Buch
 Beschreiben
@@ -13228,6 +13246,7 @@ journey
 jährige
 jüngste
 jüngsten
+just
 ähnlich
 ändern
 ähnliches
@@ -13994,6 +14013,7 @@ YWf
 YII
 YSWl
 YDuSq
+You
 Öffnung
 Öffentliche
 Österreicher
