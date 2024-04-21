@@ -69,6 +69,6 @@ In your blog, you should
 by Stefan 
 21.4.2024, 20:10 
 
-Thanks for brining up the topic Kantar! I have read your post about Gen Z and I mostly agree with you. 
+Thanks for brining up the topic, Kantar! I have read your post about Gen Z and I mostly agree with you. 
 
-To begin with, I agree that Gen Z is more money coun 
+To begin with, I agree that Gen Z is more money conscious.
