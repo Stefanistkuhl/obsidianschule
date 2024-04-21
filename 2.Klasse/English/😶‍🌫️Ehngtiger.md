@@ -73,3 +73,4 @@ Thanks for brining up the topic, Kantar! I have read your post about Gen Z and I
 
 To begin with, I agree that Gen Z is more money conscious. This is shown through product reviews, which previously either didn't exist or were very hard to find. However, I find it very concerning that we favour renting over owning, which has led to the plague of needing a subscription for everything online.
 
+Stigma is one of the most difficult parts of growing up in today's society. 
