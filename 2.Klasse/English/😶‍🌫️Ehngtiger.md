@@ -54,3 +54,6 @@ Sobriety → beeing sober like not drinking for a month
 Treatment
 Peer preasure → gruppenzwang
 Dual diagnosis 
+
+### ka xd
+
