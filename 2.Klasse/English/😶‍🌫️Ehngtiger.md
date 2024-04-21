@@ -69,4 +69,6 @@ In your blog, you should
 by Stefan 
 21.4.2024, 20:10 
 
-Thanks for brining up the topic Kantar! I have read you post about Gen Z and 
+Thanks for brining up the topic Kantar! I have read you post about Gen Z and i mostly agree with you. 
+
+To begin with, 
