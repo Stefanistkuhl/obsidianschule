@@ -71,4 +71,4 @@ by Stefan
 
 Thanks for brining up the topic, Kantar! I have read your post about Gen Z and I mostly agree with you. 
 
-To begin with, I agree that Gen Z is more money conscious. This is shown by the popularity of product reviews, which previously weren't nearly as popular as they are today.  
+To begin with, I agree that Gen Z is more money conscious. This is shown through product reviews, which previously either didnt exists or were niec 
