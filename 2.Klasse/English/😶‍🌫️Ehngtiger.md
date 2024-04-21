@@ -73,4 +73,8 @@ Thanks for brining up the topic, Kantar! I have read your post about Gen Z and I
 
 To begin with, I agree that Gen Z is more money conscious. This is shown through product reviews, which previously either didn't exist or were very hard to find. However, I find it very concerning that we favour renting over owning, which has led to the plague of needing a subscription for everything online.
 
-Stigma is one of the most difficult parts of growing up in today's society. Since especially the way   
+Stigma is one of the most difficult parts of growing up in today's society. Since our society and especially the way we think about education paths have changed drastically, which furthermore has led to a confrontation of vastly different world views and thus makes it more difficult to talk about such topics with people from older generations.
+
+Lastly, I want to outline the improvements that I would like to see in our society. The most important one is that we drop our prejudices and destigmatize topics such as education. But I am positive that will change, as the older generations will be replaced and that as soon as Gen Z will take the place of Millennials that there will be a new problem, which gets solved by the next generation and that this cycle continues
+
+What do you think about it? I am looking forwardss to discusss this further.
