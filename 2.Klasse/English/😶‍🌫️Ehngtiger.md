@@ -57,3 +57,14 @@ Dual diagnosis
 
 ### ka xd
 
+You just discovered this Website and decided to write a blog about it in order to share this new Information with your community and in order to share your opinion about this Topic and the website 
+
+In your blog, you should
+- describe what service this Websites offers
+- explain why and how drug consum can become a problem
+- argue whether you think this Website is helpful
+
+200 words
+
+
+
