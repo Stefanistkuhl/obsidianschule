@@ -66,5 +66,3 @@ In your blog, you should
 
 200 words
 
-
-
