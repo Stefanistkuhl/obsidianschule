@@ -545,6 +545,7 @@ Kupferdraht
 Kunststoffmantel
 Kantar
 Körperliche
+Kraftwirkung
 ggp
 genauen
 gibt
@@ -893,6 +894,7 @@ getrennt
 growing
 generations
 gesellschaftlichen
+gleichnamige
 Zettel
 Zwingen
 Zeichen
@@ -1817,6 +1819,7 @@ Datensicherheut
 Drathgeflecht
 Drahtgefelcht
 Datensteckern
+DOcklX
 Problem
 Pest
 Portugal
@@ -2180,6 +2183,8 @@ Passive
 Patchpanels
 Polymer
 Patchkabel
+Pole
+Polen
 bei
 background
 bis
@@ -3550,6 +3555,7 @@ exist
 everything
 especially
 education
+einnander
 Übergange
 Übergänge
 Übergang
@@ -4041,6 +4047,9 @@ soon
 solved
 sammeln
 sozialer
+stoßen
+skizze
+stärkesten
 und
 um
 ungefähr
@@ -4289,6 +4298,7 @@ urge
 umkerhrbar
 unterschätzt
 ungeschirmten
+ungleiche
 keine
 konnten
 kein
@@ -5261,6 +5271,7 @@ mostly
 money
 makes
 moralischen
+magneten
 FFA
 Flüssen
 Furt
@@ -5561,6 +5572,7 @@ Folie
 Führung
 Freundschaft
 Fitness
+Feldlienein
 nach
 neue
 negativen
@@ -7554,6 +7566,7 @@ Website
 Websites
 Wissen
 Wahrheit
+Wirbelfeld
 Latein
 Leute
 Läuse
@@ -9319,6 +9332,7 @@ concerning
 changed
 confrontation
 cycle
+cnegyYlQ
 zu
 zum
 zur
@@ -10308,6 +10322,7 @@ Selbstwert
 Sparen
 Schönheit
 Sex
+Süd
 Handel
 Hygiene
 Halbleiter

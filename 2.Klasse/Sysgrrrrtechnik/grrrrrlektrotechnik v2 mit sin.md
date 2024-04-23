@@ -11,3 +11,4 @@ tags:
 ![[Komperator]]
 
 ![[Wechselstromtechnik]]
+![[Das magnetische Feld]]
