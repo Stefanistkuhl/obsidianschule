@@ -5,3 +5,4 @@
 ![[Projektmagment]]
 ![[Monetäre Ziele]]
 ![[Dsgvo]]
+![[16 Lebensmotive nach Reiss]]
