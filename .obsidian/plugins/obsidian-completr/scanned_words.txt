@@ -260,6 +260,7 @@ today
 thus
 talk
 topics
+tendenzen
 Klasse
 Kreuzritter
 Klagenfurt
@@ -2550,6 +2551,8 @@ betshet
 blog
 become
 brining
+befragung
+beschreibung
 ist
 in
 im
@@ -2805,6 +2808,7 @@ irresistable
 inteligenta
 improvements
 important
+informationen
 dass
 die
 den
@@ -3556,6 +3560,9 @@ everything
 especially
 education
 einnander
+einleitung
+entwicklungen
+elektrotechnick
 Übergange
 Übergänge
 Übergang
@@ -4050,6 +4057,7 @@ sozialer
 stoßen
 skizze
 stärkesten
+schluss
 und
 um
 ungefähr
@@ -4525,6 +4533,7 @@ kaufen
 konkurrierende
 kabel
 körperlicher
+kernaussage
 Jahreszahlen
 Jahresahlen
 Jura
@@ -5811,6 +5820,7 @@ njj
 nvidi
 ncht
 needing
+nähere
 Christus
 Christianisierung
 Christentum
@@ -7273,6 +7283,7 @@ verdrillung
 verdrillt
 vastly
 views
+verwunderlich
 West
 Welt
 Wachstum
@@ -9054,6 +9065,8 @@ website
 why
 whether
 were
+wem
+wann
 christlichen
 code
 charakterisiert
@@ -9823,6 +9836,7 @@ Twistet
 Topologiexn
 Topic
 Thanks
+Titel
 Städte
 Südamerika
 Spanien
@@ -10583,6 +10597,7 @@ HRs
 HXbR
 HnY
 Hersteller
+Hauptteil
 an
 auf
 aus
@@ -10992,6 +11007,9 @@ abgestrahöt
 achtpoliges
 argue
 agree
+art
+analyse
+ausgesagt
 oft
 oder
 os
@@ -12309,6 +12327,8 @@ reduzieren
 reviews
 renting
 replaced
+reihung
+referenz
 hat
 hervorgerufen
 haben

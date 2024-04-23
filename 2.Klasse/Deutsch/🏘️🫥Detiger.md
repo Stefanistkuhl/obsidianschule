@@ -55,6 +55,22 @@ oversvierungen:
 - frauen generell stark gewachsen und nur noch bissl hinter typen 
 - 2/5 aller leute zocken
 - Wachstum überall
+einleitung:
+- Titel
+- Worum geht es?(kernaussage)
+- Wer wurde befragt
+- von wo bzw. wem sind die daten
+- wann war befragung
+- art von grafik
+Hauptteil:
+- nähere beschreibung darin:
+	- reihung der daten
+	- entwicklungen/tendenzen der zahlen/daten
+- analyse der daten
+	- welche informationen machen sinn(elektrotechnick referenz), sind verwunderlich und warum
+schluss:
+- was soll mit dieser grafik ausgesagt werden
+- fehlen informationen?
 
 Die Befragung "Zwei von fünf spielen Computer- und Videospiele" zum Thema Computerspiele hat gezeigt, dass mittlerweile zwei von fünf Befragten regelmäßig solche aktivitäten ausführen. Es wurden vier Altersgruppen befragt zwischen 14 und 65 oder älter. Die Daten stammen von "Bitkom" und "Aris", sie im Jahre 2015 veröffentlicht.Es handelt sich um ein Balkendiagramm, welches in sieben Kategorien einteteilt ist.
 
