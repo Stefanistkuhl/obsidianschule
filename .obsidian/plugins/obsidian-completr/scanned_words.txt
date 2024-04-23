@@ -256,6 +256,10 @@ thoughts
 typen
 transportieren
 twisted
+today
+thus
+talk
+topics
 Klasse
 Kreuzritter
 Klagenfurt
@@ -539,6 +543,7 @@ Kupferadern
 Kupferlizze
 Kupferdraht
 Kunststoffmantel
+Kantar
 ggp
 genauen
 gibt
@@ -884,6 +889,8 @@ größtes
 gewachsen
 gezeigt
 getrennt
+growing
+generations
 Zettel
 Zwingen
 Zeichen
@@ -2530,6 +2537,7 @@ benachbarten
 betshet
 blog
 become
+brining
 ist
 in
 im
@@ -2783,6 +2791,8 @@ issue
 information
 irresistable
 inteligenta
+improvements
+important
 dass
 die
 den
@@ -3126,6 +3136,13 @@ discovered
 decided
 describe
 drug
+didn
+difficult
+drastically
+different
+drop
+destigmatize
+discuss
 es
 entstanden
 entstehen
@@ -3521,6 +3538,11 @@ erhebliche
 elektromagnetische
 elekromagnetische
 explain
+either
+exist
+everything
+especially
+education
 Übergange
 Übergänge
 Übergang
@@ -4003,6 +4025,13 @@ schenllen
 sternförmige
 starker
 share
+shown
+subscription
+society
+satz
+see
+soon
+solved
 und
 um
 ungefähr
@@ -4931,6 +4960,9 @@ fünf
 funktionierende
 flexibeln
 fürs
+find
+favour
+furthermore
 mark
 mit
 mangelnder
@@ -5215,6 +5247,9 @@ mittels
 mobil
 magenetische
 massiver
+mostly
+money
+makes
 FFA
 Flüssen
 Furt
@@ -5749,6 +5784,7 @@ nb
 njj
 nvidi
 ncht
+needing
 Christus
 Christianisierung
 Christentum
@@ -6606,6 +6642,7 @@ MMs
 Mädchen
 Meiden
 Miniaturstecksystem
+Millennials
 Rom
 Ratten
 Römischen
@@ -7203,6 +7240,8 @@ verdrillten
 verschieden
 verdrillung
 verdrillt
+vastly
+views
 West
 Welt
 Wachstum
@@ -7787,6 +7826,7 @@ Laden
 Lichtwellenleiter
 Lichtimpulse
 Lichtwellenleuter
+Lastly
 Ost
 OS
 Obwohl
@@ -8695,6 +8735,7 @@ GRAFIK
 Geschlecht
 Glasfaserkabel
 Gesamtschirm
+Gen
 wurden
 wegen
 wird
@@ -8973,6 +9014,7 @@ werde
 website
 why
 whether
+were
 christlichen
 code
 charakterisiert
@@ -9246,6 +9288,11 @@ consuming
 controlled
 comment
 consum
+conscious
+concerning
+changed
+confrontation
+cycle
 zu
 zum
 zur
@@ -9735,6 +9782,7 @@ Treatment
 Twistet
 Topologiexn
 Topic
+Thanks
 Städte
 Südamerika
 Spanien
@@ -10229,6 +10277,7 @@ Schielded
 Screened
 Schirmung
 Steckystem
+Since
 Handel
 Hygiene
 Halbleiter
@@ -10897,6 +10946,7 @@ ausgetasucht
 abgestrahöt
 achtpoliges
 argue
+agree
 oft
 oder
 os
@@ -11097,6 +11147,12 @@ oversvierungen
 order
 optische
 offers
+owning
+online
+our
+older
+oarsch
+outline
 Namen
 Neuzeit
 Nord
@@ -11896,6 +11952,13 @@ passive
 physikalischen
 pair
 paarweise
+product
+previously
+plague
+parts
+paths
+prejudices
+positive
 reiches
 real
 running
@@ -12194,6 +12257,9 @@ really
 regelnde
 richtige
 reduzieren
+reviews
+renting
+replaced
 hat
 hervorgerufen
 haben
@@ -12463,6 +12529,7 @@ haC
 hhw
 have
 helpful
+has
 Bananen
 Buch
 Beschreiben
@@ -13520,6 +13587,8 @@ leute
 leitergebundene
 leitenden
 leitender
+led
+looking
 Queue
 QHvC
 Qp
