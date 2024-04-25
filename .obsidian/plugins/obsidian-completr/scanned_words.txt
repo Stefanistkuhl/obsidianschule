@@ -548,6 +548,7 @@ Kantar
 Körperliche
 Kraftwirkung
 Kreuzprodukt
+Kreise
 ggp
 genauen
 gibt
@@ -3163,6 +3164,7 @@ different
 drop
 destigmatize
 discuss
+dichter
 es
 entstanden
 entstehen
@@ -4064,6 +4066,7 @@ skizze
 stärkesten
 schluss
 schließlich
+stärkere
 und
 um
 ungefähr
@@ -4541,6 +4544,7 @@ kabel
 körperlicher
 kernaussage
 kürzest
+konzentrische
 Jahreszahlen
 Jahresahlen
 Jura
@@ -5591,6 +5595,8 @@ Führung
 Freundschaft
 Fitness
 Feldlienein
+Feldlinien
+Feldwirkung
 nach
 neue
 negativen
@@ -7887,6 +7893,7 @@ Lichtimpulse
 Lichtwellenleuter
 Lastly
 Leiters
+Leiterschleife
 Ost
 OS
 Obwohl
@@ -9585,6 +9592,7 @@ zusammengefasst
 zuverlässigen
 zusätlicher
 zweitgenannten
+zusammegerdängt
 Theologie
 Thema
 Teller

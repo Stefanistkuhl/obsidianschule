@@ -125,15 +125,6 @@
       "key": "P"
     }
   ],
-  "obsidian-excalidraw-plugin:excalidraw-autocreate-newtab": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "D"
-    }
-  ],
   "editor:delete-paragraph": [],
   "leader-hotkeys-obsidian:register-modal": [
     {
@@ -151,6 +142,15 @@
         "Shift"
       ],
       "key": "I"
+    }
+  ],
+  "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
     }
   ]
 }

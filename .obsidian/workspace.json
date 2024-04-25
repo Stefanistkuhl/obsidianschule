@@ -11,13 +11,26 @@
             "id": "0966c6211710e8fe",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Klasse/Sysgrrrrtechnik/Feld einer stromdurchflossener Spule.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f79eca0667ae71df",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Zeichnungen/DR25-04-2024-00.excalidraw.md"
+                "file": "bilder/Feld einer stromdurchflossener Spule 25-04-2024-30.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichnungen/DR25-04-2024-00.excalidraw.md",
+                "file": "bilder/Feld einer stromdurchflossener Spule 25-04-2024-30.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Zeichnungen/DR25-04-2024-00.excalidraw.md"
+                "file": "bilder/Feld einer stromdurchflossener Spule 25-04-2024-30.excalidraw.md"
               }
             }
           },
@@ -179,11 +192,17 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "0966c6211710e8fe",
+  "active": "f79eca0667ae71df",
   "lastOpenFiles": [
-    "2.Klasse/Sysgrrrrtechnik/Feld eines Stromdurchflossen Leiters.md",
-    "Zeichnungen/DR25-04-2024-00.excalidraw.md",
+    "2.Klasse/Sysgrrrrtechnik/Feld einer stromdurchflossener Spule.md",
+    "bilder/Feld einer stromdurchflossener Spule 25-04-2024-30.excalidraw.md",
     "2.Klasse/Sysgrrrrtechnik/Das magnetische Feld.md",
+    "2.Klasse/Sysgrrrrtechnik/Feld eines Stromdurchflossen Leiters.md",
+    "2.Klasse/Sysgrrrrtechnik/Zur Erinnerung Plattenkondensator.md",
+    "bilder/Zur Erinnerung Plattenkondensator 25-04-2024-38.excalidraw.md",
+    "bilder/Feld eines Stromdurchflossen Leiters 25-04-2024-42.excalidraw.md",
+    "Zeichnungen/DR25-04-2024-42.excalidraw.md",
+    "Zeichnungen/DR25-04-2024-00.excalidraw.md",
     "2.Klasse/Sysgrrrrtechnik/Vektorrechnung Quick and dirty.md",
     "Zeichnungen/DR25-04-2024-23.excalidraw.md",
     "2.Klasse/Deutsch/🏘️🫥Detiger.md",
@@ -201,13 +220,7 @@
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
     "templates/netzwerktiger.md",
     "2.Klasse/Netzwerktiger/Steckverdingungen.md",
-    "2.Klasse/Netzwerktiger/Passive Netzwerkmpontenten.md",
-    "2.Klasse/Netzwerktiger/SUTP-Kabel.md",
-    "2.Klasse/Netzwerktiger/UTP-Kabel.md",
-    "2.Klasse/Netzwerktiger/Twisted Pair Kabel.md",
-    "S/UTP-Kabel.md",
     "S",
-    "2.Klasse/Netzwerktiger/STP-Kabel.md",
     "bilder/Pasted image 20240418143027.png",
     "bilder/Pasted image 20240418142408.png",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/Zusatz_StatischesRouting.synctex(busy)",
