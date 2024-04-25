@@ -549,6 +549,7 @@ Körperliche
 Kraftwirkung
 Kreuzprodukt
 Kreise
+Katalysator
 ggp
 genauen
 gibt
@@ -6999,6 +7000,7 @@ Respekt
 Rache
 Ruhe
 Rechtsschraube
+Reibung
 vor
 verbreiten
 vom
