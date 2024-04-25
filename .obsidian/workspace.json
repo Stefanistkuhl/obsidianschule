@@ -8,14 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c1add7423343da17",
+            "id": "0966c6211710e8fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2.Klasse/Deutsch/🏘️🫥Detiger.md",
-                "mode": "source",
-                "source": false
+                "file": "Zeichnungen/DR25-04-2024-00.excalidraw.md"
               }
             }
           }
@@ -73,7 +71,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Deutsch/🏘️🫥Detiger.md",
+                "file": "Zeichnungen/DR25-04-2024-00.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Deutsch/🏘️🫥Detiger.md"
+                "file": "Zeichnungen/DR25-04-2024-00.excalidraw.md"
               }
             }
           },
@@ -180,13 +179,17 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c1add7423343da17",
+  "active": "0966c6211710e8fe",
   "lastOpenFiles": [
+    "2.Klasse/Sysgrrrrtechnik/Feld eines Stromdurchflossen Leiters.md",
+    "Zeichnungen/DR25-04-2024-00.excalidraw.md",
+    "2.Klasse/Sysgrrrrtechnik/Das magnetische Feld.md",
+    "2.Klasse/Sysgrrrrtechnik/Vektorrechnung Quick and dirty.md",
+    "Zeichnungen/DR25-04-2024-23.excalidraw.md",
+    "2.Klasse/Deutsch/🏘️🫥Detiger.md",
     "Überlebenswichtige Strichlisten.md",
     "2.Klasse/Sew/🤔Tigerentwicklung.md",
-    "2.Klasse/Deutsch/🏘️🫥Detiger.md",
     "Zeichnungen/DR23-04-2024-30.excalidraw.md",
-    "2.Klasse/Sysgrrrrtechnik/Das magnetische Feld.md",
     "2.Klasse/Sysgrrrrtechnik/grrrrrlektrotechnik v2 mit sin.md",
     "templates/syt_elektro.md",
     "2.Klasse/Ipt/16 Lebensmotive nach Reiss.md",
@@ -205,10 +208,6 @@
     "S/UTP-Kabel.md",
     "S",
     "2.Klasse/Netzwerktiger/STP-Kabel.md",
-    "+.md",
-    "2.Klasse/Netzwerktiger/werkstatt oida.md",
-    "rästel.md",
-    "2.Klasse/Deutsch/Grafikanalyse.md",
     "bilder/Pasted image 20240418143027.png",
     "bilder/Pasted image 20240418142408.png",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/Zusatz_StatischesRouting.synctex(busy)",

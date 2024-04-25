@@ -12,3 +12,4 @@ tags:
 	- die Kraftwirkung ist an den Polen am stärkesten
 	- Feldlienein sind in sich geschlossen ⇒ Wirbelfeld
 		- ![[DR23-04-2024-30.excalidraw]]
+![[Feld eines Stromdurchflossen Leiters]]
