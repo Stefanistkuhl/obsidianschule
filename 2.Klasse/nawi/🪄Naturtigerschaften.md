@@ -7,6 +7,21 @@ tags:
 
 ### <mark style="background: #FFB8EBA6;">Test 1</mark>
 
+### <mark style="background: #FFB8EBA6;">Test 2</mark>
+
+- Teststoff 
+	- Si-Halbleiter 
+		- Dotierung
+		- Dioden
+		- Bipolartransistor
+		- Feldeffekttransistor
+	- Chemisches Rechnen
+		- Gleichungne aufstellen
+		- Ausbeute berechnen
+		
+[[]]
+
+
 <mark style="background: #FFB8EBA6;">Teststoff</mark>
 
 - Atomaufbau und PSE
