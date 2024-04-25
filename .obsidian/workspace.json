@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0966c6211710e8fe",
+            "id": "2300bba0f3899eb7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "bilder/Feld einer stromdurchflossener Spule 25-04-2024-30.excalidraw.md"
+                "file": "2.Klasse/Sysgrrrrtechnik/Feld einer stromdurchflossener Spule.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bilder/Feld einer stromdurchflossener Spule 25-04-2024-30.excalidraw.md",
+                "file": "2.Klasse/Sysgrrrrtechnik/Feld einer stromdurchflossener Spule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +140,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "bilder/Feld einer stromdurchflossener Spule 25-04-2024-30.excalidraw.md"
+                "file": "2.Klasse/Sysgrrrrtechnik/Feld einer stromdurchflossener Spule.md"
               }
             }
           },
@@ -179,10 +181,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "0966c6211710e8fe",
+  "active": "2300bba0f3899eb7",
   "lastOpenFiles": [
-    "2.Klasse/Sysgrrrrtechnik/Feld einer stromdurchflossener Spule.md",
     "bilder/Feld einer stromdurchflossener Spule 25-04-2024-30.excalidraw.md",
+    "2.Klasse/Sysgrrrrtechnik/Feld einer stromdurchflossener Spule.md",
     "2.Klasse/Sysgrrrrtechnik/Das magnetische Feld.md",
     "2.Klasse/Sysgrrrrtechnik/Feld eines Stromdurchflossen Leiters.md",
     "2.Klasse/Sysgrrrrtechnik/Zur Erinnerung Plattenkondensator.md",
