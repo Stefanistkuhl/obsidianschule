@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b40b657cfa931fd8",
+        "id": "d635feabad1c9c82",
         "type": "tabs",
         "children": [
           {
-            "id": "2d67070196ed44c6",
+            "id": "263a0f6a25a3b95a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Filmliste.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Filmliste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Filmliste.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,7 +174,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "2d67070196ed44c6",
+  "active": "263a0f6a25a3b95a",
   "lastOpenFiles": [
     "Filmliste.md",
     "2.Klasse/nawi/Überbrückung der Aktivierungsernergie.md",
