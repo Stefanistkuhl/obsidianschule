@@ -17,6 +17,8 @@ tags:
 	- line vty 0-15 Zugriff über Telnet oder SSH Zahl besagt wv Nutzer Gleichzeitig rein remoted sein können.
 - <mark style="background: #FFB8EBA6;">interface:</mark> Switch(config-if)#
 	- interface <Fast/GigabitEthernet oder Serial> <Port zb 0/1 1/2>
+	- int g0/0 oda int f0/0 is die kurze variante davon
+	- ip add statt ip adress geht auch ip add ip submask
 
 
 ### <mark style="background: #FFB8EBA6;">Tcp ip</mark>
