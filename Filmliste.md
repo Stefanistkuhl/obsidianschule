@@ -8,7 +8,6 @@ tags:
 | no country for old men     | fertig | fav film  | 20.11.2023 |
 | insterstellar              | fertig | 9,5/10    | 12.12.2023 |
 | Fight Club                 | fertig | 8,5/10    | 16.12.2023 |
-| Batman begins              |        |           |            |
 | tennet                     |        |           |            |
 | Django Unchained           |        |           |            |
 | Prisoners                  |        |           |            |
@@ -16,12 +15,13 @@ tags:
 | Inglourius basterds        |        |           |            |
 | Joker                      |        |           |            |
 | Mission Impossible Fallout |        |           |            |
-| Batman The Dark Knight     |        |           |            |
+| Batman The Dark Knight && Dark knight rises     |        |           |            |
 | Forest Gump                |        |           |            |
 | Whiplash                   |        |           |            |
 | Im Westen nichts neues     |        |           |            |
 | Taxi Driver                |        |           |            |
 | Nightcrawler               |        |           |            |
+| Dune 1 und 2               |        |           |            |
 | (midpool 1)           |        |           |            |
 
 # <mark style="background: #FFB8EBA6;">oida alt</mark>
