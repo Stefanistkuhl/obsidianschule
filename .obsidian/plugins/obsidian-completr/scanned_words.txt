@@ -4073,6 +4073,10 @@ stärkesten
 schluss
 schließlich
 stärkere
+strg
+submask
+shut
+shutdown
 und
 um
 ungefähr
@@ -4551,6 +4555,7 @@ körperlicher
 kernaussage
 kürzest
 konzentrische
+kurze
 Jahreszahlen
 Jahresahlen
 Jura
@@ -5603,6 +5608,7 @@ Fitness
 Feldlienein
 Feldlinien
 Feldwirkung
+Feldeffekttransistor
 nach
 neue
 negativen
@@ -5844,6 +5850,7 @@ needing
 nähere
 nQBiOSij
 normal
+nexthop
 Christus
 Christianisierung
 Christentum
@@ -6085,6 +6092,7 @@ Compulsion
 Coping
 Computerspiele
 Coax
+Chemisches
 Urgeschichte
 Universitäten
 Ufern
@@ -7313,6 +7321,7 @@ views
 verwunderlich
 vec
 vergl
+variante
 West
 Welt
 Wachstum
@@ -8820,6 +8829,7 @@ Gen
 Gerechtigkeit
 Geschwistern
 GepJy
+Gleichungne
 wurden
 wegen
 wird
@@ -9605,6 +9615,8 @@ zuverlässigen
 zusätlicher
 zweitgenannten
 zusammegerdängt
+zrk
+zielnetz
 Theologie
 Thema
 Teller
@@ -11052,6 +11064,8 @@ art
 analyse
 ausgesagt
 aufgespannten
+add
+aufstellen
 oft
 oder
 os
@@ -12372,6 +12386,7 @@ renting
 replaced
 reihung
 referenz
+route
 hat
 hervorgerufen
 haben
