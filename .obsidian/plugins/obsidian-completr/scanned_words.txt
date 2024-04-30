@@ -900,6 +900,7 @@ generations
 gesellschaftlichen
 gleichnamige
 gestiegen
+gedrückt
 Zettel
 Zwingen
 Zeichen
@@ -1469,6 +1470,7 @@ Ehre
 Elternschaft
 Eros
 Elektrolyse
+Elektromotor
 Das
 Dasselbe
 Diode
@@ -2196,6 +2198,7 @@ Polymer
 Patchkabel
 Pole
 Polen
+Permanentmagnet
 bei
 background
 bis
@@ -2564,6 +2567,7 @@ brining
 befragung
 beschreibung
 bMhfbck
+betracheten
 ist
 in
 im
@@ -2821,6 +2825,7 @@ improvements
 important
 informationen
 imm
+induktionsuhrladen
 dass
 die
 den
@@ -3172,6 +3177,7 @@ drop
 destigmatize
 discuss
 dichter
+danmit
 es
 entstanden
 entstehen
@@ -4079,6 +4085,7 @@ submask
 shut
 shutdown
 spezifischer
+stellen
 und
 um
 ungefähr
@@ -5307,6 +5314,7 @@ makes
 moralischen
 magneten
 möglichsten
+magnet
 FFA
 Flüssen
 Furt
@@ -5611,6 +5619,7 @@ Feldlienein
 Feldlinien
 Feldwirkung
 Feldeffekttransistor
+Flussdichte
 nach
 neue
 negativen
@@ -7916,6 +7925,7 @@ Lichtwellenleuter
 Lastly
 Leiters
 Leiterschleife
+Leiter
 Ost
 OS
 Obwohl
@@ -10392,6 +10402,8 @@ Süd
 Stromdurchfließendes
 Stabmagnet
 Selten
+Stärke
+Stromstärke
 Handel
 Hygiene
 Halbleiter
@@ -11800,6 +11812,8 @@ Impulse
 Innenleiter
 Instalationskabel
 Idealismus
+Induktion
+Induktionsherd
 pest
 pos
 purpose
@@ -12087,6 +12101,7 @@ paths
 prejudices
 positive
 positivem
+proportional
 reiches
 real
 running
@@ -13726,6 +13741,7 @@ led
 looking
 leben
 lhsuOeqa
+leuter
 Queue
 QHvC
 Qp
