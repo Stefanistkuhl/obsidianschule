@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Fürst_Elektro_Export oida.md",
+                "file": "2.Klasse/Sysgrrrrtechnik/kraft wirkung im magnetischen Feld.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "4b7a3ef2690ab62d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/kraft wirkung im magnetischen Feld 30-04-2024-57.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Fürst_Elektro_Export oida.md",
+                "file": "bilder/kraft wirkung im magnetischen Feld 30-04-2024-57.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Fürst_Elektro_Export oida.md"
+                "file": "bilder/kraft wirkung im magnetischen Feld 30-04-2024-57.excalidraw.md"
               }
             }
           },
@@ -181,10 +192,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "773d5fb0b589443a",
+  "active": "4b7a3ef2690ab62d",
   "lastOpenFiles": [
-    "2.Klasse/Sysgrrrrtechnik/grrrrrlektrotechnik v2 mit sin.md",
+    "2.Klasse/Sysgrrrrtechnik/kraft wirkung im magnetischen Feld.md",
+    "bilder/kraft wirkung im magnetischen Feld 30-04-2024-57.excalidraw.md",
     "2.Klasse/Sysgrrrrtechnik/Fürst_Elektro_Export oida.md",
+    "2.Klasse/Sysgrrrrtechnik/grrrrrlektrotechnik v2 mit sin.md",
     "2.Klasse/Ipt/bwl v2.md",
     "2.Klasse/Sysgrrrrtechnik/elektrischer Wiederstand aufbau.md",
     "2.Klasse/Sysgrrrrtechnik/Anwendung der Frequnez auf Spule bzw Kondensator.md",
@@ -207,8 +220,6 @@
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
     "Filmliste.md",
     "2.Klasse/nawi/Überbrückung der Aktivierungsernergie.md",
-    "bilder/Überbrückung der Aktivierungsernergie 25-04-2024-05.excalidraw.md",
-    "2.Klasse/Sysgrrrrtechnik/Feld einer stromdurchflossener Spule.md",
     "S",
     "bilder/Pasted image 20240418143027.png",
     "bilder/Pasted image 20240418142408.png",
