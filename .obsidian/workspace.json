@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ed164cbf5906517e",
+            "id": "ee97228ba47fe42c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/grrrrrlektrotechnik v2 mit sin.md",
+                "file": "2.Klasse/Sysgrrrrtechnik/Fürst_Elektro_Export oida.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/grrrrrlektrotechnik v2 mit sin.md",
+                "file": "2.Klasse/Sysgrrrrtechnik/Fürst_Elektro_Export oida.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/grrrrrlektrotechnik v2 mit sin.md"
+                "file": "2.Klasse/Sysgrrrrtechnik/Fürst_Elektro_Export oida.md"
               }
             }
           },
@@ -181,10 +181,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ed164cbf5906517e",
+  "active": "ee97228ba47fe42c",
   "lastOpenFiles": [
-    "2.Klasse/Sysgrrrrtechnik/Syt_Elektro mitschrift alles in einem.md",
     "2.Klasse/Sysgrrrrtechnik/grrrrrlektrotechnik v2 mit sin.md",
+    "2.Klasse/Sysgrrrrtechnik/Operationsverstärker.md",
+    "2.Klasse/Sysgrrrrtechnik/Fürst_Elektro_Export oida.md",
+    "2.Klasse/Sysgrrrrtechnik/diemensionierung transistor.md",
+    "2.Klasse/Sysgrrrrtechnik/transistor.md",
+    "2.Klasse/Sysgrrrrtechnik/Syt_Elektro mitschrift alles in einem.md",
     "2.Klasse/Sysgrrrrtechnik/Komperator.md",
     "Überlebenswichtige Strichlisten.md",
     "2.Klasse/nawi/🪄Naturtigerschaften.md",
@@ -205,10 +209,6 @@
     "Zeichnungen/DR25-04-2024-00.excalidraw.md",
     "2.Klasse/Sysgrrrrtechnik/Vektorrechnung Quick and dirty.md",
     "Zeichnungen/DR25-04-2024-23.excalidraw.md",
-    "2.Klasse/Deutsch/🏘️🫥Detiger.md",
-    "2.Klasse/Sew/🤔Tigerentwicklung.md",
-    "Zeichnungen/DR23-04-2024-30.excalidraw.md",
-    "templates/syt_elektro.md",
     "S",
     "bilder/Pasted image 20240418143027.png",
     "bilder/Pasted image 20240418142408.png",
