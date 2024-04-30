@@ -31,7 +31,7 @@
   "matchThemeTrigger": false,
   "defaultMode": "normal",
   "defaultPenMode": "never",
-  "penModeCrosshairVisible": false,
+  "penModeCrosshairVisible": true,
   "allowPinchZoom": false,
   "allowWheelZoom": false,
   "zoomToFitOnOpen": true,
