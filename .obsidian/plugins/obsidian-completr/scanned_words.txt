@@ -1830,6 +1830,7 @@ Darauf
 DcfXtaql
 DAigM
 Deadpool
+Drahtes
 Problem
 Pest
 Portugal
@@ -4077,6 +4078,7 @@ strg
 submask
 shut
 shutdown
+spezifischer
 und
 um
 ungefähr
@@ -6714,6 +6716,7 @@ Miniaturstecksystem
 Millennials
 Macht
 MYApMjdU
+Materieals
 Rom
 Ratten
 Römischen
@@ -7616,6 +7619,7 @@ Websites
 Wissen
 Wahrheit
 Wirbelfeld
+Wechselstrom
 Latein
 Leute
 Läuse

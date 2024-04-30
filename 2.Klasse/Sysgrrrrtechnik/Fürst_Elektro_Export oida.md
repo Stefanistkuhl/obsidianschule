@@ -74,3 +74,125 @@ Durch die Rückkoplung gilt:
 	- Impetanzwandler
 	- Signalübertragung
 		- zb Bei Netzwerk verbindungen zb Kabel ja nur 100m max aba zb Pc zu server der weiter als 100m is ja zb Switch oda so daszwischen und die Kabel zw jedem Aktiven komponenten > 100m weil jedes ding ja verstärkt
+
+
+> Die beiden Eingänge werden miteinernader verglichen jenachdem welcher der Eingänge ein größeres elektrisches potential hat kippt der Ausgang 
+
+![[DR05-03-2024-10.excalidraw]]
+
+Ua max → pos eingang höheres potential
+ua min → andersum
+
+- Anwendungen  
+	- Digitalisierung eines Pegels
+	- Analog Digital Converter (ADC)
+		- Paralellverfahren (Fleischwandler)
+			- Prinzip:
+				- ![[DR05-03-2024-28.excalidraw]]
+					- Einfaches bsp 
+						- ![[DR05-03-2024-55.excalidraw]]
+	- Invertierender Komperator
+		- ![[DR05-03-2024-55.excalidraw]]
+	- Nicht Invertierender Komperator 
+		- ![[DR06-03-2024-50.excalidraw]]
+# Wechselstrom
+
+- Paramter Sinusförmiger Größen 
+	- ![[DR06-03-2024-07.excalidraw]]
+	- T = jene Zeit, in der 1 vollständige Schwingung stattfindet, bei der das Signal zu wiederholen beginnt.
+	- f = Anazahl der vollständigen Schwingungen pro Sekunde zb f = 50hz → T = 0,025 = 25ms
+	- U mit dach ... Scheitelwer
+	- u(t) ... Momentanwert
+	- u(t) = Udach ... sin(ω * t)
+	- ω = 2 * Π * p ... Winkelgeschwindigkeit, Kreisfrequenz
+	- U= Udach/sqrt(2) ... Effektivwert (Anmerkung: 1/sqrt(2), gilt ausschießlich für sinusförmige Größen)
+
+
+![[DR06-03-2024-00.excalidraw]]
+
+Bsp Netzspannung ("Steckdose")
+f = 50hz → 25ms
+u(t)=Uspitze * sin(ω * t)
+Uspitze = ?
+
+gemessen: U = 230V → Upsitze = sqrt 2 * U → Uspitze ~ 325V
+→ u(t) = 325V sin(2Π * 50hz * t)
+
+Bsp Frequenzen: f = 2,4Ghz , 5Ghz, 6Ghz ... Wlan  
+f = 2,45 Ghz ... Mikrowelle
+f = 8000Mhz - 3,4Ghz ... Handy
+
+Wifi: 
+$$f = 2,4Ghz → \lambda=? $$
+$$c = \lambda*f $$
+$$\lambda = \frac{c}{f}=\frac{3*10⁸}{2,4*10⁹}$$
+$$= \frac{3}{2,4}*10m=1,25*10m = 12,5m$$
+
+
+![[DR18-03-2024-07.excalidraw]]
+Bsp 
+```math
+||{"id":1434725607386}||
+
+L=120Hz
+Y_{L}=? 
+Y_{L}=37,7Ω
+Y_{L_{2}}=377Ω
+Y_{L_{3}}=3,77kHz
+```
+![[DR18-03-2024-34.excalidraw]]
+## Wechselstrom Komponenten
+- Ohmscher Wiederstand
+	- DC: U=R * I
+	- AC: <u>U</u> = R*<u>I</u>
+		- U = R * I (effektive Wiederstand)
+	- Allgemein: <u>Z</u> R+jx
+		- <u>Z</u> ... komplexer Wiederstand, Impedanz
+		- R ... Wirkwiederstand (reel)
+		- X ... Blindwiederstnad (Imaginär)
+	- R → <u>Z</u> R+jx
+		- x ~ 0 für
+$$R= \frac{\rho*l}{A}$$
+l ... länge d. Drahtes
+A ... Querschnitt
+ρ ... spezifischer Wiederstand des Materieals
+
+[l]=m²
+[A]=mm²
+[R]=Ω
+$$[p]=\frac{\ohm*mm²}{m}$$
+
+![[DR13-03-2024-12.excalidraw]]
+	- liniendiagramm (ideales R)
+		- ![[DR13-03-2024-26.excalidraw]]
+		- b) 
+			- ![[DR13-03-2024-21.excalidraw]]
+			- ⇒ je größer die Frequenz, desto größter X2 
+
+- kapazität, Kondensator
+	- ![[DR20-03-2024-03.excalidraw]]
+- kapazitiver Blindwiederstnad
+	- $$Y_{c}=\frac{1}{\omega* C}\left( =\frac{U}{I} \right),[Y_{c}]=\ohm ⇐⇒B_{c}=-\frac{1}{Y_{C}}=\omega*C [B_{c}]=S$$
+	- ![[Drawing 2024-03-20 14.47.49.excalidraw]]
+	- 
+Ohmschwer Wiederstand: R$$\underline{Z}_{R}=R=R\angle 0°$$ 
+Blindwiederstand: L $$\underline{Z}_{L}=j*\omega*L=\underline{Z}_{L}\angle{90°}$$
+Kapazität: c $$\underline{Z}_{c}=j* \frac{1}{\omega*c}=\underline{Z}_{c}\angle{-90°}$$
+Einheiten 
+[U]=V
+[I]=A
+[Z]=[R]=Ω
+[L]=H...Henry
+[C]=F..Forat
+![[DR04-04-2024-45.excalidraw]]
+
+![[DR09-04-2024-03.excalidraw]]
+- Kondensator: $$X_{c}=\frac{1}{\omega C}=\frac{1}{2*\pi*\rho*c}$$
+	- dh: f↑ ⇒ Xc ↓
+> Anwendung: hohe Frequenzen filtern, tiefe Frequenzen druchlassen = Tiefpass
+- Spule $$X_{L}=\omega*L=2\pi*\rho*f*L$$
+	- dh f↑ ⇒ XL ↑
+
+> Anwendung: tiefe Frequenzen filtern, hohe Frequenzen druchlassen = Hochpass
+
+
