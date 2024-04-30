@@ -1015,6 +1015,7 @@ gvj
 gQZ
 gkh
 gGYs
+gemeinsames
 Zettel
 Zwingen
 Zeichen
@@ -1663,6 +1664,7 @@ EPA
 EzU
 Eme
 EwQz
+Edukte
 Das
 Dasselbe
 Diode
@@ -3563,6 +3565,8 @@ dHl
 dEY
 dNDtH
 dXb
+dieseble
+dividieren
 es
 entstanden
 entstehen
@@ -4554,6 +4558,8 @@ sSz
 svu
 sEa
 skK
+summenformel
+stoffe
 und
 um
 ungefähr
@@ -5130,6 +5136,9 @@ kAq
 kAz
 kztm
 kQjRU
+kleistes
+kgv
+kvg
 Jahreszahlen
 Jahresahlen
 Jura
@@ -8296,6 +8305,8 @@ vgU
 vwg
 vZX
 vjom
+valenz
+verhältnis
 West
 Welt
 Wachstum
@@ -8622,6 +8633,7 @@ WuaP
 WLy
 WBN
 Wertigkeit
+Wertigkeiten
 Latein
 Leute
 Läuse
@@ -8950,6 +8962,8 @@ LYL
 LvM
 Lhc
 Lat
+LiF
+Lösen
 Ost
 OS
 Obwohl
@@ -11701,6 +11715,7 @@ Sqk
 SUc
 SOpp
 SYp
+Schritten
 Handel
 Hygiene
 Halbleiter
@@ -12457,6 +12472,8 @@ aLC
 aWUG
 aGq
 aHZ
+auszugleichen
+ausgleichen
 oft
 oder
 os
@@ -13961,6 +13978,7 @@ rAUt
 rOMQ
 rTg
 runterzählen
+reine
 hat
 hervorgerufen
 haben

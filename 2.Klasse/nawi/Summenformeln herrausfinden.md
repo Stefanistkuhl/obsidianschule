@@ -13,11 +13,20 @@ beide haben dieseble [[Wertigkeit]] von 1
 $$H+O→ ???$$
 H → ein valenz e- und O 2 ⇒ Wertigkeit von H: 1 und 2 von O
 
+Schritt 1: kleistes gemeinsames Vielfaches(kgv) finden 2x1 = 2
+
+Schritt 2: kvg durch Wertigkeit dividieren
+
+H: 2/1 = 2 → 2H benötigt um auszugleichen
+O: 2/2 = 0 → 0O benötigt um auszugleichen
 > man muss es ausgleichen, so dass das verhältnis gleich ist, weil es ja jetzt nur 1:2 ist → also braucht man 2H
 
 $$H+O→H_{2}O$$
 ### noch ein bsp oida
 $$B+C→???$$
 Wertigkeit B: 3 C: 4
-→ auf 12 erweitern 
-$$B+C→B_{12}+C_{12}$$
+3x4 = 12
+B: 12/3 = 4
+C: 12/4 = 3
+$$B+C→B_{4}+C_{3}$$
+
