@@ -4,3 +4,4 @@ tags:
   - nawi
 ---
 ![[nawi test halbleiterkram]]
+![[test 2 nicht halleiter zeugs]]
