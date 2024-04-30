@@ -21,7 +21,7 @@ tags:
 	1. kgv: 1x2=2
 3. Ausgleichen 
 	1. Links und rechts dieeselbe anzahl an elementen
-	2. Aufpassen: alleinstehdene elemente, die aus [[HONClBrIF x2]] sind(elementmolekühle), weil immer in der Natur als Molekühl auftreten muss man sie auch als solches inder reaktionsgleichung aufschreiben
+	2. Aufpassen: alleinstehdene elemente, die aus [[HONClBrIF x2]] 2 mal aufschreiben
 	
 
 
@@ -47,4 +47,7 @@ N: 3/3 = 1
 H: 3/1 = 3
 summenformel:$$NH_{3}$$
 Ausgleichen:
-$$N+H=NH_{3}$$
+$$N_{2}+H_{2}=NH_{3}$$
+H: 2 links und 3 rechts → x3 → 3H2 und 2NH3
+N: 2 schon rechts auch nachdem man H ausgleicht
+$$N_{2}+3H_{2}→2NH_{3}$$
