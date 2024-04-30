@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4b7a3ef2690ab62d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/kraft wirkung im magnetischen Feld 30-04-2024-57.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bilder/kraft wirkung im magnetischen Feld 30-04-2024-57.excalidraw.md",
+                "file": "2.Klasse/Sysgrrrrtechnik/kraft wirkung im magnetischen Feld.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +140,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "bilder/kraft wirkung im magnetischen Feld 30-04-2024-57.excalidraw.md"
+                "file": "2.Klasse/Sysgrrrrtechnik/kraft wirkung im magnetischen Feld.md"
               }
             }
           },
@@ -192,10 +181,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "4b7a3ef2690ab62d",
+  "active": "773d5fb0b589443a",
   "lastOpenFiles": [
-    "2.Klasse/Sysgrrrrtechnik/kraft wirkung im magnetischen Feld.md",
     "bilder/kraft wirkung im magnetischen Feld 30-04-2024-57.excalidraw.md",
+    "2.Klasse/Sysgrrrrtechnik/kraft wirkung im magnetischen Feld.md",
     "2.Klasse/Sysgrrrrtechnik/Fürst_Elektro_Export oida.md",
     "2.Klasse/Sysgrrrrtechnik/grrrrrlektrotechnik v2 mit sin.md",
     "2.Klasse/Ipt/bwl v2.md",
