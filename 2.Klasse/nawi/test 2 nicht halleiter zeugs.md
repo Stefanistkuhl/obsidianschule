@@ -5,3 +5,4 @@ tags:
 ---
 
 ![[Summenformel und Reaktionsgleichungen Herrausfinden]]
+![[Ausbeute vieh]]
