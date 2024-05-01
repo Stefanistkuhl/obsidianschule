@@ -28,4 +28,4 @@ $$M(Na2S)=2*M(Na)+M(S)=78,1 g/mol$$
 $$n(Na)=\frac{m}{M}=\frac{50.6g}{23 \frac{g}{mol}}=2,20mol$$
 $$n(S)=\frac{32.1g}{31.1 \frac{g}{mol}}=1mol$$
 $$n(Na_{2}S)=1mol$$something something Schwelfel limitiert deshalb ist masse das vom wenigsten oda so
-$$$$
+$$m(Na_{2}S)=n(Na_{2}S)*M(Na_{2}S)=78,1g$$

@@ -6012,6 +6012,7 @@ mvN
 moZ
 mQS
 modularae
+masse
 FFA
 Flüssen
 Furt
@@ -10315,6 +10316,7 @@ wCX
 wWR
 wEj
 wenisgten
+wenigsten
 christlichen
 code
 charakterisiert
@@ -11744,6 +11746,7 @@ SOpp
 SYp
 Schritten
 Stickstoff
+Schwelfel
 Handel
 Hygiene
 Halbleiter
