@@ -5,3 +5,4 @@ tags:
   - syt_elektro
 ---
 ![[Feld einer stromdurchflossener Spule 25-04-2024-30.excalidraw]]
+![[Bsp Permanentmagnet]]
