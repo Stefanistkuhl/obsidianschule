@@ -822,11 +822,9 @@ b=100mm
 c=40mm
 \alpha = 50°
 a = \sqrt{ b²+c²-2bc*\cos\alpha }=\sqrt{ 100²+40²-2*100*40*\cos(50) }=80,36mm
-\frac{80,36}{\sin(50)}=\frac{100}{\sin(\beta)}=104.9=\frac{100}{\sin (\beta)}|*\sin(\beta)
-104.9*\sin(\beta)=100|:104.9 
-\sin(\beta)=\frac{100}{104.9}=\beta = \arcsin(\frac{100}{104.9})=72.41°
-\gamma = 180°-50°-72.41°=57.59°
-A = \frac{1}{2}*100*40*\sin(50°)=1532mm²
+b²=a²+c²-2ac*\cos(\beta)=6457.7296=10000+1600-6428.8*\cos(\beta)
+-5142.2704=-6428.8*\cos(\beta)|:-6428.8
+
 
 ```
 g)
