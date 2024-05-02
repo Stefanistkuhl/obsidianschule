@@ -866,6 +866,7 @@ e=\sqrt{19.6²+12.4²  -2*19.6*12.4*\cos(56°)}=\underline{16.31cm}
 A=19.6*12.4*\sin(124°)=\underline{201.49cm²}
 ```
 7.10b)
+Dieses Bsp hat Rundungsfehler also alle ergebnisse sind ca um 2° falsch, da ich die Wurzeln gerundet habe.
 ```math
 ||{"id":1445873609750}||
 
@@ -885,7 +886,13 @@ D=(0|5)
 \alpha = \arccos(-\frac{54}{-97.53})=\underline{56.4°}
 \bigtriangleup_{ACB}
 72.93=58.06+36.97-2*7.62*6.08*\cos(\beta)|-58.06|-36.97
-
+-22.01=-92.96*\cos(\beta)|:-92.96
+\beta=\arccos(-\frac{22.01}{-92.96})=\underline{76.3°}
+\bigtriangleup_{BCD}
+45.02=8+36.97-2*2.83*6.08*\cos(\gamma)|-36.97|-8
+0.0488=-34.29*\cos(\gamma)|:-34.29
+\gamma=\arccos(\frac{0.0488}{-34.29})=
+\bigtriangleup_{ACD}
+72.93=40.96+8-2*6.4*2.83*\cos(\delta)|-40.96|-8
+23.97=
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
