@@ -16,4 +16,4 @@ Bahn des e-?
 Fliehkraft=(Zentrifugalkraft)
 $$F_{F}=\frac{m*v²}{r}$$
 Für einen Halbkreis F_L = F_F
-$$Q.v.B=\frac{m*v²}{r}→Q.B=\frac{m*v}{r}$$
+$$Q.v.B=\frac{m*v²}{r}→Q.B=\frac{m*v}{r}⇒r=\frac{m*v}{Q.B}$$
