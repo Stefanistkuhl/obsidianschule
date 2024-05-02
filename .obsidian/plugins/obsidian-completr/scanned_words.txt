@@ -9038,6 +9038,7 @@ Lhc
 Lat
 LiF
 Lösen
+Lorenzkraft
 Ost
 OS
 Obwohl
