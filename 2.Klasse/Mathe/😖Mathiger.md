@@ -856,7 +856,24 @@ f=\sqrt{19.6²+12.4²  -2*19.6*12.4*\cos(124°)}=\underline{28.45cm}
 \bigtriangleup_{ABC}
 e=\sqrt{19.6²+12.4²  -2*19.6*12.4*\cos(56°)}=\underline{16.31cm}
 \bigtriangleup_{ABM}
-384.16=66.5+202.35-2*8.155*14.22=
+384.16=66.5+202.35-2*8.15*14.22*\cos(\phi)|-66.5 |-202.35
+115.31=-2*8.15*14.22*\cos(\phi)=115.31=-231.786*\cos(\phi)|:-231.786
+\phi=\arccos(\frac{115.31}{-231.786})=\underline{119.83°}
+\bigtriangleup_{ADM}
+153.76=66.5+202.35-2*8.15*14.22*\cos(\phi)|-66.5 |-202.35
+-115.14=-2*8.15*14.22*\cos(\phi)=-115.14=-231.786*\cos(\phi)|:-231.786
+\phi=\arccos(\frac{-115.14}{-231.786})=\underline{60.21°}
+A=19.6*12.4*\sin(124°)=\underline{201.49cm²}
+```
+7.10b)
+```math
+||{"id":1445873609750}||
+
+A=(-4|0)
+B=(3|-3)
+C=(2|3)
+D=(0|5)
+
 ```
 
-7.10b)
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
