@@ -873,7 +873,9 @@ A=(-4|0)
 B=(3|-3)
 C=(2|3)
 D=(0|5)
+\overline{AB}=\sqrt{ (-3-0)²+(3+4)²}=7.62→a
+\overline{AD}=\sqrt{ (5-0)²+(0+4)²}=6.4→b
+\overline{BC}=\sqrt{ (2-3)²+(3+3)²}=6.08→c
+\overline{CD}=\sqrt{ (5-3)²+(0-2)²}=2.83→d
 
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
