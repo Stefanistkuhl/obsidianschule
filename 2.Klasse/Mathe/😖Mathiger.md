@@ -831,8 +831,17 @@ g)
 ```math
 ||{"id":973711451669}||
 
-
+b=50mm
+c=70mm
+A=2947mm^2
+2947=0.5*50*70*\sin(\alpha)|:\sin(\alpha)
+\frac{2947}{\sin(\alpha)}=1750|:\sin(\alpha)
+2947=1750*\sin(\alpha)|:1750
+\alpha=\arcsin(\frac{2947}{1750})=
+2947=0.5*50*70*\sin(\alpha)
 ```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 
 7.9b)
 7.10b)
