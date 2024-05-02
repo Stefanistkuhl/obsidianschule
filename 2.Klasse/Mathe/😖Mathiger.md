@@ -865,8 +865,11 @@ e=\sqrt{19.6²+12.4²  -2*19.6*12.4*\cos(56°)}=\underline{16.31cm}
 \phi=\arccos(\frac{-115.14}{-231.786})=\underline{60.21°}
 A=19.6*12.4*\sin(124°)=\underline{201.49cm²}
 ```
+
+
 7.10b)
 Dieses Bsp hat Rundungsfehler also alle ergebnisse sind ca um 2° falsch, da ich die Wurzeln gerundet habe.
+Delta ist irgenwie um 13° falsch und ich kann mir es nicht erklären
 ```math
 ||{"id":1445873609750}||
 
@@ -888,11 +891,10 @@ D=(0|5)
 72.93=58.06+36.97-2*7.62*6.08*\cos(\beta)|-58.06|-36.97
 -22.01=-92.96*\cos(\beta)|:-92.96
 \beta=\arccos(-\frac{22.01}{-92.96})=\underline{76.3°}
-\bigtriangleup_{BCD}
-45.02=8+36.97-2*2.83*6.08*\cos(\gamma)|-36.97|-8
-0.0488=-34.29*\cos(\gamma)|:-34.29
-\gamma=\arccos(\frac{0.0488}{-34.29})=
 \bigtriangleup_{ACD}
 72.93=40.96+8-2*6.4*2.83*\cos(\delta)|-40.96|-8
-23.97=
+23.97=-36.224+\cos(\delta)|:-36.224
+\delta = \arccos(\frac{23.97}{-36.224})=\underline{131.43°}
+\gamma = 360-56.4-76.3-131.43=\underline{95.87°}
+A=\frac{1}{4}*\sqrt{ 4*8.54²*6.71²-(6.4²+6.08²-7.62²-2.83²) ²}=28.5
 ```
