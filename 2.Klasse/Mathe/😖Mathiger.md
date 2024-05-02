@@ -877,5 +877,15 @@ D=(0|5)
 \overline{AD}=\sqrt{ (5-0)²+(0+4)²}=6.4→b
 \overline{BC}=\sqrt{ (2-3)²+(3+3)²}=6.08→c
 \overline{CD}=\sqrt{ (5-3)²+(0-2)²}=2.83→d
+\overline{BD}=\sqrt{ (5+3)²+(0-3)²}=8.54→e
+\overline{AC}=\sqrt{ (3-0)²+(2+4)²}=6.71→f
+\bigtriangleup_{ABD}
+45.02=58.06+40.96-2*7.62*6.4*\cos(\alpha)|-58.06|-40.96
+-54=-97.53*\cos(\alpha)|:-97.53
+\alpha = \arccos(-\frac{54}{-97.53})=\underline{56.4°}
+\bigtriangleup_{ACB}
+72.93=58.06+36.97-2*7.62*6.08*\cos(\beta)|-58.06|-36.97
 
 ```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
