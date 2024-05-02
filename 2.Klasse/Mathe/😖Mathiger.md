@@ -821,27 +821,30 @@ N(25)=32303*e^{\lambda*25}=52997
 b=100mm
 c=40mm
 \alpha = 50°
-a = \sqrt{ b²+c²-2bc*\cos\alpha }=\sqrt{ 100²+40²-2*100*40*\cos(50) }=80,36mm
+a = \sqrt{ b²+c²-2bc*\cos\alpha }=\sqrt{ 100²+40²-2*100*40*\cos(50) }=\\underline80,36mm
 \frac{80,36}{\sin(50)}=\frac{40}{\sin(\gamma)}
 \gamma= \arcsin(\frac{40}{104.9})=22.41°
 \beta=180-50-22.41=107.58°
 A=0.5*100*40*\sin(50)=1532mm²
 ```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 g)
 ```math
 ||{"id":973711451669}||
 
 b=50mm
 c=70mm
-A=2947mm^2
-2947=0.5*50*70*\sin(\alpha)|:\sin(\alpha)
-\frac{2947}{\sin(\alpha)}=1750|:\sin(\alpha)
-2947=1750*\sin(\alpha)|:1750
-\alpha=\arcsin(\frac{2947}{1750})=
-2947=0.5*50*70*\sin(\alpha)
+A=1480mm^2
+1480=0.5*50*70*\sin(\alpha)|:\sin(\alpha)
+\frac{1480}{\sin(\alpha)}=1750|:\sin(\alpha)
+1480=1750*\sin(\alpha)|:1750
+\alpha=\arcsin(\frac{1480}{1750})=57.75°
+a=\sqrt{ 50²+70²-2*50*70*\cos(57.75°) }=60.54mm
+\frac{60.54}{\sin(57.75°)}=\frac{70}{\sin(\gamma)}
+\gamma = \arcsin(\frac{70}{71.5kkk8})=77.92°
+\beta = 180-57.75°-77.92°=44.32°
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 
 7.9b)
 7.10b)
