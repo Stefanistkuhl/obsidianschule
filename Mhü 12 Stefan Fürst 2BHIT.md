@@ -54,32 +54,3 @@ A=19.6*12.4*\sin(124°)=\underline{201.49cm²}
 7.10b)
 Dieses Bsp hat Rundungsfehler also alle ergebnisse sind ca um 2° falsch, da ich die Wurzeln gerundet habe.
 Delta ist irgenwie um 13° falsch und ich kann mir es nicht erklären
-```math
-||{"id":1445873609750}||
-
-A=(-4|0)
-B=(3|-3)
-C=(2|3)
-D=(0|5)
-\overline{AB}=\sqrt{ (-3-0)²+(3+4)²}=7.62→a
-\overline{AD}=\sqrt{ (5-0)²+(0+4)²}=6.4→b
-\overline{BC}=\sqrt{ (2-3)²+(3+3)²}=6.08→c
-\overline{CD}=\sqrt{ (5-3)²+(0-2)²}=2.83→d
-\overline{BD}=\sqrt{ (5+3)²+(0-3)²}=8.54→e
-\overline{AC}=\sqrt{ (3-0)²+(2+4)²}=6.71→f
-\bigtriangleup_{ABD}
-45.02=58.06+40.96-2*7.62*6.4*\cos(\alpha)|-58.06|-40.96
--54=-97.53*\cos(\alpha)|:-97.53
-\alpha = \arccos(-\frac{54}{-97.53})=\underline{56.4°}
-\bigtriangleup_{ACB}
-72.93=58.06+36.97-2*7.62*6.08*\cos(\beta)|-58.06|-36.97
--22.01=-92.96*\cos(\beta)|:-92.96
-\beta=\arccos(-\frac{22.01}{-92.96})=\underline{76.3°}
-\bigtriangleup_{ACD}
-72.93=40.96+8-2*6.4*2.83*\cos(\delta)|-40.96|-8
-23.97=-36.224+\cos(\delta)|:-36.224
-\delta = \arccos(\frac{23.97}{-36.224})=\underline{131.43°}
-\gamma = 360-56.4-76.3-131.43=\underline{95.87°}
-A=\frac{1}{4}*\sqrt{ 4*8.54²*6.71²-(6.4²+6.08²-7.62²-2.83²) ²}=\underline{28,5}
-```
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>

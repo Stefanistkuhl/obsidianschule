@@ -1027,6 +1027,7 @@ gYsLd
 ghNz
 gYANMm
 gdRw
+gerundet
 Zettel
 Zwingen
 Zeichen
@@ -2082,6 +2083,7 @@ DVMk
 Dal
 Ddy
 Duf
+Delta
 Problem
 Pest
 Portugal
@@ -3202,6 +3204,7 @@ iTIK
 iye
 inder
 iFqip
+irgenwie
 dass
 die
 den
@@ -4045,6 +4048,7 @@ elemente
 elementmolekühle
 einzele
 eYjBmXga
+ergebnisse
 Übergange
 Übergänge
 Übergang
@@ -8027,6 +8031,7 @@ RsVnd
 RqfBdTDz
 RTRIGc
 RglBVnUQ
+Rundungsfehler
 vor
 verbreiten
 vom
