@@ -187,11 +187,8 @@
       "canvas:Create new canvas": true,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": true,
-      "templater-obsidian:Templater": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "templates:Insert template": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian42-brat:BRAT": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "8a22e33b88c9190f",
