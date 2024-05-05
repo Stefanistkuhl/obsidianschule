@@ -633,6 +633,8 @@ KWh
 Kjo
 KsZrnP
 Kfbea
+König
+Kaiser
 ggp
 genauen
 gibt
@@ -2498,6 +2500,8 @@ PCrj
 PwD
 PGF
 PnvfhNu
+Philip
+Prinzessin
 bei
 background
 bis
@@ -2907,6 +2911,7 @@ brdQ
 bxuafd
 bIETqACa
 bWsuJbm
+besiegt
 ist
 in
 im
@@ -3600,6 +3605,8 @@ dXb
 dieseble
 dividieren
 dieeselbe
+dasn
+deinen
 es
 entstanden
 entstehen
@@ -4050,6 +4057,7 @@ elementmolekühle
 einzele
 eYjBmXga
 ergebnisse
+ergeben
 Übergange
 Übergänge
 Übergang
@@ -5188,6 +5196,7 @@ kKLRdBSI
 kNorWmLs
 kbrYuVCq
 knight
+könig
 Jahreszahlen
 Jahresahlen
 Jura
@@ -7674,6 +7683,8 @@ Molare
 Magnesiumsulfid
 Magnetfeld
 MiMqAD
+Marchfeld
+Maximilian
 Rom
 Ratten
 Römischen
@@ -8035,6 +8046,9 @@ RqfBdTDz
 RTRIGc
 RglBVnUQ
 Rundungsfehler
+Rudolf
+Reiches
+Riter
 vor
 verbreiten
 vom
@@ -9275,6 +9289,7 @@ Oii
 OCc
 OjZCrcFs
 ONe
+Ottokar
 Alt
 Amerikas
 Atombindung
@@ -10078,6 +10093,7 @@ GZG
 GkVEqab
 GFcWLg
 GxYvDoO
+Gesamten
 wurden
 wegen
 wird
@@ -11840,6 +11856,10 @@ SYpJIa
 SwHNvu
 SxSnD
 SFH
+Schlacht
+Sohn
+Schönen
+Spanische
 Handel
 Hygiene
 Halbleiter
@@ -12145,6 +12165,9 @@ HjZ
 HONCI
 HSnygCg
 HHpeDzrS
+Habsburg
+Heiligen
+Habsburger
 an
 auf
 aus
@@ -14454,6 +14477,7 @@ hHrG
 hfQrW
 hJDlw
 hinein
+heiraten
 Bananen
 Buch
 Beschreiben
@@ -14835,6 +14859,7 @@ BrIF
 Brom
 BoTyGpxX
 BREKyGuc
+Böhmen
 Voraussetzungen
 Valenziabrücken
 Vekehrswesen
@@ -15674,6 +15699,8 @@ lMZ
 lfa
 lWxO
 laCXAxAr
+land
+letze
 Queue
 QHvC
 Qp
@@ -15898,6 +15925,7 @@ QJFA
 übungsaufgaben
 überhaupt
 üben
+übernimmt
 öffentliche
 öffnung
 ökonomisch
