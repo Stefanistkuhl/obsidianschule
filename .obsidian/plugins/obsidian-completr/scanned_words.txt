@@ -1030,6 +1030,7 @@ ghNz
 gYANMm
 gdRw
 gerundet
+gekröhnt
 Zettel
 Zwingen
 Zeichen
@@ -2912,6 +2913,7 @@ bxuafd
 bIETqACa
 bWsuJbm
 besiegt
+buch
 ist
 in
 im
@@ -3607,6 +3609,7 @@ dividieren
 dieeselbe
 dasn
 deinen
+deutschem
 es
 entstanden
 entstehen
@@ -4612,6 +4615,7 @@ seiten
 sinds
 schwächsten
 stärksten
+stribt
 und
 um
 ungefähr
@@ -5197,6 +5201,7 @@ kNorWmLs
 kbrYuVCq
 knight
 könig
+kinderlos
 Jahreszahlen
 Jahresahlen
 Jura
@@ -5732,6 +5737,7 @@ feT
 fsB
 fbFxe
 fDYGHchn
+friedrich
 mark
 mit
 mangelnder
@@ -8401,6 +8407,7 @@ vergsesen
 vorkommmen
 vFgbE
 vtL
+vereint
 West
 Welt
 Wachstum
@@ -14168,6 +14175,7 @@ rRUbRNo
 roBzwGrD
 rxPnb
 rises
+römisch
 hat
 hervorgerufen
 haben
@@ -14478,6 +14486,7 @@ hfQrW
 hJDlw
 hinein
 heiraten
+habburger
 Bananen
 Buch
 Beschreiben
@@ -15701,6 +15710,7 @@ lWxO
 laCXAxAr
 land
 letze
+linien
 Queue
 QHvC
 Qp

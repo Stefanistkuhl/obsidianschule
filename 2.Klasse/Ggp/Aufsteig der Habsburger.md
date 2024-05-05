@@ -11,3 +11,6 @@ Maximilian 1. (Der letze Riter) lässt deinen Sohn Philip den Schönen die Spani
 
 # ding aus dem buch oda so
 
+Rudolf IV stribt 1365 kinderlos → habburger werden in 3 linien aufgeteilt → friedrich 3 vereint diese wieder.
+Er war auch der erste Habsburger der zum römisch deutschem Kaiser gekröhnt wurde.
+
