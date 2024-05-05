@@ -2084,6 +2084,7 @@ Dal
 Ddy
 Duf
 Delta
+Dune
 Problem
 Pest
 Portugal
@@ -5186,6 +5187,7 @@ kvg
 kKLRdBSI
 kNorWmLs
 kbrYuVCq
+knight
 Jahreszahlen
 Jahresahlen
 Jura
@@ -6052,6 +6054,7 @@ mQS
 modularae
 masse
 meq
+midpool
 FFA
 Flüssen
 Furt
@@ -14141,6 +14144,7 @@ rzu
 rRUbRNo
 roBzwGrD
 rxPnb
+rises
 hat
 hervorgerufen
 haben
