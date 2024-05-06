@@ -8,6 +8,6 @@ nmap <F9> :nohl
 set clipboard=unnamed
 
 exmap back obcommand app:go-back
-nmap <C-u> :back
+nmap <C-k> :back
 exmap forward obcommand app:go-forward
 nmap <C-i> :forward

@@ -153,5 +153,6 @@
       "key": "D"
     }
   ],
-  "editor:toggle-italics": []
+  "editor:toggle-italics": [],
+  "editor:insert-link": []
 }
