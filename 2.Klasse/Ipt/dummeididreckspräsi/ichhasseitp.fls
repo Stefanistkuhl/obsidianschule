@@ -1,4 +1,4 @@
-PWD /mnt/s/stuff/idk/latex/dummeididreckspräsi
+PWD /mnt/share/stefans_sachen/useful/schule/obsidianschule/2.Klasse/Ipt/dummeididreckspräsi
 INPUT /var/lib/texmf/web2c/luahbtex/lualatex.fmt
 INPUT ./ichhasseitp.tex
 OUTPUT ichhasseitp.log
