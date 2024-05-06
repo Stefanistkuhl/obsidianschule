@@ -7691,6 +7691,8 @@ Magnetfeld
 MiMqAD
 Marchfeld
 Maximilian
+Menschlichkeit
+Mitellpunkt
 Rom
 Ratten
 Römischen
@@ -9072,6 +9074,7 @@ Lat
 LiF
 Lösen
 Lorenzkraft
+Literatur
 Ost
 OS
 Obwohl
@@ -12175,6 +12178,7 @@ HHpeDzrS
 Habsburg
 Heiligen
 Habsburger
+Humanismus
 an
 auf
 aus
