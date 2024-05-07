@@ -6443,6 +6443,7 @@ FaYygyPJ
 Flour
 FZjRZTZN
 Fliehkraft
+Fmax
 nach
 neue
 negativen
@@ -7707,6 +7708,7 @@ Marchfeld
 Maximilian
 Menschlichkeit
 Mitellpunkt
+MbeY
 Rom
 Ratten
 Römischen
@@ -12200,6 +12202,7 @@ Heiligen
 Habsburger
 Humanismus
 Hellspanung
+HkVfvXzN
 an
 auf
 aus
@@ -12664,6 +12667,7 @@ ausgleicht
 aEqcpM
 aOBGMpMl
 aBysaHJ
+approx
 oft
 oder
 os
@@ -12910,6 +12914,7 @@ oCl
 oyeKQT
 oZsNoWsW
 oRQjcW
+ohm
 Namen
 Neuzeit
 Nord
@@ -14201,6 +14206,7 @@ roBzwGrD
 rxPnb
 rises
 römisch
+rLIvk
 hat
 hervorgerufen
 haben
