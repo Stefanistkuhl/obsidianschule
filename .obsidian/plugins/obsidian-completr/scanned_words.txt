@@ -635,6 +635,7 @@ KsZrnP
 Kfbea
 König
 Kaiser
+Kraften
 ggp
 genauen
 gibt
@@ -5202,6 +5203,7 @@ kbrYuVCq
 knight
 könig
 kinderlos
+klasse
 Jahreszahlen
 Jahresahlen
 Jura
@@ -6430,6 +6432,7 @@ Fym
 FaYygyPJ
 Flour
 FZjRZTZN
+Fliehkraft
 nach
 neue
 negativen
@@ -10727,6 +10730,7 @@ cjF
 cKQ
 cNS
 cwitJxUF
+coop
 zu
 zum
 zur
