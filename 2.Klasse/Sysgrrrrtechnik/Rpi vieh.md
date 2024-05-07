@@ -14,5 +14,6 @@ gp.setup(rot,gp.OUT) # port als output setzen
 gp.ouput(rot, gp.HIGH) # led zum leuchten bringen
 
 grün = 24
-
+gp.setup(grün,gp.OUT) 
+gp.ouput(grün, gp.HIGH)
 ```
