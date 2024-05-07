@@ -6,3 +6,4 @@
 ![[Monetäre Ziele]]
 ![[Dsgvo]]
 ![[16 Lebensmotive nach Reiss]]
+![[Level 2 Methode]]

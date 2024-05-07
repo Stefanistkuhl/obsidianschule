@@ -13,23 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Rpi vieh.md",
+                "file": "2.Klasse/Ipt/Level 2 Methode.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1e6dc7208ef388ee",
+            "id": "34359dee6b24ea6d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "bilder/Diodenampelschaltung oda so ein kram oida 07-05-2024-48.excalidraw.md"
+                "file": "bilder/Level 2 Methode 07-05-2024-50.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Rpi vieh.md",
+                "file": "bilder/Level 2 Methode 07-05-2024-50.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Rpi vieh.md"
+                "file": "bilder/Level 2 Methode 07-05-2024-50.excalidraw.md"
               }
             }
           },
@@ -190,12 +191,15 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "773d5fb0b589443a",
+  "active": "34359dee6b24ea6d",
   "lastOpenFiles": [
-    "2.Klasse/Sysgrrrrtechnik/grrrrrlektrotechnik v2 mit sin.md",
-    "2.Klasse/Sysgrrrrtechnik/Rpi vieh.md",
-    "2.Klasse/nawi/Diodenampelschaltung oda so ein kram oida.md",
+    "2.Klasse/Ipt/Level 2 Methode.md",
+    "bilder/Level 2 Methode 07-05-2024-50.excalidraw.md",
     "bilder/Diodenampelschaltung oda so ein kram oida 07-05-2024-48.excalidraw.md",
+    "2.Klasse/Ipt/bwl v2.md",
+    "2.Klasse/Sysgrrrrtechnik/Rpi vieh.md",
+    "2.Klasse/Sysgrrrrtechnik/grrrrrlektrotechnik v2 mit sin.md",
+    "2.Klasse/nawi/Diodenampelschaltung oda so ein kram oida.md",
     "2.Klasse/Sysgrrrrtechnik/Bsp Halbsonde.md",
     "bilder/Bsp Halbsonde 07-05-2024-28.excalidraw.md",
     "2.Klasse/Sysgrrrrtechnik/kraft wirkung im magnetischen Feld.md",
@@ -217,9 +221,6 @@
     "bilder/Säuren und Basen 02-05-2024-39.excalidraw.md",
     "2.Klasse/nawi/🪄Naturtigerschaften.md",
     "templates/Nawi.md",
-    "2.Klasse/nawi/Kraft auf eine bewegte Ladung.md",
-    "bilder/Kraft auf eine bewegte Ladung 02-05-2024-28.excalidraw.md",
-    "2.Klasse/Sysgrrrrtechnik/Bsp Permanentmagnet.md",
     "bilder/Pasted image 20240430170942.png",
     "2.Klasse/Netzwerktiger/Aufgaben/packet tracer einführung/NWT1_V.1_PacketTracerEinführung_7.3.1.pdf",
     "bilder/Pasted image 20240430161643.png",
