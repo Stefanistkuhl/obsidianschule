@@ -1689,6 +1689,7 @@ Edukte
 Eekd
 EgFpAlEu
 EamH
+Elementarladung
 Das
 Dasselbe
 Diode
@@ -2089,6 +2090,8 @@ Ddy
 Duf
 Delta
 Dune
+Dichte
+Dicke
 Problem
 Pest
 Portugal
@@ -2504,6 +2507,8 @@ PGF
 PnvfhNu
 Philip
 Prinzessin
+Plättchen
+Plättchens
 bei
 background
 bis
@@ -2915,6 +2920,7 @@ bIETqACa
 bWsuJbm
 besiegt
 buch
+bewirkt
 ist
 in
 im
@@ -4916,6 +4922,7 @@ ufy
 uqL
 uxK
 uvTLHSyT
+unbekannten
 keine
 konnten
 kein
@@ -5741,6 +5748,8 @@ fsB
 fbFxe
 fDYGHchn
 friedrich
+fliehst
+flsS
 mark
 mit
 mangelnder
@@ -7296,6 +7305,7 @@ Ubh
 UzE
 Urc
 UcS
+UNA
 Mittelalter
 Merkmale
 Mönche
@@ -9079,6 +9089,8 @@ LiF
 Lösen
 Lorenzkraft
 Literatur
+Ladungstrennung
+LUD
 Ost
 OS
 Obwohl
@@ -10732,6 +10744,7 @@ cKQ
 cNS
 cwitJxUF
 coop
+cCXQ
 zu
 zum
 zur
@@ -11321,6 +11334,7 @@ TsJIGrUi
 TCXf
 Tafel
 Tafellinieen
+TzN
 Städte
 Südamerika
 Spanien
@@ -11875,6 +11889,7 @@ Schlacht
 Sohn
 Schönen
 Spanische
+SoZ
 Handel
 Hygiene
 Halbleiter
@@ -12184,6 +12199,7 @@ Habsburg
 Heiligen
 Habsburger
 Humanismus
+Hellspanung
 an
 auf
 aus
@@ -14496,6 +14512,7 @@ hJDlw
 hinein
 heiraten
 habburger
+htXg
 Bananen
 Buch
 Beschreiben
@@ -15720,6 +15737,7 @@ laCXAxAr
 land
 letze
 linien
+lIue
 Queue
 QHvC
 Qp

@@ -12,3 +12,5 @@ tags:
 
 ![[Wechselstromtechnik]]
 ![[Das magnetische Feld]]
+
+![[Diodenampelschaltung oda so ein kram oida]]

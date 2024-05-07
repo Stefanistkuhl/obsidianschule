@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Bsp Halbsonde.md",
+                "file": "2.Klasse/nawi/Diodenampelschaltung oda so ein kram oida.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "1e6dc7208ef388ee",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/Diodenampelschaltung oda so ein kram oida 07-05-2024-48.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Bsp Halbsonde.md",
+                "file": "bilder/Diodenampelschaltung oda so ein kram oida 07-05-2024-48.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Bsp Halbsonde.md"
+                "file": "bilder/Diodenampelschaltung oda so ein kram oida 07-05-2024-48.excalidraw.md"
               }
             }
           },
@@ -180,10 +191,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "773d5fb0b589443a",
+  "active": "1e6dc7208ef388ee",
   "lastOpenFiles": [
-    "bilder/Bsp Halbsonde 07-05-2024-28.excalidraw.md",
+    "bilder/Diodenampelschaltung oda so ein kram oida 07-05-2024-48.excalidraw.md",
+    "2.Klasse/nawi/Diodenampelschaltung oda so ein kram oida.md",
+    "2.Klasse/Sysgrrrrtechnik/grrrrrlektrotechnik v2 mit sin.md",
     "2.Klasse/Sysgrrrrtechnik/Bsp Halbsonde.md",
+    "bilder/Bsp Halbsonde 07-05-2024-28.excalidraw.md",
     "2.Klasse/Sysgrrrrtechnik/kraft wirkung im magnetischen Feld.md",
     "2.Klasse/Deutsch/🏘️🫥Detiger.md",
     "Überlebenswichtige Strichlisten.md",
@@ -207,9 +221,6 @@
     "bilder/Kraft auf eine bewegte Ladung 02-05-2024-28.excalidraw.md",
     "2.Klasse/Sysgrrrrtechnik/Bsp Permanentmagnet.md",
     "2.Klasse/Sysgrrrrtechnik/Feld einer stromdurchflossener Spule.md",
-    "2.Klasse/nawi/Ausbeute vieh.md",
-    "2.Klasse/Sysgrrrrtechnik/Fürst_Elektro_Export oida.md",
-    "2.Klasse/nawi/test 2 nicht halleiter zeugs.md",
     "bilder/Pasted image 20240430170942.png",
     "2.Klasse/Netzwerktiger/Aufgaben/packet tracer einführung/NWT1_V.1_PacketTracerEinführung_7.3.1.pdf",
     "bilder/Pasted image 20240430161643.png",
