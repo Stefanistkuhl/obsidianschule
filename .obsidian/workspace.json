@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Ipt/Level 2 Methode.md",
+                "file": "Überlebenswichtige Strichlisten.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "34359dee6b24ea6d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/Level 2 Methode 07-05-2024-50.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bilder/Level 2 Methode 07-05-2024-50.excalidraw.md",
+                "file": "Überlebenswichtige Strichlisten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +140,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "bilder/Level 2 Methode 07-05-2024-50.excalidraw.md"
+                "file": "Überlebenswichtige Strichlisten.md"
               }
             }
           },
@@ -191,7 +180,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "34359dee6b24ea6d",
+  "active": "773d5fb0b589443a",
   "lastOpenFiles": [
     "2.Klasse/Ipt/Level 2 Methode.md",
     "bilder/Level 2 Methode 07-05-2024-50.excalidraw.md",
