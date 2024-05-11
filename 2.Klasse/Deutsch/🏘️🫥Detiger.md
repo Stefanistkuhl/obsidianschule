@@ -76,5 +76,6 @@ Die Befragung "Zwei von fünf spielen Computer- und Videospiele" zum Thema Compu
 
 In diesem Balkendiagramm, welches zwei Datenpunkte pro Geschlecht und Altersgruppe hat, die jeweils aus dem Jahre 2014 und 13 sind. 
 Angeführt wird die Statistik von der jüngsten Altersgruppe (14-29), bei welcher der Anteil an Videospielenden von 80 auf 84% gestiegen ist. Darauf folgen 30 bis 49 Jährige mit 44 und 50%, 50-64 mit 13 und 23% und schließlich 65 oder älter mit 5 und 9%.
-## coop grafik analyse mit klasse
+## graka anlyse
 
+![[grakaanaylseübenodasooasifosadugihdfsigjoghjidsoghioshgisdghid]]
