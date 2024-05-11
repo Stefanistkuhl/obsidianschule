@@ -4628,6 +4628,7 @@ stärksten
 stribt
 striche
 symbolic
+schwänzen
 und
 um
 ungefähr
@@ -9101,6 +9102,7 @@ Literatur
 Ladungstrennung
 LUD
 Ladig
+Lehrende
 Ost
 OS
 Obwohl
@@ -9784,6 +9786,7 @@ AEkw
 AqjzvLA
 AETm
 AVRfe
+APA
 Griechisch
 Glauben
 Gewalt
@@ -10131,6 +10134,7 @@ GFcWLg
 GxYvDoO
 Gesamten
 GPIO
+Grafik
 wurden
 wegen
 wird
@@ -12679,6 +12683,7 @@ aOBGMpMl
 aBysaHJ
 approx
 abtrennen
+ahnung
 oft
 oder
 os
@@ -14914,6 +14919,7 @@ Brom
 BoTyGpxX
 BREKyGuc
 Böhmen
+BMUK
 Voraussetzungen
 Valenziabrücken
 Vekehrswesen
@@ -15993,6 +15999,7 @@ QJFA
 öffne
 öx
 öIB
+österreichische
 xd
 xbNnL
 xTa
