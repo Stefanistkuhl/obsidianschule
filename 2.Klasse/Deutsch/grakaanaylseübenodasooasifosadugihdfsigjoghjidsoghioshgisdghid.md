@@ -8,5 +8,5 @@ tags:
 
 Die Grafik vom TiEtel "Warum wir die Schule schwänzen" wurde von weiß ich doch nd oida am keine ahnung 2 veröffentlicht. Die Daten stammen von APA/BMUK und sind von einer Befragung, bei der über 1700 österreichische Lehrende befragt wurden und sind in einem Balkendiagramm abgebildet.
 
-In diesem wird zur Schau gestellt, aus welchen Gründen Schüler-innen von der Schule unerlaubt fernbleiben. Die Grafik wird von ver-/ausschlafen mit 61% angeführt. Dies ergibt Sinn, da an diesem Tag einfach nicht zu kommen, anstatt für zwei Stunden extra in die Schule zu kommen. 
-Die Grafik kann in drei Kategorien unterteilt werden, und zwar in 
+Die Grafik kann in drei Kategorien unterteilt werden, und zwar in Persönliche/Schulische Probleme und Faulheit. Welche die größte Kategorie ist, mit ver-/ausschlafen, anderes vorgenommen, schlechte Stimmung und keine Hausaufgaben gemacht, mit jeweils 61,55,53 und 22%. Diese würde ich als faul bezeichnen, da jeder dieser Gründe kein valider Grund ist, um fernzubleiben und es kein Problem wäre, einfach trotzdem zu kommen, aber wie man in dem Beispiel von ver-/ausschlafen Beispiel erkennt, dass Jugendliche, lieber einen ganzen Tag fehlen, als sich die mühe zu machen, wenigstens den halben Schultag extra in die Schule zu fahren. Dieselbe Logik kann auch für die anderen Punkte der Kategorie angewandt werden.
+Langweiliger Unterricht, 
