@@ -5,7 +5,7 @@
 \usepackage{tabularx}
 \usepackage[superscript,biblabel]{cite}
 \usecolortheme[snowy]{owl}
-%\setsansfont{JetBrains Mono}
+\setsansfont{JetBrains Mono}
 %\setbeamertemplate{navigation symbols}{}
 % \setbeamercovered{transparent}
 \title {Linux Foundation}
@@ -63,20 +63,14 @@
 \begin{frame}{Gesuchte Stellen}
 	\begin{itemize}
 
-		\item	Hauptsächlich Managment Positionen\cite{Positionen}
-		\item	\begin{tabularx}{0.5\textwidth} {
-				      | >{\raggedright\arraybackslash}X
-				      | >{\centering\arraybackslash}X
-				      | >{\raggedleft\arraybackslash}X |}
-			      \hline
-			      Position                         & Firma            \\
-			      \hline
-			      Senior Conent Marketing Manager  & Linux Foundation \\
-			      \hline
-			      Senior Technical Program Manager & CNCF             \\
-			      \hline
-		      \end{tabularx}
+		\item	Hauptsächlich Managment Positionen
 	\end{itemize}
+	\begin{figure}
+		\centering
+		\includegraphics[scale=0.4]{images/jobs.png}\cite{Positionen}
+		\caption{Offene Stellen}
+	\end{figure}
+
 \end{frame}
 \section {Ziele der Firma}
 \begin{frame}{Hauptziele}
@@ -141,9 +135,9 @@
 \subsection {Haupt und Nebenziele}
 
 \section{Quellen}
-\begin{frame}{Quellen}
+\begin{frame}[shrink=30]{Quellen}
 	\bibliographystyle{plain}
-	\bibliography{quellen}
+	\bibliography{./quellen.bib}
 \end{frame}
 \begin{frame}{ende oida}
 	\LaTeX{} > Powerpoint microsoft bad
