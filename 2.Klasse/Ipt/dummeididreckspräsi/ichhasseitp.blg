@@ -1,53 +1,63 @@
-This is BibTeX, Version 0.99d (TeX Live 2023/nixos.org)
+This is BibTeX, Version 0.99d (TeX Live 2022/Debian)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: ichhasseitp.aux
 The style file: plain.bst
 Database file #1: ./quellen.bib
 Warning--to sort, need author or key in NPO
+Warning--to sort, need author or key in HDMI3
+Warning--to sort, need author or key in HDMI
+Warning--to sort, need author or key in HDMI2
+Warning--to sort, need author or key in HDMI4
+Warning--to sort, need author or key in Windoof2
+Warning--to sort, need author or key in Windoof3
+Warning--to sort, need author or key in Windoof4
+Warning--to sort, need author or key in Windoof5
+Warning--to sort, need author or key in Windoof6
+Warning--to sort, need author or key in Windoof7
 Warning--to sort, need author or key in About
 Warning--to sort, need author or key in Events
 Warning--to sort, need author or key in Training
 Warning--to sort, need author or key in Locations
 Warning--to sort, need author or key in Positionen
-You've used 8 entries,
+You've used 20 entries,
             2118 wiz_defined-function locations,
-            532 strings with 4690 characters,
-and the built_in function-call counts, 1410 in all, are:
-= -- 130
-> -- 20
+            580 strings with 5796 characters,
+and the built_in function-call counts, 3454 in all, are:
+= -- 320
+> -- 44
 < -- 0
-+ -- 12
-- -- 4
-* -- 70
-:= -- 189
-add.period$ -- 18
-call.type$ -- 8
-change.case$ -- 26
++ -- 28
+- -- 8
+* -- 170
+:= -- 439
+add.period$ -- 44
+call.type$ -- 20
+change.case$ -- 64
 chr.to.int$ -- 0
-cite$ -- 14
-duplicate$ -- 62
-empty$ -- 173
-format.name$ -- 4
-if$ -- 323
+cite$ -- 36
+duplicate$ -- 152
+empty$ -- 437
+format.name$ -- 8
+if$ -- 805
 int.to.chr$ -- 0
-int.to.str$ -- 8
-missing$ -- 2
-newline$ -- 37
-num.names$ -- 4
-pop$ -- 62
+int.to.str$ -- 20
+missing$ -- 4
+newline$ -- 87
+num.names$ -- 8
+pop$ -- 160
 preamble$ -- 1
-purify$ -- 18
+purify$ -- 44
 quote$ -- 0
-skip$ -- 56
+skip$ -- 139
 stack$ -- 0
-substring$ -- 40
-swap$ -- 8
+substring$ -- 100
+swap$ -- 20
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 32
-warning$ -- 6
-while$ -- 4
-width$ -- 9
-write$ -- 70
-(There were 6 warnings)
+type$ -- 80
+warning$ -- 16
+while$ -- 8
+width$ -- 22
+write$ -- 170
+(There were 16 warnings)

@@ -1,16 +1,18 @@
 \documentclass[11pt,aspectratio=169]{beamer}
 \usetheme{metropolis}
 \usepackage[T1]{fontenc} 
+\usepackage{hyperref}
 \usepackage{dirtytalk}
 \usepackage{tabularx}
 \usepackage[superscript,biblabel]{cite}
 \usecolortheme[snowy]{owl}
-% \setsansfont{JetBrains Mono}
+\setsansfont{JetBrains Mono}
 %\setbeamertemplate{navigation symbols}{}
 % \setbeamercovered{transparent}
 \title {Linux Foundation}
 \author{Stefan Fürst}
-\institute{Htl Donaustadt}
+\date{14.05.2024}
+% \institute{Htl Donaustadt}
 % \logo{\includegraphics[width=.1\textwidth]{logo.png}}
 \begin{document}
 
@@ -28,6 +30,37 @@
 		\item Zusammenschluss aus der Free Standards Group und Open Souce Development Labs\cite{Zusamenschluss}
 	\end{itemize}
 \end{frame}
+\section{Wieso ist Offenheit wichtig}
+\begin{frame}{HDMI Situation}
+	\begin{itemize}
+		\item HDMI ist ein kein offender Standard\cite{HDMI3}
+		      \begin{itemize}
+			      \item Nur "HDMI Adopters" haben zugriff\cite{HDMI}
+			      \item Mitgliedschaft beginnt ab 15 000€\cite{HDMI2}
+		      \end{itemize}
+		\item AMD entwickelt einen Open Source Grafik Treiber für HDMI 2.1\cite{HDMI}
+		\item HDMI Forum sagt nein\cite{HDMI}
+		\item 4k@120hz und Features wie VRR gehen nicht\cite{HDMI4}\cite{HDMI}
+	\end{itemize}
+\end{frame}
+\begin{frame}{Windows und Closed Source}
+	\only<0->{\begin{itemize}
+			\only<0->{\item \say{Windows wird mit jedem Update schlechter} - jeder}
+			      \only<1>{\item Werbungen im Startmenü\cite{Windoof1}}
+			      \only<1>{\item Werbungen im Startmenü aber anders\cite{Windoof2}}
+			      \only<1>{\item Werbungen im File Explorer\cite{Windoof3}}
+			      \only<1>{\item Werbungen im File Explorer hätten wir anscheinend nicht sehen dürfen\cite{Windoof4}}
+			      \only<1>{\item Mehr Werbungen\cite{Windoof5}\cite{Windoof6}}
+			      \only<1>{\item TPM erforderlich\cite{Windoof7}}
+			      \only<1>{\item Microsoft Account benötigt\cite{Windoof8}}
+			      \only<1>{\item und noch VIELES mehr}
+			      \only<2->{\item Nutzer muss mit Entscheidungen des Entwicklers leben}
+			      \only<3->{\item Quellcode kann verloren werden}
+			      \only<4->{\item Nutzer weiß nicht was die Software macht}
+			      \only<5->{\item Nur die Firma kann die Sicherheit überprüfen}
+			      \only<6->{\item Produkt kann nicht von der Community am Leben erhalten werden}
+		\end{itemize}}
+\end{frame}
 \section{Was macht die Linux Foundation?}
 
 \begin{frame}{Was macht die Linux Foundation?}
@@ -44,32 +77,10 @@
 
 \begin{frame}{Wie macht sie das?}
 	\begin{itemize}
-		\item <1->\say{Foundation as a Service}
+		\item <1->\say{Foundation as a Service}\cite{Grundprinziepe}
 		\item <2->Finanzielle Untertützung
 		\item <3->Rechtlicher Schutz
 		\item <4->Lernmaterialien und Zertifizirungen anbieten\cite{Training}
-	\end{itemize}
-\end{frame}
-\begin{frame}{Wieso ist das wichtig?}
-	\begin{itemize}	
-		\item Offene Standarts
-	\end{itemize}
-	\begin{itemize}	
-		\item Offene Software
-	\end{itemize}
-\end{frame}
-\begin{frame}{HDMI Situation}
-	\begin{itemize}	
-		\item HDMI ist ein kein offender Standard
-		\begin{itemize}	
-			\item Nur "HDMI Adopters" haben zugriff
-		\end{itemize}
-		\item 
-	\end{itemize}
-\end{frame}
-\begin{frame}{Open Source}
-	\begin{itemize}
-		\item \say{Die Welt braucht nicht mehr Windowse}
 	\end{itemize}
 \end{frame}
 \begin{frame}{Wo macht sie das?}
@@ -157,12 +168,13 @@
 \subsection {Haupt und Nebenziele}
 
 \section{Quellen}
-\begin{frame}[shrink=30]{Quellen}
+\begin{frame}{Quellen}
+	\centering
+	\url{https://github.com/Stefanistkuhl/obsidianschule/blob/main/2.Klasse/Ipt/dummeididreckspr\%C3\%A4si/quellen.bib}
 	\bibliographystyle{plain}
 	\bibliography{./quellen.bib}
 \end{frame}
-\begin{frame}{ende oida}
-	\LaTeX{} > Powerpoint microsoft bad
+\begin{frame}{Danke für eure Aufmerksamkeit!}
 \end{frame}
 
 \end{document}

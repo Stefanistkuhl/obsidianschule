@@ -1,8 +1,31 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
+
+\bibitem{Windoof6}
+{7 ways Windows 10 pushes ads at you, and how to stop them}, March 2016.
+\newblock [Online; accessed 13. May 2024].
+
+\bibitem{Windoof4}
+{Microsoft says we weren't supposed to see those ads in Windows File Explorer},
+  March 2022.
+\newblock [Online; accessed 13. May 2024].
+
+\bibitem{Windoof5}
+{New Windows 11 update restores one-click browser choice, mostly}, March 2022.
+\newblock [Online; accessed 13. May 2024].
 
 \bibitem{Training}
-{Linux Training {$\vert$} Explore the Full Linux Foundation Training Catalog}, November 2023.
+{Linux Training {$\vert$} Explore the Full Linux Foundation Training Catalog},
+  November 2023.
 \newblock [Online; accessed 6. May 2024].
+
+\bibitem{Windoof2}
+{There's no stopping Windows 11's Start menu ads now}, March 2023.
+\newblock [Online; accessed 13. May 2024].
+
+\bibitem{HDMI}
+{4k@120hz unavailable via HDMI 2.1 ({\#}1417) {$\cdot$} Issues {$\cdot$} drm /
+  amd {$\cdot$} GitLab}, May 2024.
+\newblock [Online; accessed 13. May 2024].
 
 \bibitem{About}
 {About the Linux Foundation}, May 2024.
@@ -20,6 +43,28 @@
 {Definition: Nonprofit-Organisation (NPO)}, May 2024.
 \newblock [Online; accessed 6. May 2024].
 
+\bibitem{Windoof7}
+{Enable TPM 2.0 on your PC - Microsoft Support}, May 2024.
+\newblock [Online; accessed 13. May 2024].
+
+\bibitem{Windoof3}
+{Florian auf X: {,,}Some people will go mad if Microsoft starts adding ads in
+  explorer. https://t.co/rusnyrYyX2{ \textquotedblleft} / X}, May 2024.
+\newblock [Online; accessed 13. May 2024].
+
+\bibitem{HDMI4}
+{HDMI 2.1b Specification Overview}, May 2024.
+\newblock [Online; accessed 13. May 2024].
+
+\bibitem{HDMI2}
+{HDMI Forum to AMD: No, you can{'}t make an open source HDMI 2.1 driver},
+  February 2024.
+\newblock [Online; accessed 13. May 2024].
+
+\bibitem{HDMI3}
+{HDMI Technology: Specifications and Programs}, May 2024.
+\newblock [Online; accessed 13. May 2024].
+
 \bibitem{Events}
 {Linux Foundation Events}, May 2024.
 \newblock [Online; accessed 6. May 2024].
@@ -33,5 +78,15 @@ Filipe~Martins{$\ast$} Anna~Kobylinska.
 Oliver Diedrich.
 \newblock {Open Source Development Labs und Free Standards Group fusionieren}.
 \newblock {\em heise online}, January 2007.
+
+\bibitem{Windoof8}
+Avram Piltch.
+\newblock {How to Install Windows 11 Without a Microsoft Account}.
+\newblock {\em Tom's Hardware}, February 2024.
+
+\bibitem{Windoof1}
+Tom Warren.
+\newblock {Microsoft starts testing ads in the Windows 11 Start menu}.
+\newblock {\em Verge}, April 2024.
 
 \end{thebibliography}

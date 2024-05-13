@@ -1,7 +1,8 @@
 \beamer@sectionintoc {1}{Was ist die Linux Foundation?}{3}{0}{1}
-\beamer@sectionintoc {2}{Was macht die Linux Foundation?}{5}{0}{2}
-\beamer@sectionintoc {3}{Ziele der Firma}{21}{0}{3}
-\beamer@subsectionintoc {3}{1}{Monetäre und nicht monetäre Ziele}{31}{0}{3}
-\beamer@subsectionintoc {3}{2}{komplementäre und konkurierende Ziele}{32}{0}{3}
-\beamer@subsectionintoc {3}{3}{Haupt und Nebenziele}{33}{0}{3}
-\beamer@sectionintoc {4}{Quellen}{33}{0}{4}
+\beamer@sectionintoc {2}{Wieso ist Offenheit wichtig}{5}{0}{2}
+\beamer@sectionintoc {3}{Was macht die Linux Foundation?}{13}{0}{3}
+\beamer@sectionintoc {4}{Ziele der Firma}{26}{0}{4}
+\beamer@subsectionintoc {4}{1}{Monetäre und nicht monetäre Ziele}{36}{0}{4}
+\beamer@subsectionintoc {4}{2}{komplementäre und konkurierende Ziele}{37}{0}{4}
+\beamer@subsectionintoc {4}{3}{Haupt und Nebenziele}{38}{0}{4}
+\beamer@sectionintoc {5}{Quellen}{38}{0}{5}
