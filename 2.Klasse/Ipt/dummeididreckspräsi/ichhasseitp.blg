@@ -1,8 +1,8 @@
-This is BibTeX, Version 0.99d (TeX Live 2022/Debian)
+This is BibTeX, Version 0.99d (TeX Live 2023/nixos.org)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: ichhasseitp.aux
 The style file: plain.bst
-Database file #1: quellen.bib
+Database file #1: ./quellen.bib
 Warning--to sort, need author or key in NPO
 Warning--to sort, need author or key in About
 Warning--to sort, need author or key in Events
@@ -11,7 +11,7 @@ Warning--to sort, need author or key in Locations
 Warning--to sort, need author or key in Positionen
 You've used 8 entries,
             2118 wiz_defined-function locations,
-            532 strings with 4684 characters,
+            532 strings with 4690 characters,
 and the built_in function-call counts, 1410 in all, are:
 = -- 130
 > -- 20
