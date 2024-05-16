@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Rpi vieh.md",
+                "file": "2.Klasse/Sysgrrrrtechnik/Datentypen in py.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Rpi vieh.md",
+                "file": "2.Klasse/Sysgrrrrtechnik/Datentypen in py.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Sysgrrrrtechnik/Rpi vieh.md"
+                "file": "2.Klasse/Sysgrrrrtechnik/Datentypen in py.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": true,
@@ -181,6 +182,8 @@
   },
   "active": "773d5fb0b589443a",
   "lastOpenFiles": [
+    "2.Klasse/Sysgrrrrtechnik/Rpi vieh.md",
+    "2.Klasse/Sysgrrrrtechnik/Datentypen in py.md",
     "Filmliste.md",
     "2.Klasse/Deutsch/grakaanaylseübenodasooasifosadugihdfsigjoghjidsoghioshgisdghid.md",
     "2.Klasse/Deutsch/🏘️🫥Detiger.md",
@@ -192,7 +195,6 @@
     "bilder/Level 2 Methode 07-05-2024-50.excalidraw.md",
     "bilder/Diodenampelschaltung oda so ein kram oida 07-05-2024-48.excalidraw.md",
     "2.Klasse/Ipt/bwl v2.md",
-    "2.Klasse/Sysgrrrrtechnik/Rpi vieh.md",
     "2.Klasse/Sysgrrrrtechnik/grrrrrlektrotechnik v2 mit sin.md",
     "2.Klasse/nawi/Diodenampelschaltung oda so ein kram oida.md",
     "2.Klasse/Sysgrrrrtechnik/Bsp Halbsonde.md",
@@ -206,7 +208,6 @@
     "Mhü 12 Stefan Fürst 2BHIT.md",
     "templates/netzwerktiger.md",
     "et.md",
-    "2.Klasse/Mathe/😖Mathiger.md",
     "~$Mhü 12 Stefan Fürst 2BHIT.pptx",
     "Mhü 12 Stefan Fürst 2BHIT.pptx",
     "bilder/Pasted image 20240430170942.png",

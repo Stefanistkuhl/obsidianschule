@@ -17,4 +17,12 @@ gp.ouput(rot, gp.HIGH) # led zum leuchten bringen
 grün = 24
 gp.setup(grün,gp.OUT) 
 gp.ouput(grün, gp.HIGH)
+
+for i in range(69):
+	gp.output(grün,gp.high)
+	time.sleep(1)
+	gp.output(rot,gp.high)
+	time.sleep(1)
 ```
+
+![[Datentypen in py]]
