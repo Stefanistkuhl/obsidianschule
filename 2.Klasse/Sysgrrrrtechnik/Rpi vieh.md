@@ -7,7 +7,8 @@ tags:
 > GPIO ... general purpose input output
 
 ```python
-Import RPI.GPIO as gp
+import RPI.GPIO as gp
+import time
 gp.setmode(pg.BCM) # für pinnummer
 rot = 21
 gp.setup(rot,gp.OUT) # port als output setzen

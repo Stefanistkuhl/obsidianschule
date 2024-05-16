@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filmliste.md",
+                "file": "2.Klasse/Sysgrrrrtechnik/Rpi vieh.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "15772792b303e276",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Filmliste.md",
+                "file": "2.Klasse/Sysgrrrrtechnik/Rpi vieh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +140,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Filmliste.md"
+                "file": "2.Klasse/Sysgrrrrtechnik/Rpi vieh.md"
               }
             }
           },
@@ -185,11 +174,14 @@
       "canvas:Create new canvas": true,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": true,
-      "templates:Insert template": false
+      "templates:Insert template": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "15772792b303e276",
+  "active": "773d5fb0b589443a",
   "lastOpenFiles": [
+    "Filmliste.md",
     "2.Klasse/Deutsch/grakaanaylseübenodasooasifosadugihdfsigjoghjidsoghioshgisdghid.md",
     "2.Klasse/Deutsch/🏘️🫥Detiger.md",
     "Überlebenswichtige Strichlisten.md",
@@ -211,7 +203,6 @@
     "2.Klasse/Ggp/Aufsteig der Habsburger.md",
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
     "2.Klasse/Ggp/🙂GeografieGeschichteTigerrischebildung.md",
-    "Filmliste.md",
     "Mhü 12 Stefan Fürst 2BHIT.md",
     "templates/netzwerktiger.md",
     "et.md",
