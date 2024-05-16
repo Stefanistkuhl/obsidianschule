@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Deutsch/grakaanaylseübenodasooasifosadugihdfsigjoghjidsoghioshgisdghid.md",
+                "file": "Filmliste.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "15772792b303e276",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Deutsch/grakaanaylseübenodasooasifosadugihdfsigjoghjidsoghioshgisdghid.md",
+                "file": "Filmliste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Deutsch/grakaanaylseübenodasooasifosadugihdfsigjoghjidsoghioshgisdghid.md"
+                "file": "Filmliste.md"
               }
             }
           },
@@ -174,13 +185,10 @@
       "canvas:Create new canvas": true,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": true,
-      "templates:Insert template": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian42-brat:BRAT": false
+      "templates:Insert template": false
     }
   },
-  "active": "773d5fb0b589443a",
+  "active": "15772792b303e276",
   "lastOpenFiles": [
     "2.Klasse/Deutsch/grakaanaylseübenodasooasifosadugihdfsigjoghjidsoghioshgisdghid.md",
     "2.Klasse/Deutsch/🏘️🫥Detiger.md",

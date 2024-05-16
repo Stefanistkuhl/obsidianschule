@@ -1035,6 +1035,7 @@ gYANMm
 gdRw
 gerundet
 gekröhnt
+gesellschaftlicher
 Zettel
 Zwingen
 Zeichen
@@ -1693,6 +1694,7 @@ Eekd
 EgFpAlEu
 EamH
 Elementarladung
+Eltern
 Das
 Dasselbe
 Diode
@@ -2515,6 +2517,7 @@ Plättchen
 Plättchens
 Persönliche
 Punkte
+Prozentueller
 bei
 background
 bis
@@ -3229,6 +3232,7 @@ iFqip
 irgenwie
 input
 interessantere
+interessant
 dass
 die
 den
@@ -4082,6 +4086,7 @@ ergeben
 execute
 erster
 extra
+einstelliger
 Übergange
 Übergänge
 Übergang
@@ -5777,6 +5782,7 @@ fliehst
 flsS
 fernbleiben
 fernzubleiben
+feststellen
 mark
 mit
 mangelnder
@@ -6473,6 +6479,7 @@ FZjRZTZN
 Fliehkraft
 Fmax
 Faulheit
+Freunde
 nach
 neue
 negativen
@@ -7739,6 +7746,7 @@ Maximilian
 Menschlichkeit
 Mitellpunkt
 MbeY
+Mobbing
 Rom
 Ratten
 Römischen
@@ -8458,6 +8466,9 @@ vtL
 vereint
 vorgenommen
 valider
+verdienen
+verbessert
+verschlechtert
 West
 Welt
 Wachstum
@@ -9129,6 +9140,7 @@ Ladig
 Lehrende
 Langweiliger
 Lehrpläne
+Lehreden
 Ost
 OS
 Obwohl
@@ -9814,6 +9826,7 @@ AETm
 AVRfe
 APA
 Angst
+Abschließend
 Griechisch
 Glauben
 Gewalt
@@ -10162,6 +10175,7 @@ GxYvDoO
 Gesamten
 GPIO
 Grafik
+Gewaltandrohung
 wurden
 wegen
 wird
@@ -11063,6 +11077,7 @@ zuF
 zweitstärksten
 zwar
 zähle
+zurückzuführen
 Theologie
 Thema
 Teller
@@ -11940,6 +11955,9 @@ Schau
 Schulische
 Schultag
 Soziale
+Schwänzen
+Schulschwänzen
+Schulsystem
 Handel
 Hygiene
 Halbleiter
@@ -13578,6 +13596,7 @@ IQmmfVoc
 IGiIr
 IWPJqBs
 ImcPj
+Inception
 pest
 pos
 purpose
@@ -14577,6 +14596,7 @@ heiraten
 habburger
 htXg
 halben
+hinsichtlich
 Bananen
 Buch
 Beschreiben
@@ -14960,6 +14980,7 @@ BoTyGpxX
 BREKyGuc
 Böhmen
 BMUK
+Bedauerlicherweise
 Voraussetzungen
 Valenziabrücken
 Vekehrswesen
@@ -15805,6 +15826,7 @@ linien
 lIue
 lieber
 letzte
+letzten
 Queue
 QHvC
 Qp
