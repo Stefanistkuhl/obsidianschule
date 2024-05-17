@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f49837a419923e99",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/something something layer 4 xd oida 17-05-2024-06.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bilder/something something layer 4 xd oida 17-05-2024-06.excalidraw.md",
+                "file": "2.Klasse/Netzwerktiger/something something layer 4 xd oida.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +140,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "bilder/something something layer 4 xd oida 17-05-2024-06.excalidraw.md"
+                "file": "2.Klasse/Netzwerktiger/something something layer 4 xd oida.md"
               }
             }
           },
@@ -191,10 +180,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f49837a419923e99",
+  "active": "773d5fb0b589443a",
   "lastOpenFiles": [
-    "2.Klasse/Netzwerktiger/something something layer 4 xd oida.md",
     "bilder/something something layer 4 xd oida 17-05-2024-06.excalidraw.md",
+    "2.Klasse/Netzwerktiger/something something layer 4 xd oida.md",
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
     "2.Klasse/nawi/Säuren und Basen.md",
     "2.Klasse/nawi/🪄Naturtigerschaften.md",
