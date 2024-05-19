@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inception.md",
+                "file": "filme/inception.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inception.md",
+                "file": "filme/inception.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "inception.md"
+                "file": "filme/inception.md"
               }
             }
           },
@@ -179,11 +179,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "773d5fb0b589443a",
+  "active": "7d2a89ea7b2d59bd",
   "lastOpenFiles": [
+    "filme",
     "inception.md~",
     "Filmliste.md",
-    "inception.md",
+    "filme/inception.md",
     "Filmliste.md~",
     "1716150752-FYJZ.md",
     "1716150693-BPML.md",
