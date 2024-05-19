@@ -169,15 +169,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": true,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": true,
-      "templates:Insert template": false,
-      "templater-obsidian:Templater": false,
-      "obsidian42-brat:BRAT": false
+      "templates:Insert template": false
     }
   },
   "active": "773d5fb0b589443a",
