@@ -11,6 +11,7 @@ transfered
 traffic
 to
 this
+tennet
 Klasse
 Konfigurationen
 Kugel
@@ -26,6 +27,7 @@ Kupfer
 Kabel
 Kabelarten
 Kabellos
+Knight
 syt
 shittalken
 sEiD
@@ -50,6 +52,8 @@ submask
 shut
 shutdown
 show
+status
+shutter
 elektro
 erklärt
 ein
@@ -79,6 +83,7 @@ Gleichzeitig
 GigabitEthernet
 Geräte
 Goodput
+Gump
 general
 gesetzte
 gedreht
@@ -94,6 +99,8 @@ geht
 given
 goodput
 geused
+goofyahlisten
+geschrieben
 purpose
 paare
 paaren
@@ -127,6 +134,10 @@ if
 idk
 ig
 identifier
+insterstellar
+island
+interstellar
+id
 output
 oida
 oder
@@ -137,6 +148,7 @@ obvi
 of
 over
 overhead
+old
 float
 fReIwIlLiG
 für
@@ -144,6 +156,11 @@ folgende
 frei
 freie
 ftp
+for
+fertig
+fav
+film
+falsch
 Str
 Statisch
 Stifdrops
@@ -189,6 +206,7 @@ Twisted
 Topologiexn
 TCP
 Text
+Taxi
 mehere
 mit
 mutable
@@ -203,6 +221,8 @@ media
 müll
 medium
 menu
+men
+midpool
 Werte
 Wellen
 Wollen
@@ -213,6 +233,8 @@ Wireless
 WAP
 WLAN
 Wifi
+Whiplash
+Westen
 verschienen
 verteilen
 voll
@@ -250,6 +272,7 @@ data
 duplex
 dns
 document
+datum
 Dynamisch
 Dotierung
 Dioden
@@ -265,6 +288,10 @@ Dämpfung
 Dynamic
 Datalink
 Drawing
+Django
+Dark
+Driver
+Dune
 Bsp
 Boschis
 Bipolartransistor
@@ -282,6 +309,8 @@ Begriffe
 Bandbreite
 BSSID
 Basic
+Batman
+BPML
 wichtig
 was
 wie
@@ -302,6 +331,7 @@ Line
 Link
 Latzenz
 Limitationen
+Lotr
 unsere
 uns
 und
@@ -328,6 +358,7 @@ Network
 Netzwerke
 Netzwerk
 Nachricht
+Nightcrawler
 hIeR
 höchsten
 hintere
@@ -373,6 +404,9 @@ bits
 bit
 bei
 braucht
+bewertung
+basterds
+batman
 Idi
 Ionenbindungen
 Ionisierungsenergie
@@ -383,6 +417,10 @@ Iterference
 Ip
 Internet
 IPv
+Inglourius
+Impossible
+Im
+Inception
 Momente
 Massezahl
 Metalle
@@ -410,6 +448,7 @@ Medien
 Mac
 Mesh
 MORE
+Mission
 nawi
 nix
 nicht
@@ -425,6 +464,10 @@ nwt
 no
 nur
 nutzt
+name
+nichts
+neues
+nolan
 FFB
 Feldeffekttransistor
 Feldeffekt
@@ -432,6 +475,10 @@ FET
 Fast
 Fernseher
 Faserglas
+Fight
+Fallout
+Forest
+Filmliste
 EBA
 Elektronenpaarbindung
 Elektronen
@@ -472,6 +519,7 @@ Cable
 Coaxial
 Coverage
 Client
+Club
 Rechnen
 Richtungen
 Rafis
@@ -514,6 +562,9 @@ addr
 ac
 ax
 alles
+alt
+absichtlich
+aliases
 Ausbeute
 Atomaufbau
 Arbeiten
@@ -552,6 +603,7 @@ Protokoll
 Ports
 PPP
 PPoE
+Prisoners
 Zusammenfassung
 Zustand
 Zener
@@ -567,6 +619,7 @@ können
 keine
 kurze
 keiner
+knight
 überlappen
 überfluten
 über
@@ -581,6 +634,7 @@ chroloid
 chlor
 config
 console
+country
 zusammen
 zw
 zu
@@ -597,6 +651,7 @@ rein
 remoted
 rest
 ranges
+rises
 Um
 Unterschied
 Ube
@@ -607,6 +662,7 @@ User
 Unschiedlded
 UTP
 UDP
+Unchained
 Verbindung
 Vieh
 Verbindungen
@@ -620,4 +676,5 @@ VIEW
 Überblick
 Übergang
 Jahre
+Joker
 xd

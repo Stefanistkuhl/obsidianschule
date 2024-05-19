@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/something something layer 4 xd oida.md",
+                "file": "inception.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/something something layer 4 xd oida.md",
+                "file": "inception.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/Netzwerktiger/something something layer 4 xd oida.md"
+                "file": "inception.md"
               }
             }
           },
@@ -174,20 +173,32 @@
       "canvas:Create new canvas": true,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": true,
-      "templates:Insert template": false
+      "templates:Insert template": false,
+      "templater-obsidian:Templater": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "773d5fb0b589443a",
   "lastOpenFiles": [
-    "bilder/something something layer 4 xd oida 17-05-2024-06.excalidraw.md",
+    "inception.md~",
+    "Filmliste.md",
+    "inception.md",
+    "Filmliste.md~",
+    "1716150752-FYJZ.md",
+    "1716150693-BPML.md",
+    "1716150662-KEBO.md",
+    "1716150577-NIXA.md~",
+    "1716150577-NIXA.md",
+    "1716150571-RVBF.md",
     "2.Klasse/Netzwerktiger/something something layer 4 xd oida.md",
+    "bilder/something something layer 4 xd oida 17-05-2024-06.excalidraw.md",
     "2.Klasse/Netzwerktiger/🏳️‍⚧️Netzwerktiger.md",
     "2.Klasse/nawi/Säuren und Basen.md",
     "2.Klasse/nawi/🪄Naturtigerschaften.md",
     "Überlebenswichtige Strichlisten.md",
     "2.Klasse/Sysgrrrrtechnik/Datentypen in py.md",
     "2.Klasse/Sysgrrrrtechnik/Rpi vieh.md",
-    "Filmliste.md",
     "2.Klasse/Deutsch/grakaanaylseübenodasooasifosadugihdfsigjoghjidsoghioshgisdghid.md",
     "2.Klasse/Deutsch/🏘️🫥Detiger.md",
     "2.Klasse/Medt/Gestaltungsregeln.md",
@@ -198,13 +209,6 @@
     "bilder/Diodenampelschaltung oda so ein kram oida 07-05-2024-48.excalidraw.md",
     "2.Klasse/Ipt/bwl v2.md",
     "2.Klasse/Sysgrrrrtechnik/grrrrrlektrotechnik v2 mit sin.md",
-    "2.Klasse/nawi/Diodenampelschaltung oda so ein kram oida.md",
-    "2.Klasse/Sysgrrrrtechnik/Bsp Halbsonde.md",
-    "bilder/Bsp Halbsonde 07-05-2024-28.excalidraw.md",
-    "2.Klasse/Sysgrrrrtechnik/kraft wirkung im magnetischen Feld.md",
-    "2.Klasse/Ggp/Neuzeit oda so ein kack.md",
-    "2.Klasse/Ggp/ich hasse geschichte oida.md",
-    "2.Klasse/Ggp/Aufsteig der Habsburger.md",
     "~$Mhü 12 Stefan Fürst 2BHIT.pptx",
     "Mhü 12 Stefan Fürst 2BHIT.pptx",
     "bilder/Pasted image 20240430170942.png",
@@ -217,8 +221,6 @@
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/pdflatex27972.fls",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/Fürst_StatischesRouting.zip",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/alt/StatischesRouting.synctex(busy)",
-    "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/alt/pdflatex5818.fls",
-    "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/alt/StatischesRouting.tex~",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/alt/7.jpg",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/alt/6.jpg",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/alt/5.jpg",
