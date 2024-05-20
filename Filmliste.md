@@ -7,9 +7,9 @@ tags:
 
 | name                                        | status | bewertung          | datum      |     |
 | ------------------------------------------- | ------ | ------------------ | ---------- | --- |
-| no country for old men                      | fertig | fav film           | 20.11.2023 |     |
-| insterstellar                               | fertig | 9.5/10             | 12.12.2023 |     |
-| Fight Club                                  | fertig | 8.5/10             | 16.12.2023 |     |
+| no country for old men                      | fertig | fav film(biased)           | 20.11.2023 |     |
+| insterstellar                               | fertig | 8.5/10             | 12.12.2023 |     |
+| Fight Club                                  | fertig | 7/10             | 16.12.2023 |     |
 | tennet                                      |        |                    |            |     |
 | Django Unchained                            |        |                    |            |     |
 | Prisoners                                   |        |                    |            |     |
@@ -25,8 +25,8 @@ tags:
 | Nightcrawler                                |        |                    |            |     |
 | Dune 1 und 2                                |        |                    |            |     |
 | (midpool 1)                                 |        |                    |            |     |
-| Inception                                   | fertig | [[inception\|9.5]] | 19.05.2024 |     |
-| shutter island                              |        |                    |            |     |
+| Inception                                   | fertig | [[inception\|8]] | 19.05.2024 |     |
+| shutter island                              | fertig |                    | 20.05.2024 |     |
 
 # <mark style="background: #FFB8EBA6;">oida alt</mark>
 
