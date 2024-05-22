@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e90b7e5754c5ffce",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/einheitskreis 22-05-2024-51.excalidraw.md"
+              }
+            }
           }
         ]
       }
@@ -174,15 +184,16 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": true,
       "templates:Insert template": false,
-      "templater-obsidian:Templater": false,
       "obsidian42-brat:BRAT": false,
+      "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "773d5fb0b589443a",
   "lastOpenFiles": [
-    "2.Klasse/Mathe/😖Mathiger.md",
+    "bilder/einheitskreis 22-05-2024-51.excalidraw.md",
     "2.Klasse/Mathe/einheitskreis.md",
+    "2.Klasse/Mathe/😖Mathiger.md",
     "Filmliste.md",
     "filme/Shuter Island.md",
     "Filmliste.md~",
@@ -211,7 +222,6 @@
     "2.Klasse/Sysgrrrrtechnik/rechte buchstaben bedetugungen aishfsudhgudfghufgh.md",
     "2.Klasse/Sysgrrrrtechnik/chmod.md",
     "2.Klasse/Ipt/Level 2 Methode.md",
-    "bilder/Level 2 Methode 07-05-2024-50.excalidraw.md",
     "~$Mhü 12 Stefan Fürst 2BHIT.pptx",
     "Mhü 12 Stefan Fürst 2BHIT.pptx",
     "bilder/Pasted image 20240430170942.png",
