@@ -7,8 +7,8 @@ nmap <F9> :nohl
 " Yank to system clipboard
 set clipboard=unnamed
 
-exmap back obcommand app:go-back
-nmap <C-k> :back
-exmap forward obcommand app:go-forward
-nmap <C-i> :forward
+" exmap back obcommand app:go-back
+" nmap <C-k> :back
+" exmap forward obcommand app:go-forward
+" nmap <C-i> :forward
 noremap :W :w

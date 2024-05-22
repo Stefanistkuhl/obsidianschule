@@ -31,7 +31,7 @@ tags:
 	- winkel-180 = 2.qu
 	- winkel-360 = 3.qu
 # rest
-a) $$\sin \alpha = 0,8$$ $$\alpha_{1}=53.1°$$$$\alpha_{2}=180-\alpha_{1}=126.9°$$
+a) $$\sin \alpha = 0,8$$ $$\alpha_{1}=53.1°$$$$\alpha_{2}=180-\alpha_{1}=126.9°$$ $$\sin(126.9°)=0.8$$
 ![[einheitskreis 22-05-2024-51.excalidraw]]
 b)
 ```math
@@ -39,5 +39,17 @@ b)
 
 \cos \alpha=-0.7
 \alpha_{1}=134.4°
-\alpha_{2}=360°-\alpha_{1}=225.6°
+\alpha_{2}=\alpha+90°=225,6°
+\cos(225.6°)=-0.7
 ```
+![[einheitskreis 22-05-2024-25.excalidraw]]
+c)
+```math
+||{"id":1126723875272}||
+
+\tan \alpha=1.5
+\alpha=56.3°
+\alpha_{2}=56.3°+180°=236.3°
+\tan(\alpha_{2})=1.5
+```
+![[einheitskreis 22-05-2024-05.excalidraw]]
