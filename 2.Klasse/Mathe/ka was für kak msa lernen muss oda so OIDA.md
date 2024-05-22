@@ -7,7 +7,7 @@ tags:
 - [x] oida wann fkn minus 180 oda 360 
 - [x] bogenmaß oida
 - [x] sin cos tan am einheitskreis
-- [ ] sinusfn basics
+- [x] sinusfn basics
 - [ ] sinfn strecken stauchen halt dinger rausfinden
 - [ ] sunisfn txt aufgaben
 - [ ] alg dreick trignometrie

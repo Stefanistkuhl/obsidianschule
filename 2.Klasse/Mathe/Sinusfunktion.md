@@ -15,8 +15,9 @@ tldr:
 ![[Pasted image 20240522191141.png]]
 
 ### Formenl
-Zeit vieh für omega
+Zeit vieh für omega T ist die dauert einer Periode (ganzer kreis)
 $$T=\frac{1}{f}=\frac{2\pi}{\omega}$$
+$$\omega = \frac{2\pi}{T}=2\pi f$$
 Verschiebung
 $$t_{0}=-\frac{\phi}{\omega}$$
 
@@ -24,3 +25,7 @@ $$t_{0}=-\frac{\phi}{\omega}$$
 ![[Pasted image 20240522191440.png]]
 $$y=A*\sin(\omega*t+\phi)+d$$
 A=2
+T=6
+$$6=\frac{2\pi}{\omega}→w=\frac{\pi}{3}$$
+$$t_{0}=-\frac{\phi}{\omega}=-\frac{\pi}{\frac{\pi}{3}}=-2→\phi=\frac{2\pi}{3}$$
+$$y=2*\sin(\frac{\pi}{3}t+\frac{2\pi}{3})$$
