@@ -613,6 +613,7 @@ weg
 wurzel
 wüsste
 wann
+winkel
 Lehrer
 Ladig
 Links
@@ -755,6 +756,7 @@ binomische
 blau
 berührt
 basics
+bogenmaß
 Idi
 Ionenbindungen
 Ionisierungsenergie
@@ -1212,6 +1214,8 @@ Jahrgang
 xd
 je
 ja
+jeweils
 yappen
 yappt
 quadrat
+quasi

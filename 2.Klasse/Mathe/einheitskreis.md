@@ -3,6 +3,15 @@ tags:
   - 2te_Klasse
   - m
 ---
+# basics von dem schaß
+
+- sin quasi höhe und y achse → gleich im 1/2 qu und 3/4
+	- 135=180-45
+
+- cos quasi länge und x achse → gleich im 1/4 qu und neg im 2/3 
+
+- tan höhe aber höher und y achse ab lesen → gleich im 1/3 und 2/3
+
 # wann minus 180/360????
 
 > wenn im 1.q 180°-winkel
