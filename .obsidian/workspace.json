@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filmliste.md",
+                "file": "2.Klasse/Mathe/einheitskreis.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "43b2197681096587",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Filmliste.md",
+                "file": "2.Klasse/Mathe/einheitskreis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Filmliste.md"
+                "file": "2.Klasse/Mathe/einheitskreis.md"
               }
             }
           },
@@ -180,8 +181,10 @@
   },
   "active": "773d5fb0b589443a",
   "lastOpenFiles": [
-    "filme/Shuter Island.md",
+    "2.Klasse/Mathe/😖Mathiger.md",
+    "2.Klasse/Mathe/einheitskreis.md",
     "Filmliste.md",
+    "filme/Shuter Island.md",
     "Filmliste.md~",
     "2.Klasse/Netzwerktiger/Statisches Routing in einem Großen Netzwerk.md",
     "filme/Shuter Island.md~",
@@ -209,7 +212,6 @@
     "2.Klasse/Sysgrrrrtechnik/chmod.md",
     "2.Klasse/Ipt/Level 2 Methode.md",
     "bilder/Level 2 Methode 07-05-2024-50.excalidraw.md",
-    "bilder/Diodenampelschaltung oda so ein kram oida 07-05-2024-48.excalidraw.md",
     "~$Mhü 12 Stefan Fürst 2BHIT.pptx",
     "Mhü 12 Stefan Fürst 2BHIT.pptx",
     "bilder/Pasted image 20240430170942.png",

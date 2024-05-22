@@ -403,6 +403,8 @@ g(x)=1/x
 ## <mark style="background: #FFB8EBA6;">Polarformen komplexer Zahlen</mark>
 
 
+# oida kreisfunktion
+![[einheitskreis]]
 # Idi
 
 ![[DR26-11-2023-29.excalidraw]]
@@ -674,8 +676,6 @@ T \frac{1}{2}=\frac{\ln_{2}}{\lambda}=1621 Jahre
 Prozentuelle Abnahme
 e^{-\lambda}-1=-0,0004275=-0,04\%
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 4.86)
 pro h + 28%
 N0 startanz
@@ -898,3 +898,5 @@ D=(0|5)
 \gamma = 360-56.4-76.3-131.43=\underline{95.87°}
 A=\frac{1}{4}*\sqrt{ 4*8.54²*6.71²-(6.4²+6.08²-7.62²-2.83²) ²}=28.5
 ```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
