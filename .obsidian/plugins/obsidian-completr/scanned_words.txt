@@ -657,6 +657,7 @@ ungerade
 umgedreht
 umformen
 ungeraden
+unedlich
 Noten
 Neutronen
 Nichtmetalle
@@ -1011,6 +1012,7 @@ alpha
 aOhP
 aufgaben
 alg
+achse
 Ausbeute
 Atomaufbau
 Arbeiten
@@ -1121,6 +1123,8 @@ leer
 ln
 livePrevPlus
 lernen
+länge
+lesen
 conf
 chroloid
 chlor
@@ -1219,3 +1223,4 @@ yappen
 yappt
 quadrat
 quasi
+qu
