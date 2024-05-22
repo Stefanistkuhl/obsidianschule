@@ -30,6 +30,10 @@ ten
 ter
 tauschen
 tabindex
+tan
+txt
+trignometrie
+txtaufgaben
 Klasse
 Konfigurationen
 Kugel
@@ -109,6 +113,9 @@ symetrisch
 startanz
 shkBLb
 sin
+sa
+sinusfn
+sunisfn
 elektro
 erklärt
 ein
@@ -147,6 +154,7 @@ entfernt
 erkennt
 ergebnisse
 erklären
+einheitskreis
 GPIO
 Gleichungne
 Gleichung
@@ -423,6 +431,7 @@ mad
 mal
 multiplizieren
 minus
+muss
 Werte
 Wellen
 Wollen
@@ -519,6 +528,7 @@ damit
 dazuaddieren
 dicke
 dreht
+dreick
 Dynamisch
 Dotierung
 Dioden
@@ -602,6 +612,7 @@ wechseln
 weg
 wurzel
 wüsste
+wann
 Lehrer
 Ladig
 Links
@@ -743,6 +754,7 @@ bin
 binomische
 blau
 berührt
+basics
 Idi
 Ionenbindungen
 Ionisierungsenergie
@@ -995,6 +1007,8 @@ angeben
 aussehen
 alpha
 aOhP
+aufgaben
+alg
 Ausbeute
 Atomaufbau
 Arbeiten
@@ -1084,6 +1098,7 @@ kürzen
 kürzt
 kürtzt
 komplexer
+kreisfunktion
 überlappen
 überfluten
 über
@@ -1103,6 +1118,7 @@ lassen
 leer
 ln
 livePrevPlus
+lernen
 conf
 chroloid
 chlor
@@ -1118,6 +1134,7 @@ checke
 contenteditable
 class
 ca
+cos
 zusammen
 zw
 zu
