@@ -125,6 +125,7 @@ substrahieren
 sinfn
 strecken
 stauchen
+sonst
 elektro
 erklärt
 ein
@@ -164,6 +165,7 @@ erkennt
 ergebnisse
 erklären
 einheitskreis
+explosiv
 GPIO
 Gleichungne
 Gleichung
@@ -242,6 +244,7 @@ gleichbleinde
 gerundet
 gasförmig
 groß
+getreckt
 purpose
 paare
 paaren
@@ -406,6 +409,7 @@ Stoffes
 Schätzungen
 Salpter
 Säure
+Sprengstoff
 Tuple
 Teststoff
 Teilchen
@@ -591,6 +595,8 @@ Dieses
 Delta
 DixHTLfj
 Das
+Düngemittel
+Dynamit
 Bsp
 Boschis
 Bipolartransistor
@@ -724,6 +730,10 @@ Nenner
 Nur
 Newton
 Nach
+Nitrat
+NH
+NO
+Nitrogylcerin
 hIeR
 höchsten
 hintere
@@ -872,6 +882,7 @@ Minuten
 Minute
 Mitteleuropas
 MKgTNySv
+Muss
 nawi
 nix
 nicht
@@ -1113,6 +1124,9 @@ Abmessungen
 Abhanme
 Abnahme
 AZ
+Ammoniak
+Ammonkiak
+Ammoniaknitrat
 PSE
 Protonen
 Problem

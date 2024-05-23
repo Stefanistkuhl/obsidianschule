@@ -19,3 +19,5 @@ Anwendung: $$HNO_{3}+NH_{3}→NO_{3}^{-}+NH_{4}^{+}$$
 NH4 NO3 Ammoniaknitrat
 
 NH4 NO3 ist ein Düngemittel. Muss aber  getreckt werden, sonst ist es explosiv.
+
+Nitrogylcerin ist der Sprengstoff im Dynamit.
