@@ -271,6 +271,7 @@ punktsymmetrisch
 prozentuelle
 pEiUV
 prozentuellel
+pV
 input
 int
 immutable
@@ -311,6 +312,8 @@ irgened
 imma
 ins
 irgenwie
+isTAxN
+iEjXxXV
 output
 oida
 oder
@@ -401,6 +404,8 @@ Schwimmbeckens
 Stoff
 Stoffes
 Schätzungen
+Salpter
+Säure
 Tuple
 Teststoff
 Teilchen
@@ -649,6 +654,7 @@ wurzel
 wüsste
 wann
 winkel
+wm
 Lehrer
 Ladig
 Links
@@ -865,6 +871,7 @@ MU
 Minuten
 Minute
 Mitteleuropas
+MKgTNySv
 nawi
 nix
 nicht
@@ -943,6 +950,7 @@ Ersten
 Exponent
 Excalidraw
 EE
+EX
 Halbleiter
 Hauptsächlich
 Hantelförmig
@@ -961,6 +969,7 @@ Hüs
 Hü
 HÜ
 Halbwertszeit
+HNO
 Chemisches
 Chemische
 Chlor
@@ -1103,6 +1112,7 @@ Achse
 Abmessungen
 Abhanme
 Abnahme
+AZ
 PSE
 Protonen
 Problem
@@ -1303,6 +1313,7 @@ jeweils
 jährlich
 yappen
 yappt
+yvT
 quadrat
 quasi
 qu
