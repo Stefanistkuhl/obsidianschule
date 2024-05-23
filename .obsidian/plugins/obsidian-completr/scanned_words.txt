@@ -126,6 +126,7 @@ sinfn
 strecken
 stauchen
 sonst
+selbst
 elektro
 erklärt
 ein
@@ -489,6 +490,7 @@ Wurzelfunktion
 Wachtstum
 Wald
 Waldfläche
+Wasser
 verschienen
 verteilen
 voll
@@ -1279,6 +1281,7 @@ rot
 rechteckiges
 rund
 rausfinden
+reagieren
 Um
 Unterschied
 Ube
