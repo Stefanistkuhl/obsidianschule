@@ -14,4 +14,8 @@ F am stärksten
 Salpter Säure (HNO3)
 
 ![[Säuren und Basen 23-05-2024-34.excalidraw]]
-Anwendung: $$HNO_{3}+NH_{3}→$$
+Anwendung: $$HNO_{3}+NH_{3}→NO_{3}^{-}+NH_{4}^{+}$$
+                          Ammoniak Nitrat Ammonkiak
+NH4 NO3 Ammoniaknitrat
+
+NH4 NO3 ist ein Düngemittel. Muss aber  getreckt werden, sonst ist es explosiv.
