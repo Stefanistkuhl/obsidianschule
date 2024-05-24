@@ -35,6 +35,7 @@ txt
 trignometrie
 txtaufgaben
 terteilen
+transportieren
 Klasse
 Konfigurationen
 Kugel
@@ -57,6 +58,8 @@ Koodrinatenursprung
 Komplexe
 Kraft
 Kondensator
+Komponenten
+Kupferkabel
 syt
 shittalken
 sEiD
@@ -127,6 +130,8 @@ strecken
 stauchen
 sonst
 selbst
+sowiso
+sehr
 elektro
 erklärt
 ein
@@ -167,6 +172,9 @@ ergebnisse
 erklären
 einheitskreis
 explosiv
+eigene
+erflogreiche
+entsehen
 GPIO
 Gleichungne
 Gleichung
@@ -276,6 +284,8 @@ prozentuelle
 pEiUV
 prozentuellel
 pV
+passive
+physikalischen
 input
 int
 immutable
@@ -318,6 +328,7 @@ ins
 irgenwie
 isTAxN
 iEjXxXV
+inteligenta
 output
 oida
 oder
@@ -330,6 +341,7 @@ over
 overhead
 old
 ofc
+oft
 float
 fReIwIlLiG
 für
@@ -361,6 +373,7 @@ false
 fest
 flüssug
 formen
+funktionierende
 Str
 Statisch
 Stifdrops
@@ -411,6 +424,12 @@ Schätzungen
 Salpter
 Säure
 Sprengstoff
+Schalgwort
+Schlüsselfaktoren
+Schichtenmodels
+Störungen
+Schänden
+Steckerverbindungen
 Tuple
 Teststoff
 Teilchen
@@ -491,6 +510,7 @@ Wachtstum
 Wald
 Waldfläche
 Wasser
+Wahl
 verschienen
 verteilen
 voll
@@ -569,6 +589,7 @@ daher
 dinger
 deren
 demnach
+definiert
 Dynamisch
 Dotierung
 Dioden
@@ -599,6 +620,7 @@ DixHTLfj
 Das
 Düngemittel
 Dynamit
+Daher
 Bsp
 Boschis
 Bipolartransistor
@@ -633,6 +655,7 @@ Blindwiederstnad
 Breite
 Berechne
 Bestand
+Bedeutung
 wichtig
 was
 wie
@@ -682,6 +705,9 @@ Lösungsformeln
 Lösbar
 Lösungsmenge
 LPRy
+Layer
+Lichtwellenleiter
+Licht
 unsere
 uns
 und
@@ -709,6 +735,7 @@ umformen
 ungeraden
 unedlich
 umwandeln
+unterschätzt
 Noten
 Neutronen
 Nichtmetalle
@@ -736,6 +763,10 @@ Nitrat
 NH
 NO
 Nitrogylcerin
+Netzwerkkompenen
+Netzwerkkompnenten
+Netzwerkkompotnenten
+Netzwerkschränke
 hIeR
 höchsten
 hintere
@@ -776,6 +807,7 @@ Ohne
 Osi
 OPTIONS
 OMG
+OSI
 beeing
 background
 berechnen
@@ -823,6 +855,7 @@ breite
 breit
 beträgt
 bedeckt
+beitrage
 Idi
 Ionenbindungen
 Ionisierungsenergie
@@ -842,6 +875,10 @@ Island
 Ich
 Immer
 IMMER
+Inteligenz
+Informationen
+IT
+Infrastruktur
 Momente
 Massezahl
 Metalle
@@ -939,6 +976,7 @@ Fürst
 Flächenihalt
 Fläche
 Formel
+Fehler
 EBA
 Elektronenpaarbindung
 Elektronen
@@ -964,6 +1002,7 @@ Exponent
 Excalidraw
 EE
 EX
+Ebenene
 Halbleiter
 Hauptsächlich
 Hantelförmig
@@ -1017,6 +1056,8 @@ Rot
 Radium
 Rundungsfehler
 Rasenfläche
+Realisierung
+Radiowellen
 aufstellen
 aus
 als
@@ -1094,6 +1135,7 @@ alg
 achse
 allen
 angelegt
+ausgetasucht
 Ausbeute
 Atomaufbau
 Arbeiten
@@ -1129,6 +1171,9 @@ AZ
 Ammoniak
 Ammonkiak
 Ammoniaknitrat
+Ausfälle
+Anschlusstecker
+Anschlussdosen
 PSE
 Protonen
 Problem
@@ -1160,6 +1205,11 @@ PNhWHl
 Prozentuelle
 Prozent
 Prozentsatz
+Produkte
+Planung
+Parameter
+Passive
+Patchpanels
 Zusammenfassung
 Zustand
 Zener
@@ -1256,6 +1306,8 @@ zerlegen
 zum
 zV
 zunehmen
+zusammengefasst
+zuverlässigen
 äußersten
 ändern
 äußeren
@@ -1282,6 +1334,8 @@ rechteckiges
 rund
 rausfinden
 reagieren
+regelnde
+richtige
 Um
 Unterschied
 Ube
@@ -1296,6 +1350,7 @@ Unchained
 Unterrichtsgegenstand
 Unzählige
 Umkehrfunktion
+Unter
 Verbindung
 Vieh
 Verbindungen
@@ -1315,10 +1370,12 @@ Verschieben
 Von
 Vorhanden
 Verwende
+Verkabelung
 Überblick
 Übergang
 Übungsdaten
 Übungsdurführung
+Übertragungsstrecke
 Jahre
 Joker
 Jahrgang
