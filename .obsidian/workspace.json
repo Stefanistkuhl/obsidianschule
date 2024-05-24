@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Klasse/nawi/pH-Wert.md",
+                "file": "2.Klasse/Netzwerktiger/Passive Netzwerkmpontenten.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "b005c1a26e037e26",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/pH-Wert 23-05-2024-39.excalidraw.md"
               }
             }
           }
@@ -104,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Klasse/nawi/pH-Wert.md",
+                "file": "2.Klasse/Netzwerktiger/Passive Netzwerkmpontenten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Klasse/nawi/pH-Wert.md"
+                "file": "2.Klasse/Netzwerktiger/Passive Netzwerkmpontenten.md"
               }
             }
           },
@@ -183,13 +173,16 @@
       "canvas:Create new canvas": true,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": true,
-      "templates:Insert template": false
+      "templates:Insert template": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "773d5fb0b589443a",
   "lastOpenFiles": [
-    "bilder/pH-Wert 23-05-2024-39.excalidraw.md",
     "2.Klasse/nawi/pH-Wert.md",
+    "bilder/pH-Wert 23-05-2024-39.excalidraw.md",
     "bilder/Säuren und Basen 23-05-2024-34.excalidraw.md",
     "2.Klasse/nawi/Säuren und Basen.md",
     "2.Klasse/nawi/🪄Naturtigerschaften.md",

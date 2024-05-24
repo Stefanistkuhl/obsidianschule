@@ -14,7 +14,7 @@ tags:
 | Django Unchained                            |        |                           |            |     |     |
 | Prisoners                                   |        |                           |            |     |     |
 | Lotr                                        |        |                           |            |     |     |
-| Inglourius basterds                         |        |                           |            |     |     |
+| Inglourius basterds                         |      fertig  |                          |            |24.05.2024     |     |
 | Joker                                       |        |                           |            |     |     |
 | Mission Impossible Fallout                  |        |                           |            |     |     |
 | Batman The Dark Knight && Dark knight rises |        |                           |            |     |     |
