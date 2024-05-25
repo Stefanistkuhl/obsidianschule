@@ -20,7 +20,7 @@ $$T=\frac{1}{f}=\frac{2\pi}{\omega}$$
 $$\omega = \frac{2\pi}{T}=2\pi f$$
 Verschiebung
 $$t_{0}=-\frac{\phi}{\omega}$$
-t0 ist die nullstelle nd der ursrping zb ein bild weita unten ist es 1
+t0 ist die nullstelle nd der ursrping zb ein bild weita unten ist es 1 ist egal welche nullstelle man nimmt
 ### Ablesen oida
 ![[Pasted image 20240522191440.png]]
 $$y=A*\sin(\omega*t+\phi)+d$$
@@ -51,5 +51,10 @@ A=5
 T=0.5
 0.5=\frac{2\pi}{\omega}
 \omega=\frac{2\pi}{0.5}=12.57
-
+0.3=-\frac{\phi}{4\pi}|*4\pi
+=-\phi
+\phi = -0.15
+y=5*\sin(12.57*t-0.15)
 ```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
