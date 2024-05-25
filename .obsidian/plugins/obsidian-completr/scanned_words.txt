@@ -596,6 +596,7 @@ dinger
 deren
 demnach
 definiert
+dasselbe
 Dynamisch
 Dotierung
 Dioden
@@ -1349,6 +1350,7 @@ rausfinden
 reagieren
 regelnde
 richtige
+radiant
 Um
 Unterschied
 Ube

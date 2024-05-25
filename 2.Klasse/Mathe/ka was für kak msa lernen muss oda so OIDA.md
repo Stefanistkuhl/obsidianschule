@@ -17,3 +17,4 @@ tags:
 [[einheitskreis]]
 [[bogenmaßoida]]
 [[Sinusfunktion]]
+[[alg dreieck]]

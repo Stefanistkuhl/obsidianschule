@@ -52,9 +52,7 @@ T=0.5
 0.5=\frac{2\pi}{\omega}
 \omega=\frac{2\pi}{0.5}=12.57
 0.3=-\frac{\phi}{4\pi}|*4\pi
-=-\phi
+3.76=-\phi
 \phi = -0.15
 y=5*\sin(12.57*t-0.15)
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
