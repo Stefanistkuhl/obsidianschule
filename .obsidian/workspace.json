@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "32044e6f3e3a3b6d",
+        "id": "038ff45fbc720bec",
         "type": "tabs",
         "children": [
           {
-            "id": "773d5fb0b589443a",
+            "id": "41bb5abeda54b8c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filmliste.md",
+                "file": "2.Klasse/Mathe/Sinusfunktion.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Filmliste.md",
+                "file": "2.Klasse/Mathe/Sinusfunktion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Filmliste.md"
+                "file": "2.Klasse/Mathe/Sinusfunktion.md"
               }
             }
           },
@@ -179,17 +179,18 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "773d5fb0b589443a",
+  "active": "41bb5abeda54b8c9",
   "lastOpenFiles": [
+    "2.Klasse/Mathe/Sinusfunktion.md",
+    "2.Klasse/Mathe/ka was für kak msa lernen muss oda so OIDA.md",
+    "Filmliste.md",
     "2.Klasse/Netzwerktiger/Passive Netzwerkmpontenten.md",
     "2.Klasse/nawi/pH-Wert.md",
     "bilder/pH-Wert 23-05-2024-39.excalidraw.md",
     "bilder/Säuren und Basen 23-05-2024-34.excalidraw.md",
     "2.Klasse/nawi/Säuren und Basen.md",
     "2.Klasse/nawi/🪄Naturtigerschaften.md",
-    "2.Klasse/Mathe/ka was für kak msa lernen muss oda so OIDA.md",
     "2.Klasse/Mathe/mathe übungszellel 2kl 3te sa.md",
-    "2.Klasse/Mathe/Sinusfunktion.md",
     "bilder/Pasted image 20240522191440.png",
     "bilder/Pasted image 20240522191141.png",
     "bilder/Pasted image 20240522190747.png",
@@ -204,7 +205,6 @@
     "2.Klasse/Mathe/😖Mathiger.md",
     "bilder/einheitskreis 22-05-2024-51.excalidraw.md",
     "bilder/einheitskreis 22-05-2024-08.excalidraw.md",
-    "Filmliste.md",
     "filme/Shuter Island.md",
     "Filmliste.md~",
     "2.Klasse/Netzwerktiger/Statisches Routing in einem Großen Netzwerk.md",

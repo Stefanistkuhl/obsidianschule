@@ -5,6 +5,7 @@ tags:
 ---
 
 - [x] oida wann fkn minus 180 oda 360 
+- [ ] dasselbe aber mit radiant
 - [x] bogenmaß oida
 - [x] sin cos tan am einheitskreis
 - [x] sinusfn basics

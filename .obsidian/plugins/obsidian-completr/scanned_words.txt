@@ -132,6 +132,7 @@ sonst
 selbst
 sowiso
 sehr
+smü
 elektro
 erklärt
 ein
@@ -254,6 +255,7 @@ gerundet
 gasförmig
 groß
 getreckt
+ganzer
 purpose
 paare
 paaren
@@ -329,6 +331,7 @@ irgenwie
 isTAxN
 iEjXxXV
 inteligenta
+isjdfasifijasifjij
 output
 oida
 oder
@@ -342,6 +345,7 @@ overhead
 old
 ofc
 oft
+omega
 float
 fReIwIlLiG
 für
@@ -430,6 +434,7 @@ Schichtenmodels
 Störungen
 Schänden
 Steckerverbindungen
+Schwingungsdauer
 Tuple
 Teststoff
 Teilchen
@@ -543,6 +548,7 @@ vor
 verschieben
 verstehe
 vorhanden
+verschiebung
 datetypen
 deppat
 dem
@@ -977,6 +983,7 @@ Flächenihalt
 Fläche
 Formel
 Fehler
+Formenl
 EBA
 Elektronenpaarbindung
 Elektronen
@@ -1136,6 +1143,7 @@ achse
 allen
 angelegt
 ausgetasucht
+ablesen
 Ausbeute
 Atomaufbau
 Arbeiten
@@ -1174,6 +1182,8 @@ Ammoniaknitrat
 Ausfälle
 Anschlusstecker
 Anschlussdosen
+Amplitude
+Ablesen
 PSE
 Protonen
 Problem
@@ -1210,6 +1220,7 @@ Planung
 Parameter
 Passive
 Patchpanels
+Periode
 Zusammenfassung
 Zustand
 Zener
@@ -1227,6 +1238,7 @@ Zeichen
 Zahlen
 Zerfallskonstante
 Zeiteinheit
+Zeit
 Quantenobjekt
 Quadratische
 Quadrtische
@@ -1249,6 +1261,7 @@ komplexer
 kreisfunktion
 kapazität
 kapazitiver
+kreis
 überlappen
 überfluten
 über
@@ -1371,6 +1384,7 @@ Von
 Vorhanden
 Verwende
 Verkabelung
+Verschiebung
 Überblick
 Übergang
 Übungsdaten
