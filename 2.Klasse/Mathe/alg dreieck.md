@@ -14,3 +14,10 @@ auf winkel umgeformnt
 $$\gamma =\arcsin(\frac{c*\sin(\alpha)}{a})$$
 $$\alpha =\arcsin(\frac{a*\sin(\alpha)}{c})$$
 ### txtbsp
+```math
+||{"id":1002272221953}||
+
+\alpha = 85°
+\beta = 42°
+\gamma = 180-85-42=53°
+```
