@@ -135,6 +135,7 @@ selbst
 sowiso
 sehr
 smü
+sinussatz
 elektro
 erklärt
 ein
@@ -290,6 +291,7 @@ prozentuellel
 pV
 passive
 physikalischen
+pi
 input
 int
 immutable
@@ -866,6 +868,7 @@ breit
 beträgt
 bedeckt
 beitrage
+bsps
 Idi
 Ionenbindungen
 Ionisierungsenergie

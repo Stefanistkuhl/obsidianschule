@@ -53,3 +53,13 @@ c)
 \tan(\alpha_{2})=1.5
 ```
 ![[einheitskreis 22-05-2024-05.excalidraw]]
+### bsps
+2)
+![[einheitskreis 26-05-2024-48.excalidraw]]
+```math
+||{"id":1170072938302}||
+
+\tan \alpha=-1
+\alpha_{1}=-\frac{\pi}{4}
+
+```
