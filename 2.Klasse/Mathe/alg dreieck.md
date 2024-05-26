@@ -22,8 +22,7 @@ $$A=\frac{1}{2}*b*c*\sin(\alpha)=\frac{1}{2}*a*c*\sin(\beta)=\frac{1}{2}*a*b*\si
 
 \alpha = 85°
 \beta = 42°
-c=17km
-\gamma = 180-85-42=53°
+c=17km \gamma = 180-85-42=53°
 \frac{a}{\sin(85)}=\frac{17}{\sin(53)}|*\sin(85)
 a=\frac{17}{\sin(53)}*\sin(85)=21.2
 b=\sqrt{ 21.2²+17²-2*21.2*17*\cos(42) }=14.24km
@@ -50,13 +49,9 @@ x=\sin(35)*40=22.94
 \tan(35)=\frac{22.94}{z}|*z
 \tan(35)*z=22.94|:\tan(35)
 z=\frac{22.94}{\tan(35)}=32.76
-zz=32.76+2.5=35.26
+zz=32.76+1.25=34.01
 \ohm = 180-90-35 = 55
-\sin(55)=\frac{35.26}{zzz}|*zzz
-\sin(55)*zzz=35.26|:\sin(55)
-zzz=43.04
-zzzz
+
 ```
 
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 
