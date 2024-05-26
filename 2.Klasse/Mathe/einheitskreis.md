@@ -61,5 +61,7 @@ c)
 
 \tan \alpha=-1
 \alpha_{1}=-\frac{\pi}{4}
-
+\alpha_{1}=2\pi-\frac{\pi}{4}=\frac{7\pi}{4}
+\alpha_{2}=\alpha_{2}-\pi=\frac{3\pi}{4}
 ```
+
