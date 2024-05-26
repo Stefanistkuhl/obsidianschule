@@ -3,5 +3,7 @@ tags:
   - 2te_Klasse
   - m
 ---
-### todo Formeln
+### Formeln
+kosinussatz
+$$$$
 ### txtbsp

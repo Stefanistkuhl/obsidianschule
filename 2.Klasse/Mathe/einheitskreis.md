@@ -9,11 +9,11 @@ tags:
 	- 0 bis 1 von 0 bis 180° → -1 bis 0 von 180 bis 360°
 - cos quasi länge und x achse → gleich im 1/4 qu und neg im 2/3 
 	- 1 bis -1 von 0 bis 180 → -1 bis 1 von 180 bis 360
-- tan höhe aber höher und y achse ab lesen → gleich im 1/3 und 2/3
+- tan höhe aber höher und y achse ab lesen → gleich im 1/3 und 2/4
 	- 1/3 qu 0 bis unedlich 2/4 qu 0 bis -unedlich
 
 # wann minus 180/360????
-
+dasselbe mit pi und pi/2 wenn bogenmaß obvi
 - winkel im 1.qu
 	- 180-winkel = 2.qu
 	- 270-winkel = 3.qu
