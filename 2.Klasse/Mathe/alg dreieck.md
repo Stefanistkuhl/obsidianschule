@@ -34,6 +34,16 @@ b=\sqrt{ 21.2²+17²-2*21.2*17*\cos(42) }=14.24km
 
 \frac{a}{\sin(8.5)}=\frac{2}{\sin(4.5)}|*\sin(8.5)
 a=\frac{2}{\sin(4.5)}*\sin(8.5)=3.77
+\cos(13°)=\frac{3.77}{a}|*a
+\cos(13°)*a=3.77|:\cos(13)
+a=\frac{3.77}{\cos (13)}=3.87
+x=3.87-0.03=8.84
 ```
+4)
+```math
+||{"id":131987418342}||
 
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
+d=2.5m
+\alpha = 35°
+\tan(35)=
+```
