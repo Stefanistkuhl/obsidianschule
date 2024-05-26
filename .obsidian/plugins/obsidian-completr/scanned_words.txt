@@ -36,6 +36,8 @@ trignometrie
 txtaufgaben
 terteilen
 transportieren
+todo
+txtbsp
 Klasse
 Konfigurationen
 Kugel
