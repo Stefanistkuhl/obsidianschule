@@ -45,5 +45,18 @@ x=3.87-0.03=8.84
 
 d=2.5m
 \alpha = 35°
-\tan(35)=
+\sin(35)=\frac{x}{40}|*40
+x=\sin(35)*40=22.94
+\tan(35)=\frac{22.94}{z}|*z
+\tan(35)*z=22.94|:\tan(35)
+z=\frac{22.94}{\tan(35)}=32.76
+zz=32.76+2.5=35.26
+\ohm = 180-90-35 = 55
+\sin(55)=\frac{35.26}{zzz}|*zzz
+\sin(55)*zzz=35.26|:\sin(55)
+zzz=43.04
+zzzz
 ```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
+
