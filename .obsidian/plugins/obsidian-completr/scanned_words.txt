@@ -136,6 +136,7 @@ sowiso
 sehr
 smü
 sinussatz
+siemens
 elektro
 erklärt
 ein
@@ -179,6 +180,7 @@ explosiv
 eigene
 erflogreiche
 entsehen
+egal
 GPIO
 Gleichungne
 Gleichung
@@ -699,6 +701,8 @@ wüsste
 wann
 winkel
 wm
+weita
+welche
 Lehrer
 Ladig
 Links
@@ -750,6 +754,7 @@ unedlich
 umwandeln
 unterschätzt
 umgeformnt
+ursrping
 Noten
 Neutronen
 Nichtmetalle
@@ -871,6 +876,8 @@ beträgt
 bedeckt
 beitrage
 bsps
+btw
+bild
 Idi
 Ionenbindungen
 Ionisierungsenergie
@@ -969,6 +976,7 @@ neg
 niemals
 noch
 nZWfLaqV
+nullstelle
 FFB
 Feldeffekttransistor
 Feldeffekt
