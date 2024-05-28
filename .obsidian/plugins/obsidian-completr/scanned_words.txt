@@ -439,6 +439,7 @@ Störungen
 Schänden
 Steckerverbindungen
 Schwingungsdauer
+Spruch
 Tuple
 Teststoff
 Teilchen
@@ -601,6 +602,7 @@ deren
 demnach
 definiert
 dasselbe
+droppt
 Dynamisch
 Dotierung
 Dioden
@@ -966,6 +968,7 @@ nenenr
 neg
 niemals
 noch
+nZWfLaqV
 FFB
 Feldeffekttransistor
 Feldeffekt
@@ -1017,6 +1020,7 @@ Excalidraw
 EE
 EX
 Ebenene
+EGgUm
 Halbleiter
 Hauptsächlich
 Hantelförmig
@@ -1072,6 +1076,7 @@ Rundungsfehler
 Rasenfläche
 Realisierung
 Radiowellen
+RWfkrQhs
 aufstellen
 aus
 als
@@ -1358,6 +1363,7 @@ reagieren
 regelnde
 richtige
 radiant
+rkZyqU
 Um
 Unterschied
 Ube
