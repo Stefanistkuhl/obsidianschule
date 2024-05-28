@@ -15,6 +15,8 @@ $$\gamma =\arcsin(\frac{c*\sin(\alpha)}{a})$$
 $$\alpha =\arcsin(\frac{a*\sin(\alpha)}{c})$$
 Flächenihalt
 $$A=\frac{1}{2}*b*c*\sin(\alpha)=\frac{1}{2}*a*c*\sin(\beta)=\frac{1}{2}*a*b*\sin(\gamma)$$
+paralelogramm fläche
+$$A=a*b*\sin(\alpha)$$
 ### txtbsp
 2)
 ```math

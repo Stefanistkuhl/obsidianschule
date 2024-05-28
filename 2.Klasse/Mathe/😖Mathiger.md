@@ -900,5 +900,3 @@ D=(0|5)
 \gamma = 360-56.4-76.3-131.43=\underline{95.87°}
 A=\frac{1}{4}*\sqrt{ 4*8.54²*6.71²-(6.4²+6.08²-7.62²-2.83²) ²}=28.5
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
