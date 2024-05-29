@@ -14,6 +14,6 @@ Boschis Stifdrops
 Ladig erklärt uns was ein 3er is 🤓:
 ||||
 Ladig droppt nen Spruch
-|
+||
 Ladig siemens btw
 ||
