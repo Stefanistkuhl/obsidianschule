@@ -1,21 +1,18 @@
 \contentsline {section}{\numberline {1}Aufgabenstellung}{3}{}%
 \contentsline {section}{\numberline {2}Zusammenfassung}{3}{}%
-\contentsline {section}{\numberline {3}Vollständige Netzwerktopologie der gesamten Übung}{4}{}%
-\contentsline {section}{\numberline {4}Übungsdurchführung}{5}{}%
-\contentsline {subsection}{\numberline {4.1}Aufsetzen der Server}{5}{}%
-\contentsline {paragraph}{TCP}{5}{}%
-\contentsline {paragraph}{UDP}{5}{}%
-\contentsline {subsubsection}{\numberline {4.1.1}Verbinden mit dem Sever (TCP)}{5}{}%
-\contentsline {subsubsection}{\numberline {4.1.2}TCP-Verbindungsaufbau}{5}{}%
-\contentsline {subsubsection}{\numberline {4.1.3}Nachrichten verschicken und empfangen}{5}{}%
-\contentsline {subsubsection}{\numberline {4.1.4}TCP-Flags}{6}{}%
-\contentsline {subsubsection}{\numberline {4.1.5}TCP-Header}{7}{}%
-\contentsline {subsubsection}{\numberline {4.1.6}Verbindungsabbruch}{7}{}%
-\contentsline {subsubsection}{\numberline {4.1.7}Verbinden mit dem Sever (UDP)}{8}{}%
-\contentsline {subsubsection}{\numberline {4.1.8}UDP-Verbindungsaufbau}{8}{}%
-\contentsline {subsubsection}{\numberline {4.1.9}UDP-Nachrichten}{8}{}%
-\contentsline {subsubsection}{\numberline {4.1.10}UDP-Header}{8}{}%
-\contentsline {subsubsection}{\numberline {4.1.11}UDP-Verbindungsabbruch}{9}{}%
-\contentsline {section}{\numberline {5}TCP und UDP Headervergleich}{9}{}%
-\contentsline {section}{\numberline {6}Vollständige Konfigurationsdatein}{10}{}%
-\contentsline {section}{\numberline {7}Abbildungsverzeichnis}{11}{}%
+\contentsline {section}{\numberline {3}Übungsdurchführung}{4}{}%
+\contentsline {subsection}{\numberline {3.1}Aufsetzen der Server}{4}{}%
+\contentsline {subsubsection}{\numberline {3.1.1}Verbinden mit dem Sever (TCP)}{4}{}%
+\contentsline {subsubsection}{\numberline {3.1.2}TCP-Verbindungsaufbau}{4}{}%
+\contentsline {subsubsection}{\numberline {3.1.3}Nachrichten verschicken und empfangen}{4}{}%
+\contentsline {subsubsection}{\numberline {3.1.4}TCP-Flags}{5}{}%
+\contentsline {subsubsection}{\numberline {3.1.5}TCP-Header}{6}{}%
+\contentsline {subsubsection}{\numberline {3.1.6}Verbindungsabbruch}{7}{}%
+\contentsline {subsubsection}{\numberline {3.1.7}Verbinden mit dem Sever (UDP)}{7}{}%
+\contentsline {subsubsection}{\numberline {3.1.8}UDP-Verbindungsaufbau}{7}{}%
+\contentsline {subsubsection}{\numberline {3.1.9}UDP-Nachrichten}{7}{}%
+\contentsline {subsubsection}{\numberline {3.1.10}UDP-Header}{8}{}%
+\contentsline {subsubsection}{\numberline {3.1.11}UDP-Verbindungsabbruch}{8}{}%
+\contentsline {section}{\numberline {4}TCP und UDP Headervergleich}{8}{}%
+\contentsline {section}{\numberline {5}Quellen}{9}{}%
+\contentsline {section}{\numberline {6}Abbildungsverzeichnis}{10}{}%

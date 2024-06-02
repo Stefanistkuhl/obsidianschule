@@ -1,6 +1,17 @@
 \documentclass[a4paper]{article}
 \usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{url}
 \usepackage{outlines}
+\usepackage{listings}
+\lstset{basicstyle=\ttfamily,
+	showstringspaces=false,
+	commentstyle=\color{blue},
+	keywordstyle=\color{pink}
+}
+\lstset{emph={
+	nc,},emphstyle=\color{purple}
+}
 \usepackage{fancyhdr}
 \usepackage{geometry}
 \geometry{
@@ -26,6 +37,7 @@
 }
 
 \begin{document}
+\bibliographystyle{plain}
 \pagestyle{oida}
 \section*{Thema}
 \par\noindent\rule{\textwidth}{0.4pt}
@@ -62,9 +74,7 @@ TCP-UDP Header vergleich.
 \section{Zusammenfassung}
 Netcad um einen TCP/UPD Server starten, mit Netcad verbinden und mit Wireshark die Verbindungen analysieren.
 test
-\newpage
 
-\section{Vollständige Netzwerktopologie der gesamten Übung}
 
 \newpage
 
@@ -73,9 +83,12 @@ test
 \subsection{Aufsetzen der Server}
 %command für das ding mit code block schön machen
 \paragraph{TCP}
-nc -l -p 5000
-\paragraph{UDP}
-nc -l -u -p 5000
+\begin{lstlisting}[language=bash,caption={Commands}]
+				# TCP
+				nc -l -p 5000
+				# UDP
+				nc -l -u -p 5000
+\end{lstlisting}
 
 \subsubsection{Verbinden mit dem Sever (TCP)}
 nc 10.23.38.117 4201
@@ -95,7 +108,7 @@ nc 10.23.38.117 4201
 % den schaß citen
 TCP-Flags dienen dazu um den Zustand, oder andere zusätzliche Informationen der Verbindung anzuzeigen.\\
 Diese diesen zum Troubleshooten.
-In der Übung ist die Push flag gesetzt, was bedeuted, dass die Nachricht sofort übertragen wird, ohne darauf zu warten, dass zusätliche Informationen auf der Senderseite gebuffert werden.
+In der Übung ist die Push flag gesetzt, was bedeuted, dass die Nachricht sofort übertragen wird, ohne darauf zu warten, dass zusätliche Informationen auf der Senderseite gebuffert werden.\cite{TCP-Flags}
 \\ Wird oft in Echtzeitapplikation benutzt.
 \begin{figure}[h]
 	\includegraphics[scale=0.5]{images/tcp-flags.jpeg}
@@ -127,10 +140,12 @@ Nicht Vorhandene Felder
 	\1 Checksum
 	\2 Benutzt für eine Prüfsumme um sicherzugehen, dass der TCP header korrekt is.
 \end{outline}
+\cite{TCP-Header}
 \begin{figure}[h]
 	\includegraphics[scale=0.2]{images/tcp-header.jpeg}
 	\caption{TCP-Header}
 \end{figure}
+\newpage
 \subsubsection{Verbindungsabbruch}
 \begin{figure}[ht]
 	\includegraphics[scale=0.2]{images/verbindungsabbruch.png}
@@ -138,7 +153,6 @@ Nicht Vorhandene Felder
 \end{figure}
 
 Die TCP-Flag Reset wird im Packet gesetzt und dann ist die Verbindung mit diesem Packet beendet.
-\newpage
 \subsubsection{Verbinden mit dem Sever (UDP)}
 nc -u 10.23.38.117 4201
 \subsubsection{UDP-Verbindungsaufbau}
@@ -156,12 +170,13 @@ Im gegensatz zu TCP gibt es hier keinen 3-Way-Handsake und die Verbindung beginn
 \subsubsection {UDP-Header}
 %https://de.wikipedia.org/wiki/User_Datagram_Protocol
 \begin{outline}
-\1 Source Port
-\1 Destination Port
-\1 Länge
-\1 Checksum
+	\1 Source Port
+	\1 Destination Port
+	\1 Länge
+	\1 Checksum
 \end{outline}
 Diese Felder haben die selben bedeutungen wie bei TCP.
+\cite{UDP}
 \subsubsection{UDP-Verbindungsabbruch}
 \begin{figure}[h]
 	\includegraphics[scale=0.3]{images/udpverbindungsaufbau.png}
@@ -170,12 +185,12 @@ Diese Felder haben die selben bedeutungen wie bei TCP.
 Die Verbindung endet einfach und es wird kein Packet zum Beenden der Verbindung geschickt.
 \section{TCP und UDP Headervergleich}
 
-\newpage
 
-\section{Vollständige Konfigurationsdatein}
 
 \newpage
-
+\section{Quellen}
+\bibliography{quellen}
+\newpage
 \section{Abbildungsverzeichnis}
 
 \listoffigures

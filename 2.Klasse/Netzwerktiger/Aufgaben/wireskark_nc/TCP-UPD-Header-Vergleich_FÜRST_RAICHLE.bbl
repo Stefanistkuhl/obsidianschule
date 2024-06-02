@@ -1,0 +1,18 @@
+\begin{thebibliography}{1}
+
+\bibitem{UDP}
+{Autoren der Wikimedia-Projekte}.
+\newblock {User Datagram Protocol {\textendash} Wikipedia}, January 2003.
+\newblock [Online; accessed 2. Jun. 2024].
+
+\bibitem{TCP-Flags}
+{GeeksforGeeks}.
+\newblock {TCP flags}.
+\newblock {\em GeeksforGeeks}, April 2023.
+
+\bibitem{TCP-Header}
+Rene Molenaar.
+\newblock {TCP Header}.
+\newblock {\em NetworkLessons}, October 2019.
+
+\end{thebibliography}
