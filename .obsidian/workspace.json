@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Überlebenswichtige Strichlisten.md",
+                "file": "Filmliste.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Überlebenswichtige Strichlisten.md",
+                "file": "Filmliste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Überlebenswichtige Strichlisten.md"
+                "file": "Filmliste.md"
               }
             }
           },
@@ -181,8 +181,10 @@
   },
   "active": "41bb5abeda54b8c9",
   "lastOpenFiles": [
-    "2.Klasse/Mathe/alg dreieck.md",
+    "2.Klasse/Netzwerktiger/Aufgaben/wireskark_nc/TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.synctex(busy)",
+    "2.Klasse/Netzwerktiger/Aufgaben/wireskark_nc/lualatex12093.fls",
     "Überlebenswichtige Strichlisten.md",
+    "2.Klasse/Mathe/alg dreieck.md",
     "2.Klasse/Mathe/Sinusfunktion.md",
     "2.Klasse/Mathe/😖Mathiger.md",
     "bilder/einheitskreis 26-05-2024-48.excalidraw.md",
@@ -215,7 +217,6 @@
     "filme/inception.md",
     "filme",
     "inception.md~",
-    "1716150752-FYJZ.md",
     "1716150577-NIXA.md~",
     "~$Mhü 12 Stefan Fürst 2BHIT.pptx",
     "Mhü 12 Stefan Fürst 2BHIT.pptx",
@@ -225,7 +226,6 @@
     "S",
     "bilder/Pasted image 20240418143027.png",
     "bilder/Pasted image 20240418142408.png",
-    "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/Zusatz_StatischesRouting.synctex(busy)",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/alt/7.jpg",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
     "Zeichnungen/Untitled.canvas"
