@@ -10,7 +10,7 @@ Osko beeing deppat
 Idi Momente von idi
 ||||||||||||||||||||||||||||||||||||||
 Boschis Stifdrops
-|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 Ladig erklärt uns was ein 3er is 🤓:
 ||||
 Ladig droppt nen Spruch
