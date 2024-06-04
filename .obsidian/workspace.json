@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filmliste.md",
+                "file": "Überlebenswichtige Strichlisten.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Filmliste.md",
+                "file": "Überlebenswichtige Strichlisten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Filmliste.md"
+                "file": "Überlebenswichtige Strichlisten.md"
               }
             }
           },
@@ -181,6 +181,7 @@
   },
   "active": "41bb5abeda54b8c9",
   "lastOpenFiles": [
+    "Filmliste.md",
     "2.Klasse/Netzwerktiger/Aufgaben/wireskark_nc/TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.synctex(busy)",
     "2.Klasse/Netzwerktiger/Aufgaben/wireskark_nc/lualatex12093.fls",
     "Überlebenswichtige Strichlisten.md",
@@ -190,7 +191,6 @@
     "bilder/einheitskreis 26-05-2024-48.excalidraw.md",
     "2.Klasse/Mathe/einheitskreis.md",
     "2.Klasse/Mathe/ka was für kak msa lernen muss oda so OIDA.md",
-    "Filmliste.md",
     "2.Klasse/Netzwerktiger/Passive Netzwerkmpontenten.md",
     "2.Klasse/nawi/pH-Wert.md",
     "bilder/pH-Wert 23-05-2024-39.excalidraw.md",
@@ -223,7 +223,6 @@
     "bilder/Pasted image 20240430170942.png",
     "2.Klasse/Netzwerktiger/Aufgaben/packet tracer einführung/NWT1_V.1_PacketTracerEinführung_7.3.1.pdf",
     "bilder/Pasted image 20240430161643.png",
-    "S",
     "bilder/Pasted image 20240418143027.png",
     "bilder/Pasted image 20240418142408.png",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/alt/7.jpg",
