@@ -28,6 +28,7 @@ tags:
 | Inception                                   | [[inception\|8/10]]                 | 19.05.2024 |
 | shutter island                              | [[shuter Island\|7.5/10]]           | 20.05.2024 |
 | ford v ferrari                              | [[filme/fordvferrari\|8.75/10]]     | 35.05.2024 |
+| civil war                                   |                                     |            |
 
 # <mark style="background: #FFB8EBA6;">oida alt</mark>
 

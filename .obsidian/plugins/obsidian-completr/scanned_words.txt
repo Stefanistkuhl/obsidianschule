@@ -1327,6 +1327,7 @@ contenteditable
 class
 ca
 cos
+civil
 zusammen
 zw
 zu
