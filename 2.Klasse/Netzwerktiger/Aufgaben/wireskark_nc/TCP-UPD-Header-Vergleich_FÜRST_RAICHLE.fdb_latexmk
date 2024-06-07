@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex TCP-UPD-Header-Vergleich_FÜRST_RAICHLE"] 1717340763.42008 "TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.aux" "TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.bbl" "TCP-UPD-Header-Vergleich_FÜRST_RAICHLE" 1717341368.14408 0
-  "./quellen.bib" 1717337195.67447 754 10f1c194886207eb0d42f1b5c982faad ""
+["bibtex TCP-UPD-Header-Vergleich_FÜRST_RAICHLE"] 1717766372.95237 "TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.aux" "TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.bbl" "TCP-UPD-Header-Vergleich_FÜRST_RAICHLE" 1717766375.6548 0
+  "./quellen.bib" 1717764346.34437 1205 820e981badf11f680ade58bff8528d9c ""
   "/opt/texlive/2024/texmf-dist/bibtex/bst/base/plain.bst" 1716729492 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.aux" 1717341367.40698 3416 2caffcc2114d241290e10e55e5e0ac48 "lualatex"
+  "TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.aux" 1717766374.96421 3972 7bce0282185bf2b582d612624480f7eb "lualatex"
   (generated)
   "TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.bbl"
   "TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.blg"
   (rewritten before read)
-["lualatex"] 1717341365.47557 "TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.tex" "TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.pdf" "TCP-UPD-Header-Vergleich_FÜRST_RAICHLE" 1717341368.14442 0
+["lualatex"] 1717766373.15761 "TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.tex" "TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.pdf" "TCP-UPD-Header-Vergleich_FÜRST_RAICHLE" 1717766375.65523 0
   "/home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc" 1717080302.36553 81831 77f2d050fb012d8b47694dece65737e4 ""
   "/home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc" 1717080303.67543 128404 d627ca41363a7be995c9149794de4a89 ""
   "/home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-italic.luc" 1717337242.50117 136306 c4cbda6b97203c147d250ff3fae4611f ""
@@ -115,20 +115,22 @@
   "/opt/texlive/2024/texmf-dist/tex/luatex/luaotfload/luaotfload.lua" 1716729492 13565 50482dad4c221a79dbdbb982122baf8c ""
   "/opt/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1716729492 5483656 2674e9585f98f3c11b6dd16d75ac0314 ""
   "/opt/texlive/2024/texmf-var/web2c/luahbtex/lualatex.fmt" 1716729492 12272304 3a7359ae6e7dab5666a0fc5e850b1b9a ""
-  "TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.aux" 1717341367.40698 3416 2caffcc2114d241290e10e55e5e0ac48 "lualatex"
-  "TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.bbl" 1717340763.67396 427 fa53ee6eeace2e63b96cdc3dc6a25019 "bibtex TCP-UPD-Header-Vergleich_FÜRST_RAICHLE"
-  "TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.lof" 1717341367.40698 709 581ac583f3896681d439462e7d6e8aeb "lualatex"
-  "TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.tex" 1717341365.26711 5052 83d02a79e2a846e933beb1336bcf4d99 ""
-  "TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.toc" 1717341367.40698 1311 494f4d64d86b2a1ba5b23293a51cbc48 "lualatex"
+  "TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.aux" 1717766374.96421 3972 7bce0282185bf2b582d612624480f7eb "lualatex"
+  "TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.bbl" 1717766373.14751 674 cbd06a60b5a3437a9eb9c859f6ede356 "bibtex TCP-UPD-Header-Vergleich_FÜRST_RAICHLE"
+  "TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.lof" 1717766374.96421 861 5a27c9148961455c90e9b31d59727efb "lualatex"
+  "TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.tex" 1717766369.91078 7834 3c7d41d092115c21b003c7bf0d5ae5be ""
+  "TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.toc" 1717766374.96421 1387 b77966d4572b82e65bfd70ff3fb242bd "lualatex"
+  "images/UDP-Header.png" 1717762719.00287 41254 85c4561a415f008a846287df3174c702 ""
   "images/handshake.jpeg" 1716555151.67476 87716 648fae85a649d23efdc5da8d25a83f6b ""
   "images/logo.png" 1716553931.97678 5251 cc1f58f2715d780a35156b77ab1d3f18 ""
-  "images/meme.jpeg" 1716553931.97678 53695 9ca04814b540b759dd07a3b5f3428ea7 ""
+  "images/meme.jpeg" 1717766321.73304 171791 c98c9b1e83b09f3f657b45e2ce784151 ""
   "images/nachricht.jpeg" 1716555514.42437 594555 1b4b49dd2c74a5ed8173514528bafa38 ""
   "images/tcp-flags.jpeg" 1716555957.50039 201144 1b76404c8cf4a6c295655c613d0bc8f2 ""
   "images/tcp-header.jpeg" 1716557078.96466 192613 0e87a42f278a6f744f1c4fb517f87926 ""
   "images/udp-nachricht.png" 1717160669.57996 122803 2bf7b3cc92b29ef3b8295318cd99c5e7 ""
   "images/udpverbindungsaufbau.png" 1717160024.71074 129395 0d67b3e87233bcdf3cac4b42ffb829bc ""
   "images/verbindungsabbruch.png" 1717157279.2793 238749 2fcc9d1502858a1d7250b5476650a047 ""
+  "images/vergleich.jpg" 1717763651.00509 244137 10df771593f5e7715934199e246e38ad ""
   (generated)
   "TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.aux"
   "TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.lof"

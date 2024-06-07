@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.5.26)  2 JUN 2024 17:16
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.5.26)  7 JUN 2024 15:19
  restricted system commands enabled.
  file:line:error style messages enabled.
 **TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.tex
@@ -234,11 +234,11 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<images/meme.jpeg, id=1, 777.90625pt x 811.03pt>
+<images/meme.jpeg, id=1, 1204.5pt x 1606.0pt>
 File: images/meme.jpeg Graphic file (type jpg)
 <use images/meme.jpeg>
 Package luatex.def Info: images/meme.jpeg  used on input line 49.
-(luatex.def)             Requested size: 466.74734pt x 486.62175pt.
+(luatex.def)             Requested size: 361.35278pt x 481.80373pt.
 <images/logo.png, id=2, 413.545pt x 122.4575pt>
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
@@ -262,7 +262,7 @@ Package luatex.def Info: images/logo.png  used on input line 70.
  [2]
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 79.
+Package luatex.def Info: images/logo.png  used on input line 97.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
  [3] (/opt/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2024/05/25 1.10b listings language file
@@ -272,80 +272,95 @@ File: lstlang1.sty 2024/05/25 1.10b listings language file
 <images/handshake.jpeg, id=18, 1352.05125pt x 103.38625pt>
 File: images/handshake.jpeg Graphic file (type jpg)
 <use images/handshake.jpeg>
-Package luatex.def Info: images/handshake.jpeg  used on input line 97.
+Package luatex.def Info: images/handshake.jpeg  used on input line 115.
 (luatex.def)             Requested size: 405.6185pt x 31.0161pt.
 <images/nachricht.jpeg, id=19, 1357.07pt x 659.46375pt>
 File: images/nachricht.jpeg Graphic file (type jpg)
 <use images/nachricht.jpeg>
-Package luatex.def Info: images/nachricht.jpeg  used on input line 102.
+Package luatex.def Info: images/nachricht.jpeg  used on input line 120.
 (luatex.def)             Requested size: 407.12415pt x 197.84064pt.
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 105.
+Package luatex.def Info: images/logo.png  used on input line 123.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
  [4<./images/handshake.jpeg><./images/nachricht.jpeg>]
 <images/tcp-flags.jpeg, id=24, 809.0225pt x 544.0325pt>
 File: images/tcp-flags.jpeg Graphic file (type jpg)
 <use images/tcp-flags.jpeg>
-Package luatex.def Info: images/tcp-flags.jpeg  used on input line 114.
+Package luatex.def Info: images/tcp-flags.jpeg  used on input line 132.
 (luatex.def)             Requested size: 404.51027pt x 272.01558pt.
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 117.
+Package luatex.def Info: images/logo.png  used on input line 135.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
  [5<./images/tcp-flags.jpeg>]
 <images/tcp-header.jpeg, id=28, 1360.08125pt x 335.2525pt>
 File: images/tcp-header.jpeg Graphic file (type jpg)
 <use images/tcp-header.jpeg>
-Package luatex.def Info: images/tcp-header.jpeg  used on input line 145.
+Package luatex.def Info: images/tcp-header.jpeg  used on input line 164.
 (luatex.def)             Requested size: 272.01143pt x 67.0493pt.
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 148.
+Package luatex.def Info: images/logo.png  used on input line 167.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
  [6<./images/tcp-header.jpeg>]
 <images/verbindungsabbruch.png, id=32, 1352.05125pt x 714.67pt>
 File: images/verbindungsabbruch.png Graphic file (type png)
 <use images/verbindungsabbruch.png>
-Package luatex.def Info: images/verbindungsabbruch.png  used on input line 151.
+Package luatex.def Info: images/verbindungsabbruch.png  used on input line 170.
 (luatex.def)             Requested size: 270.40546pt x 142.93146pt.
 <images/udpverbindungsaufbau.png, id=33, 1368.11125pt x 415.5525pt>
 File: images/udpverbindungsaufbau.png Graphic file (type png)
 <use images/udpverbindungsaufbau.png>
-Package luatex.def Info: images/udpverbindungsaufbau.png  used on input line 160.
+Package luatex.def Info: images/udpverbindungsaufbau.png  used on input line 179.
 (luatex.def)             Requested size: 410.43654pt x 124.6667pt.
 <images/udp-nachricht.png, id=34, 1366.10374pt x 386.44376pt>
 File: images/udp-nachricht.png Graphic file (type png)
 <use images/udp-nachricht.png>
-Package luatex.def Info: images/udp-nachricht.png  used on input line 167.
+Package luatex.def Info: images/udp-nachricht.png  used on input line 186.
 (luatex.def)             Requested size: 409.83429pt x 115.93402pt.
-File: images/logo.png Graphic file (type png)
-<use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 174.
-(luatex.def)             Requested size: 186.09352pt x 55.10535pt.
- [7<./images/verbindungsabbruch.png><./images/udpverbindungsaufbau.png><./images/udp-nachricht.png>]
-File: images/udpverbindungsaufbau.png Graphic file (type png)
-<use images/udpverbindungsaufbau.png>
-Package luatex.def Info: images/udpverbindungsaufbau.png  used on input line 182.
-(luatex.def)             Requested size: 410.43654pt x 124.6667pt.
-File: images/logo.png Graphic file (type png)
-<use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 190.
-(luatex.def)             Requested size: 186.09352pt x 55.10535pt.
- [8] (./TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.bbl)
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
 Package luatex.def Info: images/logo.png  used on input line 193.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
- [9] (./TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.lof)
+ [7<./images/verbindungsabbruch.png><./images/udpverbindungsaufbau.png><./images/udp-nachricht.png>]
+<images/UDP-Header.png, id=38, 844.15375pt x 182.6825pt>
+File: images/UDP-Header.png Graphic file (type png)
+<use images/UDP-Header.png>
+Package luatex.def Info: images/UDP-Header.png  used on input line 200.
+(luatex.def)             Requested size: 379.86568pt x 82.20634pt.
+File: images/udpverbindungsaufbau.png Graphic file (type png)
+<use images/udpverbindungsaufbau.png>
+Package luatex.def Info: images/udpverbindungsaufbau.png  used on input line 205.
+(luatex.def)             Requested size: 410.43654pt x 124.6667pt.
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package luatex.def Info: images/logo.png  used on input line 211.
+(luatex.def)             Requested size: 186.09352pt x 55.10535pt.
+ [8<./images/UDP-Header.png>]
+<images/vergleich.jpg, id=42, 476.982pt x 215.3646pt>
+File: images/vergleich.jpg Graphic file (type jpg)
+<use images/vergleich.jpg>
+Package luatex.def Info: images/vergleich.jpg  used on input line 228.
+(luatex.def)             Requested size: 429.27982pt x 193.82632pt.
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package luatex.def Info: images/logo.png  used on input line 246.
+(luatex.def)             Requested size: 186.09352pt x 55.10535pt.
+ [9<./images/vergleich.jpg>] (./TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.bbl)
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package luatex.def Info: images/logo.png  used on input line 249.
+(luatex.def)             Requested size: 186.09352pt x 55.10535pt.
+ [10] (./TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.lof)
 \tf@lof=\write4
 
 \openout4 = TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.lof
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 198.
+Package luatex.def Info: images/logo.png  used on input line 254.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
- [10] (./TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.aux)
+ [11] (./TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-05-08>
@@ -353,19 +368,19 @@ L3 programming layer <2024-05-08>
 )
 
 Here is how much of LuaTeX's memory you used:
- 4528 strings out of 476324
+ 4566 strings out of 476324
  100000,1977958 words of node,token memory allocated
- 421 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 51 glue_spec, 4 attribute_list, 1 write nodes
-   avail lists: 2:474,3:184,4:84,5:236,6:66,7:2366,8:1,9:464,10:3,11:114
- 26630 multiletter control sequences out of 65536+600000
+ 426 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 52 glue_spec, 4 attribute_list, 1 write nodes
+   avail lists: 2:676,3:192,4:184,5:264,6:68,7:3396,8:1,9:648,10:3,11:210
+ 26659 multiletter control sequences out of 65536+600000
  32 fonts using 2261335 bytes
- 57i,16n,62p,264b,619s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,16n,62p,363b,622s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf>
-Output written on TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.pdf (10 pages, 1629020 bytes).
+Output written on TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.pdf (11 pages, 2032921 bytes).
 
-PDF statistics: 80 PDF objects out of 1000 (max. 8388607)
- 42 compressed objects within 1 object stream
+PDF statistics: 87 PDF objects out of 1000 (max. 8388607)
+ 46 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

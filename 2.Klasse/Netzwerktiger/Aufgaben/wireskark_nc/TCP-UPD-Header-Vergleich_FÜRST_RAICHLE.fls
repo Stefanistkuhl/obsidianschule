@@ -137,7 +137,12 @@ INPUT ./images/udpverbindungsaufbau.png
 INPUT ./images/udp-nachricht.png
 INPUT ./images/udp-nachricht.png
 INPUT ./images/logo.png
+INPUT ./images/UDP-Header.png
+INPUT ./images/UDP-Header.png
 INPUT ./images/udpverbindungsaufbau.png
+INPUT ./images/logo.png
+INPUT ./images/vergleich.jpg
+INPUT ./images/vergleich.jpg
 INPUT ./images/logo.png
 INPUT ./TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.bbl
 INPUT /home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-italic.luc

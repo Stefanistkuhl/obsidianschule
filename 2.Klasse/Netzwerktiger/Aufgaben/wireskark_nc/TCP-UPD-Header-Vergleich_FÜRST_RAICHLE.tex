@@ -10,7 +10,7 @@
 	keywordstyle=\color{pink}
 }
 \lstset{emph={
-	nc,},emphstyle=\color{purple}
+	nc,tcp,udp,http,},emphstyle=\color{purple}
 }
 \usepackage{fancyhdr}
 \usepackage{geometry}
@@ -46,7 +46,7 @@ Laborprotokoll
 TCP-UPD Header Verleich
 
 \begin{figure}[h]
-	\includegraphics[scale=0.6]{images/meme.jpeg}
+	\includegraphics[scale=0.3]{images/meme.jpeg}
 	\caption{memes klauen ist nicht ethisch}
 \end{figure}
 
@@ -59,9 +59,9 @@ Name:	Stefan Fürst, Marcel Raichle
 
 Betreuer: 	ZIVK
 
-Übungsdaten:	24.5.2024, 31.5.2024
+Übungsdaten:	24.5.2024, 31.5.2024,7.6.2024
 
-Abgabedatum:	Datum
+Abgabedatum:	7.6.2024
 
 
 \newpage
@@ -70,10 +70,28 @@ Abgabedatum:	Datum
 \newpage
 
 \section{Aufgabenstellung}
-TCP-UDP Header vergleich.
+Zussamenfassung der Aufgabenstellung von Cat-gpt:
+% Meow, meow, darling, let me break it down for you in a sassy feline way:
+\begin{enumerate}
+	\item
+	      Work in groups of 2, each with their own PC and Virtual Box with Kali Linux. Make sure network settings are correct and virtual machines have IP addresses. Verify with a ping. Start Wireshark and record the ping. You'll need to capture other transmissions too. Document every step in a log.
+	\item
+	      Use netcat to start a TCP server on port 5000. Connect with your partner using netcat. Document with screenshots and Wireshark. Answer questions about TCP connections and flags. Find and document TCP header fields. Document what happens when the server is closed.
+	\item
+	      Use netcat to start a UDP server on port 5000. Connect with your partner, document with screenshots and Wireshark. Answer questions about UDP connections and headers. Document server closure process.
+	\item
+	      Research TCP and UDP headers. Show and describe the most important fields in a one-page document. Compare header sizes and differences between TCP and UDP headers.
+	\item
+	      Bonus: Document how TCP and UDP are recorded in Wireshark. Research how port addresses are displayed. Show which Wireshark filters to use.
+\end{enumerate}
+
+% Now, go ahead and tackle these tasks like the curious cat you are! Meow!
+
+
+
+
 \section{Zusammenfassung}
 Netcad um einen TCP/UPD Server starten, mit Netcad verbinden und mit Wireshark die Verbindungen analysieren.
-test
 
 
 \newpage
@@ -133,6 +151,7 @@ Nicht Vorhandene Felder
 	\1 RSV
 	\2 3 Reservierte Bits, die immer 0 sind.
 	\1 Urgent Pointer
+	\2 Wenn die URG-Flag gesetzt ist, zeigt dieser Pointer an, wo die Urgent Daten enden.
 	\1 DO
 	\2 Länge des Headers.
 	\1 Flags
@@ -175,17 +194,54 @@ Im gegensatz zu TCP gibt es hier keinen 3-Way-Handsake und die Verbindung beginn
 	\1 Länge
 	\1 Checksum
 \end{outline}
-Diese Felder haben die selben bedeutungen wie bei TCP.
-\cite{UDP}
+Diese Felder haben die selben bedeutungen wie bei TCP. \cite{UDP}
+\\
+\begin{figure}[h]
+	\includegraphics[scale=0.45]{images/UDP-Header.png}
+	\caption{UDP-Header}
+\end{figure}
 \subsubsection{UDP-Verbindungsabbruch}
 \begin{figure}[h]
 	\includegraphics[scale=0.3]{images/udpverbindungsaufbau.png}
 	\caption{UDP-Verbindungsabbruch}
 \end{figure}
+
 Die Verbindung endet einfach und es wird kein Packet zum Beenden der Verbindung geschickt.
-\section{TCP und UDP Headervergleich}
 
+\newpage
+\subsection{TCP und UDP Headervergleich}
 
+Im gegensatz zu TCP, UDP hat weniger Felder, da extra Felder wie Window, Sequnece und Achknowledgment Number einfach nicht benötigt, da der Sinn von UDP es ist, weniger overhead zu haben, damit eine schnellere Übertragung möglich ist.
+\\
+Der TCP-Header hat eine Minimale größe ein 20 Bytes, während der UDP-Header immer 8 Bytes groß ist. \cite{TCP-Header}\cite{UDP2}
+\\
+UDP hat nur die nur die Esenziellsten Felder, die benögtigt werden um eine Kommunikation durchzuführen.
+\\
+Wichtigste Felder:
+\begin{outline}
+	\1 Src/Destination Port
+	\2 Ohne diesem Feld kann kommunikation nicht funktionieren.
+	\1 Checksum
+	\2 Wichtig um sicherzugehen, dass das Packet nicht Korrupt ist.
+\end{outline}
+\begin{figure}[h]
+	\includegraphics[scale=0.9]{images/vergleich.jpg}
+	\caption{Header Vergleich}
+\end{figure}
+
+\subsection{Nach Ports filtern}
+Nur Nach Port filtern:
+\\
+Protokoll.port == port
+\\
+Logische Operatoren können für komplexere Filter angewandt werden\cite{Portsfiltern}
+\begin{lstlisting}[language=bash,caption={Commands}]
+# tcp port 80 oder udp port 80
+tcp.port == 80 || udp.port == 80
+
+# auf port 80 nach verlorenen tcp segmenten filtern
+tcp.port == 80 && tcp.analysis.lost_segment
+\end{lstlisting}
 
 \newpage
 \section{Quellen}
