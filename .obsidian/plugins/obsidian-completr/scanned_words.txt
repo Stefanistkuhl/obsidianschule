@@ -39,6 +39,7 @@ transportieren
 todo
 txtbsp
 technischen
+tracert
 Klasse
 Konfigurationen
 Kugel
@@ -715,6 +716,7 @@ winkel
 wm
 weita
 welche
+worky
 Lehrer
 Ladig
 Links
