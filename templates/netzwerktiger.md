@@ -1,5 +1,5 @@
 ---
 tags:
-  - 2te_Klasse
   - nwt
+  - 3te_Klasse
 ---

@@ -1,6 +1,6 @@
 ---
 tags:
-  - 2te_Klasse
   - syt
   - syt_elektro
+  - 3te_Klasse
 ---

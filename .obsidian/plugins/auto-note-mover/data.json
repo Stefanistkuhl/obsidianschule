@@ -4,42 +4,42 @@
   "statusBar_trigger_indicator": true,
   "folder_tag_pattern": [
     {
-      "folder": "2.Klasse/nawi",
+      "folder": "3.Klasse/Nawi",
       "tag": "#nawi",
       "pattern": ""
     },
     {
-      "folder": "2.Klasse/Itsi",
+      "folder": "3.Klasse/itsi",
       "tag": "#itsi",
       "pattern": ""
     },
     {
-      "folder": "2.Klasse/Ipt",
+      "folder": "3.Klasse/Ipt",
       "tag": "#ipt",
       "pattern": ""
     },
     {
-      "folder": "2.Klasse/Sysgrrrrtechnik",
+      "folder": "3.Klasse/syt",
       "tag": "#syt",
       "pattern": ""
     },
     {
-      "folder": "2.Klasse/Netzwerktiger",
+      "folder": "3.Klasse/nwt",
       "tag": "#nwt",
       "pattern": ""
     },
     {
-      "folder": "2.Klasse/Medt",
+      "folder": "3.Klasse/medt",
       "tag": "#medt",
       "pattern": ""
     },
     {
-      "folder": "2.Klasse/Ggp",
+      "folder": "3.Klasse/ggp",
       "tag": "#ggp",
       "pattern": ""
     },
     {
-      "folder": "2.Klasse/Mathe",
+      "folder": "3.Klasse/mathe",
       "tag": "#m",
       "pattern": ""
     },
@@ -49,22 +49,22 @@
       "pattern": ""
     },
     {
-      "folder": "2.Klasse/English",
+      "folder": "3.Klasse/englisch",
       "tag": "#e",
       "pattern": ""
     },
     {
-      "folder": "2.Klasse/Deutsch",
+      "folder": "3.Klasse/deutsch",
       "tag": "#d",
       "pattern": ""
     },
     {
-      "folder": "2.Klasse/Sew",
+      "folder": "3.Klasse/sew",
       "tag": "#sew",
       "pattern": ""
     },
     {
-      "folder": "2.Klasse/Ipt",
+      "folder": "3.Klasse/Ipt",
       "tag": "#itp",
       "pattern": ""
     }

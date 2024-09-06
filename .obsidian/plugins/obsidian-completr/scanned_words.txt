@@ -137,6 +137,7 @@ sehr
 smü
 sinussatz
 siemens
+sprache
 elektro
 erklärt
 ein
@@ -339,6 +340,8 @@ isTAxN
 iEjXxXV
 inteligenta
 isjdfasifijasifjij
+ipt
+info
 output
 oida
 oder
@@ -499,6 +502,7 @@ mal
 multiplizieren
 minus
 muss
+medt
 Werte
 Wellen
 Wollen
