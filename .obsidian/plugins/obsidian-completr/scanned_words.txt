@@ -38,6 +38,7 @@ terteilen
 transportieren
 todo
 txtbsp
+technischen
 Klasse
 Konfigurationen
 Kugel
@@ -197,6 +198,7 @@ Gleichungen
 Gleichnamig
 Graphen
 Graph
+Goofy
 general
 gesetzte
 gedreht
@@ -391,6 +393,7 @@ funktionierende
 fläche
 ford
 ferrari
+fach
 Str
 Statisch
 Stifdrops
@@ -613,6 +616,7 @@ demnach
 definiert
 dasselbe
 droppt
+detusche
 Dynamisch
 Dotierung
 Dioden
@@ -985,6 +989,8 @@ niemals
 noch
 nZWfLaqV
 nullstelle
+namen
+nem
 FFB
 Feldeffekttransistor
 Feldeffekt

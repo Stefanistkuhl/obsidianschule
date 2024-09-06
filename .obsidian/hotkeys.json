@@ -156,7 +156,14 @@
   "editor:toggle-italics": [],
   "editor:insert-link": [],
   "editor:toggle-bold": [],
-  "editor:toggle-checklist-status": [],
+  "editor:toggle-checklist-status": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "L"
+    }
+  ],
   "editor:toggle-comments": [],
   "markdown:toggle-preview": []
 }
