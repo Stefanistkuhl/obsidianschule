@@ -29,4 +29,4 @@ steigt: Atom wurde oxidiert (hat weniger e- um sich)
 
 Enige Faustregeln zum Bestimmen von Oxidotionszahlen:
 - Bei Elementarverbindungen ist die Oxidotionszahlen <mark style="background: #FFB8EBA6;">immer</mark> 0
-- 
+- Wenn H mti einem <mark style="background: #FFB8EBA6;">anderen</mark> Element verbunden: H hat meints eine Oxzahl +1 (Außer in Metallhydriden)
