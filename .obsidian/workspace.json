@@ -20,30 +20,19 @@
             }
           },
           {
-            "id": "e39f792a8d2d9d25",
+            "id": "03a798454b95e16e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/Ipt/something something ipt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "177a7b9af74be7e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "randoom ahh sachen zum anschauen.md",
+                "file": "3.Klasse/englisch/things for graphs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Überlebenswichtige Strichlisten.md",
+                "file": "3.Klasse/englisch/things for graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +152,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Überlebenswichtige Strichlisten.md"
+                "file": "3.Klasse/englisch/things for graphs.md"
               }
             }
           },
@@ -203,12 +192,17 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "41bb5abeda54b8c9",
+  "active": "03a798454b95e16e",
   "lastOpenFiles": [
+    "3.Klasse/englisch/Wörter synome erklärungen ig.md",
+    "3.Klasse/englisch/things for graphs.md",
+    "3.Klasse/englisch/Englisch.md",
+    "templates/Englisch.md",
+    "3.Klasse/englisch/Zeiten ReallyMad.md",
+    "Überlebenswichtige Strichlisten.md",
     "randoom ahh sachen zum anschauen.md",
     "3.Klasse/Ipt/something something ipt.md",
     "bilder/Pasted image 20240906124136.png",
-    "Überlebenswichtige Strichlisten.md",
     "3.Klasse/nwt/Tracert.md",
     "Zeichnungen/DR06-09-2024-26.excalidraw.md",
     "templates/Syt_info.md",
@@ -237,10 +231,6 @@
     "2.Klasse/Mathe/😖Mathiger.md",
     "bilder/einheitskreis 26-05-2024-48.excalidraw.md",
     "2.Klasse/Mathe/einheitskreis.md",
-    "2.Klasse/Mathe/ka was für kak msa lernen muss oda so OIDA.md",
-    "2.Klasse/Netzwerktiger/Passive Netzwerkmpontenten.md",
-    "2.Klasse/nawi/pH-Wert.md",
-    "bilder/pH-Wert 23-05-2024-39.excalidraw.md",
     "bilder/Pasted image 20240522191440.png",
     "bilder/Pasted image 20240522191141.png",
     "bilder/Pasted image 20240522190747.png",

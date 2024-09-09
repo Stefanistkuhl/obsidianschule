@@ -140,6 +140,9 @@ smü
 sinussatz
 siemens
 sprache
+something
+somehting
+started
 elektro
 erklärt
 ein
@@ -265,6 +268,8 @@ gasförmig
 groß
 getreckt
 ganzer
+gefällt
+going
 purpose
 paare
 paaren
@@ -299,6 +304,7 @@ passive
 physikalischen
 pi
 paralelogramm
+past
 input
 int
 immutable
@@ -345,6 +351,7 @@ inteligenta
 isjdfasifijasifjij
 ipt
 info
+its
 output
 oida
 oder
@@ -359,6 +366,7 @@ old
 ofc
 oft
 omega
+on
 float
 fReIwIlLiG
 für
@@ -453,6 +461,7 @@ Schänden
 Steckerverbindungen
 Schwingungsdauer
 Spruch
+Simple
 Tuple
 Teststoff
 Teilchen
@@ -769,6 +778,7 @@ umwandeln
 unterschätzt
 umgeformnt
 ursrping
+unknows
 Noten
 Neutronen
 Nichtmetalle
@@ -831,6 +841,8 @@ ha
 hälfte
 hauen
 halt
+happing
+has
 Osko
 Orbitale
 Orbitalen
@@ -915,6 +927,7 @@ Inteligenz
 Informationen
 IT
 Infrastruktur
+It
 Momente
 Massezahl
 Metalle
@@ -993,6 +1006,7 @@ nZWfLaqV
 nullstelle
 namen
 nem
+now
 FFB
 Feldeffekttransistor
 Feldeffekt
@@ -1078,6 +1092,7 @@ Client
 Club
 Characteren
 CS
+Continious
 Rechnen
 Richtungen
 Rafis
@@ -1180,6 +1195,8 @@ allen
 angelegt
 ausgetasucht
 ablesen
+at
+and
 Ausbeute
 Atomaufbau
 Arbeiten
@@ -1257,6 +1274,8 @@ Parameter
 Passive
 Patchpanels
 Periode
+Present
+Perfect
 Zusammenfassung
 Zustand
 Zener
@@ -1340,6 +1359,7 @@ class
 ca
 cos
 civil
+comming
 zusammen
 zw
 zu
@@ -1389,6 +1409,8 @@ regelnde
 richtige
 radiant
 rkZyqU
+right
+returned
 Um
 Unterschied
 Ube
