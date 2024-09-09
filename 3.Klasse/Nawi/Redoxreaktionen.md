@@ -16,3 +16,17 @@ e- werden vom H hin zu O verschoben.
 Redox ... Reduktion und Oxidotion
 
 O wurde reduziert H wurde Oxidiert
+
+Um schneller rauszufinde, ob es sich um eine Redoxreaktion handelt, gibt es sogenannte <mark style="background: #FFB8EBA6;">Oxidotionszahlen</mark> 
+
+Bsp:
+![[Redoxreaktionen 09-09-2024-13.excalidraw]]
+Man tut so, als wären die e- zur gänze beim elektronegativen Bindungspartner
+Die fiktiven Ladungen, die sich daraus ergeben, nennt man Oxidotionsfaktor.
+![[Redoxreaktionen 09-09-2024-56.excalidraw]]
+Die Oxidationszahl sink: Atom wurde reduziert (hat mehr e- um sich)
+steigt: Atom wurde oxidiert (hat weniger e- um sich)
+
+Enige Faustregeln zum Bestimmen von Oxidotionszahlen:
+- Bei Elementarverbindungen ist die Oxidotionszahlen <mark style="background: #FFB8EBA6;">immer</mark> 0
+- 

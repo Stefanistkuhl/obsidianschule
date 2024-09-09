@@ -93,7 +93,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.2.2",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.4.2",
     "libraryItems": [
       {
         "status": "published",
@@ -302,7 +302,7 @@
             "strokeColor": "#000000",
             "backgroundColor": "#000000",
             "width": 18.103371308638394,
-            "height": 7.371235523356664,
+            "height": 7.371235523356667,
             "seed": 12475955,
             "groupIds": [],
             "frameId": null,
@@ -443,7 +443,7 @@
             "strokeColor": "#000000",
             "backgroundColor": "#000000",
             "width": 16.520185308064942,
-            "height": 10.149437219175825,
+            "height": 10.149437219175823,
             "seed": 1787578077,
             "groupIds": [],
             "frameId": null,
@@ -568,7 +568,7 @@
             "strokeColor": "#000000",
             "backgroundColor": "#000000",
             "width": 17.194635184093233,
-            "height": 9.505082918216802,
+            "height": 9.505082918216804,
             "seed": 79844573,
             "groupIds": [],
             "frameId": null,
@@ -669,7 +669,7 @@
             "strokeColor": "#000000",
             "backgroundColor": "#000000",
             "width": 12.641338747410202,
-            "height": 10.683356956457915,
+            "height": 10.683356956457914,
             "seed": 2129902813,
             "groupIds": [
               "6HvbRQ7rcyz0pJoJu5fsB"
@@ -748,7 +748,7 @@
             "strokeColor": "#000000",
             "backgroundColor": "#000000",
             "width": 5.934013224035896,
-            "height": 0.9460754045121756,
+            "height": 0.9460754045121755,
             "seed": 1315351507,
             "groupIds": [
               "6HvbRQ7rcyz0pJoJu5fsB"
@@ -819,7 +819,7 @@
             "strokeColor": "#000000",
             "backgroundColor": "#000000",
             "width": 9.41606000375753,
-            "height": 11.837194272125986,
+            "height": 11.837194272125984,
             "seed": 659469981,
             "groupIds": [],
             "frameId": null,
@@ -943,8 +943,8 @@
             "y": 278.63418129844956,
             "strokeColor": "#000000",
             "backgroundColor": "#000000",
-            "width": 7.108605253104342,
-            "height": 8.805862052095446,
+            "width": 7.10860525310434,
+            "height": 8.805862052095447,
             "seed": 485386227,
             "groupIds": [],
             "frameId": null,
@@ -4250,7 +4250,7 @@
             "strokeColor": "#1e1e1e",
             "backgroundColor": "transparent",
             "width": 45.25275200586024,
-            "height": 63.86136130813761,
+            "height": 63.8613613081376,
             "seed": 1638223822,
             "groupIds": [
               "HM050b0AML1d6UQiWsHri",
@@ -11848,7 +11848,7 @@
             "strokeColor": "#1e1e1e",
             "backgroundColor": "transparent",
             "width": 285.02755841803753,
-            "height": 218.73898281599813,
+            "height": 218.7389828159981,
             "seed": 509271780,
             "groupIds": [
               "gDgST9bMrhWTqx5zohJHY"
@@ -12591,7 +12591,7 @@
             "strokeColor": "#ffffff",
             "backgroundColor": "#ffffff",
             "width": 18.6226073918087,
-            "height": 45.037085155858556,
+            "height": 45.03708515585856,
             "seed": 899916985,
             "groupIds": [
               "e0tuIsJe85HgdYmib4ccr",
@@ -16222,7 +16222,7 @@
             "strokeColor": "#ffffff",
             "backgroundColor": "#ffffff",
             "width": 40.15905772143636,
-            "height": 3.0851405181211704,
+            "height": 3.08514051812117,
             "seed": 150158178,
             "groupIds": [
               "6n1QQlwn0HyTa3daFJv3M",
@@ -28020,7 +28020,8 @@
             "startBinding": {
               "elementId": "akzSSuTgHLoi0Ilj1Ig7r",
               "focus": -2.66970779504382,
-              "gap": 15.082648131741207
+              "gap": 15.082648131741207,
+              "fixedPoint": null
             },
             "endBinding": null,
             "lastCommittedPoint": null,
@@ -38109,7 +38110,7 @@
             "strokeColor": "#495057",
             "backgroundColor": "#ced4da",
             "width": 7.833933521858124,
-            "height": 7.923978734753132,
+            "height": 7.923978734753133,
             "seed": 118532458,
             "groupIds": [
               "CnJpN1Te9UZMFtUxdfj7_",
@@ -38822,7 +38823,7 @@
             "strokeColor": "#495057",
             "backgroundColor": "#ced4da",
             "width": 75.44645745680035,
-            "height": 23.965648782208692,
+            "height": 23.965648782208696,
             "seed": 562797494,
             "groupIds": [
               "zCMelFQ0seH-lcRrfov2H",
@@ -39660,7 +39661,7 @@
             "y": -610.5847860331774,
             "strokeColor": "#495057",
             "backgroundColor": "#495057",
-            "width": 16.679910465140818,
+            "width": 16.679910465140814,
             "height": 12.67339451086911,
             "seed": 1243818538,
             "groupIds": [
@@ -40778,7 +40779,7 @@
   "longPressDesktop": 500,
   "longPressMobile": 500,
   "isDebugMode": false,
-  "rank": "Bronze",
+  "rank": "Silver",
   "modifierKeyOverrides": [
     {
       "modifiers": [

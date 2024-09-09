@@ -40,6 +40,7 @@ todo
 txtbsp
 technischen
 tracert
+tut
 Klasse
 Konfigurationen
 Kugel
@@ -151,6 +152,10 @@ slightly
 steadily
 sjMKjdI
 sKtloNlx
+schneller
+sogenannte
+saqamA
+sgztj
 elektro
 erklärt
 ein
@@ -198,6 +203,9 @@ egal
 extremely
 easy
 eYs
+elektronegativen
+ergeben
+euK
 GPIO
 Gleichungne
 Gleichung
@@ -215,6 +223,7 @@ Graphen
 Graph
 Goofy
 GF
+GrsPdAb
 general
 gesetzte
 gedreht
@@ -285,6 +294,7 @@ going
 great
 greadually
 gT
+gänze
 purpose
 paare
 paaren
@@ -321,6 +331,7 @@ pi
 paralelogramm
 past
 period
+psDY
 input
 int
 immutable
@@ -386,6 +397,8 @@ omega
 on
 oE
 oWFDIvv
+ob
+otz
 float
 fReIwIlLiG
 für
@@ -422,6 +435,7 @@ fläche
 ford
 ferrari
 fach
+fiktiven
 Str
 Statisch
 Stifdrops
@@ -600,6 +614,7 @@ verschieben
 verstehe
 vorhanden
 verschiebung
+verschoben
 datetypen
 deppat
 dem
@@ -651,6 +666,7 @@ dasselbe
 droppt
 detusche
 degree
+daraus
 Dynamisch
 Dotierung
 Dioden
@@ -682,6 +698,7 @@ Das
 Düngemittel
 Dynamit
 Daher
+DBiisWv
 Bsp
 Boschis
 Bipolartransistor
@@ -719,6 +736,8 @@ Bestand
 Bedeutung
 BDr
 Bindungselektronen
+Bindungspartner
+Bt
 wichtig
 was
 wie
@@ -753,6 +772,8 @@ weita
 welche
 worky
 wswfVYNe
+wurde
+wären
 Lehrer
 Ladig
 Links
@@ -775,6 +796,7 @@ LPRy
 Layer
 Lichtwellenleiter
 Licht
+Ladungen
 unsere
 uns
 und
@@ -807,6 +829,7 @@ umgeformnt
 ursrping
 unknows
 unexpected
+uirt
 Noten
 Neutronen
 Nichtmetalle
@@ -873,6 +896,10 @@ happing
 has
 hardly
 hCZtcipM
+hin
+handelt
+hIQJ
+hiJdQIl
 Osko
 Orbitale
 Orbitalen
@@ -883,6 +910,10 @@ Osi
 OPTIONS
 OMG
 OSI
+Oxidotion
+Oxidiert
+Oxidotionszahlen
+Oxidotionsfaktor
 beeing
 background
 berechnen
@@ -1066,6 +1097,7 @@ Fläche
 Formel
 Fehler
 Formenl
+FkY
 EBA
 Elektronenpaarbindung
 Elektronen
@@ -1112,6 +1144,7 @@ Hü
 HÜ
 Halbwertszeit
 HNO
+HsK
 Chemisches
 Chemische
 Chlor
@@ -1127,6 +1160,7 @@ Club
 Characteren
 CS
 Continious
+Co
 Rechnen
 Richtungen
 Rafis
@@ -1150,6 +1184,11 @@ Rasenfläche
 Realisierung
 Radiowellen
 RWfkrQhs
+Reaktion
+Reduxreaktion
+Redox
+Reduktion
+Redoxreaktion
 aufstellen
 aus
 als
@@ -1274,6 +1313,8 @@ Anschlussdosen
 Amplitude
 Ablesen
 AVb
+AtGDnZrw
+AlbB
 PSE
 Protonen
 Problem
@@ -1332,6 +1373,7 @@ Zahlen
 Zerfallskonstante
 Zeiteinheit
 Zeit
+ZZqj
 Quantenobjekt
 Quadratische
 Quadrtische
@@ -1356,6 +1398,7 @@ kapazität
 kapazitiver
 kreis
 kosinussatz
+kR
 überlappen
 überfluten
 über
@@ -1453,6 +1496,9 @@ radiant
 rkZyqU
 right
 returned
+reduziert
+rauszufinde
+retSU
 Um
 Unterschied
 Ube
@@ -1469,6 +1515,7 @@ Unzählige
 Umkehrfunktion
 Unter
 Ugh
+UaX
 Verbindung
 Vieh
 Verbindungen
@@ -1490,6 +1537,7 @@ Vorhanden
 Verwende
 Verkabelung
 Verschiebung
+VS
 Überblick
 Übergang
 Übungsdaten
@@ -1505,9 +1553,11 @@ je
 ja
 jeweils
 jährlich
+jCQ
 yappen
 yappt
 yvT
+yZ
 quadrat
 quasi
 qu
