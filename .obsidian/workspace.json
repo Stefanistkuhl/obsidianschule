@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/Nawi/Redoxreaktionen.md",
+                "file": "Überlebenswichtige Strichlisten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/Nawi/Redoxreaktionen.md"
+                "file": "Überlebenswichtige Strichlisten.md"
               }
             }
           },
@@ -198,12 +198,12 @@
       "markdown-importer:Open format converter": true,
       "templates:Insert template": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false,
       "obsidian42-brat:BRAT": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d8d1c48a761fe6a2",
+  "active": "7d2a89ea7b2d59bd",
   "lastOpenFiles": [
     "Überlebenswichtige Strichlisten.md",
     "bilder/Redoxreaktionen 09-09-2024-56.excalidraw.md",
