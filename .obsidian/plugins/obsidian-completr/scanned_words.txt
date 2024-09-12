@@ -69,6 +69,7 @@ Komponenten
 Kupferkabel
 Kategorie
 Kurze
+Kde
 syt
 shittalken
 sEiD
@@ -167,6 +168,8 @@ schwachstelle
 sieht
 sehen
 spielt
+starten
+sichtbar
 elektro
 erklärt
 ein
@@ -219,6 +222,7 @@ ergeben
 euK
 einfache
 entsprechen
+ebensfalls
 GPIO
 Gleichungne
 Gleichung
@@ -422,6 +426,8 @@ oE
 oWFDIvv
 ob
 otz
+offen
+obigen
 float
 fReIwIlLiG
 für
@@ -459,6 +465,7 @@ ford
 ferrari
 fach
 fiktiven
+finden
 Str
 Statisch
 Stifdrops
@@ -532,6 +539,9 @@ Software
 Shit
 Shell
 Sobald
+Statusleiste
+Sinn
+Starmenü
 Tuple
 Teststoff
 Teilchen
@@ -551,6 +561,8 @@ Tabelle
 Tabble
 TFF
 Treiber
+Tiling
+Taskleiste
 mehere
 mit
 mutable
@@ -621,6 +633,9 @@ Wasser
 Wahl
 Welche
 Windoof
+Window
+Workspaces
+Windows
 verschienen
 verteilen
 voll
@@ -715,6 +730,7 @@ du
 dir
 darauf
 digitalem
+dient
 Dynamisch
 Dotierung
 Dioden
@@ -749,6 +765,8 @@ Daher
 DBiisWv
 Datenbanken
 De
+Desktop
+Dasselbe
 Bsp
 Boschis
 Bipolartransistor
@@ -796,6 +814,7 @@ Betriebssysteme
 Bild
 Benutzeroberflächen
 Bereite
+Benachrichtugugen
 wichtig
 was
 wie
@@ -1115,6 +1134,8 @@ MKgTNySv
 Muss
 Memmory
 Mainboard
+Manger
+Managers
 nawi
 nix
 nicht
@@ -1215,6 +1236,7 @@ EGgUm
 Exposures
 Exploitability
 Explorer
+Envirement
 Halbleiter
 Hauptsächlich
 Hantelförmig
@@ -1240,6 +1262,7 @@ HTL
 Hardware
 Hw
 Handy
+Hyprland
 Chemisches
 Chemische
 Chlor
@@ -1429,6 +1452,7 @@ Anwenders
 Android
 Arbeitsspeicher
 Applikationen
+Apps
 PSE
 Protonen
 Problem
@@ -1475,6 +1499,8 @@ Präsentation
 Peripherie
 Programme
 Pr
+Programm
+Plasma
 Zusammenfassung
 Zustand
 Zener
@@ -1645,6 +1671,8 @@ Unter
 Ugh
 UaX
 Unix
+Uhrzeit
+Und
 Verbindung
 Vieh
 Verbindungen
@@ -1679,6 +1707,7 @@ Joker
 Jahrgang
 Jahr
 JjxLRENE
+Jeweilige
 xd
 xss
 je
