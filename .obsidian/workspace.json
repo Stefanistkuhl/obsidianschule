@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "86ebd80f4d5178f6",
+            "id": "ad998a6003b7a3bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CVE.md",
+                "file": "3.Klasse/itsi/CVE aufgabe.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "43b2197681096587",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CVE.md",
+                "file": "3.Klasse/itsi/CVE aufgabe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CVE.md"
+                "file": "3.Klasse/itsi/CVE aufgabe.md"
               }
             }
           },
@@ -192,10 +193,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "86ebd80f4d5178f6",
+  "active": "ad998a6003b7a3bb",
   "lastOpenFiles": [
+    "3.Klasse/itsi/CVE.md",
+    "3.Klasse/itsi/CVE aufgabe.md",
     "Überlebenswichtige Strichlisten.md",
-    "CVE.md",
+    "templates/Itsi.md",
     "3.Klasse/itsi",
     "templates/Insy.md",
     "bilder/Redoxreaktionen 09-09-2024-56.excalidraw.md",
@@ -229,8 +232,6 @@
     "templates/Medientiger.md",
     "templates/mathe.md",
     "templates/Deutsch.md",
-    "templates/bwl.md",
-    "bilder/Untitled 12-06-2024-45.excalidraw.md",
     "bilder/Pasted image 20240522191440.png",
     "bilder/Pasted image 20240522191141.png",
     "bilder/Pasted image 20240522190747.png",

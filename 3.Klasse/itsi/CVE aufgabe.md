@@ -1,0 +1,30 @@
+---
+tags:
+  - 3te_Klasse
+  - itsi
+---
+- Finden sie 3 CVE Datenbanken
+	- https://www.cvedetails.com/
+	- https://www.cve.org/
+	- https://cve.mitre.org/
+- Welche Felder/Infomrationen können in CVEs gespeichert werden
+	- titel
+	- beschreibung
+	- serverety
+	- Base score
+	- CVSS Vector
+	- Exploitability Score
+	- Impact Score
+	- Score Source
+	- First Seen
+- Welche Angriffskategorien gibt es / sind bereits gegeben zb RCE
+	- Overflows
+	- Memmory Curroptions
+	- xss
+	- sql injection
+- Finden Sie eine CVE aus dem Jahr 2024 (Kategorie RCE) die für die Htl relvant sein könnte
+	- 
+- FindenSie eine weiter CVE aus 2025 mit einer beliebigen Kategorie die noch noch nicht gepachted wurde
+- Finden sie zur Sie zur HTL-22 RECE schwachstelle einen POC-(Proof of concept) beispiel Code und linken
+
+- abgabe per moodle als pdf

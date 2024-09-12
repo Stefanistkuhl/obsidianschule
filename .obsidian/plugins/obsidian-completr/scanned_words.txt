@@ -615,6 +615,7 @@ verstehe
 vorhanden
 verschiebung
 verschoben
+vulnerabilities
 datetypen
 deppat
 dem
@@ -1125,6 +1126,7 @@ EE
 EX
 Ebenene
 EGgUm
+Exposures
 Halbleiter
 Hauptsächlich
 Hantelförmig
@@ -1161,6 +1163,7 @@ Characteren
 CS
 Continious
 Co
+Common
 Rechnen
 Richtungen
 Rafis
