@@ -20,12 +20,24 @@
             }
           },
           {
-            "id": "ad998a6003b7a3bb",
+            "id": "f1b8dee9380aa495",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/itsi/CVE aufgabe.md",
+                "file": "3.Klasse/syt/syt aufgabe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fcf556718f2f706",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Klasse/Sysgrrrrtechnik/betriebsysthme wiederholung.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/itsi/CVE aufgabe.md",
+                "file": "3.Klasse/syt/syt aufgabe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/itsi/CVE aufgabe.md"
+                "file": "3.Klasse/syt/syt aufgabe.md"
               }
             }
           },
@@ -193,11 +205,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ad998a6003b7a3bb",
+  "active": "f1b8dee9380aa495",
   "lastOpenFiles": [
-    "3.Klasse/itsi/CVE.md",
-    "3.Klasse/itsi/CVE aufgabe.md",
+    "2.Klasse/Sysgrrrrtechnik/betriebsysthme wiederholung.md",
+    "3.Klasse/syt/syt aufgabe.md",
     "Überlebenswichtige Strichlisten.md",
+    "3.Klasse/syt",
+    "3.Klasse/itsi/CVE aufgabe.md",
+    "3.Klasse/itsi/CVE.md",
     "templates/Itsi.md",
     "3.Klasse/itsi",
     "templates/Insy.md",
@@ -224,14 +239,11 @@
     "3.Klasse/deutsch",
     "3.Klasse/mathe",
     "3.Klasse/Ipt/mathe",
-    "3.Klasse/itsi",
     "3.Klasse/Untitled.md",
     "templates/syt_elektro.md",
     "templates/netzwerktiger.md",
     "templates/Nawi.md",
     "templates/Medientiger.md",
-    "templates/mathe.md",
-    "templates/Deutsch.md",
     "bilder/Pasted image 20240522191440.png",
     "bilder/Pasted image 20240522191141.png",
     "bilder/Pasted image 20240522190747.png",

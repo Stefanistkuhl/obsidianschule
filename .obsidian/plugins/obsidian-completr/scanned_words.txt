@@ -42,6 +42,7 @@ technischen
 tracert
 tut
 titel
+tun
 Klasse
 Konfigurationen
 Kugel
@@ -67,6 +68,7 @@ Kondensator
 Komponenten
 Kupferkabel
 Kategorie
+Kurze
 syt
 shittalken
 sEiD
@@ -162,6 +164,9 @@ serverety
 score
 sql
 schwachstelle
+sieht
+sehen
+spielt
 elektro
 erklärt
 ein
@@ -212,6 +217,8 @@ eYs
 elektronegativen
 ergeben
 euK
+einfache
+entsprechen
 GPIO
 Gleichungne
 Gleichung
@@ -230,6 +237,7 @@ Graph
 Goofy
 GF
 GrsPdAb
+Gehäuse
 general
 gesetzte
 gedreht
@@ -514,6 +522,13 @@ Score
 Source
 Seen
 Sie
+Schreibe
+Situationen
+Suche
+Schnitstelle
+Software
+Shit
+Shell
 Tuple
 Teststoff
 Teilchen
@@ -532,6 +547,7 @@ Tabellen
 Tabelle
 Tabble
 TFF
+Treiber
 mehere
 mit
 mutable
@@ -571,6 +587,7 @@ muss
 medt
 mEg
 moodle
+mindestens
 Werte
 Wellen
 Wollen
@@ -600,6 +617,7 @@ Waldfläche
 Wasser
 Wahl
 Welche
+Windoof
 verschienen
 verteilen
 voll
@@ -635,6 +653,8 @@ vorhanden
 verschiebung
 verschoben
 vulnerabilities
+verschiedener
+versucht
 datetypen
 deppat
 dem
@@ -687,6 +707,10 @@ droppt
 detusche
 degree
 daraus
+darüber
+du
+dir
+darauf
 Dynamisch
 Dotierung
 Dioden
@@ -720,6 +744,7 @@ Dynamit
 Daher
 DBiisWv
 Datenbanken
+De
 Bsp
 Boschis
 Bipolartransistor
@@ -760,6 +785,13 @@ Bindungselektronen
 Bindungspartner
 Bt
 Base
+Betriebssystem
+Beispiele
+Betriebssystemen
+Betriebssysteme
+Bild
+Benutzeroberflächen
+Bereite
 wichtig
 was
 wie
@@ -796,6 +828,7 @@ worky
 wswfVYNe
 wurde
 wären
+warum
 Lehrer
 Ladig
 Links
@@ -819,6 +852,9 @@ Layer
 Lichtwellenleiter
 Licht
 Ladungen
+Linux
+Lüfter
+Laufwerke
 unsere
 uns
 und
@@ -883,6 +919,10 @@ Netzwerkkompenen
 Netzwerkkompnenten
 Netzwerkkompotnenten
 Netzwerkschränke
+Nenne
+Notiere
+Nutzen
+Netzteile
 hIeR
 höchsten
 hintere
@@ -922,6 +962,7 @@ hin
 handelt
 hIQJ
 hiJdQIl
+hast
 Osko
 Orbitale
 Orbitalen
@@ -937,6 +978,8 @@ Oxidiert
 Oxidotionszahlen
 Oxidotionsfaktor
 Overflows
+Os
+Ose
 beeing
 background
 berechnen
@@ -994,6 +1037,8 @@ beschreibung
 bereits
 beliebigen
 beispiel
+benutzt
+beschreibe
 Idi
 Ionenbindungen
 Ionisierungsenergie
@@ -1020,6 +1065,7 @@ Infrastruktur
 It
 Infomrationen
 Impact
+Ioshit
 Momente
 Massezahl
 Metalle
@@ -1064,6 +1110,7 @@ Mitteleuropas
 MKgTNySv
 Muss
 Memmory
+Mainboard
 nawi
 nix
 nicht
@@ -1132,6 +1179,8 @@ Finden
 Felder
 First
 FindenSie
+Festplatten
+File
 EBA
 Elektronenpaarbindung
 Elektronen
@@ -1161,6 +1210,7 @@ Ebenene
 EGgUm
 Exposures
 Exploitability
+Explorer
 Halbleiter
 Hauptsächlich
 Hantelförmig
@@ -1183,6 +1233,8 @@ HNO
 HsK
 Htl
 HTL
+Hardware
+Hw
 Chemisches
 Chemische
 Chlor
@@ -1205,6 +1257,8 @@ CVEs
 CVSS
 Curroptions
 Code
+Computer
+CPU
 Rechnen
 Richtungen
 Rafis
@@ -1235,6 +1289,7 @@ Reduktion
 Redoxreaktion
 RCE
 RECE
+Rolle
 aufstellen
 aus
 als
@@ -1363,6 +1418,12 @@ AVb
 AtGDnZrw
 AlbB
 Angriffskategorien
+Aufgabe
+Alltag
+Anwenders
+Android
+Arbeitsspeicher
+Applikationen
 PSE
 Protonen
 Problem
@@ -1405,6 +1466,10 @@ Perfect
 PHZNYQR
 POC
 Proof
+Präsentation
+Peripherie
+Programme
+Pr
 Zusammenfassung
 Zustand
 Zener
@@ -1450,6 +1515,8 @@ kreis
 kosinussatz
 kR
 könnte
+kennst
+kannst
 überlappen
 überfluten
 über
@@ -1517,6 +1584,7 @@ zV
 zunehmen
 zusammengefasst
 zuverlässigen
+zwei
 äußersten
 ändern
 äußeren
@@ -1598,6 +1666,7 @@ Vector
 Übungsdaten
 Übungsdurführung
 Übertragungsstrecke
+Überlege
 Jahre
 Joker
 Jahrgang
