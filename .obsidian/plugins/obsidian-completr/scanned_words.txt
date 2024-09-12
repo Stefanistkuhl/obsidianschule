@@ -170,6 +170,7 @@ sehen
 spielt
 starten
 sichtbar
+strukturierte
 elektro
 erklärt
 ein
@@ -407,6 +408,7 @@ itsi
 injection
 irgendetwas
 interagiert
+insy
 output
 oida
 oder
@@ -542,6 +544,7 @@ Sobald
 Statusleiste
 Sinn
 Starmenü
+Sammlung
 Tuple
 Teststoff
 Teilchen
@@ -767,6 +770,9 @@ Datenbanken
 De
 Desktop
 Dasselbe
+DB
+Daten
+Dokumente
 Bsp
 Boschis
 Bipolartransistor
@@ -878,6 +884,7 @@ Ladungen
 Linux
 Lüfter
 Laufwerke
+Löschen
 unsere
 uns
 und
@@ -1062,6 +1069,7 @@ beliebigen
 beispiel
 benutzt
 beschreibe
+bietet
 Idi
 Ionenbindungen
 Ionisierungsenergie
@@ -1237,6 +1245,7 @@ Exposures
 Exploitability
 Explorer
 Envirement
+Eintrage
 Halbleiter
 Hauptsächlich
 Hantelförmig
@@ -1287,6 +1296,7 @@ Curroptions
 Code
 Computer
 CPU
+Computersystem
 Rechnen
 Richtungen
 Rafis
@@ -1617,6 +1627,7 @@ zunehmen
 zusammengefasst
 zuverlässigen
 zwei
+zentrale
 äußersten
 ändern
 äußeren
@@ -1725,3 +1736,4 @@ qu
 quickly
 YUR
 XawbH
+Ändern

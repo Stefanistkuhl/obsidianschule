@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "038ff45fbc720bec",
+        "id": "ffdf6a741e73ca77",
         "type": "tabs",
         "children": [
           {
-            "id": "f1b8dee9380aa495",
+            "id": "27896d9ac33da39c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/syt/syt aufgabe.md",
+                "file": "Was ist eine Datenbank.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/syt/syt aufgabe.md",
+                "file": "Was ist eine Datenbank.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/syt/syt aufgabe.md"
+                "file": "Was ist eine Datenbank.md"
               }
             }
           },
@@ -180,14 +180,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f1b8dee9380aa495",
+  "active": "27896d9ac33da39c",
   "lastOpenFiles": [
+    "Geschichte der.md",
+    "Was ist eine Datenbank.md",
+    "3.Klasse/syt/syt aufgabe.md",
     "bilder/Pasted image 20240912143026.png",
     "bilder/Pasted image 20240912142937.png",
     "bilder/Pasted image 20240912142854.png",
     "bilder/Pasted image 20240912142648.png",
     "2.Klasse/Sysgrrrrtechnik/betriebsysthme wiederholung.md",
-    "3.Klasse/syt/syt aufgabe.md",
     "Überlebenswichtige Strichlisten.md",
     "3.Klasse/syt",
     "3.Klasse/itsi/CVE aufgabe.md",
@@ -220,14 +222,11 @@
     "3.Klasse/Ipt/mathe",
     "3.Klasse/Untitled.md",
     "templates/syt_elektro.md",
-    "templates/netzwerktiger.md",
-    "templates/Nawi.md",
     "bilder/Pasted image 20240522191440.png",
     "bilder/Pasted image 20240522191141.png",
     "bilder/Pasted image 20240522190747.png",
     "bilder/Pasted image 20240522190736.png",
     "bilder/Pasted image 20240522190624.png",
-    "bilder/Pasted image 20240430170942.png",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
     "Zeichnungen/Untitled.canvas"
   ]
