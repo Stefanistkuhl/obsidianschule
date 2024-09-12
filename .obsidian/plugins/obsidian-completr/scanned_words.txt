@@ -401,6 +401,8 @@ its
 insignificantly
 itsi
 injection
+irgendetwas
+interagiert
 output
 oida
 oder
@@ -529,6 +531,7 @@ Schnitstelle
 Software
 Shit
 Shell
+Sobald
 Tuple
 Teststoff
 Teilchen
@@ -711,6 +714,7 @@ darüber
 du
 dir
 darauf
+digitalem
 Dynamisch
 Dotierung
 Dioden
@@ -1235,6 +1239,7 @@ Htl
 HTL
 Hardware
 Hw
+Handy
 Chemisches
 Chemische
 Chlor
@@ -1489,6 +1494,7 @@ Zerfallskonstante
 Zeiteinheit
 Zeit
 ZZqj
+Zb
 Quantenobjekt
 Quadratische
 Quadrtische
@@ -1638,6 +1644,7 @@ Umkehrfunktion
 Unter
 Ugh
 UaX
+Unix
 Verbindung
 Vieh
 Verbindungen
