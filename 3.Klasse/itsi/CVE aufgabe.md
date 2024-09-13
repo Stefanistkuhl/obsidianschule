@@ -9,6 +9,8 @@ tags:
 	- https://nvd.nist.gov
 - Welche Felder können in CVEs befüllt werden, welche Informationen können gespeichert werden? (Erklärung jedes Feldes erforderlich!, Abkürzungen erklären)
 	- Beschreibung
+	- ID
+		- eindeutige Nummer für jede CVE
 	- Base Score 
 	- Base Severity
 	- CVSS Vector
@@ -18,7 +20,8 @@ tags:
 	- First Seen
 - Welche Angriffskategorien sind durch CVEs vorgegeben? (z.B.: RCE = Remote Code Execution; Erklärung jeder Kategorie erforderlich)
 	- Overflow (stack, heap, integer etc overflows) 
-		- Erlaubt es eigene Werte in den Arbeitsspeicher zu 
+		- Erlaubt es den Arbeitsspeicher eines Computers zu überschreiben, mit dem Ziel sie gezielt zu bearbeiten.
+			- [quelle](https://www.cloudflare.com/learning/security/threats/buffer-overflow/)
 	- Memory corruption
 	- XSS
 	- SQL Injection
