@@ -11,8 +11,34 @@
             "id": "7d011094b340c9b9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/syt/syt aufgabe.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e348e6d5789ac293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Klasse/Sysgrrrrtechnik/betriebsysthme wiederholung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1093be5675a3d502",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "bilder/Pasted image 20240912142854.png"
+              }
             }
           }
         ]
@@ -90,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3.Klasse/syt/syt aufgabe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "3.Klasse/syt/syt aufgabe.md"
+              }
             }
           },
           {
@@ -175,16 +204,16 @@
   },
   "active": "7d011094b340c9b9",
   "lastOpenFiles": [
+    "2.Klasse/Sysgrrrrtechnik/betriebsysthme wiederholung.md",
+    "bilder/Pasted image 20240912142854.png",
+    "3.Klasse/syt/syt aufgabe.md",
     "3.Klasse/itsi/CVE aufgabe.md",
     "Realtionales Datenbank Magment System.md",
     "Was ist eine Datenbank.md",
     "Geschichte der.md",
-    "3.Klasse/syt/syt aufgabe.md",
     "bilder/Pasted image 20240912143026.png",
     "bilder/Pasted image 20240912142937.png",
-    "bilder/Pasted image 20240912142854.png",
     "bilder/Pasted image 20240912142648.png",
-    "2.Klasse/Sysgrrrrtechnik/betriebsysthme wiederholung.md",
     "Überlebenswichtige Strichlisten.md",
     "3.Klasse/syt",
     "3.Klasse/itsi/CVE.md",
@@ -215,7 +244,6 @@
     "3.Klasse/mathe",
     "3.Klasse/Ipt/mathe",
     "3.Klasse/Untitled.md",
-    "templates/syt_elektro.md",
     "bilder/Pasted image 20240522191440.png",
     "bilder/Pasted image 20240522191141.png",
     "bilder/Pasted image 20240522190747.png",
