@@ -3,30 +3,32 @@ tags:
   - 3te_Klasse
   - itsi
 ---
-- Finden sie 3 CVE Datenbanken
+- Finden Sie 3 CVE-Datenbanken
 	- https://www.cvedetails.com/
 	- https://www.cve.org/
 	- https://nvd.nist.gov
-- Welche Felder/Infomrationen können in CVEs gespeichert werden
-	- titel
-	- beschreibung
-	- serverety
-	- Base score
+- Welche Felder können in CVEs befüllt werden, welche Informationen können gespeichert werden? (Erklärung jedes Feldes erforderlich!, Abkürzungen erklären)
+	- Beschreibung
+	- Base Score 
+	- Base Severity
 	- CVSS Vector
-	- Exploitability Score
-	- Impact Score
-	- Score Source
+	- Exploitability Score 
+	- Impact Score 
+	- Score Source 
 	- First Seen
-- Welche Angriffskategorien gibt es / sind bereits gegeben zb RCE
-	- Overflows
-	- Memmory Curroptions
-	- xss
-	- sql injection
-- Finden Sie eine CVE aus dem Jahr 2024 (Kategorie RCE) die für die Htl relvant sein könnte
+- Welche Angriffskategorien sind durch CVEs vorgegeben? (z.B.: RCE = Remote Code Execution; Erklärung jeder Kategorie erforderlich)
+	- Overflow (stack, heap, integer etc overflows) 
+		- Erlaubt es eigene Werte in den Arbeitsspeicher zu 
+	- Memory corruption
+	- XSS
+	- SQL Injection
+	- RCE
+	- Privilege escalation
+- Finden Sie ein bis zwei CVE aus dem Jahr 2024 mit der Kategorie RCE, die eine Relevanz für die HTL Donaustadt hat. (Welche Systeme hat die HTL22 und welche können Angegriffen werden) (Beschreibung und Link zu CVE erforderlich)
 	- [CVE-2024-43464](https://www.cvedetails.com/cve/CVE-2024-43464/ "CVE-2024-43464 security vulnerability details")
-- Finden Sie eine weiter CVE aus 2024 mit einer beliebigen Kategorie die noch noch nicht gepachted wurde
+- (Bonus) Finden Sie einen Beispiel Code (Proof of Concept) auf github.com o.ä. zu diesem Angriff
 	- 
-- Finden sie zur Sie zur HTL-22 RECE schwachstelle einen POC-(Proof of concept) beispiel Code und linken
-	- 
+- Finden Sie ein bis zwei CVE aus dem Jahr 2024 mit einer anderen Kategorie als RCE. Diese CVE darf noch keine Lösung / keinen Patch haben.(Beschreibung und Link zu CVE erforderlich)
+- (Bonus) Finden Sie ein CVE aus dem Jahr 2019 oder früher.Diese CVE darf noch keine Lösung / keinen Patch haben. (Beschreibung und Link zu CVE erforderlich)
 
 - abgabe per moodle als pdf
