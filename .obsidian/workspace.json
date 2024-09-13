@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5cfe2902179b34b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/syt/EMV.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Überlebenswichtige Strichlisten.md",
+                "file": "3.Klasse/syt/EMV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +152,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Überlebenswichtige Strichlisten.md"
+                "file": "3.Klasse/syt/EMV.md"
               }
             }
           },
@@ -180,8 +193,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "25a72062e6dd3d7c",
+  "active": "5cfe2902179b34b7",
   "lastOpenFiles": [
+    "Überlebenswichtige Strichlisten.md",
+    "3.Klasse/syt/EMV.md",
     "2.Klasse/Sysgrrrrtechnik/Überischt Festdatenspeicher.md",
     "3.Klasse/syt/syt aufgabe.md",
     "2.Klasse/Sysgrrrrtechnik/betriebsysthme wiederholung.md",
@@ -193,7 +208,6 @@
     "bilder/Pasted image 20240912143026.png",
     "bilder/Pasted image 20240912142937.png",
     "bilder/Pasted image 20240912142648.png",
-    "Überlebenswichtige Strichlisten.md",
     "3.Klasse/syt",
     "3.Klasse/itsi/CVE.md",
     "templates/Itsi.md",
@@ -222,7 +236,6 @@
     "3.Klasse/deutsch",
     "3.Klasse/mathe",
     "3.Klasse/Ipt/mathe",
-    "3.Klasse/Untitled.md",
     "bilder/Pasted image 20240522191440.png",
     "bilder/Pasted image 20240522191141.png",
     "bilder/Pasted image 20240522190747.png",
