@@ -224,6 +224,7 @@ euK
 einfache
 entsprechen
 ebensfalls
+eintragen
 GPIO
 Gleichungne
 Gleichung
@@ -317,6 +318,7 @@ gänze
 gespeichert
 gegeben
 gepachted
+gespeicherte
 purpose
 paare
 paaren
@@ -430,6 +432,7 @@ ob
 otz
 offen
 obigen
+organisiert
 float
 fReIwIlLiG
 für
@@ -545,6 +548,8 @@ Statusleiste
 Sinn
 Starmenü
 Sammlung
+Sicherung
+Speicherung
 Tuple
 Teststoff
 Teilchen
@@ -639,6 +644,7 @@ Windoof
 Window
 Workspaces
 Windows
+Werkzeuge
 verschienen
 verteilen
 voll
@@ -676,6 +682,7 @@ verschoben
 vulnerabilities
 verschiedener
 versucht
+verwalten
 datetypen
 deppat
 dem
@@ -821,6 +828,7 @@ Bild
 Benutzeroberflächen
 Bereite
 Benachrichtugugen
+Benutzung
 wichtig
 was
 wie
@@ -1010,6 +1018,7 @@ Oxidotionsfaktor
 Overflows
 Os
 Ose
+Optimierung
 beeing
 background
 berechnen
@@ -1214,6 +1223,7 @@ First
 FindenSie
 Festplatten
 File
+From
 EBA
 Elektronenpaarbindung
 Elektronen
@@ -1246,6 +1256,7 @@ Exploitability
 Explorer
 Envirement
 Eintrage
+Erstellen
 Halbleiter
 Hauptsächlich
 Hantelförmig
@@ -1328,6 +1339,7 @@ Redoxreaktion
 RCE
 RECE
 Rolle
+RDBMS
 aufstellen
 aus
 als
@@ -1463,6 +1475,7 @@ Android
 Arbeitsspeicher
 Applikationen
 Apps
+Alle
 PSE
 Protonen
 Problem
@@ -1707,6 +1720,7 @@ Verkabelung
 Verschiebung
 VS
 Vector
+Vorkehrungen
 Überblick
 Übergang
 Übungsdaten
@@ -1737,3 +1751,4 @@ quickly
 YUR
 XawbH
 Ändern
+öndern
