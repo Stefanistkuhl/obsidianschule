@@ -6,7 +6,7 @@ tags:
 - Finden sie 3 CVE Datenbanken
 	- https://www.cvedetails.com/
 	- https://www.cve.org/
-	- https://cve.mitre.org/
+	- https://nvd.nist.gov
 - Welche Felder/Infomrationen können in CVEs gespeichert werden
 	- titel
 	- beschreibung
@@ -23,8 +23,10 @@ tags:
 	- xss
 	- sql injection
 - Finden Sie eine CVE aus dem Jahr 2024 (Kategorie RCE) die für die Htl relvant sein könnte
+	- [CVE-2024-43464](https://www.cvedetails.com/cve/CVE-2024-43464/ "CVE-2024-43464 security vulnerability details")
+- Finden Sie eine weiter CVE aus 2024 mit einer beliebigen Kategorie die noch noch nicht gepachted wurde
 	- 
-- FindenSie eine weiter CVE aus 2025 mit einer beliebigen Kategorie die noch noch nicht gepachted wurde
 - Finden sie zur Sie zur HTL-22 RECE schwachstelle einen POC-(Proof of concept) beispiel Code und linken
+	- 
 
 - abgabe per moodle als pdf
