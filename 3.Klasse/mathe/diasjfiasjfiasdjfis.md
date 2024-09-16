@@ -34,7 +34,9 @@ a)
 y=\frac{x²}{x-1}
 (x²):(x-1)=x
 (x²+x)
-x
+x*1=x=1
+
+
 ```
 
 d)
@@ -68,3 +70,5 @@ b)
 
 
 ```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
