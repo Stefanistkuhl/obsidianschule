@@ -2217,6 +2217,7 @@ mgqK
 mMK
 myH
 mUb
+magnetische
 Werte
 Wellen
 Wollen
@@ -2533,6 +2534,7 @@ vMw
 vZg
 vrR
 vZw
+verträglichkeit
 datetypen
 deppat
 dem
@@ -4850,6 +4852,8 @@ EsA
 Eoq
 ELN
 EyZ
+EMV
+Elektromagentische
 Halbleiter
 Hauptsächlich
 Hantelförmig
