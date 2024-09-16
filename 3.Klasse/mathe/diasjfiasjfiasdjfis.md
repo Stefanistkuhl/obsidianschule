@@ -33,9 +33,11 @@ a)
 
 y=\frac{x²}{x-1}
 (x²):(x-1)=x
--(x²-x)
-
+(x²-x)
+-x
 ```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 
 d)
 ```math
