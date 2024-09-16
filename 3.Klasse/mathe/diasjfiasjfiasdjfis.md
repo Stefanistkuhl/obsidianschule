@@ -33,20 +33,38 @@ a)
 
 y=\frac{x²}{x-1}
 (x²):(x-1)=x
-(x²-x)
--x
+(x²+x)
+x
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 
 d)
 ```math
 ||{"id":1581286767132}||
 
-
+y=\frac{x^2-2}{2(x-2)}
+y=\frac{x^2-2}{2x-4}
+(x²-2):(2x-4)=
+2x
 ```
 
 2.23
 a)
+```math
+||{"id":702177955070}||
+
+\lim_{ x \to \infty } \frac{\sqrt{ x²+1 }}{x}=1
+```
+
 b)
+```math
+||{"id":458273688883}||
+
+\lim_{ x \to \infty } \frac{3+2x}{1+2x}=1
+```
+
 2.25
+```math
+||{"id":166064668530}||
+
+
+```
