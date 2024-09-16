@@ -49,6 +49,8 @@ y=\frac{x^2-2}{2x-4}
 2x
 ```
 
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
+
 2.23
 a)
 ```math
@@ -65,10 +67,21 @@ b)
 ```
 
 2.25
+a)
 ```math
+W=G*M*m(\frac{1}{r}-\frac{1}{r+h})
 ||{"id":166064668530}||
 
+\lim_{ h \to \infty } \frac{1}{r+h}=0
+G*M*m* \frac{1}{r}=10.25*10^7J
 
 ```
+b)
+```math
+||{"id":264661389779}||
 
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
+W=G*M*m(\frac{1}{r}-\frac{1}{r+h})
+W_{\infty}=\frac{m*v²}{2}=\frac{G*M*m}{r}
+v=\sqrt{  \frac{2GM}{r}} \approx 40 250 kmh
+
+```
