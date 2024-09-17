@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/mathe/diasjfiasjfiasdjfis.md",
+                "file": "Realtionales Datenbank Magment System.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59e90e181ad9c28d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Typen von Datenbanken.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89e615ce45dfd299",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relationale Datenbank Systeme.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/mathe/diasjfiasjfiasdjfis.md",
+                "file": "Relationale Datenbank Systeme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/mathe/diasjfiasjfiasdjfis.md"
+                "file": "Relationale Datenbank Systeme.md"
               }
             }
           },
@@ -180,10 +205,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "25a72062e6dd3d7c",
+  "active": "89e615ce45dfd299",
   "lastOpenFiles": [
-    "Überlebenswichtige Strichlisten.md",
+    "Typen von Datenbanken.md",
+    "Relationale Datenbank Systeme.md",
+    "Realtionales Datenbank Magment System.md",
     "3.Klasse/mathe/diasjfiasjfiasdjfis.md",
+    "Überlebenswichtige Strichlisten.md",
     "3.Klasse/mathe",
     "3.Klasse/syt/EMV.md",
     "2.Klasse/Sysgrrrrtechnik/Überischt Festdatenspeicher.md",
@@ -191,7 +219,6 @@
     "2.Klasse/Sysgrrrrtechnik/betriebsysthme wiederholung.md",
     "bilder/Pasted image 20240912142854.png",
     "3.Klasse/itsi/CVE aufgabe.md",
-    "Realtionales Datenbank Magment System.md",
     "Was ist eine Datenbank.md",
     "Geschichte der.md",
     "bilder/Pasted image 20240912143026.png",
@@ -214,8 +241,6 @@
     "randoom ahh sachen zum anschauen.md",
     "3.Klasse/Ipt/something something ipt.md",
     "bilder/Pasted image 20240906124136.png",
-    "3.Klasse/nwt/Tracert.md",
-    "Zeichnungen/DR06-09-2024-26.excalidraw.md",
     "3.Klasse/sew",
     "3.Klasse/ggp",
     "3.Klasse/medt",

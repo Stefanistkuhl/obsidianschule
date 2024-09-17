@@ -49,8 +49,6 @@ y=\frac{x^2-2}{2x-4}
 2x
 ```
 
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
-
 2.23
 a)
 ```math
