@@ -1921,6 +1921,7 @@ SQd
 SayS
 SWWy
 SqX
+Splaten
 Tuple
 Teststoff
 Teilchen
@@ -2034,6 +2035,7 @@ TVF
 Tll
 TIC
 TC
+Tupel
 mehere
 mit
 mutable
@@ -2841,6 +2843,8 @@ DcWjrzzjn
 DdV
 DEiG
 DkE
+Datenstruktur
+Datensatz
 Bsp
 Boschis
 Bipolartransistor
@@ -4854,6 +4858,8 @@ ELN
 EyZ
 EMV
 Elektromagentische
+Eigenschaten
+Eintrag
 Halbleiter
 Hauptsächlich
 Hantelförmig
@@ -5257,6 +5263,7 @@ RrswI
 Rkv
 RyE
 RQIh
+Relation
 aufstellen
 aus
 als
@@ -5611,6 +5618,7 @@ Axo
 AWn
 ASe
 ArX
+Attribute
 PSE
 Protonen
 Problem
