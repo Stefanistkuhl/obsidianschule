@@ -383,6 +383,7 @@ KbV
 KgM
 Klassen
 Kind
+Klein
 syt
 shittalken
 sEiD
@@ -1241,6 +1242,8 @@ gFD
 gezielt
 github
 genommen
+gegensätzliche
+gegenüberstellen
 purpose
 paare
 paaren
@@ -2187,6 +2190,10 @@ Size
 Spaltern
 Severity
 Systeme
+Schönheit
+Stabreim
+Schwer
+Sätze
 Tuple
 Teststoff
 Teilchen
@@ -2708,6 +2715,10 @@ Wnx
 WDYPUI
 Wraa
 Widths
+Wind
+Wetter
+Wort
+Wörtern
 verschienen
 verteilen
 voll
@@ -3090,6 +3101,7 @@ dUS
 details
 diesem
 darf
+denseleben
 Dynamisch
 Dotierung
 Dioden
@@ -3778,6 +3790,7 @@ LyV
 LAi
 LastChar
 Lösung
+Liebe
 unsere
 uns
 und
@@ -4701,6 +4714,7 @@ bcKss
 bezeihungen
 befüllt
 bearbeiten
+beginnen
 Idi
 Ionenbindungen
 Ionisierungsenergie
@@ -5253,6 +5267,7 @@ nhh
 nhJ
 nhKF
 nph
+neu
 FFB
 Feldeffekttransistor
 Feldeffekt
@@ -6312,6 +6327,7 @@ aHN
 acG
 aQV
 ahL
+aller
 Ausbeute
 Atomaufbau
 Arbeiten
@@ -6503,6 +6519,13 @@ Abkürzungen
 Angegriffen
 Angriff
 Anmerkung
+Allegorie
+Abstrakten
+Aphrodite
+Armor
+Alliteration
+Anapher
+Antithese
 PSE
 Protonen
 Problem
@@ -8118,6 +8141,8 @@ Vus
 Vhv
 VKys
 Verschiedenen
+Verbildlichung
+Venus
 Überblick
 Übergang
 Übungsdaten

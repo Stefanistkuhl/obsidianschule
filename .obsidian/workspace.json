@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "59e90e181ad9c28d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/mathe/diasjfiasjfiasdjfis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "77945c3cc1913b9e",
             "type": "leaf",
             "state": {
@@ -53,6 +41,14 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "a56a7e4ca02ec902",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -131,7 +127,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/deutsch/Stilfiguren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,9 +170,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "3.Klasse/deutsch/Stilfiguren.md"
-              }
+              "state": {}
             }
           },
           {
@@ -217,12 +210,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "972fc8a2c3d3202c",
+  "active": "a56a7e4ca02ec902",
   "lastOpenFiles": [
-    "3.Klasse/mathe/diasjfiasjfiasdjfis.md",
     "3.Klasse/deutsch/Stilfiguren.md",
-    "Realtionales Datenbank Magment System.md",
     "3.Klasse/itsi/CVE aufgabe.md",
+    "Realtionales Datenbank Magment System.md",
+    "3.Klasse/mathe/Stefan Fürst Mathe hü 2.md",
     "3.Klasse/deutsch",
     "Typen von Datenbanken.md",
     "2.Klasse/Mathe/Hü 7 Stefan Fürst 2BHIT.pdf",

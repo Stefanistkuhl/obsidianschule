@@ -35,18 +35,10 @@ y=\frac{x²}{x-1}=1
 x²:(x-1)=x
 -x²-x
 0+x
-
+x+\frac{x²}{x-1}=x+1
 ```
 d)
-```math
-||{"id":1581286767132}||
-
-y=\frac{x^2-2}{2(x-2)}
-y=\frac{x^2-2}{2x-4}
-(x²-2):(2x-4)=
-2x
-```
-
+ich pack das nicht
 2.23
 a)
 ```math

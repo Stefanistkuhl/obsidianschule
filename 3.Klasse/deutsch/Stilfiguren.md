@@ -8,4 +8,7 @@ tags:
 	- Venus/Aphrodite → Schönheit
 	- Armor → Liebe 
 - Alliteration (Stabreim)
-	- 
+	- Wind und Wetter, aller Anfang ist Schwer
+- Anapher (mehere Sätze beginnen mit dem Wort oder denseleben Wörtern)
+- Antithese (gegensätzliche Begriffe gegenüberstellen)
+	- Klein gegen groß, alt gegen neu
