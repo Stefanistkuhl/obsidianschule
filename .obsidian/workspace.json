@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -141,7 +141,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/insy/Datenbank-Entwurf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,9 +184,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "3.Klasse/insy/Datenbank-Entwurf.md"
-              }
+              "state": {}
             }
           },
           {
@@ -222,21 +219,19 @@
       "markdown-importer:Open format converter": true,
       "templates:Insert template": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian42-brat:BRAT": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d897006988c26f91",
+  "active": "48fdd10029dcc367",
   "lastOpenFiles": [
-    "Zeichnungen/DR18-09-2024-59.excalidraw.md",
+    "3.Klasse/itsi/CVE aufgabe.md",
     "3.Klasse/insy/Datenbank-Entwurf.md",
+    "Zeichnungen/DR18-09-2024-59.excalidraw.md",
     "3.Klasse/deutsch/Stilfiguren.md",
     "3.Klasse/insy/Was ist eine Datenbank.md",
     "3.Klasse/insy/Typen von Datenbanken.md",
     "3.Klasse/insy/Relationale Datenbank Systeme.md",
     "3.Klasse/insy/Realtionales Datenbank Magment System.md",
-    "3.Klasse/itsi/CVE aufgabe.md",
     "3.Klasse/mathe/Stefan Fürst Mathe hü 2.md",
     "3.Klasse/deutsch",
     "2.Klasse/Mathe/Hü 7 Stefan Fürst 2BHIT.pdf",

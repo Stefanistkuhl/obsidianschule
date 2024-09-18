@@ -12,6 +12,7 @@ tags:
 	- ID
 		- eindeutige Nummer für jede CVE
 	- Base Score 
+		- 
 	- Base Severity
 	- CVSS Vector
 	- Exploitability Score 
