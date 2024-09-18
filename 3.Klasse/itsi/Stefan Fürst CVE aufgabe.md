@@ -56,9 +56,10 @@ tags:
 - (Bonus) Finden Sie einen Beispiel Code (Proof of Concept) auf github.com o.ä. zu diesem Angriff
 	- [poc zu CVE-2024-21413](https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability)
 - Finden Sie ein bis zwei CVE aus dem Jahr 2024 mit einer anderen Kategorie als RCE. Diese CVE darf noch keine Lösung / keinen Patch haben.(Beschreibung und Link zu CVE erforderlich)
-	-  [CVE-2024-41819](https://www.cvedetails.com/cve/CVE-2024-41819/ "CVE-2024-41819 security vulnerability details")
-		- XSS schwachstelle in "Note Mark", die es erlaubt beliebiges JS durch einen URL payload in einem Markdowndokument auszuführen.
-	- 
-		- 
+	-  [CVE-2024-31190](https://www.cvedetails.com/cve/CVE-2024-31190/ "CVE-2024-31190 security vulnerability details")
+		- out of bounds Read vulnerability in libfluid in der Programmroutine fluid_msg::of13::MultipartReplyMeterConfig::unpack
+	-  [CVE-2024-31193](https://www.cvedetails.com/cve/CVE-2024-31193/ "CVE-2024-31193 security vulnerability details")
+		- Dasseble aber in der fluid_msg::of13::MultipartReplyGroup::unpack routine.
+	- Zwei Mal so gut wie dasselbe nehmen ist zwar billig, aber nachdem ich ca 30 mal hintereinander in der Beschreibung prior to Version x gelesen habe habe ich es nun trotzdem gemacht.
 - (Bonus) Finden Sie ein CVE aus dem Jahr 2019 oder früher. Diese CVE darf noch keine Lösung / keinen Patch haben. (Beschreibung und Link zu CVE erforderlich)
-	- 
+	- ![[Pasted image 20240918185504.png]]![[Pasted image 20240918185521.png]]
