@@ -647,6 +647,8 @@ sCP
 startxref
 stack
 security
+software
+systems
 elektro
 erklärt
 ein
@@ -860,6 +862,11 @@ erforderlich
 eindeutige
 escalation
 externe
+erkennungsmerkmal
+einzigartig
+exploits
+exploited
+exploiten
 GPIO
 Gleichungne
 Gleichung
@@ -1018,6 +1025,7 @@ GdQ
 GcX
 GcV
 GLJ
+Gefahr
 general
 gesetzte
 gedreht
@@ -1248,6 +1256,7 @@ gegensätzliche
 gegenüberstellen
 getrennt
 graphis
+genauer
 purpose
 paare
 paaren
@@ -1419,6 +1428,7 @@ pan
 pVM
 pQH
 poZ
+potenziellen
 input
 int
 immutable
@@ -1612,6 +1622,7 @@ iJk
 iDD
 integer
 interne
+information
 output
 oida
 oder
@@ -2204,6 +2215,16 @@ Schichten
 Schichtenmodel
 Schüler
 Schuhnmmern
+Selbsterklärend
+Scoring
+Schützen
+Schwäche
+Schwachstelle
+Schaden
+Solution
+Schlägt
+Site
+Scripting
 Tuple
 Teststoff
 Teilchen
@@ -2558,6 +2579,7 @@ mBzd
 meisten
 müssen
 meines
+mitgeholfen
 Werte
 Wellen
 Wollen
@@ -2732,6 +2754,8 @@ Wetter
 Wort
 Wörtern
 Welt
+Weakness
+Welcher
 verschienen
 verteilen
 voll
@@ -2921,6 +2945,7 @@ vNg
 vorgegeben
 vulnerability
 verschiedene
+verfügbaren
 datetypen
 deppat
 dem
@@ -3115,6 +3140,10 @@ details
 diesem
 darf
 denseleben
+davor
+discovred
+darunterliegende
+darzustellen
 Dynamisch
 Dotierung
 Dioden
@@ -3291,6 +3320,9 @@ Datein
 Datenmodell
 Datenbank
 Datengramm
+Decription
+Details
+Date
 Bsp
 Boschis
 Bipolartransistor
@@ -3479,6 +3511,11 @@ Beschreibung
 Bonus
 Benutzeroberfläche
 Bezeihung
+Besitzer
+Betreiber
+Betroffen
+Beschreibt
+Beheben
 wichtig
 was
 wie
@@ -3652,6 +3689,9 @@ wvXH
 wME
 waren
 wissen
+weißt
+wert
+wege
 Lehrer
 Ladig
 Links
@@ -3815,6 +3855,8 @@ Liebe
 Lehrpersonen
 Laibner
 Lehrperson
+Lösungen
+Leute
 unsere
 uns
 und
@@ -4005,6 +4047,7 @@ uiW
 urR
 ueCU
 unterrichtet
+updated
 Noten
 Neutronen
 Nichtmetalle
@@ -4747,6 +4790,8 @@ bearbeiten
 beginnen
 bedeutsam
 besteht
+bevor
+benötigt
 Idi
 Ionenbindungen
 Ionisierungsenergie
@@ -5122,6 +5167,7 @@ MTIr
 MathJax
 Memory
 Model
+Moment
 nawi
 nix
 nicht
@@ -5303,6 +5349,7 @@ nhKF
 nph
 neu
 notwending
+nennen
 FFB
 Feldeffekttransistor
 Feldeffekt
@@ -5665,6 +5712,10 @@ Ebenen
 Entitiy
 Einrichtung
 Entität
+Einschätzung
+Einsichten
+Enumeration
+Exploit
 Halbleiter
 Hauptsächlich
 Hantelförmig
@@ -5989,6 +6040,8 @@ CIDFontType
 CIDSystemInfo
 Computers
 Concept
+CWE
+Corss
 Rechnen
 Richtungen
 Rafis
@@ -6148,6 +6201,7 @@ Relevanz
 Richtigen
 Relationship
 Raum
+Remediation
 aufstellen
 aus
 als
@@ -6376,6 +6430,7 @@ acG
 aQV
 ahL
 aller
+aktiv
 Ausbeute
 Atomaufbau
 Arbeiten
@@ -6581,6 +6636,9 @@ Anwenderprograme
 Abbild
 Ausschnitts
 Augenfarbe
+Affected
+Authentication
+Acknowledgments
 PSE
 Protonen
 Problem
@@ -6757,6 +6815,8 @@ PdK
 Privilege
 Patch
 Pfade
+Patches
+Platz
 Zusammenfassung
 Zustand
 Zener
@@ -7202,6 +7262,7 @@ kBJ
 kDx
 keinen
 konzeptionelle
+kategorisiert
 überlappen
 überfluten
 über
@@ -7211,6 +7272,7 @@ konzeptionelle
 üf
 üX
 überschreiben
+übers
 logischerweise
 links
 lookup
@@ -7396,6 +7458,7 @@ lrB
 luH
 lwE
 logisches
+lokal
 conf
 chroloid
 chlor
@@ -7902,6 +7965,7 @@ rsW
 rJic
 rausgefunden
 realen
+requirements
 Um
 Unterschied
 Ube
@@ -8203,6 +8267,8 @@ Verschiedenen
 Verbildlichung
 Venus
 Videos
+Vulnerability
+Vendor
 Überblick
 Übergang
 Übungsdaten
@@ -8355,6 +8421,7 @@ JbN
 JpN
 Jb
 JCh
+JAHR
 xd
 xss
 xe
@@ -8519,6 +8586,7 @@ xpW
 xEku
 xyOOM
 xref
+xxxxx
 je
 ja
 jeweils

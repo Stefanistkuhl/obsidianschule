@@ -22,19 +22,25 @@ tags:
 		- Einsichten vom Besitzer/Betreiber der Betroffen Software.
 	- Patch/Remediation
 		- Details zu verfügbaren Patches, oder wege sich davor zu Schützen bevor es einen Patch gibt.
-	- Date discovred and updated
+	- Date discovred and upd
 		- Selbsterklärend
 	- CWE ID
-		- Common Weakness Enumeration (CWE) ID kategorisiert die Schwach
+		- Common Weakness Enumeration (CWE) ID kategorisiert die Schwäche des exploits, dient um das darunterliegende Problem genauer darzustellen.
 	- Exploit status
+		- Ob die Schwachstelle im Moment aktiv exploited wird oder nicht.
 	- Authentication requirements
+		- Welcher Zugriff benötigt wird, um die Schwachstelle zu exploiten, zb lokal oder übers Internet.
 	- Impact
+		- Beschreibt den potenziellen Schaden.
 	- Solution 
+		- Schlägt Lösungen zum Beheben vor.
+	- Acknowledgments
+		- Platz um Leute, die mitgeholfen haben zu nennen.
 - Welche Angriffskategorien sind durch CVEs vorgegeben? (z.B.: RCE = Remote Code Execution; Erklärung jeder Kategorie erforderlich)
 	- Overflow (stack, heap, integer etc overflows) 
 		- Erlaubt es den Arbeitsspeicher eines Computers zu überschreiben, mit dem Ziel sie gezielt zu bearbeiten. [quelle](https://www.cloudflare.com/learning/security/threats/buffer-overflow/)
-	- Memory corruption
 	- XSS
+		- (Cross Site Scripting) 
 	- SQL Injection
 	- RCE
 	- Privilege escalation

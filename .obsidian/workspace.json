@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8c742a561fde3c78",
+        "id": "523c43808f42a648",
         "type": "tabs",
         "children": [
           {
-            "id": "25a72062e6dd3d7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/insy/Realtionales Datenbank Magment System.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77945c3cc1913b9e",
+            "id": "8602fccee97689c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,11 +180,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "77945c3cc1913b9e",
+  "active": "8602fccee97689c2",
   "lastOpenFiles": [
+    "3.Klasse/3te Klasse.md",
+    "3.Klasse/itsi/Stefan Fürst CVE aufgabe.md",
     "3.Klasse/deutsch/Stilfiguren.md",
     "3.Klasse/insy/Datenbank-Entwurf.md",
-    "3.Klasse/itsi/Stefan Fürst CVE aufgabe.md",
     "Zeichnungen/DR18-09-2024-59.excalidraw.md",
     "3.Klasse/insy/Was ist eine Datenbank.md",
     "3.Klasse/insy/Typen von Datenbanken.md",
@@ -230,7 +218,6 @@
     "3.Klasse/englisch/things for graphs.md",
     "3.Klasse/englisch/Wörter synome erklärungen ig.md",
     "3.Klasse/englisch/Englisch.md",
-    "templates/Englisch.md",
     "bilder/Pasted image 20240906124136.png",
     "3.Klasse/sew",
     "3.Klasse/ggp",

@@ -146,6 +146,13 @@
         "a": 1,
         "rgb": 5810430
       }
+    },
+    {
+      "query": "tag:#3te_Klasse  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
     }
   ],
   "collapse-display": false,
@@ -158,6 +165,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 228,
-  "scale": 0.2142242573669059,
+  "scale": 0.300338745117188,
   "close": false
 }
