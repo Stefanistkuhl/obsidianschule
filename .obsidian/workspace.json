@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Realtionales Datenbank Magment System.md",
+                "file": "3.Klasse/insy/Realtionales Datenbank Magment System.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,11 +44,25 @@
             }
           },
           {
-            "id": "a56a7e4ca02ec902",
+            "id": "d897006988c26f91",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/insy/Datenbank-Entwurf.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48fdd10029dcc367",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Zeichnungen/DR18-09-2024-59.excalidraw.md"
+              }
             }
           }
         ],
@@ -127,6 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3.Klasse/insy/Datenbank-Entwurf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +185,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "3.Klasse/insy/Datenbank-Entwurf.md"
+              }
             }
           },
           {
@@ -210,16 +227,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a56a7e4ca02ec902",
+  "active": "d897006988c26f91",
   "lastOpenFiles": [
+    "Zeichnungen/DR18-09-2024-59.excalidraw.md",
+    "3.Klasse/insy/Datenbank-Entwurf.md",
     "3.Klasse/deutsch/Stilfiguren.md",
+    "3.Klasse/insy/Was ist eine Datenbank.md",
+    "3.Klasse/insy/Typen von Datenbanken.md",
+    "3.Klasse/insy/Relationale Datenbank Systeme.md",
+    "3.Klasse/insy/Realtionales Datenbank Magment System.md",
     "3.Klasse/itsi/CVE aufgabe.md",
-    "Realtionales Datenbank Magment System.md",
     "3.Klasse/mathe/Stefan Fürst Mathe hü 2.md",
     "3.Klasse/deutsch",
-    "Typen von Datenbanken.md",
     "2.Klasse/Mathe/Hü 7 Stefan Fürst 2BHIT.pdf",
-    "Relationale Datenbank Systeme.md",
     "3.Klasse/insy",
     "Überlebenswichtige Strichlisten.md",
     "3.Klasse/mathe",
@@ -228,7 +248,6 @@
     "3.Klasse/syt/syt aufgabe.md",
     "2.Klasse/Sysgrrrrtechnik/betriebsysthme wiederholung.md",
     "bilder/Pasted image 20240912142854.png",
-    "Was ist eine Datenbank.md",
     "Geschichte der.md",
     "bilder/Pasted image 20240912143026.png",
     "bilder/Pasted image 20240912142937.png",
@@ -246,7 +265,6 @@
     "3.Klasse/englisch/Wörter synome erklärungen ig.md",
     "3.Klasse/englisch/Englisch.md",
     "templates/Englisch.md",
-    "3.Klasse/englisch/Zeiten ReallyMad.md",
     "bilder/Pasted image 20240906124136.png",
     "3.Klasse/sew",
     "3.Klasse/ggp",

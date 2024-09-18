@@ -858,6 +858,7 @@ eWay
 erforderlich
 eindeutige
 escalation
+externe
 GPIO
 Gleichungne
 Gleichung
@@ -1607,6 +1608,7 @@ iEm
 iJk
 iDD
 integer
+interne
 output
 oida
 oder
@@ -2194,6 +2196,8 @@ Schönheit
 Stabreim
 Schwer
 Sätze
+Schichten
+Schichtenmodel
 Tuple
 Teststoff
 Teilchen
@@ -3273,6 +3277,8 @@ DBS
 Datenschemata
 Dokumenten
 Donaustadt
+Datenmodells
+Datein
 Bsp
 Boschis
 Bipolartransistor
@@ -4519,6 +4525,8 @@ Orientierte
 Objekten
 Orienteirte
 Overflow
+Organisation
+Ordner
 beeing
 background
 berechnen
@@ -5621,6 +5629,8 @@ EOF
 Eltern
 Execution
 Erlaubt
+Enwurf
+Ebene
 Halbleiter
 Hauptsächlich
 Hantelförmig
@@ -6526,6 +6536,8 @@ Armor
 Alliteration
 Anapher
 Antithese
+Audios
+Ansicht
 PSE
 Protonen
 Problem
@@ -6701,6 +6713,7 @@ PXp
 PdK
 Privilege
 Patch
+Pfade
 Zusammenfassung
 Zustand
 Zener
@@ -7145,6 +7158,7 @@ kbg
 kBJ
 kDx
 keinen
+konzeptionelle
 überlappen
 überfluten
 über
@@ -8143,6 +8157,7 @@ VKys
 Verschiedenen
 Verbildlichung
 Venus
+Videos
 Überblick
 Übergang
 Übungsdaten
@@ -8152,6 +8167,7 @@ Venus
 Üs
 ÜXF
 ÜwM
+Überlegungen
 Jahre
 Joker
 Jahrgang
