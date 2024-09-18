@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "77945c3cc1913b9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/itsi/CVE aufgabe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/mathe/diasjfiasjfiasdjfis.md",
+                "file": "3.Klasse/itsi/CVE aufgabe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/mathe/diasjfiasjfiasdjfis.md"
+                "file": "3.Klasse/itsi/CVE aufgabe.md"
               }
             }
           },
@@ -193,14 +205,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "59e90e181ad9c28d",
+  "active": "77945c3cc1913b9e",
   "lastOpenFiles": [
+    "3.Klasse/mathe/diasjfiasjfiasdjfis.md",
     "Typen von Datenbanken.md",
     "2.Klasse/Mathe/Hü 7 Stefan Fürst 2BHIT.pdf",
     "Relationale Datenbank Systeme.md",
     "3.Klasse/insy",
     "Realtionales Datenbank Magment System.md",
-    "3.Klasse/mathe/diasjfiasjfiasdjfis.md",
     "Überlebenswichtige Strichlisten.md",
     "3.Klasse/mathe",
     "3.Klasse/syt/EMV.md",

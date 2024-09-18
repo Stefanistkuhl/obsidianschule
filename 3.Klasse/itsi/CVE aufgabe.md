@@ -18,6 +18,7 @@ tags:
 	- Impact Score 
 	- Score Source 
 	- First Seen
+- Anmerkung zu den obigen Feldern bei Verschiedenen Datenbanken sind verschiedene Felder und ich habe nicht rausgefunden ,welche die Richtigen sind, also habe ich von cvedetails.com sie genommen, da die meisten Felder da waren.
 - Welche Angriffskategorien sind durch CVEs vorgegeben? (z.B.: RCE = Remote Code Execution; Erklärung jeder Kategorie erforderlich)
 	- Overflow (stack, heap, integer etc overflows) 
 		- Erlaubt es den Arbeitsspeicher eines Computers zu überschreiben, mit dem Ziel sie gezielt zu bearbeiten.

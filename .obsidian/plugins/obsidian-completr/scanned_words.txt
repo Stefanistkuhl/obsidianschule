@@ -643,6 +643,8 @@ sgym
 seeGN
 sCP
 startxref
+stack
+security
 elektro
 erklärt
 ein
@@ -852,6 +854,9 @@ eLo
 esQ
 eKZFn
 eWay
+erforderlich
+eindeutige
+escalation
 GPIO
 Gleichungne
 Gleichung
@@ -1233,6 +1238,9 @@ gyRJ
 gbp
 gFC
 gFD
+gezielt
+github
+genommen
 purpose
 paare
 paaren
@@ -1595,6 +1603,7 @@ iMJ
 iEm
 iJk
 iDD
+integer
 output
 oida
 oder
@@ -1780,6 +1789,7 @@ oHBX
 opxta
 oBm
 opxra
+overflows
 float
 fReIwIlLiG
 für
@@ -1957,6 +1967,7 @@ fHzs
 fgg
 fGqh
 flexible
+früher
 Str
 Statisch
 Stifdrops
@@ -2174,6 +2185,8 @@ StemV
 Supplement
 Size
 Spaltern
+Severity
+Systeme
 Tuple
 Teststoff
 Teilchen
@@ -2525,6 +2538,7 @@ mOe
 mHO
 mbj
 mBzd
+meisten
 Werte
 Wellen
 Wollen
@@ -2880,6 +2894,9 @@ vUMeoWg
 vdk
 vBI
 vNg
+vorgegeben
+vulnerability
+verschiedene
 datetypen
 deppat
 dem
@@ -3070,6 +3087,9 @@ dca
 dXG
 dEE
 dUS
+details
+diesem
+darf
 Dynamisch
 Dotierung
 Dioden
@@ -3240,6 +3260,7 @@ DescendantFonts
 DBS
 Datenschemata
 Dokumenten
+Donaustadt
 Bsp
 Boschis
 Bipolartransistor
@@ -3424,6 +3445,8 @@ BYU
 BaseFont
 Beziehungen
 Bäumen
+Beschreibung
+Bonus
 wichtig
 was
 wie
@@ -3595,6 +3618,7 @@ wTwT
 wfn
 wvXH
 wME
+waren
 Lehrer
 Ladig
 Links
@@ -3753,6 +3777,7 @@ LMY
 LyV
 LAi
 LastChar
+Lösung
 unsere
 uns
 und
@@ -4137,6 +4162,7 @@ NWp
 NTh
 NWR
 NkO
+Nummer
 hIeR
 höchsten
 hintere
@@ -4313,6 +4339,7 @@ htR
 hrx
 hto
 hDS
+heap
 Osko
 Orbitale
 Orbitalen
@@ -4478,6 +4505,7 @@ Oblekt
 Orientierte
 Objekten
 Orienteirte
+Overflow
 beeing
 background
 berechnen
@@ -4671,6 +4699,8 @@ bAF
 bvxk
 bcKss
 bezeihungen
+befüllt
+bearbeiten
 Idi
 Ionenbindungen
 Ionisierungsenergie
@@ -4853,6 +4883,7 @@ Identity
 InD
 ItalicAngle
 Info
+Injection
 Momente
 Massezahl
 Metalle
@@ -5042,6 +5073,7 @@ MQAv
 MSK
 MTIr
 MathJax
+Memory
 nawi
 nix
 nicht
@@ -5385,6 +5417,8 @@ Flags
 FontFile
 FAAAAA
 Form
+Feldes
+Feldern
 EBA
 Elektronenpaarbindung
 Elektronen
@@ -5570,6 +5604,8 @@ EcKxc
 EAAAAA
 EOF
 Eltern
+Execution
+Erlaubt
 Halbleiter
 Hauptsächlich
 Hantelförmig
@@ -5890,6 +5926,8 @@ CharProcs
 CapHeight
 CIDFontType
 CIDSystemInfo
+Computers
+Concept
 Rechnen
 Richtungen
 Rafis
@@ -6044,6 +6082,9 @@ Registry
 Regular
 Root
 Relationale
+Remote
+Relevanz
+Richtigen
 aufstellen
 aus
 als
@@ -6458,6 +6499,10 @@ AIt
 AxK
 Ascent
 Adobe
+Abkürzungen
+Angegriffen
+Angriff
+Anmerkung
 PSE
 Protonen
 Problem
@@ -6631,6 +6676,8 @@ Pbggg
 POw
 PXp
 PdK
+Privilege
+Patch
 Zusammenfassung
 Zustand
 Zener
@@ -7074,6 +7121,7 @@ kYO
 kbg
 kBJ
 kDx
+keinen
 überlappen
 überfluten
 über
@@ -7082,6 +7130,7 @@ kDx
 üba
 üf
 üX
+überschreiben
 logischerweise
 links
 lookup
@@ -7434,6 +7483,9 @@ cwb
 cGq
 cYc
 cbc
+corruption
+com
+cvedetails
 zusammen
 zw
 zu
@@ -7767,6 +7819,7 @@ riY
 rBuP
 rsW
 rJic
+rausgefunden
 Um
 Unterschied
 Ube
@@ -8064,6 +8117,7 @@ VGW
 Vus
 Vhv
 VKys
+Verschiedenen
 Überblick
 Übergang
 Übungsdaten
@@ -8506,6 +8560,9 @@ jfAN
 jvt
 jql
 jTE
+jedes
+jede
+jeder
 yappen
 yappt
 yvT
@@ -9129,6 +9186,7 @@ XuJ
 Xvc
 XRH
 XHeight
+XSS
 Ändern
 Äx
 öndern
