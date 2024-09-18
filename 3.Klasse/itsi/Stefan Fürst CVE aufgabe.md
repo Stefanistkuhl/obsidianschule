@@ -54,11 +54,11 @@ tags:
 		- RCE in Sharepoint
 	- Die HTL 22 hat sämtliche Microsoft/Windows Systeme wie Outlook Sharepoint etc. Mehr als die Services die man benutzt kann ich nicht sagen, da ich das Netzwerk nicht gescannt habe.
 - (Bonus) Finden Sie einen Beispiel Code (Proof of Concept) auf github.com o.ä. zu diesem Angriff
-	- [poc](https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability)
+	- [poc zu CVE-2024-21413](https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability)
 - Finden Sie ein bis zwei CVE aus dem Jahr 2024 mit einer anderen Kategorie als RCE. Diese CVE darf noch keine Lösung / keinen Patch haben.(Beschreibung und Link zu CVE erforderlich)
 	-  [CVE-2024-41819](https://www.cvedetails.com/cve/CVE-2024-41819/ "CVE-2024-41819 security vulnerability details")
-		- XSS schwachstelle in "Note Mark", die es erlaubt beliebiges JS durch einen URL payload in einem Markdowndokument erlaubt
-	-  [CVE-2024-40422](https://www.cvedetails.com/cve/CVE-2024-40422/ "CVE-2024-40422 security vulnerability details")
+		- XSS schwachstelle in "Note Mark", die es erlaubt beliebiges JS durch einen URL payload in einem Markdowndokument auszuführen.
+	- 
+		- 
 - (Bonus) Finden Sie ein CVE aus dem Jahr 2019 oder früher. Diese CVE darf noch keine Lösung / keinen Patch haben. (Beschreibung und Link zu CVE erforderlich)
 	- 
-
