@@ -31,14 +31,12 @@ a)
 ```math
 ||{"id":1017300411637}||
 
-y=\frac{x²}{x-1}
-(x²):(x-1)=x
-(x²+x)
-x*1=x=1
-
+y=\frac{x²}{x-1}=1
+x²:(x-1)=x
+-x²-x
+0+x
 
 ```
-
 d)
 ```math
 ||{"id":1581286767132}||
@@ -54,7 +52,8 @@ a)
 ```math
 ||{"id":702177955070}||
 
-\lim_{ x \to \infty } \frac{\sqrt{ x²+1 }}{x}=1
+\frac{\sqrt{ x²+1 }}{x}=\frac{x+1}{x}
+\lim_{ x \to \infty } \frac{x+1}{x}=1
 ```
 
 b)
