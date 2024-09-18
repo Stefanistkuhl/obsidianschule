@@ -8,22 +8,31 @@ tags:
 	- https://www.cve.org/
 	- https://nvd.nist.gov
 - Welche Felder können in CVEs befüllt werden, welche Informationen können gespeichert werden? (Erklärung jedes Feldes erforderlich!, Abkürzungen erklären)
-	- Beschreibung
-	- ID
-		- eindeutige Nummer für jede CVE
-	- Base Score 
-		- 
-	- Base Severity
-	- CVSS Vector
-	- Exploitability Score 
-	- Impact Score 
-	- Score Source 
-	- First Seen
-- Anmerkung zu den obigen Feldern bei Verschiedenen Datenbanken sind verschiedene Felder und ich habe nicht rausgefunden ,welche die Richtigen sind, also habe ich von cvedetails.com sie genommen, da die meisten Felder da waren.
+	- CVE identifier
+		- CVE-JAHR-xxxxx erkennungsmerkmal der CVE (namen sind einzigartig) [quelle für die gesamten felder](https://www.spiceworks.com/it-security/vulnerability-management/articles/what-are-cve/#_003)
+	- Severity
+		- Einschätzung der Gefahr von der CVE.
+	- Decription 
+		- Selbsterklärend
+	- CVSS score 
+		- CVSS (Common Vulnerability Scoring System) weißt der CVE einen wert von 1 bis 10 zu.
+	- Affected software/systems
+		- Selbsterklärend
+	- Vendor information
+		- Einsichten vom Besitzer/Betreiber der Betroffen Software.
+	- Patch/Remediation
+		- Details zu verfügbaren Patches, oder wege sich davor zu Schützen bevor es einen Patch gibt.
+	- Date discovred and updated
+		- Selbsterklärend
+	- CWE ID
+		- Common Weakness Enumeration (CWE) ID kategorisiert die Schwach
+	- Exploit status
+	- Authentication requirements
+	- Impact
+	- Solution 
 - Welche Angriffskategorien sind durch CVEs vorgegeben? (z.B.: RCE = Remote Code Execution; Erklärung jeder Kategorie erforderlich)
 	- Overflow (stack, heap, integer etc overflows) 
-		- Erlaubt es den Arbeitsspeicher eines Computers zu überschreiben, mit dem Ziel sie gezielt zu bearbeiten.
-			- [quelle](https://www.cloudflare.com/learning/security/threats/buffer-overflow/)
+		- Erlaubt es den Arbeitsspeicher eines Computers zu überschreiben, mit dem Ziel sie gezielt zu bearbeiten. [quelle](https://www.cloudflare.com/learning/security/threats/buffer-overflow/)
 	- Memory corruption
 	- XSS
 	- SQL Injection

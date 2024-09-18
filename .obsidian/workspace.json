@@ -25,48 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/itsi/CVE aufgabe.md",
+                "file": "3.Klasse/itsi/Stefan Fürst CVE aufgabe.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "972fc8a2c3d3202c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/deutsch/Stilfiguren.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d897006988c26f91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/insy/Datenbank-Entwurf.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48fdd10029dcc367",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Zeichnungen/DR18-09-2024-59.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3.Klasse/itsi/Stefan Fürst CVE aufgabe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "3.Klasse/itsi/Stefan Fürst CVE aufgabe.md"
+              }
             }
           },
           {
@@ -219,15 +188,17 @@
       "markdown-importer:Open format converter": true,
       "templates:Insert template": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "48fdd10029dcc367",
+  "active": "77945c3cc1913b9e",
   "lastOpenFiles": [
-    "3.Klasse/itsi/CVE aufgabe.md",
-    "3.Klasse/insy/Datenbank-Entwurf.md",
-    "Zeichnungen/DR18-09-2024-59.excalidraw.md",
     "3.Klasse/deutsch/Stilfiguren.md",
+    "3.Klasse/insy/Datenbank-Entwurf.md",
+    "3.Klasse/itsi/Stefan Fürst CVE aufgabe.md",
+    "Zeichnungen/DR18-09-2024-59.excalidraw.md",
     "3.Klasse/insy/Was ist eine Datenbank.md",
     "3.Klasse/insy/Typen von Datenbanken.md",
     "3.Klasse/insy/Relationale Datenbank Systeme.md",

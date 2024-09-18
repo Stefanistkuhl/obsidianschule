@@ -5,4 +5,4 @@ tags:
 ---
 > Common vulnerabilities & Exposures
 
-![[CVE aufgabe]]
+![[Stefan Fürst CVE aufgabe]]

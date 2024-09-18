@@ -384,6 +384,7 @@ KgM
 Klassen
 Kind
 Klein
+Kürzel
 syt
 shittalken
 sEiD
@@ -1245,6 +1246,8 @@ github
 genommen
 gegensätzliche
 gegenüberstellen
+getrennt
+graphis
 purpose
 paare
 paaren
@@ -1973,6 +1976,7 @@ fgg
 fGqh
 flexible
 früher
+festgehalten
 Str
 Statisch
 Stifdrops
@@ -2198,6 +2202,8 @@ Schwer
 Sätze
 Schichten
 Schichtenmodel
+Schüler
+Schuhnmmern
 Tuple
 Teststoff
 Teilchen
@@ -2550,6 +2556,8 @@ mHO
 mbj
 mBzd
 meisten
+müssen
+meines
 Werte
 Wellen
 Wollen
@@ -2723,6 +2731,7 @@ Wind
 Wetter
 Wort
 Wörtern
+Welt
 verschienen
 verteilen
 voll
@@ -3279,6 +3288,9 @@ Dokumenten
 Donaustadt
 Datenmodells
 Datein
+Datenmodell
+Datenbank
+Datengramm
 Bsp
 Boschis
 Bipolartransistor
@@ -3465,6 +3477,8 @@ Beziehungen
 Bäumen
 Beschreibung
 Bonus
+Benutzeroberfläche
+Bezeihung
 wichtig
 was
 wie
@@ -3637,6 +3651,7 @@ wfn
 wvXH
 wME
 waren
+wissen
 Lehrer
 Ladig
 Links
@@ -3797,6 +3812,9 @@ LAi
 LastChar
 Lösung
 Liebe
+Lehrpersonen
+Laibner
+Lehrperson
 unsere
 uns
 und
@@ -3986,6 +4004,7 @@ uvT
 uiW
 urR
 ueCU
+unterrichtet
 Noten
 Neutronen
 Nichtmetalle
@@ -4527,6 +4546,9 @@ Orienteirte
 Overflow
 Organisation
 Ordner
+OPerationen
+Onjekten
+Objekte
 beeing
 background
 berechnen
@@ -4723,6 +4745,8 @@ bezeihungen
 befüllt
 bearbeiten
 beginnen
+bedeutsam
+besteht
 Idi
 Ionenbindungen
 Ionisierungsenergie
@@ -4906,6 +4930,7 @@ InD
 ItalicAngle
 Info
 Injection
+Inventar
 Momente
 Massezahl
 Metalle
@@ -5096,6 +5121,7 @@ MSK
 MTIr
 MathJax
 Memory
+Model
 nawi
 nix
 nicht
@@ -5276,6 +5302,7 @@ nhJ
 nhKF
 nph
 neu
+notwending
 FFB
 Feldeffekttransistor
 Feldeffekt
@@ -5442,6 +5469,7 @@ FAAAAA
 Form
 Feldes
 Feldern
+Festlegen
 EBA
 Elektronenpaarbindung
 Elektronen
@@ -5631,6 +5659,12 @@ Execution
 Erlaubt
 Enwurf
 Ebene
+ERM
+Entity
+Ebenen
+Entitiy
+Einrichtung
+Entität
 Halbleiter
 Hauptsächlich
 Hantelförmig
@@ -5788,6 +5822,8 @@ HNv
 HtU
 HDF
 Hierachische
+Handymake
+Herr
 Chemisches
 Chemische
 Chlor
@@ -6110,6 +6146,8 @@ Relationale
 Remote
 Relevanz
 Richtigen
+Relationship
+Raum
 aufstellen
 aus
 als
@@ -6538,6 +6576,11 @@ Anapher
 Antithese
 Audios
 Ansicht
+Ansi
+Anwenderprograme
+Abbild
+Ausschnitts
+Augenfarbe
 PSE
 Protonen
 Problem
@@ -7352,6 +7395,7 @@ lbw
 lrB
 luH
 lwE
+logisches
 conf
 chroloid
 chlor
@@ -7857,6 +7901,7 @@ rBuP
 rsW
 rJic
 rausgefunden
+realen
 Um
 Unterschied
 Ube
