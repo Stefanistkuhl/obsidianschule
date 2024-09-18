@@ -1,0 +1,11 @@
+---
+tags:
+  - d
+  - sprache
+  - 3te_Klasse
+---
+- Allegorie (Verbildlichung von Abstrakten)
+	- Venus/Aphrodite → Schönheit
+	- Armor → Liebe 
+- Alliteration (Stabreim)
+	- 
