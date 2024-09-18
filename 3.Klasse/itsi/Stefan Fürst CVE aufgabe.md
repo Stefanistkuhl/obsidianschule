@@ -21,8 +21,8 @@ tags:
 	- Vendor information
 		- Einsichten vom Besitzer/Betreiber der Betroffen Software.
 	- Patch/Remediation
-		- Details zu verfügbaren Patches, oder wege sich davor zu Schützen bevor es einen Patch gibt.
-	- Date discovred and upd
+		- Details zu verfügbaren Patches, oder Wege sich davor zu Schützen bevor es einen Patch gibt.
+	- Date discovred and updated
 		- Selbsterklärend
 	- CWE ID
 		- Common Weakness Enumeration (CWE) ID kategorisiert die Schwäche des exploits, dient um das darunterliegende Problem genauer darzustellen.
@@ -40,15 +40,20 @@ tags:
 	- Overflow (stack, heap, integer etc overflows) 
 		- Erlaubt es den Arbeitsspeicher eines Computers zu überschreiben, mit dem Ziel sie gezielt zu bearbeiten. [quelle](https://www.cloudflare.com/learning/security/threats/buffer-overflow/)
 	- XSS
-		- (Cross Site Scripting) 
+		- (Cross Site Scripting) Fehler in Eingabevalidation erlauben es, in eine Eingabe javascript code auf der Seite auszuführen, was viele Möglichekiten bietet, da JS zugriff auf den HTML DOM hat. [quelle](https://www.youtube.com/watch?v=EoaDgUgS6QA)
 	- SQL Injection
+		- Ähnlich wie XSS, aber dieses mal erlaubt es, mit der darunter liegenden Datenbank zu interagieren, durch injectete Commands.
 	- RCE
+		- Code kann ohne Eingabe des Nutzers auf einem Computer in einem entfernen Netz ausgeführt werden. [quelle](https://www.crowdstrike.com/cybersecurity-101/remote-code-execution-rce/)
 	- Privilege escalation
+		- Attacke mit dem Ziel mehr Rechte zu erlangen, als man haben sollte. Zb ohne das root Passwort zu kennen root rechte nutzen zu können.
 - Finden Sie ein bis zwei CVE aus dem Jahr 2024 mit der Kategorie RCE, die eine Relevanz für die HTL Donaustadt hat. (Welche Systeme hat die HTL22 und welche können Angegriffen werden) (Beschreibung und Link zu CVE erforderlich)
+	- [CVE-2024-38263](https://www.cvedetails.com/cve/CVE-2024-38263/ "CVE-2024-38263 security vulnerability details")
 	- [CVE-2024-43464](https://www.cvedetails.com/cve/CVE-2024-43464/ "CVE-2024-43464 security vulnerability details")
+	- Die HTL 22 hat
 - (Bonus) Finden Sie einen Beispiel Code (Proof of Concept) auf github.com o.ä. zu diesem Angriff
 	- 
 - Finden Sie ein bis zwei CVE aus dem Jahr 2024 mit einer anderen Kategorie als RCE. Diese CVE darf noch keine Lösung / keinen Patch haben.(Beschreibung und Link zu CVE erforderlich)
-- (Bonus) Finden Sie ein CVE aus dem Jahr 2019 oder früher.Diese CVE darf noch keine Lösung / keinen Patch haben. (Beschreibung und Link zu CVE erforderlich)
+- (Bonus) Finden Sie ein CVE aus dem Jahr 2019 oder früher. Diese CVE darf noch keine Lösung / keinen Patch haben. (Beschreibung und Link zu CVE erforderlich)
 
 - abgabe per moodle als pdf
