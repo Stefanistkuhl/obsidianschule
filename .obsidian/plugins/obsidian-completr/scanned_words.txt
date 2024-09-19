@@ -223,6 +223,7 @@ tvG
 tMP
 trotzdem
 thing
+tCIId
 Klasse
 Konfigurationen
 Kugel
@@ -402,6 +403,8 @@ Kwt
 KDTh
 KRv
 KdY
+Kinderwagen
+KCH
 syt
 shittalken
 sEiD
@@ -671,6 +674,7 @@ suY
 sollte
 sagen
 sew
+subklasse
 elektro
 erklärt
 ein
@@ -898,6 +902,9 @@ erlangen
 eZMQhAl
 etwas
 existiert
+erweiterung
+enKncqID
+erweitert
 GPIO
 Gleichungne
 Gleichung
@@ -1300,6 +1307,10 @@ gAMA
 gml
 gescannt
 gelesen
+gEjAt
+gGY
+geneierren
+geneeiert
 purpose
 paare
 paaren
@@ -1678,6 +1689,7 @@ iCn
 interagieren
 injectete
 ihr
+ixrmkvo
 output
 oida
 oder
@@ -1867,6 +1879,7 @@ overflows
 onX
 ohcE
 out
+oLrwAfLS
 float
 fReIwIlLiG
 für
@@ -2050,6 +2063,8 @@ fch
 flc
 ffn
 fluid
+freigegeben
+fhBWJRci
 Str
 Statisch
 Stifdrops
@@ -2295,6 +2310,13 @@ SJw
 Seite
 Sharepoint
 Services
+Sitze
+Stadtbahn
+Schnellbahn
+Sitzfarbe
+Stellplätze
+SoEhRtz
+SchnellBahn
 Tuple
 Teststoff
 Teilchen
@@ -3435,6 +3457,8 @@ DsTmb
 DZc
 DOM
 Dasseble
+DPlEep
+DIz
 Bsp
 Boschis
 Bipolartransistor
@@ -3811,6 +3835,7 @@ weißt
 wert
 wege
 wGK
+wUC
 Lehrer
 Ladig
 Links
@@ -3981,6 +4006,7 @@ LRZ
 LTx
 LDD
 LIrA
+LUbLgntN
 unsere
 uns
 und
@@ -4378,6 +4404,7 @@ NrN
 Nutzers
 NICHT
 NqQphI
+NGJJDt
 hIeR
 höchsten
 hintere
@@ -4738,6 +4765,7 @@ Outlook
 Objekt
 OafYp
 Object
+Oizo
 beeing
 background
 berechnen
@@ -5132,6 +5160,8 @@ Ibs
 IDATO
 IvsC
 IPZZ
+IjhuWLU
+IAbssm
 Momente
 Massezahl
 Metalle
@@ -5333,6 +5363,7 @@ MultipartReplyMeterConfig
 MultipartReplyGroup
 Methods
 Methoden
+MSsN
 nawi
 nix
 nicht
@@ -5899,6 +5930,7 @@ Eingabevalidation
 Eingabe
 Eine
 EUk
+EIZY
 Halbleiter
 Hauptsächlich
 Hantelförmig
@@ -6062,6 +6094,10 @@ Hmh
 HOC
 HTML
 HlDD
+HLx
+HDEoGgul
+Hat
+HIrachie
 Chemisches
 Chemische
 Chlor
@@ -6236,6 +6272,7 @@ Cji
 Cross
 Commands
 Class
+Child
 Rechnen
 Richtungen
 Rafis
@@ -6640,6 +6677,10 @@ aoX
 afn
 auszuführen
 ausgeführt
+aHrQx
+acS
+andersrum
+attribute
 Ausbeute
 Atomaufbau
 Arbeiten
@@ -6857,6 +6898,9 @@ Azk
 Attacke
 AELXHIU
 Attributes
+Abhängen
+Addyar
+AnzahlderSitze
 PSE
 Protonen
 Problem
@@ -7041,6 +7085,7 @@ Passwort
 Programmroutine
 Pounter
 Pointer
+Parent
 Zusammenfassung
 Zustand
 Zener
@@ -7191,6 +7236,8 @@ Zusammenfassen
 Zzb
 Zbz
 Zwf
+Zeitanzeigen
+Zugreifen
 Quantenobjekt
 Quadratische
 Quadrtische
@@ -7498,6 +7545,7 @@ kennen
 kopiert
 kMb
 kHvmj
+klasse
 überlappen
 überfluten
 über
@@ -8222,6 +8270,7 @@ requirements
 rXk
 root
 routine
+ram
 Um
 Unterschied
 Ube
@@ -8384,6 +8433,9 @@ UhV
 USpl
 Udy
 UvorRMT
+Ubahn
+UEDiy
+Ubhan
 Verbindung
 Vieh
 Verbindungen
@@ -8535,6 +8587,7 @@ Vendor
 Vcc
 Version
 VcKa
+VCIQcqLi
 Überblick
 Übergang
 Übungsdaten
@@ -8692,6 +8745,8 @@ JFf
 JaB
 JWw
 JAIyr
+JDzMRtDS
+JSqdJcPq
 xd
 xss
 xe
@@ -9639,6 +9694,8 @@ XDt
 XLp
 XpZ
 Xff
+Xudc
+XmZ
 Ändern
 Äx
 Ähnlich

@@ -13,24 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/sew/oop things.md",
+                "file": "3.Klasse/sew/inheretance.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0586511a1ec6705b",
+            "id": "0fdd372e37da4bcb",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "bilder/ladig yappt über stuff oop 19-09-2024-09.excalidraw.md"
+                "file": "bilder/inheretance 19-09-2024-28.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bilder/ladig yappt über stuff oop 19-09-2024-09.excalidraw.md",
+                "file": "3.Klasse/sew/inheretance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "bilder/ladig yappt über stuff oop 19-09-2024-09.excalidraw.md"
+                "file": "3.Klasse/sew/inheretance.md"
               }
             }
           },
@@ -191,12 +190,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "0586511a1ec6705b",
+  "active": "f559c7d4d7063bc7",
   "lastOpenFiles": [
-    "Excalidraw/Template.excalidraw.md",
+    "bilder/inheretance 19-09-2024-28.excalidraw.md",
+    "3.Klasse/sew/inheretance.md",
     "bilder/ladig yappt über stuff oop 19-09-2024-09.excalidraw.md",
     "3.Klasse/sew/oop things.md",
-    "templates/sew.md",
+    "templates/3kl sew.md",
+    "Excalidraw/Template.excalidraw.md",
     "3.Klasse/sew",
     "3.Klasse/itsi/Stefan Fürst CVE aufgabe.md",
     "bilder/Pasted image 20240918185809.png",
@@ -232,8 +233,6 @@
     "3.Klasse/itsi",
     "templates/Insy.md",
     "bilder/Redoxreaktionen 09-09-2024-56.excalidraw.md",
-    "3.Klasse/Nawi/Redoxreaktionen.md",
-    "bilder/Redoxreaktionen 09-09-2024-13.excalidraw.md",
     "bilder/Pasted image 20240906124136.png",
     "3.Klasse/sew",
     "3.Klasse/ggp",
