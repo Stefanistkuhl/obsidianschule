@@ -4,29 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9bdf9e1ebc090687",
+        "id": "edd8b06f7072a47d",
         "type": "tabs",
         "children": [
           {
-            "id": "f559c7d4d7063bc7",
+            "id": "318a4f2b60a96198",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/sew/inheretance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0fdd372e37da4bcb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/inheretance 19-09-2024-28.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -104,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/sew/inheretance.md",
+                "file": "3.Klasse/ggp/3kl GGP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +135,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/sew/inheretance.md"
+                "file": "3.Klasse/ggp/3kl GGP.md"
               }
             }
           },
@@ -190,54 +176,54 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "f559c7d4d7063bc7",
+  "active": "7d2a89ea7b2d59bd",
   "lastOpenFiles": [
-    "bilder/inheretance 19-09-2024-28.excalidraw.md",
+    "3.Klasse/ggp",
+    "bilder/Pasted image 20240919134221.png",
+    "3.Klasse/ggp/3kl GGP.md",
+    "3.Klasse/itsi/Klassifizierunsstufen.md",
+    "3.Klasse/itsi/Welche Arten von Daten gibt es?.md",
+    "3.Klasse/itsi/3kl itsi.md",
+    "3.Klasse/itsi/Daten.md",
+    "3.Klasse/insy/3kl insy.md",
+    "3.Klasse/itsi/CVE.md",
+    "3.Klasse/itsi/Stefan Fürst CVE aufgabe.md",
+    "3.Klasse/3te Klasse.md",
+    "templates/Itsi.md",
+    "templates/3kl sew.md",
+    "3.Klasse/Nawi/3kl nawi.md",
+    "3.Klasse/deutsch/Stilfiguren.md",
+    "3.Klasse/englisch/Englisch.md",
+    "3.Klasse/deutsch/3kl deutsch.md",
     "3.Klasse/sew/inheretance.md",
+    "bilder/inheretance 19-09-2024-28.excalidraw.md",
     "bilder/ladig yappt über stuff oop 19-09-2024-09.excalidraw.md",
     "3.Klasse/sew/oop things.md",
-    "templates/3kl sew.md",
     "Excalidraw/Template.excalidraw.md",
     "3.Klasse/sew",
-    "3.Klasse/itsi/Stefan Fürst CVE aufgabe.md",
     "bilder/Pasted image 20240918185809.png",
     "bilder/Pasted image 20240918185504.png",
     "bilder/Pasted image 20240918185521.png",
     "bilder/Pasted image 20240918185516.png",
-    "3.Klasse/3te Klasse.md",
-    "3.Klasse/deutsch/Stilfiguren.md",
     "3.Klasse/insy/Datenbank-Entwurf.md",
     "Zeichnungen/DR18-09-2024-59.excalidraw.md",
     "3.Klasse/insy/Was ist eine Datenbank.md",
     "3.Klasse/insy/Typen von Datenbanken.md",
     "3.Klasse/insy/Relationale Datenbank Systeme.md",
-    "3.Klasse/insy/Realtionales Datenbank Magment System.md",
-    "3.Klasse/mathe/Stefan Fürst Mathe hü 2.md",
     "3.Klasse/deutsch",
     "2.Klasse/Mathe/Hü 7 Stefan Fürst 2BHIT.pdf",
     "3.Klasse/insy",
-    "Überlebenswichtige Strichlisten.md",
     "3.Klasse/mathe",
-    "3.Klasse/syt/EMV.md",
-    "3.Klasse/syt/Überischt Festdatenspeicher.md",
-    "3.Klasse/syt/syt aufgabe.md",
-    "3.Klasse/syt/betriebsysthme wiederholung.md",
     "bilder/Pasted image 20240912142854.png",
-    "Geschichte der.md",
     "bilder/Pasted image 20240912143026.png",
     "bilder/Pasted image 20240912142937.png",
     "bilder/Pasted image 20240912142648.png",
     "3.Klasse/syt",
-    "3.Klasse/itsi/CVE.md",
-    "templates/Itsi.md",
     "3.Klasse/itsi",
-    "templates/Insy.md",
-    "bilder/Redoxreaktionen 09-09-2024-56.excalidraw.md",
     "bilder/Pasted image 20240906124136.png",
     "3.Klasse/sew",
     "3.Klasse/ggp",
     "3.Klasse/medt",
-    "bilder/Pasted image 20240522191440.png",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
     "Zeichnungen/Untitled.canvas"
   ]

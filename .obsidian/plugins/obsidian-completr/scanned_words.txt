@@ -405,6 +405,7 @@ KRv
 KdY
 Kinderwagen
 KCH
+Klassisch
 syt
 shittalken
 sEiD
@@ -675,6 +676,8 @@ sollte
 sagen
 sew
 subklasse
+scor
+spezielle
 elektro
 erklärt
 ein
@@ -1311,6 +1314,9 @@ gEjAt
 gGY
 geneierren
 geneeiert
+geheim
+geheimnis
+ggp
 purpose
 paare
 paaren
@@ -1488,6 +1494,10 @@ pqs
 peRrR
 pHV
 prior
+presse
+personengruppe
+passwörter
+personen
 input
 int
 immutable
@@ -1690,6 +1700,8 @@ interagieren
 injectete
 ihr
 ixrmkvo
+intern
+informationen
 output
 oida
 oder
@@ -2065,6 +2077,7 @@ ffn
 fluid
 freigegeben
 fhBWJRci
+flyer
 Str
 Statisch
 Stifdrops
@@ -2317,6 +2330,8 @@ Sitzfarbe
 Stellplätze
 SoEhRtz
 SchnellBahn
+Stufig
+Stufen
 Tuple
 Teststoff
 Teilchen
@@ -3459,6 +3474,7 @@ DOM
 Dasseble
 DPlEep
 DIz
+Datenträger
 Bsp
 Boschis
 Bipolartransistor
@@ -3836,6 +3852,7 @@ wert
 wege
 wGK
 wUC
+weitergegebene
 Lehrer
 Ladig
 Links
@@ -4202,6 +4219,7 @@ uos
 ugRC
 uMQ
 unpack
+unternehmen
 Noten
 Neutronen
 Nichtmetalle
@@ -4405,6 +4423,7 @@ Nutzers
 NICHT
 NqQphI
 NGJJDt
+Notwendigkeit
 hIeR
 höchsten
 hintere
@@ -4586,6 +4605,7 @@ hqX
 hqw
 hintereinander
 hniFoUqy
+hü
 Osko
 Orbitale
 Orbitalen
@@ -4970,6 +4990,7 @@ bdi
 bOTM
 bounds
 billig
+bezogene
 Idi
 Ionenbindungen
 Ionisierungsenergie
@@ -5364,6 +5385,7 @@ MultipartReplyGroup
 Methods
 Methoden
 MSsN
+Mündlich
 nawi
 nix
 nicht
@@ -5931,6 +5953,7 @@ Eingabe
 Eine
 EUk
 EIZY
+Elektronische
 Halbleiter
 Hauptsächlich
 Hantelförmig
@@ -6681,6 +6704,10 @@ aHrQx
 acS
 andersrum
 attribute
+aussendungen
+auschreibungen
+artzt
+anwalt
 Ausbeute
 Atomaufbau
 Arbeiten
@@ -7086,6 +7113,8 @@ Programmroutine
 Pounter
 Pointer
 Parent
+Papierdokumente
+Post
 Zusammenfassung
 Zustand
 Zener
@@ -9050,6 +9079,7 @@ jdg
 javascript
 jOk
 jTraQg
+job
 yappen
 yappt
 yvT
@@ -9702,5 +9732,6 @@ XmZ
 öndern
 ömk
 öl
+öffentlich
 ßd
 Öo

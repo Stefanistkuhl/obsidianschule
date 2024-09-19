@@ -4,6 +4,7 @@ tags:
   - sprache
   - 3te_Klasse
 ---
+[[3kl deutsch]]
 - Allegorie (Verbildlichung von Abstrakten)
 	- Venus/Aphrodite → Schönheit
 	- Armor → Liebe 

@@ -14,7 +14,7 @@ tags:
 		- Einschätzung der Gefahr von der CVE.
 	- Decription 
 		- Selbsterklärend
-	- CVSS score 
+	- CVSS scor﻿e 
 		- CVSS (Common Vulnerability Scoring System) weißt der CVE einen wert von 1 bis 10 zu.
 	- Affected software/systems
 		- Selbsterklärend

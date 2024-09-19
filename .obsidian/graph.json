@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "tag:#3te_Klasse  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -127,6 +127,13 @@
       }
     },
     {
+      "query": "tag:#3te_Klasse  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
       "query": "tag:#homelab  ",
       "color": {
         "a": 1,
@@ -146,13 +153,6 @@
         "a": 1,
         "rgb": 5810430
       }
-    },
-    {
-      "query": "tag:#3te_Klasse  ",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
     }
   ],
   "collapse-display": false,
@@ -165,6 +165,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 228,
-  "scale": 0.300338745117188,
+  "scale": 1.0314305231180336,
   "close": false
 }
