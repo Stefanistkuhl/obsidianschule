@@ -222,6 +222,7 @@ tTn
 tvG
 tMP
 trotzdem
+thing
 Klasse
 Konfigurationen
 Kugel
@@ -400,6 +401,7 @@ KM
 Kwt
 KDTh
 KRv
+KdY
 syt
 shittalken
 sEiD
@@ -668,6 +670,7 @@ sRGB
 suY
 sollte
 sagen
+sew
 elektro
 erklärt
 ein
@@ -892,6 +895,9 @@ eFz
 erlauben
 erlaubt
 erlangen
+eZMQhAl
+etwas
+existiert
 GPIO
 Gleichungne
 Gleichung
@@ -1671,6 +1677,7 @@ iNmk
 iCn
 interagieren
 injectete
+ihr
 output
 oida
 oder
@@ -2436,6 +2443,7 @@ TimesNewRomanPSMT
 TJI
 TaruzM
 TAtF
+TVkuf
 mehere
 mit
 mutable
@@ -2649,6 +2657,7 @@ mitgeholfen
 mLrvuC
 mXGx
 msg
+mDrMkaOC
 Werte
 Wellen
 Wollen
@@ -3027,6 +3036,7 @@ vVzH
 vVZx
 vmm
 vym
+var
 datetypen
 deppat
 dem
@@ -3623,6 +3633,7 @@ BsXn
 BIeo
 Buy
 BOw
+Bytes
 wichtig
 was
 wie
@@ -4365,6 +4376,8 @@ Npqs
 NMY
 NrN
 Nutzers
+NICHT
+NqQphI
 hIeR
 höchsten
 hintere
@@ -4545,6 +4558,7 @@ heap
 hqX
 hqw
 hintereinander
+hniFoUqy
 Osko
 Orbitale
 Orbitalen
@@ -4721,6 +4735,9 @@ OTM
 ODI
 OuT
 Outlook
+Objekt
+OafYp
+Object
 beeing
 background
 berechnen
@@ -5314,6 +5331,8 @@ Möglichekiten
 Microsoft
 MultipartReplyMeterConfig
 MultipartReplyGroup
+Methods
+Methoden
 nawi
 nix
 nicht
@@ -5501,6 +5520,8 @@ nHA
 nutzen
 nehmen
 nun
+new
+nTIf
 FFB
 Feldeffekttransistor
 Feldeffekt
@@ -5876,6 +5897,8 @@ EhJA
 EVp
 Eingabevalidation
 Eingabe
+Eine
+EUk
 Halbleiter
 Hauptsächlich
 Hantelförmig
@@ -6038,6 +6061,7 @@ Herr
 Hmh
 HOC
 HTML
+HlDD
 Chemisches
 Chemische
 Chlor
@@ -6211,6 +6235,7 @@ CUw
 Cji
 Cross
 Commands
+Class
 Rechnen
 Richtungen
 Rafis
@@ -6377,6 +6402,8 @@ RRR
 RwA
 Rzz
 Read
+RAM
+Ram
 aufstellen
 aus
 als
@@ -6828,6 +6855,8 @@ AbB
 AoO
 Azk
 Attacke
+AELXHIU
+Attributes
 PSE
 Protonen
 Problem
@@ -7010,6 +7039,8 @@ PsT
 Ptz
 Passwort
 Programmroutine
+Pounter
+Pointer
 Zusammenfassung
 Zustand
 Zener
@@ -7284,6 +7315,7 @@ QHQ
 QCG
 QcL
 QdSk
+QUpUlXaR
 kann
 kein
 können
@@ -7463,6 +7495,9 @@ keinen
 konzeptionelle
 kategorisiert
 kennen
+kopiert
+kMb
+kHvmj
 überlappen
 überfluten
 über
@@ -7841,6 +7876,7 @@ crKa
 cuG
 cnv
 code
+cqWDCt
 zusammen
 zw
 zu
@@ -8020,6 +8056,7 @@ zHQ
 zDk
 zugriff
 zwar
+zuD
 äußersten
 ändern
 äußeren
@@ -8346,6 +8383,7 @@ UTtqD
 UhV
 USpl
 Udy
+UvorRMT
 Verbindung
 Vieh
 Verbindungen
@@ -8496,6 +8534,7 @@ Vulnerability
 Vendor
 Vcc
 Version
+VcKa
 Überblick
 Übergang
 Übungsdaten
@@ -8652,6 +8691,7 @@ JAHR
 JFf
 JaB
 JWw
+JAIyr
 xd
 xss
 xe
@@ -8953,6 +8993,8 @@ jeder
 jVD
 jdg
 javascript
+jOk
+jTraQg
 yappen
 yappt
 yvT
@@ -9290,6 +9332,7 @@ qyp
 qrK
 qCe
 qWR
+qoqo
 YUR
 Yq
 Yi
@@ -9428,6 +9471,7 @@ YDa
 YXV
 YTQ
 YKR
+Yvsw
 XawbH
 Xr
 XJpQ
