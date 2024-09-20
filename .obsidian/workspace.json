@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "edd8b06f7072a47d",
+        "id": "376f0a5a1c07dbe4",
         "type": "tabs",
         "children": [
           {
-            "id": "cf3d062731a2c01b",
+            "id": "82cf2a8af66e2002",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/syt/EMV fragen thingy.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/syt/EMV fragen thingy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "3.Klasse/syt/EMV fragen thingy.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,10 +175,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "cf3d062731a2c01b",
+  "active": "82cf2a8af66e2002",
   "lastOpenFiles": [
-    "3.Klasse/nwt/Router Grundconfig.md",
     "3.Klasse/syt/EMV fragen thingy.md",
+    "3.Klasse/nwt/Router Grundconfig.md",
     "3.Klasse/nwt/router.md",
     "3.Klasse/nwt/3kl nwt.md",
     "templates/nwt.md",
