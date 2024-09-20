@@ -1,0 +1,14 @@
+---
+tags:
+  - syt
+  - syt_elektro
+  - 3te_Klasse
+---
+- erklären Sie, was man unter EMV versteht
+	- Elektromagnetische verträglichkeit
+	- Es besagt die maximal zulässige Störaussendung und die mindestens erforderliche Störfestigkeit
+- Geben sie Beispiele für Störungen und deren Frequenzbereich an
+	- Elektromagentische Entladungen, Blitze, Schaltvorgänge im Netz
+- Fassen Sie die verschiedenen Übertragungswege und Kopplungen zusammen
+- Erklären Sie das Prinzip der induktiven und der Kapazitiven Kopplung
+- Geben Sie einige Anregungen zur Vermeidung von EMV Problemen und erklären Sie den Unterschied zwischen Schutz und funktions erdung
