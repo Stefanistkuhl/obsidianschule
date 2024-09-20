@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "318a4f2b60a96198",
+            "id": "e70ca47c5500784f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/nwt/Router Grundconfig.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -62,14 +66,15 @@
             }
           },
           {
-            "id": "230a83faf1d77de4",
+            "id": "e753cd2c4ea0c997",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -90,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/ggp/3kl GGP.md",
+                "file": "3.Klasse/nwt/Router Grundconfig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +140,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/ggp/3kl GGP.md"
+                "file": "3.Klasse/nwt/Router Grundconfig.md"
               }
             }
           },
@@ -155,7 +160,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -176,40 +182,42 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "7d2a89ea7b2d59bd",
+  "active": "b5ac9769a9c1e533",
   "lastOpenFiles": [
+    "3.Klasse/nwt/Router Grundconfig.md",
+    "3.Klasse/nwt/router.md",
+    "3.Klasse/nwt/3kl nwt.md",
+    "templates/nwt.md",
+    "3.Klasse/nwt/dual stack topology.md",
+    "bilder/Pasted image 20240920113300.png",
+    "3.Klasse/nwt/Secure Remote Access.md",
+    "3.Klasse/nwt/link-pulse.md",
+    "3.Klasse/nwt/Ah yes 20 millionen cisco sachen.md",
+    "3.Klasse/3te Klasse.md",
+    "3.Klasse/nwt/Switch verification commands.md",
+    "3.Klasse/sew/3kl sew.md",
+    "Untitled.md",
+    "bilder/link-pulse 20-09-2024-55.excalidraw.md",
+    "bilder/link-pulse 20-09-2024-49.excalidraw.md",
+    "3.Klasse/nwt/auto negotiation (Nway).md",
+    "templates/sew.md",
+    "aktuelle itsi aufgabe.md",
+    "3.Klasse/itsi/3kl itsi.md",
+    "3.Klasse/itsi/Daten bsp selbsttändiger entwickler.md",
+    "3.Klasse/itsi/Klassifizierunsstufen.md",
     "3.Klasse/ggp",
     "bilder/Pasted image 20240919134221.png",
     "3.Klasse/ggp/3kl GGP.md",
-    "3.Klasse/itsi/Klassifizierunsstufen.md",
     "3.Klasse/itsi/Welche Arten von Daten gibt es?.md",
-    "3.Klasse/itsi/3kl itsi.md",
     "3.Klasse/itsi/Daten.md",
     "3.Klasse/insy/3kl insy.md",
     "3.Klasse/itsi/CVE.md",
     "3.Klasse/itsi/Stefan Fürst CVE aufgabe.md",
-    "3.Klasse/3te Klasse.md",
-    "templates/Itsi.md",
-    "templates/3kl sew.md",
-    "3.Klasse/Nawi/3kl nawi.md",
-    "3.Klasse/deutsch/Stilfiguren.md",
-    "3.Klasse/englisch/Englisch.md",
-    "3.Klasse/deutsch/3kl deutsch.md",
-    "3.Klasse/sew/inheretance.md",
-    "bilder/inheretance 19-09-2024-28.excalidraw.md",
-    "bilder/ladig yappt über stuff oop 19-09-2024-09.excalidraw.md",
-    "3.Klasse/sew/oop things.md",
-    "Excalidraw/Template.excalidraw.md",
     "3.Klasse/sew",
     "bilder/Pasted image 20240918185809.png",
     "bilder/Pasted image 20240918185504.png",
     "bilder/Pasted image 20240918185521.png",
     "bilder/Pasted image 20240918185516.png",
-    "3.Klasse/insy/Datenbank-Entwurf.md",
-    "Zeichnungen/DR18-09-2024-59.excalidraw.md",
-    "3.Klasse/insy/Was ist eine Datenbank.md",
-    "3.Klasse/insy/Typen von Datenbanken.md",
-    "3.Klasse/insy/Relationale Datenbank Systeme.md",
     "3.Klasse/deutsch",
     "2.Klasse/Mathe/Hü 7 Stefan Fürst 2BHIT.pdf",
     "3.Klasse/insy",
@@ -220,10 +228,8 @@
     "bilder/Pasted image 20240912142648.png",
     "3.Klasse/syt",
     "3.Klasse/itsi",
-    "bilder/Pasted image 20240906124136.png",
     "3.Klasse/sew",
     "3.Klasse/ggp",
-    "3.Klasse/medt",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
     "Zeichnungen/Untitled.canvas"
   ]

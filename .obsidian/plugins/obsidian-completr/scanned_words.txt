@@ -224,6 +224,7 @@ tMP
 trotzdem
 thing
 tCIId
+table
 Klasse
 Konfigurationen
 Kugel
@@ -406,6 +407,9 @@ KdY
 Kinderwagen
 KCH
 Klassisch
+Klassifizierungskonzept
+Klassifizierungsstufen
+Klassifizierungsstufe
 syt
 shittalken
 sEiD
@@ -678,6 +682,11 @@ sew
 subklasse
 scor
 spezielle
+sammelt
+simlpy
+startup
+system
+start
 elektro
 erklärt
 ein
@@ -908,6 +917,10 @@ existiert
 erweiterung
 enKncqID
 erweitert
+einzelnen
+elU
+eingeben
+einschalten
 GPIO
 Gleichungne
 Gleichung
@@ -1075,6 +1088,8 @@ GDt
 GRl
 Gtl
 GDDDDDDD
+Geschäftsprozesse
+Geschw
 general
 gesetzte
 gedreht
@@ -1317,6 +1332,9 @@ geneeiert
 geheim
 geheimnis
 ggp
+gdD
+geschickt
+gen
 purpose
 paare
 paaren
@@ -1498,6 +1516,8 @@ presse
 personengruppe
 passwörter
 personen
+password
+ports
 input
 int
 immutable
@@ -1702,6 +1722,8 @@ ihr
 ixrmkvo
 intern
 informationen
+interfaces
+ipv
 output
 oida
 oder
@@ -2078,6 +2100,8 @@ fluid
 freigegeben
 fhBWJRci
 flyer
+flash
+file
 Str
 Statisch
 Stifdrops
@@ -2332,6 +2356,10 @@ SoEhRtz
 SchnellBahn
 Stufig
 Stufen
+Stufe
+Schreibtisch
+STi
+Schnittstelle
 Tuple
 Teststoff
 Teilchen
@@ -2695,6 +2723,8 @@ mLrvuC
 mXGx
 msg
 mDrMkaOC
+mac
+modus
 Werte
 Wellen
 Wollen
@@ -3074,6 +3104,8 @@ vVZx
 vmm
 vym
 var
+verarbeitet
+version
 datetypen
 deppat
 dem
@@ -3273,6 +3305,7 @@ discovred
 darunterliegende
 darzustellen
 dieses
+domain
 Dynamisch
 Dotierung
 Dioden
@@ -3475,6 +3508,12 @@ Dasseble
 DPlEep
 DIz
 Datenträger
+Definieren
+Datenart
+Dokumentenart
+Duplex
+Display
+Default
 Bsp
 Boschis
 Bipolartransistor
@@ -3674,6 +3713,7 @@ BIeo
 Buy
 BOw
 Bytes
+Bit
 wichtig
 was
 wie
@@ -4024,6 +4064,7 @@ LTx
 LDD
 LIrA
 LUbLgntN
+LOpzMD
 unsere
 uns
 und
@@ -4220,6 +4261,7 @@ ugRC
 uMQ
 unpack
 unternehmen
+username
 Noten
 Neutronen
 Nichtmetalle
@@ -4424,6 +4466,9 @@ NICHT
 NqQphI
 NGJJDt
 Notwendigkeit
+Nehmen
+NLP
+Normale
 hIeR
 höchsten
 hintere
@@ -4606,6 +4651,7 @@ hqw
 hintereinander
 hniFoUqy
 hü
+hostnamen
 Osko
 Orbitale
 Orbitalen
@@ -4991,6 +5037,11 @@ bOTM
 bounds
 billig
 bezogene
+base
+backwarts
+benutzen
+benutzer
+besser
 Idi
 Ionenbindungen
 Ionisierungsenergie
@@ -5183,6 +5234,10 @@ IvsC
 IPZZ
 IjhuWLU
 IAbssm
+Ihrer
+Ihr
+Intern
+Ips
 Momente
 Massezahl
 Metalle
@@ -5386,6 +5441,9 @@ Methods
 Methoden
 MSsN
 Mündlich
+Maßnahmen
+Maßnahme
+MAC
 nawi
 nix
 nicht
@@ -5575,6 +5633,7 @@ nehmen
 nun
 new
 nTIf
+normalerweise
 FFB
 Feldeffekttransistor
 Feldeffekt
@@ -5747,6 +5806,7 @@ FCg
 FN
 FeR
 FJJ
+FLP
 EBA
 Elektronenpaarbindung
 Elektronen
@@ -6296,6 +6356,7 @@ Cross
 Commands
 Class
 Child
+CRNJ
 Rechnen
 Richtungen
 Rafis
@@ -6708,6 +6769,13 @@ aussendungen
 auschreibungen
 artzt
 anwalt
+angemessen
+alte
+about
+address
+abgespeichert
+anlegen
+anmeldung
 Ausbeute
 Atomaufbau
 Arbeiten
@@ -6928,6 +6996,8 @@ Attributes
 Abhängen
 Addyar
 AnzahlderSitze
+Arten
+Art
 PSE
 Protonen
 Problem
@@ -7115,6 +7185,10 @@ Pointer
 Parent
 Papierdokumente
 Post
+Papier
+Pulses
+Pulse
+Paramaeter
 Zusammenfassung
 Zustand
 Zener
@@ -7575,6 +7649,9 @@ kopiert
 kMb
 kHvmj
 klasse
+kHekRgFX
+keys
+key
 überlappen
 überfluten
 über
@@ -7585,6 +7662,8 @@ klasse
 üX
 überschreiben
 übers
+übliche
+überlegen
 logischerweise
 links
 lookup
@@ -7777,6 +7856,9 @@ lYw
 lRbp
 liegenden
 libfluid
+labor
+login
+local
 conf
 chroloid
 chlor
@@ -7954,6 +8036,13 @@ cuG
 cnv
 code
 cqWDCt
+competabile
+configuration
+current
+commands
+crypto
+cisco
+copy
 zusammen
 zw
 zu
@@ -8300,6 +8389,9 @@ rXk
 root
 routine
 ram
+running
+run
+rsa
 Um
 Unterschied
 Ube
@@ -8465,6 +8557,7 @@ UvorRMT
 Ubahn
 UEDiy
 Ubhan
+Unternehmen
 Verbindung
 Vieh
 Verbindungen
@@ -8617,6 +8710,8 @@ Vcc
 Version
 VcKa
 VCIQcqLi
+Verwendete
+Versperren
 Überblick
 Übergang
 Übungsdaten
@@ -8627,6 +8722,7 @@ VCIQcqLi
 ÜXF
 ÜwM
 Überlegungen
+Überlegen
 Jahre
 Joker
 Jahrgang
@@ -9726,6 +9822,7 @@ XpZ
 Xff
 Xudc
 XmZ
+XJpzz
 Ändern
 Äx
 Ähnlich

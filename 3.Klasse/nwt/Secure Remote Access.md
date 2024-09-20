@@ -1,0 +1,24 @@
+---
+tags:
+  - nwt
+  - 3te_Klasse
+---
+Switch benötigt domain name da keys unter hostname.domain abgespeichert werden und eine hostnamen
+- `ip domain-name htl-donaustadt.at
+- `crypto key gen rsa
+	- länge eingeben 4096 normalerweise aber im labor nur 1024 nehmen
+- benutzer anlegen
+	- `username name secret cisco
+		- secret statt passwort so dass es keine oarsch verschlüsselung used
+	- anmelden
+		- `login local
+			- locale benutzerdatenbank nutzen einschalten
+		- `logging synchronous
+			- nd required aba is qol
+		- beim anmelde bildschirm fragt es dann nach nem pw
+- `line vty 0 4` 4 weil 4 gleichzeitige verbindgen erlauben
+	- `login local
+	- `transport input ssh
+		- ssh einschalten
+	- `do w
+		- copy run start in besser

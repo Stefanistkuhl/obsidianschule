@@ -9,7 +9,7 @@ tags:
 		- flyer
 		- job auschreibungen etc
 	- intern 
-		- 
+		- jährliche Ziele
 	- geheim
 		- informationen die nur eine spezielle personengruppe im unternehmen haben darf
 		- passwörter
@@ -17,4 +17,4 @@ tags:
 		- artzt anwalt geheimnis etc
 - Je nach Notwendigkeit auch mehr Stufen möglich
 
-hü mehr bsp zu den 3 finden (~5 pro)
+![[Daten bsp selbsttändiger entwickler]]
