@@ -10,9 +10,14 @@ tags:
 - Geben sie Beispiele für Störungen und deren Frequenzbereich an
 	- Elektromagentische Entladungen, Blitze, Schaltvorgänge im Netz
 	- ~16 2/3 Hz bis mehrere GHz
-		- wenn über 10MHz is es meistns Leitergebunden
+		- wenn bis 10MHz is es meistns Leitergebunden
+		- ab 10 MHz quellen abstrahlend also punkt abstrahlend es ist wie eine Atenne
 - Fassen Sie die verschiedenen Übertragungswege und Kopplungen zusammen
-	- 
+	- kapazitive Kopplung
+	- induktive Kopplung
+		- um die Leutung entsteht ein Magnetisches Feld was spannungen verändert
+	- Galvanische Kopplung
+		- 
 - Erklären Sie das Prinzip der induktiven und der Kapazitiven Kopplung
 - Geben Sie einige Anregungen zur Vermeidung von EMV Problemen und erklären Sie den Unterschied zwischen Schutz und funktions erdung
 	- Metalische Folien schirmen elektrische Felder gut ab
