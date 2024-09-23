@@ -70,5 +70,15 @@ a)
 f(x)=x²
 x_{0}=1
 f'(x)=2x
+f'(1)=2
+Tangente: y_{t}=k*x+d
+⇒k=1
+y_{t}=2*x+d
+P(1|y_{0})→ Berührungspunkt der Tangente der Funktion f(x)=x² 
+f'(1)=1²=1
+f(x_{0})=k*x_{0}+d
+1=2*1+d | -2
+d=-1
+y_{t}=2x-1
 ```
 ![[diff thing bsp 23-09-2024-42.excalidraw]]
