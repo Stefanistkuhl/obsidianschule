@@ -30,3 +30,11 @@ steigt: Atom wurde oxidiert (hat weniger e- um sich)
 Enige Faustregeln zum Bestimmen von Oxidotionszahlen:
 - Bei Elementarverbindungen ist die Oxidotionszahlen <mark style="background: #FFB8EBA6;">immer</mark> 0
 - Wenn H mti einem <mark style="background: #FFB8EBA6;">anderen</mark> Element verbunden: H hat meints eine Oxzahl +1 (Außer in Metallhydriden)
+- Wenn Sauerstoff mit anderen Atomen verbunden ist, dann ist die Ox.Zhal meist -II bsp H2O
+- Die Summe aller Ox.Zahlen ergibt die GEsamtladung der Verbindung
+
+bsp
+![[Redoxreaktionen 23-09-2024-59.excalidraw]]
+Bsp bei Salzen: Ionen getrennt betrachten!
+![[Redoxreaktionen 23-09-2024-40.excalidraw]]
+![[Redoxreaktionen 23-09-2024-28.excalidraw]]

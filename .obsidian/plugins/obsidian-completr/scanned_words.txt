@@ -689,6 +689,7 @@ startup
 system
 start
 stetig
+sink
 elektro
 erklärt
 ein
@@ -1096,6 +1097,7 @@ Gerade
 Grenzwert
 Geweissen
 Gegeben
+GEsamtladung
 general
 gesetzte
 gedreht
@@ -1923,6 +1925,7 @@ onX
 ohcE
 out
 oLrwAfLS
+oxidiert
 float
 fReIwIlLiG
 für
@@ -2377,6 +2380,8 @@ Stell
 Schreibweise
 Stelle
 Steigungswinkel
+Summe
+Salzen
 Tuple
 Teststoff
 Teilchen
@@ -2745,6 +2750,8 @@ msg
 mDrMkaOC
 mac
 modus
+mti
+meints
 Werte
 Wellen
 Wollen
@@ -3750,6 +3757,7 @@ Bytes
 Bit
 BCwAuvYj
 Bestimme
+Bestimmen
 wichtig
 was
 wie
@@ -4871,6 +4879,8 @@ Objekt
 OafYp
 Object
 Oizo
+Oxidationszahl
+Oxzahl
 beeing
 background
 berechnen
@@ -5086,6 +5096,7 @@ beiden
 bedeutet
 bruch
 besitzt
+betrachten
 Idi
 Ionenbindungen
 Ionisierungsenergie
@@ -5491,6 +5502,7 @@ MAC
 Mittelere
 Mathematische
 MkWFNvk
+Metallhydriden
 nawi
 nix
 nicht
@@ -5857,6 +5869,7 @@ FeR
 FJJ
 FLP
 Für
+Faustregeln
 EBA
 Elektronenpaarbindung
 Elektronen
@@ -6067,6 +6080,9 @@ Elektronische
 ECjmO
 Erst
 Ekpifc
+Enige
+Elementarverbindungen
+Element
 Halbleiter
 Hauptsächlich
 Hantelförmig
@@ -7054,6 +7070,8 @@ AnzahlderSitze
 Arten
 Art
 Ableitung
+Außer
+Atomen
 PSE
 Protonen
 Problem
@@ -7401,6 +7419,7 @@ Zwf
 Zeitanzeigen
 Zugreifen
 Zussammen
+Zhal
 Quantenobjekt
 Quadratische
 Quadrtische

@@ -11,11 +11,26 @@
             "id": "3123e9feb1f288d3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/Nawi/Redoxreaktionen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8bca23806c56d2c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/Redoxreaktionen 23-09-2024-28.excalidraw.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "bilder/Redoxreaktionen 23-09-2024-28.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "bilder/Redoxreaktionen 23-09-2024-28.excalidraw.md"
+              }
             }
           },
           {
@@ -166,8 +184,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "3123e9feb1f288d3",
+  "active": "f8bca23806c56d2c",
   "lastOpenFiles": [
+    "3.Klasse/Nawi/Redoxreaktionen.md",
+    "bilder/Redoxreaktionen 23-09-2024-28.excalidraw.md",
+    "bilder/Redoxreaktionen 23-09-2024-40.excalidraw.md",
+    "bilder/Redoxreaktionen 23-09-2024-59.excalidraw.md",
+    "3.Klasse/Nawi/3kl nawi.md",
     "bilder/diff thing bsp 23-09-2024-42.excalidraw.md",
     "3.Klasse/mathe/diff thing bsp.md",
     "bilder/diff thing bsp 23-09-2024-32.excalidraw.md",
@@ -190,11 +213,6 @@
     "3.Klasse/nwt/Switch verification commands.md",
     "3.Klasse/sew/3kl sew.md",
     "bilder/link-pulse 20-09-2024-55.excalidraw.md",
-    "bilder/link-pulse 20-09-2024-49.excalidraw.md",
-    "3.Klasse/nwt/auto negotiation (Nway).md",
-    "templates/sew.md",
-    "aktuelle itsi aufgabe.md",
-    "3.Klasse/itsi/3kl itsi.md",
     "3.Klasse/ggp",
     "bilder/Pasted image 20240919134221.png",
     "3.Klasse/sew",
