@@ -4,29 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "376f0a5a1c07dbe4",
+        "id": "a0595f1efde319d2",
         "type": "tabs",
         "children": [
           {
-            "id": "82cf2a8af66e2002",
+            "id": "3123e9feb1f288d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/mathe/diff thing bsp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c09857b5cabf48d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/diff thing bsp 23-09-2024-42.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -96,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/mathe/diff thing bsp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,9 +125,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "3.Klasse/mathe/diff thing bsp.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,11 +166,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "82cf2a8af66e2002",
+  "active": "3123e9feb1f288d3",
   "lastOpenFiles": [
     "bilder/diff thing bsp 23-09-2024-42.excalidraw.md",
-    "bilder/diff thing bsp 23-09-2024-32.excalidraw.md",
     "3.Klasse/mathe/diff thing bsp.md",
+    "bilder/diff thing bsp 23-09-2024-32.excalidraw.md",
     "3.Klasse/mathe/Ableitung elementare Funktion.md",
     "3.Klasse/mathe/diff things mathe oida bsp idk.md",
     "bilder/diff things mathe oida bsp idk 23-09-2024-06.excalidraw.md",
