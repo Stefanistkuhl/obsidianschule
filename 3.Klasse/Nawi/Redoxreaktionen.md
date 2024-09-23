@@ -38,3 +38,5 @@ bsp
 Bsp bei Salzen: Ionen getrennt betrachten!
 ![[Redoxreaktionen 23-09-2024-40.excalidraw]]
 ![[Redoxreaktionen 23-09-2024-28.excalidraw]]
+Übung 
+![[Redoxreaktionen 23-09-2024-44.excalidraw]]
