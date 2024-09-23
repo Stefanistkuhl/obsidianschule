@@ -687,6 +687,7 @@ simlpy
 startup
 system
 start
+stetig
 elektro
 erklärt
 ein
@@ -1090,6 +1091,9 @@ Gtl
 GDDDDDDD
 Geschäftsprozesse
 Geschw
+Gerade
+Grenzwert
+Geweissen
 general
 gesetzte
 gedreht
@@ -1335,6 +1339,7 @@ ggp
 gdD
 geschickt
 gen
+geschoben
 purpose
 paare
 paaren
@@ -2102,6 +2107,7 @@ fhBWJRci
 flyer
 flash
 file
+fej
 Str
 Statisch
 Stifdrops
@@ -2360,6 +2366,12 @@ Stufe
 Schreibtisch
 STi
 Schnittstelle
+Steigung
+Sekantensteigung
+Sekante
+Stell
+Schreibweise
+Stelle
 Tuple
 Teststoff
 Teilchen
@@ -2509,6 +2521,8 @@ TJI
 TaruzM
 TAtF
 TVkuf
+Tangente
+Telz
 mehere
 mit
 mutable
@@ -2906,6 +2920,7 @@ WJO
 WmQI
 WSl
 Wege
+Wichtig
 verschienen
 verteilen
 voll
@@ -3106,6 +3121,7 @@ vym
 var
 verarbeitet
 version
+verrät
 datetypen
 deppat
 dem
@@ -3306,6 +3322,9 @@ darunterliegende
 darzustellen
 dieses
 domain
+differenzierbar
+differenzierte
+dort
 Dynamisch
 Dotierung
 Dioden
@@ -3514,6 +3533,10 @@ Dokumentenart
 Duplex
 Display
 Default
+Differenzierung
+Differenzialqoutient
+Differenzialqutient
+Differentenqoutienten
 Bsp
 Boschis
 Bipolartransistor
@@ -3714,6 +3737,7 @@ Buy
 BOw
 Bytes
 Bit
+BCwAuvYj
 wichtig
 was
 wie
@@ -4652,6 +4676,7 @@ hintereinander
 hniFoUqy
 hü
 hostnamen
+heißt
 Osko
 Orbitale
 Orbitalen
@@ -5042,6 +5067,8 @@ backwarts
 benutzen
 benutzer
 besser
+basieren
+beiden
 Idi
 Ionenbindungen
 Ionisierungsenergie
@@ -5444,6 +5471,9 @@ Mündlich
 Maßnahmen
 Maßnahme
 MAC
+Mittelere
+Mathematische
+MkWFNvk
 nawi
 nix
 nicht
@@ -5634,6 +5664,7 @@ nun
 new
 nTIf
 normalerweise
+nah
 FFB
 Feldeffekttransistor
 Feldeffekt
@@ -6014,6 +6045,7 @@ Eine
 EUk
 EIZY
 Elektronische
+ECjmO
 Halbleiter
 Hauptsächlich
 Hantelförmig
@@ -6998,6 +7030,7 @@ Addyar
 AnzahlderSitze
 Arten
 Art
+Ableitung
 PSE
 Protonen
 Problem
@@ -7189,6 +7222,9 @@ Papier
 Pulses
 Pulse
 Paramaeter
+Punkte
+Punkt
+PIsHY
 Zusammenfassung
 Zustand
 Zener
@@ -7341,6 +7377,7 @@ Zbz
 Zwf
 Zeitanzeigen
 Zugreifen
+Zussammen
 Quantenobjekt
 Quadratische
 Quadrtische
@@ -7859,6 +7896,9 @@ libfluid
 labor
 login
 local
+lokale
+läuft
+lim
 conf
 chroloid
 chlor
@@ -8558,6 +8598,7 @@ Ubahn
 UEDiy
 Ubhan
 Unternehmen
+Untersucht
 Verbindung
 Vieh
 Verbindungen
@@ -9040,6 +9081,8 @@ xxxxx
 xyyY
 xXFa
 xSoEY
+xhvXokBa
+xdCSk
 je
 ja
 jeweils
@@ -9826,6 +9869,8 @@ XJpzz
 Ändern
 Äx
 Ähnlich
+Änderungen
+Änderungsrate
 öndern
 ömk
 öl

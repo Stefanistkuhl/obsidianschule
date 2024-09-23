@@ -11,8 +11,34 @@
             "id": "82cf2a8af66e2002",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/mathe/diff things mathe oida bsp idk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21375447182fe4fc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/diff things mathe oida bsp idk 23-09-2024-06.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "76f46592f1bff1d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/mathe/Differentzialrechnung.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -60,17 +86,8 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "e753cd2c4ea0c997",
-            "type": "leaf",
-            "state": {
-              "type": "tagfolder-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -91,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3.Klasse/mathe/diff things mathe oida bsp idk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "3.Klasse/mathe/diff things mathe oida bsp idk.md"
+              }
             }
           },
           {
@@ -177,6 +197,11 @@
   },
   "active": "82cf2a8af66e2002",
   "lastOpenFiles": [
+    "3.Klasse/mathe/Differentzialrechnung.md",
+    "bilder/diff things mathe oida bsp idk 23-09-2024-06.excalidraw.md",
+    "3.Klasse/mathe/diff things mathe oida bsp idk.md",
+    "3.Klasse/mathe/3kl mathe.md",
+    "3.Klasse/3te Klasse.md",
     "3.Klasse/syt/EMV fragen thingy.md",
     "3.Klasse/nwt/Router Grundconfig.md",
     "3.Klasse/nwt/router.md",
@@ -187,7 +212,6 @@
     "3.Klasse/nwt/Secure Remote Access.md",
     "3.Klasse/nwt/link-pulse.md",
     "3.Klasse/nwt/Ah yes 20 millionen cisco sachen.md",
-    "3.Klasse/3te Klasse.md",
     "3.Klasse/nwt/Switch verification commands.md",
     "3.Klasse/sew/3kl sew.md",
     "bilder/link-pulse 20-09-2024-55.excalidraw.md",
@@ -202,10 +226,6 @@
     "bilder/Pasted image 20240919134221.png",
     "3.Klasse/ggp/3kl GGP.md",
     "3.Klasse/itsi/Welche Arten von Daten gibt es?.md",
-    "3.Klasse/itsi/Daten.md",
-    "3.Klasse/insy/3kl insy.md",
-    "3.Klasse/itsi/CVE.md",
-    "3.Klasse/itsi/Stefan Fürst CVE aufgabe.md",
     "3.Klasse/sew",
     "bilder/Pasted image 20240918185809.png",
     "bilder/Pasted image 20240918185504.png",
