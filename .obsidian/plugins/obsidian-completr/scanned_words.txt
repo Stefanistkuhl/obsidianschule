@@ -226,6 +226,7 @@ thing
 tCIId
 table
 thingy
+tSPLsaiH
 Klasse
 Konfigurationen
 Kugel
@@ -690,6 +691,7 @@ system
 start
 stetig
 sink
+sRXuHlZz
 elektro
 erklärt
 ein
@@ -924,6 +926,7 @@ einzelnen
 elU
 eingeben
 einschalten
+ewHNKg
 GPIO
 Gleichungne
 Gleichung
@@ -1098,6 +1101,7 @@ Grenzwert
 Geweissen
 Gegeben
 GEsamtladung
+GNiTewAS
 general
 gesetzte
 gedreht
@@ -2752,6 +2756,7 @@ mac
 modus
 mti
 meints
+mZSi
 Werte
 Wellen
 Wollen
@@ -3342,6 +3347,7 @@ dort
 diffrenzieren
 differenziereErst
 differenzieren
+dvV
 Dynamisch
 Dotierung
 Dioden
@@ -3758,6 +3764,7 @@ Bit
 BCwAuvYj
 Bestimme
 Bestimmen
+BFpBv
 wichtig
 was
 wie
@@ -4307,6 +4314,8 @@ uMQ
 unpack
 unternehmen
 username
+uVFML
+uaRJu
 Noten
 Neutronen
 Nichtmetalle
@@ -4514,6 +4523,7 @@ Notwendigkeit
 Nehmen
 NLP
 Normale
+NaOH
 hIeR
 höchsten
 hintere
@@ -4699,6 +4709,7 @@ hü
 hostnamen
 heißt
 hochzahl
+hRtxuVtg
 Osko
 Orbitale
 Orbitalen
@@ -5097,6 +5108,7 @@ bedeutet
 bruch
 besitzt
 betrachten
+bNcKvqUa
 Idi
 Ionenbindungen
 Ionisierungsenergie
@@ -5503,6 +5515,7 @@ Mittelere
 Mathematische
 MkWFNvk
 Metallhydriden
+MgCl
 nawi
 nix
 nicht
@@ -5870,6 +5883,7 @@ FJJ
 FLP
 Für
 Faustregeln
+FeO
 EBA
 Elektronenpaarbindung
 Elektronen
@@ -6250,6 +6264,8 @@ HLx
 HDEoGgul
 Hat
 HIrachie
+HyISEtVw
+HSO
 Chemisches
 Chemische
 Chlor
@@ -8797,6 +8813,7 @@ VcKa
 VCIQcqLi
 Verwendete
 Versperren
+VebdMud
 Überblick
 Übergang
 Übungsdaten
@@ -9128,6 +9145,7 @@ xXFa
 xSoEY
 xhvXokBa
 xdCSk
+xhJROktg
 je
 ja
 jeweils
@@ -9453,6 +9471,8 @@ yut
 yIX
 yvA
 yXw
+ytI
+yBiacYOu
 quadrat
 quasi
 qu
@@ -9911,6 +9931,8 @@ Xff
 Xudc
 XmZ
 XJpzz
+XIk
+XrCKsTDj
 Ändern
 Äx
 Ähnlich
