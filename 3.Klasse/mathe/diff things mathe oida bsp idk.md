@@ -17,3 +17,7 @@ f'(x)_{0}=\lim_{ Δx \to 0 } \frac{f(x_{0}+Δx)²-f(x_{0})²}{Δx}=\lim_{ x \to 
 
 > Für irgendein x ist die Steigung der Funktion f(x)=x² gegeben durch f'(x)=2x
 > zb x0-1 f'(1)=2 x0=3 f'(3)=8
+
+' bedeutet ableitung
+
+![[diff thing bsp]]

@@ -5071,6 +5071,7 @@ benutzer
 besser
 basieren
 beiden
+bedeutet
 Idi
 Ionenbindungen
 Ionisierungsenergie
@@ -6811,6 +6812,7 @@ address
 abgespeichert
 anlegen
 anmeldung
+ableitung
 Ausbeute
 Atomaufbau
 Arbeiten
