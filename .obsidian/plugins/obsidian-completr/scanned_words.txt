@@ -225,6 +225,7 @@ trotzdem
 thing
 tCIId
 table
+thingy
 Klasse
 Konfigurationen
 Kugel
@@ -2925,6 +2926,7 @@ WmQI
 WSl
 Wege
 Wichtig
+Wichtiges
 verschienen
 verteilen
 voll
@@ -6063,6 +6065,7 @@ EIZY
 Elektronische
 ECjmO
 Erst
+Ekpifc
 Halbleiter
 Hauptsächlich
 Hantelförmig

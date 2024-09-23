@@ -55,6 +55,20 @@ Gegeben ist eine Funktion. Bestimme die Stelle, an welcher die Tangente an ihren
 f(x)=x²
 \alpha = 30°
 f'(x)=2x
-2x=\tan(30°)
+2x=\tan(30°)=0,5777 | :3
+x=0,289
 ```
+> An der stelle x= 0,289 ist der Steigungswinkel der Funktion für f(x)=x² 30°
+> Wichtiges thingy sollte können
 ![[diff thing bsp 23-09-2024-32.excalidraw]]
+
+3.19)
+a)
+```math
+||{"id":871404701194}||
+
+f(x)=x²
+x_{0}=1
+f'(x)=2x
+```
+![[diff thing bsp 23-09-2024-42.excalidraw]]
