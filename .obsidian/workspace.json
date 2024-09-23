@@ -35,13 +35,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/mathe/Differentzialrechnung.md",
+                "file": "3.Klasse/mathe/Ableitung elementare Funktion.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/mathe/diff things mathe oida bsp idk.md",
+                "file": "3.Klasse/mathe/Ableitung elementare Funktion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/mathe/diff things mathe oida bsp idk.md"
+                "file": "3.Klasse/mathe/Ableitung elementare Funktion.md"
               }
             }
           },
@@ -195,9 +196,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "82cf2a8af66e2002",
+  "active": "76f46592f1bff1d8",
   "lastOpenFiles": [
     "3.Klasse/mathe/Differentzialrechnung.md",
+    "3.Klasse/mathe/Ableitung elementare Funktion.md",
     "bilder/diff things mathe oida bsp idk 23-09-2024-06.excalidraw.md",
     "3.Klasse/mathe/diff things mathe oida bsp idk.md",
     "3.Klasse/mathe/3kl mathe.md",
@@ -225,7 +227,6 @@
     "3.Klasse/ggp",
     "bilder/Pasted image 20240919134221.png",
     "3.Klasse/ggp/3kl GGP.md",
-    "3.Klasse/itsi/Welche Arten von Daten gibt es?.md",
     "3.Klasse/sew",
     "bilder/Pasted image 20240918185809.png",
     "bilder/Pasted image 20240918185504.png",

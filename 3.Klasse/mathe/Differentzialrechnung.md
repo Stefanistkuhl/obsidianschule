@@ -5,7 +5,7 @@ tags:
 ---
 > Untersucht lokale Änderungen von Funktionen (und basieren Ableitung (Differenzierung) einer Funktion
 
-### Differenzialqoutient & Differentenqoutienten
+### Differenzqoutien & Differenzialqoutient
 2.kl Mittelere Änderungsrate
 $$\frac{f(b)-f(a)}{b-a}=\frac{Δy}{Δx}$$
 > Steigung der Gerade die durch diese beiden Punkte läuft
@@ -16,3 +16,4 @@ Grenzwert des Differenzialqutient in dem die beiden Punkte nah Zussammen geschob
 > Ableitung verrät die Steigung einer Funktion an einem Geweissen Punkt.
 
 ![[diff things mathe oida bsp idk]]
+![[Ableitung elementare Funktion]]

@@ -1729,6 +1729,7 @@ intern
 informationen
 interfaces
 ipv
+irgendein
 output
 oida
 oder
@@ -3537,6 +3538,7 @@ Differenzierung
 Differenzialqoutient
 Differenzialqutient
 Differentenqoutienten
+Differenzqoutien
 Bsp
 Boschis
 Bipolartransistor
@@ -5838,6 +5840,7 @@ FN
 FeR
 FJJ
 FLP
+Für
 EBA
 Elektronenpaarbindung
 Elektronen
