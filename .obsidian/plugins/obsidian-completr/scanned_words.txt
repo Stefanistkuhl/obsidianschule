@@ -1094,6 +1094,7 @@ Geschw
 Gerade
 Grenzwert
 Geweissen
+Gegeben
 general
 gesetzte
 gedreht
@@ -1730,6 +1731,7 @@ informationen
 interfaces
 ipv
 irgendein
+ihren
 output
 oida
 oder
@@ -2373,6 +2375,7 @@ Sekante
 Stell
 Schreibweise
 Stelle
+Steigungswinkel
 Tuple
 Teststoff
 Teilchen
@@ -3326,6 +3329,9 @@ domain
 differenzierbar
 differenzierte
 dort
+diffrenzieren
+differenziereErst
+differenzieren
 Dynamisch
 Dotierung
 Dioden
@@ -3740,6 +3746,7 @@ BOw
 Bytes
 Bit
 BCwAuvYj
+Bestimme
 wichtig
 was
 wie
@@ -3919,6 +3926,7 @@ wege
 wGK
 wUC
 weitergegebene
+welcher
 Lehrer
 Ladig
 Links
@@ -4679,6 +4687,7 @@ hniFoUqy
 hü
 hostnamen
 heißt
+hochzahl
 Osko
 Orbitale
 Orbitalen
@@ -5072,6 +5081,8 @@ besser
 basieren
 beiden
 bedeutet
+bruch
+besitzt
 Idi
 Ionenbindungen
 Ionisierungsenergie
@@ -5668,6 +5679,7 @@ new
 nTIf
 normalerweise
 nah
+negative
 FFB
 Feldeffekttransistor
 Feldeffekt
@@ -6050,6 +6062,7 @@ EUk
 EIZY
 Elektronische
 ECjmO
+Erst
 Halbleiter
 Hauptsächlich
 Hantelförmig
@@ -6813,6 +6826,7 @@ abgespeichert
 anlegen
 anmeldung
 ableitung
+angenehm
 Ausbeute
 Atomaufbau
 Arbeiten
@@ -7694,6 +7708,7 @@ klasse
 kHekRgFX
 keys
 key
+kpfyA
 überlappen
 überfluten
 über
