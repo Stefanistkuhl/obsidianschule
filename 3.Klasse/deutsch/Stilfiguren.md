@@ -36,5 +36,17 @@ tags:
 	- Jemanden das Herz brechen.
 - Oxymoron (zwei Begriffe die sich wiedersprechen)
 	 - scharfsinnige Dummheit
-	 - Friedenspanzer scharfsinnige Dummheit
 	 - Friedenspanzer
+- Paradoxon (scheibar Wiedersprüchliche Aussage)
+	- Ich weiß, dass ich nichts weiß.
+	- Das Leben ist der Tod, und der Tod ist das Leben
+- Rhetorische Frage (Frage, auf die keine Antwort erwartet wird)
+	- Ist das nicht offensichtlich?
+	- Dein Ernst?
+- Tautologie oder Pleonasmus (zwei Wörter, die dasselbe ausdrüchen, aber gemeinsam keine neue Bedeutung ergeben)
+	- Du machst mir Angst und Bange
+	- Geschäft ist Geschäft
+- Vergleich
+	- Du hast ein Gehirn wie ein Goldfisch.
+	- Schön wie ein Diamant.
+
