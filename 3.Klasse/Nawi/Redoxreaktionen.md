@@ -38,5 +38,7 @@ bsp
 Bsp bei Salzen: Ionen getrennt betrachten!
 ![[Redoxreaktionen 23-09-2024-40.excalidraw]]
 ![[Redoxreaktionen 23-09-2024-28.excalidraw]]
-Übung 
-![[Redoxreaktionen 23-09-2024-44.excalidraw]]
+Übung  ![[Redoxreaktionen 23-09-2024-44.excalidraw]]
+Reduktion und Oxidation laufen immer gemeinsam ab.
+Man spricht von Redoxreaktionen
+![[Redoxreaktionen 23-09-2024-30.excalidraw]]

@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "b44edd32f22809e8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/Redoxreaktionen 23-09-2024-30.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "eae5343733f21afa",
             "type": "leaf",
             "state": {
@@ -97,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bilder/Redoxreaktionen 23-09-2024-44.excalidraw.md",
+                "file": "bilder/Redoxreaktionen 23-09-2024-30.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +152,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "bilder/Redoxreaktionen 23-09-2024-44.excalidraw.md"
+                "file": "bilder/Redoxreaktionen 23-09-2024-30.excalidraw.md"
               }
             }
           },
@@ -184,9 +194,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "eae5343733f21afa",
+  "active": "b44edd32f22809e8",
   "lastOpenFiles": [
     "3.Klasse/Nawi/Redoxreaktionen.md",
+    "bilder/Redoxreaktionen 23-09-2024-30.excalidraw.md",
     "bilder/Redoxreaktionen 23-09-2024-44.excalidraw.md",
     "bilder/Redoxreaktionen 23-09-2024-28.excalidraw.md",
     "bilder/Redoxreaktionen 23-09-2024-40.excalidraw.md",
@@ -212,7 +223,6 @@
     "3.Klasse/nwt/link-pulse.md",
     "3.Klasse/nwt/Ah yes 20 millionen cisco sachen.md",
     "3.Klasse/nwt/Switch verification commands.md",
-    "3.Klasse/sew/3kl sew.md",
     "3.Klasse/ggp",
     "bilder/Pasted image 20240919134221.png",
     "3.Klasse/sew",
