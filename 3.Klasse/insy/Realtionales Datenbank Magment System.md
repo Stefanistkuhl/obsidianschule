@@ -11,3 +11,5 @@ tags:
 	- Vorkehrungen zur Sicherung der daten
 	- Optimierung der Speicherung
 	- Schnitstelle zur Benutzung
+	
+[[Relationale Datenbank Systeme]]

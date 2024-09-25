@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#3te_Klasse  ",
+  "search": "tag:#3te_Klasse",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -165,6 +165,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 228,
-  "scale": 0.1931721154315782,
+  "scale": 0.9030882830828686,
   "close": false
 }
