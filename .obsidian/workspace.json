@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4f860190711e8b9e",
+        "id": "8061080ea7f9de9e",
         "type": "tabs",
         "children": [
           {
-            "id": "6822ee9c1a28cc35",
+            "id": "83efe5a287ca8a2b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -166,11 +166,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "6822ee9c1a28cc35",
+  "active": "83efe5a287ca8a2b",
   "lastOpenFiles": [
+    "3.Klasse/deutsch/Redemanuscript aufgabe things.md",
+    "3.Klasse/deutsch/3kl deutsch.md",
+    "3.Klasse/deutsch/Redemanuscript things aufgabe.md",
     "3.Klasse/deutsch/Stilfiguren.md~",
     "3.Klasse/deutsch/Stilfiguren.md",
-    "3.Klasse/deutsch/3kl deutsch.md",
     "bilder/Redoxreaktionen 23-09-2024-44.excalidraw.md",
     "3.Klasse/Nawi/Redoxreaktionen.md",
     "bilder/Redoxreaktionen 23-09-2024-30.excalidraw.md",
@@ -194,7 +196,6 @@
     "templates/nwt.md",
     "3.Klasse/nwt/dual stack topology.md",
     "bilder/Pasted image 20240920113300.png",
-    "3.Klasse/nwt/Secure Remote Access.md",
     "3.Klasse/ggp",
     "bilder/Pasted image 20240919134221.png",
     "3.Klasse/sew",
@@ -213,7 +214,6 @@
     "3.Klasse/syt",
     "3.Klasse/itsi",
     "3.Klasse/sew",
-    "3.Klasse/ggp",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
     "Zeichnungen/Untitled.canvas"
   ]
