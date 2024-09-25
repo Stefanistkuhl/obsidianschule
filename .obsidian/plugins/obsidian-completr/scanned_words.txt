@@ -412,6 +412,7 @@ Klassisch
 Klassifizierungskonzept
 Klassifizierungsstufen
 Klassifizierungsstufe
+KlRn
 syt
 shittalken
 sEiD
@@ -693,6 +694,9 @@ stetig
 sink
 sRXuHlZz
 sOnKT
+spricht
+sfI
+sinkt
 elektro
 erklärt
 ein
@@ -928,6 +932,7 @@ elU
 eingeben
 einschalten
 ewHNKg
+eZjS
 GPIO
 Gleichungne
 Gleichung
@@ -1103,6 +1108,7 @@ Geweissen
 Gegeben
 GEsamtladung
 GNiTewAS
+GgP
 general
 gesetzte
 gedreht
@@ -1349,6 +1355,7 @@ gdD
 geschickt
 gen
 geschoben
+gemeinsam
 purpose
 paare
 paaren
@@ -1532,6 +1539,7 @@ passwörter
 personen
 password
 ports
+pjMawr
 input
 int
 immutable
@@ -1740,6 +1748,8 @@ interfaces
 ipv
 irgendein
 ihren
+iFLtV
+iTgccZVL
 output
 oida
 oder
@@ -1931,6 +1941,7 @@ ohcE
 out
 oLrwAfLS
 oxidiert
+onsyi
 float
 fReIwIlLiG
 für
@@ -2387,6 +2398,7 @@ Stelle
 Steigungswinkel
 Summe
 Salzen
+STpVV
 Tuple
 Teststoff
 Teilchen
@@ -2941,6 +2953,7 @@ WSl
 Wege
 Wichtig
 Wichtiges
+Wasserstoffperoxid
 verschienen
 verteilen
 voll
@@ -3142,6 +3155,7 @@ var
 verarbeitet
 version
 verrät
+vRigoC
 datetypen
 deppat
 dem
@@ -3349,6 +3363,7 @@ diffrenzieren
 differenziereErst
 differenzieren
 dvV
+dScAe
 Dynamisch
 Dotierung
 Dioden
@@ -3766,6 +3781,7 @@ BCwAuvYj
 Bestimme
 Bestimmen
 BFpBv
+BxqAp
 wichtig
 was
 wie
@@ -3946,6 +3962,7 @@ wGK
 wUC
 weitergegebene
 welcher
+wenige
 Lehrer
 Ladig
 Links
@@ -4118,6 +4135,7 @@ LDD
 LIrA
 LUbLgntN
 LOpzMD
+LsEa
 unsere
 uns
 und
@@ -4525,6 +4543,7 @@ Nehmen
 NLP
 Normale
 NaOH
+NsRUADOD
 hIeR
 höchsten
 hintere
@@ -4711,6 +4730,8 @@ hostnamen
 heißt
 hochzahl
 hRtxuVtg
+hNV
+hVm
 Osko
 Orbitale
 Orbitalen
@@ -4893,6 +4914,8 @@ Object
 Oizo
 Oxidationszahl
 Oxzahl
+Oxidation
+Oxidzahl
 beeing
 background
 berechnen
@@ -5110,6 +5133,7 @@ bruch
 besitzt
 betrachten
 bNcKvqUa
+bYGhuqLH
 Idi
 Ionenbindungen
 Ionisierungsenergie
@@ -5306,6 +5330,8 @@ Ihrer
 Ihr
 Intern
 Ips
+Inb
+IpLx
 Momente
 Massezahl
 Metalle
@@ -5517,6 +5543,8 @@ Mathematische
 MkWFNvk
 Metallhydriden
 MgCl
+MnO
+MCvo
 nawi
 nix
 nicht
@@ -5709,6 +5737,7 @@ nTIf
 normalerweise
 nah
 negative
+nUTyITZt
 FFB
 Feldeffekttransistor
 Feldeffekt
@@ -5885,6 +5914,7 @@ FLP
 Für
 Faustregeln
 FeO
+FDXq
 EBA
 Elektronenpaarbindung
 Elektronen
@@ -6611,6 +6641,8 @@ Rzz
 Read
 RAM
 Ram
+Redoxreaktionen
+REDEglr
 aufstellen
 aus
 als
@@ -6864,6 +6896,7 @@ anlegen
 anmeldung
 ableitung
 angenehm
+azzkho
 Ausbeute
 Atomaufbau
 Arbeiten
@@ -7089,6 +7122,7 @@ Art
 Ableitung
 Außer
 Atomen
+AajOdgfI
 PSE
 Protonen
 Problem
@@ -7285,6 +7319,9 @@ Punkt
 PIsHY
 PbO
 PbSO
+PSXDLKYd
+PJhQgbDk
+PywgzC
 Zusammenfassung
 Zustand
 Zener
@@ -7963,6 +8000,9 @@ lokale
 läuft
 lim
 lshugbFt
+laufen
+lbcddWDH
+lWkwGd
 conf
 chroloid
 chlor
@@ -8147,6 +8187,7 @@ commands
 crypto
 cisco
 copy
+cLe
 zusammen
 zw
 zu
@@ -8327,6 +8368,8 @@ zDk
 zugriff
 zwar
 zuD
+zzDxv
+zHw
 äußersten
 ändern
 äußeren
@@ -8665,6 +8708,7 @@ Unternehmen
 Untersucht
 UKBKQejn
 UVolj
+UWAJtWc
 Verbindung
 Vieh
 Verbindungen
@@ -8820,6 +8864,8 @@ VCIQcqLi
 Verwendete
 Versperren
 VebdMud
+VTvadLjA
+VII
 Überblick
 Übergang
 Übungsdaten
@@ -8982,6 +9028,8 @@ JAIyr
 JDzMRtDS
 JSqdJcPq
 JPn
+JCxLETd
+JXvt
 xd
 xss
 xe
@@ -9289,6 +9337,8 @@ javascript
 jOk
 jTraQg
 job
+jMlj
+jSR
 yappen
 yappt
 yvT
@@ -9769,6 +9819,7 @@ YTQ
 YKR
 Yvsw
 YMD
+Yjo
 XawbH
 Xr
 XJpQ
@@ -9941,6 +9992,8 @@ XmZ
 XJpzz
 XIk
 XrCKsTDj
+XPzEE
+XjT
 Ändern
 Äx
 Ähnlich
