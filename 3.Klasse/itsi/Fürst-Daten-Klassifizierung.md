@@ -6,6 +6,13 @@ tags:
   - itsi
 ---
 Firma: ÖBB
+- Öffentliches
+	- Fahrpläne der Züge 
+	- Störungen der Züge 
+- Internes 
+	- 
+- Geheim 
+	- Mitarbeiter und Kundendaten
 
 - Papierdokumente
 	- Öffentlich 
