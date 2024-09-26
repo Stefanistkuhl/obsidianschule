@@ -6,13 +6,21 @@ tags:
   - itsi
 ---
 Firma: ÖBB
-- Öffentliches
-	- Fahrpläne der Züge 
-	- Störungen der Züge 
-- Internes 
-	- 
-- Geheim 
-	- Mitarbeiter und Kundendaten
+- Geschäftsprozesse
+	- Verkauf von Tickets
+	- Aufbau von Infrastruktur
+	- Transportieren von Waren
+- Gesammelte Daten 
+	- Statistiken von Ausfällen der Züge und Streckenzustände
+		- Wird verabeitet um es in der Scotty App anzuzeigen
+	- Anzahl der Fahrgäste zu bestimmten Zeiten 
+		- Dasselbe wie vorher
+	- Transportierte Waren 
+		- Wird Verabeitet um einen Überlbick über die Finanzen zu haben
+	- Zahlungsinformationen von Kunden 
+		- Wird nicht verarbeitet
+	- Informationen der Partner und Waren
+		- Wird nicht verarbeitet
 
 - Papierdokumente
 	- Öffentlich 
