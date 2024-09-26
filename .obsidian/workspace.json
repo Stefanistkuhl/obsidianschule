@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/ggp/3kl GGP.md",
+                "file": "3.Klasse/ggp/aufklärung.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/ggp/3kl GGP.md",
+                "file": "3.Klasse/ggp/aufklärung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/ggp/3kl GGP.md"
+                "file": "3.Klasse/ggp/aufklärung.md"
               }
             }
           },
@@ -175,6 +175,9 @@
   },
   "active": "72167124fbff341a",
   "lastOpenFiles": [
+    "templates/ggp.md",
+    "3.Klasse/ggp/aufklärung.md",
+    "3.Klasse/ggp/3kl GGP.md",
     "aktuelle itsi aufgabe.md",
     "3.Klasse/itsi/Klassifizierunsstufen.md",
     "3.Klasse/itsi/Daten bsp selbsttändiger entwickler.md",
@@ -201,8 +204,6 @@
     "bilder/Redoxreaktionen 23-09-2024-40.excalidraw.md",
     "bilder/Redoxreaktionen 23-09-2024-59.excalidraw.md",
     "3.Klasse/Nawi/3kl nawi.md",
-    "bilder/diff thing bsp 23-09-2024-42.excalidraw.md",
-    "3.Klasse/mathe/diff thing bsp.md",
     "bilder/Pasted image 20240920113300.png",
     "3.Klasse/ggp",
     "bilder/Pasted image 20240919134221.png",

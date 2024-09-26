@@ -417,6 +417,7 @@ Kundenrechnungen
 Keys
 Key
 Kundensupport
+Kant
 syt
 shittalken
 sEiD
@@ -938,6 +939,7 @@ einschalten
 ewHNKg
 eZjS
 elektronische
+eigenen
 GPIO
 Gleichungne
 Gleichung
@@ -3387,6 +3389,10 @@ differenziereErst
 differenzieren
 dvV
 dScAe
+dich
+deines
+dienen
+denk
 Dynamisch
 Dotierung
 Dioden
@@ -4569,6 +4575,7 @@ NLP
 Normale
 NaOH
 NsRUADOD
+Nachdenken
 hIeR
 höchsten
 hintere
@@ -5360,6 +5367,7 @@ IpLx
 Information
 Interne
 Interner
+Ideen
 Momente
 Massezahl
 Metalle
@@ -6334,6 +6342,7 @@ HIrachie
 HyISEtVw
 HSO
 Handhabung
+Habe
 Chemisches
 Chemische
 Chlor
@@ -8919,6 +8928,7 @@ VTvadLjA
 VII
 Visitenkarte
 Verschlüsselten
+Verstandes
 Überblick
 Übergang
 Übungsdaten
