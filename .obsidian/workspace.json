@@ -4,16 +4,64 @@
     "type": "split",
     "children": [
       {
-        "id": "8061080ea7f9de9e",
+        "id": "906b942819d4d262",
         "type": "tabs",
         "children": [
           {
-            "id": "83efe5a287ca8a2b",
+            "id": "7cf0ea6ef3cd6505",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/insy/Datenbank-Entwurf.md",
+                "file": "3.Klasse/insy/Aufhabe daten thingy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7d9be08366edc0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aktuelle itsi aufgabe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33c81a6ba569eecd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/itsi/Klassifizierunsstufen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7faf2e0df7fafbe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/itsi/Daten bsp selbsttändiger entwickler.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee8e162d296b2efb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/itsi/Welche Arten von Daten gibt es?.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/insy/Datenbank-Entwurf.md",
+                "file": "3.Klasse/insy/Aufhabe daten thingy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/insy/Datenbank-Entwurf.md"
+                "file": "3.Klasse/insy/Aufhabe daten thingy.md"
               }
             }
           },
@@ -173,12 +221,17 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "83efe5a287ca8a2b",
+  "active": "7cf0ea6ef3cd6505",
   "lastOpenFiles": [
+    "3.Klasse/itsi/Daten bsp selbsttändiger entwickler.md",
+    "3.Klasse/insy/Aufhabe daten thingy.md",
+    "aktuelle itsi aufgabe.md",
+    "3.Klasse/itsi/Welche Arten von Daten gibt es?.md",
+    "3.Klasse/itsi/Klassifizierunsstufen.md",
+    "3.Klasse/insy/Datenbank-Entwurf.md",
     "3.Klasse/insy/Relationale Datenbank Systeme.md",
     "3.Klasse/insy/3kl insy.md",
     "3.Klasse/insy/Realtionales Datenbank Magment System.md",
-    "3.Klasse/insy/Datenbank-Entwurf.md",
     "3.Klasse/insy/Was ist eine Datenbank.md",
     "3.Klasse/insy/Typen von Datenbanken.md",
     "3.Klasse/itsi/3kl itsi.md",
@@ -198,11 +251,6 @@
     "bilder/diff thing bsp 23-09-2024-42.excalidraw.md",
     "3.Klasse/mathe/diff thing bsp.md",
     "bilder/diff thing bsp 23-09-2024-32.excalidraw.md",
-    "3.Klasse/mathe/Ableitung elementare Funktion.md",
-    "3.Klasse/mathe/diff things mathe oida bsp idk.md",
-    "bilder/diff things mathe oida bsp idk 23-09-2024-06.excalidraw.md",
-    "3.Klasse/mathe/Differentzialrechnung.md",
-    "3.Klasse/mathe/3kl mathe.md",
     "bilder/Pasted image 20240920113300.png",
     "3.Klasse/ggp",
     "bilder/Pasted image 20240919134221.png",

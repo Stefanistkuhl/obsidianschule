@@ -18,3 +18,4 @@ tags:
 - Je nach Notwendigkeit auch mehr Stufen möglich
 
 ![[Daten bsp selbsttändiger entwickler]]
+![[Aufhabe daten thingy]]
