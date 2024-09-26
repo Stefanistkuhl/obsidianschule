@@ -3,27 +3,21 @@ id: Aufhabe daten thingy
 aliases: []
 tags:
   - 3te_Klasse
-  - insy
   - itsi
 ---
 Firma: ÖBB
 
-
-|                         | Öffentlich                                                                                                                                                                                                                                       | Intern                                                                                                                                                                                                                                | Geheim                                                                                                                                                                                                                                                                                                                                                   |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Paperdokumente          | Bsp Flyer<br>Werden Öffentlich ausgeteilt<br>                                                                                                                                                                                                    | Bsp                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                          |
-| Elektronische Dokumente | Bsp Öffentliche Webseite<br>Lagerung:  Cloud oder on Prem<br>Entsorgung: Server abdrehen                                                                                                                                                         | Bsp Dokumente wie zb Jährliche Ziele, Ausbildungs Material, Richtlinien<br>                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                          |
-| Elekronische Post       | Bsp Öffentliche Email für Kundensupport<br>Handhabung:<br>Nur ausgewählen Mitarbeiten Zugriff für diesen Mail account geben<br>Lagerung: <br>Email zb auf einem Flyer oder Website auffindbar<br>Ensorgung: Datein Löschen, Account Deaktivieren | Bsp Interner Email Server<br>Handhabung:<br>Nur über anmdeldaten, welche man als Angestellter bekommt zugänglich.<br>Lagerung: Cloud oder on Prem<br>Entsorgung: Accounts von nicht mehr Arbeiten Mitarbeitern löschen, Daten löschen | Bsp Kommunikation über wichtige Firmeninterne Projekte oder mit Kunden<br>Handhabung:<br>Verschlüsselte Online Kommunikation (guter Witz als ob irgendwer sich die mühe macht emails zu Verschlüsseln in einer Firma)<br>Lagerung:<br>Verschlüsslelt auf dem Email Server<br>Entsorgung: Key löschen, Daten unwiederuflich Löschen, Festplatte Zerstören |
-|                         |                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                          |
 - Papierdokumente
 	- Öffentlich 
 		- Flyer 
 			- Handhabung 
 				- Werden Öffentlich verteilt
 			- Lagerung 
+				- In der Firma um Verteilt zu werden
 			- Entsorgung
+				- Papiermüll
 	- Intern 
-		- a
+		- 
 			- Handhabung 
 			- Lagerung 
 			- Entsorgung
@@ -38,30 +32,45 @@ Firma: ÖBB
 			- Handhabung 
 				- Ist Öffentlich für jeden Ansehbar
 			- Lagerung 
+				- In der Cloud oder on Prem
 			- Entsorgung
+				- Datein Löschen, Sever auschalten
 	- Intern 
-		- a
+		- Dokumente wie zb Jährliche Ziele, Ausbildungs Material, Richtlinien
 			- Handhabung 
+				- 
 			- Lagerung 
 			- Entsorgung
 	- Geheim
-		- a
+		- Persöhnliche Daten über angestellte
 			- Handhabung 
+				- Nur Mitarbeiter in Human Ressources haben Zugriff um neue Daten einzutragen, löschen oder zu ändern
 			- Lagerung 
+				- Verschlüsselt in einer Datenbank
 			- Entsorgung
+				- Key löschen, Festplatte zerstören 
 - Elektronische Post
 	- Öffentlich 
-		- a
+		- Öffentliche Email für Kundensupport
 			- Handhabung 
+				- Nur Mitarbeiter die im Support sind sollten Zugriff haben
 			- Lagerung 
+				- Öffentlich auffindbar auf der Webseite, emails selbst auf dem Email server
 			- Entsorgung
+				- Daten Löschen oder Email Server auschalten und Festplatten zerstören
 	- Intern 
-		- a
+		- Internet Email Server
 			- Handhabung 
+				- Nur über Anmeldedaten, die nur Angestellete haben erreichbar
 			- Lagerung 
+				- Emails auf dem Server (cloud oder on on prem) meist unverschlüsselt
 			- Entsorgung
+				- Daten Löschen, Wenn verschlüsslt Key löschen, Festplatten zerstören
 	- Geheim
-		- a
+		- Kommunikation zwischen Firma und ihren Partnern über wichtige Projekte
 			- Handhabung 
+				- Verschlüsselte Online Kommunikation
 			- Lagerung 
+				- Idealerweise auf einem Internen Server oder in der Cloud
 			- Entsorgung
+				- Key löschen, Festplatte zerstören, `dd if=/dev/urandom of=/dev/sdX bs=1M`
