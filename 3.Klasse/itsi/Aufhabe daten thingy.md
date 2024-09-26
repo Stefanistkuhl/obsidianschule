@@ -27,9 +27,11 @@ Firma: ÖBB
 	- Geheim 
 		- Verträge
 			- Handhabung 
-				- 
+				- Nur ausgewählte Mitarbeiter und der Partner haben Zugriff.
 			- Lagerung 
+				- Tresor
 			- Entsorgung
+				- Schreddern
 - Elektronische Dokumente
 	- Öffentlich 
 		- Öffentliche Webseite
