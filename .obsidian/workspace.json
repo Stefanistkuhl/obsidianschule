@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7cf0ea6ef3cd6505",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/insy/Aufhabe daten thingy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c7d9be08366edc0a",
             "type": "leaf",
             "state": {
@@ -66,8 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6d92b51b3a3ce116",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/itsi/Aufhabe daten thingy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/insy/Aufhabe daten thingy.md",
+                "file": "3.Klasse/itsi/Aufhabe daten thingy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/insy/Aufhabe daten thingy.md"
+                "file": "3.Klasse/itsi/Aufhabe daten thingy.md"
               }
             }
           },
@@ -221,11 +222,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "7cf0ea6ef3cd6505",
+  "active": "6d92b51b3a3ce116",
   "lastOpenFiles": [
-    "3.Klasse/itsi/Daten bsp selbsttändiger entwickler.md",
-    "3.Klasse/insy/Aufhabe daten thingy.md",
+    "3.Klasse/itsi/Aufhabe daten thingy.md~",
     "aktuelle itsi aufgabe.md",
+    "3.Klasse/itsi/Aufhabe daten thingy.md",
+    "3.Klasse/itsi/Daten bsp selbsttändiger entwickler.md",
     "3.Klasse/itsi/Welche Arten von Daten gibt es?.md",
     "3.Klasse/itsi/Klassifizierunsstufen.md",
     "3.Klasse/insy/Datenbank-Entwurf.md",
@@ -250,7 +252,6 @@
     "3.Klasse/Nawi/3kl nawi.md",
     "bilder/diff thing bsp 23-09-2024-42.excalidraw.md",
     "3.Klasse/mathe/diff thing bsp.md",
-    "bilder/diff thing bsp 23-09-2024-32.excalidraw.md",
     "bilder/Pasted image 20240920113300.png",
     "3.Klasse/ggp",
     "bilder/Pasted image 20240919134221.png",

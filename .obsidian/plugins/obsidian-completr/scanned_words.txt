@@ -6163,6 +6163,7 @@ Exemplar
 Entsorgung
 Entsorgen
 Elektronishce
+Ensorgung
 Halbleiter
 Hauptsächlich
 Hantelförmig
@@ -6936,6 +6937,7 @@ ableitung
 angenehm
 azzkho
 ausgeteilt
+abdrehen
 Ausbeute
 Atomaufbau
 Arbeiten
@@ -7367,6 +7369,7 @@ Person
 Papierkorb
 Prozesse
 Paperdokumente
+Prem
 Zusammenfassung
 Zustand
 Zener
