@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "906b942819d4d262",
+        "id": "b14937f9c0d036fc",
         "type": "tabs",
         "children": [
           {
-            "id": "c7d9be08366edc0a",
+            "id": "72167124fbff341a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aktuelle itsi aufgabe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33c81a6ba569eecd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/itsi/Klassifizierunsstufen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7faf2e0df7fafbe2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/itsi/Daten bsp selbsttändiger entwickler.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee8e162d296b2efb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/itsi/Welche Arten von Daten gibt es?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d92b51b3a3ce116",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/itsi/Fürst-Daten-Klassifizierung.md",
+                "file": "3.Klasse/ggp/3kl GGP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/itsi/Fürst-Daten-Klassifizierung.md",
+                "file": "3.Klasse/ggp/3kl GGP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/itsi/Fürst-Daten-Klassifizierung.md"
+                "file": "3.Klasse/ggp/3kl GGP.md"
               }
             }
           },
@@ -222,14 +173,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "6d92b51b3a3ce116",
+  "active": "72167124fbff341a",
   "lastOpenFiles": [
-    "3.Klasse/itsi/Aufhabe daten thingy.md~",
     "aktuelle itsi aufgabe.md",
-    "3.Klasse/itsi/Fürst-Daten-Klassifizierung.md",
+    "3.Klasse/itsi/Klassifizierunsstufen.md",
     "3.Klasse/itsi/Daten bsp selbsttändiger entwickler.md",
     "3.Klasse/itsi/Welche Arten von Daten gibt es?.md",
-    "3.Klasse/itsi/Klassifizierunsstufen.md",
+    "3.Klasse/itsi/Fürst-Daten-Klassifizierung.md",
+    "3.Klasse/itsi/Aufhabe daten thingy.md~",
     "3.Klasse/insy/Datenbank-Entwurf.md",
     "3.Klasse/insy/Relationale Datenbank Systeme.md",
     "3.Klasse/insy/3kl insy.md",
@@ -269,7 +220,6 @@
     "bilder/Pasted image 20240912142937.png",
     "bilder/Pasted image 20240912142648.png",
     "3.Klasse/syt",
-    "3.Klasse/itsi",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
     "Zeichnungen/Untitled.canvas"
   ]
