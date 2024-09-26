@@ -17,13 +17,17 @@ Firma: ÖBB
 			- Entsorgung
 				- Papiermüll
 	- Intern 
-		- 
+		- Kundenrechnungen
 			- Handhabung 
+				- Nur Zugänglich für die Finanzabteilung
 			- Lagerung 
+				- Abgesperrter Raum
 			- Entsorgung
+				- Schredder
 	- Geheim 
-		- a
+		- Verträge
 			- Handhabung 
+				- 
 			- Lagerung 
 			- Entsorgung
 - Elektronische Dokumente
@@ -38,9 +42,11 @@ Firma: ÖBB
 	- Intern 
 		- Dokumente wie zb Jährliche Ziele, Ausbildungs Material, Richtlinien
 			- Handhabung 
-				- 
+				- Nur Zugänglich für Angestelle und Authetifizierung Notwending für Zugriff
 			- Lagerung 
+				- Interner File Server oder Cloud
 			- Entsorgung
+				- Löschen, Festplatte Zerstören
 	- Geheim
 		- Persöhnliche Daten über angestellte
 			- Handhabung 
