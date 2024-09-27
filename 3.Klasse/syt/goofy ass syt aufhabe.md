@@ -26,6 +26,23 @@ tags:
 
 - Dateiverwaltung
   - ![[Pasted image 20240927144209.png]]
-  - Wenn man mit `touch` eine leere Date erstellt wird, interagiert das Programm mit dem Dateisytem und erstellt einen Zeiger für den Bereich im Speicher, der für die Datei asoziert wird. 
+  - Wenn man eine Datei erstellt passiert folgendes:
+    - Ein Zeiger wird erstellt, der zu den Datenblöcken auf der Festplatte zeigt, wo Informationen wie Dateibesitzer und Berechtigungen abgespeichert werden.
+    - Dann wird ein Link erstellt zu der Datei was quasi der Dateiname is um die Datei im Dateisystem anzuzeigen.
+    - [information hiervon](https://askubuntu.com/questions/113863/how-are-files-created)
 
+- Windows vs Linux
+  - Benutzerfreundlichekeit
+    - Windows
+      - Auf so gut wie jedem Pc, Laptop etc vorinstaliert und da es der Standard ist. Zusätlich existiert fast jede Software für Windows und so muss der Nutzer nie nach Alternativen oder Workarrounds suchen.
+    - Linux
+      - Eigentlich nie Vorinstaliert, weshalb für die Meisten Nutzer die Hürde es auszuprobieren viel zu groß ist und es so als weniger Nutzerfreundlich wirken kann, selbst wenn de instalations Prozess oder der Dekstop Nutzerfreundlicher sind. Die Nutzerfreundlichkeit hängt alleine von der Gwählten Distribution und des Desktops ab, jedoch das Fehlen an Treibern und anderer Software sind oft schlechtere und weniger Nutzerfreundliche Programme die einzige Wahl des Nutzers.
+  - Sicherheit 
+    - Windows
+      - Da 71.47% des Desktop Os Marketshares Windows sind wird logischerweise auch die meiste Maleware dafür entwickelt. Neben dem hat Windows andere Ansätze zu Datei und Nutzerberechtigungen.
+    - Linux
+      - 
+  - Einsatzbereiche
+    - Windows
+    - Linux
 
