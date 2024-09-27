@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/itsi/AES.md",
+                "file": "3.Klasse/nwt/Router Grundconfig.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/itsi/AES.md",
+                "file": "3.Klasse/nwt/Router Grundconfig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/itsi/AES.md"
+                "file": "3.Klasse/nwt/Router Grundconfig.md"
               }
             }
           },
@@ -185,8 +185,8 @@
   },
   "active": "72167124fbff341a",
   "lastOpenFiles": [
-    "bilder/AES 27-09-2024-25.excalidraw.md",
     "3.Klasse/itsi/AES.md",
+    "bilder/AES 27-09-2024-25.excalidraw.md",
     "3.Klasse/itsi/Symetrische Verschlüsselung.md",
     "3.Klasse/itsi/Kryptografie.md",
     "3.Klasse/itsi/Was bedeuted Kryptographie.md",
