@@ -53,7 +53,7 @@
       "query": "tag:#nwt  ",
       "color": {
         "a": 1,
-        "rgb": 8650992
+        "rgb": 15728836
       }
     },
     {
@@ -95,7 +95,7 @@
       "query": "tag:#medt  ",
       "color": {
         "a": 1,
-        "rgb": 14701233
+        "rgb": 65284
       }
     },
     {
@@ -165,6 +165,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 228,
-  "scale": 0.9030882830828686,
+  "scale": 0.48732186647398384,
   "close": false
 }

@@ -11,34 +11,18 @@
             "id": "72167124fbff341a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/nwt/Collion Domains.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "092ee1b688070b80",
-            "type": "leaf",
-            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "bilder/Collion Domains 27-09-2024-56.excalidraw.md"
+                "file": "bilder/vlans 27-09-2024-53.excalidraw.md"
               }
             }
           },
           {
-            "id": "49519fa4eb9142fc",
+            "id": "d9f7cb43a61973b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/nwt/Ethernet Frame aufbau.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -109,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/nwt/Collion Domains.md",
+                "file": "bilder/vlans 27-09-2024-53.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +138,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/nwt/Collion Domains.md"
+                "file": "bilder/vlans 27-09-2024-53.excalidraw.md"
               }
             }
           },
@@ -198,9 +182,13 @@
   },
   "active": "72167124fbff341a",
   "lastOpenFiles": [
+    "3.Klasse/nwt/vlan definition.md",
+    "3.Klasse/nwt/vlans.md",
+    "bilder/vlans 27-09-2024-53.excalidraw.md",
+    "3.Klasse/nwt/3kl nwt.md",
+    "3.Klasse/nwt/Collion Domains.md",
     "3.Klasse/nwt/Ethernet Frame aufbau.md",
     "bilder/Collion Domains 27-09-2024-56.excalidraw.md",
-    "3.Klasse/nwt/Collion Domains.md",
     "bilder/Collion Domains 27-09-2024-49.excalidraw.md",
     "3.Klasse/nwt/Switching Domains.md",
     "3.Klasse/nwt/switching conpets.md",
@@ -211,7 +199,6 @@
     "bilder/AES 27-09-2024-25.excalidraw.md",
     "3.Klasse/nwt/the switch MAC address Table.md",
     "3.Klasse/nwt/Frame Forwarding.md",
-    "3.Klasse/nwt/3kl nwt.md",
     "3.Klasse/nwt/Filter Show Comamnd Output.md",
     "3.Klasse/nwt/Ah yes 20 millionen cisco sachen.md",
     "3.Klasse/nwt/cisco commands oida.md",
@@ -221,9 +208,6 @@
     "3.Klasse/itsi/Kryptografie.md",
     "3.Klasse/itsi/Was bedeuted Kryptographie.md",
     "3.Klasse/itsi/Grundlagen der Kryptographie.md",
-    "3.Klasse/itsi/3kl itsi.md",
-    "aktuelle itsi aufgabe.md",
-    "3.Klasse/ggp/aufklärung.md",
     "3.Klasse/itsi/Aufhabe daten thingy.md~",
     "3.Klasse/deutsch/Redemanuscript aufgabe things.md~",
     "3.Klasse/deutsch/Stilfiguren.md~",

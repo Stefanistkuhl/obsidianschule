@@ -427,6 +427,9 @@ Kundensupport
 Kant
 KxZ
 Kollision
+Kollisions
+Kollions
+KZA
 syt
 shittalken
 sEiD
@@ -725,6 +728,10 @@ src
 setting
 specified
 speed
+similar
+segementation
+same
+switches
 elektro
 erklärt
 ein
@@ -974,6 +981,7 @@ except
 eliminate
 eliminated
 einander
+each
 GPIO
 Gleichungne
 Gleichung
@@ -1159,6 +1167,7 @@ Glaubensfreiheit
 Gesetze
 GVYSl
 GtHh
+GhoH
 general
 gesetzte
 gedreht
@@ -1414,6 +1423,8 @@ glauben
 greater
 geleitet
 größe
+groups
+good
 purpose
 paare
 paaren
@@ -1819,6 +1830,8 @@ iFLtV
 iTgccZVL
 ingress
 including
+isolated
+individual
 output
 oida
 oder
@@ -2013,6 +2026,9 @@ oxidiert
 onsyi
 other
 one
+ont
+organization
+own
 float
 fReIwIlLiG
 für
@@ -2212,6 +2228,7 @@ frames
 forwarded
 flooded
 full
+following
 Str
 Statisch
 Stifdrops
@@ -2503,6 +2520,8 @@ Sequence
 Store
 Src
 Switches
+Smaller
+Segmentation
 Tuple
 Teststoff
 Teilchen
@@ -2887,6 +2906,9 @@ methode
 minimale
 mind
 more
+mroe
+managable
+multicasts
 Werte
 Wellen
 Wollen
@@ -3285,6 +3307,7 @@ verschlüsselt
 vtS
 verworfen
 verhindert
+various
 datetypen
 deppat
 dem
@@ -3507,6 +3530,7 @@ dst
 dest
 domains
 default
+dRRKPvze
 Dynamisch
 Dotierung
 Dioden
@@ -3724,6 +3748,8 @@ Drei
 Datei
 Delimiter
 Destination
+Domäne
+Domänen
 Bsp
 Boschis
 Bipolartransistor
@@ -3935,6 +3961,8 @@ Büger
 Blöcke
 Block
 BtdFXiod
+Brodcasts
+BzA
 wichtig
 was
 wie
@@ -4120,6 +4148,7 @@ welches
 wichse
 weiterleiten
 weitergeleitet
+with
 Lehrer
 Ladig
 Links
@@ -4503,6 +4532,8 @@ used
 usaually
 usually
 use
+unicasts
+unique
 Noten
 Neutronen
 Nichtmetalle
@@ -4907,6 +4938,7 @@ hVm
 hohen
 hex
 hyLN
+have
 Osko
 Orbitale
 Orbitalen
@@ -5321,6 +5353,7 @@ beginning
 been
 back
 bandwith
+broadcast
 Idi
 Ionenbindungen
 Ionisierungsenergie
@@ -6132,6 +6165,7 @@ Forward
 FYjFnpmF
 FZa
 Fragment
+Full
 EBA
 Elektronenpaarbindung
 Elektronen
@@ -6527,6 +6561,8 @@ HSO
 Handhabung
 Habe
 Header
+Hub
+Happs
 Chemisches
 Chemische
 Chlor
@@ -6710,6 +6746,7 @@ CRC
 Cyclic
 Cut
 Collisions
+CUxugjHQ
 Rechnen
 Richtungen
 Rafis
@@ -7153,6 +7190,7 @@ algorithm
 addresse
 auswirkt
 auto
+addressing
 Ausbeute
 Atomaufbau
 Arbeiten
@@ -7594,6 +7632,9 @@ Payload
 Preamble
 Packet
 Puffern
+Placing
+Provides
+Provide
 Zusammenfassung
 Zustand
 Zener
@@ -8070,6 +8111,7 @@ kcYd
 kontroliert
 kollisoinen
 korrupte
+kSIW
 überlappen
 überfluten
 über
@@ -8291,6 +8333,7 @@ long
 length
 ließt
 link
+logical
 conf
 chroloid
 chlor
@@ -8486,6 +8529,8 @@ collusions
 collision
 congressions
 contention
+connections
+characteristics
 zusammen
 zw
 zu
@@ -8849,6 +8894,8 @@ rizOuUy
 resets
 recieved
 reduce
+rOBFCvB
+range
 Um
 Unterschied
 Ube
@@ -9019,6 +9066,7 @@ Untersucht
 UKBKQejn
 UVolj
 UWAJtWc
+UaR
 Verbindung
 Vieh
 Verbindungen
@@ -9184,6 +9232,9 @@ Verfügbare
 Verschlüsselungsrunden
 Value
 VLAN
+Vlans
+VLANs
+Vlan
 Überblick
 Übergang
 Übungsdaten
@@ -10320,6 +10371,7 @@ XrCKsTDj
 XPzEE
 XjT
 XjG
+XgTXek
 Ändern
 Äx
 Ähnlich
