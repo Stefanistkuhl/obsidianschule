@@ -11,18 +11,12 @@
             "id": "72167124fbff341a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "bilder/vlans 27-09-2024-53.excalidraw.md"
+                "file": "3.Klasse/nwt/vlan definition.md",
+                "mode": "source",
+                "source": false
               }
-            }
-          },
-          {
-            "id": "d9f7cb43a61973b0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -93,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bilder/vlans 27-09-2024-53.excalidraw.md",
+                "file": "3.Klasse/nwt/vlan definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +132,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "bilder/vlans 27-09-2024-53.excalidraw.md"
+                "file": "3.Klasse/nwt/vlan definition.md"
               }
             }
           },
@@ -182,9 +176,9 @@
   },
   "active": "72167124fbff341a",
   "lastOpenFiles": [
+    "bilder/vlans 27-09-2024-53.excalidraw.md",
     "3.Klasse/nwt/vlan definition.md",
     "3.Klasse/nwt/vlans.md",
-    "bilder/vlans 27-09-2024-53.excalidraw.md",
     "3.Klasse/nwt/3kl nwt.md",
     "3.Klasse/nwt/Collion Domains.md",
     "3.Klasse/nwt/Ethernet Frame aufbau.md",
