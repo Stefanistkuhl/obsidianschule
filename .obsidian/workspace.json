@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/nwt/Ah yes 20 millionen cisco sachen.md",
+                "file": "3.Klasse/nwt/Switch address learning.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "91fdcc54d03be4b0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/AES 27-09-2024-25.excalidraw.md"
               }
             }
           }
@@ -96,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/nwt/Ah yes 20 millionen cisco sachen.md",
+                "file": "3.Klasse/nwt/Switch address learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/nwt/Ah yes 20 millionen cisco sachen.md"
+                "file": "3.Klasse/nwt/Switch address learning.md"
               }
             }
           },
@@ -185,10 +175,18 @@
   },
   "active": "72167124fbff341a",
   "lastOpenFiles": [
+    "bilder/AES 27-09-2024-25.excalidraw.md",
+    "3.Klasse/nwt/Switch address learning.md",
+    "3.Klasse/nwt/Ethernet Frame aufbau.md",
+    "3.Klasse/nwt/switching conpets.md",
+    "3.Klasse/nwt/the switch MAC address Table.md",
+    "3.Klasse/nwt/Frame Forwarding.md",
+    "3.Klasse/nwt/3kl nwt.md",
+    "3.Klasse/nwt/Filter Show Comamnd Output.md",
+    "3.Klasse/nwt/Ah yes 20 millionen cisco sachen.md",
     "3.Klasse/nwt/cisco commands oida.md",
     "3.Klasse/nwt/Router Grundconfig.md",
     "3.Klasse/itsi/AES.md",
-    "bilder/AES 27-09-2024-25.excalidraw.md",
     "3.Klasse/itsi/Symetrische Verschlüsselung.md",
     "3.Klasse/itsi/Kryptografie.md",
     "3.Klasse/itsi/Was bedeuted Kryptographie.md",
@@ -204,15 +202,7 @@
     "3.Klasse/itsi/Fürst-Daten-Klassifizierung.md",
     "3.Klasse/itsi/Aufhabe daten thingy.md~",
     "3.Klasse/insy/Datenbank-Entwurf.md",
-    "3.Klasse/insy/Relationale Datenbank Systeme.md",
-    "3.Klasse/insy/3kl insy.md",
-    "3.Klasse/insy/Realtionales Datenbank Magment System.md",
-    "3.Klasse/insy/Was ist eine Datenbank.md",
-    "3.Klasse/insy/Typen von Datenbanken.md",
     "3.Klasse/deutsch/Redemanuscript aufgabe things.md~",
-    "3.Klasse/deutsch/Redemanuscript aufgabe things.md",
-    "3.Klasse/deutsch/3kl deutsch.md",
-    "3.Klasse/deutsch/Redemanuscript things aufgabe.md",
     "3.Klasse/deutsch/Stilfiguren.md~",
     "bilder/Pasted image 20240920113300.png",
     "3.Klasse/ggp",

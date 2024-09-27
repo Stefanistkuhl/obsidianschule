@@ -9,3 +9,4 @@ tags:
 
 [[Switch verification commands]]
 [[Secure Remote Access]]
+![[Filter Show Comamnd Output]]

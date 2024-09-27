@@ -227,6 +227,9 @@ tCIId
 table
 thingy
 tSPLsaiH
+than
+that
+their
 Klasse
 Konfigurationen
 Kugel
@@ -703,6 +706,12 @@ spricht
 sfI
 sinkt
 strg
+size
+syncronazation
+syncronize
+sending
+sender
+source
 elektro
 erklärt
 ein
@@ -942,6 +951,7 @@ eZjS
 elektronische
 eigenen
 exit
+encapsulated
 GPIO
 Gleichungne
 Gleichung
@@ -1377,6 +1387,7 @@ gelagert
 gilt
 gelöscht
 glauben
+greater
 purpose
 paare
 paaren
@@ -1562,6 +1573,11 @@ password
 ports
 pjMawr
 privat
+payload
+packet
+padding
+prepare
+physical
 input
 int
 immutable
@@ -1964,6 +1980,7 @@ out
 oLrwAfLS
 oxidiert
 onsyi
+other
 float
 fReIwIlLiG
 für
@@ -2153,6 +2170,9 @@ flyer
 flash
 file
 fej
+frame
+form
+from
 Str
 Statisch
 Stifdrops
@@ -2438,6 +2458,9 @@ Schlüssellänge
 Standart
 STRG
 SHIFT
+SFD
+Start
+Sequence
 Tuple
 Teststoff
 Teilchen
@@ -2591,6 +2614,7 @@ Tangente
 Telz
 TJV
 Tolereran
+Trailer
 mehere
 mit
 mutable
@@ -2813,6 +2837,8 @@ mZSi
 materiellen
 mut
 misstyped
+min
+methods
 Werte
 Wellen
 Wollen
@@ -3204,6 +3230,9 @@ verrät
 vRigoC
 verschlüsseltes
 verknüpft
+via
+verschlüsselt
+vtS
 datetypen
 deppat
 dem
@@ -3417,6 +3446,11 @@ deines
 dienen
 denk
 dumme
+device
+devices
+determined
+dez
+detects
 Dynamisch
 Dotierung
 Dioden
@@ -3632,6 +3666,8 @@ Differentenqoutienten
 Differenzqoutien
 Drei
 Datei
+Delimiter
+Destination
 Bsp
 Boschis
 Bipolartransistor
@@ -4199,6 +4235,7 @@ LUbLgntN
 LOpzMD
 LsEa
 Lagerung
+Learn
 unsere
 uns
 und
@@ -4401,6 +4438,8 @@ uaRJu
 unabhängig
 uhY
 unterteilt
+used
+usaually
 Noten
 Neutronen
 Nichtmetalle
@@ -4803,6 +4842,7 @@ hRtxuVtg
 hNV
 hVm
 hohen
+hex
 Osko
 Orbitale
 Orbitalen
@@ -5210,6 +5250,11 @@ beweisen
 bekommt
 behandelt
 blöcken
+bytes
+btye
+byte
+beginning
+been
 Idi
 Ionenbindungen
 Ionisierungsenergie
@@ -5413,6 +5458,7 @@ Interne
 Interner
 Ideen
 Issac
+Indicate
 Momente
 Massezahl
 Metalle
@@ -5629,6 +5675,8 @@ MCvo
 Media
 Mathematik
 Menschrechte
+Min
+Marks
 nawi
 nix
 nicht
@@ -6006,6 +6054,10 @@ Firma
 Flyer
 Fragen
 Forschungen
+Frame
+Fcs
+Framestop
+Forward
 EBA
 Elektronenpaarbindung
 Elektronen
@@ -6225,6 +6277,8 @@ Entsorgen
 Elektronishce
 Ensorgung
 Erforschung
+Excluded
+Encapsulated
 Halbleiter
 Hauptsächlich
 Hantelförmig
@@ -6396,6 +6450,7 @@ HyISEtVw
 HSO
 Handhabung
 Habe
+Header
 Chemisches
 Chemische
 Chlor
@@ -6574,6 +6629,9 @@ Child
 CRNJ
 Cloud
 Control
+Check
+CRC
+Cyclic
 Rechnen
 Richtungen
 Rafis
@@ -6749,6 +6807,8 @@ Religöse
 Religion
 Runden
 Roundkeys
+Redundancy
+Roundkey
 aufstellen
 aus
 als
@@ -7008,6 +7068,9 @@ abdrehen
 aktueller
 abrechen
 auflöst
+are
+added
+algorithm
 Ausbeute
 Atomaufbau
 Arbeiten
@@ -7237,6 +7300,9 @@ AajOdgfI
 Authentifizierung
 Anwendungen
 AES
+Alternating
+Allows
+Add
 PSE
 Protonen
 Problem
@@ -7441,6 +7507,9 @@ Papierkorb
 Prozesse
 Paperdokumente
 Prem
+Payload
+Preamble
+Packet
 Zusammenfassung
 Zustand
 Zener
@@ -8127,6 +8196,9 @@ lbcddWDH
 lWkwGd
 löscht
 länger
+less
+long
+length
 conf
 chroloid
 chlor
@@ -8312,6 +8384,9 @@ crypto
 cisco
 copy
 cLe
+clocks
+control
+currupted
 zusammen
 zw
 zu
@@ -8667,6 +8742,10 @@ run
 rsa
 recht
 route
+recieve
+reciever
+recieiving
+received
 Um
 Unterschied
 Ube
@@ -9000,6 +9079,7 @@ Verstandes
 Verschlüsselt
 Verfügbare
 Verschlüsselungsrunden
+Value
 Überblick
 Übergang
 Übungsdaten
@@ -10131,6 +10211,7 @@ XIk
 XrCKsTDj
 XPzEE
 XjT
+XjG
 Ändern
 Äx
 Ähnlich
