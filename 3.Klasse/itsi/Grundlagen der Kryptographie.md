@@ -7,3 +7,5 @@ tags:
 - Symetrische Verschlüsselung 
 - Asymetrische Verschlüsseltung 
 - Hashfunktionen
+
+![[Was bedeuted Kryptographie]]

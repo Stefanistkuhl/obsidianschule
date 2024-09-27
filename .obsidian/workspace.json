@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/itsi/Grundlagen der Kryptographie.md",
+                "file": "3.Klasse/itsi/AES.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "91fdcc54d03be4b0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/AES 27-09-2024-25.excalidraw.md"
               }
             }
           }
@@ -86,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/itsi/Grundlagen der Kryptographie.md",
+                "file": "3.Klasse/itsi/AES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +141,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/itsi/Grundlagen der Kryptographie.md"
+                "file": "3.Klasse/itsi/AES.md"
               }
             }
           },
@@ -175,7 +185,11 @@
   },
   "active": "72167124fbff341a",
   "lastOpenFiles": [
+    "bilder/AES 27-09-2024-25.excalidraw.md",
+    "3.Klasse/itsi/AES.md",
+    "3.Klasse/itsi/Symetrische Verschlüsselung.md",
     "3.Klasse/itsi/Kryptografie.md",
+    "3.Klasse/itsi/Was bedeuted Kryptographie.md",
     "3.Klasse/itsi/Grundlagen der Kryptographie.md",
     "3.Klasse/itsi/3kl itsi.md",
     "aktuelle itsi aufgabe.md",
@@ -200,10 +214,6 @@
     "3.Klasse/deutsch/Stilfiguren.md~",
     "3.Klasse/deutsch/Stilfiguren.md",
     "bilder/Redoxreaktionen 23-09-2024-44.excalidraw.md",
-    "3.Klasse/Nawi/Redoxreaktionen.md",
-    "bilder/Redoxreaktionen 23-09-2024-30.excalidraw.md",
-    "bilder/Redoxreaktionen 23-09-2024-28.excalidraw.md",
-    "bilder/Redoxreaktionen 23-09-2024-40.excalidraw.md",
     "bilder/Pasted image 20240920113300.png",
     "3.Klasse/ggp",
     "bilder/Pasted image 20240919134221.png",
