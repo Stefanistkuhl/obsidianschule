@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b14937f9c0d036fc",
+        "id": "7983417855f7f4f5",
         "type": "tabs",
         "children": [
           {
-            "id": "72167124fbff341a",
+            "id": "4e7ce2acaf4a4127",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/nwt/vlan definition.md",
+                "file": "3.Klasse/syt/goofy ass syt aufhabe.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/nwt/vlan definition.md",
+                "file": "3.Klasse/syt/goofy ass syt aufhabe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/nwt/vlan definition.md"
+                "file": "3.Klasse/syt/goofy ass syt aufhabe.md"
               }
             }
           },
@@ -174,10 +174,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "72167124fbff341a",
+  "active": "4e7ce2acaf4a4127",
   "lastOpenFiles": [
-    "bilder/vlans 27-09-2024-53.excalidraw.md",
+    "3.Klasse/syt/goofy ass syt aufhabe.md~",
+    "3.Klasse/syt/goofy ass syt aufhabe.md",
     "3.Klasse/nwt/vlan definition.md",
+    "bilder/vlans 27-09-2024-53.excalidraw.md",
     "3.Klasse/nwt/vlans.md",
     "3.Klasse/nwt/3kl nwt.md",
     "3.Klasse/nwt/Collion Domains.md",
@@ -200,8 +202,6 @@
     "3.Klasse/itsi/AES.md",
     "3.Klasse/itsi/Symetrische Verschlüsselung.md",
     "3.Klasse/itsi/Kryptografie.md",
-    "3.Klasse/itsi/Was bedeuted Kryptographie.md",
-    "3.Klasse/itsi/Grundlagen der Kryptographie.md",
     "3.Klasse/itsi/Aufhabe daten thingy.md~",
     "3.Klasse/deutsch/Redemanuscript aufgabe things.md~",
     "3.Klasse/deutsch/Stilfiguren.md~",
