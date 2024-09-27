@@ -13,7 +13,7 @@ tags:
 -  Verfügbare Schlüssellängen
 	- 128 bit 
 		- 10 Runden
-	- 256 bit
+	- 256 bit (aktueller Standart)
 		- 14 Runden
 	- 512 bit
 	- je länger der Schlüssel desto Sicherer
