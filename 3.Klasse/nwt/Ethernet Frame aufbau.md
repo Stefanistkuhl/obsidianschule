@@ -27,6 +27,7 @@
 			- MAC addr 6 byte (48bit) → addr of the physical device
 	- <mark style="background: #FFB8EBA6;">Type or Length</mark>
 		- 2 byte (16bit) length
+		- [[Ethernet-Typen]]
 		- Value of <mark style="background: #FFB8EBA6;">1500 or less</mark> → <mark style="background: #FFB8EBA6;">length</mark> of the encapsulated packet (in bytes)
 		- Value of <mark style="background: #FFB8EBA6;">1536 or greater</mark> → Type of encapsulated packet (usaually IPv4 or 6) and the length is determined via other methods
 			- 0x0800(hex) = IPv4 → 2048 in dez

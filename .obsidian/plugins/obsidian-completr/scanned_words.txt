@@ -232,6 +232,8 @@ that
 their
 through
 tQFcoU
+there
+trennt
 Klasse
 Konfigurationen
 Kugel
@@ -424,6 +426,7 @@ Key
 Kundensupport
 Kant
 KxZ
+Kollision
 syt
 shittalken
 sEiD
@@ -718,6 +721,10 @@ source
 standart
 switchting
 sofort
+src
+setting
+specified
+speed
 elektro
 erklärt
 ein
@@ -960,6 +967,13 @@ exit
 encapsulated
 erhöht
 erkannt
+errors
+examine
+every
+except
+eliminate
+eliminated
+einander
 GPIO
 Gleichungne
 Gleichung
@@ -1399,6 +1413,7 @@ gelöscht
 glauben
 greater
 geleitet
+größe
 purpose
 paare
 paaren
@@ -1591,6 +1606,7 @@ prepare
 physical
 part
 passieren
+possible
 input
 int
 immutable
@@ -1801,6 +1817,8 @@ irgendein
 ihren
 iFLtV
 iTgccZVL
+ingress
+including
 output
 oida
 oder
@@ -1994,6 +2012,7 @@ oLrwAfLS
 oxidiert
 onsyi
 other
+one
 float
 fReIwIlLiG
 für
@@ -2189,6 +2208,10 @@ from
 forward
 fehlerhafte
 free
+frames
+forwarded
+flooded
+full
 Str
 Statisch
 Stifdrops
@@ -2479,6 +2502,7 @@ Start
 Sequence
 Store
 Src
+Switches
 Tuple
 Teststoff
 Teilchen
@@ -2633,6 +2657,8 @@ Telz
 TJV
 Tolereran
 Trailer
+Tag
+There
 mehere
 mit
 mutable
@@ -2858,6 +2884,9 @@ misstyped
 min
 methods
 methode
+minimale
+mind
+more
 Werte
 Wellen
 Wollen
@@ -3045,6 +3074,8 @@ Wasserstoffperoxid
 Waren
 Werden
 Webseite
+Weiterleitung
+When
 verschienen
 verteilen
 voll
@@ -3253,6 +3284,7 @@ via
 verschlüsselt
 vtS
 verworfen
+verhindert
 datetypen
 deppat
 dem
@@ -3472,6 +3504,9 @@ determined
 dez
 detects
 dst
+dest
+domains
+default
 Dynamisch
 Dotierung
 Dioden
@@ -4261,6 +4296,7 @@ LsEa
 Lagerung
 Learn
 Lenth
+Late
 unsere
 uns
 und
@@ -4466,6 +4502,7 @@ unterteilt
 used
 usaually
 usually
+use
 Noten
 Neutronen
 Nichtmetalle
@@ -5282,6 +5319,8 @@ btye
 byte
 beginning
 been
+back
+bandwith
 Idi
 Ionenbindungen
 Ionisierungsenergie
@@ -5487,6 +5526,7 @@ Ideen
 Issac
 Indicate
 IozYOC
+IPV
 Momente
 Massezahl
 Metalle
@@ -5705,6 +5745,7 @@ Mathematik
 Menschrechte
 Min
 Marks
+Most
 nawi
 nix
 nicht
@@ -5902,6 +5943,7 @@ naturwissenschaftliche
 nächsten
 nexthop
 not
+negotiotion
 FFB
 Feldeffekttransistor
 Feldeffekt
@@ -6667,6 +6709,7 @@ Check
 CRC
 Cyclic
 Cut
+Collisions
 Rechnen
 Richtungen
 Rafis
@@ -7108,6 +7151,8 @@ are
 added
 algorithm
 addresse
+auswirkt
+auto
 Ausbeute
 Atomaufbau
 Arbeiten
@@ -7340,6 +7385,7 @@ AES
 Alternating
 Allows
 Add
+ARP
 PSE
 Protonen
 Problem
@@ -7547,6 +7593,7 @@ Prem
 Payload
 Preamble
 Packet
+Puffern
 Zusammenfassung
 Zustand
 Zener
@@ -8022,6 +8069,7 @@ kollisionen
 kcYd
 kontroliert
 kollisoinen
+korrupte
 überlappen
 überfluten
 über
@@ -8241,6 +8289,8 @@ länger
 less
 long
 length
+ließt
+link
 conf
 chroloid
 chlor
@@ -8431,6 +8481,11 @@ control
 currupted
 consired
 cheksummen
+checkt
+collusions
+collision
+congressions
+contention
 zusammen
 zw
 zu
@@ -8791,6 +8846,9 @@ reciever
 recieiving
 received
 rizOuUy
+resets
+recieved
+reduce
 Um
 Unterschied
 Ube
@@ -9125,6 +9183,7 @@ Verschlüsselt
 Verfügbare
 Verschlüsselungsrunden
 Value
+VLAN
 Überblick
 Übergang
 Übungsdaten

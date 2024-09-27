@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/nwt/Swtich Forwarding Methods.md",
+                "file": "3.Klasse/nwt/Collion Domains.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "092ee1b688070b80",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/Collion Domains 27-09-2024-56.excalidraw.md"
               }
             }
           },
@@ -77,7 +87,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/nwt/Swtich Forwarding Methods.md",
+                "file": "3.Klasse/nwt/Collion Domains.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/nwt/Swtich Forwarding Methods.md"
+                "file": "3.Klasse/nwt/Collion Domains.md"
               }
             }
           },
@@ -188,10 +199,15 @@
   "active": "72167124fbff341a",
   "lastOpenFiles": [
     "3.Klasse/nwt/Ethernet Frame aufbau.md",
-    "Zeichnungen/DR04-12-2023-27.excalidraw.md",
-    "3.Klasse/nwt/Swtich Forwarding Methods.md",
+    "bilder/Collion Domains 27-09-2024-56.excalidraw.md",
+    "3.Klasse/nwt/Collion Domains.md",
+    "bilder/Collion Domains 27-09-2024-49.excalidraw.md",
+    "3.Klasse/nwt/Switching Domains.md",
     "3.Klasse/nwt/switching conpets.md",
     "3.Klasse/nwt/Switch address learning.md",
+    "3.Klasse/nwt/Swtich Forwarding Methods.md",
+    "3.Klasse/nwt/Ethernet-Typen.md",
+    "Zeichnungen/DR04-12-2023-27.excalidraw.md",
     "bilder/AES 27-09-2024-25.excalidraw.md",
     "3.Klasse/nwt/the switch MAC address Table.md",
     "3.Klasse/nwt/Frame Forwarding.md",
@@ -208,11 +224,6 @@
     "3.Klasse/itsi/3kl itsi.md",
     "aktuelle itsi aufgabe.md",
     "3.Klasse/ggp/aufklärung.md",
-    "templates/ggp.md",
-    "3.Klasse/ggp/3kl GGP.md",
-    "3.Klasse/itsi/Klassifizierunsstufen.md",
-    "3.Klasse/itsi/Daten bsp selbsttändiger entwickler.md",
-    "3.Klasse/itsi/Welche Arten von Daten gibt es?.md",
     "3.Klasse/itsi/Aufhabe daten thingy.md~",
     "3.Klasse/deutsch/Redemanuscript aufgabe things.md~",
     "3.Klasse/deutsch/Stilfiguren.md~",
