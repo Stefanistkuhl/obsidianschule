@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c2fbcfe3c8d48e2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "elektrische schutzmaßnahmen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/syt/Stefan Fürst Betriebssystem Aufgabe 2.md",
+                "file": "elektrische schutzmaßnahmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/syt/Stefan Fürst Betriebssystem Aufgabe 2.md"
+                "file": "elektrische schutzmaßnahmen.md"
               }
             }
           },
@@ -174,11 +187,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "4e7ce2acaf4a4127",
+  "active": "c2fbcfe3c8d48e2a",
   "lastOpenFiles": [
+    "3.Klasse/syt/Stefan Fürst Betriebssystem Aufgabe 2.md",
+    "elektrische schutzmaßnahmen.md",
     "3.Klasse/syt/goofy ass syt aufhabe.md~",
     "bilder/Pasted image 20240927144209.png",
-    "3.Klasse/syt/Stefan Fürst Betriebssystem Aufgabe 2.md",
     "3.Klasse/nwt/vlan definition.md",
     "bilder/vlans 27-09-2024-53.excalidraw.md",
     "3.Klasse/nwt/vlans.md",
