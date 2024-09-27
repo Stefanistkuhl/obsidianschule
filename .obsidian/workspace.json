@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/ggp/aufklärung.md",
+                "file": "3.Klasse/itsi/Grundlagen der Kryptographie.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/ggp/aufklärung.md",
+                "file": "3.Klasse/itsi/Grundlagen der Kryptographie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/ggp/aufklärung.md"
+                "file": "3.Klasse/itsi/Grundlagen der Kryptographie.md"
               }
             }
           },
@@ -175,10 +175,13 @@
   },
   "active": "72167124fbff341a",
   "lastOpenFiles": [
-    "templates/ggp.md",
-    "3.Klasse/ggp/aufklärung.md",
-    "3.Klasse/ggp/3kl GGP.md",
+    "3.Klasse/itsi/Kryptografie.md",
+    "3.Klasse/itsi/Grundlagen der Kryptographie.md",
+    "3.Klasse/itsi/3kl itsi.md",
     "aktuelle itsi aufgabe.md",
+    "3.Klasse/ggp/aufklärung.md",
+    "templates/ggp.md",
+    "3.Klasse/ggp/3kl GGP.md",
     "3.Klasse/itsi/Klassifizierunsstufen.md",
     "3.Klasse/itsi/Daten bsp selbsttändiger entwickler.md",
     "3.Klasse/itsi/Welche Arten von Daten gibt es?.md",
@@ -190,7 +193,6 @@
     "3.Klasse/insy/Realtionales Datenbank Magment System.md",
     "3.Klasse/insy/Was ist eine Datenbank.md",
     "3.Klasse/insy/Typen von Datenbanken.md",
-    "3.Klasse/itsi/3kl itsi.md",
     "3.Klasse/deutsch/Redemanuscript aufgabe things.md~",
     "3.Klasse/deutsch/Redemanuscript aufgabe things.md",
     "3.Klasse/deutsch/3kl deutsch.md",
@@ -202,8 +204,6 @@
     "bilder/Redoxreaktionen 23-09-2024-30.excalidraw.md",
     "bilder/Redoxreaktionen 23-09-2024-28.excalidraw.md",
     "bilder/Redoxreaktionen 23-09-2024-40.excalidraw.md",
-    "bilder/Redoxreaktionen 23-09-2024-59.excalidraw.md",
-    "3.Klasse/Nawi/3kl nawi.md",
     "bilder/Pasted image 20240920113300.png",
     "3.Klasse/ggp",
     "bilder/Pasted image 20240919134221.png",

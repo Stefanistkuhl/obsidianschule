@@ -1118,6 +1118,11 @@ GNiTewAS
 GgP
 Gutes
 Geheim
+Geboren
+Gewaltenteilung
+Gewalten
+Glaubensfreiheit
+Gesetze
 general
 gesetzte
 gedreht
@@ -1369,6 +1374,7 @@ graphs
 gelagert
 gilt
 gelöscht
+glauben
 purpose
 paare
 paaren
@@ -2419,6 +2425,11 @@ Schreddern
 Social
 Speichermedium
 Schlüssel
+Stellwert
+Systematische
+Standessystem
+Staates
+Staat
 Tuple
 Teststoff
 Teilchen
@@ -2571,6 +2582,7 @@ TVkuf
 Tangente
 Telz
 TJV
+Tolereran
 mehere
 mit
 mutable
@@ -2791,6 +2803,7 @@ mti
 meints
 mZSi
 materiellen
+mut
 Werte
 Wellen
 Wollen
@@ -3606,6 +3619,7 @@ Differenzialqoutient
 Differenzialqutient
 Differentenqoutienten
 Differenzqoutien
+Drei
 Bsp
 Boschis
 Bipolartransistor
@@ -3811,6 +3825,9 @@ Bestimme
 Bestimmen
 BFpBv
 BxqAp
+Beweisen
+Basis
+Büger
 wichtig
 was
 wie
@@ -4366,6 +4383,7 @@ unternehmen
 username
 uVFML
 uaRJu
+unabhängig
 Noten
 Neutronen
 Nichtmetalle
@@ -4576,6 +4594,9 @@ Normale
 NaOH
 NsRUADOD
 Nachdenken
+Naturwissenschaften
+Natur
+Naturgesetzen
 hIeR
 höchsten
 hintere
@@ -4764,6 +4785,7 @@ hochzahl
 hRtxuVtg
 hNV
 hVm
+hohen
 Osko
 Orbitale
 Orbitalen
@@ -5166,6 +5188,10 @@ besitzt
 betrachten
 bNcKvqUa
 bYGhuqLH
+bedienen
+beweisen
+bekommt
+behandelt
 Idi
 Ionenbindungen
 Ionisierungsenergie
@@ -5368,6 +5394,7 @@ Information
 Interne
 Interner
 Ideen
+Issac
 Momente
 Massezahl
 Metalle
@@ -5582,6 +5609,8 @@ MgCl
 MnO
 MCvo
 Media
+Mathematik
+Menschrechte
 nawi
 nix
 nicht
@@ -5775,6 +5804,7 @@ normalerweise
 nah
 negative
 nUTyITZt
+naturwissenschaftliche
 FFB
 Feldeffekttransistor
 Feldeffekt
@@ -5954,6 +5984,8 @@ FeO
 FDXq
 Firma
 Flyer
+Fragen
+Forschungen
 EBA
 Elektronenpaarbindung
 Elektronen
@@ -6172,6 +6204,7 @@ Entsorgung
 Entsorgen
 Elektronishce
 Ensorgung
+Erforschung
 Halbleiter
 Hauptsächlich
 Hantelförmig
@@ -6691,6 +6724,9 @@ RAM
 Ram
 Redoxreaktionen
 REDEglr
+Relgion
+Religöse
+Religion
 aufstellen
 aus
 als
@@ -8599,6 +8635,7 @@ ram
 running
 run
 rsa
+recht
 Um
 Unterschied
 Ube
