@@ -230,6 +230,8 @@ tSPLsaiH
 than
 that
 their
+through
+tQFcoU
 Klasse
 Konfigurationen
 Kugel
@@ -421,6 +423,7 @@ Keys
 Key
 Kundensupport
 Kant
+KxZ
 syt
 shittalken
 sEiD
@@ -712,6 +715,9 @@ syncronize
 sending
 sender
 source
+standart
+switchting
+sofort
 elektro
 erklärt
 ein
@@ -952,6 +958,8 @@ elektronische
 eigenen
 exit
 encapsulated
+erhöht
+erkannt
 GPIO
 Gleichungne
 Gleichung
@@ -1135,6 +1143,8 @@ Gewaltenteilung
 Gewalten
 Glaubensfreiheit
 Gesetze
+GVYSl
+GtHh
 general
 gesetzte
 gedreht
@@ -1388,6 +1398,7 @@ gilt
 gelöscht
 glauben
 greater
+geleitet
 purpose
 paare
 paaren
@@ -1578,6 +1589,8 @@ packet
 padding
 prepare
 physical
+part
+passieren
 input
 int
 immutable
@@ -2173,6 +2186,9 @@ fej
 frame
 form
 from
+forward
+fehlerhafte
+free
 Str
 Statisch
 Stifdrops
@@ -2461,6 +2477,8 @@ SHIFT
 SFD
 Start
 Sequence
+Store
+Src
 Tuple
 Teststoff
 Teilchen
@@ -2839,6 +2857,7 @@ mut
 misstyped
 min
 methods
+methode
 Werte
 Wellen
 Wollen
@@ -3233,6 +3252,7 @@ verknüpft
 via
 verschlüsselt
 vtS
+verworfen
 datetypen
 deppat
 dem
@@ -3451,6 +3471,7 @@ devices
 determined
 dez
 detects
+dst
 Dynamisch
 Dotierung
 Dioden
@@ -3878,6 +3899,7 @@ Basis
 Büger
 Blöcke
 Block
+BtdFXiod
 wichtig
 was
 wie
@@ -4061,6 +4083,8 @@ welcher
 wenige
 welches
 wichse
+weiterleiten
+weitergeleitet
 Lehrer
 Ladig
 Links
@@ -4236,6 +4260,7 @@ LOpzMD
 LsEa
 Lagerung
 Learn
+Lenth
 unsere
 uns
 und
@@ -4440,6 +4465,7 @@ uhY
 unterteilt
 used
 usaually
+usually
 Noten
 Neutronen
 Nichtmetalle
@@ -4843,6 +4869,7 @@ hNV
 hVm
 hohen
 hex
+hyLN
 Osko
 Orbitale
 Orbitalen
@@ -5459,6 +5486,7 @@ Interner
 Ideen
 Issac
 Indicate
+IozYOC
 Momente
 Massezahl
 Metalle
@@ -5873,6 +5901,7 @@ nUTyITZt
 naturwissenschaftliche
 nächsten
 nexthop
+not
 FFB
 Feldeffekttransistor
 Feldeffekt
@@ -6058,6 +6087,9 @@ Frame
 Fcs
 Framestop
 Forward
+FYjFnpmF
+FZa
+Fragment
 EBA
 Elektronenpaarbindung
 Elektronen
@@ -6279,6 +6311,8 @@ Ensorgung
 Erforschung
 Excluded
 Encapsulated
+Eth
+Exe
 Halbleiter
 Hauptsächlich
 Hantelförmig
@@ -6632,6 +6666,7 @@ Control
 Check
 CRC
 Cyclic
+Cut
 Rechnen
 Richtungen
 Rafis
@@ -6809,6 +6844,7 @@ Runden
 Roundkeys
 Redundancy
 Roundkey
+RJKr
 aufstellen
 aus
 als
@@ -7071,6 +7107,7 @@ auflöst
 are
 added
 algorithm
+addresse
 Ausbeute
 Atomaufbau
 Arbeiten
@@ -7665,6 +7702,7 @@ Zugreifen
 Zussammen
 Zhal
 Ziele
+Zze
 Quantenobjekt
 Quadratische
 Quadrtische
@@ -7980,6 +8018,10 @@ key
 kpfyA
 könnnen
 kTrQeDEC
+kollisionen
+kcYd
+kontroliert
+kollisoinen
 überlappen
 überfluten
 über
@@ -8387,6 +8429,8 @@ cLe
 clocks
 control
 currupted
+consired
+cheksummen
 zusammen
 zw
 zu
@@ -8746,6 +8790,7 @@ recieve
 reciever
 recieiving
 received
+rizOuUy
 Um
 Unterschied
 Ube
@@ -9555,6 +9600,7 @@ job
 jMlj
 jSR
 jährliche
+jgS
 yappen
 yappt
 yvT
@@ -9746,6 +9792,8 @@ yvA
 yXw
 ytI
 yBiacYOu
+yoYh
+ySZ
 quadrat
 quasi
 qu
@@ -10037,6 +10085,7 @@ Yvsw
 YMD
 Yjo
 YtLuafNz
+YXz
 XawbH
 Xr
 XJpQ

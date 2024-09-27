@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/nwt/Switch address learning.md",
+                "file": "3.Klasse/nwt/Swtich Forwarding Methods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49519fa4eb9142fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/nwt/Ethernet Frame aufbau.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/nwt/Switch address learning.md",
+                "file": "3.Klasse/nwt/Swtich Forwarding Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/nwt/Switch address learning.md"
+                "file": "3.Klasse/nwt/Swtich Forwarding Methods.md"
               }
             }
           },
@@ -175,10 +187,12 @@
   },
   "active": "72167124fbff341a",
   "lastOpenFiles": [
-    "bilder/AES 27-09-2024-25.excalidraw.md",
-    "3.Klasse/nwt/Switch address learning.md",
     "3.Klasse/nwt/Ethernet Frame aufbau.md",
+    "Zeichnungen/DR04-12-2023-27.excalidraw.md",
+    "3.Klasse/nwt/Swtich Forwarding Methods.md",
     "3.Klasse/nwt/switching conpets.md",
+    "3.Klasse/nwt/Switch address learning.md",
+    "bilder/AES 27-09-2024-25.excalidraw.md",
     "3.Klasse/nwt/the switch MAC address Table.md",
     "3.Klasse/nwt/Frame Forwarding.md",
     "3.Klasse/nwt/3kl nwt.md",
@@ -199,9 +213,7 @@
     "3.Klasse/itsi/Klassifizierunsstufen.md",
     "3.Klasse/itsi/Daten bsp selbsttändiger entwickler.md",
     "3.Klasse/itsi/Welche Arten von Daten gibt es?.md",
-    "3.Klasse/itsi/Fürst-Daten-Klassifizierung.md",
     "3.Klasse/itsi/Aufhabe daten thingy.md~",
-    "3.Klasse/insy/Datenbank-Entwurf.md",
     "3.Klasse/deutsch/Redemanuscript aufgabe things.md~",
     "3.Klasse/deutsch/Stilfiguren.md~",
     "bilder/Pasted image 20240920113300.png",

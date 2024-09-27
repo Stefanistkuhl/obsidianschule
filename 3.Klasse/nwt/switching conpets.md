@@ -6,3 +6,4 @@ tags:
 ![[Frame Forwarding]]
 ![[the switch MAC address Table]]
 ![[Switch address learning]]
+![[Swtich Forwarding Methods]]
