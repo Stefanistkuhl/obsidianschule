@@ -41,8 +41,18 @@ tags:
     - Windows
       - Da 71.47% des Desktop Os Marketshares Windows sind wird logischerweise auch die meiste Maleware dafür entwickelt. Neben dem hat Windows andere Ansätze zu Datei und Nutzerberechtigungen.
     - Linux
-      - 
+      - Der kleinere Marktanteil allein bringt schon einen enormen Sicherheitsvorteil.
+      - Abgesehen davon gibt es auch einige Technische Unterschiede
+        - Nutzerrechte
+          - Im Gegensatz zu Windows braucht man für Sämtliche Systemlevel root Rechte und muss ein Passwort eingeben, wenn im Windows man per Default nur auf Ja drücken muss. 
+            - Zum Beispiel wenn man ein Script ausführt muss man sobald diese Systemänderunngen vornimmt diese Authenfizieren.
+        - Software Instalation
+          - Während man in Windows in im Internet einen Installer sucht, nutzt man in Linux einen Packetmanager, der diese Arbeit für einen Übernimmt und die Software von Comminuty verwalteten Repositorys, wo die Programme auf ihre Integrität und Sicheheit überprüft werden. Windows hat auch den Windows Store und Winget Packetmanager, aber so gut wie keiner Nutzt diese.
+        - Open Source
+          - Mehr Leute Augen auf dem Code -> mehr Schwachtstellen Bugs etc werden behoben.
   - Einsatzbereiche
     - Windows
+      - Desktop, Server
     - Linux
+      - Dekstop, Server, IOT
 
