@@ -702,6 +702,7 @@ sOnKT
 spricht
 sfI
 sinkt
+strg
 elektro
 erklärt
 ein
@@ -940,6 +941,7 @@ ewHNKg
 eZjS
 elektronische
 eigenen
+exit
 GPIO
 Gleichungne
 Gleichung
@@ -2434,6 +2436,8 @@ Schlüssellängen
 Sicherer
 Schlüssellänge
 Standart
+STRG
+SHIFT
 Tuple
 Teststoff
 Teilchen
@@ -2808,6 +2812,7 @@ meints
 mZSi
 materiellen
 mut
+misstyped
 Werte
 Wellen
 Wollen
@@ -3411,6 +3416,7 @@ dich
 deines
 dienen
 denk
+dumme
 Dynamisch
 Dotierung
 Dioden
@@ -4018,6 +4024,7 @@ weitergegebene
 welcher
 wenige
 welches
+wichse
 Lehrer
 Ladig
 Links
@@ -5817,6 +5824,7 @@ negative
 nUTyITZt
 naturwissenschaftliche
 nächsten
+nexthop
 FFB
 Feldeffekttransistor
 Feldeffekt
@@ -6998,6 +7006,8 @@ azzkho
 ausgeteilt
 abdrehen
 aktueller
+abrechen
+auflöst
 Ausbeute
 Atomaufbau
 Arbeiten
@@ -8484,6 +8494,8 @@ zwar
 zuD
 zzDxv
 zHw
+zrk
+zielnetz
 äußersten
 ändern
 äußeren
@@ -8654,6 +8666,7 @@ running
 run
 rsa
 recht
+route
 Um
 Unterschied
 Ube
