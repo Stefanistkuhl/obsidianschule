@@ -6,3 +6,10 @@ tags:
 ---
 - internship (american)
 	- work placement/work experience (britisch)
+- to guess
+	- you have no idea and just guess
+	- to estimate
+		- (sientific guess)
+- superficially
+	- just on the surface (oberflächlich)
+- 
