@@ -45,9 +45,21 @@ c)
 ||{"id":970221368795}||
 
 f(x)=2x^{-1}
-f'(x)=-1*2x^{-1-1}
+f'(x)=-1*2x^{-1-1}=-1*2x^{-2}=-2x^{-2}=\frac{.2}{x²}
+```
+d)
+```math
+||{"id":757498232671}||
+
+f(x)=\frac{1}{3x}=\frac{x^{-1}}{3}
+f'(x)=\frac{-1x^{-2}}{3}=-\frac{1}{3x²}
+```
+e)
+```math
+||{"id":1352343433582}||
+
+f(x)=\frac{1}{x²}=x^{-2}
+f'(x)=-2x^{-3
 ```
 
 <div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
-
-
