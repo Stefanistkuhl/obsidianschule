@@ -101,7 +101,35 @@ f'(x)=\frac{\sqrt{ 2 }}{2*\sqrt{ x }}=\frac{\sqrt{ 2 }}{\sqrt{ 2²x }}=\sqrt{ \f
 ||{"id":1424555366248}||
 
 y=2x²-12x+21
-y'=
+y'=4x-12
+0=4x-12 
+12=4x
+x=3
+2*3²-12*3+21=3
+S(3|3)
+```
+3.35)
+```math
+||{"id":295119000421}||
+
+y=ax²+bx+c
+y'=2ax+b
+x=3, Steigung 0.5⇒f'(3)=0.5⇒2*a*3+b=
 ```
 
 <div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
+P(1|3),x=0⇒y-Achse geschnitten
+```math
+||{"id":734708710342}||
+
+f(1)=0
+0=a*1²+b*1+c
+
+```
+
+P(0|3),x=0⇒y-Achse geschnitten
+```math
+||{"id":1532632945501}||
+
+3=a*0+b*0+c⇒c=3
+```
