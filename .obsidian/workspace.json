@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2b5d0debd9ced374",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/Organischer Chemie 30-09-2024-14.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bilder/Organischer Chemie 30-09-2024-14.excalidraw.md",
+                "file": "3.Klasse/Nawi/Organischer Chemie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "bilder/Organischer Chemie 30-09-2024-14.excalidraw.md"
+                "file": "3.Klasse/Nawi/Organischer Chemie.md"
               }
             }
           },
@@ -184,11 +173,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "2b5d0debd9ced374",
+  "active": "48a2da42435a5b60",
   "lastOpenFiles": [
-    "bilder/Organischer Chemie 30-09-2024-07.excalidraw.md",
-    "bilder/Organischer Chemie 30-09-2024-14.excalidraw.md",
+    "bilder/Organischer Chemie 30-09-2024-19.excalidraw.md",
     "3.Klasse/Nawi/Organischer Chemie.md",
+    "bilder/Organischer Chemie 30-09-2024-14.excalidraw.md",
+    "bilder/Organischer Chemie 30-09-2024-07.excalidraw.md",
     "3.Klasse/Nawi/3kl nawi.md",
     "3.Klasse/mathe/Ableitung bsp.md",
     "3.Klasse/mathe/Ableitungsregeln.md",
@@ -215,7 +205,6 @@
     "bilder/Collion Domains 27-09-2024-49.excalidraw.md",
     "3.Klasse/nwt/Switching Domains.md",
     "3.Klasse/nwt/switching conpets.md",
-    "3.Klasse/nwt/Switch address learning.md",
     "3.Klasse/itsi/Aufhabe daten thingy.md~",
     "3.Klasse/deutsch/Redemanuscript aufgabe things.md~",
     "3.Klasse/deutsch/Stilfiguren.md~",
