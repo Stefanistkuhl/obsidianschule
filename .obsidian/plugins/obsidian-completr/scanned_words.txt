@@ -452,6 +452,7 @@ Koqug
 KUA
 Kohlenwasserstoffe
 KWs
+KGxr
 syt
 shittalken
 sEiD
@@ -780,6 +781,8 @@ skhE
 sII
 sxN
 sBW
+sFcGrN
+sXyw
 elektro
 erklärt
 ein
@@ -1054,6 +1057,11 @@ eiwH
 eIRA
 eux
 experience
+eXA
+eHDWMxmE
+eDrXz
+evZKiBZV
+eJOEeeB
 GPIO
 Gleichungne
 Gleichung
@@ -1254,6 +1262,8 @@ Gko
 Gka
 GIH
 Gcho
+GpqltJm
+GRSMZK
 general
 gesetzte
 gedreht
@@ -1526,6 +1536,9 @@ gNp
 gne
 gmnb
 geschnitten
+gxF
+gpHIg
+goRjtb
 purpose
 paare
 paaren
@@ -1722,6 +1735,8 @@ possible
 physische
 pRT
 placement
+prac
+pKJHp
 input
 int
 immutable
@@ -1957,6 +1972,8 @@ izt
 ivZ
 iDr
 internship
+iKWWwv
+iysodRRW
 output
 oida
 oder
@@ -2166,6 +2183,8 @@ oGf
 ohAK
 ogd
 olt
+oJiX
+oFEJcAf
 float
 fReIwIlLiG
 für
@@ -2721,6 +2740,9 @@ SKK
 SAi
 SvK
 Summenregel
+Schreibweisen
+Skelettformel
+SqyL
 Tuple
 Teststoff
 Teilchen
@@ -2888,6 +2910,8 @@ TSJ
 TxG
 TuXf
 Tbm
+TYYghC
+TYiiZHU
 mehere
 mit
 mutable
@@ -3140,6 +3164,7 @@ mmK
 mng
 mPG
 myT
+mKpBG
 Werte
 Wellen
 Wollen
@@ -3584,6 +3609,7 @@ vfh
 vrZ
 vVV
 vDpU
+vGqKbZHi
 datetypen
 deppat
 dem
@@ -4290,6 +4316,7 @@ Benutzerberechtigungen
 Bugs
 BdF
 Behandlet
+Butan
 wichtig
 was
 wie
@@ -4679,6 +4706,7 @@ LDn
 LWZf
 LVv
 LgR
+LoUr
 unsere
 uns
 und
@@ -4897,6 +4925,7 @@ uuu
 uAi
 uMF
 ukh
+uHAYjV
 Noten
 Neutronen
 Nichtmetalle
@@ -5129,6 +5158,8 @@ NUjR
 NgW
 NKg
 NNj
+Nkw
+NUcpMhXK
 hIeR
 höchsten
 hintere
@@ -5330,6 +5361,8 @@ hRv
 hsP
 hEQ
 hbO
+hTDx
+hrwdi
 Osko
 Orbitale
 Orbitalen
@@ -6216,6 +6249,9 @@ MiW
 MVU
 MoZ
 MZK
+MOYydd
+MpsbhMUb
+Methylpropan
 nawi
 nix
 nicht
@@ -6417,6 +6453,8 @@ negotiotion
 noun
 nWZ
 nVj
+nZPSlv
+neCfEhg
 FFB
 Feldeffekttransistor
 Feldeffekt
@@ -6629,6 +6667,7 @@ FII
 FFV
 Fwk
 Faktorregel
+FpyHA
 EBA
 Elektronenpaarbindung
 Elektronen
@@ -6872,6 +6911,8 @@ Ekgc
 EYS
 Eqj
 Egi
+Ethan
+EKA
 Halbleiter
 Hauptsächlich
 Hantelförmig
@@ -7058,6 +7099,10 @@ Hlu
 HWQ
 HFnQT
 HAJM
+HopPJ
+HbV
+HJjlca
+Halbstruktorformel
 Chemisches
 Chemische
 Chlor
@@ -7252,6 +7297,7 @@ CKz
 Cpq
 CkV
 CxJ
+CQJjVWKB
 Rechnen
 Richtungen
 Rafis
@@ -7446,6 +7492,8 @@ RNJ
 ROu
 RwvZ
 RHl
+Rxndx
+Rff
 aufstellen
 aus
 als
@@ -7990,6 +8038,7 @@ Abschlussdatum
 AnCn
 AZV
 ATZ
+AzJ
 PSE
 Protonen
 Problem
@@ -8213,6 +8262,8 @@ Parallel
 Prozess
 Pom
 PGsm
+PrFyAs
+Propan
 Zusammenfassung
 Zustand
 Zener
@@ -8378,6 +8429,7 @@ ZJO
 ZZm
 ZJj
 Zdvz
+ZzYQkD
 Quantenobjekt
 Quadratische
 Quadrtische
@@ -8952,6 +9004,8 @@ lebensgefährlichen
 liegen
 lDe
 lAu
+lhp
+laaNulX
 conf
 chroloid
 chlor
@@ -9160,6 +9214,7 @@ cYr
 cß
 ciI
 cYY
+clm
 zusammen
 zw
 zu
@@ -9354,6 +9409,8 @@ zjM
 zrI
 zkU
 zMf
+znZzqGlr
+zwka
 äußersten
 ändern
 äußeren
@@ -9547,6 +9604,7 @@ rTM
 rRFV
 rvF
 rhZ
+rFsISbNG
 Um
 Unterschied
 Ube
@@ -9731,6 +9789,7 @@ UdC
 UbIS
 UwR
 URX
+UmSV
 Verbindung
 Vieh
 Verbindungen
@@ -9913,6 +9972,8 @@ VjU
 VKI
 Vkv
 VDR
+Valenzstrichformel
+VWwlBtcG
 Überblick
 Übergang
 Übungsdaten
@@ -10091,6 +10152,7 @@ JZi
 Jfe
 JoNYr
 Jvk
+JSj
 xd
 xss
 xe
@@ -10266,6 +10328,8 @@ xsD
 xCE
 xBki
 xsV
+xbK
+xIsGTD
 je
 ja
 jeweils
@@ -10414,6 +10478,8 @@ jpEw
 jXwR
 jRk
 jnZ
+jWzibRS
+jnqpxkvQ
 yappen
 yappt
 yvT
@@ -10770,6 +10836,7 @@ qyv
 qdR
 qwp
 qis
+qGrR
 YUR
 Yq
 Yi
@@ -10926,6 +10993,7 @@ YXY
 YRi
 YBx
 YNC
+YkhbMiP
 XawbH
 Xr
 XJpQ
@@ -11104,6 +11172,8 @@ XjG
 XgTXek
 XxB
 XtY
+XvTg
+Xhk
 Ändern
 Äx
 Ähnlich
