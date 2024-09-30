@@ -450,6 +450,8 @@ KrX
 Kwk
 Koqug
 KUA
+Kohlenwasserstoffe
+KWs
 syt
 shittalken
 sEiD
@@ -4287,6 +4289,7 @@ Benutzerfreundlichkeit
 Benutzerberechtigungen
 Bugs
 BdF
+Behandlet
 wichtig
 was
 wie
@@ -7733,6 +7736,7 @@ aVq
 aQZF
 afM
 american
+ableiten
 Ausbeute
 Atomaufbau
 Arbeiten

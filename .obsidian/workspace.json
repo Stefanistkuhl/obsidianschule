@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "25e3b5fa8324704f",
+        "id": "03c296328dea9470",
         "type": "tabs",
         "children": [
           {
-            "id": "6930424b2ab3ae68",
+            "id": "48a2da42435a5b60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/mathe/Ableitung bsp.md",
+                "file": "3.Klasse/Nawi/Organischer Chemie.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "2b5d0debd9ced374",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/Organischer Chemie 30-09-2024-14.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/mathe/Ableitung bsp.md",
+                "file": "bilder/Organischer Chemie 30-09-2024-14.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +142,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/mathe/Ableitung bsp.md"
+                "file": "bilder/Organischer Chemie 30-09-2024-14.excalidraw.md"
               }
             }
           },
@@ -173,10 +184,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "6930424b2ab3ae68",
+  "active": "2b5d0debd9ced374",
   "lastOpenFiles": [
-    "3.Klasse/mathe/Ableitungsregeln.md",
+    "3.Klasse/Nawi/Organischer Chemie.md",
+    "bilder/Organischer Chemie 30-09-2024-14.excalidraw.md",
+    "bilder/Organischer Chemie 30-09-2024-07.excalidraw.md",
+    "3.Klasse/Nawi/3kl nawi.md",
     "3.Klasse/mathe/Ableitung bsp.md",
+    "3.Klasse/mathe/Ableitungsregeln.md",
     "3.Klasse/mathe/3kl mathe.md",
     "3.Klasse/englisch/vocab.md",
     "2.Klasse/Netzwerktiger/Aufgaben/wireskark_nc/images/tcp-header.jpeg",
@@ -201,10 +216,6 @@
     "3.Klasse/nwt/Switching Domains.md",
     "3.Klasse/nwt/switching conpets.md",
     "3.Klasse/nwt/Switch address learning.md",
-    "3.Klasse/nwt/Swtich Forwarding Methods.md",
-    "3.Klasse/nwt/Ethernet-Typen.md",
-    "Zeichnungen/DR04-12-2023-27.excalidraw.md",
-    "bilder/AES 27-09-2024-25.excalidraw.md",
     "3.Klasse/itsi/Aufhabe daten thingy.md~",
     "3.Klasse/deutsch/Redemanuscript aufgabe things.md~",
     "3.Klasse/deutsch/Stilfiguren.md~",
