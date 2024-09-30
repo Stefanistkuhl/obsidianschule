@@ -11,8 +11,12 @@
             "id": "6930424b2ab3ae68",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/mathe/Ableitung bsp.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3.Klasse/mathe/Ableitung bsp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "3.Klasse/mathe/Ableitung bsp.md"
+              }
             }
           },
           {
@@ -168,6 +175,9 @@
   },
   "active": "6930424b2ab3ae68",
   "lastOpenFiles": [
+    "3.Klasse/mathe/Ableitungsregeln.md",
+    "3.Klasse/mathe/Ableitung bsp.md",
+    "3.Klasse/mathe/3kl mathe.md",
     "3.Klasse/englisch/vocab.md",
     "2.Klasse/Netzwerktiger/Aufgaben/wireskark_nc/images/tcp-header.jpeg",
     "3.Klasse/englisch/3kl eng.md",
@@ -195,8 +205,6 @@
     "3.Klasse/nwt/Ethernet-Typen.md",
     "Zeichnungen/DR04-12-2023-27.excalidraw.md",
     "bilder/AES 27-09-2024-25.excalidraw.md",
-    "3.Klasse/nwt/the switch MAC address Table.md",
-    "3.Klasse/nwt/Frame Forwarding.md",
     "3.Klasse/itsi/Aufhabe daten thingy.md~",
     "3.Klasse/deutsch/Redemanuscript aufgabe things.md~",
     "3.Klasse/deutsch/Stilfiguren.md~",

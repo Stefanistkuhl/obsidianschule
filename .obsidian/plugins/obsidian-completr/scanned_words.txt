@@ -2717,6 +2717,7 @@ Sti
 SKK
 SAi
 SvK
+Summenregel
 Tuple
 Teststoff
 Teilchen
@@ -6623,6 +6624,7 @@ FLl
 FII
 FFV
 Fwk
+Faktorregel
 EBA
 Elektronenpaarbindung
 Elektronen
