@@ -16,3 +16,13 @@ tags:
 	- pass school with good grades (ausgezeichneter Erfolg)
 - conduct 
 	- conduct and interview/research
+- antonyms
+	- opposite
+- collocation
+	- conntected word: to make → a decision
+- counpound
+	- 2 nouns: career path
+- idioum
+	- metapher
+- aptitude
+	- talent (begabung)
