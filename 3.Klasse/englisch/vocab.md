@@ -12,4 +12,7 @@ tags:
 		- (sientific guess)
 - superficially
 	- just on the surface (oberflächlich)
-- 
+- merit/to pass with merit
+	- pass school with good grades (ausgezeichneter Erfolg)
+- conduct 
+	- conduct and interview/research
