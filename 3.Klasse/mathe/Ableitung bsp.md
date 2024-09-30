@@ -59,7 +59,49 @@ e)
 ||{"id":1352343433582}||
 
 f(x)=\frac{1}{x²}=x^{-2}
-f'(x)=-2x^{-3
+f'(x)=-2x^{-3}=\frac{2}{x³}
+```
+f)
+```math
+||{"id":164478647853}||
+
+f(x)=\frac{1}{4x³}=\frac{x^{-3}}{4}
+f'(x)=\frac{3}{4}*x^{-4}=-\frac{3}{4x⁴} 
+```
+g)
+```math
+||{"id":146415033688}||
+
+f(x)=(3x)²=9x²
+f'(x)=18x
+```
+h)
+```math
+||{"id":1209908531270}||
+
+f(x)=\sqrt[3]{ x }=x^{\frac{1}{3}}
+f'(x)=\frac{1}{3}*x^{-\frac{2}{1}}=\frac{1}{3*\sqrt[3]{x²}}
+```
+i)
+```math
+||{"id":1062332842432}||
+
+f(x)=x*\sqrt{ x }=x^{\frac{2}{2}}
+f'(x)=\frac{3}{2}*x^{1/2-2/2}=\frac{3}{2}\sqrt{ x }
+```
+j)
+```math
+||{"id":104414381423}||
+
+f(x)=\sqrt{ 2x }=\sqrt{ 2 }*x^{\frac{1}{2}}
+f'(x)=\frac{\sqrt{ 2 }}{2*\sqrt{ x }}=\frac{\sqrt{ 2 }}{\sqrt{ 2²x }}=\sqrt{ \frac{2}{2²\times} }=\sqrt{ \frac{1}{2x} }=\frac{1}{\sqrt{ 2x }}
+```
+3.32)a)
+```math
+||{"id":1424555366248}||
+
+y=2x²-12x+21
+y'=
 ```
 
 <div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>

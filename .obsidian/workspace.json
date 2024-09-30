@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "0b556daca544e0be",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "044b2b68cde916f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/mathe/Ableitungsregeln.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
