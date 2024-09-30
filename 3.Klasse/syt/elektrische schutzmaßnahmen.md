@@ -1,3 +1,9 @@
+---
+tags:
+  - syt
+  - syt_elektro
+  - 3te_Klasse
+---
 ### Beispiel 1: Schutzleiter und Erdung
 
 1. **Unterschied zwischen Schutzleiter (PE) und Erdung**: Der Schutzleiter (PE - Protective Earth) verbindet leitfähige Gehäuseteile von Geräten mit der Erdung, um im Fehlerfall eine sichere Ableitung des Fehlerstroms zu ermöglichen. Die Erdung ist eine direkte Verbindung des elektrischen Systems oder von Metallteilen mit der Erde, um eine Referenzspannung von 0 Volt zu schaffen und Überspannungen abzuleiten.

@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7983417855f7f4f5",
+        "id": "5320370b4205dbbc",
         "type": "tabs",
         "children": [
           {
-            "id": "4e7ce2acaf4a4127",
+            "id": "24faaa78a4298242",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/syt/Stefan Fürst Betriebssystem Aufgabe 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2fbcfe3c8d48e2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "elektrische schutzmaßnahmen.md",
+                "file": "3.Klasse/englisch/vocab.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "elektrische schutzmaßnahmen.md",
+                "file": "3.Klasse/englisch/vocab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "elektrische schutzmaßnahmen.md"
+                "file": "3.Klasse/englisch/vocab.md"
               }
             }
           },
@@ -187,10 +173,18 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c2fbcfe3c8d48e2a",
+  "active": "24faaa78a4298242",
   "lastOpenFiles": [
+    "2.Klasse/Netzwerktiger/Aufgaben/wireskark_nc/images/tcp-header.jpeg",
+    "3.Klasse/englisch/vocab.md",
+    "3.Klasse/englisch/3kl eng.md",
+    "3.Klasse/englisch/adverbs.md",
+    "3.Klasse/syt/elektrische schutzmaßnahmen.md",
+    "randoom ahh sachen zum anschauen.md",
+    "randoom ahh",
+    "randoom ahh/Elden Ring No hit run requests.md",
+    "3.Klasse/3te Klasse.md",
     "3.Klasse/syt/Stefan Fürst Betriebssystem Aufgabe 2.md",
-    "elektrische schutzmaßnahmen.md",
     "3.Klasse/syt/goofy ass syt aufhabe.md~",
     "bilder/Pasted image 20240927144209.png",
     "3.Klasse/nwt/vlan definition.md",
@@ -210,13 +204,6 @@
     "bilder/AES 27-09-2024-25.excalidraw.md",
     "3.Klasse/nwt/the switch MAC address Table.md",
     "3.Klasse/nwt/Frame Forwarding.md",
-    "3.Klasse/nwt/Filter Show Comamnd Output.md",
-    "3.Klasse/nwt/Ah yes 20 millionen cisco sachen.md",
-    "3.Klasse/nwt/cisco commands oida.md",
-    "3.Klasse/nwt/Router Grundconfig.md",
-    "3.Klasse/itsi/AES.md",
-    "3.Klasse/itsi/Symetrische Verschlüsselung.md",
-    "3.Klasse/itsi/Kryptografie.md",
     "3.Klasse/itsi/Aufhabe daten thingy.md~",
     "3.Klasse/deutsch/Redemanuscript aufgabe things.md~",
     "3.Klasse/deutsch/Stilfiguren.md~",
@@ -231,7 +218,6 @@
     "3.Klasse/deutsch",
     "2.Klasse/Mathe/Hü 7 Stefan Fürst 2BHIT.pdf",
     "3.Klasse/insy",
-    "3.Klasse/mathe",
     "bilder/Pasted image 20240912142854.png",
     "bilder/Pasted image 20240912143026.png",
     "bilder/Pasted image 20240912142937.png",
