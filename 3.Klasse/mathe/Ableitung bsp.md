@@ -114,10 +114,8 @@ S(3|3)
 
 y=ax²+bx+c
 y'=2ax+b
-x=3, Steigung 0.5⇒f'(3)=0.5⇒2*a*3+b=
+x=3, Steigung 0.5⇒f'(3)=0.5⇒2*a*3+b=0.5
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 P(1|3),x=0⇒y-Achse geschnitten
 ```math
 ||{"id":734708710342}||
