@@ -166,20 +166,63 @@ b)
 ||{"id":1181985723778}||
 
 f(x)=x+x^{-1}
-f'(x)=1-1*x^{
+f'(x)=1-1*x^{-2}=1-x^{-2}=1-\frac{1}{x^{-2}}
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 d)
 ```math
 ||{"id":658600491113}||
 
-f(x)=\frac{x+1}{2}
+f(x)=\frac{x+1}{2}=\frac{x}{2}+\frac{1}{2}
+f'(x)=\frac{1}{2}
 ```
 
 e)
 ```math
 ||{"id":1655073174483}||
 
-f(x)=\frac{x+1}{x}
+f(x)=\frac{x+1}{x}=\frac{x}{x}+\frac{1}{x}=1+1x^{-1}
+f'(x)=-x^{-2}=- \frac{1}{x²}
+```
+3.29)
+a)
+```math
+||{"id":1265166888200}||
+
+f(x)=-\cos x+3*\tan x
+f'(x)=\sin x+\frac{3}{\cos²x}
+```
+e)
+```math
+||{"id":153521589843}||
+
+f(x)=\ln x+\ln_{2}
+f'(x)=\frac{1}{x}
+```
+b)
+```math
+||{"id":112495509974}||
+
+f(x)=\frac{\sin x }{2*\cos x}=\frac{1}{2}*\tan x
+f'(x)=\frac{1}{2*\cos²x}
+```
+c)
+```math
+||{"id":83297599398}||
+
+f(x)=\frac{x}{2}+e^x
+f'(x)=\frac{1}{2}+e^x
+```
+d)
+```math
+||{"id":526844798184}||
+
+f(x)=\frac{3x²-2^x}{2}=\frac{3}{2}*x²-\frac{1}{2}*2^x
+f'(x)=3x-\frac{2^x*\ln 2}{2}
+```
+f)
+```math
+||{"id":876959150763}||
+
+f(x)=x+3 lg x
+f'(x)=\frac{1}{2}+e^x
 ```
