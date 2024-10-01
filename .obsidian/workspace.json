@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5915d7e403b72415",
+        "id": "3fbf29eeb2949566",
         "type": "tabs",
         "children": [
           {
-            "id": "63bbbcd25f87c547",
+            "id": "1e94abab0e1ce2c0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/mathe/Ableitung bsp.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3.Klasse/mathe/Ableitung bsp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "3.Klasse/mathe/Ableitung bsp.md"
+              }
             }
           },
           {
@@ -166,8 +173,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "63bbbcd25f87c547",
+  "active": "1e94abab0e1ce2c0",
   "lastOpenFiles": [
+    "templates/bwl.md",
     "test.md",
     "templates/test.md",
     "3.Klasse/Nawi/Organischer Chemie.md",
@@ -197,7 +205,6 @@
     "3.Klasse/nwt/Collion Domains.md",
     "3.Klasse/nwt/Ethernet Frame aufbau.md",
     "bilder/Collion Domains 27-09-2024-56.excalidraw.md",
-    "bilder/Collion Domains 27-09-2024-49.excalidraw.md",
     "3.Klasse/itsi/Aufhabe daten thingy.md~",
     "3.Klasse/deutsch/Redemanuscript aufgabe things.md~",
     "3.Klasse/deutsch/Stilfiguren.md~",

@@ -124,10 +124,17 @@ f(1)=0
 0=a*1²+b*1+c
 
 ```
-
 P(0|3),x=0⇒y-Achse geschnitten
 ```math
 ||{"id":1532632945501}||
 
 3=a*0+b*0+c⇒c=3
 ```
+```math
+||{"id":289643842388}||
+
+|:-0.5=6a+b⇒
+||:0=a+b+3⇒
+```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
