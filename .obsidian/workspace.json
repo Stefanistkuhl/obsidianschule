@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "f51ee5268f59737a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "657e6315722edee8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/mathe/Ableitungsregeln.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,6 +193,8 @@
   },
   "active": "1e94abab0e1ce2c0",
   "lastOpenFiles": [
+    "3.Klasse/mathe/Ableitungsregeln.md",
+    "3.Klasse/mathe/Ableitung bsp.md",
     "templates/bwl.md",
     "test.md",
     "templates/test.md",
@@ -183,8 +203,6 @@
     "bilder/Organischer Chemie 30-09-2024-14.excalidraw.md",
     "bilder/Organischer Chemie 30-09-2024-07.excalidraw.md",
     "3.Klasse/Nawi/3kl nawi.md",
-    "3.Klasse/mathe/Ableitung bsp.md",
-    "3.Klasse/mathe/Ableitungsregeln.md",
     "3.Klasse/mathe/3kl mathe.md",
     "3.Klasse/englisch/vocab.md",
     "2.Klasse/Netzwerktiger/Aufgaben/wireskark_nc/images/tcp-header.jpeg",

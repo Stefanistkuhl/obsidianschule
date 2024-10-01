@@ -133,8 +133,53 @@ P(0|3),x=0⇒y-Achse geschnitten
 ```math
 ||{"id":289643842388}||
 
-|:-0.5=6a+b⇒
-||:0=a+b+3⇒
+|:-0.5=6a+b|-
+||:0=a+b+3|
+-0.5=5a-3
+2.5=5a
+a=\frac{1}{2}
+0=\frac{1}{2}+b+3
+b=- \frac{7}{2}
+⇒y=\frac{1}{2}x²-\frac{7}{2}x+3
+```
+3.42)
+a)
+```math
+||{"id":839691508885}||
+
+s(t)=v_{0}t+\frac{1}{2}a*t²
+s'(t)=v(t)
+v'(t)=a(t)
+s'(t)=v(t)=v_{0}+a*t
+```
+b)
+```math
+||{"id":1385642251437}||
+
+v_{0}=45kmh
+a=4 \frac{m}{s²}
+v(3)=\frac{45}{3.6}+4*3=24 m/s=88,2 kmh
+```
+3.28)
+b)
+```math
+||{"id":1181985723778}||
+
+f(x)=x+x^{-1}
+f'(x)=1-1*x^{
 ```
 
 <div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
+d)
+```math
+||{"id":658600491113}||
+
+f(x)=\frac{x+1}{2}
+```
+
+e)
+```math
+||{"id":1655073174483}||
+
+f(x)=\frac{x+1}{x}
+```
