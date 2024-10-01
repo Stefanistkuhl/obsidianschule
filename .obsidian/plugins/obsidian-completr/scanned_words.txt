@@ -244,6 +244,9 @@ tZYlM
 tgWHg
 tTj
 tnT
+type
+title
+tension
 Klasse
 Konfigurationen
 Kugel
@@ -783,6 +786,8 @@ sxN
 sBW
 sFcGrN
 sXyw
+series
+saf
 elektro
 erklärt
 ein
@@ -1539,6 +1544,8 @@ geschnitten
 gxF
 gpHIg
 goRjtb
+geringer
+geringere
 purpose
 paare
 paaren
@@ -1737,6 +1744,7 @@ pRT
 placement
 prac
 pKJHp
+potentielle
 input
 int
 immutable
@@ -2394,6 +2402,7 @@ fehlende
 falscher
 folgendes
 fast
+fill
 Str
 Statisch
 Stifdrops
@@ -4519,6 +4528,7 @@ wNMj
 woD
 wvM
 work
+width
 Lehrer
 Ladig
 Links
@@ -4926,6 +4936,7 @@ uAi
 uMF
 ukh
 uHAYjV
+undefined
 Noten
 Neutronen
 Nichtmetalle
@@ -5788,6 +5799,10 @@ bgL
 bdt
 bSrä
 britisch
+beginAtZero
+bestFit
+bestFitTitle
+bestFitNumber
 Idi
 Ionenbindungen
 Ionisierungsenergie
@@ -7786,6 +7801,7 @@ afM
 american
 ableiten
 aufhalten
+asf
 Ausbeute
 Atomaufbau
 Arbeiten
@@ -8265,6 +8281,7 @@ Pom
 PGsm
 PrFyAs
 Propan
+Pot
 Zusammenfassung
 Zustand
 Zener
@@ -9007,6 +9024,8 @@ lDe
 lAu
 lhp
 laaNulX
+labels
+labelColors
 conf
 chroloid
 chlor

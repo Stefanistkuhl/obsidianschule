@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "03c296328dea9470",
+        "id": "5915d7e403b72415",
         "type": "tabs",
         "children": [
           {
-            "id": "48a2da42435a5b60",
+            "id": "63bbbcd25f87c547",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/Nawi/Organischer Chemie.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/Nawi/Organischer Chemie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,9 +125,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "3.Klasse/Nawi/Organischer Chemie.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,10 +166,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "48a2da42435a5b60",
+  "active": "63bbbcd25f87c547",
   "lastOpenFiles": [
-    "bilder/Organischer Chemie 30-09-2024-19.excalidraw.md",
+    "test.md",
+    "templates/test.md",
     "3.Klasse/Nawi/Organischer Chemie.md",
+    "bilder/Organischer Chemie 30-09-2024-19.excalidraw.md",
     "bilder/Organischer Chemie 30-09-2024-14.excalidraw.md",
     "bilder/Organischer Chemie 30-09-2024-07.excalidraw.md",
     "3.Klasse/Nawi/3kl nawi.md",
@@ -203,8 +198,6 @@
     "3.Klasse/nwt/Ethernet Frame aufbau.md",
     "bilder/Collion Domains 27-09-2024-56.excalidraw.md",
     "bilder/Collion Domains 27-09-2024-49.excalidraw.md",
-    "3.Klasse/nwt/Switching Domains.md",
-    "3.Klasse/nwt/switching conpets.md",
     "3.Klasse/itsi/Aufhabe daten thingy.md~",
     "3.Klasse/deutsch/Redemanuscript aufgabe things.md~",
     "3.Klasse/deutsch/Stilfiguren.md~",
