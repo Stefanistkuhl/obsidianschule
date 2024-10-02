@@ -247,6 +247,7 @@ tnT
 type
 title
 tension
+tGqPZOBx
 Klasse
 Konfigurationen
 Kugel
@@ -458,6 +459,7 @@ KWs
 KGxr
 Kunde
 Klasssen
+Konflikte
 syt
 shittalken
 sEiD
@@ -1749,6 +1751,7 @@ placement
 prac
 pKJHp
 potentielle
+phase
 input
 int
 immutable
@@ -2760,6 +2763,7 @@ Skelettformel
 SqyL
 Sozialversicherungsnummer
 Soz
+Storming
 Tuple
 Teststoff
 Teilchen
@@ -3391,6 +3395,7 @@ Wsn
 Wkd
 WQrm
 WDcu
+WFKWr
 verschienen
 verteilen
 voll
@@ -3871,6 +3876,8 @@ dVp
 dWN
 dya
 diU
+dUdthU
+dRi
 Dynamisch
 Dotierung
 Dioden
@@ -4111,6 +4118,7 @@ DUEQ
 DkT
 DJJ
 Daw
+DUrch
 Bsp
 Boschis
 Bipolartransistor
@@ -5189,6 +5197,7 @@ NKg
 NNj
 Nkw
 NUcpMhXK
+Norming
 hIeR
 höchsten
 hintere
@@ -5579,6 +5588,7 @@ Oxidation
 Oxidzahl
 Open
 Oqc
+OvxJVFdp
 beeing
 background
 berechnen
@@ -6290,6 +6300,7 @@ MZK
 MOYydd
 MpsbhMUb
 Methylpropan
+Macht
 nawi
 nix
 nicht
@@ -6706,6 +6717,9 @@ FFV
 Fwk
 Faktorregel
 FpyHA
+Forming
+FhivZoAb
+Fangen
 EBA
 Elektronenpaarbindung
 Elektronen
@@ -7144,6 +7158,7 @@ HbV
 HJjlca
 Halbstruktorformel
 HSW
+HvGe
 Chemisches
 Chemische
 Chlor
@@ -7537,6 +7552,9 @@ RHl
 Rxndx
 Rff
 Richtung
+Rollen
+Reviews
+Retrospective
 aufstellen
 aus
 als
@@ -7830,6 +7848,7 @@ american
 ableiten
 aufhalten
 asf
+amCE
 Ausbeute
 Atomaufbau
 Arbeiten
@@ -8084,6 +8103,7 @@ AnCn
 AZV
 ATZ
 AzJ
+AlBec
 PSE
 Protonen
 Problem
@@ -8311,6 +8331,8 @@ PrFyAs
 Propan
 Pot
 PjsP
+Projekt
+Performing
 Zusammenfassung
 Zustand
 Zener
@@ -8477,6 +8499,7 @@ ZZm
 ZJj
 Zdvz
 ZzYQkD
+Zussammenarbeit
 Quantenobjekt
 Quadratische
 Quadrtische
@@ -9842,6 +9865,8 @@ UbIS
 UwR
 URX
 UmSV
+Unklarheiten
+Umsetzung
 Verbindung
 Vieh
 Verbindungen
@@ -10027,6 +10052,7 @@ VDR
 Valenzstrichformel
 VWwlBtcG
 Verhalten
+Vorhabens
 Überblick
 Übergang
 Übungsdaten

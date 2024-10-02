@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/Ipt/Tuckman-Teamuhr.md",
+                "file": "3.Klasse/Ipt/PM-Kreislauf.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "bfbcdda19fa93a2a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/PM-Kreislauf 02-10-2024-51.excalidraw.md"
               }
             }
           },
@@ -97,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bilder/Tuckman-Teamuhr 02-10-2024-39.excalidraw.md",
+                "file": "bilder/PM-Kreislauf 02-10-2024-51.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +152,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "bilder/Tuckman-Teamuhr 02-10-2024-39.excalidraw.md"
+                "file": "bilder/PM-Kreislauf 02-10-2024-51.excalidraw.md"
               }
             }
           },
@@ -184,10 +194,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e3d131c58da45c35",
+  "active": "bfbcdda19fa93a2a",
   "lastOpenFiles": [
+    "3.Klasse/Ipt/PM-Kreislauf.md",
+    "bilder/PM-Kreislauf 02-10-2024-51.excalidraw.md",
     "3.Klasse/Ipt/Tuckman-Teamuhr.md",
     "bilder/Tuckman-Teamuhr 02-10-2024-39.excalidraw.md",
+    "3.Klasse/Ipt/3kl itp.md",
     "3.Klasse/insy/Entity Relationship-Model.md",
     "bilder/Entity Relationship-Model 02-10-2024-14.excalidraw.md",
     "bilder/Entity Relationship-Model 02-10-2024-09.excalidraw.md",
@@ -210,10 +223,7 @@
     "3.Klasse/englisch/3kl eng.md",
     "3.Klasse/englisch/adverbs.md",
     "3.Klasse/syt/elektrische schutzmaßnahmen.md",
-    "randoom ahh sachen zum anschauen.md",
     "randoom ahh",
-    "randoom ahh/Elden Ring No hit run requests.md",
-    "3.Klasse/3te Klasse.md",
     "3.Klasse/syt/goofy ass syt aufhabe.md~",
     "bilder/Pasted image 20240927144209.png",
     "3.Klasse/itsi/Aufhabe daten thingy.md~",
