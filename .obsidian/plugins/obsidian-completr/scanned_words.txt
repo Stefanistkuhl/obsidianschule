@@ -456,6 +456,8 @@ KUA
 Kohlenwasserstoffe
 KWs
 KGxr
+Kunde
+Klasssen
 syt
 shittalken
 sEiD
@@ -1546,6 +1548,8 @@ gpHIg
 goRjtb
 geringer
 geringere
+genau
+gehört
 purpose
 paare
 paaren
@@ -1982,6 +1986,8 @@ iDr
 internship
 iKWWwv
 iysodRRW
+inbeide
+innen
 output
 oida
 oder
@@ -2752,6 +2758,8 @@ Summenregel
 Schreibweisen
 Skelettformel
 SqyL
+Sozialversicherungsnummer
+Soz
 Tuple
 Teststoff
 Teilchen
@@ -2921,6 +2929,8 @@ TuXf
 Tbm
 TYYghC
 TYiiZHU
+Typ
+Typs
 mehere
 mit
 mutable
@@ -3174,6 +3184,7 @@ mng
 mPG
 myT
 mKpBG
+mehreren
 Werte
 Wellen
 Wollen
@@ -3379,6 +3390,7 @@ WkO
 Wsn
 Wkd
 WQrm
+WDcu
 verschienen
 verteilen
 voll
@@ -4098,6 +4110,7 @@ DrA
 DUEQ
 DkT
 DJJ
+Daw
 Bsp
 Boschis
 Bipolartransistor
@@ -4326,6 +4339,8 @@ Bugs
 BdF
 Behandlet
 Butan
+Beziehung
+Beziehungstypen
 wichtig
 was
 wie
@@ -4717,6 +4732,7 @@ LWZf
 LVv
 LgR
 LoUr
+Leherperson
 unsere
 uns
 und
@@ -4937,6 +4953,8 @@ uMF
 ukh
 uHAYjV
 undefined
+uSCM
+umgekehrt
 Noten
 Neutronen
 Nichtmetalle
@@ -5374,6 +5392,7 @@ hEQ
 hbO
 hTDx
 hrwdi
+hate
 Osko
 Orbitale
 Orbitalen
@@ -5803,6 +5822,9 @@ beginAtZero
 bestFit
 bestFitTitle
 bestFitNumber
+beschreiben
+betrachtet
+besucht
 Idi
 Ionenbindungen
 Ionisierungsenergie
@@ -6026,6 +6048,7 @@ Iaqp
 IfUUVf
 IFW
 IUP
+IoC
 Momente
 Massezahl
 Metalle
@@ -6928,6 +6951,8 @@ Eqj
 Egi
 Ethan
 EKA
+Entitäten
+Einfachbeziehung
 Halbleiter
 Hauptsächlich
 Hantelförmig
@@ -7118,6 +7143,7 @@ HopPJ
 HbV
 HJjlca
 Halbstruktorformel
+HSW
 Chemisches
 Chemische
 Chlor
@@ -7313,6 +7339,7 @@ Cpq
 CkV
 CxJ
 CQJjVWKB
+CRk
 Rechnen
 Richtungen
 Rafis
@@ -7509,6 +7536,7 @@ RwvZ
 RHl
 Rxndx
 Rff
+Richtung
 aufstellen
 aus
 als
@@ -8282,6 +8310,7 @@ PGsm
 PrFyAs
 Propan
 Pot
+PjsP
 Zusammenfassung
 Zustand
 Zener
@@ -8790,6 +8819,7 @@ kZg
 keg
 kYo
 kUf
+kauft
 überlappen
 überfluten
 über
@@ -9431,6 +9461,7 @@ zkU
 zMf
 znZzqGlr
 zwka
+zueinander
 äußersten
 ändern
 äußeren
@@ -9625,6 +9656,7 @@ rRFV
 rvF
 rhZ
 rFsISbNG
+rbWZ
 Um
 Unterschied
 Ube
@@ -9994,6 +10026,7 @@ Vkv
 VDR
 Valenzstrichformel
 VWwlBtcG
+Verhalten
 Überblick
 Übergang
 Übungsdaten
@@ -10173,6 +10206,7 @@ Jfe
 JoNYr
 Jvk
 JSj
+JxA
 xd
 xss
 xe
@@ -10500,6 +10534,7 @@ jRk
 jnZ
 jWzibRS
 jnqpxkvQ
+jrr
 yappen
 yappt
 yvT
@@ -10857,6 +10892,7 @@ qdR
 qwp
 qis
 qGrR
+qxUC
 YUR
 Yq
 Yi
@@ -11194,6 +11230,7 @@ XxB
 XtY
 XvTg
 Xhk
+XwoY
 Ändern
 Äx
 Ähnlich
