@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0def5ae13a5e059b",
+        "id": "a0ac43f8b701f2da",
         "type": "tabs",
         "children": [
           {
-            "id": "ff7a50d9427355ab",
+            "id": "69cc003615786571",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/insy/3kl insy.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/insy/3kl insy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,9 +125,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "3.Klasse/insy/3kl insy.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,8 +166,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ff7a50d9427355ab",
+  "active": "69cc003615786571",
   "lastOpenFiles": [
+    "3.Klasse/insy/3kl insy.md",
     "3.Klasse/mathe/Ableitungsregeln.md",
     "3.Klasse/mathe/Ableitung bsp.md",
     "templates/bwl.md",
@@ -204,7 +198,6 @@
     "3.Klasse/nwt/3kl nwt.md",
     "3.Klasse/nwt/Collion Domains.md",
     "3.Klasse/nwt/Ethernet Frame aufbau.md",
-    "bilder/Collion Domains 27-09-2024-56.excalidraw.md",
     "3.Klasse/itsi/Aufhabe daten thingy.md~",
     "3.Klasse/deutsch/Redemanuscript aufgabe things.md~",
     "3.Klasse/deutsch/Stilfiguren.md~",
