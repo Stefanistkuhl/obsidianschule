@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a0ac43f8b701f2da",
+        "id": "379d2fc4f3fe9656",
         "type": "tabs",
         "children": [
           {
-            "id": "69cc003615786571",
+            "id": "3754dd42029b54b0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/insy/Entity Relationship-Model.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3.Klasse/insy/Entity Relationship-Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "3.Klasse/insy/Entity Relationship-Model.md"
+              }
             }
           },
           {
@@ -166,9 +173,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "69cc003615786571",
+  "active": "3754dd42029b54b0",
   "lastOpenFiles": [
     "3.Klasse/insy/3kl insy.md",
+    "3.Klasse/insy/Entity Relationship-Model.md",
+    "3.Klasse/insy/Relationale Datenbank Systeme.md",
     "3.Klasse/mathe/Ableitungsregeln.md",
     "3.Klasse/mathe/Ableitung bsp.md",
     "templates/bwl.md",
@@ -196,8 +205,6 @@
     "bilder/vlans 27-09-2024-53.excalidraw.md",
     "3.Klasse/nwt/vlans.md",
     "3.Klasse/nwt/3kl nwt.md",
-    "3.Klasse/nwt/Collion Domains.md",
-    "3.Klasse/nwt/Ethernet Frame aufbau.md",
     "3.Klasse/itsi/Aufhabe daten thingy.md~",
     "3.Klasse/deutsch/Redemanuscript aufgabe things.md~",
     "3.Klasse/deutsch/Stilfiguren.md~",

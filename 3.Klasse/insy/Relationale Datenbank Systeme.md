@@ -35,3 +35,4 @@ Kunden: Namen, Sozialversicherungs nummber, Geb date, Adresse, Tel, Email schlü
 | 1   | Herbert Müller | müller@htl.at     |
 | 2   | name name      | name@name.at      |
 | 3   | boschi hatschi | boschi@hatschi.at |
+[[Realtionales Datenbank Magment System]]
