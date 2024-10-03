@@ -460,6 +460,7 @@ KGxr
 Kunde
 Klasssen
 Konflikte
+Kanal
 syt
 shittalken
 sEiD
@@ -1071,6 +1072,7 @@ eHDWMxmE
 eDrXz
 evZKiBZV
 eJOEeeB
+entschlüsseln
 GPIO
 Gleichungne
 Gleichung
@@ -1552,6 +1554,7 @@ geringer
 geringere
 genau
 gehört
+gleiche
 purpose
 paare
 paaren
@@ -2764,6 +2767,11 @@ SqyL
 Sozialversicherungsnummer
 Soz
 Storming
+Sicheren
+Schlüsselgängen
+Schnell
+Sicher
+Schlüsselmanagment
 Tuple
 Teststoff
 Teilchen
@@ -4119,6 +4127,7 @@ DkT
 DJJ
 Daw
 DUrch
+DES
 Bsp
 Boschis
 Bipolartransistor
@@ -4349,6 +4358,7 @@ Behandlet
 Butan
 Beziehung
 Beziehungstypen
+Blowfish
 wichtig
 was
 wie
@@ -5198,6 +5208,7 @@ NNj
 Nkw
 NUcpMhXK
 Norming
+Nachteile
 hIeR
 höchsten
 hintere
@@ -5589,6 +5600,7 @@ Oxidzahl
 Open
 Oqc
 OvxJVFdp
+OAMuVkJq
 beeing
 background
 berechnen
@@ -6967,6 +6979,7 @@ Ethan
 EKA
 Entitäten
 Einfachbeziehung
+Encryption
 Halbleiter
 Hauptsächlich
 Hantelförmig
@@ -7159,6 +7172,7 @@ HJjlca
 Halbstruktorformel
 HSW
 HvGe
+HLDKHrcN
 Chemisches
 Chemische
 Chlor
@@ -7849,6 +7863,7 @@ ableiten
 aufhalten
 asf
 amCE
+ausgetauscht
 Ausbeute
 Atomaufbau
 Arbeiten
@@ -8104,6 +8119,8 @@ AZV
 ATZ
 AzJ
 AlBec
+Adjorming
+Advanced
 PSE
 Protonen
 Problem
@@ -8333,6 +8350,7 @@ Pot
 PjsP
 Projekt
 Performing
+Perfomant
 Zusammenfassung
 Zustand
 Zener
@@ -8631,6 +8649,7 @@ QwOT
 QSI
 QONI
 QQYM
+Quanten
 kann
 kein
 können
@@ -10053,6 +10072,7 @@ Valenzstrichformel
 VWwlBtcG
 Verhalten
 Vorhabens
+Vorteile
 Überblick
 Übergang
 Übungsdaten
