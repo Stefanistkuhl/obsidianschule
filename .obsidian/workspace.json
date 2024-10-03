@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f966afe463aa6ef7",
+        "id": "802810ca1ca5beef",
         "type": "tabs",
         "children": [
           {
-            "id": "20eebd2ab5e15823",
+            "id": "a8bd10499ce8d295",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/itsi/Symetrische Verschlüsselung.md",
+                "file": "3.Klasse/ggp/3kl GGP.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/itsi/Symetrische Verschlüsselung.md",
+                "file": "3.Klasse/ggp/3kl GGP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/itsi/Symetrische Verschlüsselung.md"
+                "file": "3.Klasse/ggp/3kl GGP.md"
               }
             }
           },
@@ -173,8 +173,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "20eebd2ab5e15823",
+  "active": "a8bd10499ce8d295",
   "lastOpenFiles": [
+    "templates/ggp.md",
+    "3.Klasse/itsi/Symetrische Verschlüsselung.md",
     "bilder/Tuckman-Teamuhr 02-10-2024-39.excalidraw.md",
     "3.Klasse/Ipt/PM-Kreislauf.md",
     "bilder/PM-Kreislauf 02-10-2024-51.excalidraw.md",
@@ -200,8 +202,6 @@
     "3.Klasse/englisch/vocab.md",
     "2.Klasse/Netzwerktiger/Aufgaben/wireskark_nc/images/tcp-header.jpeg",
     "3.Klasse/englisch/3kl eng.md",
-    "3.Klasse/englisch/adverbs.md",
-    "3.Klasse/syt/elektrische schutzmaßnahmen.md",
     "randoom ahh",
     "3.Klasse/syt/goofy ass syt aufhabe.md~",
     "bilder/Pasted image 20240927144209.png",
