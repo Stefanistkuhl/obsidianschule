@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "bfbcdda19fa93a2a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/PM-Kreislauf 02-10-2024-51.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "e3d131c58da45c35",
             "type": "leaf",
             "state": {
@@ -39,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bilder/PM-Kreislauf 02-10-2024-51.excalidraw.md",
+                "file": "3.Klasse/Ipt/PM-Kreislauf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +141,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "bilder/PM-Kreislauf 02-10-2024-51.excalidraw.md"
+                "file": "3.Klasse/Ipt/PM-Kreislauf.md"
               }
             }
           },
@@ -194,10 +183,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "bfbcdda19fa93a2a",
+  "active": "afd0fb3c83a65ee8",
   "lastOpenFiles": [
-    "3.Klasse/Ipt/PM-Kreislauf.md",
     "bilder/PM-Kreislauf 02-10-2024-51.excalidraw.md",
+    "3.Klasse/Ipt/PM-Kreislauf.md",
     "3.Klasse/Ipt/Tuckman-Teamuhr.md",
     "bilder/Tuckman-Teamuhr 02-10-2024-39.excalidraw.md",
     "3.Klasse/Ipt/3kl itp.md",
