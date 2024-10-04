@@ -1,0 +1,92 @@
+\documentclass[a4paper]{article}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{url}
+\usepackage{outlines}
+\usepackage{listings}
+\lstset{basicstyle=\ttfamily,
+	showstringspaces=false,
+	commentstyle=\color{blue},
+	keywordstyle=\color{pink}
+}
+\lstset{emph={
+	nc,tcp,udp,http,},emphstyle=\color{purple}
+}
+\usepackage{fancyhdr}
+\usepackage{geometry}
+\geometry{
+	a4paper,
+	total={170mm,257mm},
+	left=20mm,
+	top=20mm,
+	bottom=39mm,
+}
+
+\setlength{\headheight}{82.70538pt}
+
+\fancypagestyle{oida}{
+	\fancyhf{}
+	\fancyhead[L]{\fontsize{7.5}{7.5}htl donaustadt\\ Donaustadtstraße 45\\
+		1220 Wien\\~\\ Abteilung: Informationstechnologie\\ 
+	Schwerpunkt: Netzwerktechnik}
+	\fancyhead[R]{\includegraphics[scale=0.45]{images/logo.png}}
+
+	\fancyfoot[L]{\today}
+	\fancyfoot[C]{\jobname}
+	\fancyfoot[R]{Seite: \thepage}
+}
+
+\begin{document}
+\bibliographystyle{plain}
+\pagestyle{oida}
+\section*{Thema}
+\par\noindent\rule{\textwidth}{0.4pt}
+
+Laborprotokoll
+Template
+
+\begin{figure}[h]
+	\includegraphics[scale=0.3]{images/meme.jpeg}
+	\caption{memes klauen ist nicht ethisch}
+\end{figure}
+
+\vspace*{\fill}
+Unterrichtsgegenstand:	ITSI|ZIVK
+
+Jahrgang:	3BHIT
+
+Name:	Stefan Fürst, Marcel Raichle
+
+Betreuer: 	ZIVK
+
+Übungsdaten:	24.5.2024, 31.5.2024,7.6.2024
+
+Abgabedatum:	7.6.2024
+
+
+\newpage
+\tableofcontents
+
+\newpage
+
+\section{Aufgabenstellung}
+
+
+
+\section{Zusammenfassung}
+
+
+\newpage
+
+\section{Übungsdurchführung}
+
+
+\newpage
+\section{Quellen}
+\bibliography{quellen}
+\newpage
+\section{Abbildungsverzeichnis}
+
+\listoffigures
+
+\end{document}

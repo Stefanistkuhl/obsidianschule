@@ -1,0 +1,126 @@
+\documentclass[a4paper]{article}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{url}
+\usepackage{outlines}
+\usepackage{listings}
+\lstset{basicstyle=\ttfamily,
+	showstringspaces=false,
+	commentstyle=\color{blue},
+	keywordstyle=\color{pink}
+}
+\lstset{emph={
+	nc,tcp,udp,http,},emphstyle=\color{purple}
+}
+\usepackage{fancyhdr}
+\usepackage{geometry}
+\geometry{
+	a4paper,
+	total={170mm,257mm},
+	left=20mm,
+	top=20mm,
+	bottom=39mm,
+}
+
+\setlength{\headheight}{82.70538pt}
+
+\fancypagestyle{oida}{
+	\fancyhf{}
+	\fancyhead[L]{\fontsize{7.5}{7.5}htl donaustadt\\ Donaustadtstraße 45\\
+		1220 Wien\\~\\ Abteilung: Informationstechnologie\\ 
+	Schwerpunkt: Netzwerktechnik}
+	\fancyhead[R]{\includegraphics[scale=0.45]{images/logo.png}}
+
+	\fancyfoot[L]{\today}
+	\fancyfoot[C]{\jobname}
+	\fancyfoot[R]{Seite: \thepage}
+}
+
+\begin{document}
+\bibliographystyle{plain}
+\pagestyle{oida}
+\section*{Thema}
+\par\noindent\rule{\textwidth}{0.4pt}
+
+Laborprotokoll
+Template
+
+\begin{figure}[h]
+	\includegraphics[scale=0.3]{images/meme.jpeg}
+	\caption{memes klauen ist nicht ethisch}
+\end{figure}
+
+\vspace*{\fill}
+Unterrichtsgegenstand:	ITSI|ZIVK
+
+Jahrgang:	3BHIT
+
+Name:	Stefan Fürst, Marcel Raichle
+
+Betreuer: 	ZIVK
+
+Übungsdaten:	24.5.2024, 31.5.2024,7.6.2024
+
+Abgabedatum:	7.6.2024
+
+
+\newpage
+\tableofcontents
+
+\newpage
+
+\section{Aufgabenstellung}
+
+
+
+\section{Zusammenfassung}
+
+
+\newpage
+
+\section{Übungsdurchführung}
+
+\subsection{Symmetrisch Verschlüsseln Übung 1}
+zum verschlüsseln:
+openssl aes256 -in Raichle.txt -out Raichle.encrypted
+zum entschlüsseln
+
+\subsection{Asymmetrisch Verschlüsseln Übung 1}
+openssl aes256 -d -in Raichle.encrypted -out Raichle.txt
+Private key
+openssl genpkey -algorithm RSA -pkeyopt rsa_keygen_bits:4096 -out private-key.pem
+Pub key
+openssl pkey -in private-key.pem -out public-key.pem -pubout
+
+datei verschlüsseln
+openssl rsautl -encrypt -inkey zivk.pem -pubin -in Raichle-Fuerst-RSA.txt -out Raichle-Fuerst-RSA.txt.zivk.enc
+
+\subsection{Integrität prüfen}
+command:
+sha256sum <dateiname>
+Hash erste datei
+e605bd1f525b133340d704f0e899d977f37dea63c14b243a346f1b524499bcf5
+4te aus der liste
+2.
+591ad652f7332fdca28e4ecc520ad7b71852cdaa7ab3efbaeeb6042a815c812d
+1te aus der liste
+3.
+e05c11789a98a495d7283a499b1ccc31c368d3c191a4fb5b7074161c816da2e3
+2te aus der liste
+4.
+a20fb601802f7b87b2063964e0d2f7e15b2448bc6ee64dd7a9099991723a2666
+5te aus der liste
+
+der 3te hat keinen hash
+
+
+
+\newpage
+\section{Quellen}
+\bibliography{quellen}
+\newpage
+\section{Abbildungsverzeichnis}
+
+\listoffigures
+
+\end{document}
