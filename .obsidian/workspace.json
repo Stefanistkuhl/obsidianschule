@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/nwt/vlans.md",
+                "file": "3.Klasse/nwt/Trunks.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/nwt/vlans.md",
+                "file": "3.Klasse/nwt/Trunks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/nwt/vlans.md"
+                "file": "3.Klasse/nwt/Trunks.md"
               }
             }
           },
@@ -175,9 +175,10 @@
   },
   "active": "2664da45bc35833e",
   "lastOpenFiles": [
+    "3.Klasse/nwt/vlans.md",
+    "3.Klasse/nwt/Trunks.md",
     "3.Klasse/nwt/Types of Vlans.md",
     "3.Klasse/nwt/Filter Show Comamnd Output.md",
-    "3.Klasse/nwt/vlans.md",
     "3.Klasse/3te Klasse.md",
     "3.Klasse/ggp/3kl GGP.md",
     "templates/ggp.md",
@@ -200,7 +201,6 @@
     "templates/test.md",
     "3.Klasse/Nawi/Organischer Chemie.md",
     "bilder/Organischer Chemie 30-09-2024-19.excalidraw.md",
-    "bilder/Organischer Chemie 30-09-2024-14.excalidraw.md",
     "2.Klasse/Netzwerktiger/Aufgaben/wireskark_nc/images/tcp-header.jpeg",
     "randoom ahh",
     "3.Klasse/syt/goofy ass syt aufhabe.md~",
