@@ -11,8 +11,12 @@
             "id": "2664da45bc35833e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/nwt/vlans.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3.Klasse/nwt/vlans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "3.Klasse/nwt/vlans.md"
+              }
             }
           },
           {
@@ -168,6 +175,9 @@
   },
   "active": "2664da45bc35833e",
   "lastOpenFiles": [
+    "3.Klasse/nwt/Types of Vlans.md",
+    "3.Klasse/nwt/Filter Show Comamnd Output.md",
+    "3.Klasse/nwt/vlans.md",
     "3.Klasse/3te Klasse.md",
     "3.Klasse/ggp/3kl GGP.md",
     "templates/ggp.md",
@@ -191,9 +201,6 @@
     "3.Klasse/Nawi/Organischer Chemie.md",
     "bilder/Organischer Chemie 30-09-2024-19.excalidraw.md",
     "bilder/Organischer Chemie 30-09-2024-14.excalidraw.md",
-    "bilder/Organischer Chemie 30-09-2024-07.excalidraw.md",
-    "3.Klasse/Nawi/3kl nawi.md",
-    "3.Klasse/mathe/3kl mathe.md",
     "2.Klasse/Netzwerktiger/Aufgaben/wireskark_nc/images/tcp-header.jpeg",
     "randoom ahh",
     "3.Klasse/syt/goofy ass syt aufhabe.md~",

@@ -248,6 +248,7 @@ type
 title
 tension
 tGqPZOBx
+things
 Klasse
 Konfigurationen
 Kugel
@@ -793,6 +794,8 @@ sFcGrN
 sXyw
 series
 saf
+setzen
+section
 elektro
 erklärt
 ein
@@ -1073,6 +1076,7 @@ eDrXz
 evZKiBZV
 eJOEeeB
 entschlüsseln
+exclude
 GPIO
 Gleichungne
 Gleichung
@@ -1755,6 +1759,7 @@ prac
 pKJHp
 potentielle
 phase
+pipe
 input
 int
 immutable
@@ -1994,6 +1999,7 @@ iKWWwv
 iysodRRW
 inbeide
 innen
+include
 output
 oida
 oder
@@ -3886,6 +3892,8 @@ dya
 diU
 dUdthU
 dRi
+defeault
+deleted
 Dynamisch
 Dotierung
 Dioden
@@ -4128,6 +4136,7 @@ DJJ
 Daw
 DUrch
 DES
+Defeault
 Bsp
 Boschis
 Bipolartransistor
@@ -5209,6 +5218,7 @@ Nkw
 NUcpMhXK
 Norming
 Nachteile
+Native
 hIeR
 höchsten
 hintere
@@ -5847,6 +5857,7 @@ bestFitNumber
 beschreiben
 betrachtet
 besucht
+begin
 Idi
 Ionenbindungen
 Ionisierungsenergie
@@ -6313,6 +6324,7 @@ MOYydd
 MpsbhMUb
 Methylpropan
 Macht
+Managment
 nawi
 nix
 nicht
@@ -6732,6 +6744,7 @@ FpyHA
 Forming
 FhivZoAb
 Fangen
+Filtern
 EBA
 Elektronenpaarbindung
 Elektronen
@@ -7369,6 +7382,7 @@ CkV
 CxJ
 CQJjVWKB
 CRk
+Cannont
 Rechnen
 Richtungen
 Rafis
@@ -9307,6 +9321,7 @@ cß
 ciI
 cYY
 clm
+command
 zusammen
 zw
 zu
@@ -9699,6 +9714,7 @@ rvF
 rhZ
 rFsISbNG
 rbWZ
+renamed
 Um
 Unterschied
 Ube
@@ -10073,6 +10089,7 @@ VWwlBtcG
 Verhalten
 Vorhabens
 Vorteile
+VLAn
 Überblick
 Übergang
 Übungsdaten
