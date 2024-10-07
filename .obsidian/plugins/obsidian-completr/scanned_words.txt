@@ -252,6 +252,7 @@ things
 talent
 tomorrow
 tense
+teraedisch
 Klasse
 Konfigurationen
 Kugel
@@ -1090,6 +1091,8 @@ eJOEeeB
 entschlüsseln
 exclude
 estimate
+eingehen
+energetisch
 GPIO
 Gleichungne
 Gleichung
@@ -1292,6 +1295,7 @@ GIH
 Gcho
 GpqltJm
 GRSMZK
+Grundzustand
 general
 gesetzte
 gedreht
@@ -1578,6 +1582,7 @@ gain
 give
 gather
 güter
+gelöst
 purpose
 paare
 paaren
@@ -3691,6 +3696,7 @@ vDpU
 vGqKbZHi
 vlan
 vlans
+vier
 datetypen
 deppat
 dem
@@ -3940,6 +3946,7 @@ dat
 decision
 develop
 delivered
+drei
 Dynamisch
 Dotierung
 Dioden
@@ -7252,6 +7259,7 @@ HSW
 HvGe
 HLDKHrcN
 Has
+Hypridorbitalen
 Chemisches
 Chemische
 Chlor
@@ -7950,6 +7958,7 @@ aptitude
 awnsered
 arrested
 assess
+ausgerichtet
 Ausbeute
 Atomaufbau
 Arbeiten
@@ -8952,6 +8961,7 @@ kYo
 kUf
 kauft
 kLVB
+kombiniert
 überlappen
 überfluten
 über
@@ -9189,6 +9199,7 @@ laaNulX
 labels
 labelColors
 learn
+leeres
 conf
 chroloid
 chlor

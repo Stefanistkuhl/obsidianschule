@@ -23,3 +23,6 @@ Bsp
 
 Im Grundzustand hat ein C-Atom ein leeres p-Orbital und könnte damit eine e--Paarbindung eingehen. Dieses Problem kann gelöst werden, in dem das 2s- und drei 2p-Orbitale zu vier 2sp³-Hypridorbitalen kombiniert werden.
 Diese sind energetisch gleich und teraedisch ausgerichtet.
+![[Organischer Chemie 07-10-2024-50.excalidraw]]
+eine weiter Möglichkeit besteht darun, nur zwei der drei 2p-Orbitale zu nutzen:
+![[Organischer Chemie 07-10-2024-03.excalidraw]]
