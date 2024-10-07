@@ -43,4 +43,5 @@ tags:
 		- Flash
 		- gepiratete PDFs
 - Zussamensetzung des Warenkorbs
-	- 
+	- Massenproduktion hat zb Lebensmittel billiger gemacht, Welthandel (Globalisierung)
+	- Wohenen ist *leicht* gestiegen

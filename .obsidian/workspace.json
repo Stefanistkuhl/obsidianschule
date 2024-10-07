@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cd7ff23f19be5711",
+        "id": "74b0655effdb76d1",
         "type": "tabs",
         "children": [
           {
-            "id": "a7cd68d3219fc1a7",
+            "id": "6d7fd8b7ff390d66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/ggp/Seite 54 kompetenz training thingy.md",
+                "file": "3.Klasse/mathe/Ableitung bsp.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/ggp/Seite 54 kompetenz training thingy.md",
+                "file": "3.Klasse/mathe/Ableitung bsp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/ggp/Seite 54 kompetenz training thingy.md"
+                "file": "3.Klasse/mathe/Ableitung bsp.md"
               }
             }
           },
@@ -173,10 +173,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "a7cd68d3219fc1a7",
+  "active": "6d7fd8b7ff390d66",
   "lastOpenFiles": [
-    "3.Klasse/ggp/Volkswirtschaften.md",
     "3.Klasse/ggp/Seite 54 kompetenz training thingy.md",
+    "3.Klasse/ggp/Volkswirtschaften.md",
     "3.Klasse/englisch/adverbs.md",
     "3.Klasse/englisch/passive hü.md",
     "3.Klasse/englisch/vocab.md",
