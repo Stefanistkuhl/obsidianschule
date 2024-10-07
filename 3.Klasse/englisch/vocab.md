@@ -31,3 +31,5 @@ tags:
 - gain/learn/develop/improve skills
 - to assess
 	- bewerten
+- emphasize
+	- to point out

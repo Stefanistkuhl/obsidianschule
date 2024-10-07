@@ -4,43 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "766c3f7ddf51dd8f",
+        "id": "e98676ddc9264a6b",
         "type": "tabs",
         "children": [
           {
-            "id": "717dc95a8031e21a",
+            "id": "bce3fc0078391b3c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/englisch/passive hü.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d631c8c64a1fced7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/englisch/vocab.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d28bab34ff2b240",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/englisch/adverbs.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -110,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/englisch/passive hü.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,9 +125,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "3.Klasse/englisch/passive hü.md"
-              }
+              "state": {}
             }
           },
           {
@@ -197,15 +166,15 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "717dc95a8031e21a",
+  "active": "bce3fc0078391b3c",
   "lastOpenFiles": [
-    "bilder/active passive 07-10-2024-04.excalidraw.md",
+    "3.Klasse/englisch/adverbs.md",
     "3.Klasse/englisch/passive hü.md",
+    "3.Klasse/englisch/vocab.md",
+    "bilder/active passive 07-10-2024-04.excalidraw.md",
     "bilder/passive hü 07-10-2024-48.excalidraw.md",
     "bilder/Pasted Image 20241007094356_241.png",
     "3.Klasse/englisch/active passive.md",
-    "3.Klasse/englisch/adverbs.md",
-    "3.Klasse/englisch/vocab.md",
     "bilder/Pasted image 20241007094026.png",
     "bilder/Pasted image 20241007093259.png",
     "3.Klasse/englisch/3kl eng.md",
