@@ -30,3 +30,12 @@ Neben einer σ-Bindung sind nun auch π-Bindungen möglich
 
 Einfachbindung: Eine σ-Bindung 
 Doppelbindung: Eine σ-Bindung mit einer π-Bindung
+
+π-Bindungen sind schwächer als σ-Bindungen
+→ Können leicht gebrochen werden → Verbindungen
+mit π-Bindungen sind reaktiver!
+
+Alkan ... KW mit auschließlich Einfachbindungen
+Alken ... KW mit mind. eine Doppelbindung
+
+[[Nomenklatur vom KW]]

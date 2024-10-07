@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/Nawi/Organischer Chemie.md",
+                "file": "3.Klasse/Nawi/Nomenklatur vom KW.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "2bd0df33bf7b556a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/Nomenklatur vom KW 07-10-2024-48.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/Nawi/Organischer Chemie.md",
+                "file": "bilder/Nomenklatur vom KW 07-10-2024-48.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +142,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/Nawi/Organischer Chemie.md"
+                "file": "bilder/Nomenklatur vom KW 07-10-2024-48.excalidraw.md"
               }
             }
           },
@@ -173,10 +184,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "42706e376247c125",
+  "active": "2bd0df33bf7b556a",
   "lastOpenFiles": [
-    "bilder/Organischer Chemie 07-10-2024-50.excalidraw.md",
+    "3.Klasse/Nawi/Nomenklatur vom KW.md",
+    "bilder/Nomenklatur vom KW 07-10-2024-48.excalidraw.md",
     "3.Klasse/Nawi/Organischer Chemie.md",
+    "bilder/Organischer Chemie 07-10-2024-50.excalidraw.md",
     "bilder/Organischer Chemie 07-10-2024-03.excalidraw.md",
     "3.Klasse/Nawi/3kl nawi.md",
     "3.Klasse/mathe/Produktregel bsp.md",
@@ -202,8 +215,6 @@
     "3.Klasse/nwt/Filter Show Comamnd Output.md",
     "3.Klasse/3te Klasse.md",
     "3.Klasse/ggp/3kl GGP.md",
-    "templates/ggp.md",
-    "3.Klasse/itsi/Symetrische Verschlüsselung.md",
     "2.Klasse/Netzwerktiger/Aufgaben/wireskark_nc/images/tcp-header.jpeg",
     "randoom ahh",
     "3.Klasse/syt/goofy ass syt aufhabe.md~",
