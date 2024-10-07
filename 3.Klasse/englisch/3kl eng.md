@@ -6,3 +6,4 @@ tags:
 ---
 [[adverbs]]
 [[vocab]]
+[thing](https://www.ego4u.com/)

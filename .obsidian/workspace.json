@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/englisch/vocab.md",
+                "file": "3.Klasse/englisch/3kl eng.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/englisch/vocab.md"
+                "file": "3.Klasse/englisch/3kl eng.md"
               }
             }
           },
@@ -198,10 +197,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d631c8c64a1fced7",
+  "active": "717dc95a8031e21a",
   "lastOpenFiles": [
-    "3.Klasse/englisch/3kl eng.md",
     "3.Klasse/englisch/adverbs.md",
+    "3.Klasse/englisch/vocab.md",
+    "3.Klasse/englisch/3kl eng.md",
     "3.Klasse/syt/elektrische schutzmaßnahmen.md",
     "3.Klasse/nwt/Trunks.md",
     "3.Klasse/nwt/vlans.md",
@@ -225,7 +225,6 @@
     "3.Klasse/mathe/Ableitungsregeln.md",
     "3.Klasse/mathe/Ableitung bsp.md",
     "templates/bwl.md",
-    "test.md",
     "2.Klasse/Netzwerktiger/Aufgaben/wireskark_nc/images/tcp-header.jpeg",
     "randoom ahh",
     "3.Klasse/syt/goofy ass syt aufhabe.md~",
