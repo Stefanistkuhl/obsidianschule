@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e98676ddc9264a6b",
+        "id": "cd7ff23f19be5711",
         "type": "tabs",
         "children": [
           {
-            "id": "bce3fc0078391b3c",
+            "id": "a7cd68d3219fc1a7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/ggp/Seite 54 kompetenz training thingy.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3.Klasse/ggp/Seite 54 kompetenz training thingy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "3.Klasse/ggp/Seite 54 kompetenz training thingy.md"
+              }
             }
           },
           {
@@ -166,8 +173,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "bce3fc0078391b3c",
+  "active": "a7cd68d3219fc1a7",
   "lastOpenFiles": [
+    "3.Klasse/ggp/Volkswirtschaften.md",
+    "3.Klasse/ggp/Seite 54 kompetenz training thingy.md",
     "3.Klasse/englisch/adverbs.md",
     "3.Klasse/englisch/passive hü.md",
     "3.Klasse/englisch/vocab.md",
@@ -195,7 +204,6 @@
     "3.Klasse/insy/Entity Relationship-Model.md",
     "bilder/Entity Relationship-Model 02-10-2024-14.excalidraw.md",
     "bilder/Entity Relationship-Model 02-10-2024-09.excalidraw.md",
-    "bilder/Entity Relationship-Model 02-10-2024-58.excalidraw.md",
     "2.Klasse/Netzwerktiger/Aufgaben/wireskark_nc/images/tcp-header.jpeg",
     "randoom ahh",
     "3.Klasse/syt/goofy ass syt aufhabe.md~",

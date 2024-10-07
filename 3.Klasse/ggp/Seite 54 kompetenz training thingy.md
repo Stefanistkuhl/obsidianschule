@@ -1,0 +1,21 @@
+---
+tags:
+  - 3te_Klasse
+  - ggp
+---
+- Beispiele für nicht-materielle und materielle Güter
+	- materiell 
+		- fahrrad
+		- gewand
+	- nicht-materiell
+		- dienstleistungen
+		- emotionale werte
+			- liebe, geborgenheit, zufriedenheit
+		- Uhrheberrecht
+- 
+- 
+- Waren und Dienstleistungen die vor 50 Jahren wichtig waren und welche für heute
+	- vor 50j
+		- 
+	- heute
+		- 
