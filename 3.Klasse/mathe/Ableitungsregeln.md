@@ -9,5 +9,8 @@ tags:
 	- $$y=x^m\pm x^n →y'=m*x^{m-1}\pm n*x^{n-1}$$
 - Produktregel
 	- $$f(x)=u(x)*v(x)=f'(x)=u'(x)*v(x)+v'(x)*u(x)$$
+- Quatientenregel
+	- $$f(x)=\frac{u(x)}{v(x)}=f'(x)=\frac{u'(x)*v(x)-v'(x)*u(x)}{v²(x)}$$
 [[Ableitung bsp]]
 [[Produktregel bsp]]
+[[quatient regel bsp]]

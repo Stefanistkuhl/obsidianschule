@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/mathe/Ableitung bsp.md",
+                "file": "3.Klasse/mathe/quatient regel bsp.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/mathe/Produktregel bsp.md",
+                "file": "3.Klasse/mathe/quatient regel bsp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/mathe/Produktregel bsp.md"
+                "file": "3.Klasse/mathe/quatient regel bsp.md"
               }
             }
           },
@@ -186,11 +185,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "2893d906c20090f7",
+  "active": "6d7fd8b7ff390d66",
   "lastOpenFiles": [
     "3.Klasse/mathe/Ableitungsregeln.md",
-    "3.Klasse/mathe/Produktregel bsp.md",
+    "3.Klasse/mathe/quatient regel bsp.md",
     "3.Klasse/mathe/Ableitung bsp.md",
+    "3.Klasse/mathe/Produktregel bsp.md",
     "3.Klasse/ggp/Seite 54 kompetenz training thingy.md",
     "3.Klasse/ggp/Volkswirtschaften.md",
     "3.Klasse/englisch/adverbs.md",
@@ -216,7 +216,6 @@
     "3.Klasse/Ipt/PM-Kreislauf.md",
     "bilder/PM-Kreislauf 02-10-2024-51.excalidraw.md",
     "3.Klasse/Ipt/Tuckman-Teamuhr.md",
-    "3.Klasse/Ipt/3kl itp.md",
     "2.Klasse/Netzwerktiger/Aufgaben/wireskark_nc/images/tcp-header.jpeg",
     "randoom ahh",
     "3.Klasse/syt/goofy ass syt aufhabe.md~",
