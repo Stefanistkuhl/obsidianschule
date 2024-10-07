@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "d631c8c64a1fced7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/englisch/vocab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4d28bab34ff2b240",
             "type": "leaf",
             "state": {
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/englisch/adverbs.md",
+                "file": "3.Klasse/englisch/vocab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/englisch/adverbs.md"
+                "file": "3.Klasse/englisch/vocab.md"
               }
             }
           },
@@ -186,9 +198,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "4d28bab34ff2b240",
+  "active": "d631c8c64a1fced7",
   "lastOpenFiles": [
     "3.Klasse/englisch/3kl eng.md",
+    "3.Klasse/englisch/adverbs.md",
     "3.Klasse/syt/elektrische schutzmaßnahmen.md",
     "3.Klasse/nwt/Trunks.md",
     "3.Klasse/nwt/vlans.md",
@@ -213,7 +226,6 @@
     "3.Klasse/mathe/Ableitung bsp.md",
     "templates/bwl.md",
     "test.md",
-    "templates/test.md",
     "2.Klasse/Netzwerktiger/Aufgaben/wireskark_nc/images/tcp-header.jpeg",
     "randoom ahh",
     "3.Klasse/syt/goofy ass syt aufhabe.md~",

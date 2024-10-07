@@ -249,6 +249,7 @@ title
 tension
 tGqPZOBx
 things
+talent
 Klasse
 Konfigurationen
 Kugel
@@ -796,6 +797,12 @@ series
 saf
 setzen
 section
+sientific
+superficially
+surface
+school
+share
+skills
 elektro
 erklärt
 ein
@@ -1077,6 +1084,7 @@ evZKiBZV
 eJOEeeB
 entschlüsseln
 exclude
+estimate
 GPIO
 Gleichungne
 Gleichung
@@ -1559,6 +1567,11 @@ geringere
 genau
 gehört
 gleiche
+guess
+grades
+gain
+give
+gather
 purpose
 paare
 paaren
@@ -1760,6 +1773,8 @@ pKJHp
 potentielle
 phase
 pipe
+pass
+path
 input
 int
 immutable
@@ -2000,6 +2015,10 @@ iysodRRW
 inbeide
 innen
 include
+idea
+interview
+idioum
+improve
 output
 oida
 oder
@@ -2211,6 +2230,8 @@ ogd
 olt
 oJiX
 oFEJcAf
+oberflächlich
+opposite
 float
 fReIwIlLiG
 für
@@ -3203,6 +3224,9 @@ mPG
 myT
 mKpBG
 mehreren
+merit
+make
+metapher
 Werte
 Wellen
 Wollen
@@ -3898,6 +3922,8 @@ defeault
 deleted
 del
 dat
+decision
+develop
 Dynamisch
 Dotierung
 Dioden
@@ -4575,6 +4601,7 @@ woD
 wvM
 work
 width
+word
 Lehrer
 Ladig
 Links
@@ -5862,6 +5889,7 @@ beschreiben
 betrachtet
 besucht
 begin
+begabung
 Idi
 Ionenbindungen
 Ionisierungsenergie
@@ -6532,6 +6560,7 @@ nWZ
 nVj
 nZPSlv
 neCfEhg
+nouns
 FFB
 Feldeffekttransistor
 Feldeffekt
@@ -6997,6 +7026,7 @@ EKA
 Entitäten
 Einfachbeziehung
 Encryption
+Erfolg
 Halbleiter
 Hauptsächlich
 Hantelförmig
@@ -7882,6 +7912,9 @@ aufhalten
 asf
 amCE
 ausgetauscht
+ausgezeichneter
+antonyms
+aptitude
 Ausbeute
 Atomaufbau
 Arbeiten
@@ -9116,6 +9149,7 @@ lhp
 laaNulX
 labels
 labelColors
+learn
 conf
 chroloid
 chlor
@@ -9326,6 +9360,12 @@ ciI
 cYY
 clm
 command
+conduct
+collocation
+conntected
+counpound
+career
+collect
 zusammen
 zw
 zu
@@ -9719,6 +9759,7 @@ rhZ
 rFsISbNG
 rbWZ
 renamed
+research
 Um
 Unterschied
 Ube
@@ -10602,6 +10643,7 @@ jnZ
 jWzibRS
 jnqpxkvQ
 jrr
+just
 yappen
 yappt
 yvT

@@ -29,3 +29,5 @@ tags:
 - to use/show/gain experience
 - to collect/give/gather/share information
 - gain/learn/develop/improve skills
+- to assess
+	- bewerten
