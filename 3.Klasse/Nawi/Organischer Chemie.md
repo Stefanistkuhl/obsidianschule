@@ -26,3 +26,7 @@ Diese sind energetisch gleich und teraedisch ausgerichtet.
 ![[Organischer Chemie 07-10-2024-50.excalidraw]]
 eine weiter Möglichkeit besteht darun, nur zwei der drei 2p-Orbitale zu nutzen:
 ![[Organischer Chemie 07-10-2024-03.excalidraw]]
+Neben einer σ-Bindung sind nun auch π-Bindungen möglich
+
+Einfachbindung: Eine σ-Bindung 
+Doppelbindung: Eine σ-Bindung mit einer π-Bindung
