@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/englisch/3kl eng.md",
+                "file": "3.Klasse/englisch/passive hü.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/englisch/3kl eng.md",
+                "file": "3.Klasse/englisch/passive hü.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/englisch/3kl eng.md"
+                "file": "3.Klasse/englisch/passive hü.md"
               }
             }
           },
@@ -199,8 +199,15 @@
   },
   "active": "717dc95a8031e21a",
   "lastOpenFiles": [
+    "bilder/active passive 07-10-2024-04.excalidraw.md",
+    "3.Klasse/englisch/passive hü.md",
+    "bilder/passive hü 07-10-2024-48.excalidraw.md",
+    "bilder/Pasted Image 20241007094356_241.png",
+    "3.Klasse/englisch/active passive.md",
     "3.Klasse/englisch/adverbs.md",
     "3.Klasse/englisch/vocab.md",
+    "bilder/Pasted image 20241007094026.png",
+    "bilder/Pasted image 20241007093259.png",
     "3.Klasse/englisch/3kl eng.md",
     "3.Klasse/syt/elektrische schutzmaßnahmen.md",
     "3.Klasse/nwt/Trunks.md",
@@ -220,11 +227,6 @@
     "bilder/Entity Relationship-Model 02-10-2024-14.excalidraw.md",
     "bilder/Entity Relationship-Model 02-10-2024-09.excalidraw.md",
     "bilder/Entity Relationship-Model 02-10-2024-58.excalidraw.md",
-    "3.Klasse/insy/3kl insy.md",
-    "3.Klasse/insy/Relationale Datenbank Systeme.md",
-    "3.Klasse/mathe/Ableitungsregeln.md",
-    "3.Klasse/mathe/Ableitung bsp.md",
-    "templates/bwl.md",
     "2.Klasse/Netzwerktiger/Aufgaben/wireskark_nc/images/tcp-header.jpeg",
     "randoom ahh",
     "3.Klasse/syt/goofy ass syt aufhabe.md~",
@@ -239,12 +241,9 @@
     "bilder/Pasted image 20240918185809.png",
     "bilder/Pasted image 20240918185504.png",
     "bilder/Pasted image 20240918185521.png",
-    "bilder/Pasted image 20240918185516.png",
     "3.Klasse/deutsch",
     "2.Klasse/Mathe/Hü 7 Stefan Fürst 2BHIT.pdf",
     "3.Klasse/insy",
-    "bilder/Pasted image 20240912142854.png",
-    "bilder/Pasted image 20240912143026.png",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
     "Zeichnungen/Untitled.canvas"
   ]

@@ -250,6 +250,8 @@ tension
 tGqPZOBx
 things
 talent
+tomorrow
+tense
 Klasse
 Konfigurationen
 Kugel
@@ -463,6 +465,7 @@ Kunde
 Klasssen
 Konflikte
 Kanal
+KuAReOX
 syt
 shittalken
 sEiD
@@ -803,6 +806,8 @@ surface
 school
 share
 skills
+sold
+served
 elektro
 erklärt
 ein
@@ -1775,6 +1780,10 @@ phase
 pipe
 pass
 path
+paid
+painted
+pipes
+poMHbkQQ
 input
 int
 immutable
@@ -2019,6 +2028,7 @@ idea
 interview
 idioum
 improve
+ing
 output
 oida
 oder
@@ -2442,6 +2452,8 @@ falscher
 folgendes
 fast
 fill
+fence
+forms
 Str
 Statisch
 Stifdrops
@@ -2970,6 +2982,7 @@ TYYghC
 TYiiZHU
 Typ
 Typs
+They
 mehere
 mit
 mutable
@@ -3924,6 +3937,7 @@ del
 dat
 decision
 develop
+delivered
 Dynamisch
 Dotierung
 Dioden
@@ -4167,6 +4181,8 @@ Daw
 DUrch
 DES
 Defeault
+DFhy
+Dont
 Bsp
 Boschis
 Bipolartransistor
@@ -4398,6 +4414,8 @@ Butan
 Beziehung
 Beziehungstypen
 Blowfish
+Billy
+Bob
 wichtig
 was
 wie
@@ -4602,6 +4620,7 @@ wvM
 work
 width
 word
+wOxXQz
 Lehrer
 Ladig
 Links
@@ -4791,6 +4810,7 @@ LVv
 LgR
 LoUr
 Leherperson
+Lunch
 unsere
 uns
 und
@@ -5454,6 +5474,8 @@ hbO
 hTDx
 hrwdi
 hate
+house
+had
 Osko
 Orbitale
 Orbitalen
@@ -5890,6 +5912,10 @@ betrachtet
 besucht
 begin
 begabung
+books
+bill
+bewerten
+built
 Idi
 Ionenbindungen
 Ionisierungsenergie
@@ -6778,6 +6804,8 @@ Forming
 FhivZoAb
 Fangen
 Filtern
+Files
+For
 EBA
 Elektronenpaarbindung
 Elektronen
@@ -7027,6 +7055,7 @@ Entitäten
 Einfachbeziehung
 Encryption
 Erfolg
+Embedded
 Halbleiter
 Hauptsächlich
 Hantelförmig
@@ -7220,6 +7249,7 @@ Halbstruktorformel
 HSW
 HvGe
 HLDKHrcN
+Has
 Chemisches
 Chemische
 Chlor
@@ -7915,6 +7945,9 @@ ausgetauscht
 ausgezeichneter
 antonyms
 aptitude
+awnsered
+arrested
+assess
 Ausbeute
 Atomaufbau
 Arbeiten
@@ -8402,6 +8435,8 @@ PjsP
 Projekt
 Performing
 Perfomant
+PVkkdlXD
+PlwFygDK
 Zusammenfassung
 Zustand
 Zener
@@ -8913,6 +8948,7 @@ keg
 kYo
 kUf
 kauft
+kLVB
 überlappen
 überfluten
 über
@@ -9366,6 +9402,8 @@ conntected
 counpound
 career
 collect
+change
+church
 zusammen
 zw
 zu
@@ -9760,6 +9798,9 @@ rFsISbNG
 rbWZ
 renamed
 research
+road
+repared
+reparing
 Um
 Unterschied
 Ube
@@ -10135,6 +10176,8 @@ Verhalten
 Vorhabens
 Vorteile
 VLAn
+VNfYIEkA
+Verb
 Überblick
 Übergang
 Übungsdaten
@@ -10492,6 +10535,7 @@ xBki
 xsV
 xbK
 xIsGTD
+xyTgCnWg
 je
 ja
 jeweils
@@ -10644,6 +10688,7 @@ jWzibRS
 jnqpxkvQ
 jrr
 just
+jWzLet
 yappen
 yappt
 yvT
@@ -10844,6 +10889,9 @@ yEIr
 yuz
 ySmu
 yvM
+your
+yesterday
+yGrei
 quadrat
 quasi
 qu
@@ -11002,6 +11050,7 @@ qwp
 qis
 qGrR
 qxUC
+question
 YUR
 Yq
 Yi
