@@ -12,7 +12,7 @@
 	keywordstyle=\color{pink}
 }
 \lstset{emph={
-	nc,tcp,udp,http,openssl,},emphstyle=\color{purple}
+	nc,tcp,udp,http,openssl,sha256sum,},emphstyle=\color{purple}
 }
 \usepackage{fancyhdr}
 \usepackage{geometry}
@@ -86,39 +86,41 @@ Abgabedatum:	7.6.2024
 
 \subsection{Symmetrisch Verschlüsseln Übung 1}
 \begin{lstlisting}
-# verschlüsseln
+#verschlüsseln
 openssl aes256 -in Raichle.txt -out Raichle.encrypted
-# entschlüsseln
+#entschlüsseln
 openssl aes256 -d -in Raichle.encrypted -out Raichle.txt
 \end{lstlisting}
 
 \subsection{Asymmetrisch Verschlüsseln Übung 1}
-Private key
 \begin{lstlisting}
+#public key
 openssl genpkey -algorithm RSA -pkeyopt rsa_keygen_bits:4096 -out private-key.pem
+#private key
 openssl pkey -in private-key.pem -out public-key.pem -pubout
-\end{lstlisting}
-Pub key
-
-datei verschlüsseln
+#datei verschlüsseln
 openssl rsautl -encrypt -inkey zivk.pem -pubin -in Raichle-Fuerst-RSA.txt -out Raichle-Fuerst-RSA.txt.zivk.enc
+\end{lstlisting}
+
 \subsection{Integrität prüfen}
-command:
-\texttt{sha256sum <dateiname>}
-Hash erste datei
+\begin{lstlisting}
+#benötigter command
+sha256sum <dateiname>
+#Hash erste Datei
 e605bd1f525b133340d704f0e899d977f37dea63c14b243a346f1b524499bcf5
-4te aus der liste
-2.
+#4te aus der liste
+#Hash zweite Datei
 591ad652f7332fdca28e4ecc520ad7b71852cdaa7ab3efbaeeb6042a815c812d
-1te aus der liste
-3.
+#1te aus der liste
+#Hash dritte Datei
 e05c11789a98a495d7283a499b1ccc31c368d3c191a4fb5b7074161c816da2e3
 2te aus der liste
-4.
+#Hash vierte Datei
 a20fb601802f7b87b2063964e0d2f7e15b2448bc6ee64dd7a9099991723a2666
 5te aus der liste
 
 der 3te hat keinen hash
+\end{lstlisting}
 
 
 
