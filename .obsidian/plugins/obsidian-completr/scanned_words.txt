@@ -468,6 +468,7 @@ Klasssen
 Konflikte
 Kanal
 KuAReOX
+Kau
 syt
 shittalken
 sEiD
@@ -1095,6 +1096,7 @@ estimate
 eingehen
 energetisch
 eQc
+eBq
 GPIO
 Gleichungne
 Gleichung
@@ -2827,6 +2829,7 @@ Sicher
 Schlüsselmanagment
 SxclmXG
 SWvQ
+SNjUgtbw
 Tuple
 Teststoff
 Teilchen
@@ -5691,6 +5694,7 @@ Oqc
 OvxJVFdp
 OAMuVkJq
 Octan
+Opt
 beeing
 background
 berechnen
@@ -6413,6 +6417,8 @@ Macht
 Managment
 Methan
 Möglichkeit
+Mehrfachbeziehung
+Mherere
 nawi
 nix
 nicht
@@ -7087,6 +7093,7 @@ Encryption
 Erfolg
 Embedded
 EYyW
+Einer
 Halbleiter
 Hauptsächlich
 Hantelförmig
@@ -10219,6 +10226,7 @@ Vorteile
 VLAn
 VNfYIEkA
 Verb
+VfoaVXv
 Überblick
 Übergang
 Übungsdaten
@@ -11434,6 +11442,7 @@ XtY
 XvTg
 Xhk
 XwoY
+XVxbyWi
 Ändern
 Äx
 Ähnlich

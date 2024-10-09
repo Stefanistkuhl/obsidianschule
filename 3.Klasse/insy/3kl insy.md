@@ -8,3 +8,5 @@ tags:
 [[Relationale Datenbank Systeme]]
 [[Datenbank-Entwurf]]
 [[Entity Relationship-Model]]
+[[Insy-Begriffe]]
+[[Crow's Foot Notation]]
