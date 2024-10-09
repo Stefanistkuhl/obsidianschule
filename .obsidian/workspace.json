@@ -11,8 +11,12 @@
             "id": "9d9c05e7f25a134d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "thing/hitless video.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "43b2197681096587",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "thing/hitless video.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "thing/hitless video.md"
+              }
             }
           },
           {
@@ -160,13 +168,15 @@
       "markdown-importer:Open format converter": true,
       "templates:Insert template": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "9d9c05e7f25a134d",
   "lastOpenFiles": [
+    "randoom ahh/😟Games die ich Spielen muss.md",
+    "thing/hitless video.md",
+    "thing",
+    "randoom ahh/Elden Ring No hit run requests.md",
     "3.Klasse/itsi/Welche Arten von Daten gibt es.md",
     "bilder/Crow's Foot Notation 09-10-2024-11_0.excalidraw.md",
     "3.Klasse/insy/Crow's Foot Notation.md",
@@ -190,9 +200,6 @@
     "3.Klasse/ggp/Seite 54 kompetenz training thingy.md",
     "3.Klasse/ggp/Volkswirtschaften.md",
     "3.Klasse/englisch/adverbs.md",
-    "3.Klasse/englisch/passive hü.md",
-    "3.Klasse/englisch/vocab.md",
-    "bilder/active passive 07-10-2024-04.excalidraw.md",
     "bilder/Pasted Image 20241007094356_241.png",
     "bilder/Pasted image 20241007094026.png",
     "bilder/Pasted image 20241007093259.png",
@@ -212,7 +219,6 @@
     "bilder/Pasted image 20240918185521.png",
     "3.Klasse/deutsch",
     "2.Klasse/Mathe/Hü 7 Stefan Fürst 2BHIT.pdf",
-    "3.Klasse/insy",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
     "Zeichnungen/Untitled.canvas"
   ]
