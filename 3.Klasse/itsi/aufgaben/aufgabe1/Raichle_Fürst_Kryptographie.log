@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2024.5.4)  9 OCT 2024 19:19
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2024.5.4)  9 OCT 2024 19:39
  restricted system commands enabled.
  file:line:error style messages enabled.
 **Raichle_Fürst_Kryptographie.tex
@@ -342,61 +342,23 @@ File: images/logo.png Graphic file (type png)
 Package luatex.def Info: images/logo.png  used on input line 83.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
  [3]
-./Raichle_Fürst_Kryptographie.tex:95: Missing $ inserted.
-<inserted text> 
-$
-l.95 ...t rsa_keygen_bits:4096 -out private-key.pem}
-                                                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./Raichle_Fürst_Kryptographie.tex:95: Extra }, or forgotten $.
-<recently read> \egroup 
-        
-l.95 ...t rsa_keygen_bits:4096 -out private-key.pem}
-                                                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./Raichle_Fürst_Kryptographie.tex:98: Missing $ inserted.
-<inserted text> 
-$
-l.98 
-   
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-Overfull \hbox (121.73361pt too wide) in paragraph at lines 93--98
-\TU/lmtt/m/n/10 RSA -pkeyopt rsa$[][]\OML/cmm/m/it/10 eygen[]its \OT1/cmr/m/n/10 : 4096 \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 outprivate \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 key:pemPubkey[]$ 
+Overfull \hbox (2.3081pt too wide) in paragraph at lines 98--99
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (19.55316pt too wide) in paragraph at lines 99--101
-[]\TU/lmtt/m/n/10 datei verschlüsseln openssl rsautl -encrypt -inkey zivk.pem -pubin -in Raichle-Fuerst-RSA.txt
+Overfull \hbox (61.71815pt too wide) in paragraph at lines 106--120
+\TU/lmr/m/n/10 com-mand: \TU/lmtt/m/n/10 sha256sum <dateiname> \TU/lmr/m/n/10 Hash er-ste datei e605bd1f525b133340d704f0e899d977f37dea63c14b243a346f1b524499bcf5
  []
 
 
-Overfull \hbox (104.30316pt too wide) in paragraph at lines 102--116
-\TU/lmtt/m/n/10 command: sha256sum <dateiname> Hash erste datei e605bd1f525b133340d704f0e899d977f37dea63c14b243a346f1b524499bcf5
- []
-
-
-Overfull \hbox (4.55316pt too wide) in paragraph at lines 102--116
-\TU/lmtt/m/n/10 4te aus der liste 2. 591ad652f7332fdca28e4ecc520ad7b71852cdaa7ab3efbaeeb6042a815c812d 1te aus
- []
-
-
-Overfull \hbox (15.05316pt too wide) in paragraph at lines 102--116
-\TU/lmtt/m/n/10 der liste 3. e05c11789a98a495d7283a499b1ccc31c368d3c191a4fb5b7074161c816da2e3 2te aus der liste
+Overfull \hbox (231.35316pt too wide) in paragraph at lines 106--120
+\TU/lmr/m/n/10 e05c11789a98a495d7283a499b1ccc31c368d3c191a4fb5b7074161c816da2e3 2te aus der liste 4. a20fb601802f7b87b2063964e0d2f7e15b2448bc6ee64dd7a9099991723a2666
  []
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 121.
+Package luatex.def Info: images/logo.png  used on input line 125.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [4] (./Raichle_Fürst_Kryptographie.bbl
 
@@ -405,7 +367,7 @@ LaTeX Warning: Empty `thebibliography' environment on input line 3.
 )
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 124.
+Package luatex.def Info: images/logo.png  used on input line 128.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
  [5] (./Raichle_Fürst_Kryptographie.lof)
 \tf@lof=\write4
@@ -413,28 +375,24 @@ Package luatex.def Info: images/logo.png  used on input line 124.
 \openout4 = Raichle_Fürst_Kryptographie.lof
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 129.
+Package luatex.def Info: images/logo.png  used on input line 133.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
  [6] (./Raichle_Fürst_Kryptographie.aux))
-(\end occurred inside a group at level 1)
-
-### simple group (level 1) entered at line 95 ({)
-### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 6627 strings out of 478382
+ 6781 strings out of 478382
  100000,1977958 words of node,token memory allocated
- 436 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 54 glue_spec, 4 attribute_list, 1 write nodes
-   avail lists: 2:244,3:110,4:20,5:108,6:44,7:2606,8:41,9:210,10:2,11:106
- 26498 multiletter control sequences out of 65536+600000
+ 421 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 51 glue_spec, 4 attribute_list, 1 write nodes
+   avail lists: 2:572,3:120,4:28,5:165,6:50,7:3212,8:1,9:526,10:2,11:98
+ 26652 multiletter control sequences out of 65536+600000
  33 fonts using 2393023 bytes
- 72i,16n,73p,258b,448s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman12-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Raichle_Fürst_Kryptographie.pdf (6 pages, 232539 bytes).
+ 72i,16n,73p,258b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman12-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-regular.otf>
+Output written on Raichle_Fürst_Kryptographie.pdf (6 pages, 197034 bytes).
 
-PDF statistics: 70 PDF objects out of 1000 (max. 8388607)
- 42 compressed objects within 1 object stream
+PDF statistics: 54 PDF objects out of 1000 (max. 8388607)
+ 30 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

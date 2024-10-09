@@ -12,7 +12,7 @@
 	keywordstyle=\color{pink}
 }
 \lstset{emph={
-	nc,tcp,udp,http,},emphstyle=\color{purple}
+	nc,tcp,udp,http,openssl,},emphstyle=\color{purple}
 }
 \usepackage{fancyhdr}
 \usepackage{geometry}
@@ -41,11 +41,11 @@
 \begin{document}
 \bibliographystyle{plain}
 \pagestyle{oida}
-\section*{Thema}
+\section*{Kryptographie}
 \par\noindent\rule{\textwidth}{0.4pt}
 
 Laborprotokoll
-Template
+Übung 3
 
 \begin{figure}[h]
 	\includegraphics[scale=0.3]{images/mika.jpeg}
@@ -86,21 +86,25 @@ Abgabedatum:	7.6.2024
 
 \subsection{Symmetrisch Verschlüsseln Übung 1}
 zum verschlüsseln:
-\texttt{openssl aes256 -in Raichle.txt -out Raichle.encrypted}
+\begin{lstlisting}
+openssl aes256 -in Raichle.txt -out Raichle.encrypted
+\end{lstlisting}
 zum entschlüsseln
 
 \subsection{Asymmetrisch Verschlüsseln Übung 1}
 \texttt{openssl aes256 -d -in Raichle.encrypted -out Raichle.txt}
 Private key
-\texttt{openssl genpkey -algorithm RSA -pkeyopt rsa_keygen_bits:4096 -out private-key.pem}
+\begin{lstlisting}
+openssl genpkey -algorithm RSA -pkeyopt rsa_keygen_bits:4096 -out private-key.pem
+openssl pkey -in private-key.pem -out public-key.pem -pubout
+\end{lstlisting}
 Pub key
-\texttt{openssl pkey -in private-key.pem -out public-key.pem -pubout}
 
 datei verschlüsseln
 openssl rsautl -encrypt -inkey zivk.pem -pubin -in Raichle-Fuerst-RSA.txt -out Raichle-Fuerst-RSA.txt.zivk.enc
 \subsection{Integrität prüfen}
 command:
-sha256sum <dateiname>
+\texttt{sha256sum <dateiname>}
 Hash erste datei
 e605bd1f525b133340d704f0e899d977f37dea63c14b243a346f1b524499bcf5
 4te aus der liste
