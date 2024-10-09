@@ -85,14 +85,14 @@ Abgabedatum:	7.6.2024
 \section{Übungsdurchführung}
 
 \subsection{Symmetrisch Verschlüsseln Übung 1}
-zum verschlüsseln:
 \begin{lstlisting}
+# verschlüsseln
 openssl aes256 -in Raichle.txt -out Raichle.encrypted
+# entschlüsseln
+openssl aes256 -d -in Raichle.encrypted -out Raichle.txt
 \end{lstlisting}
-zum entschlüsseln
 
 \subsection{Asymmetrisch Verschlüsseln Übung 1}
-\texttt{openssl aes256 -d -in Raichle.encrypted -out Raichle.txt}
 Private key
 \begin{lstlisting}
 openssl genpkey -algorithm RSA -pkeyopt rsa_keygen_bits:4096 -out private-key.pem
