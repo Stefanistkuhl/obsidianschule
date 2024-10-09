@@ -1300,6 +1300,7 @@ Gcho
 GpqltJm
 GRSMZK
 Grundzustand
+GarM
 general
 gesetzte
 gedreht
@@ -1588,6 +1589,7 @@ gather
 güter
 gelöst
 gfMz
+gDk
 purpose
 paare
 paaren
@@ -2041,6 +2043,7 @@ interview
 idioum
 improve
 ing
+iYMwpsg
 output
 oida
 oder
@@ -2831,6 +2834,7 @@ Schlüsselmanagment
 SxclmXG
 SWvQ
 SNjUgtbw
+SozV
 Tuple
 Teststoff
 Teilchen
@@ -3264,6 +3268,7 @@ make
 metapher
 materielle
 mzQklIT
+mRG
 Werte
 Wellen
 Wollen
@@ -3714,6 +3719,8 @@ vGqKbZHi
 vlan
 vlans
 vier
+vHLoL
+vbpBBAj
 datetypen
 deppat
 dem
@@ -4844,6 +4851,7 @@ LgR
 LoUr
 Leherperson
 Lunch
+LmV
 unsere
 uns
 und
@@ -5702,6 +5710,7 @@ OvxJVFdp
 OAMuVkJq
 Octan
 Opt
+Optionalität
 beeing
 background
 berechnen
@@ -6851,6 +6860,8 @@ Fangen
 Filtern
 Files
 For
+FZV
+Führerschein
 EBA
 Elektronenpaarbindung
 Elektronen
@@ -7302,6 +7313,7 @@ Has
 Hypridorbitalen
 Hexan
 Heptan
+HEnW
 Chemisches
 Chemische
 Chlor
@@ -7499,6 +7511,7 @@ CxJ
 CQJjVWKB
 CRk
 Cannont
+CmoIC
 Rechnen
 Richtungen
 Rafis
@@ -8002,6 +8015,7 @@ arrested
 assess
 ausgerichtet
 aiWvJXiH
+auHjR
 Ausbeute
 Atomaufbau
 Arbeiten
@@ -8662,6 +8676,7 @@ ZJj
 Zdvz
 ZzYQkD
 Zussammenarbeit
+ZSQ
 Quantenobjekt
 Quadratische
 Quadrtische
@@ -8794,6 +8809,7 @@ QSI
 QONI
 QQYM
 Quanten
+QYIOYQ
 kann
 kein
 können
@@ -9246,6 +9262,7 @@ labels
 labelColors
 learn
 leeres
+lIJA
 conf
 chroloid
 chlor
@@ -10602,6 +10619,7 @@ xsV
 xbK
 xIsGTD
 xyTgCnWg
+xCFAaQdH
 je
 ja
 jeweils
