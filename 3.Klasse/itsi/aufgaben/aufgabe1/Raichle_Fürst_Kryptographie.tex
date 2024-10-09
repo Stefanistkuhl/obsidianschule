@@ -8,7 +8,7 @@
 % \setmainfont{Calibri}
 \lstset{basicstyle=\ttfamily,
 	showstringspaces=false,
-	commentstyle=\color{blue},
+	commentstyle=\color{gray},
 	keywordstyle=\color{pink}
 }
 \lstset{emph={
@@ -93,7 +93,7 @@ openssl aes256 -d -in Raichle.encrypted -out Raichle.txt
 \end{lstlisting}
 
 \subsection{Asymmetrisch Verschlüsseln Übung 1}
-\begin{lstlisting}
+\begin{lstlisting}[language=bash]
 #public key
 openssl genpkey -algorithm RSA -pkeyopt rsa_keygen_bits:4096 -out private-key.pem
 #private key
@@ -103,7 +103,7 @@ openssl rsautl -encrypt -inkey zivk.pem -pubin -in Raichle-Fuerst-RSA.txt -out R
 \end{lstlisting}
 
 \subsection{Integrität prüfen}
-\begin{lstlisting}
+\begin{lstlisting}[language=bash]
 #benötigter command
 sha256sum <dateiname>
 #Hash erste Datei
@@ -117,11 +117,11 @@ e05c11789a98a495d7283a499b1ccc31c368d3c191a4fb5b7074161c816da2e3
 2te aus der liste
 #Hash vierte Datei
 a20fb601802f7b87b2063964e0d2f7e15b2448bc6ee64dd7a9099991723a2666
-5te aus der liste
+#5te aus der liste
 
-der 3te hat keinen hash
 \end{lstlisting}
 
+der 3te hat keinen hash
 
 
 \newpage

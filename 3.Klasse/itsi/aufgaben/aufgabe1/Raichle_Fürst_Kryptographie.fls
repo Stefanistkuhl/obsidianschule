@@ -181,6 +181,10 @@ INPUT ./images/logo.png
 INPUT ./images/logo.png
 INPUT ./images/logo.png
 INPUT /home/stefiii/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT ./images/logo.png
 INPUT ./images/logo.png
 INPUT ./Raichle_Fürst_Kryptographie.bbl
