@@ -2256,6 +2256,7 @@ oberflächlich
 opposite
 oFfJP
 oKF
+opt
 float
 fReIwIlLiG
 für
@@ -3964,6 +3965,7 @@ develop
 delivered
 drei
 darun
+dLjRsBCd
 Dynamisch
 Dotierung
 Dioden
@@ -4444,6 +4446,9 @@ Blowfish
 Billy
 Bob
 BdC
+BSHyPqIV
+Bezeichnung
+Bez
 wichtig
 was
 wie
@@ -5299,6 +5304,7 @@ Norming
 Nachteile
 Native
 Noman
+Nachname
 hIeR
 höchsten
 hintere
@@ -5505,6 +5511,7 @@ hrwdi
 hate
 house
 had
+hfq
 Osko
 Orbitale
 Orbitalen
@@ -6623,6 +6630,8 @@ nVj
 nZPSlv
 neCfEhg
 nouns
+null
+nhxz
 FFB
 Feldeffekttransistor
 Feldeffekt
@@ -7094,6 +7103,8 @@ Erfolg
 Embedded
 EYyW
 Einer
+Einder
+EYpqm
 Halbleiter
 Hauptsächlich
 Hantelförmig
@@ -8483,6 +8494,7 @@ PlwFygDK
 Produktregel
 PfvH
 Pentan
+Primärschlüssel
 Zusammenfassung
 Zustand
 Zener
@@ -9649,6 +9661,7 @@ zMf
 znZzqGlr
 zwka
 zueinander
+zqEmqO
 äußersten
 ändern
 äußeren
@@ -10227,6 +10240,7 @@ VLAn
 VNfYIEkA
 Verb
 VfoaVXv
+Vorname
 Überblick
 Übergang
 Übungsdaten
@@ -10409,6 +10423,7 @@ JSj
 JxA
 JOrQslPQ
 JtERV
+JBa
 xd
 xss
 xe

@@ -20,22 +20,12 @@
             }
           },
           {
-            "id": "71cbe40692449102",
+            "id": "1f64c41be0695281",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "bilder/Crow's Foot Notation 09-10-2024-27.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "4073e990ac6ea47a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/Crow's Foot Notation 09-10-2024-11.excalidraw.md"
+                "file": "bilder/Crow's Foot Notation 09-10-2024-11_0.excalidraw.md"
               }
             }
           }
@@ -107,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bilder/Crow's Foot Notation 09-10-2024-27.excalidraw.md",
+                "file": "bilder/Crow's Foot Notation 09-10-2024-11_0.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +142,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "bilder/Crow's Foot Notation 09-10-2024-27.excalidraw.md"
+                "file": "bilder/Crow's Foot Notation 09-10-2024-11_0.excalidraw.md"
               }
             }
           },
@@ -194,9 +184,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "71cbe40692449102",
+  "active": "1f64c41be0695281",
   "lastOpenFiles": [
     "3.Klasse/insy/Crow's Foot Notation.md",
+    "bilder/Crow's Foot Notation 09-10-2024-11_0.excalidraw.md",
     "bilder/Crow's Foot Notation 09-10-2024-27.excalidraw.md",
     "bilder/Crow's Foot Notation 09-10-2024-11.excalidraw.md",
     "3.Klasse/insy/3kl insy.md",
@@ -222,7 +213,6 @@
     "bilder/active passive 07-10-2024-04.excalidraw.md",
     "bilder/passive hü 07-10-2024-48.excalidraw.md",
     "bilder/Pasted Image 20241007094356_241.png",
-    "3.Klasse/englisch/active passive.md",
     "bilder/Pasted image 20241007094026.png",
     "bilder/Pasted image 20241007093259.png",
     "2.Klasse/Netzwerktiger/Aufgaben/wireskark_nc/images/tcp-header.jpeg",
