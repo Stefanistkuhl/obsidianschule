@@ -84,15 +84,15 @@ Abgabedatum:	7.6.2024
 
 \section{Übungsdurchführung}
 
-\subsection{Symmetrisch Verschlüsseln Übung 1}
-\begin{lstlisting}
+\subsection{Symmetrisch Verschlüsseln}
+\begin{lstlisting}[language=bash]
 #verschlüsseln
 openssl aes256 -in Raichle.txt -out Raichle.encrypted
 #entschlüsseln
 openssl aes256 -d -in Raichle.encrypted -out Raichle.txt
 \end{lstlisting}
 
-\subsection{Asymmetrisch Verschlüsseln Übung 1}
+\subsection{Asymmetrisch Verschlüsseln}
 \begin{lstlisting}[language=bash]
 #public key
 openssl genpkey -algorithm RSA -pkeyopt rsa_keygen_bits:4096 -out private-key.pem
@@ -113,7 +113,7 @@ sha256sum <dateiname>
 	\caption{Hashes}
 \end{figure}
 
-der 3te hat keinen hash
+% der 3te hat keinen hash
 
 
 \newpage
