@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "456b0109114d69a0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/Asymetrische Verschlüsselung 10-10-2024-58.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bilder/Asymetrische Verschlüsselung 10-10-2024-58.excalidraw.md",
+                "file": "3.Klasse/itsi/Asymetrische Verschlüsselung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "bilder/Asymetrische Verschlüsselung 10-10-2024-58.excalidraw.md"
+                "file": "3.Klasse/itsi/Asymetrische Verschlüsselung.md"
               }
             }
           },
@@ -184,15 +173,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "456b0109114d69a0",
+  "active": "9733f8cf9faaecc8",
   "lastOpenFiles": [
+    "3.Klasse/itsi/aufgaben/aufgabe1/Raichle_Fürst_Kryptographie.tex~",
+    "3.Klasse/itsi/Besispiele für Asymetrische verschlüsseleung.md",
     "3.Klasse/itsi/Asymetrische Verschlüsselung.md",
     "bilder/Asymetrische Verschlüsselung 10-10-2024-58.excalidraw.md",
     "bilder/Asymetrische Verschlüsselung 10-10-2024-19.excalidraw.md",
     "3.Klasse/itsi/Kryptografie.md",
     "3.Klasse/itsi/3kl itsi.md",
     "thing/hitless video.md",
-    "3.Klasse/itsi/aufgaben/aufgabe1/Raichle_Fürst_Kryptographie.tex~",
     "3.Klasse/itsi/aufgaben/aufgabe1/4913",
     "3.Klasse/itsi/aufgaben/aufgabe1/Raichle_Fürst_Kryptographie.synctex(busy)",
     "3.Klasse/itsi/aufgaben/aufgabe1/lualatex13331.fls",
@@ -223,8 +213,6 @@
     "bilder/Organischer Chemie 07-10-2024-50.excalidraw.md",
     "bilder/Organischer Chemie 07-10-2024-03.excalidraw.md",
     "3.Klasse/Nawi/3kl nawi.md",
-    "3.Klasse/mathe/Produktregel bsp.md",
-    "3.Klasse/mathe/quatient regel bsp.md",
     "bilder/Pasted Image 20241007094356_241.png",
     "bilder/Pasted image 20241007094026.png",
     "bilder/Pasted image 20241007093259.png",

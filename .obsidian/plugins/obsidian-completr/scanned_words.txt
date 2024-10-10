@@ -826,6 +826,8 @@ summons
 such
 stranded
 skips
+seinem
+soFqXLvL
 elektro
 erklärt
 ein
@@ -1115,6 +1117,8 @@ eBq
 epic
 enemy
 ever
+erwartet
+eLYfbCi
 GPIO
 Gleichungne
 Gleichung
@@ -1615,6 +1619,8 @@ generally
 grace
 greatrunes
 glichtes
+gerantieren
+gTMNgC
 purpose
 paare
 paaren
@@ -1828,6 +1834,10 @@ play
 player
 perfect
 parry
+pub
+privaten
+priv
+public
 input
 int
 immutable
@@ -2076,6 +2086,8 @@ ing
 iYMwpsg
 insert
 intro
+ihrem
+integrität
 output
 oida
 oder
@@ -2513,6 +2525,7 @@ features
 falling
 forbidden
 final
+festellen
 Str
 Statisch
 Stifdrops
@@ -2876,6 +2889,7 @@ SNjUgtbw
 SozV
 Surely
 Summon
+SOxOpmFi
 Tuple
 Teststoff
 Teilchen
@@ -3050,6 +3064,7 @@ Typs
 They
 TID
 Tgh
+Tbvwd
 mehere
 mit
 mutable
@@ -3311,6 +3326,7 @@ materielle
 mzQklIT
 mRG
 multiple
+meEGzAjl
 Werte
 Wellen
 Wollen
@@ -3518,6 +3534,7 @@ Wkd
 WQrm
 WDcu
 WFKWr
+WIp
 verschienen
 verteilen
 voll
@@ -4028,6 +4045,7 @@ death
 down
 dlc
 description
+daran
 Dynamisch
 Dotierung
 Dioden
@@ -4274,6 +4292,7 @@ Defeault
 DFhy
 Dont
 Decan
+DNo
 Bsp
 Boschis
 Bipolartransistor
@@ -4512,6 +4531,12 @@ BSHyPqIV
 Bezeichnung
 Bez
 Blocking
+Bobs
+Bprv
+Bpriv
+Box
+Bprib
+Bpub
 wichtig
 was
 wie
@@ -4725,6 +4750,8 @@ website
 water
 when
 want
+wWIjCU
+wirklich
 Lehrer
 Ladig
 Links
@@ -4916,6 +4943,7 @@ LoUr
 Leherperson
 Lunch
 LmV
+LlWiVT
 unsere
 uns
 und
@@ -5138,6 +5166,7 @@ uHAYjV
 undefined
 uSCM
 umgekehrt
+ujCZp
 Noten
 Neutronen
 Nichtmetalle
@@ -5378,6 +5407,7 @@ Native
 Noman
 Nachname
 NPC
+NUR
 hIeR
 höchsten
 hintere
@@ -5590,6 +5620,8 @@ here
 health
 hub
 how
+hNH
+herstellt
 Osko
 Orbitale
 Orbitalen
@@ -6040,6 +6072,9 @@ but
 bosses
 boss
 banned
+bos
+box
+bWpPwFn
 Idi
 Ionenbindungen
 Ionisierungsenergie
@@ -6265,6 +6300,10 @@ IFW
 IUP
 IoC
 Intro
+Innere
+Integrety
+ICWVtFMv
+IPvUz
 Momente
 Massezahl
 Metalle
@@ -6720,6 +6759,7 @@ null
 nhxz
 naturally
 normal
+nVVyaVy
 FFB
 Feldeffekttransistor
 Feldeffekt
@@ -7196,6 +7236,7 @@ Einer
 Einder
 EYpqm
 Environmental
+Eve
 Halbleiter
 Hauptsächlich
 Hantelförmig
@@ -7395,6 +7436,7 @@ Hexan
 Heptan
 HEnW
 Hits
+HHIyxL
 Chemisches
 Chemische
 Chlor
@@ -7593,6 +7635,9 @@ CQJjVWKB
 CRk
 Cannont
 CmoIC
+CfAjxDg
+Confidentinallyty
+CsJMpC
 Rechnen
 Richtungen
 Rafis
@@ -8102,6 +8147,7 @@ allowed
 ads
 arena
 aswell
+alice
 Ausbeute
 Atomaufbau
 Arbeiten
@@ -8361,6 +8407,10 @@ Adjorming
 Advanced
 Ashes
 Any
+Alice
+Apub
+Apriv
+AueThy
 PSE
 Protonen
 Problem
@@ -9357,6 +9407,7 @@ loss
 lava
 lists
 linked
+lBTQqkxv
 conf
 chroloid
 chlor
@@ -9983,6 +10034,7 @@ reparing
 rule
 rules
 rememberences
+rvCzMtoX
 Um
 Unterschied
 Ube
@@ -10362,6 +10414,8 @@ VNfYIEkA
 Verb
 VfoaVXv
 Vorname
+Verschlüsseln
+VXw
 Überblick
 Übergang
 Übungsdaten
@@ -10724,6 +10778,9 @@ xbK
 xIsGTD
 xyTgCnWg
 xCFAaQdH
+xjz
+xwVsA
+xcz
 je
 ja
 jeweils
@@ -11081,6 +11138,7 @@ your
 yesterday
 yGrei
 ykKl
+ybq
 quadrat
 quasi
 qu
@@ -11241,6 +11299,8 @@ qGrR
 qxUC
 question
 qXuTB
+qQJB
+qDyDQo
 YUR
 Yq
 Yi
@@ -11586,12 +11646,14 @@ XVxbyWi
 Ähnlich
 Änderungen
 Änderungsrate
+Äußere
 öndern
 ömk
 öl
 öffentlich
 öfffentliche
 öffnen
+öffentlichen
 ßd
 Öo
 Öffentlich
