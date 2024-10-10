@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c4c4c14c208cf81d",
+        "id": "5833dda36ca24644",
         "type": "tabs",
         "children": [
           {
-            "id": "9733f8cf9faaecc8",
+            "id": "76f45321b344e880",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/itsi/Asymetrische Verschlüsselung.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/itsi/Asymetrische Verschlüsselung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,9 +125,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "3.Klasse/itsi/Asymetrische Verschlüsselung.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,11 +166,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9733f8cf9faaecc8",
+  "active": "76f45321b344e880",
   "lastOpenFiles": [
+    "3.Klasse/itsi/Asymetrische Verschlüsselung.md",
+    "thing/hitless video.md~",
     "3.Klasse/itsi/aufgaben/aufgabe1/Raichle_Fürst_Kryptographie.tex~",
     "3.Klasse/itsi/Besispiele für Asymetrische verschlüsseleung.md",
-    "3.Klasse/itsi/Asymetrische Verschlüsselung.md",
     "bilder/Asymetrische Verschlüsselung 10-10-2024-58.excalidraw.md",
     "bilder/Asymetrische Verschlüsselung 10-10-2024-19.excalidraw.md",
     "3.Klasse/itsi/Kryptografie.md",
@@ -193,7 +187,6 @@
     "3.Klasse/itsi/aufgaben/aufgabe1/lualatex13097.fls",
     "3.Klasse/itsi/aufgaben/aufgabe1/lualatex11533.fls",
     "3.Klasse/itsi/aufgaben/aufgabe1/lualatex11481.fls",
-    "3.Klasse/itsi/aufgaben/aufgabe1/lualatex11425.fls",
     "3.Klasse/itsi/aufgaben/aufgabe1/images/mika.jpeg",
     "randoom ahh/😟Games die ich Spielen muss.md",
     "randoom ahh/Elden Ring No hit run requests.md",
