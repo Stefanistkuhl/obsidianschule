@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "ac97e37a48d3e4c7",
+        "id": "c4c4c14c208cf81d",
         "type": "tabs",
         "children": [
           {
-            "id": "9d9c05e7f25a134d",
+            "id": "9733f8cf9faaecc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thing/hitless video.md",
+                "file": "3.Klasse/itsi/Asymetrische Verschlüsselung.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "456b0109114d69a0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/Asymetrische Verschlüsselung 10-10-2024-58.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thing/hitless video.md",
+                "file": "bilder/Asymetrische Verschlüsselung 10-10-2024-58.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +142,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "thing/hitless video.md"
+                "file": "bilder/Asymetrische Verschlüsselung 10-10-2024-58.excalidraw.md"
               }
             }
           },
@@ -173,8 +184,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9d9c05e7f25a134d",
+  "active": "456b0109114d69a0",
   "lastOpenFiles": [
+    "3.Klasse/itsi/Asymetrische Verschlüsselung.md",
+    "bilder/Asymetrische Verschlüsselung 10-10-2024-58.excalidraw.md",
+    "bilder/Asymetrische Verschlüsselung 10-10-2024-19.excalidraw.md",
+    "3.Klasse/itsi/Kryptografie.md",
+    "3.Klasse/itsi/3kl itsi.md",
+    "thing/hitless video.md",
     "3.Klasse/itsi/aufgaben/aufgabe1/Raichle_Fürst_Kryptographie.tex~",
     "3.Klasse/itsi/aufgaben/aufgabe1/4913",
     "3.Klasse/itsi/aufgaben/aufgabe1/Raichle_Fürst_Kryptographie.synctex(busy)",
@@ -187,10 +204,8 @@
     "3.Klasse/itsi/aufgaben/aufgabe1/lualatex11533.fls",
     "3.Klasse/itsi/aufgaben/aufgabe1/lualatex11481.fls",
     "3.Klasse/itsi/aufgaben/aufgabe1/lualatex11425.fls",
-    "3.Klasse/itsi/aufgaben/aufgabe1/lualatex11408.fls",
     "3.Klasse/itsi/aufgaben/aufgabe1/images/mika.jpeg",
     "randoom ahh/😟Games die ich Spielen muss.md",
-    "thing/hitless video.md",
     "randoom ahh/Elden Ring No hit run requests.md",
     "3.Klasse/itsi/Welche Arten von Daten gibt es.md",
     "bilder/Crow's Foot Notation 09-10-2024-11_0.excalidraw.md",
@@ -210,10 +225,6 @@
     "3.Klasse/Nawi/3kl nawi.md",
     "3.Klasse/mathe/Produktregel bsp.md",
     "3.Klasse/mathe/quatient regel bsp.md",
-    "3.Klasse/mathe/Ableitungsregeln.md",
-    "3.Klasse/mathe/Ableitung bsp.md",
-    "3.Klasse/ggp/Seite 54 kompetenz training thingy.md",
-    "3.Klasse/ggp/Volkswirtschaften.md",
     "bilder/Pasted Image 20241007094356_241.png",
     "bilder/Pasted image 20241007094026.png",
     "bilder/Pasted image 20241007093259.png",
