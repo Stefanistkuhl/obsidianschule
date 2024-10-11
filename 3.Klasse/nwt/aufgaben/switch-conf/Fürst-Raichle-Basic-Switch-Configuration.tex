@@ -5,7 +5,7 @@
 \usepackage{outlines}
 \usepackage{listings}
 \usepackage{fontspec}
-\setmainfont{Calibri}
+% \setmainfont{Calibri}
 \lstset{basicstyle=\ttfamily,
 	showstringspaces=false,
 	commentstyle=\color{blue},
@@ -61,11 +61,11 @@ Name:	Stefan Fürst, Marcel Raichle
 
 Gruppenname/Nummer: Dumm und Dümmer/7
 
-Betreuer: 	ZIVK/ANGE
+Betreuer: 	ZIVK
 
 Übungsdaten:
 
-Abgabedatum:
+Abgabedatum:	
 
 
 \newpage
@@ -87,6 +87,29 @@ Abgabedatum:
 
 \section{Übungsdurchführung}
 
+\subsection{Cable the Nework and Verify the Default Switch Configuration}
+2b
+	24 fe interfaces
+		2 gbe ifs
+		vty range
+			5 15
+2c 
+	show startup-config
+	startup-config is not present
+	keine start conf wurde im NVRAM gespeichert
+2d 
+	keine ip in vlan1 per default
+	mac addr
+	0018.18bc.59c0
+	its up
+2e	
+	show ip interface vlan1
+	Internet protocal processing disabled
+\subsection{Configure Basic Network Device Settings}
+
+\subsection{Verify and Test Network Connectivity}
+
+\subsection{Manage the MAC Address Tabel}
 
 \newpage
 

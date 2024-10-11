@@ -5,7 +5,6 @@
 \usepackage{outlines}
 \usepackage{listings}
 \usepackage{fontspec}
-% \setmainfont{Calibri}
 \lstset{basicstyle=\ttfamily,
 	showstringspaces=false,
 	commentstyle=\color{gray},
@@ -63,7 +62,7 @@ Gruppenname/Nummer: Dumm und Dümmer/7
 
 Betreuer: 	ZIVK
 
-Übungsdaten:	24.5.2024, 31.5.2024,7.6.2024
+Übungsdaten:	4.10.2024, 11.10.2024
 
 Abgabedatum:	7.6.2024
 
@@ -75,7 +74,11 @@ Abgabedatum:	7.6.2024
 
 \section{Aufgabenstellung}
 
-
+Zunächst geht es um die symmetrische Verschlüsselung, bei der eine Datei mit einem berechneten Passwort verschlüsselt und anschließend wieder entschlüsselt wird. Hierbei dient dasselbe Passwort sowohl zur Verschlüsselung als auch zur Entschlüsselung, um den Prozess zu überprüfen und zu verifizieren.
+\\\\
+Im zweiten Teil wird die asymmetrische Verschlüsselung behandelt. Dabei werden ein privater und ein öffentlicher Schlüssel generiert, und die Datei wird mithilfe des öffentlichen Schlüssels verschlüsselt. Dieser Ansatz simuliert ein typisches Verschlüsselungsverfahren, bei dem der private Schlüssel zur Entschlüsselung verwendet wird.
+\\\\
+Zum Abschluss erfolgt eine Integritätsprüfung mit Hilfe von Hashwerten. Dabei werden mehrere Textdateien mit vorgegebenen Hashwerten verglichen, um sicherzustellen, dass keine Datenveränderungen stattgefunden haben. Ziel ist es zudem, einen Hashwert zu identifizieren, der keiner der Textdateien zugeordnet werden kann.
 
 \section{Zusammenfassung}
 
@@ -83,8 +86,24 @@ Abgabedatum:	7.6.2024
 \newpage
 
 \section{Übungsdurchführung}
-todo: zu jedem command erklären was er macht und die genutzen optionen
 \subsection{Symmetrisch Verschlüsseln}
+\subsubsection{ Passwort für die Symetrische verschlüsselung berechnen}
+$$\frac{Datum+Katalognummer}{2}$$
+$$\frac{20241004+24}{2}$$
+\subsubsection{Datei Symetrisch mit AES256 verschlüsseln}
+Hierfür benutzt man openssl, ein kryptographisches Toolkit.\cite{openssl-cheatsh}\\
+Um in diesem Fall die Datei mit AES256 zu verschlüsseln, man verwendet aes256 als Argument und die Flags \texttt{-in/out} geben die input/outputdatei an. Nach der Eingagbe des Commands, muss man ein Passwort eingeben.
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=1.5]{images/aes-encrypt.png}
+	\caption{AES entschlüsselung}
+\end{figure} \\ \\
+Für die Entschlüsselung wird die \texttt{-d} Flag verwendet, welche für decrypt steht, dies und das Austauschen von input und ouput werden benötigt, um die Datei zu entschlüsseln. Wenn der Command ausgeführt wurde, wird das Passwort abgefragt.
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=1.5]{images/aes-decrypt.png}
+	\caption{AES entschlüsselung}
+\end{figure}
 \begin{lstlisting}[language=bash]
 #verschlüsseln
 openssl aes256 -in Raichle.txt -out Raichle.encrypted
@@ -93,6 +112,8 @@ openssl aes256 -d -in Raichle.encrypted -out Raichle.txt
 \end{lstlisting}
 
 \subsection{Asymmetrisch Verschlüsseln}
+Für die Asymetrische Verschlüsselung, müssen erst ein Keypair generiert werden.
+%größe andern dass alles drauf is
 \begin{lstlisting}[language=bash]
 #public key
 openssl genpkey -algorithm RSA -pkeyopt rsa_keygen_bits:4096 -out private-key.pem
