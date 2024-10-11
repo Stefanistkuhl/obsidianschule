@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/nwt/Trunk Configuration Commands.md",
+                "file": "3.Klasse/syt/elektrische schutzmaßnahmen.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/nwt/Trunk Configuration Commands.md",
+                "file": "3.Klasse/syt/elektrische schutzmaßnahmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/nwt/Trunk Configuration Commands.md"
+                "file": "3.Klasse/syt/elektrische schutzmaßnahmen.md"
               }
             }
           },
@@ -175,8 +175,8 @@
   },
   "active": "76f45321b344e880",
   "lastOpenFiles": [
-    "3.Klasse/nwt/vlan commands.md",
     "3.Klasse/nwt/Trunk Configuration Commands.md",
+    "3.Klasse/nwt/vlan commands.md",
     "3.Klasse/nwt/change vlan port membership.md",
     "3.Klasse/nwt/Ah yes 20 millionen cisco sachen.md",
     "3.Klasse/nwt/vlans.md",
