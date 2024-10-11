@@ -1,0 +1,11 @@
+---
+tags:
+  - nwt
+  - 3te_Klasse
+---
+- conf t 
+- interface interface-id 
+- switchport mode trunk 
+- switchport trunk native vlan vlan-id
+- switchport trunk allowed vlan vlan-list 
+- end

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/nwt/change vlan port membership.md",
+                "file": "3.Klasse/nwt/Trunk Configuration Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/nwt/change vlan port membership.md",
+                "file": "3.Klasse/nwt/Trunk Configuration Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/nwt/change vlan port membership.md"
+                "file": "3.Klasse/nwt/Trunk Configuration Commands.md"
               }
             }
           },
@@ -176,6 +176,7 @@
   "active": "76f45321b344e880",
   "lastOpenFiles": [
     "3.Klasse/nwt/vlan commands.md",
+    "3.Klasse/nwt/Trunk Configuration Commands.md",
     "3.Klasse/nwt/change vlan port membership.md",
     "3.Klasse/nwt/Ah yes 20 millionen cisco sachen.md",
     "3.Klasse/nwt/vlans.md",
@@ -213,7 +214,6 @@
     "bilder/Crow's Foot Notation 09-10-2024-11.excalidraw.md",
     "3.Klasse/insy/3kl insy.md",
     "3.Klasse/insy/Optionalität.md",
-    "3.Klasse/insy/Insy-Begriffe.md",
     "bilder/Pasted Image 20241007094356_241.png",
     "bilder/Pasted image 20241007094026.png",
     "bilder/Pasted image 20241007093259.png",
