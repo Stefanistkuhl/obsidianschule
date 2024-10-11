@@ -836,6 +836,7 @@ should
 switch
 seperate
 support
+switchport
 elektro
 erklärt
 ein
@@ -3348,6 +3349,7 @@ mRG
 multiple
 meEGzAjl
 must
+mode
 Werte
 Wellen
 Wollen
@@ -9451,6 +9453,7 @@ lists
 linked
 lBTQqkxv
 lesss
+list
 conf
 chroloid
 chlor

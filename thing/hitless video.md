@@ -31,3 +31,7 @@ A hitless run is beating the game without getting hit but here are the the rules
 You can run in multiple categories such as any%, all rememberences/greatrunes/bosses. Any% is just getting the final boss how ever you want.
 There are also categories like dlc%, stranded dlc you can find them in the description aswell.
 There are more General Rules and lists of banned skips,glichtes, cheeses etc that are linked in the description.
+
+### getting inspired to do the run
+
+### talking abt the route and evolution idk
