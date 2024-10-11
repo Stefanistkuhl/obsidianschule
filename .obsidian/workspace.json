@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/nwt/Filter Show Comamnd Output.md",
+                "file": "3.Klasse/nwt/Types of Vlans.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/nwt/Filter Show Comamnd Output.md",
+                "file": "3.Klasse/nwt/Types of Vlans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/nwt/Filter Show Comamnd Output.md"
+                "file": "3.Klasse/nwt/Types of Vlans.md"
               }
             }
           },
@@ -175,8 +175,9 @@
   },
   "active": "76f45321b344e880",
   "lastOpenFiles": [
-    "3.Klasse/nwt/Types of Vlans.md",
     "3.Klasse/nwt/aufgaben/switch-conf/Fürst-Raichle-Basic-Switch-Configuration.tex~",
+    "3.Klasse/nwt/Filter Show Comamnd Output.md",
+    "3.Klasse/nwt/Types of Vlans.md",
     "3.Klasse/nwt/Ah yes 20 millionen cisco sachen.md",
     "3.Klasse/itsi/Asymetrische Verschlüsselung.md",
     "thing/hitless video.md~",
@@ -212,8 +213,6 @@
     "3.Klasse/Nawi/Nomenklatur vom KW.md",
     "bilder/Nomenklatur vom KW 07-10-2024-02.excalidraw.md",
     "3.Klasse/Nawi/Organischer Chemie.md",
-    "bilder/Organischer Chemie 07-10-2024-50.excalidraw.md",
-    "bilder/Organischer Chemie 07-10-2024-03.excalidraw.md",
     "bilder/Pasted Image 20241007094356_241.png",
     "bilder/Pasted image 20241007094026.png",
     "bilder/Pasted image 20241007093259.png",
