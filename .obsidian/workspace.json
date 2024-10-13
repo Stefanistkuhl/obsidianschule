@@ -13,13 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/syt/elektrische schutzmaßnahmen.md",
+                "file": "3.Klasse/englisch/active passive.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "0a72ae686ac08c28",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "bilder/Pasted image 20241007094026.png"
+              }
+            }
+          },
+          {
+            "id": "cd17e992031d3d67",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/passive hü 07-10-2024-48.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "22b9531266d8dcc4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/active passive 07-10-2024-04.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -86,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/syt/elektrische schutzmaßnahmen.md",
+                "file": "bilder/active passive 07-10-2024-04.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/syt/elektrische schutzmaßnahmen.md"
+                "file": "bilder/active passive 07-10-2024-04.excalidraw.md"
               }
             }
           },
@@ -173,8 +204,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "76f45321b344e880",
+  "active": "22b9531266d8dcc4",
   "lastOpenFiles": [
+    "bilder/passive hü 07-10-2024-48.excalidraw.md",
+    "bilder/Pasted image 20241007094026.png",
+    "3.Klasse/englisch/active passive.md",
+    "bilder/active passive 07-10-2024-04.excalidraw.md",
+    "3.Klasse/englisch/passive hü.md",
+    "3.Klasse/englisch/Englisch.md",
+    "3.Klasse/syt/elektrische schutzmaßnahmen.md",
     "3.Klasse/nwt/Trunk Configuration Commands.md",
     "3.Klasse/nwt/vlan commands.md",
     "3.Klasse/nwt/change vlan port membership.md",
@@ -207,15 +245,7 @@
     "3.Klasse/itsi/aufgaben/aufgabe1/images/mika.jpeg",
     "randoom ahh/😟Games die ich Spielen muss.md",
     "randoom ahh/Elden Ring No hit run requests.md",
-    "3.Klasse/itsi/Welche Arten von Daten gibt es.md",
-    "bilder/Crow's Foot Notation 09-10-2024-11_0.excalidraw.md",
-    "3.Klasse/insy/Crow's Foot Notation.md",
-    "bilder/Crow's Foot Notation 09-10-2024-27.excalidraw.md",
-    "bilder/Crow's Foot Notation 09-10-2024-11.excalidraw.md",
-    "3.Klasse/insy/3kl insy.md",
-    "3.Klasse/insy/Optionalität.md",
     "bilder/Pasted Image 20241007094356_241.png",
-    "bilder/Pasted image 20241007094026.png",
     "bilder/Pasted image 20241007093259.png",
     "2.Klasse/Netzwerktiger/Aufgaben/wireskark_nc/images/tcp-header.jpeg",
     "bilder/Pasted image 20240927144209.png",
