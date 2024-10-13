@@ -18,29 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0a72ae686ac08c28",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "bilder/Pasted image 20241007094026.png"
-              }
-            }
-          },
-          {
-            "id": "cd17e992031d3d67",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/passive hü 07-10-2024-48.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bilder/passive hü 07-10-2024-48.excalidraw.md",
+                "file": "3.Klasse/englisch/active passive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "bilder/passive hü 07-10-2024-48.excalidraw.md"
+                "file": "3.Klasse/englisch/active passive.md"
               }
             }
           },
@@ -194,11 +173,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cd17e992031d3d67",
+  "active": "76f45321b344e880",
   "lastOpenFiles": [
-    "bilder/active passive 07-10-2024-04.excalidraw.md",
     "bilder/Pasted image 20241007094026.png",
     "bilder/passive hü 07-10-2024-48.excalidraw.md",
+    "bilder/active passive 07-10-2024-04.excalidraw.md",
     "3.Klasse/englisch/active passive.md",
     "3.Klasse/englisch/passive hü.md",
     "3.Klasse/englisch/Englisch.md",
