@@ -11,15 +11,36 @@
             "id": "76f45321b344e880",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/passive hü 07-10-2024-48.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "f7cd1e1ab6035f3e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/active passive 07-10-2024-04.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "f3a74caf0d8c1ff4",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/englisch/active passive.md",
+                "file": "3.Klasse/englisch/vocab.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/englisch/active passive.md",
+                "file": "bilder/active passive 07-10-2024-04.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +152,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/englisch/active passive.md"
+                "file": "bilder/active passive 07-10-2024-04.excalidraw.md"
               }
             }
           },
@@ -173,13 +194,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "76f45321b344e880",
+  "active": "f7cd1e1ab6035f3e",
   "lastOpenFiles": [
-    "bilder/Pasted image 20241007094026.png",
     "bilder/passive hü 07-10-2024-48.excalidraw.md",
     "bilder/active passive 07-10-2024-04.excalidraw.md",
-    "3.Klasse/englisch/active passive.md",
     "3.Klasse/englisch/passive hü.md",
+    "3.Klasse/englisch/active passive.md",
+    "3.Klasse/englisch/vocab.md",
+    "bilder/Pasted image 20241007094026.png",
     "3.Klasse/englisch/Englisch.md",
     "3.Klasse/syt/elektrische schutzmaßnahmen.md",
     "3.Klasse/nwt/Trunk Configuration Commands.md",

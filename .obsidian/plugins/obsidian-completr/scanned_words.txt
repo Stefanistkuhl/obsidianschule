@@ -372,6 +372,9 @@ twQ
 twg
 tpa
 tuYQU
+tool
+today
+told
 Klasse
 Konfigurationen
 Kugel
@@ -678,6 +681,7 @@ Ksj
 Kqqzev
 KAm
 KwSZ
+KYYgwEcI
 syt
 shittalken
 sEiD
@@ -1150,6 +1154,7 @@ snU
 siA
 some
 sweets
+seat
 elektro
 erklärt
 ein
@@ -1565,6 +1570,9 @@ esw
 edU
 eXh
 eMyS
+emphasize
+encouraged
+enjoyed
 GPIO
 Gleichungne
 Gleichung
@@ -2240,6 +2248,11 @@ gCjf
 gjt
 gZep
 gave
+gentleman
+gGBsp
+greeted
+get
+got
 purpose
 paare
 paaren
@@ -2553,6 +2566,7 @@ psq
 pOcL
 pVT
 pgS
+pliers
 input
 int
 immutable
@@ -2898,6 +2912,9 @@ ilV
 icd
 iQiq
 iwR
+ifO
+introduced
+ihV
 output
 oida
 oder
@@ -3209,6 +3226,7 @@ ovr
 onB
 ozle
 offred
+offered
 float
 fReIwIlLiG
 für
@@ -4278,6 +4296,7 @@ Tkua
 TQQ
 TfA
 Tze
+TDw
 mehere
 mit
 mutable
@@ -4654,6 +4673,7 @@ mhKM
 mrbD
 mnjHI
 mZf
+mixture
 Werte
 Wellen
 Wollen
@@ -5725,6 +5745,8 @@ dwc
 dYDg
 dtv
 dinner
+dismissed
+decreased
 Dynamisch
 Dotierung
 Dioden
@@ -6085,6 +6107,8 @@ DHr
 DpY
 DTd
 Diu
+Devil
+Did
 Bsp
 Boschis
 Bipolartransistor
@@ -6450,6 +6474,8 @@ BKj
 Bwl
 BteqC
 Bill
+BNXNTvYn
+BqidXf
 wichtig
 was
 wie
@@ -6753,6 +6779,10 @@ wku
 wNFjj
 wXqa
 wgcc
+well
+waterpipe
+week
+were
 Lehrer
 Ladig
 Links
@@ -7036,6 +7066,7 @@ LyM
 LtYW
 Lze
 LIQ
+LvXz
 unsere
 uns
 und
@@ -8288,6 +8319,7 @@ OBv
 OdR
 OOD
 OWx
+OoSc
 beeing
 background
 berechnen
@@ -8663,6 +8695,8 @@ bav
 bvbtsmyzl
 bcQD
 bbP
+beat
+bKxwnMuy
 Idi
 Ionenbindungen
 Ionisierungsenergie
@@ -9638,6 +9672,7 @@ nUp
 noo
 nWow
 neX
+next
 FFB
 Feldeffekttransistor
 Feldeffekt
@@ -9940,6 +9975,7 @@ FdB
 FTa
 FSI
 FqM
+FKO
 EBA
 Elektronenpaarbindung
 Elektronen
@@ -10868,6 +10904,7 @@ CmldJ
 CkC
 CNA
 CNK
+CSBPG
 Rechnen
 Richtungen
 Rafis
@@ -11168,6 +11205,8 @@ ReE
 RZU
 RRuH
 RnE
+Red
+RhksGw
 aufstellen
 aus
 als
@@ -12240,6 +12279,7 @@ PEy
 PdI
 PcAM
 Pol
+PrrQGKue
 Zusammenfassung
 Zustand
 Zener
@@ -13715,6 +13755,12 @@ cFx
 cLj
 cooked
 children
+cLRQfuPv
+call
+crowd
+called
+cxMY
+closed
 zusammen
 zw
 zu
@@ -14010,6 +14056,7 @@ zau
 zuA
 zCEQY
 zCU
+zNefiV
 äußersten
 ändern
 äußeren
@@ -14316,6 +14363,8 @@ rAws
 rwk
 rxxrtdv
 rfjz
+repaired
+reduced
 Um
 Unterschied
 Ube
@@ -14933,6 +14982,7 @@ VJU
 Vö
 VcyX
 VQCEmSCq
+VZka
 Überblick
 Übergang
 Übungsdaten
@@ -15200,6 +15250,7 @@ JOzSS
 JPZ
 JvNv
 JAC
+JdXgiX
 xd
 xss
 xe
@@ -16043,6 +16094,7 @@ yIy
 yTbl
 ypj
 yet
+ySp
 quadrat
 quasi
 qu
@@ -16298,6 +16350,8 @@ qTp
 qYi
 qQAA
 qYanYmeK
+queen
+qnBqO
 YUR
 Yq
 Yi
@@ -16545,6 +16599,8 @@ YhK
 YPo
 YZMi
 YFrJL
+Yes
+YfL
 XawbH
 Xr
 XJpQ
@@ -16851,6 +16907,7 @@ XJO
 XFZ
 XBN
 XSv
+XXn
 Ändern
 Äx
 Ähnlich

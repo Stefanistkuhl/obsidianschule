@@ -23,6 +23,9 @@ tags:
 - counpound
 	- 2 nouns: career path
 - idioum
+	- cant be translated 
+		- exmaple: Birds of a feather fly together 
+		- Gleich und gleich gesellt sich gern
 	- metapher
 - aptitude
 	- talent (begabung)
@@ -33,3 +36,6 @@ tags:
 	- bewerten
 - emphasize
 	- to point out
+	- to show that something is important
+- viable
+	- Capable of success or continuing effectiveness; practicable: synonym: possible. 
