@@ -4018,6 +4018,7 @@ SBK
 SLc
 She
 SpCbtORn
+Säurekatalytische
 Tuple
 Teststoff
 Teilchen
@@ -11984,6 +11985,7 @@ AuU
 Acker
 Alkan
 Alken
+ADdition
 PSE
 Protonen
 Problem

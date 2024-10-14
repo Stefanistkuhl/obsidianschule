@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "56d618ea5db58f02",
+        "id": "51b8af5fb22d5318",
         "type": "tabs",
         "children": [
           {
-            "id": "4e9e53aa090d960d",
+            "id": "a33e08a9f7901050",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/Nawi/Reaktivität der Alkene.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "600891b2faf21cb7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/Reaktivität der Alkene 14-10-2024-31.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bilder/Reaktivität der Alkene 14-10-2024-31.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,9 +125,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "bilder/Reaktivität der Alkene 14-10-2024-31.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -184,7 +166,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "600891b2faf21cb7",
+  "active": "a33e08a9f7901050",
   "lastOpenFiles": [
     "3.Klasse/Nawi/Reaktivität der Alkene.md",
     "bilder/Reaktivität der Alkene 14-10-2024-31.excalidraw.md",
