@@ -375,6 +375,8 @@ tuYQU
 tool
 today
 told
+translated
+together
 Klasse
 Konfigurationen
 Kugel
@@ -1155,6 +1157,8 @@ siA
 some
 sweets
 seat
+success
+synonym
 elektro
 erklärt
 ein
@@ -1573,6 +1577,8 @@ eMyS
 emphasize
 encouraged
 enjoyed
+exmaple
+effectiveness
 GPIO
 Gleichungne
 Gleichung
@@ -1864,6 +1870,7 @@ GRIEb
 GKO
 GfL
 GxD
+Gleich
 general
 gesetzte
 gedreht
@@ -2253,6 +2260,7 @@ gGBsp
 greeted
 get
 got
+gern
 purpose
 paare
 paaren
@@ -2567,6 +2575,7 @@ pOcL
 pVT
 pgS
 pliers
+practicable
 input
 int
 immutable
@@ -2915,6 +2924,7 @@ iwR
 ifO
 introduced
 ihV
+important
 output
 oida
 oder
@@ -3540,6 +3550,8 @@ fsr
 fqj
 fqn
 feV
+feather
+fly
 Str
 Statisch
 Stifdrops
@@ -5345,6 +5357,7 @@ vwk
 vdxpi
 vEo
 vCW
+viable
 datetypen
 deppat
 dem
@@ -6476,6 +6489,7 @@ BteqC
 Bill
 BNXNTvYn
 BqidXf
+Birds
 wichtig
 was
 wie
@@ -10905,6 +10919,7 @@ CkC
 CNA
 CNK
 CSBPG
+Capable
 Rechnen
 Richtungen
 Rafis
@@ -13761,6 +13776,8 @@ crowd
 called
 cxMY
 closed
+cant
+continuing
 zusammen
 zw
 zu

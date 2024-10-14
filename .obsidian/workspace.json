@@ -18,16 +18,6 @@
             }
           },
           {
-            "id": "f7cd1e1ab6035f3e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/active passive 07-10-2024-04.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "f3a74caf0d8c1ff4",
             "type": "leaf",
             "state": {
@@ -39,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bilder/active passive 07-10-2024-04.excalidraw.md",
+                "file": "bilder/passive hü 07-10-2024-48.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +141,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "bilder/active passive 07-10-2024-04.excalidraw.md"
+                "file": "bilder/passive hü 07-10-2024-48.excalidraw.md"
               }
             }
           },
@@ -194,13 +183,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f7cd1e1ab6035f3e",
+  "active": "76f45321b344e880",
   "lastOpenFiles": [
+    "3.Klasse/englisch/vocab.md",
     "bilder/passive hü 07-10-2024-48.excalidraw.md",
     "bilder/active passive 07-10-2024-04.excalidraw.md",
     "3.Klasse/englisch/passive hü.md",
     "3.Klasse/englisch/active passive.md",
-    "3.Klasse/englisch/vocab.md",
     "bilder/Pasted image 20241007094026.png",
     "3.Klasse/englisch/Englisch.md",
     "3.Klasse/syt/elektrische schutzmaßnahmen.md",
