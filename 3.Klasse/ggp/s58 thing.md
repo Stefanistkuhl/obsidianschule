@@ -9,5 +9,22 @@ tags:
 	- Boden - Acker
 	- Trakor 
 	- Know how für den Traktor 
+	- Wissen wie der Boden funktioert, Lagern, wann man erntet
 	- Arbeit - Fahrer für den Traktor
-	- Kapital - Traktor Feld etfc
+	- Kapital - Traktor Feld etc
+- zuordnen 
+	- Boden 
+		- Wald
+		- Erdöl Lagerstätte 
+		- Betriebsgelände 
+	- Wissen 
+		- EDV-Kurs 
+		- Matura 
+	- Kapital 
+		- Aktien
+		- Sparbuch
+		- LWK 
+	- Arbeit
+		- montage einer Satelietenanlage 
+		- Tapezieren eines Zimmers
+		- 
