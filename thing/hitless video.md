@@ -34,4 +34,7 @@ There are more General Rules and lists of banned skips,glichtes, cheeses etc tha
 
 ### getting inspired to do the run
 
+The first part of everything is getting the idea. In my case, my biggest source of inspiration was Gino Machino, just watching him hitless the game in so many different ways, like doing it level 1 +0 ng+7 always made think "i wish i am good enough to do a hitless run one day". After wacthing Gino test,route and complete runs on stream and seeing the processes of how you do this runs the desire to do oe aswell got larger, but yet I still didnt do any research on how to do one.
+Until one day this video poped up in my youtube recomendations: (insert some upsi from the guide here),wait wrong guide (insert epic recy guide here).
+
 ### talking abt the route and evolution idk
