@@ -685,6 +685,7 @@ KAm
 KwSZ
 KYYgwEcI
 Know
+Können
 syt
 shittalken
 sEiD
@@ -1160,6 +1161,7 @@ sweets
 seat
 success
 synonym
+schwächer
 elektro
 erklärt
 ein
@@ -2262,6 +2264,7 @@ greeted
 get
 got
 gern
+gebrochen
 purpose
 paare
 paaren
@@ -6127,6 +6130,7 @@ DTd
 Diu
 Devil
 Did
+Doppelbindung
 Bsp
 Boschis
 Bipolartransistor
@@ -10365,6 +10369,8 @@ EQNmy
 EDXD
 EBf
 Ezn
+Einfachbindung
+Einfachbindungen
 Halbleiter
 Hauptsächlich
 Hantelförmig
@@ -11629,6 +11635,7 @@ aoO
 avSZ
 ayf
 aOK
+auschließlich
 Ausbeute
 Atomaufbau
 Arbeiten
@@ -11975,6 +11982,8 @@ ATVZjraA
 AksS
 AuU
 Acker
+Alkan
+Alken
 PSE
 Protonen
 Problem
@@ -14397,6 +14406,7 @@ rxxrtdv
 rfjz
 repaired
 reduced
+reaktiver
 Um
 Unterschied
 Ube
