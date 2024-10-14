@@ -41,3 +41,7 @@ tags:
 	- Capable of success or continuing effectiveness; practicable: synonym: possible. 
 - congestion
 	- traffic jam
+- rural
+	- countryside 
+- urban 
+	- city
