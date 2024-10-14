@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9cf7c08438f54743",
+        "id": "56d618ea5db58f02",
         "type": "tabs",
         "children": [
           {
-            "id": "7f76099f5d9c7baf",
+            "id": "4e9e53aa090d960d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/mathe/kettenregel bsp.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/mathe/kettenregel bsp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,9 +125,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "3.Klasse/mathe/kettenregel bsp.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,12 +166,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7f76099f5d9c7baf",
+  "active": "4e9e53aa090d960d",
   "lastOpenFiles": [
-    "3.Klasse/mathe/Ableitungsregeln.md",
-    "3.Klasse/mathe/kettenregel bsp.md",
-    "3.Klasse/mathe/Kettenregel.md",
+    "3.Klasse/mathe/differentzialrechnung text bsp.md",
+    "bilder/Pasted image 20241014123554.png",
     "3.Klasse/mathe/3kl mathe.md",
+    "3.Klasse/mathe/Differentzialrechnung.md",
+    "3.Klasse/mathe/Sa lernen yfear.md",
+    "3.Klasse/mathe/kettenregel bsp.md",
+    "3.Klasse/mathe/Ableitungsregeln.md",
+    "3.Klasse/mathe/Kettenregel.md",
     "3.Klasse/ggp/s58 thing.md",
     "bilder/s58 thing 14-10-2024-43.excalidraw.md",
     "3.Klasse/ggp/wirschaft thingy.md",
@@ -200,10 +197,6 @@
     "3.Klasse/nwt/vlan commands.md",
     "3.Klasse/nwt/change vlan port membership.md",
     "3.Klasse/nwt/Ah yes 20 millionen cisco sachen.md",
-    "3.Klasse/nwt/vlans.md",
-    "3.Klasse/nwt/VLAN Port Assigment Commands.md",
-    "3.Klasse/nwt/VLAN Creation Commands.md",
-    "3.Klasse/nwt/Vlan Ranges on Catalyst Switches.md",
     "3.Klasse/nwt/aufgaben/switch-conf/Fürst-Raichle-Basic-Switch-Configuration.tex~",
     "thing/hitless video.md~",
     "3.Klasse/itsi/aufgaben/aufgabe1/Raichle_Fürst_Kryptographie.tex~",
@@ -220,7 +213,6 @@
     "bilder/Pasted Image 20241007094356_241.png",
     "bilder/Pasted image 20241007093259.png",
     "2.Klasse/Netzwerktiger/Aufgaben/wireskark_nc/images/tcp-header.jpeg",
-    "bilder/Pasted image 20240927144209.png",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
     "Zeichnungen/Untitled.canvas"
   ]

@@ -5,3 +5,6 @@ tags:
 ---
 [[Differentzialrechnung]]
 [[Ableitungsregeln]]
+[[differentzialrechnung text bsp]]
+[[Ableitungsregeln]]
+[[Sa lernen yfear]]
