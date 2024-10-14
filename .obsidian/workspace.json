@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5833dda36ca24644",
+        "id": "6783707b03c02c9d",
         "type": "tabs",
         "children": [
           {
-            "id": "f3a74caf0d8c1ff4",
+            "id": "af3a6468810665d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/englisch/englisch matura textsortenzettel.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/englisch/englisch matura textsortenzettel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,9 +125,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "3.Klasse/englisch/englisch matura textsortenzettel.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,12 +166,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f3a74caf0d8c1ff4",
+  "active": "af3a6468810665d6",
   "lastOpenFiles": [
+    "3.Klasse/englisch/englisch matura textsortenzettel.md",
     "bilder/Pasted image 20241014095419.png",
     "bilder/Pasted image 20241014095414.png",
     "3.Klasse/englisch/3kl eng.md",
-    "3.Klasse/englisch/englisch matura textsortenzettel.md",
     "3.Klasse/englisch/vocab.md",
     "bilder/passive hü 07-10-2024-48.excalidraw.md",
     "bilder/active passive 07-10-2024-04.excalidraw.md",
@@ -220,7 +213,6 @@
     "bilder/Pasted image 20241007093259.png",
     "2.Klasse/Netzwerktiger/Aufgaben/wireskark_nc/images/tcp-header.jpeg",
     "bilder/Pasted image 20240927144209.png",
-    "bilder/Pasted image 20240920113300.png",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
     "Zeichnungen/Untitled.canvas"
   ]
