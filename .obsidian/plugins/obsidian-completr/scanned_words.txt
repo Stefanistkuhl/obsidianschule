@@ -12815,6 +12815,7 @@ QDB
 QTN
 QSwW
 QWD
+Quatientenregel
 kann
 kein
 können

@@ -11,6 +11,7 @@ tags:
 	- $$f(x)=u(x)*v(x)=f'(x)=u'(x)*v(x)+v'(x)*u(x)$$
 - Quatientenregel
 	- $$f(x)=\frac{u(x)}{v(x)}=f'(x)=\frac{u'(x)*v(x)-v'(x)*u(x)}{v²(x)}$$
+- [[Kettenregel]]
 [[Ableitung bsp]]
 [[Produktregel bsp]]
 [[quatient regel bsp]]

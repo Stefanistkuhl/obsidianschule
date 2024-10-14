@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6783707b03c02c9d",
+        "id": "9cf7c08438f54743",
         "type": "tabs",
         "children": [
           {
-            "id": "af3a6468810665d6",
+            "id": "7f76099f5d9c7baf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/ggp/s58 thing.md",
+                "file": "3.Klasse/mathe/Kettenregel.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/ggp/s58 thing.md",
+                "file": "3.Klasse/mathe/Kettenregel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/ggp/s58 thing.md"
+                "file": "3.Klasse/mathe/Kettenregel.md"
               }
             }
           },
@@ -173,10 +173,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "af3a6468810665d6",
+  "active": "7f76099f5d9c7baf",
   "lastOpenFiles": [
-    "bilder/s58 thing 14-10-2024-43.excalidraw.md",
+    "3.Klasse/mathe/Ableitungsregeln.md",
+    "3.Klasse/mathe/Kettenregel.md",
+    "3.Klasse/mathe/3kl mathe.md",
     "3.Klasse/ggp/s58 thing.md",
+    "bilder/s58 thing 14-10-2024-43.excalidraw.md",
     "3.Klasse/ggp/wirschaft thingy.md",
     "3.Klasse/ggp/3kl GGP.md",
     "templates/ggp.md",
@@ -202,11 +205,8 @@
     "3.Klasse/nwt/Vlan Ranges on Catalyst Switches.md",
     "3.Klasse/nwt/Types of Vlans.md",
     "3.Klasse/nwt/aufgaben/switch-conf/Fürst-Raichle-Basic-Switch-Configuration.tex~",
-    "3.Klasse/nwt/Filter Show Comamnd Output.md",
-    "3.Klasse/itsi/Asymetrische Verschlüsselung.md",
     "thing/hitless video.md~",
     "3.Klasse/itsi/aufgaben/aufgabe1/Raichle_Fürst_Kryptographie.tex~",
-    "3.Klasse/itsi/Besispiele für Asymetrische verschlüsseleung.md",
     "3.Klasse/itsi/aufgaben/aufgabe1/4913",
     "3.Klasse/itsi/aufgaben/aufgabe1/Raichle_Fürst_Kryptographie.synctex(busy)",
     "3.Klasse/itsi/aufgaben/aufgabe1/lualatex13331.fls",
