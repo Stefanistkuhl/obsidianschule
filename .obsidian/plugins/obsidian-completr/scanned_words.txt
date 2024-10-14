@@ -684,6 +684,7 @@ Kqqzev
 KAm
 KwSZ
 KYYgwEcI
+Know
 syt
 shittalken
 sEiD
@@ -3552,6 +3553,7 @@ fqn
 feV
 feather
 fly
+faktoren
 Str
 Statisch
 Stifdrops
@@ -4012,6 +4014,7 @@ STT
 SBK
 SLc
 She
+SpCbtORn
 Tuple
 Teststoff
 Teilchen
@@ -4309,6 +4312,8 @@ TQQ
 TfA
 Tze
 TDw
+Trakor
+Traktor
 mehere
 mit
 mutable
@@ -6490,6 +6495,7 @@ Bill
 BNXNTvYn
 BqidXf
 Birds
+Boden
 wichtig
 was
 wie
@@ -8070,6 +8076,8 @@ hLN
 hTo
 hasn
 him
+herzustellen
+hILwQQRU
 Osko
 Orbitale
 Orbitalen
@@ -9369,6 +9377,8 @@ MvZrnfZ
 MEC
 MfdC
 MbE
+Mobiltelefon
+Mindmap
 nawi
 nix
 nicht
@@ -9687,6 +9697,7 @@ noo
 nWow
 neX
 next
+notwendig
 FFB
 Feldeffekttransistor
 Feldeffekt
@@ -9990,6 +10001,7 @@ FTa
 FSI
 FqM
 FKO
+Fahrer
 EBA
 Elektronenpaarbindung
 Elektronen
@@ -11962,6 +11974,7 @@ AbG
 ATVZjraA
 AksS
 AuU
+Acker
 PSE
 Protonen
 Problem
@@ -12295,6 +12308,7 @@ PdI
 PcAM
 Pol
 PrrQGKue
+Produktionsfaktoren
 Zusammenfassung
 Zustand
 Zener
@@ -15017,6 +15031,7 @@ VZka
 Überstrom
 Überlast
 Übernimmt
+Überlgegen
 Jahre
 Joker
 Jahrgang
@@ -15810,6 +15825,7 @@ jUA
 jJx
 jeI
 jam
+jxru
 yappen
 yappt
 yvT

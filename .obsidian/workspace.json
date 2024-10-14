@@ -11,8 +11,12 @@
             "id": "af3a6468810665d6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/ggp/s58 thing.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3.Klasse/ggp/s58 thing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "3.Klasse/ggp/s58 thing.md"
+              }
             }
           },
           {
@@ -168,6 +175,11 @@
   },
   "active": "af3a6468810665d6",
   "lastOpenFiles": [
+    "bilder/s58 thing 14-10-2024-43.excalidraw.md",
+    "3.Klasse/ggp/s58 thing.md",
+    "3.Klasse/ggp/wirschaft thingy.md",
+    "3.Klasse/ggp/3kl GGP.md",
+    "templates/ggp.md",
     "3.Klasse/englisch/englisch matura textsortenzettel.md",
     "bilder/Pasted image 20241014095419.png",
     "bilder/Pasted image 20241014095414.png",
@@ -195,10 +207,6 @@
     "thing/hitless video.md~",
     "3.Klasse/itsi/aufgaben/aufgabe1/Raichle_Fürst_Kryptographie.tex~",
     "3.Klasse/itsi/Besispiele für Asymetrische verschlüsseleung.md",
-    "bilder/Asymetrische Verschlüsselung 10-10-2024-58.excalidraw.md",
-    "bilder/Asymetrische Verschlüsselung 10-10-2024-19.excalidraw.md",
-    "3.Klasse/itsi/Kryptografie.md",
-    "3.Klasse/itsi/3kl itsi.md",
     "3.Klasse/itsi/aufgaben/aufgabe1/4913",
     "3.Klasse/itsi/aufgaben/aufgabe1/Raichle_Fürst_Kryptographie.synctex(busy)",
     "3.Klasse/itsi/aufgaben/aufgabe1/lualatex13331.fls",
