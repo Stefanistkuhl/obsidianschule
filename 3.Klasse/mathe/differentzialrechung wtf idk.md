@@ -3,4 +3,5 @@ tags:
   - m
   - 3te_Klasse
 ---
-[[abeleitung regeln]]
+[[summen und faktor regel]]
+[[Produkt und kettegel]]
