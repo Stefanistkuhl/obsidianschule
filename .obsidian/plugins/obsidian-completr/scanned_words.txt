@@ -5367,6 +5367,7 @@ vdxpi
 vEo
 vCW
 viable
+verbessert
 datetypen
 deppat
 dem
@@ -7092,6 +7093,7 @@ LtYW
 Lze
 LIQ
 LvXz
+Lessons
 unsere
 uns
 und
@@ -13478,6 +13480,7 @@ lzX
 lvj
 ldXJ
 lQQ
+learned
 conf
 chroloid
 chlor

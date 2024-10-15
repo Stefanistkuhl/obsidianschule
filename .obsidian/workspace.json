@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "51b8af5fb22d5318",
+        "id": "983ce81928e9e675",
         "type": "tabs",
         "children": [
           {
-            "id": "a33e08a9f7901050",
+            "id": "7ccf2e5e774f04b8",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -166,8 +166,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a33e08a9f7901050",
+  "active": "7ccf2e5e774f04b8",
   "lastOpenFiles": [
+    "3.Klasse/ggp/3kl GGP.md",
+    "3.Klasse/ggp/Volkswirtschaften.md",
+    "3.Klasse/Ipt/Tuckman-Teamuhr.md",
+    "3.Klasse/ggp/wirschaft thingy.md",
     "3.Klasse/Nawi/Reaktivität der Alkene.md",
     "bilder/Reaktivität der Alkene 14-10-2024-31.excalidraw.md",
     "3.Klasse/Nawi/Organischer Chemie.md",
@@ -181,8 +185,6 @@
     "3.Klasse/mathe/Kettenregel.md",
     "3.Klasse/ggp/s58 thing.md",
     "bilder/s58 thing 14-10-2024-43.excalidraw.md",
-    "3.Klasse/ggp/wirschaft thingy.md",
-    "3.Klasse/ggp/3kl GGP.md",
     "templates/ggp.md",
     "3.Klasse/englisch/englisch matura textsortenzettel.md",
     "bilder/Pasted image 20241014095419.png",
@@ -196,8 +198,6 @@
     "bilder/Pasted image 20241007094026.png",
     "3.Klasse/englisch/Englisch.md",
     "3.Klasse/syt/elektrische schutzmaßnahmen.md",
-    "3.Klasse/nwt/Trunk Configuration Commands.md",
-    "3.Klasse/nwt/vlan commands.md",
     "3.Klasse/nwt/aufgaben/switch-conf/Fürst-Raichle-Basic-Switch-Configuration.tex~",
     "thing/hitless video.md~",
     "3.Klasse/itsi/aufgaben/aufgabe1/Raichle_Fürst_Kryptographie.tex~",
