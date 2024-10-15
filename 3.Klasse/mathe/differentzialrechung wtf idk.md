@@ -3,4 +3,4 @@ tags:
   - m
   - 3te_Klasse
 ---
-[[differentzialrechung wtf idk]]
+[[abeleitung regeln]]

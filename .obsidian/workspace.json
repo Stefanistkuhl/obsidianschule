@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "983ce81928e9e675",
+        "id": "a9e5bb8847ff6677",
         "type": "tabs",
         "children": [
           {
-            "id": "7ccf2e5e774f04b8",
+            "id": "e2a42071bdfbd3ff",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/mathe/abeleitung regeln.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3.Klasse/mathe/abeleitung regeln.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "3.Klasse/mathe/abeleitung regeln.md"
+              }
             }
           },
           {
@@ -166,8 +173,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7ccf2e5e774f04b8",
+  "active": "e2a42071bdfbd3ff",
   "lastOpenFiles": [
+    "3.Klasse/mathe/differentzialrechung wtf idk.md",
+    "3.Klasse/mathe/abeleitung regeln.md",
+    "3.Klasse/mathe/Sa lernen yfear.md",
     "3.Klasse/ggp/3kl GGP.md",
     "3.Klasse/ggp/Volkswirtschaften.md",
     "3.Klasse/Ipt/Tuckman-Teamuhr.md",
@@ -179,7 +189,6 @@
     "bilder/Pasted image 20241014123554.png",
     "3.Klasse/mathe/3kl mathe.md",
     "3.Klasse/mathe/Differentzialrechnung.md",
-    "3.Klasse/mathe/Sa lernen yfear.md",
     "3.Klasse/mathe/kettenregel bsp.md",
     "3.Klasse/mathe/Ableitungsregeln.md",
     "3.Klasse/mathe/Kettenregel.md",
@@ -196,8 +205,6 @@
     "3.Klasse/englisch/passive hü.md",
     "3.Klasse/englisch/active passive.md",
     "bilder/Pasted image 20241007094026.png",
-    "3.Klasse/englisch/Englisch.md",
-    "3.Klasse/syt/elektrische schutzmaßnahmen.md",
     "3.Klasse/nwt/aufgaben/switch-conf/Fürst-Raichle-Basic-Switch-Configuration.tex~",
     "thing/hitless video.md~",
     "3.Klasse/itsi/aufgaben/aufgabe1/Raichle_Fürst_Kryptographie.tex~",
