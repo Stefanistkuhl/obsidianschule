@@ -2640,6 +2640,7 @@ pzz
 pkk
 pCp
 pFyt
+potzenzen
 input
 int
 immutable
@@ -8958,6 +8959,7 @@ bVOt
 bWC
 baqy
 baf
+brüche
 Idi
 Ionenbindungen
 Ionisierungsenergie
