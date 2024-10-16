@@ -18,14 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3c203fb9598cd5fb",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ]
       }
@@ -73,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,10 +174,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7d2a89ea7b2d59bd",
+  "active": "29c0784d92ebb7c5",
   "lastOpenFiles": [
-    "templates/Deutsch.md",
     "3.Klasse/deutsch/Lerserbrief offenes lernen thing.md",
+    "templates/Deutsch.md",
     "3.Klasse/deutsch/3kl deutsch.md",
     "3.Klasse/mathe/Sa lernen yfear.md",
     "3.Klasse/mathe/Produkt und kettegel.md",
