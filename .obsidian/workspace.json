@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4282c98d5aea5fe3",
+        "id": "afb313752cc1ffa1",
         "type": "tabs",
         "children": [
           {
-            "id": "29c0784d92ebb7c5",
+            "id": "75cd138ba472573b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/insy/Primärschlüssel.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/insy/Primärschlüssel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "3.Klasse/insy/Primärschlüssel.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,10 +167,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "29c0784d92ebb7c5",
+  "active": "75cd138ba472573b",
   "lastOpenFiles": [
-    "3.Klasse/insy/Schlüssel.md",
+    "3.Klasse/insy/Definition eines Primärschlüssels.md",
+    "bilder/Pasted image 20241016123619.png",
+    "bilder/Definition eines Primärschlüssels 16-10-2024-10.excalidraw.md",
     "3.Klasse/insy/Primärschlüssel.md",
+    "3.Klasse/insy/Schlüssel.md",
     "3.Klasse/insy/3kl insy.md",
     "3.Klasse/deutsch/Lerserbrief offenes lernen thing.md",
     "templates/Deutsch.md",
@@ -202,9 +198,6 @@
     "3.Klasse/mathe/kettenregel bsp.md",
     "3.Klasse/mathe/Ableitungsregeln.md",
     "3.Klasse/mathe/Kettenregel.md",
-    "3.Klasse/ggp/s58 thing.md",
-    "bilder/s58 thing 14-10-2024-43.excalidraw.md",
-    "templates/ggp.md",
     "bilder/Pasted image 20241014095419.png",
     "bilder/Pasted image 20241014095414.png",
     "bilder/Pasted image 20241007094026.png",
@@ -221,7 +214,6 @@
     "3.Klasse/itsi/aufgaben/aufgabe1/lualatex11533.fls",
     "3.Klasse/itsi/aufgaben/aufgabe1/images/mika.jpeg",
     "bilder/Pasted Image 20241007094356_241.png",
-    "bilder/Pasted image 20241007093259.png",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
     "Zeichnungen/Untitled.canvas"
   ]

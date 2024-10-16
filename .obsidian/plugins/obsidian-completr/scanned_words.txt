@@ -701,6 +701,7 @@ KQt
 KaHAhl
 KiF
 Kettenregel
+Kombination
 syt
 shittalken
 sEiD
@@ -1613,6 +1614,12 @@ eaBQ
 eel
 eGx
 ezEbFk
+existier
+erklär
+existieren
+eindeuting
+eindeutiges
+eindeutigen
 GPIO
 Gleichungne
 Gleichung
@@ -3326,6 +3333,7 @@ onm
 obp
 oxd
 oab
+oRa
 float
 fReIwIlLiG
 für
@@ -3657,6 +3665,7 @@ fhB
 fNbcM
 fvSL
 fOU
+fügt
 Str
 Statisch
 Stifdrops
@@ -4130,6 +4139,7 @@ SKnzSN
 SAC
 SCZ
 Schreibabsicht
+Scülernummer
 Tuple
 Teststoff
 Teilchen
@@ -4823,6 +4833,7 @@ moo
 mykX
 mln
 mjaM
+meheren
 Werte
 Wellen
 Wollen
@@ -7611,6 +7622,7 @@ uXH
 ucc
 uIBN
 ugQ
+uxBgvB
 Noten
 Neutronen
 Nichtmetalle
@@ -8300,6 +8312,7 @@ hAW
 hjt
 hLI
 hqynq
+hinzu
 Osko
 Orbitale
 Orbitalen
@@ -8576,6 +8589,7 @@ OxLe
 ODb
 OJb
 OwDRm
+Ordnungs
 beeing
 background
 berechnen
@@ -10663,6 +10677,7 @@ Enii
 Edg
 EYliR
 EJzr
+ERD
 Halbleiter
 Hauptsächlich
 Hantelförmig
@@ -11249,6 +11264,7 @@ CHp
 CaX
 CDA
 CUe
+CQlWb
 Rechnen
 Richtungen
 Rafis
@@ -11970,6 +11986,7 @@ afR
 aNa
 alo
 aBC
+attribut
 Ausbeute
 Atomaufbau
 Arbeiten
@@ -12329,6 +12346,10 @@ Aukk
 AWM
 AmP
 AZS
+AhyQWoOG
+Abeteilung
+Attribut
+Attributen
 PSE
 Protonen
 Problem
@@ -12665,6 +12686,7 @@ PrrQGKue
 Produktionsfaktoren
 PrQ
 PCh
+Primary
 Zusammenfassung
 Zustand
 Zener
