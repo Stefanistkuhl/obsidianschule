@@ -10,3 +10,4 @@ tags:
 [[Entity Relationship-Model]]
 [[Insy-Begriffe]]
 [[Crow's Foot Notation]]
+[[Schlüssel]]
