@@ -2649,6 +2649,7 @@ pkk
 pCp
 pFyt
 potzenzen
+potenzregel
 input
 int
 immutable
