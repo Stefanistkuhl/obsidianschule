@@ -11,8 +11,12 @@
             "id": "75cd138ba472573b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/mathe/oida ich weiß auch nd mehr ich hasse alles ReallyMad.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -83,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3.Klasse/mathe/oida ich weiß auch nd mehr ich hasse alles ReallyMad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "3.Klasse/mathe/oida ich weiß auch nd mehr ich hasse alles ReallyMad.md"
+              }
             }
           },
           {
@@ -169,6 +176,9 @@
   },
   "active": "75cd138ba472573b",
   "lastOpenFiles": [
+    "3.Klasse/mathe/differentzialrechung wtf idk.md",
+    "3.Klasse/mathe/oida ich weiß auch nd mehr ich hasse alles ReallyMad.md",
+    "3.Klasse/mathe/Sa lernen yfear.md",
     "3.Klasse/insy/Definition eines Primärschlüssels.md",
     "bilder/Pasted image 20241016123619.png",
     "bilder/Definition eines Primärschlüssels 16-10-2024-10.excalidraw.md",
@@ -178,11 +188,9 @@
     "3.Klasse/deutsch/Lerserbrief offenes lernen thing.md",
     "templates/Deutsch.md",
     "3.Klasse/deutsch/3kl deutsch.md",
-    "3.Klasse/mathe/Sa lernen yfear.md",
     "3.Klasse/mathe/Produkt und kettegel.md",
     "3.Klasse/itsi/aufgaben/aufgabe1/Raichle_Fürst_Kryptographie.tex~",
     "bilder/Pasted image 20241015192422.png",
-    "3.Klasse/mathe/differentzialrechung wtf idk.md",
     "3.Klasse/mathe/summen und faktor regel.md",
     "3.Klasse/ggp/3kl GGP.md",
     "3.Klasse/ggp/Volkswirtschaften.md",
