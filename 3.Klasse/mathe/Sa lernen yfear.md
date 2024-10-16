@@ -6,3 +6,4 @@ tags:
 > brüche in neg potzenzen und zrk anschauen
 
 [[differentzialrechung wtf idk]]
+[[limes things]]

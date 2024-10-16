@@ -47,7 +47,7 @@ v=5x⁴
 f'(x)=3x²*x⁵+x³+5x⁴=3x⁷+5x⁷=8x⁷
 ```
 
-### quatientenregel 
+### Quotientenregel
 $$f(x)=\frac{u'*v-u*v'}{v²}$$
 ```math
 ||{"id":139569537811}||
@@ -56,4 +56,12 @@ f(x)=\frac{2x+3}{x⁵}
 u=2x+3=2*1+0=2
 v=x⁵=5*x⁴
 f'(x)=\frac{2*x⁵-(2x+3)*5x⁴}{(x⁵)²}
+```
+
+### Kettenregel
+
+```math
+||{"id":1538055582617}||
+
+f(x)=(x⁴+5)⁷
 ```
