@@ -382,6 +382,7 @@ tyz
 tztdp
 tkv
 tlt
+text
 Klasse
 Konfigurationen
 Kugel
@@ -4128,6 +4129,7 @@ Sac
 SKnzSN
 SAC
 SCZ
+Schreibabsicht
 Tuple
 Teststoff
 Teilchen
@@ -7287,6 +7289,7 @@ LFG
 LomyO
 LFE
 LWeu
+Leserbriefen
 unsere
 uns
 und
@@ -9642,6 +9645,7 @@ MZA
 MmC
 MDL
 MxZ
+Mehrfachnennungen
 nawi
 nix
 nicht
@@ -10965,6 +10969,7 @@ HFI
 HDJi
 Hxw
 HiR
+Hasspostings
 Chemisches
 Chemische
 Chlor

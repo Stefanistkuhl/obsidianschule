@@ -18,6 +18,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3c203fb9598cd5fb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ]
       }
@@ -173,10 +181,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "29c0784d92ebb7c5",
+  "active": "7d2a89ea7b2d59bd",
   "lastOpenFiles": [
-    "3.Klasse/deutsch/3kl deutsch.md",
+    "templates/Deutsch.md",
     "3.Klasse/deutsch/Lerserbrief offenes lernen thing.md",
+    "3.Klasse/deutsch/3kl deutsch.md",
     "3.Klasse/mathe/Sa lernen yfear.md",
     "3.Klasse/mathe/Produkt und kettegel.md",
     "3.Klasse/itsi/aufgaben/aufgabe1/Raichle_Fürst_Kryptographie.tex~",
@@ -205,7 +214,6 @@
     "bilder/Pasted image 20241014095414.png",
     "3.Klasse/englisch/3kl eng.md",
     "3.Klasse/englisch/vocab.md",
-    "bilder/passive hü 07-10-2024-48.excalidraw.md",
     "bilder/Pasted image 20241007094026.png",
     "3.Klasse/nwt/aufgaben/switch-conf/Fürst-Raichle-Basic-Switch-Configuration.tex~",
     "thing/hitless video.md~",
