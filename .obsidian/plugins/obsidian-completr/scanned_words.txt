@@ -383,6 +383,7 @@ tztdp
 tkv
 tlt
 text
+thee
 Klasse
 Konfigurationen
 Kugel
@@ -1189,6 +1190,14 @@ skq
 sgA
 sqbL
 sAD
+solution
+scale
+small
+sized
+swtich
+switched
+scalable
+subinterfaces
 elektro
 erklärt
 ein
@@ -2650,6 +2659,8 @@ pCp
 pFyt
 potzenzen
 potenzregel
+process
+physischen
 input
 int
 immutable
@@ -3011,6 +3022,9 @@ iww
 ieu
 ive
 ipD
+inter
+ian
+ips
 output
 oida
 oder
@@ -3335,6 +3349,8 @@ obp
 oxd
 oab
 oRa
+options
+organizations
 float
 fReIwIlLiG
 für
@@ -3667,6 +3683,7 @@ fNbcM
 fvSL
 fOU
 fügt
+forwarding
 Str
 Statisch
 Stifdrops
@@ -4141,6 +4158,8 @@ SAC
 SCZ
 Schreibabsicht
 Scülernummer
+Stick
+SVIs
 Tuple
 Teststoff
 Teilchen
@@ -4452,6 +4471,7 @@ TTX
 TVD
 TOT
 TJoo
+THis
 mehere
 mit
 mutable
@@ -4835,6 +4855,7 @@ mykX
 mln
 mjaM
 meheren
+most
 Werte
 Wellen
 Wollen
@@ -5531,6 +5552,7 @@ vFt
 vEDD
 vgo
 vtY
+virtual
 datetypen
 deppat
 dem
@@ -7624,6 +7646,7 @@ ucc
 uIBN
 ugQ
 uxBgvB
+using
 Noten
 Neutronen
 Nichtmetalle
@@ -9325,6 +9348,8 @@ IJe
 IDP
 ImwE
 IzZ
+Inter
+Interfaces
 Momente
 Massezahl
 Metalle
@@ -11989,6 +12014,8 @@ aNa
 alo
 aBC
 attribut
+another
+acceptable
 Ausbeute
 Atomaufbau
 Arbeiten
@@ -13881,6 +13908,8 @@ lhv
 lJL
 lPY
 locale
+legacy
+large
 conf
 chroloid
 chlor
@@ -14839,6 +14868,7 @@ rGi
 rbVM
 riWSs
 ryvz
+routing
 Um
 Unterschied
 Ube

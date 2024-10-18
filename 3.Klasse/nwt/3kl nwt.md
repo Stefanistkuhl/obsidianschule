@@ -10,3 +10,4 @@ tags:
 [[router]]
 [[switching conpets]]
 [[vlans]]
+![[inter-VLAN-Routing]]
