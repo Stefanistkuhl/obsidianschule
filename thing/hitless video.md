@@ -42,9 +42,11 @@ After finding the perfect starting point to get into it surely just followed the
 ### starting doing to do the thing
 
 So after quitting at the start of the guide the first 30 Minutes i finally completed one run through with the guide while making save states for important sections. I did some attempts but never really got past setup and just quit out of frustration and because the dlc was about to drop. So i abandoed it again. 
-Until the 15.7 where i randoomly where i said this at 1am (either make a ss of the convo or sum it up idk). But this time it was differnt because i actually stuck to it. Did i really just start a hitless run for a compliment? i guess i did (insert men and compliment memere here)
+Until the 15.7 where i randoomly where i said this at 1am (either make a ss of the convo or sum it up idk). But this time it was differnt because i actually stuck to it. Did i really just start a hitless run for a compliment? i guess i did (insert men and compliment meme here)
 
 ### talking abt the route and evolution idk
+
+As it stands now the current route is any% but keep the iron balls +0 for morgott. The question now was what weapon to use for margit, godrick and radahn, since i just planed to +0 goldfrey with balls awell, which is a horrible idea because this area is the laggiest thing ever and you get your inputs eaten left and right. Through some asking and testing i figured out how to deal with margit, godrick and Radahn with the Lorsworn Greatsword.
 
 ### more at the end but idk heading herere anyway 
 
