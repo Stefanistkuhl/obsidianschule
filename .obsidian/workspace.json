@@ -11,10 +11,14 @@
             "id": "2cacc7ae267eaa7a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/nwt/vlan commands.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "vlan commands"
             }
           }
         ]
@@ -191,6 +195,9 @@
   },
   "active": "2cacc7ae267eaa7a",
   "lastOpenFiles": [
+    "3.Klasse/nwt/aufgaben/switch-conf/Fürst-Raichle-Basic-Switch-Configuration.tex~",
+    "3.Klasse/nwt/Ah yes 20 millionen cisco sachen.md",
+    "3.Klasse/nwt/Secure Remote Access.md",
     "3.Klasse/mathe/limes things.md",
     "3.Klasse/mathe/Sa lernen yfear.md",
     "3.Klasse/mathe/oida ich weiß auch nd mehr ich hasse alles ReallyMad.md",
@@ -218,13 +225,9 @@
     "3.Klasse/mathe/differentzialrechnung text bsp.md",
     "bilder/Pasted image 20241014123554.png",
     "3.Klasse/mathe/3kl mathe.md",
-    "3.Klasse/mathe/Differentzialrechnung.md",
-    "3.Klasse/mathe/kettenregel bsp.md",
-    "3.Klasse/mathe/Ableitungsregeln.md",
     "bilder/Pasted image 20241014095419.png",
     "bilder/Pasted image 20241014095414.png",
     "bilder/Pasted image 20241007094026.png",
-    "3.Klasse/nwt/aufgaben/switch-conf/Fürst-Raichle-Basic-Switch-Configuration.tex~",
     "thing/hitless video.md~",
     "3.Klasse/itsi/aufgaben/aufgabe1/4913",
     "3.Klasse/itsi/aufgaben/aufgabe1/Raichle_Fürst_Kryptographie.synctex(busy)",

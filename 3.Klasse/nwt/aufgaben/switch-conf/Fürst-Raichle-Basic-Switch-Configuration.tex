@@ -136,7 +136,7 @@ Abgabedatum:
 \subsection{Configure Basic Network Device Settings}
 \paragraph {Configure basic switch settings}
 
-step 1:
+a
 no ip domain-lookup
 hostname S1
 service password-encryption
@@ -144,7 +144,7 @@ enable secret class
 banner motd #
 Unauthorized access is strictly prohibited. #
 
-step2:
+b
 conf t
 vlan 99 
 exit
@@ -152,6 +152,28 @@ interface vlan99
 ip address 192.168.1.2 255.255.255.0
 ipv6 geht nd oida müssen fixen
 no shutdown
+
+c
+interface range f0/1 – 24,g0/1 - 2
+switchport access vlan 99
+
+d
+ss auf dc
+
+e
+ip default-gateway 192.168.1.1
+
+f
+line con 0 
+logging synchronous
+password cisco
+login
+
+g
+ohne login command, wird nicht nach einem passwort gefragt
+
+step2:
+
 
 
 \paragraph {configure the pc ip addr}
