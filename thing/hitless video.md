@@ -35,6 +35,18 @@ There are more General Rules and lists of banned skips,glichtes, cheeses etc tha
 ### getting inspired to do the run
 
 The first part of everything is getting the idea. In my case, my biggest source of inspiration was Gino Machino, just watching him hitless the game in so many different ways, like doing it level 1 +0 ng+7 always made think "i wish i am good enough to do a hitless run one day". After wacthing Gino test,route and complete runs on stream and seeing the processes of how you do this runs the desire to do oe aswell got larger, but yet I still didnt do any research on how to do one.
-Until one day this video poped up in my youtube recomendations: (insert some upsi from the guide here),wait wrong guide (insert epic recy guide here).
+Until one day this video popped up in my youtube recomendations: (insert some upsi from the guide here),wait wrong guide (insert epic recy guide here).
+
+After finding the perfect starting point to get into it surely just followed the guide and got the run without any kind of problems.
+
+### starting doing to do the thing
+
+So after quitting at the start of the guide the first 30 Minutes i finally completed one run through with the guide while making save states for important sections. I did some attempts but never really got past setup and just quit out of frustration and because the dlc was about to drop. So i abandoed it again. 
+Until the 15.7 where i randoomly where i said this at 1am (either make a ss of the convo or sum it up idk). But this time it was differnt because i actually stuck to it.
 
 ### talking abt the route and evolution idk
+
+### more at the end but idk heading herere anyway 
+
+So you want to try doing hitless after this yourself? 
+(offer some getting started point advice etc and link to useful shit)

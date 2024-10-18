@@ -82,6 +82,7 @@ Zum Abschluss erfolgt eine Integritätsprüfung mit Hilfe von Hashwerten. Dabei 
 
 \section{Zusammenfassung}
 
+Bei dieser Übung wurden zwei Datein mit zwei verschiedenen Verfahren verschlüsselt werden, welche Symetrisch mit AES und Asymetrisch mit RSA sind. Hierfür wurde das kryptographisches Toolkit openssl benutzt.
 
 \newpage
 
@@ -110,17 +111,24 @@ openssl aes256 -in Raichle.txt -out Raichle.encrypted
 #entschlüsseln
 openssl aes256 -d -in Raichle.encrypted -out Raichle.txt
 \end{lstlisting}
-
+\newpage
 \subsection{Asymmetrisch Verschlüsseln}
-Für die Asymetrische Verschlüsselung, müssen erst ein Keypair generiert werden.
+Für die Asymetrische Verschlüsselung, müssen erst ein Keypair generiert werden. Für dies werden zwei Commands benötigt, einer für den privaten und einer für den public key. \\ \\
+Bei der Erstellung des public keys, werden der Algorithmus, Schlüsselbits und Dateiname angegeben. \\ \\
+Für die Verschlüsselung wird die \texttt{-encrypt} Flag, neben anderen Flags für Key und Dateiinput verwendet um die Datei zu verschlüsseln.
 %größe andern dass alles drauf is
 \begin{lstlisting}[language=bash]
 #public key
-openssl genpkey -algorithm RSA -pkeyopt rsa_keygen_bits:4096 -out private-key.pem
+openssl genpkey -algorithm RSA \ 
+-pkeyopt rsa_keygen_bits:4096 \
+-out private-key.pem
 #private key
 openssl pkey -in private-key.pem -out public-key.pem -pubout
 #datei verschlüsseln
-openssl rsautl -encrypt -inkey zivk.pem -pubin -in Raichle-Fuerst-RSA.txt -out Raichle-Fuerst-RSA.txt.zivk.enc
+openssl rsautl -encrypt \
+-inkey zivk.pem \
+-pubin -in Raichle-Fuerst-RSA.txt \
+-out Raichle-Fuerst-RSA.txt.zivk.enc
 \end{lstlisting}
 
 \subsection{Integrität prüfen}

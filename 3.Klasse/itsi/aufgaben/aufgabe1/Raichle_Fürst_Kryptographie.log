@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.9.9)  11 OCT 2024 09:21
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.9.9)  17 OCT 2024 13:52
  restricted system commands enabled.
  file:line:error style messages enabled.
 **Raichle_Fürst_Kryptographie.tex
@@ -359,59 +359,62 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--82
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 86.
+Package luatex.def Info: images/logo.png  used on input line 87.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [3]
 <images/aes-encrypt.png, id=18, 227.6505pt x 20.7174pt>
 File: images/aes-encrypt.png Graphic file (type png)
 <use images/aes-encrypt.png>
-Package luatex.def Info: images/aes-encrypt.png  used on input line 98.
+Package luatex.def Info: images/aes-encrypt.png  used on input line 99.
 (luatex.def)             Requested size: 341.4749pt x 31.07602pt.
 <images/aes-decrypt.png, id=19, 214.1601pt x 23.3673pt>
 File: images/aes-decrypt.png Graphic file (type png)
 <use images/aes-decrypt.png>
-Package luatex.def Info: images/aes-decrypt.png  used on input line 104.
+Package luatex.def Info: images/aes-decrypt.png  used on input line 105.
 (luatex.def)             Requested size: 321.23933pt x 35.05084pt.
  (/opt/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2024/05/25 1.10b listings language file
 ) (/opt/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2024/05/25 1.10b listings language file
 )
-Underfull \hbox (badness 10000) in paragraph at lines 94--107
+Underfull \hbox (badness 10000) in paragraph at lines 95--108
 
  []
 
 
-Overfull \hbox (2.3081pt too wide) in paragraph at lines 119--120
-[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package luatex.def Info: images/logo.png  used on input line 114.
+(luatex.def)             Requested size: 186.09352pt x 55.10535pt.
+[4<./images/aes-encrypt.png><./images/aes-decrypt.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 116--120
+
  []
 
 
-Overfull \hbox (176.30988pt too wide) in paragraph at lines 123--124
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+Underfull \hbox (badness 10000) in paragraph at lines 116--120
+
  []
 
-<images/hashes.png, id=20, 1592.95125pt x 241.90375pt>
+<images/hashes.png, id=28, 1592.95125pt x 241.90375pt>
 File: images/hashes.png Graphic file (type png)
 <use images/hashes.png>
-Package luatex.def Info: images/hashes.png  used on input line 133.
+Package luatex.def Info: images/hashes.png  used on input line 141.
 (luatex.def)             Requested size: 477.88907pt x 72.57167pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 140.
+Package luatex.def Info: images/logo.png  used on input line 148.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
-[4<./images/aes-encrypt.png><./images/aes-decrypt.png>] (./Raichle_Fürst_Kryptographie.bbl)
+[5<./images/hashes.png>] (./Raichle_Fürst_Kryptographie.bbl)
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 143.
+Package luatex.def Info: images/logo.png  used on input line 151.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
-[5<./images/hashes.png>] (./Raichle_Fürst_Kryptographie.lof)
+[6] (./Raichle_Fürst_Kryptographie.lof)
 \tf@lof=\write4
 
 \openout4 = Raichle_Fürst_Kryptographie.lof
@@ -419,9 +422,9 @@ Package luatex.def Info: images/logo.png  used on input line 143.
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 148.
+Package luatex.def Info: images/logo.png  used on input line 156.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
-[6] (./Raichle_Fürst_Kryptographie.aux)
+[7] (./Raichle_Fürst_Kryptographie.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-16>
@@ -429,19 +432,19 @@ L3 programming layer <2024-08-16>
 )
 
 Here is how much of LuaTeX's memory you used:
- 6835 strings out of 475910
+ 6838 strings out of 475910
  100000,1977958 words of node,token memory allocated
  434 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 6 attribute, 52 glue_spec, 6 attribute_list, 1 write nodes
-   avail lists: 2:1160,3:220,4:160,5:418,6:67,7:5081,8:22,9:1286,10:4,11:194
+   avail lists: 2:820,3:152,4:112,5:327,6:56,7:3446,8:22,9:1078,10:4,11:218
  29348 multiletter control sequences out of 65536+600000
  33 fonts using 2393023 bytes
  79i,16n,89p,378b,617s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></opt/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on Raichle_Fürst_Kryptographie.pdf (6 pages, 418848 bytes).
+Output written on Raichle_Fürst_Kryptographie.pdf (7 pages, 420420 bytes).
 
-PDF statistics: 68 PDF objects out of 1000 (max. 8388607)
- 36 compressed objects within 1 object stream
+PDF statistics: 71 PDF objects out of 1000 (max. 8388607)
+ 38 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

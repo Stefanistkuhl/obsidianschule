@@ -132,6 +132,7 @@ INPUT ./images/aes-decrypt.png
 INPUT ./images/aes-decrypt.png
 INPUT /opt/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /opt/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
+INPUT ./images/logo.png
 INPUT ./images/hashes.png
 INPUT ./images/hashes.png
 INPUT ./images/logo.png

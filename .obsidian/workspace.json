@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "afb313752cc1ffa1",
+        "id": "280ee23ac9629ff9",
         "type": "tabs",
         "children": [
           {
-            "id": "75cd138ba472573b",
+            "id": "2cacc7ae267eaa7a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/mathe/limes things.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -39,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ],
@@ -87,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/mathe/limes things.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +98,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -107,7 +112,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -115,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -123,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "stats-tracker",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -131,9 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "3.Klasse/mathe/limes things.md"
-              }
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
             }
           },
           {
@@ -141,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -149,7 +162,9 @@
             "type": "leaf",
             "state": {
               "type": "code-execute-manage-executors",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -174,10 +189,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "75cd138ba472573b",
+  "active": "2cacc7ae267eaa7a",
   "lastOpenFiles": [
-    "3.Klasse/mathe/Sa lernen yfear.md",
     "3.Klasse/mathe/limes things.md",
+    "3.Klasse/mathe/Sa lernen yfear.md",
     "3.Klasse/mathe/oida ich weiß auch nd mehr ich hasse alles ReallyMad.md",
     "3.Klasse/mathe/differentzialrechung wtf idk.md",
     "3.Klasse/insy/Definition eines Primärschlüssels.md",

@@ -136,6 +136,24 @@ Abgabedatum:
 \subsection{Configure Basic Network Device Settings}
 \paragraph {Configure basic switch settings}
 
+step 1:
+no ip domain-lookup
+hostname S1
+service password-encryption
+enable secret class
+banner motd #
+Unauthorized access is strictly prohibited. #
+
+step2:
+conf t
+vlan 99 
+exit
+interface vlan99
+ip address 192.168.1.2 255.255.255.0
+ipv6 geht nd oida müssen fixen
+no shutdown
+
+
 \paragraph {configure the pc ip addr}
 \subsection{Verify and Test Network Connectivity}
 
