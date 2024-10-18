@@ -46,7 +46,8 @@ Until the 15.7 where i randoomly where i said this at 1am (either make a ss of t
 
 ### talking abt the route and evolution idk
 
-As it stands now the current route is any% but keep the iron balls +0 for morgott. The question now was what weapon to use for margit, godrick and radahn, since i just planed to +0 goldfrey with balls awell, which is a horrible idea because this area is the laggiest thing ever and you get your inputs eaten left and right. Through some asking and testing i figured out how to deal with margit, godrick and Radahn with the Lorsworn Greatsword.
+As it stands now the current route is any% but keep the iron balls +0 for morgott. The question now was what weapon to use for margit, godrick and radahn, since i just planed to +0 goldfrey with balls awell, which is a horrible idea because this area is the laggiest thing ever and you get your inputs eaten left and right. Through some asking and testing i figured out how to deal with margit, godrick and Radahn with the Lorsworn Greatsword. 
+Now since i had the brilliant idea to upgrade the balls after morgott because i didnt even think of testing the rest of the bosses with the ls gs, so i just grabbed grabbed the smithing bellbearing 1
 
 ### more at the end but idk heading herere anyway 
 
