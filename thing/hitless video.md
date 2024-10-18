@@ -16,7 +16,7 @@ So naturally I did what any normal person would do, which is doing a hitless run
 
 ### hitless rule thingy part
 
-A hitless run is beating the game without getting hit but here are the the rules which you can find them on the teamhitless website:
+A hitless run is beating the game without getting hit but here are the the rules which you can find on the teamhitless website:
 
 - A hit is defined by a loss of health and/or stagger caused by an enemy.
 - Hits from player triggered traps count.
