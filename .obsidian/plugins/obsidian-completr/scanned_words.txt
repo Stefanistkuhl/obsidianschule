@@ -384,6 +384,7 @@ tkv
 tlt
 text
 thee
+teile
 Klasse
 Konfigurationen
 Kugel
@@ -703,6 +704,7 @@ KaHAhl
 KiF
 Kettenregel
 Kombination
+Kurvenförming
 syt
 shittalken
 sEiD
@@ -1199,6 +1201,10 @@ switched
 scalable
 subinterfaces
 sortieren
+senkrecht
+senkrechte
+simply
+schief
 elektro
 erklärt
 ein
@@ -4169,6 +4175,7 @@ Schreibabsicht
 Scülernummer
 Stick
 SVIs
+Schief
 Tuple
 Teststoff
 Teilchen
@@ -5198,6 +5205,7 @@ WBi
 Wef
 WQRn
 WlH
+Waagrecht
 verschienen
 verteilen
 voll
@@ -7042,6 +7050,7 @@ wDZ
 wtAD
 wkk
 wenns
+waagrecht
 Lehrer
 Ladig
 Links
@@ -10027,6 +10036,7 @@ nomollf
 nnuz
 nonmmow
 nennergrad
+nenergrad
 FFB
 Feldeffekttransistor
 Feldeffekt
@@ -12392,6 +12402,9 @@ AhyQWoOG
 Abeteilung
 Attribut
 Attributen
+Asymptote
+Asympthone
+Asymptothe
 PSE
 Protonen
 Problem
@@ -12729,6 +12742,7 @@ Produktionsfaktoren
 PrQ
 PCh
 Primary
+Potzengleich
 Zusammenfassung
 Zustand
 Zener
@@ -13571,6 +13585,7 @@ kkkkk
 kBb
 kArn
 kommt
+kleiner
 überlappen
 überfluten
 über
@@ -13586,6 +13601,7 @@ kommt
 übertragen
 überflüssig
 überprüft
+überprüfen
 logischerweise
 links
 lookup
@@ -14569,6 +14585,7 @@ zBtWD
 zls
 zxy
 zählergrad
+zähler
 äußersten
 ändern
 äußeren
