@@ -14590,6 +14590,7 @@ zls
 zxy
 zählergrad
 zähler
+zettel
 äußersten
 ändern
 äußeren

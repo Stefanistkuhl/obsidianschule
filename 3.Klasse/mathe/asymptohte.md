@@ -63,7 +63,25 @@ y=\frac{1}{2}x
 ```math
 ||{"id":711048845187}||
 
-f(x)=(3x³+2x²+x)
+f(x)=\frac{3x³+2x²+x}{x-1}
+y=3x²+5x+6
 ```
+![[asymptohte 19-10-2024-16_0.excalidraw]]
 
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
+### thing vom zettel
+```math
+||{"id":827510343252}||
+
+f(x)=\frac{2x³+4x²-10}{2x²}
+y=x+2
+```
+schief
+![[asymptohte 19-10-2024-50.excalidraw]]
+```math
+||{"id":917901834205}||
+
+f(x)=\frac{10x³+6}{5x}
+y=2x²
+```
+kurving
+![[asymptohte 19-10-2024-20.excalidraw]]
