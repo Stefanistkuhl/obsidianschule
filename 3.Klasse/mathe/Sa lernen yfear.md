@@ -7,4 +7,5 @@ tags:
 
 [[differentzialrechung wtf idk]]
 [[limes things]]
+[[asymptohte]]
 [[polynom division prac]]

@@ -13,24 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/mathe/polynom division prac.md",
+                "file": "3.Klasse/mathe/asymptohte.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "polynom division prac"
-            }
-          },
-          {
-            "id": "3ff2ab3a02b2e567",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/polynom division prac 19-10-2024-24.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "polynom division prac 19-10-2024-24.excalidraw"
+              "title": "asymptohte"
             }
           }
         ]
@@ -210,10 +198,11 @@
   },
   "active": "0c88248f8d6b2e2e",
   "lastOpenFiles": [
-    "bilder/abgabe",
-    "bilder/polynom division prac 19-10-2024-24.excalidraw.md",
-    "3.Klasse/mathe/polynom division prac.md",
     "3.Klasse/mathe/Sa lernen yfear.md",
+    "3.Klasse/mathe/asymptohte.md",
+    "3.Klasse/mathe/polynom division prac.md",
+    "bilder/polynom division prac 19-10-2024-24.excalidraw.md",
+    "bilder/abgabe",
     "3.Klasse/mathe/limes things.md",
     "thing/hitless video.md~",
     "3.Klasse/syt/elektrische schutzmaßnahmen.md",
@@ -253,7 +242,6 @@
     "3.Klasse/itsi/aufgaben/aufgabe1/lualatex13280.fls",
     "3.Klasse/itsi/aufgaben/aufgabe1/lualatex13108.fls",
     "3.Klasse/itsi/aufgaben/aufgabe1/lualatex13097.fls",
-    "3.Klasse/itsi/aufgaben/aufgabe1/lualatex11533.fls",
     "3.Klasse/itsi/aufgaben/aufgabe1/images/mika.jpeg",
     "bilder/Pasted Image 20241007094356_241.png",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
