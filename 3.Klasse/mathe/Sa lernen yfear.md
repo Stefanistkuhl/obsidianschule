@@ -7,3 +7,4 @@ tags:
 
 [[differentzialrechung wtf idk]]
 [[limes things]]
+[[polynom division prac]]
