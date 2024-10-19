@@ -11,7 +11,7 @@
   "templates": true,
   "note-composer": true,
   "command-palette": true,
-  "slash-command": true,
+  "slash-command": false,
   "editor-status": true,
   "markdown-importer": true,
   "zk-prefixer": false,
