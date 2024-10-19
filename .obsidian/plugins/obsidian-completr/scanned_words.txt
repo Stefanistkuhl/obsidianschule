@@ -1198,6 +1198,7 @@ swtich
 switched
 scalable
 subinterfaces
+sortieren
 elektro
 erklärt
 ein
@@ -2331,6 +2332,7 @@ gzz
 gKC
 gOO
 gmuee
+größten
 purpose
 paare
 paaren
@@ -2662,6 +2664,9 @@ potzenzen
 potenzregel
 process
 physischen
+polynome
+potzenz
+platz
 input
 int
 immutable
@@ -3685,6 +3690,7 @@ fvSL
 fOU
 fügt
 forwarding
+freilassen
 Str
 Statisch
 Stifdrops
@@ -6335,6 +6341,7 @@ DDf
 Dka
 DTQT
 DLL
+Division
 Bsp
 Boschis
 Bipolartransistor
@@ -7032,6 +7039,7 @@ wojn
 wDZ
 wtAD
 wkk
+wenns
 Lehrer
 Ladig
 Links
@@ -10016,6 +10024,7 @@ nno
 nomollf
 nnuz
 nonmmow
+nennergrad
 FFB
 Feldeffekttransistor
 Feldeffekt
@@ -14556,6 +14565,7 @@ zAH
 zBtWD
 zls
 zxy
+zählergrad
 äußersten
 ändern
 äußeren
