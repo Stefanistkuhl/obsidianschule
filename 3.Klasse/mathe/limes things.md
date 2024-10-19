@@ -17,7 +17,8 @@ tags:
 ```math
 ||{"id":1486908730877}||
 
-\lim_{ x \to -2 } \frac{2x³-8x}{2+x}
+\lim_{ x \to -2 } \frac{2x³-8x}{2+x}=\lim_{ x \to -2 } 2x*(x-2) = -4*
+\frac{2x*(x²-4)}{2+x}=\frac{2x*(x-2)*(x+2)}{2+x}
 ```
 wenn man 2 einsetzt kommt 0 raus
 wenn man einsetzt und eine Zahlrauskommt ist man sofort fertig
