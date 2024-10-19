@@ -1629,6 +1629,7 @@ existieren
 eindeuting
 eindeutiges
 eindeutigen
+einsetzt
 GPIO
 Gleichungne
 Gleichung
@@ -12992,6 +12993,7 @@ ZSkCW
 ZEZpAz
 ZXlh
 ZdO
+Zahlrauskommt
 Quantenobjekt
 Quadratische
 Quadrtische
@@ -13556,6 +13558,7 @@ krjrqq
 kkkkk
 kBb
 kArn
+kommt
 überlappen
 überfluten
 über
@@ -14869,6 +14872,7 @@ rbVM
 riWSs
 ryvz
 routing
+raus
 Um
 Unterschied
 Ube
