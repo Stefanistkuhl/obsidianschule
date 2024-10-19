@@ -47,5 +47,23 @@ wenn die Potzengleich sind dann simply die Zahlen davor teile, dann hat man die 
 ||{"id":1495786735608}||
 
 f(x)=\frac{x²-3x}{x+1}
+y=x-4
 ```
 ![[asymptohte 19-10-2024-16.excalidraw]]
+Polynondivisions Ergebnis ohne Rest
+#### bsp von der smü
+```math
+||{"id":1550813991448}||
+
+f(x)=\frac{x²+1}{2x}
+y=\frac{1}{2}x
+```
+![[asymptohte 19-10-2024-12.excalidraw]]
+### kurving
+```math
+||{"id":711048845187}||
+
+f(x)=(3x³+2x²+x)
+```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>

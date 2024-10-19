@@ -10727,6 +10727,7 @@ Edg
 EYliR
 EJzr
 ERD
+Ergebnis
 Halbleiter
 Hauptsächlich
 Hantelförmig
@@ -11628,6 +11629,7 @@ RoLz
 RQcLDq
 RTo
 RZiG
+Rest
 aufstellen
 aus
 als
@@ -12743,6 +12745,7 @@ PrQ
 PCh
 Primary
 Potzengleich
+Polynondivisions
 Zusammenfassung
 Zustand
 Zener
@@ -13586,6 +13589,7 @@ kBb
 kArn
 kommt
 kleiner
+kurving
 überlappen
 überfluten
 über
