@@ -2667,6 +2667,7 @@ physischen
 polynome
 potzenz
 platz
+polynme
 input
 int
 immutable
@@ -3031,6 +3032,7 @@ ipD
 inter
 ian
 ips
+imer
 output
 oida
 oder
@@ -12026,6 +12028,7 @@ aBC
 attribut
 another
 acceptable
+andersrumist
 Ausbeute
 Atomaufbau
 Arbeiten
