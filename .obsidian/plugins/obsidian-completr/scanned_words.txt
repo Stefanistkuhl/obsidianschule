@@ -1205,6 +1205,7 @@ senkrecht
 senkrechte
 simply
 schief
+summenregel
 elektro
 erklärt
 ein
@@ -2675,6 +2676,7 @@ polynome
 potzenz
 platz
 polynme
+produkt
 input
 int
 immutable
@@ -3700,6 +3702,7 @@ fOU
 fügt
 forwarding
 freilassen
+fallen
 Str
 Statisch
 Stifdrops
@@ -14592,6 +14595,7 @@ zxy
 zählergrad
 zähler
 zettel
+zahlen
 äußersten
 ändern
 äußeren
@@ -14909,6 +14913,7 @@ riWSs
 ryvz
 routing
 raus
+regel
 Um
 Unterschied
 Ube
