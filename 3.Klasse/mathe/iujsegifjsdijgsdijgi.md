@@ -134,8 +134,9 @@ f'(2)=3^{-2}*\ln(3)=1.22
 \ln(3^{-x})+\ln(\ln(3))=\ln(\frac{2}{10})|-\ln(\ln(3))
 \ln(3^{-x})=\ln(\frac{2}{10})-\ln(\ln(3))
 -x*\ln(3)=\ln(\frac{2}{10})-\ln(\ln(3)):\ln (3)
--x=\frac{\ln(\frac{2}{10})-\ln(\ln(3))}{\ln(3)}=
+-x=\frac{\ln(\frac{2}{10})-\ln(\ln(3))}{\ln(3)}=-1.55 |:-1
+x=1.55
+-3*^{-1.55}*\ln(3)=-0.2
+f(1.55)=1+3^{1.55}=6.48
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 \* weil f(x) fallen ist, muss die steigung (f'(x))negtiv sein also einfach ein minus davorschrieben (innsere abletung = -1)
