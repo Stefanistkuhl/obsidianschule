@@ -178,8 +178,6 @@ h(t)=H+v_{0}t-\frac{1}{2}gt²
 H=60
 g=10
 v_{0}=20 \frac{m}{s}
-h(t)=60+
+h(t)=60+20*t -\frac{1}{2}10*t² 
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 
