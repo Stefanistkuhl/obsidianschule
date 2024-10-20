@@ -76,3 +76,39 @@ f:y=\ln \sqrt{ \cos \sqrt{ x }}
 2:A/B
 Ableitung der höhe ist die Geschwindigkeit
 Nullstelle der Ableitung ist der extremwert
+
+5)
+```math
+||{"id":434199070290}||
+
+f(x)=0,5x³-6x+9
+g(x)\sqrt{ 0,5x³-6x+9 }
+f'(x)=1.5x²-6
+g'(x)=\frac{1}{2}*(0.5x³-6x+9)^{-\frac{1}{2}}*(1.5x²-6)=\frac{1.5x²-6}{\frac{1}{2}*\sqrt{ 0.5x³-6x+9 }} 
+0=1.5x²-6|+6
+6=1.5x²|:1.5
+4=x²|\sqrt{  }
+x=\pm_{2}
+g(-2)=\sqrt{ 0.5*-2³-6*-2+9 }=4.1
+g(2)=\sqrt{ 0.5*2³-6*2+9 }=1
+```
+nenner unwichtig weil darf nicht 0 sein, also ist nur der zähler relevant
+nullstellen sind +-2
+überprüfen wichtig bei wurzerl oder im nenner, um zu sehen ob es definiert ist
+6)
+a)
+```math
+||{"id":714362907435}||
+
+f(x)=\frac{1}{2}*e^x
+g(x)=\frac{3x+1}{2}
+f'(x)=g'(x)
+g'(x)=\frac{3}{2}
+f'(x)=\frac{1}{2}*e^x
+\frac{1}{2}*e^x=\frac{3}{2}
+
+```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
+g'(x) = steigung der funktion
+außerdem wenn x¹ → gerade
