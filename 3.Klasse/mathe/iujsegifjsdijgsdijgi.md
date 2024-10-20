@@ -141,8 +141,32 @@ f(1.55)=1+3^{1.55}=6.48
 ```
 \* weil f(x) fallen ist, muss die steigung (f'(x))negtiv sein also einfach ein minus davorschrieben (innsere abletung = -1)
 3.39
+a)
 ```math
 ||{"id":953746299154}||
 
+g=10
 h(t)=125-\frac{1}{2}gt²
+h'(t)=v
+v=-\frac{1}{2}*g*2t
+v=-\frac{1}{2}*10*2t
+v(2)=-\frac{1}{2}*10*2*2=-20 \frac{m}{s}
 ```
+b)
+```math
+||{"id":295005099792}||
+
+\frac{v}{2}=-\frac{10m}{s}
+```
+c)
+```math
+||{"id":441307333964}||
+
+h(0)=125-\frac{1}{2}*10*t²|-125
+-125=-\frac{1}{2}*10*t²=-125=-5*t²|:-5
+\frac{-125}{-5}=t²|\sqrt{  }
+t=
+
+```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
