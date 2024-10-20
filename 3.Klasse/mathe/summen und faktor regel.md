@@ -12,6 +12,12 @@ f(x)=n^n
 f'(X)=n*x^{n-1}
 f(x)=e^x
 f'(x)=e^x
+f(x)=\ln x
+f'(x)=\frac{1}{x}
+f(x)=\log_{10}x
+f'(x)=\frac{1}{x*\ln 10}
+f(x)=a^x
+f'(x)=a^x*\ln a
 ```
 
 ### faktorregel:

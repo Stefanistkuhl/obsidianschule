@@ -31,4 +31,27 @@ y(a)=\sqrt{ 5a²+3b² }= (5a²+3b²)^{\frac{1}{2}}
 y'(a)=\frac{1}{2}*(5a²+3b²)^{-\frac{1}{2}}*(10a+0)=\frac{1}{\sqrt{ 5a²+3b² }}*10a=\frac{10a}{\sqrt{5a^2+3b² }}
 ```
 $x^n=\frac{1}{x^n}$
-$$
+$x^{\frac{m}{n}}=\frac{1}{\sqrt[n]{ x^m }}$
+b)
+cos = g
+omega\*t+phi = f
+```math
+||{"id":569933135149}||
+
+f(t)=A*\sin(\omega*t+\phi)
+f'(t)=A*\cos(\omega*t+\phi)*\omega
+```
+c)
+```math
+||{"id":673667207952}||
+
+f:y=\frac{e^{2x}}{x²-3}
+f=e^{2x}
+g=x²-2
+f'=2*(e^{2x})¹ 
+g'=2x
+\frac{(2*e^{2x})*(x²-2)-2x*e^{2x}}{(x²-2)²}=\frac{e^{2x}}{(x²-2)²}*(2x²-4)
+
+```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>

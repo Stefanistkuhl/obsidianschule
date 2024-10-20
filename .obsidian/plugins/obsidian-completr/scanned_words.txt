@@ -2677,6 +2677,7 @@ potzenz
 platz
 polynme
 produkt
+phi
 input
 int
 immutable
@@ -3042,6 +3043,7 @@ inter
 ian
 ips
 imer
+inneren
 output
 oida
 oder
@@ -3703,6 +3705,8 @@ fügt
 forwarding
 freilassen
 fallen
+faktorregel
+fakorregel
 Str
 Statisch
 Stifdrops
@@ -5574,6 +5578,8 @@ vEDD
 vgo
 vtY
 virtual
+vergessen
+vereinfache
 datetypen
 deppat
 dem
@@ -6738,6 +6744,7 @@ BLU
 BDJ
 Bxx
 Bfp
+Bilde
 wichtig
 was
 wie
@@ -12045,6 +12052,7 @@ attribut
 another
 acceptable
 andersrumist
+abgeleitet
 Ausbeute
 Atomaufbau
 Arbeiten
@@ -13594,6 +13602,7 @@ kArn
 kommt
 kleiner
 kurving
+klammer
 überlappen
 überfluten
 über
@@ -14596,6 +14605,7 @@ zählergrad
 zähler
 zettel
 zahlen
+zeigen
 äußersten
 ändern
 äußeren
