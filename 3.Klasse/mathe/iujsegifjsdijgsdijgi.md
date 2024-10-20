@@ -140,3 +140,9 @@ x=1.55
 f(1.55)=1+3^{1.55}=6.48
 ```
 \* weil f(x) fallen ist, muss die steigung (f'(x))negtiv sein also einfach ein minus davorschrieben (innsere abletung = -1)
+3.39
+```math
+||{"id":953746299154}||
+
+h(t)=125-\frac{1}{2}gt²
+```
