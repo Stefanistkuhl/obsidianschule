@@ -50,8 +50,29 @@ f=e^{2x}
 g=x²-2
 f'=2*(e^{2x})¹ 
 g'=2x
-\frac{(2*e^{2x})*(x²-2)-2x*e^{2x}}{(x²-2)²}=\frac{e^{2x}}{(x²-2)²}*(2x²-4)
+\frac{(2*e^{2x})*(x²-2)-2x*e^{2x}}{(x²-2)²}=\frac{2*e^{2x}}{(x²-2)²}*(x²-2-x)
+```
+d)
+```math
+||{"id":303003162927}||
+
+f:y=x*2^x
+f=x
+g=2^x
+f'=1
+g'=2^x*\ln_{2} 
+f'*g+f*g'
+x*(2^x*\ln_{2})+1*2^x=2^x*(x*\ln_{2}+1)
+```
+f)
+```math
+||{"id":839390844896}||
+
+f:y=\ln \sqrt{ \cos \sqrt{ x }} 
 
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
+4)
+1:D
+2:A/B
+Ableitung der höhe ist die Geschwindigkeit
+Nullstelle der Ableitung ist der extremwert
