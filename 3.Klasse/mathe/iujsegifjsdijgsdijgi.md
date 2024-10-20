@@ -115,3 +115,27 @@ x=\ln(\frac{3}{2})-\ln(\frac{1}{2})=1.09
 ```
 g'(x) = steigung der funktion
 außerdem wenn x¹ → gerade
+x in ableitung einsetzen um zu prüfen, ob die richtige steigung rauskommt
+b)
+```math
+||{"id":693534899887}||
+
+f(x)=1+3^{-x}
+g(x)=\frac{3-2x}{10}
+f'(x)=-3^{-x}*\ln(3)
+g'(x)=-\frac{2}{10}
+f'(x)=g'(x)
+-3^{-x}*\ln(3)=-\frac{2}{10}
+f'(2)=3^{-2}*\ln(3)=1.22
+*
+-3^{-x}*\ln(3)=-\frac{2}{10}|*-1
+3^{-x}*\ln(3)=\frac{2}{10}
+\ln(3^{-x}*\ln(3))=\ln(\frac{2}{10})
+\ln(3^{-x})+\ln(\ln(3))=\ln(\frac{2}{10})|-\ln(\ln(3))
+\ln(3^{-x})=\ln(\frac{2}{10})-\ln(\ln(3))
+-x*\ln(3)=\ln(\frac{2}{10})-\ln(\ln(3)):\ln (3)
+-x=\frac{\ln(\frac{2}{10})-\ln(\ln(3))}{\ln(3)}=
+```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
+\* weil f(x) fallen ist, muss die steigung (f'(x))negtiv sein also einfach ein minus davorschrieben (innsere abletung = -1)
