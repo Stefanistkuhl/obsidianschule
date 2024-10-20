@@ -106,9 +106,12 @@ f'(x)=g'(x)
 g'(x)=\frac{3}{2}
 f'(x)=\frac{1}{2}*e^x
 \frac{1}{2}*e^x=\frac{3}{2}
-
+\ln (\frac{1}{2}*e^x)=\ln(\frac{3}{2})
+\ln (\frac{1}{2})+\ln(e^x)=\ln(\frac{3}{2})|-\ln(\frac{1}{2})
+\ln(e^x)=\ln(\frac{3}{2})-\ln (\frac{1}{2})
+x*\ln(e)=\ln(\frac{3}{2})-\ln (\frac{1}{2})
+x=\ln(\frac{3}{2})-\ln(\frac{1}{2})=1.09 
+\frac{1}{2}*e^{1.09}=1.5
 ```
-
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
 g'(x) = steigung der funktion
 außerdem wenn x¹ → gerade
