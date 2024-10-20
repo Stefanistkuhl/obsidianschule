@@ -9,7 +9,7 @@ tags:
 f(x)=c
 f'(x)=0
 f(x)=n^n
-f'(X)=n*x^{n-1}
+f'(x)=n*x^{n-1}
 f(x)=e^x
 f'(x)=e^x
 f(x)=\ln x

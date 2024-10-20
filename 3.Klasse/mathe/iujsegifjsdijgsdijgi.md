@@ -165,8 +165,21 @@ c)
 h(0)=125-\frac{1}{2}*10*t²|-125
 -125=-\frac{1}{2}*10*t²=-125=-5*t²|:-5
 \frac{-125}{-5}=t²|\sqrt{  }
-t=
+t=5
+v=-5*2*5=-50
+```
+bei c 5 in v einsetzen
 
+3.41
+```math
+||{"id":615466120202}||
+
+h(t)=H+v_{0}t-\frac{1}{2}gt²
+H=60
+g=10
+v_{0}=20 \frac{m}{s}
+h(t)=60+
 ```
 
 <div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
+
