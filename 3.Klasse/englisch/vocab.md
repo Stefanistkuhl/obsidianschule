@@ -45,3 +45,6 @@ tags:
 	- countryside 
 - urban 
 	- city
+- prosperous
+	- rich 
+- 
