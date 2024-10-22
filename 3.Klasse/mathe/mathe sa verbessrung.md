@@ -73,7 +73,16 @@ d=-3
 
 \tan(50°)=1.1
 y'=\tan(50°)
-y=()
+y=(\frac{2}{5})^{-x}=\frac{2^{-x}}{5^{-x}}=\frac{5^x}{2^x}
+y=\frac{5^x*\ln(5)*2^x-5^x*2^x*\ln(2)}{2^{2x}}=\frac{5^x*(\ln(5)-\ln(2))}{2x}
 ```
+6)
+ii)
+Im Betrieb von 120° bis 160° sinken die Betriebstunden um durchschnittlich 750 stunden pro °
+Zusatz)
+```math
+||{"id":1084309668665}||
 
-<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
+\frac{ax²}{-1x²}=-a
+a=-2
+```
