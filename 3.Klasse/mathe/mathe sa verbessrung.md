@@ -43,3 +43,37 @@ c)
 f(x)=\ln(x)*(1-x)
 f'(x)= \frac{1}{x}+ \ln(x)*(-1)= \frac{1}{x}-1 - \ln(x)
 ```
+3)
+Durch die folgenden Gleichungen sind Funktinen gegeben. Bestimme Asymptoten! 
+a)
+```math
+||{"id":1166287290511}||
+
+f(x)=\frac{4x²+2x+1}{2x²}=\frac{4}{2}=2
+y=2
+```
+b)
+```math
+||{"id":576623661791}||
+
+f(x)=\frac{x¹+1}{2x}=y=\frac{x}{2}
+```
+c)
+```math
+||{"id":632239323474}||
+
+k=1
+d=-3
+\alpha=45°
+```
+5)In welche Punkt des Funktionsgraphen y=(2/5)^{-x} ist der Steigungswinkel der Tangente gleich 50°
+
+```math
+||{"id":572032347800}||
+
+\tan(50°)=1.1
+y'=\tan(50°)
+y=()
+```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
