@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "3kl insy"
             }
+          },
+          {
+            "id": "bce27f3d05219b3a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ]
       }
@@ -197,6 +207,7 @@
   },
   "active": "1a2de248f541e68e",
   "lastOpenFiles": [
+    "3.Klasse/insy/3kl insy.md",
     "3.Klasse/deutsch/leser brief übubung thgy suely.md",
     "3.Klasse/deutsch/Leserbief.md",
     "3.Klasse/deutsch/3kl deutsch.md",
@@ -226,7 +237,6 @@
     "3.Klasse/mathe/oida ich weiß auch nd mehr ich hasse alles ReallyMad.md",
     "bilder/asymptohte 19-10-2024-20.excalidraw.md",
     "3.Klasse/mathe/asymptohte.md",
-    "bilder/asymptohte 19-10-2024-50.excalidraw.md",
     "bilder/abgabe",
     "thing/hitless video.md~",
     "3.Klasse/nwt/aufgaben/switch-conf/Fürst-Raichle-Basic-Switch-Configuration.tex~",
