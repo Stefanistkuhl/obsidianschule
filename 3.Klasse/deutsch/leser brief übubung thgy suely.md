@@ -6,5 +6,12 @@ tags:
 ---
 Länge: 300w
 
-argumente:
-zustimmen zu "Kunst sollte zum Nachdenken bringen und "
+Argumente:
+- zustimmen zu "Kunst sollte zum Nachdenken und Reflektieren bringen"
+	- irgendein gutes Beispiel dafür verwenden
+- Künstlerische Freiheit sollte auch ihre Grenzen haben. 
+	- zb Extremismus als bps
+- die moralische Haltung des Künstlers ist trotztem wichtig
+	- wer was sagt is wichtig
+
+Something something Menschen merken sich Geschichten leicht und Kunst erzählt Geschichten und is wichtig für Meinungsbildung und dann Aufklären.
