@@ -11,10 +11,12 @@
             "id": "a0081a13495e458f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Zeichnungen/DR24-10-2024-06.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "DR24-10-2024-06.excalidraw"
             }
           }
         ]
@@ -193,6 +195,7 @@
   },
   "active": "a0081a13495e458f",
   "lastOpenFiles": [
+    "Zeichnungen/DR24-10-2024-06.excalidraw.md",
     "3.Klasse/ggp/aufklärung.md",
     "bilder/Pasted image 20241024142302.png",
     "3.Klasse/ggp/Schwachstellen.md",
@@ -220,7 +223,6 @@
     "3.Klasse/ggp/goofy ass bwl wörter.md",
     "3.Klasse/ggp/Volkswirtschaften.md",
     "3.Klasse/ggp/Seite 54 kompetenz training thingy.md",
-    "3.Klasse/englisch/article zettel thing.md",
     "bilder/Pasted Image 20241021095228_414.png",
     "bilder/Pasted Image 20241021094440_813.png",
     "bilder/Pasted image 20241021094405.png",
