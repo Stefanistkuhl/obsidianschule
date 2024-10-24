@@ -22,3 +22,5 @@ Ideen:
 	- man kann nicht Beweisen welche Relgion recht hat also Religöse Tolereran haben und sich an die Gesetze des Staates haben 
 	- Staat behandelt Büger gleich egal welche Religion 
 [Video](https://youtu.be/F3i6D2bON4A?si=3yYkNx3H6snvnWmC)
+
+![[Pasted image 20241024142302.png]]
