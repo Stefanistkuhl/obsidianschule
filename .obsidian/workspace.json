@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/itsi/3kl itsi.md",
+                "file": "3.Klasse/ggp/Schwachstellen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3kl itsi"
+              "title": "Schwachstellen"
             }
           }
         ]
@@ -197,6 +197,11 @@
   },
   "active": "1a2de248f541e68e",
   "lastOpenFiles": [
+    "3.Klasse/ggp/USA-Demokratie.md",
+    "3.Klasse/ggp/Schwachstellen.md",
+    "3.Klasse/ggp/3kl GGP.md",
+    "3.Klasse/ggp/Nationalfeiertag.md",
+    "3.Klasse/itsi/3kl itsi.md",
     "3.Klasse/itsi/2.2_Linux-Grundlagen.pdf",
     "3.Klasse/itsi/Hashalgorithmen.md",
     "bilder/Hashalgorithmen 24-10-2024-03.excalidraw.md",
@@ -206,7 +211,6 @@
     "3.Klasse/itsi/Symetrische Verschlüsselung.md",
     "bilder/Asymetrische Verschlüsselung 10-10-2024-58.excalidraw.md",
     "3.Klasse/itsi/Asymetrische Verschlüsselung.md",
-    "3.Klasse/itsi/3kl itsi.md",
     "3.Klasse/insy/insy teststoff 1311.md",
     "3.Klasse/insy/3kl insy.md",
     "3.Klasse/deutsch/leser brief übubung thgy suely.md",
@@ -221,9 +225,6 @@
     "3.Klasse/englisch/article zettel thing.md",
     "bilder/article zettel thing 21-10-2024-11.excalidraw.md",
     "bilder/Pasted Image 20241021095228_414.png",
-    "bilder/article zettel thing 21-10-2024-29.excalidraw.md",
-    "Zeichnungen/DR21-10-2024-28.excalidraw.md",
-    "Zeichnungen/DR21-10-2024-51.excalidraw.md",
     "bilder/Pasted Image 20241021094440_813.png",
     "bilder/Pasted image 20241021094405.png",
     "bilder/Pasted image 20241021094358.png",
@@ -242,7 +243,6 @@
     "3.Klasse/itsi/aufgaben/aufgabe1/lualatex13331.fls",
     "3.Klasse/itsi/aufgaben/aufgabe1/lualatex13280.fls",
     "3.Klasse/itsi/aufgaben/aufgabe1/lualatex13108.fls",
-    "3.Klasse/itsi/aufgaben/aufgabe1/lualatex13097.fls",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
     "Zeichnungen/Untitled.canvas"
   ]
