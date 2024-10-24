@@ -11,12 +11,14 @@
             "id": "1a2de248f541e68e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "bilder/Asymetrische Verschlüsselung 10-10-2024-58.excalidraw.md"
+                "file": "3.Klasse/itsi/Hashalgorithmen.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Asymetrische Verschlüsselung 10-10-2024-58.excalidraw"
+              "icon": "lucide-file",
+              "title": "Hashalgorithmen"
             }
           }
         ]
@@ -195,8 +197,14 @@
   },
   "active": "1a2de248f541e68e",
   "lastOpenFiles": [
-    "3.Klasse/itsi/Asymetrische Verschlüsselung.md",
+    "bilder/Hashalgorithmen 24-10-2024-03.excalidraw.md",
+    "3.Klasse/itsi/Hashalgorithmen.md",
+    "Untitled.md",
     "3.Klasse/itsi/Kryptografie.md",
+    "3.Klasse/itsi/AES.md",
+    "3.Klasse/itsi/Symetrische Verschlüsselung.md",
+    "bilder/Asymetrische Verschlüsselung 10-10-2024-58.excalidraw.md",
+    "3.Klasse/itsi/Asymetrische Verschlüsselung.md",
     "3.Klasse/itsi/3kl itsi.md",
     "3.Klasse/insy/insy teststoff 1311.md",
     "3.Klasse/insy/3kl insy.md",
@@ -219,12 +227,6 @@
     "bilder/Pasted image 20241021094405.png",
     "bilder/Pasted image 20241021094358.png",
     "3.Klasse/englisch/article.md",
-    "3.Klasse/englisch/3kl eng.md",
-    "3.Klasse/englisch/vocab.md",
-    "3.Klasse/mathe/Stefan Fürst Mathe hü 2.md",
-    "3.Klasse/mathe/Produkt und kettegel.md",
-    "3.Klasse/mathe/iujsegifjsdijgsdijgi.md",
-    "3.Klasse/mathe/summen und faktor regel.md",
     "bilder/abgabe",
     "thing/hitless video.md~",
     "3.Klasse/nwt/aufgaben/switch-conf/Fürst-Raichle-Basic-Switch-Configuration.tex~",
