@@ -8,3 +8,4 @@ tags:
 ![[aktuelle itsi aufgabe]]
 ![[Daten]]
 ![[Kryptografie]]
+[[2.2_Linux-Grundlagen.pdf]]
