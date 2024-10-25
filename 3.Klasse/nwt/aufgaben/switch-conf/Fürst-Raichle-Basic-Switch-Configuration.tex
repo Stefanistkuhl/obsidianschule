@@ -257,7 +257,7 @@ To specify which ports a host can connect to.
 https://discord.com/channels/@me/1052223143202279517/1296753070125879369
 \newpage
 
-\subsubsectio{ssh}
+\subsubsection{ssh}
 Switch benötigt domain name da keys unter hostname.domain abgespeichert werden und eine hostnamen
 - `ip domain-name htl-donaustadt.at
 - `crypto key gen rsa
@@ -278,9 +278,224 @@ Switch benötigt domain name da keys unter hostname.domain abgespeichert werden 
 	- `do wr
 		- copy run start in besser
 
+\subsubsection{aufräumen}
 
+en
+show flash
+delete vlan.dat
+enter drücken
+erase startup-config
+reload
+no
 \section{Vollständige Konfigurationsdateien}
 
+Current configuration : 3608 bytes
+!
+version 12.2
+no service pad
+service timestamps debug datetime msec
+service timestamps log datetime msec
+service password-encryption
+!
+hostname S1
+!
+boot-start-marker
+boot-end-marker
+!
+enable secret 5 $1$WG/H$ILJURiwvDuU5JlSgXmVwY/
+!
+username name secret 5 $1$RrXg$grWbyFauxAuHdmwpC69tK.
+!
+!
+no aaa new-model
+system mtu routing 1500
+no ip domain-lookup
+ip domain-name htl-donaustadt.at
+!
+!
+!
+!
+crypto pki trustpoint TP-self-signed-662526720
+ enrollment selfsigned
+ subject-name cn=IOS-Self-Signed-Certificate-662526720
+ revocation-check none
+ rsakeypair TP-self-signed-662526720
+!
+!
+crypto pki certificate chain TP-self-signed-662526720
+ certificate self-signed 01
+  30820239 308201A2 A0030201 02020101 300D0609 2A864886 F70D0101 04050030
+  30312E30 2C060355 04031325 494F532D 53656C66 2D536967 6E65642D 43657274
+  69666963 6174652D 36363235 32363732 30301E17 0D393330 33303130 30303130
+  345A170D 32303031 30313030 30303030 5A303031 2E302C06 03550403 1325494F
+  532D5365 6C662D53 69676E65 642D4365 72746966 69636174 652D3636 32353236
+  37323030 819F300D 06092A86 4886F70D 01010105 0003818D 00308189 02818100
+  E8CE9436 BED8F37A A6DCE351 5227D20F B07A6BC0 FA0445B9 CEDC0064 57A2B496
+  39161F3F D82FAB21 BA4D34D7 4DB51AAF 0A42E5C1 93AC51A4 B61D11F8 9CC33A19
+  51920ADB 3266102A 8A5745DA 06ABA47C FECC8C07 AF90612C 412CB8E3 F26E329C
+  CC17F9E2 81D47732 B02C8AC9 33C82388 87D3E4DF 2E86B505 E4170470 021733ED
+
+S1#sh run
+Building configuration...
+
+Current configuration : 3608 bytes
+!
+version 12.2
+no service pad
+service timestamps debug datetime msec
+service timestamps log datetime msec
+service password-encryption
+!
+hostname S1
+!
+boot-start-marker
+boot-end-marker
+!
+enable secret 5 $1$WG/H$ILJURiwvDuU5JlSgXmVwY/
+!
+username name secret 5 $1$RrXg$grWbyFauxAuHdmwpC69tK.
+!
+!
+no aaa new-model
+system mtu routing 1500
+no ip domain-lookup
+ip domain-name htl-donaustadt.at
+!
+!
+!
+!
+crypto pki trustpoint TP-self-signed-662526720
+ enrollment selfsigned
+ subject-name cn=IOS-Self-Signed-Certificate-662526720
+ revocation-check none
+ rsakeypair TP-self-signed-662526720
+!
+!
+crypto pki certificate chain TP-self-signed-662526720
+ certificate self-signed 01
+  30820239 308201A2 A0030201 02020101 300D0609 2A864886 F70D0101 04050030
+  30312E30 2C060355 04031325 494F532D 53656C66 2D536967 6E65642D 43657274
+  69666963 6174652D 36363235 32363732 30301E17 0D393330 33303130 30303130
+  345A170D 32303031 30313030 30303030 5A303031 2E302C06 03550403 1325494F
+  532D5365 6C662D53 69676E65 642D4365 72746966 69636174 652D3636 32353236
+  37323030 819F300D 06092A86 4886F70D 01010105 0003818D 00308189 02818100
+  E8CE9436 BED8F37A A6DCE351 5227D20F B07A6BC0 FA0445B9 CEDC0064 57A2B496
+  39161F3F D82FAB21 BA4D34D7 4DB51AAF 0A42E5C1 93AC51A4 B61D11F8 9CC33A19
+  51920ADB 3266102A 8A5745DA 06ABA47C FECC8C07 AF90612C 412CB8E3 F26E329C
+  CC17F9E2 81D47732 B02C8AC9 33C82388 87D3E4DF 2E86B505 E4170470 021733ED
+  02030100 01A36330 61300F06 03551D13 0101FF04 05300301 01FF300E 0603551D
+  11040730 05820353 312E301F 0603551D 23041830 16801460 47280E51 C2029C61
+  DF3F8BB8 D9255894 39459730 1D060355 1D0E0416 04146047 280E51C2 029C61DF
+  3F8BB8D9 25589439 4597300D 06092A86 4886F70D 01010405 00038181 00C0E85C
+  A8F3A3E8 D613AA85 A036A6F4 3A1DD66B F05114A6 D03A2A06 620A9D2D 460E0F53
+  B94F1B4F DE21ECDD BBD7C1D1 1A3C17B9 BAE76D91 C08AF26C FEBBBF0A 05A2653F
+  596632F5 38D8C1C6 0C5A58F3 C90C797E 99E9E3AC 48AA92A4 F2F59711 6987BBA3
+  A761D3BA AE41B89F 6933C814 87608BAD C087AB4C E681B888 73A5BE20 6E
+  quit
+!
+!
+!
+spanning-tree mode pvst
+spanning-tree extend system-id
+!
+vlan internal allocation policy ascending
+!
+!
+!
+!
+interface FastEthernet0/1
+ switchport access vlan 99
+!
+interface FastEthernet0/2
+ switchport access vlan 99
+!
+interface FastEthernet0/3
+ switchport access vlan 99
+!
+interface FastEthernet0/4
+ switchport access vlan 99
+!
+interface FastEthernet0/5
+ switchport access vlan 99
+!
+interface FastEthernet0/6
+ switchport access vlan 99
+!
+interface FastEthernet0/7
+ switchport access vlan 99
+!
+interface FastEthernet0/8
+ switchport access vlan 99
+!
+interface FastEthernet0/9
+ switchport access vlan 99
+!
+interface FastEthernet0/10
+ switchport access vlan 99
+!
+interface FastEthernet0/11
+ switchport access vlan 99
+!
+interface FastEthernet0/12
+ switchport access vlan 99
+!
+interface FastEthernet0/13
+ switchport access vlan 99
+!
+interface FastEthernet0/14
+ switchport access vlan 99
+!
+interface FastEthernet0/15
+ switchport access vlan 99
+!
+interface FastEthernet0/16
+ switchport access vlan 99
+!
+interface FastEthernet0/17
+ switchport access vlan 99
+!
+interface FastEthernet0/18
+ switchport access vlan 99
+!
+interface FastEthernet0/19
+!
+interface FastEthernet0/20
+!
+interface FastEthernet0/21
+!
+interface FastEthernet0/22
+!
+interface FastEthernet0/23
+!
+interface FastEthernet0/24
+!
+interface GigabitEthernet0/1
+!
+interface GigabitEthernet0/2
+!
+interface Vlan1
+ no ip address
+ shutdown
+!
+interface Vlan99
+ ip address 10.0.0.69 255.255.255.0
+!
+ip classless
+ip http server
+ip http secure-server
+!
+!
+!
+!
+!
+line con 0
+line vty 0 4
+ login local
+ transport input ssh
+line vty 5 15
+ login
+!
+end
 \newpage
 
 \section{Quellen}
