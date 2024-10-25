@@ -66,11 +66,13 @@ The new and improved strats were the following:
 - Firegiant
   - 
 - Godskin Dou
-  - Since the ls gs doesnt do strike damage like balls, onecyceling them is really easy and and the only thing you need to pay attention for is to hit noble in a way where you dont get the stealth bonus (show img) or do <insert brian strat here>. Addiotnally if you use rtsr it do not level your str to more thann 62.
+  - Since the ls gs doesnt do strike damage like balls, onecyceling them is really easy and and the only thing you need to pay attention for is to hit noble in a way where you dont get the stealth bonus (show img) or do <insert brian strat here>. Addiotnally if you use rtsr it do not level your str to more than 62. Record epic clip of it.
 - Gideon
   - Stays the same as with Iron balls just 3 cr2s
 - Horrah loux
-  - 
+  - You cant script this boss, but instead you can script a stun at the start of phase 2 so you cana skip that.
+  - To do this you need to strafe the first opener and cr2 it, then you only punish with r1s and stay on his right or left side so he doenst do his phase 1.5 transition. 
+  - After he stuns you dont riposte and stay infront of him and wait until he starts his phase 1.5 transition and do one cr2 and one r2.
 - radabeast
   -
 #### explaing the final route
