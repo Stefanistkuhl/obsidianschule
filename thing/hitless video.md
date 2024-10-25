@@ -56,10 +56,10 @@ Until the 15.7 where i randoomly where i said this at 1am (either make a ss of t
 As it stands now the current route is any% but keep the iron balls +0 for morgott. The question now was what weapon to use for margit, godrick and radahn, since i just planed to +0 goldfrey with balls awell, which is a horrible idea because this area is the laggiest thing ever and you get your inputs eaten left and right. Through some asking and testing i figured out how to deal with margit, godrick and Radahn with the Lorsworn Greatsword. 
 
 Doing +0 Morgott wasnt enough so i decided to buy the battle axe at Rounddtable to use it for Maliketh.
-Because i do two kills at +0 no aux i decided to get rtsr, for which i made [this](https://youtube.com/clip/UgkxiUe4_ZtuptiUHa_1Sag3l8Vj40BcxMRn) neat strat to grab blood slash so setting it up doenst take an eternity.
+Because i do two kills at +0 no aux i decided to get rtsr, for which i made [this](https://youtube.com/clip/UgkxiUe4_ZtuptiUHa_1Sag3l8Vj40BcxMRn) neat strat to grab blood slash so setting it up with assasins gambit doenst take an eternity.
 
-Now since i had the brilliant idea to upgrade the balls after morgott because i didnt even think of testing the rest of the bosses with the ls gs, so i just grabbed grabbed the smithing bellbearing 1, which ended in a total disaster, where i failed to figure out that i justd need to cr2 twice with balls and crabblade to always break the crystalions stance. I even tried using Rogiers Rapier for a stance break which i tested on a live run and ended in this disaster: [crystalion boneout](https://www.youtube.com/clip/Ugkxbub1ayZT22DFeFd0OrjHw9yC9T5V3qRx)
-This 
+Now since i had the brilliant idea to upgrade the balls after morgott because i didnt even think of testing the rest of the bosses with the ls gs, so i just grabbed grabbed the smithing stone bellbearing 1, which ended in a total disaster, where i failed to figure out that i justd need to cr2 twice with balls and crabblade to always break the crystalions stance. I even found a crystalion backstap loop and tried using Rogiers Rapier for a stance break which i randoomly tested on a live run and ended in this disaster: [crystalion boneout](https://www.youtube.com/clip/Ugkxbub1ayZT22DFeFd0OrjHw9yC9T5V3qRx)
+The entierty of the crystal cave fiasko brought many stupid hits with it the dumbest of them beeing hit by a rune bear under the acamdey gate, which i didnt know existed before.
 
 #### explaing the final route
 
