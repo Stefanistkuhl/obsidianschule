@@ -4,6 +4,15 @@ aliases: []
 tags: []
 ---
 
+Structure of the video:
+- intro & explain hitless
+- inspiration
+- getting started on it how rak% evolved and explaning the final version
+- documenting the journey of getting it and lessons learned etc
+- why its peak
+- simply practise and win
+- offering a good getting starting guide for what ressourches are good etc for ppl who want to try it 
+
 ### Intro:
 
 I am bad at Elden Ring.
@@ -11,9 +20,7 @@ I am bad at Elden Ring.
 (insert stupid deaths here)
 
 So naturally I did what any normal person would do, which is doing a hitless run. Surely doing this was a good idea and didn't end in a complete disaster. 
-
 (play epic intro)
-
 ### hitless rule thingy part
 
 A hitless run is beating the game without getting hit but here are the the rules which you can find on the teamhitless website:
@@ -52,9 +59,18 @@ Doing +0 Morgott wasnt enough so i decided to buy the battle axe at Rounddtable 
 Because i do two kills at +0 no aux i decided to get rtsr, for which i made [this](https://youtube.com/clip/UgkxiUe4_ZtuptiUHa_1Sag3l8Vj40BcxMRn) neat strat to grab blood slash so setting it up doenst take an eternity.
 
 Now since i had the brilliant idea to upgrade the balls after morgott because i didnt even think of testing the rest of the bosses with the ls gs, so i just grabbed grabbed the smithing bellbearing 1, which ended in a total disaster, where i failed to figure out that i justd need to cr2 twice with balls and crabblade to always break the crystalions stance. I even tried using Rogiers Rapier for a stance break which i tested on a live run and ended in this disaster: [crystalion boneout](https://www.youtube.com/clip/Ugkxbub1ayZT22DFeFd0OrjHw9yC9T5V3qRx)
+This 
 
+#### explaing the final route
 
-### more at the end but idk heading herere anyway 
+### documenting the journey 
+
+### why its peak
+
+### simply practise and win
+
+### offering info and a starting point
 
 So you want to try doing hitless after this yourself? 
 (offer some getting started point advice etc and link to useful shit)
+
