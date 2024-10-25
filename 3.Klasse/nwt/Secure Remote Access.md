@@ -20,5 +20,5 @@ Switch benötigt domain name da keys unter hostname.domain abgespeichert werden 
 	- `login local
 	- `transport input ssh
 		- ssh einschalten
-	- `do w
+	- `do wr
 		- copy run start in besser
