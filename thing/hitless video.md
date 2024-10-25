@@ -62,9 +62,11 @@ Because i do two kills at +0 no aux i decided to get rtsr, for which i made [thi
 Now since i had the brilliant idea to upgrade the balls after morgott because i didnt even think of testing the rest of the bosses with the ls gs, so i just grabbed grabbed the smithing stone bellbearing 1, which ended in a total disaster, where i failed to figure out that i justd need to cr2 twice with balls and crabblade to always break the crystalions stance. I even found a crystalion backstap loop and tried using Rogiers Rapier for a stance break which i randoomly tested on a live run and ended in this disaster: [crystalion boneout](https://www.youtube.com/clip/Ugkxbub1ayZT22DFeFd0OrjHw9yC9T5V3qRx)
 The entierty of the crystal cave fiasko brought many stupid hits with it the dumbest of them beeing hit by a rune bear under the acamdey gate, which i didnt know existed before. This definitly didnt become a meme in any way shape or form. (insert a screenshot of the foreshadowing definition) [bear witness](https://clips.twitch.tv/PuzzledArtsyTapir4Head-hkQCleieXHyt0rPH) 
 After sticking for way too long with 2 upgrading weapons i finally switched to only using the lordsworn greatsword as my main weapon and after figuring out scripts for all of the remaining bosses, the route was way more efficient and about 15 minutes shorter.
+#### explaing the final route
 The new and improved strats were the following:
 - Firegiant
-  - 
+  - This boss actually broke me.
+  - Somehow i am really bad at aiming my weapon to hit his weak spots (make pretty image showing them from all angles)
 - Godskin Dou
   - Since the ls gs doesnt do strike damage like balls, onecyceling them is really easy and and the only thing you need to pay attention for is to hit noble in a way where you dont get the stealth bonus (show img) or do <insert brian strat here>. Addiotnally if you use rtsr it do not level your str to more than 62. Record epic clip of it. [gdou](https://youtube.com/clip/Ugkx9Su8dPFsaIv8jzEl-uEwKOP-WOI5iB_w?si=e5g7MGQ9zpUv9rw5)
 - Gideon
@@ -78,7 +80,7 @@ The new and improved strats were the following:
 - radabeast
   - You cant fully script radagon with this weapon like you can balls/starfist, so naturally i decided to kill radagon with +0 balls in the run.
   - if you use cragblade, golden vow and flame grant me strength you obliterate radagon with pure damage even on +0 and he only does a few unscripted attacks
-#### explaing the final route
+  - After killing radagon you have enough time to switch to the ls gs and cast cragblade and flame grant me strengh which is enough to fully script elden beast.
 
 ### documenting the journey 
 
