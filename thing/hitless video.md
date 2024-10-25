@@ -12,6 +12,7 @@ Structure of the video:
 - why its peak
 - simply practise and win
 - offering a good getting starting guide for what ressourches are good etc for ppl who want to try it 
+- mention that the adacamy runebear at the end is mandatory
 
 ### Intro:
 
@@ -59,7 +60,7 @@ Doing +0 Morgott wasnt enough so i decided to buy the battle axe at Rounddtable 
 Because i do two kills at +0 no aux i decided to get rtsr, for which i made [this](https://youtube.com/clip/UgkxiUe4_ZtuptiUHa_1Sag3l8Vj40BcxMRn) neat strat to grab blood slash so setting it up with assasins gambit doenst take an eternity.
 
 Now since i had the brilliant idea to upgrade the balls after morgott because i didnt even think of testing the rest of the bosses with the ls gs, so i just grabbed grabbed the smithing stone bellbearing 1, which ended in a total disaster, where i failed to figure out that i justd need to cr2 twice with balls and crabblade to always break the crystalions stance. I even found a crystalion backstap loop and tried using Rogiers Rapier for a stance break which i randoomly tested on a live run and ended in this disaster: [crystalion boneout](https://www.youtube.com/clip/Ugkxbub1ayZT22DFeFd0OrjHw9yC9T5V3qRx)
-The entierty of the crystal cave fiasko brought many stupid hits with it the dumbest of them beeing hit by a rune bear under the acamdey gate, which i didnt know existed before.
+The entierty of the crystal cave fiasko brought many stupid hits with it the dumbest of them beeing hit by a rune bear under the acamdey gate, which i didnt know existed before. This definitly didnt become a meme in any way shape or form. (insert a screenshot of the foreshadowing definition) [bear witness](https://clips.twitch.tv/PuzzledArtsyTapir4Head-hkQCleieXHyt0rPH) 
 
 #### explaing the final route
 
