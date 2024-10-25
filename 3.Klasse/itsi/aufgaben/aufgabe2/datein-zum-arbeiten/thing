@@ -1,0 +1,13 @@
+docker build -t itsi .
+docker run -d --name itsi itsi:latest
+docker exec -it itsi /bin/bash
+
+sitzung mit exit oder C-d beenden
+ja nur die des nutzer kann man wiederholen nutzer haben eigene history
+
+https://linuxize.com/post/linux-chown-command/
+https://linuxize.com/post/chmod-command-in-linux/
+
+https://linuxize.com/post/linux-chown-command/
+https://linuxize.com/post/chmod-command-in-linux/
+
