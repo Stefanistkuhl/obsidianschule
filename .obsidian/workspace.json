@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Layer 3 swtich using switched virtual Interfaces (SVIs)"
             }
-          },
-          {
-            "id": "3831e19927fc6e32",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/Layer 3 swtich using switched virtual Interfaces (SVIs) 25-10-2024-16.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Layer 3 swtich using switched virtual Interfaces (SVIs) 25-10-2024-16.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,10 +195,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3831e19927fc6e32",
+  "active": "a0081a13495e458f",
   "lastOpenFiles": [
-    "3.Klasse/nwt/Layer 3 swtich using switched virtual Interfaces (SVIs).md",
     "bilder/Layer 3 swtich using switched virtual Interfaces (SVIs) 25-10-2024-16.excalidraw.md",
+    "3.Klasse/nwt/Layer 3 swtich using switched virtual Interfaces (SVIs).md",
     "3.Klasse/nwt/what is inter vlan routung.md",
     "3.Klasse/nwt/Router-on-a-Stick.md",
     "3.Klasse/nwt/inter-VLAN-Routing.md",
