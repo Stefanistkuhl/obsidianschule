@@ -57,7 +57,7 @@ Until the 15.7 where i randoomly where i said this at 1am (either make a ss of t
 As it stands now the current route is any% but keep the iron balls +0 for morgott. The question now was what weapon to use for margit, godrick and radahn, since i just planed to +0 goldfrey with balls awell, which is a horrible idea because this area is the laggiest thing ever and you get your inputs eaten left and right. Through some asking and testing i figured out how to deal with margit, godrick and Radahn with the Lorsworn Greatsword. 
 
 Doing +0 Morgott wasnt enough so i decided to buy the battle axe at Rounddtable to use it for Maliketh.
-Because i do two kills at +0 no aux i decided to get rtsr, for which i made [this](https://youtube.com/clip/UgkxiUe4_ZtuptiUHa_1Sag3l8Vj40BcxMRn) neat strat to grab blood slash so setting it up with assasins gambit doenst take an eternity.
+Because i do two kills at +0 no aux i decided to get rtsr, for which i made [this](https://youtube.com/clip/UgkxiUe4_ZtuptiUHa_1Sag3l8Vj40BcxMRn) neat strat to grab blood slash so setting it up with assasins gambit doenst take an eternity. (add explantion to strat)
 
 Now since i had the brilliant idea to upgrade the balls after morgott because i didnt even think of testing the rest of the bosses with the ls gs, so i just grabbed grabbed the smithing stone bellbearing 1, which ended in a total disaster, where i failed to figure out that i justd need to cr2 twice with balls and crabblade to always break the crystalions stance. I even found a crystalion backstap loop and tried using Rogiers Rapier for a stance break which i randoomly tested on a live run and ended in this disaster: [crystalion boneout](https://www.youtube.com/clip/Ugkxbub1ayZT22DFeFd0OrjHw9yC9T5V3qRx)
 The entierty of the crystal cave fiasko brought many stupid hits with it the dumbest of them beeing hit by a rune bear under the acamdey gate, which i didnt know existed before. This definitly didnt become a meme in any way shape or form. (insert a screenshot of the foreshadowing definition) [bear witness](https://clips.twitch.tv/PuzzledArtsyTapir4Head-hkQCleieXHyt0rPH) 
@@ -67,6 +67,23 @@ The new and improved strats were the following:
 - Firegiant
   - This boss actually broke me.
   - Somehow i am really bad at aiming my weapon to hit his weak spots (make pretty image showing them from all angles)
+  - Additionally i struggled with keeing track of where his foot ends up after breaking the ankle.
+  - To midigate this there is a strat(idk who made the strat i need figure this out so its accurate or just say strat in general) [thing](https://discord.com/channels/493839512892342292/905828840578895922/1277589392956981369).
+  - You buff at this tree to always bait his running slam. 
+    - there are 3 options which he can do in this position. (make a clip for each)
+    - the options are
+      - avalance into running slam (most common)
+        - roll avalance and horse in (clip to demonstrate and explain better)
+      - avalance into nothing (rare)
+        - roll and run back on horse to bait it
+      - nothing into running slam (rare)
+        - run forward on foot under it
+  - after this you want to postion yourself arround here (insert epic image) and cr2 to break his ankle
+  - walk to the leg and cr2 twice from behind to hit the weakspot 
+  - jump r2 him to stagger him out of the roll that he wil always do.
+  - throw 2 sleep pots rebuff fmgs drink your blue flask and position yourself under his hair, aim slightly forward left (insert another epic image) and cr2 twice. 
+  - This will bring him to p2 where you rebuff golden vow at the start and then run to this bush (another epic image) and cr2 his hand twice which will stun him. However the fire pillars which he spawns are rng and it can hit you be warry of that (note: test and figoure at a way to make it safer) (insert clip of me dying to it)
+  - 
 - Godskin Dou
   - Since the ls gs doesnt do strike damage like balls, onecyceling them is really easy and and the only thing you need to pay attention for is to hit noble in a way where you dont get the stealth bonus (show img) or do <insert brian strat here>. Addiotnally if you use rtsr it do not level your str to more than 62. Record epic clip of it. [gdou](https://youtube.com/clip/Ugkx9Su8dPFsaIv8jzEl-uEwKOP-WOI5iB_w?si=e5g7MGQ9zpUv9rw5)
 - Gideon
