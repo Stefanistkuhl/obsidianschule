@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/nwt/Router-on-a-Stick.md",
+                "file": "3.Klasse/nwt/Layer 3 swtich using switched virtual Interfaces (SVIs).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Router-on-a-Stick"
+              "title": "Layer 3 swtich using switched virtual Interfaces (SVIs)"
+            }
+          },
+          {
+            "id": "3831e19927fc6e32",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/Layer 3 swtich using switched virtual Interfaces (SVIs) 25-10-2024-16.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Layer 3 swtich using switched virtual Interfaces (SVIs) 25-10-2024-16.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,9 +208,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a0081a13495e458f",
+  "active": "3831e19927fc6e32",
   "lastOpenFiles": [
+    "3.Klasse/nwt/Layer 3 swtich using switched virtual Interfaces (SVIs).md",
+    "bilder/Layer 3 swtich using switched virtual Interfaces (SVIs) 25-10-2024-16.excalidraw.md",
     "3.Klasse/nwt/what is inter vlan routung.md",
+    "3.Klasse/nwt/Router-on-a-Stick.md",
     "3.Klasse/nwt/inter-VLAN-Routing.md",
     "3.Klasse/nwt/Secure Remote Access.md",
     "3.Klasse/nwt/aufgaben/switch-conf/Fürst-Raichle-Basic-Switch-Configuration.tex~",
@@ -223,9 +239,6 @@
     "3.Klasse/deutsch/leser brief übubung thgy suely.md",
     "3.Klasse/deutsch/Leserbief.md",
     "3.Klasse/deutsch/3kl deutsch.md",
-    "3.Klasse/deutsch/Lerserbrief offenes lernen thing.md",
-    "3.Klasse/mathe/mathe sa verbessrung.md",
-    "3.Klasse/mathe/Sa lernen yfear.md",
     "bilder/Pasted Image 20241021095228_414.png",
     "bilder/Pasted Image 20241021094440_813.png",
     "bilder/Pasted image 20241021094405.png",
