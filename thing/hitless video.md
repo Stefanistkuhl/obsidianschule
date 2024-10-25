@@ -82,8 +82,8 @@ The new and improved strats were the following:
   - walk to the leg and cr2 twice from behind to hit the weakspot 
   - jump r2 him to stagger him out of the roll that he wil always do.
   - throw 2 sleep pots rebuff fmgs drink your blue flask and position yourself under his hair, aim slightly forward left (insert another epic image) and cr2 twice. 
-  - This will bring him to p2 where you rebuff golden vow at the start and then run to this bush (another epic image) and cr2 his hand twice which will stun him. However the fire pillars which he spawns are rng and it can hit you be warry of that (note: test and figoure at a way to make it safer) (insert clip of me dying to it)
-  - 
+  - This will bring him to p2 where you rebuff golden vow at the start and then run to this bush (another epic image) and cr2 his hand twice which will stun him. However the fire pillars which he spawns are rng and it can hit you be warry of that (note: test and figoure at a way to make it safer) (insert clip of me dying to it [fg pillars](https://www.youtube.com/clip/UgkxtTQnCmQa5-H-k2Q0lkP2qtnomKjn2otp)) 
+  - throw 2 sleep pots at his eye or head it doenst matter and sprint to his left hand to do 3 crs and one r2 to stun him, run to the hand and finish him off with a cr2
 - Godskin Dou
   - Since the ls gs doesnt do strike damage like balls, onecyceling them is really easy and and the only thing you need to pay attention for is to hit noble in a way where you dont get the stealth bonus (show img) or do <insert brian strat here>. Addiotnally if you use rtsr it do not level your str to more than 62. Record epic clip of it. [gdou](https://youtube.com/clip/Ugkx9Su8dPFsaIv8jzEl-uEwKOP-WOI5iB_w?si=e5g7MGQ9zpUv9rw5)
 - Gideon

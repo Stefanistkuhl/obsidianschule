@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "52522827ee0affd2",
+        "id": "c91388da9aa8ff2b",
         "type": "tabs",
         "children": [
           {
-            "id": "b3139646faacdc26",
+            "id": "857619b08768bd5d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -191,10 +191,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b3139646faacdc26",
+  "active": "857619b08768bd5d",
   "lastOpenFiles": [
-    "thing/hitless video.md~",
     "thing/hitless video.md",
+    "thing/hitless video.md~",
     "3.Klasse/nwt/Layer 3 swtich using switched virtual Interfaces (SVIs).md",
     "thing/1729864763-XXPD.md",
     "bilder/Layer 3 swtich using switched virtual Interfaces (SVIs) 25-10-2024-16.excalidraw.md",
