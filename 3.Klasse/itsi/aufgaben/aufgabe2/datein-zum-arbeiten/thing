@@ -2,6 +2,10 @@ docker build -t itsi .
 docker run -d --name itsi itsi:latest
 docker exec -it itsi /bin/bash
 
+source alias.sh
+
+--network host damit nicht isoliert ist
+
 sitzung mit exit oder C-d beenden
 ja nur die des nutzer kann man wiederholen nutzer haben eigene history
 
@@ -11,3 +15,14 @@ https://linuxize.com/post/chmod-command-in-linux/
 https://linuxize.com/post/linux-chown-command/
 https://linuxize.com/post/chmod-command-in-linux/
 
+https://www.ssh.com/academy/ssh/keygen
+https://youtu.be/ZhMw53Ud2tY?si=yvjZgVpOt_HLYvlF&t=431
+https://stackoverflow.com/questions/25135897/how-to-automatically-start-a-service-when-running-a-docker-container
+ssh-keygen -b 4096 auf host
+~/.ssh/
+key zu server kopieren
+https://cheat.sh/ssh-copy-id
+ssh-copy-id -p 38452 root@localhost
+wenn mit nem erstellen nutzer anmelden will gehts nicht weil er kein passwort hat
+
+vim /etc/ssh/sshd_config

@@ -1,0 +1,15 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces Grouplogo}}{1}{}%
+\contentsline {figure}{\numberline {2}{\ignorespaces ping to the internet}}{5}{}%
+\contentsline {figure}{\numberline {3}{\ignorespaces ping to the localnetwork}}{5}{}%
+\contentsline {figure}{\numberline {4}{\ignorespaces docker inspect}}{6}{}%
+\contentsline {figure}{\numberline {5}{\ignorespaces ip a | grep docker0}}{6}{}%
+\contentsline {figure}{\numberline {6}{\ignorespaces logging in as berta and chris}}{7}{}%
+\contentsline {figure}{\numberline {7}{\ignorespaces testing the permissions}}{8}{}%
+\contentsline {figure}{\numberline {8}{\ignorespaces finding the port with netstat}}{9}{}%
+\contentsline {figure}{\numberline {9}{\ignorespaces connection refused}}{10}{}%
+\contentsline {figure}{\numberline {10}{\ignorespaces logging without a password}}{10}{}%
+\contentsline {figure}{\numberline {11}{\ignorespaces working login}}{10}{}%
+\contentsline {figure}{\numberline {12}{\ignorespaces keys in the directory}}{11}{}%
+\contentsline {figure}{\numberline {13}{\ignorespaces ssh-copy-id}}{11}{}%
+\contentsline {figure}{\numberline {14}{\ignorespaces logging with a key}}{11}{}%
+\contentsline {figure}{\numberline {15}{\ignorespaces not having a key}}{12}{}%

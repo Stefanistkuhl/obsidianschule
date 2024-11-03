@@ -1,0 +1,68 @@
+\begin{thebibliography}{10}
+
+\bibitem{Docker-bridge}
+{"Bridge network driver"}, September 2024.
+\newblock [Online; accessed 1. Nov. 2024].
+
+\bibitem{chgrp}
+{cheat.sh/chgrp}, November 2024.
+\newblock [Online; accessed 3. Nov. 2024].
+
+\bibitem{tail}
+{cheat.sh/tail}, November 2024.
+\newblock [Online; accessed 1. Nov. 2024].
+
+\bibitem{docker-glossary}
+{"Glossary"}, August 2024.
+\newblock [Online; accessed 1. Nov. 2024].
+
+\bibitem{ubuntu}
+{ubuntu - Official Image}, November 2024.
+\newblock [Online; accessed 1. Nov. 2024].
+
+\bibitem{ssh-copy-id}
+Admin.
+\newblock {What is ssh-copy-id? How ssh-copy-id works?}
+\newblock {\em SSH Communications Security}, February 2023.
+
+\bibitem{ssh-keygen}
+Admin.
+\newblock {What is ssh-keygen {\&} How to Use It to Generate a New SSH Key?}
+\newblock {\em SSH Communications Security}, February 2023.
+
+\bibitem{devnull}
+{GeeksforGeeks}.
+\newblock {What is /Dev/Null in Linux?}
+\newblock {\em GeeksforGeeks}, July 2023.
+
+\bibitem{docker-networking-video}
+Christian Lempa.
+\newblock {Docker Networking Tutorial, ALL Network Types explained!}, October 2021.
+\newblock [Online; accessed 1. Nov. 2024].
+
+\bibitem{chmod}
+Linuxize.
+\newblock {Chmod Command in Linux (File Permissions)}.
+\newblock {\em Linuxize}, September 2019.
+
+\bibitem{netstat}
+Linuxize.
+\newblock {How to Check for Listening Ports in Linux (Ports in use)}.
+\newblock {\em Linuxize}, June 2020.
+
+\bibitem{chown}
+Linuxize.
+\newblock {Chown Command in Linux (File Ownership)}.
+\newblock {\em Linuxize}, December 2023.
+
+\bibitem{hardening-linux-video}
+LiveOverflow.
+\newblock {How To Protect Your Linux Server From Hackers!}, April 2021.
+\newblock [Online; accessed 3. Nov. 2024].
+
+\bibitem{perms}
+J.~T. McGinty.
+\newblock {A Complete Guide to Linux File Ownership and Groups}.
+\newblock {\em MUO}, March 2022.
+
+\end{thebibliography}

@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}Task definition}{3}{}%
+\contentsline {section}{\numberline {2}Summary}{3}{}%
+\contentsline {section}{\numberline {3}Exercise execution}{4}{}%
+\contentsline {subsection}{\numberline {3.1}creating the container}{4}{}%
+\contentsline {subsection}{\numberline {3.2}testing connectivity}{5}{}%
+\contentsline {subsubsection}{\numberline {3.2.1}it works but why?}{6}{}%
+\contentsline {subsection}{\numberline {3.3}creating and managing users}{7}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}logging in as the users}{7}{}%
+\contentsline {subsection}{\numberline {3.4}setting permissions for directories}{7}{}%
+\contentsline {subsection}{\numberline {3.5}setting up ssh}{9}{}%
+\contentsline {subsubsection}{\numberline {3.5.1}logging into the ssh server}{9}{}%
+\contentsline {subsubsection}{\numberline {3.5.2}enabeling keypair authenthication}{11}{}%
+\contentsline {subsubsection}{\numberline {3.5.3}disableling password authentication}{12}{}%
+\contentsline {section}{\numberline {4}List of figures}{14}{}%

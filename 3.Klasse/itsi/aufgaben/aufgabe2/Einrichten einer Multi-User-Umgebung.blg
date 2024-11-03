@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Einrichten einer Multi-User-Umgebung.aux
+The style file: plain.bst
+Database file #1: quellen.bib
+Warning--to sort, need author or key in docker-glossary
+Warning--to sort, need author or key in ubuntu
+Warning--to sort, need author or key in tail
+Warning--to sort, need author or key in Docker-bridge
+Warning--to sort, need author or key in chgrp
+You've used 14 entries,
+            2118 wiz_defined-function locations,
+            547 strings with 4978 characters,
+and the built_in function-call counts, 2695 in all, are:
+= -- 253
+> -- 68
+< -- 0
++ -- 32
+- -- 18
+* -- 128
+:= -- 437
+add.period$ -- 37
+call.type$ -- 14
+change.case$ -- 51
+chr.to.int$ -- 0
+cite$ -- 19
+duplicate$ -- 119
+empty$ -- 279
+format.name$ -- 18
+if$ -- 578
+int.to.chr$ -- 0
+int.to.str$ -- 14
+missing$ -- 7
+newline$ -- 68
+num.names$ -- 18
+pop$ -- 91
+preamble$ -- 1
+purify$ -- 37
+quote$ -- 0
+skip$ -- 97
+stack$ -- 0
+substring$ -- 70
+swap$ -- 14
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 56
+warning$ -- 5
+while$ -- 18
+width$ -- 16
+write$ -- 132
+(There were 5 warnings)
