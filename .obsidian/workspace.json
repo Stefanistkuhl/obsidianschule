@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "68942a326c6b8f58",
+        "id": "a297c200d0178924",
         "type": "tabs",
         "children": [
           {
-            "id": "0c7fec95a4638d29",
+            "id": "aa348d8d7c53c07e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/Nawi/alkene thing was auch immer.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "alkene thing was auch immer"
-            }
-          },
-          {
-            "id": "791f400bb15d061f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/alkene thing was auch immer 04-11-2024-32.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "alkene thing was auch immer 04-11-2024-32.excalidraw"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,7 +191,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "791f400bb15d061f",
+  "active": "aa348d8d7c53c07e",
   "lastOpenFiles": [
     "3.Klasse/Nawi/alkene thing was auch immer.md",
     "bilder/alkene thing was auch immer 04-11-2024-32.excalidraw.md",
