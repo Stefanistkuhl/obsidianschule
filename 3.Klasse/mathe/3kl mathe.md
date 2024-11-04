@@ -8,3 +8,4 @@ tags:
 [[differentzialrechnung text bsp]]
 [[Ableitungsregeln]]
 [[Sa lernen yfear]]
+[[ah yes even more ableitungen]]
