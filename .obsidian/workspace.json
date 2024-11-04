@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c91388da9aa8ff2b",
+        "id": "9cf4286433225d2a",
         "type": "tabs",
         "children": [
           {
-            "id": "857619b08768bd5d",
+            "id": "8e6f0142c648889e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/ggp/Marktformen.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Marktformen"
-            }
-          },
-          {
-            "id": "8a94d23c3e2e3edf",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/Marktformen 04-11-2024-05.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Marktformen 04-11-2024-05.excalidraw"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,7 +191,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8a94d23c3e2e3edf",
+  "active": "8e6f0142c648889e",
   "lastOpenFiles": [
     "3.Klasse/ggp/Marktformen.md",
     "bilder/Marktformen 04-11-2024-05.excalidraw.md",
