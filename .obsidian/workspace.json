@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/ggp/Volkswirtschaften.md",
+                "file": "3.Klasse/ggp/Marktformen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Volkswirtschaften"
+              "title": "Marktformen"
+            }
+          },
+          {
+            "id": "8a94d23c3e2e3edf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/Marktformen 04-11-2024-05.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Marktformen 04-11-2024-05.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,8 +208,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "857619b08768bd5d",
+  "active": "8a94d23c3e2e3edf",
   "lastOpenFiles": [
+    "3.Klasse/ggp/Marktformen.md",
+    "bilder/Marktformen 04-11-2024-05.excalidraw.md",
+    "3.Klasse/ggp/Volkswirtschaften.md",
     "thing/hitless video.md~",
     "thing/hitless video.md",
     "3.Klasse/nwt/Layer 3 swtich using switched virtual Interfaces (SVIs).md",
@@ -224,8 +240,6 @@
     "3.Klasse/itsi/Symetrische Verschlüsselung.md",
     "bilder/Asymetrische Verschlüsselung 10-10-2024-58.excalidraw.md",
     "3.Klasse/itsi/Asymetrische Verschlüsselung.md",
-    "3.Klasse/insy/insy teststoff 1311.md",
-    "3.Klasse/insy/3kl insy.md",
     "bilder/Pasted Image 20241021095228_414.png",
     "bilder/Pasted Image 20241021094440_813.png",
     "bilder/Pasted image 20241021094405.png",

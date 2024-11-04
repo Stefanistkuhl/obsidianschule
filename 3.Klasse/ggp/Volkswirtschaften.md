@@ -6,3 +6,4 @@ tags:
 [[Seite 54 kompetenz training thingy]]
 [[3kl GGP]]
 [[goofy ass bwl wörter]]
+[[Marktformen]]
