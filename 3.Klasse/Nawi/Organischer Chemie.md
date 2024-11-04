@@ -40,3 +40,4 @@ Alken ... KW mit mind. eine Doppelbindung
 
 [[Nomenklatur vom KW]]
 ![[Reaktivität der Alkene]]
+[[alkene thing was auch immer]]
