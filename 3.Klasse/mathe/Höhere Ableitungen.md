@@ -34,4 +34,19 @@ $$\lim_{ \Delta t \to 0 } $$
 sein
 c)
 a(t)=s'(t)
-falsch, weil die Ableitung, des weges ist die H
+falsch, weil die Ableitung, des weges ist die Geschwinkdigkiet
+d)
+a(t)=v'(t)
+richtig, wiel die beschl die ableitung der geschw ist
+e)
+a(t) ist die änderungsrate von v zum Zeitpunkt t
+stimmt, weil die beschleunigung ist ja quasi die steigung der geschwindigkeit, die erste ableitung gibt dir ja die steigung an einem punkt
+f)
+![[Pasted image 20241104120637.png]]
+richtig
+g)
+v(t) ist die änderungsrate von s zum Zeitpunkt t
+ableitung von s ist ja die geschw → also die änderungs rate
+h)
+![[Pasted image 20241104120850.png]]
+richtig

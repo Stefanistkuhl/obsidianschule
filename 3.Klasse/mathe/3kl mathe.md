@@ -10,3 +10,4 @@ tags:
 [[Sa lernen yfear]]
 [[ah yes even more ableitungen]]
 [[Höhere Ableitungen]]
+[[Kurvendiskussion]]

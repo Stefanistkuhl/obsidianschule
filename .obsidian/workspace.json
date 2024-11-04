@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/mathe/Höhere Ableitungen.md",
+                "file": "3.Klasse/mathe/Kurvendiskussion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Höhere Ableitungen"
+              "title": "Kurvendiskussion"
             }
           }
         ]
@@ -197,10 +197,14 @@
   },
   "active": "0c7fec95a4638d29",
   "lastOpenFiles": [
+    "bilder/Pasted image 20241104121952.png",
+    "3.Klasse/mathe/3kl mathe.md",
+    "3.Klasse/mathe/Kurvendiskussion.md",
+    "3.Klasse/mathe/Höhere Ableitungen.md",
+    "bilder/Pasted image 20241104120850.png",
+    "bilder/Pasted image 20241104120637.png",
     "bilder/Pasted image 20241104120341.png",
     "3.Klasse/mathe/ah yes even more ableitungen.md",
-    "3.Klasse/mathe/Höhere Ableitungen.md",
-    "3.Klasse/mathe/3kl mathe.md",
     "3.Klasse/mathe/Ableitung elementare Funktion.md",
     "eleme.md",
     "3.Klasse/mathe/Ableitungsregeln.md",
@@ -226,7 +230,6 @@
     "3.Klasse/ggp/Nationalfeiertag.md",
     "3.Klasse/itsi/3kl itsi.md",
     "3.Klasse/itsi/2.2_Linux-Grundlagen.pdf",
-    "3.Klasse/itsi/Hashalgorithmen.md",
     "bilder/Pasted Image 20241021095228_414.png",
     "bilder/Pasted Image 20241021094440_813.png",
     "bilder/Pasted image 20241021094405.png",
@@ -235,9 +238,6 @@
     "bilder/Pasted image 20241016123619.png",
     "3.Klasse/itsi/aufgaben/aufgabe1/Raichle_Fürst_Kryptographie.tex~",
     "bilder/Pasted image 20241015192422.png",
-    "bilder/Pasted image 20241014123554.png",
-    "bilder/Pasted image 20241014095419.png",
-    "bilder/Pasted image 20241014095414.png",
     "3.Klasse/itsi/aufgaben/aufgabe1/4913",
     "3.Klasse/itsi/aufgaben/aufgabe1/Raichle_Fürst_Kryptographie.synctex(busy)",
     "3.Klasse/itsi/aufgaben/aufgabe1/lualatex13331.fls",
