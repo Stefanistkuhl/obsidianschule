@@ -11,12 +11,12 @@
             "id": "24a8166fa977f70d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "excalidraw-loading",
               "state": {
                 "file": "bilder/medizin ethik 05-11-2024-31.excalidraw.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "medizin ethik 05-11-2024-31.excalidraw"
+              "icon": "lucide-file",
+              "title": "Loading Excalidraw... medizin ethik 05-11-2024-31.excalidraw"
             }
           }
         ]
@@ -188,8 +188,7 @@
       "markdown-importer:Open format converter": true,
       "templates:Insert template": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "24a8166fa977f70d",

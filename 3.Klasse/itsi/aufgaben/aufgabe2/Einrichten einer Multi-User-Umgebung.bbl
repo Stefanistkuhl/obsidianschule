@@ -20,16 +20,6 @@
 {ubuntu - Official Image}, November 2024.
 \newblock [Online; accessed 1. Nov. 2024].
 
-\bibitem{ssh-copy-id}
-Admin.
-\newblock {What is ssh-copy-id? How ssh-copy-id works?}
-\newblock {\em SSH Communications Security}, February 2023.
-
-\bibitem{ssh-keygen}
-Admin.
-\newblock {What is ssh-keygen {\&} How to Use It to Generate a New SSH Key?}
-\newblock {\em SSH Communications Security}, February 2023.
-
 \bibitem{devnull}
 {GeeksforGeeks}.
 \newblock {What is /Dev/Null in Linux?}

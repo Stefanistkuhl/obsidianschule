@@ -124,8 +124,8 @@ INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr7.tfm
 INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr5.tfm
 OUTPUT Einrichten einer Multi-User-Umgebung.toc
 INPUT ./images/logo.png
-INPUT ./images/logo.png
 INPUT /home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc
+INPUT ./images/logo.png
 INPUT /opt/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /opt/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT ./images/logo.png
@@ -170,5 +170,6 @@ INPUT /home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/fonts/ot
 INPUT ./images/logo.png
 INPUT ./Einrichten einer Multi-User-Umgebung.lof
 OUTPUT Einrichten einer Multi-User-Umgebung.lof
+INPUT ./images/logo.png
 INPUT ./images/logo.png
 INPUT ./Einrichten einer Multi-User-Umgebung.aux
