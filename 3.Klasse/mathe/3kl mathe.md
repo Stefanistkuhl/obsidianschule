@@ -11,3 +11,4 @@ tags:
 [[ah yes even more ableitungen]]
 [[Höhere Ableitungen]]
 [[Kurvendiskussion]]
+[[geogebra essentials]]
