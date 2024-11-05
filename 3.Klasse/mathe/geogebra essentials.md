@@ -7,5 +7,6 @@ tags:
 - Funktion definieren:
 	- Ansicht → CAS
 		- f(x):=ax²+bx+c
-		- f'(x)= löst für dich
-		- x= x
+		- f'(x)= 0 (löst für dich)
+		- x= 13x=4 (löst auch für dich)
+		- f''(4)=
