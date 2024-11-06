@@ -18,4 +18,6 @@ Something something Menschen merken sich Geschichten leicht und Kunst erzählt G
 
 ### tietel hier
 
-Das Interview "Die Kunst und ihre Grenzen" mit Hanno Rauterberg behandelt das Thema, ob und wo die Grenzen für Künstelerischefreiheit werden sollen. 
+Das Interview "Die Kunst und ihre Grenzen" mit Hanno Rauterberg behandelt das Thema, ob und wo die Grenzen für Künstelerischefreiheit werden sollen. Zusätzlich geht es darum, ob die moralischen Standpunkte des Künstlers unabhängig von deren Kunst sein sollten. 
+
+Da ich finde, dass dies ein Interessantes Thema ist, will ich meine Meinung dazu abgeben. 
