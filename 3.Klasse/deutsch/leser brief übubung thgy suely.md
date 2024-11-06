@@ -15,3 +15,7 @@ Argumente:
 	- wer was sagt is wichtig
 
 Something something Menschen merken sich Geschichten leicht und Kunst erzählt Geschichten und is wichtig für Meinungsbildung und dann Aufklären.
+
+### tietel hier
+
+Das Interview "Die Kunst und ihre Grenzen" mit Hanno Rauterberg behandelt das Thema, ob und wo die Grenzen für Künstelerischefreiheit werden sollen. 
