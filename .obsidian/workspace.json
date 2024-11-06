@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d145642cbf55dca4",
+        "id": "e8e5c0585202179c",
         "type": "tabs",
         "children": [
           {
-            "id": "24a8166fa977f70d",
+            "id": "414d6e2c3aba3e51",
             "type": "leaf",
             "state": {
-              "type": "excalidraw-loading",
-              "state": {
-                "file": "bilder/medizin ethik 05-11-2024-31.excalidraw.md"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Loading Excalidraw... medizin ethik 05-11-2024-31.excalidraw"
+              "title": "New tab"
             }
           }
         ]
@@ -191,10 +189,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "24a8166fa977f70d",
+  "active": "414d6e2c3aba3e51",
   "lastOpenFiles": [
-    "bilder/Pasted Image 20241105160710_346.png",
     "bilder/medizin ethik 05-11-2024-31.excalidraw.md",
+    "bilder/Pasted Image 20241105160710_346.png",
     "medizin ethik.md",
     "3.Klasse/ehtik/3kl ethik.md",
     "templates/ehtik.md",
