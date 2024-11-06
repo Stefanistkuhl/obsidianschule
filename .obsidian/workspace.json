@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "181ab652d1b8d0fa",
+        "id": "5856d6732b0a8628",
         "type": "tabs",
         "children": [
           {
-            "id": "65e7b77250821307",
+            "id": "be7e7af61f05ead9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/Ipt/itp mausefalle arbeitsball.md",
+                "file": "3.Klasse/itsi/Kryptografie.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/Ipt/itp mausefalle arbeitsball.md",
+                "file": "3.Klasse/itsi/Kryptografie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/Ipt/itp mausefalle arbeitsball.md"
+                "file": "3.Klasse/itsi/Kryptografie.md"
               }
             }
           },
@@ -168,10 +168,11 @@
       "markdown-importer:Open format converter": true,
       "templates:Insert template": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "65e7b77250821307",
+  "active": "be7e7af61f05ead9",
   "lastOpenFiles": [
     "3.Klasse/Ipt/itp mausefalle arbeitsball.md",
     "3.Klasse/deutsch/leser brief übubung thgy suely.md",
