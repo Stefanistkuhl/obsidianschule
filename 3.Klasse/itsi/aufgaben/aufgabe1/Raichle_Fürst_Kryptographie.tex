@@ -62,7 +62,7 @@ Gruppenname/Nummer: Dumm und Dümmer/7
 
 Betreuer: 	ZIVK
 
-Übungsdaten:	4.10.2024, 11.10.2024
+Übungsdaten:	4.10.2024, 11.10.2024, 18.10.2024
 
 Abgabedatum:	7.6.2024
 
@@ -82,7 +82,30 @@ Zum Abschluss erfolgt eine Integritätsprüfung mit Hilfe von Hashwerten. Dabei 
 
 \section{Zusammenfassung}
 
-Bei dieser Übung wurden zwei Datein mit zwei verschiedenen Verfahren verschlüsselt werden, welche Symetrisch mit AES und Asymetrisch mit RSA sind. Hierfür wurde das kryptographisches Toolkit openssl benutzt.
+\subsection{Symmetrische Verschlüsselung}
+\begin{itemize}
+	\item Ein Passwort wird aus einem Datum und einer Katalognummer berechnet.
+	\item Die Datei wird mit dem Tool \texttt{openssl} und dem Algorithmus \texttt{AES256} verschlüsselt. Ein Passwort muss dabei eingegeben werden.
+	\item Die Entschlüsselung erfolgt ebenfalls mit \texttt{openssl}, wobei die \texttt{-d}-Flag für das Dechiffrieren genutzt wird.
+\end{itemize}
+
+\subsection{Asymmetrische Verschlüsselung}
+\begin{itemize}
+	\item Ein Schlüsselpaar (privat und öffentlich) wird generiert.
+	\item Die Datei wird mithilfe des öffentlichen Schlüssels verschlüsselt, der private Schlüssel dient zur Entschlüsselung.
+	\item Hierzu werden die entsprechenden \texttt{openssl}-Befehle genutzt.
+\end{itemize}
+
+\subsection{Integritätsprüfung}
+\begin{itemize}
+	\item Mit \texttt{sha256sum} wird ein Hashwert erstellt, um die Integrität der Datei zu prüfen und sicherzustellen, dass keine Veränderungen an der Datei vorgenommen wurden.
+\end{itemize}
+\\ \\
+Chaptgpt-promts für die Zussamenfassung:
+\begin{itemize}
+	\item (pdf angehängt) fasse übungsdurchführung zussmaen
+	\item formatiere die antowrt in latex
+\end{itemize}
 
 \newpage
 
