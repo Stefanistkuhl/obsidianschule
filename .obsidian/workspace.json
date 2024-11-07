@@ -11,10 +11,14 @@
             "id": "fa804b1764324a97",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/ggp/3kl GGP.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "3kl GGP"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3.Klasse/ggp/3kl GGP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 3kl GGP"
             }
           },
           {
@@ -141,9 +146,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "3.Klasse/ggp/3kl GGP.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 3kl GGP"
             }
           },
           {
@@ -189,6 +196,9 @@
   },
   "active": "fa804b1764324a97",
   "lastOpenFiles": [
+    "3.Klasse/ggp/Schwachstellen.md",
+    "3.Klasse/ggp/USA-Demokratie.md",
+    "3.Klasse/ggp/3kl GGP.md",
     "3.Klasse/itsi/Asymetrische Verschlüsselung.md",
     "3.Klasse/itsi/Kryptografie.md",
     "3.Klasse/itsi/AES.md",
@@ -223,9 +233,6 @@
     "bilder/Pasted image 20241104122522.png",
     "bilder/Pasted image 20241104121952.png",
     "bilder/Pasted image 20241104120850.png",
-    "3.Klasse/mathe/ah yes even more ableitungen.md",
-    "3.Klasse/mathe/Ableitung elementare Funktion.md",
-    "eleme.md",
     "thing/hitless video.md~",
     "3.Klasse/nwt/aufgaben/switch-conf/Fürst-Raichle-Basic-Switch-Configuration.tex~",
     "3.Klasse/itsi/2.2_Linux-Grundlagen.pdf",
