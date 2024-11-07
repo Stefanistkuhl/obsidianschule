@@ -2,14 +2,41 @@
 \contentsline {section}{\numberline {2}Zusammenfassung}{3}{}%
 \contentsline {section}{\numberline {3}Vollständige Netzwerktopologie der gesamten Übung}{4}{}%
 \contentsline {section}{\numberline {4}Übungsdurchführung}{5}{}%
-\contentsline {subsection}{\numberline {4.1}Cable the Nework and Verify the Default Switch Configuration}{5}{}%
-\contentsline {subsection}{\numberline {4.2}Configure Basic Network Device Settings}{5}{}%
-\contentsline {paragraph}{Configure basic switch settings}{5}{}%
-\contentsline {paragraph}{configure the pc ip addr}{5}{}%
-\contentsline {subsection}{\numberline {4.3}Verify and Test Network Connectivity}{5}{}%
-\contentsline {subsection}{\numberline {4.4}Manage the MAC Address Tabel}{5}{}%
-\contentsline {subsubsection}{\numberline {4.4.1}ssh}{6}{}%
-\contentsline {subsubsection}{\numberline {4.4.2}aufräumen}{6}{}%
-\contentsline {section}{\numberline {5}Vollständige Konfigurationsdateien}{6}{}%
-\contentsline {section}{\numberline {6}Quellen}{10}{}%
-\contentsline {section}{\numberline {7}Abbildungsverzeichnis}{11}{}%
+\contentsline {subsection}{\numberline {4.1}Verkabeln Sie den Nework und überprüfen Sie die Standard-Switch-Konfiguration}{5}{}%
+\contentsline {subsubsection}{\numberline {4.1.1}Verkabeln Sie das Netz wie in der Topologie dargestellt.}{5}{}%
+\contentsline {paragraph}{1a}{5}{}%
+\contentsline {paragraph}{1b}{5}{}%
+\contentsline {subsubsection}{\numberline {4.1.2}Überprüfen Sie die Standardkonfiguration des Switches.}{5}{}%
+\contentsline {paragraph}{2b}{5}{}%
+\contentsline {paragraph}{2c}{5}{}%
+\contentsline {paragraph}{2d}{5}{}%
+\contentsline {paragraph}{2e}{6}{}%
+\contentsline {paragraph}{2f}{6}{}%
+\contentsline {paragraph}{2g}{6}{}%
+\contentsline {paragraph}{2h}{6}{}%
+\contentsline {paragraph}{2i}{6}{}%
+\contentsline {paragraph}{2j}{6}{}%
+\contentsline {subsection}{\numberline {4.2}Basis Netzwerk Konfiguration des Switches}{6}{}%
+\contentsline {subsubsection}{\numberline {4.2.1}Basiseinstellungen des Switches}{6}{}%
+\contentsline {paragraph}{1a}{6}{}%
+\contentsline {paragraph}{1b}{7}{}%
+\contentsline {paragraph}{1c}{7}{}%
+\contentsline {paragraph}{1d}{7}{}%
+\contentsline {paragraph}{1e}{7}{}%
+\contentsline {paragraph}{1f}{7}{}%
+\contentsline {paragraph}{1g}{7}{}%
+\contentsline {subsubsection}{\numberline {4.2.2}Konfiguration der IP-Adresse des PC}{8}{}%
+\contentsline {subsection}{\numberline {4.3}Verify and Test Network Connectivity}{8}{}%
+\contentsline {paragraph}{1b}{8}{}%
+\contentsline {subsubsection}{\numberline {4.3.1}Testen der Verbindung}{9}{}%
+\contentsline {subsection}{\numberline {4.4}Verwalten der MAC-Adressen-Tabelle}{9}{}%
+\contentsline {subsubsection}{\numberline {4.4.1}Host-MAC-Adresse ermitteln}{9}{}%
+\contentsline {subsubsection}{\numberline {4.4.2}Ermitteln Sie die MAC-Adressen, die der Switch gelernt hat.}{10}{}%
+\contentsline {subsubsection}{\numberline {4.4.3}Anzeigen der show mac address-table Optionen}{10}{}%
+\contentsline {subsubsection}{\numberline {4.4.4}Einstellung der statischen Mac-Adressen}{10}{}%
+\contentsline {subsection}{\numberline {4.5}Reflection quenstions}{11}{}%
+\contentsline {subsubsection}{\numberline {4.5.1}SSH}{12}{}%
+\contentsline {subsubsection}{\numberline {4.5.2}Switch Zurücksetzen nach der Übung}{13}{}%
+\contentsline {section}{\numberline {5}Vollständige Konfigurationsdateien}{13}{}%
+\contentsline {section}{\numberline {6}Quellen}{17}{}%
+\contentsline {section}{\numberline {7}Abbildungsverzeichnis}{18}{}%

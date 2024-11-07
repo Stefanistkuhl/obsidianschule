@@ -1,4 +1,5 @@
 \documentclass[a4paper]{article}
+\usepackage{dirtytalk}
 \usepackage{graphicx}
 \usepackage{xcolor}
 \usepackage{url}
@@ -23,7 +24,7 @@
 	top=20mm,
 	bottom=39mm,
 }
-
+\newcommand{\abc}{\hfill \break}
 \setlength{\headheight}{82.70538pt}
 
 \fancypagestyle{oida}{
@@ -53,7 +54,7 @@ Template
 \end{figure}
 
 \vspace*{\fill}
-Unterrichtsgegenstand:	NWT|ZIVK
+Unterrichtsgegenstand:	NWT|ANGE/ZIVK
 
 Jahrgang:	3AHITN
 
@@ -61,11 +62,11 @@ Name:	Stefan Fürst, Marcel Raichle
 
 Gruppenname/Nummer: Dumm und Dümmer/7
 
-Betreuer: 	ZIVK
+Betreuer: 	ANGE,ZIVK
 
-Übungsdaten:
+Übungsdaten:	18.10.2024, 25.10.2024
 
-Abgabedatum:	
+Abgabedatum:	7.11.2024
 
 
 \newpage
@@ -75,211 +76,280 @@ Abgabedatum:
 
 \section{Aufgabenstellung}
 
+Grundlegende Konfiguration eines Switches, Verwaltung der Mac-Adresstabelle und Einrichtung eines SSH-Servers.
 
 
 \section{Zusammenfassung}
-
+Bei diesem Versuch wird ein Cisco-Switch auf minimale Konfiguration eingestellt, die MAC-Anschriftstabelle verwaltet und ein SSH-Server für Fernverwaltung eingerichtet. Als Nächstes überprüfen wir die Standardkonfiguration des Switches und konfigurieren die grundlegendsten Einstellungen einschließlich des Hostnamens, der Passwörter und eines MOTD-Banner. VLAN 99 wird für das Management eingerichtet, und eine statische IP-Adresse wird zugewiesen. Wir definieren ein Standard-Gateway, um auf den Switch zugreifen zu können, und überprüfen die Konnektivität mithilfe von Ping-Tests. Darüber hinaus verwalten wir die MAC-Anschriftstabelle, indem dynamische und statische MAC-Anschriften angezeigt und konfiguriert werden. Abschließend wird ein SSH-Server konfiguriert, um das sichere Fernen des Geräts zu ermöglichen.
 \newpage
 
 \section{Vollständige Netzwerktopologie der gesamten Übung}
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=1.5]{images/asfadsopfosdf.png}
+	\caption{Vollständige Netzwerktopologie der gesamten Übung}
+\end{figure}
 
 \newpage
 
 \section{Übungsdurchführung}
 %überschriften auf deutsch übersetzen
-\subsection{Cable the Nework and Verify the Default Switch Configuration}
-2b
-	24 fe interfaces
-		2 gbe ifs
-		vty range
-			5 15
-2c 
-	show startup-config
-	startup-config is not present
-	keine start conf wurde im NVRAM gespeichert
-2d 
-	keine ip in vlan1 per default
-	mac addr
-	0018.18bc.59c0
-	its up
-2e	
-	show ip interface vlan1
-	Internet protocal processing disabled
-2f
-	show ip interface vlan1
-	Vlan1 is up, line protocol is up
-	Internet protocol processing disabled
-2g
-	show version
-	version:12.12
-	image filename:
-	show flash
-	c3560-ipservicesk9-mz.122-55.SE6.bin
-	mac addr:00:18:18:BC:59:80
-2h
-	show interface f0/6
-	interface is up
-	no shutdown/host connecten
-	port mac 0018.18bc.5988
-	Full-duplex, 100Mb/s,
-2i
-	Vlan1
-	all of the ports bc every port is per default in vlan1
-	its active
-	Ethernet
-2j 
-	either show/dir flash
-	show flash
-		c3560-ipservicesk9-mz.122-55.SE6.bin
-	dir flash
-
-\subsection{Configure Basic Network Device Settings}
-\paragraph {Configure basic switch settings}
-
-a
+\subsection{Verkabeln Sie den Nework und überprüfen Sie die Standard-Switch-Konfiguration}
+\subsubsection{Verkabeln Sie das Netz wie in der Topologie dargestellt.} 
+\paragraph{1a}\abc
+Das SDM-Bias-Template bietet keine IPv6-Adressfunktionen. Um sicherzustellen, dass der SDM das Dual-IPv4- und IPv6-Template oder das Lanbase-Routing-Template verwendet, müssen die folgenden Befehle verwendet werden.
+\begin{lstlisting}
+Switch# configure terminal
+Switch(config)# sdm prefer dual-ipv4-and-ipv6 default
+Switch(config)# end
+Switch# reload
+\end{lstlisting}
+\paragraph{1b} \abc
+\begin{itemize}
+	\item \say {Warum müssen Sie für die Erstkonfiguration des Switches eine Konsolenverbindung verwenden? Warum ist es nicht möglich, sich über Telnet oder SSH mit dem Switch zu verbinden?} \abc
+\begin{itemize}
+	\item Standardmäßig hat der Switch keine Netzwerkkonfiguration.
+\end{itemize}
+\end{itemize}
+\subsubsection{Überprüfen Sie die Standardkonfiguration des Switches.}
+\paragraph{2b} \abc
+\begin{itemize}
+\item \say{Wie viele FastEthernet-Schnittstellen hat ein 2960-Switch?} \abc
+\begin{itemize}
+\item Der Cisco 2960 hat 24 FastEthernet-Schnittstellen.\abc
+\end{itemize}
+\item \say{Wie viele GigabitEthernet-Schnittstellen hat ein 2960-Switch?} \abc
+\begin{itemize}
+\item Der Cisco 2960 hat 2 GiagibtEthernet-Schnittstellen.\abc
+\end{itemize}
+\item \say{Welcher Wertebereich wird für die vty-Lines angezeigt?} \abc
+\begin{itemize}
+\item Es wird der Wertebereich 5-15 angezeigt. \abc
+\end{itemize}
+\end{itemize}
+\paragraph{2c} \abc
+\begin{lstlisting}
+Switch# show startup-config
+startup-config is not present
+\end{lstlisting}
+Dies bedeutet, dass keine Startkonfiguration im NVRAM gespeichert wurde.
+\paragraph{2d} \abc
+Um die Eigenschaften des SVI in VLAN1 anzuzeigen, wird der folgende Befehl verwendet \texttt{show ip interface vlan1}. \abc
+In VLAN1 ist standardmäßig keine IP-Adresse vorhanden. \abc
+Die MAC-Adresse des SVI wird mit dem Befehl \texttt{mac addr} angezeigt und lautet in diesem Fall \texttt{0018.18bc.59c0}. \abc
+VLAN1 ist administratively down, line protocol is down bis eine Schnittstelle in Betrieb genommen wird. \abc
+\paragraph{2e} \abc
+Um die IP-Eigenschaften der SVI von VLAN1 anzuzeigen, wird der Befehl \texttt{show ip interface vlan1} verwendet, der folgende Ausgabe erzeugt: 
+\begin{lstlisting}
+Vlan1 is administratively down, line protocol is down
+Internet protocol processing disabled	
+\end{lstlisting}
+\paragraph{2f} \abc
+\begin{lstlisting}
+Switch# show ip interface vlan1
+Vlan1 is administratively up, line protocol is up
+Internet protocol processing disabled	
+\end{lstlisting}
+Jetzt ist der Status auf up, da ein Host mit einer Schnittstelle verbunden wurde. Deshalb ist jetzt auch VLAN1 up, da standardmäßig alle Schnittstellen in VLAN1 sind.
+\paragraph{2g} \abc
+Informationen über das Gerät können mit \texttt{show version} ausgegeben werden. \abc
+Hier kann man die Version ablesen, die in diesem Fall 12.12 ist, und die Base MAC Adresse, die \texttt{00:18:18:BC:59:80} ist. \abc
+Mit \texttt{show flash} wird der Dateiname des geladenen Images angezeigt, in diesem Fall \texttt{c3560-ipservicesk9-mz.122-55.SE6.bin}. \abc
+\paragraph{2h} \abc
+Informationen über die Schnittstelle, an die der Host angeschlossen ist, werden mit \texttt{show interface f0/6} angezeigt.\abc
+Die Schnittstelle ist up, da ein Gerät angeschlossen ist, die MAC-Adresse ist \texttt{0018.18bc.5988} und die Duplex-Einstellungen sind \texttt{Full-duplex, 100Mb/s,}. \abc
+\paragraph{2i} \abc
+Mit \texttt{show vlan} können Informationen über VLANs auf dem Switch angezeigt werden. \abc
+\paragraph{2j} \abc
+Mit \texttt{show flash} oder \texttt{dir flash} kann der Inhalt des Flash-Verzeichnisses, in diesem Fall \texttt{c3560-ipservicesk9-mz.122-55.SE6.bin}, angezeigt werden. \abc
+Die \texttt{.bin} Datei ist das Image, von dem der Switch bootet und auch die einzige Datei in diesem Verzeichnis.
+\subsection{Basis Netzwerk Konfiguration des Switches}
+\subsubsection{Basiseinstellungen des Switches}
+\paragraph {1a} \abc
+Folgende Befehle einfügen:
+\begin{lstlisting}
 no ip domain-lookup
 hostname S1
 service password-encryption
 enable secret class
-banner motd \#
-Unauthorized access is strictly prohibited. \#
-
-b
-conf t
-vlan 99 
-exit
-interface vlan99
-ip address 192.168.1.2 255.255.255.0
-ipv6 address 2001:db8:acad::2/64
-ipv6 address fe80::2 link-local
-no shutdown
-
-c
-interface range f0/1 – 24,g0/1 - 2
-switchport access vlan 99
-
+banner motd #
+Unauthorized access is strictly prohibited. #
+\end{lstlisting}
+\paragraph {1b} \abc
+Bevor der Switch über das Netzwerk verwaltet werden kann, muss ihm eine IP-Adresse zugewiesen werden, aber bevor dies geschieht, wird das Management-VLAN von VLAN1 auf ein anderes VLAN, in diesem Fall 99, geändert.
+\begin{lstlisting}
+S1# conf t
+S1(config)# vlan 99 
+S1(config-vlan)# exit
+S1(config)# interface vlan99
+S1(config-if)# ip address 192.168.1.2 255.255.255.0
+S1(config-if)# ipv6 address 2001:db8:acad::2/64
+S1(config-if)# ipv6 address fe80::2 link-local
+S1(config-if)# no shutdown
+\end{lstlisting}
+\paragraph {1c} \abc
+Die folgenden Befehle werden verwendet, um alle Schnittstellen in VLAN99 zuzuweisen:
+\begin{lstlisting}
+S1(config)# interface range f0/1 – 24,g0/1 - 2
+S1(config-if-range)# switchport access vlan 99
+S1(config-if-range)# exit
+\end{lstlisting}
 d
-ss auf dc
+\paragraph {1d} \abc
+Mit \texttt{show vlan brief} werden die zuvor zugewiesenen Schnittstellen angezeigt.
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=0.4]{images/show-vlan-brief.png}
+	\caption{show vlan brief}
+\end{figure}
+\paragraph {1e} \abc
+Wenn kein Standardgateway konfiguriert ist, kann der Switch nicht über das Netzwerk verwaltet werden und muss daher mit dem Befehl \texttt{ip default-gateway 192.168.1.1} konfiguriert werden.
+\paragraph {1f} \abc
+Um den Konsolenzugang mit einem Passwort zu sichern, wird die \texttt{line 0} (Konsolenzugang) konfiguriert und mit dem Befehl \texttt{password} ein Passwort gesetzt.
+\begin{lstlisting}
+S1(config)# line con 0
+S1(config-line)# logging synchronous
+S1(config-line)# password cisco
+S1(config-line)# login
+S1(config-line)# exit
+\end{lstlisting}
+\paragraph {1g} \abc
+Der Befehl \texttt{login} ist notwendig, da sonst kein Passwort abgefragt wird.
 
-e
-ip default-gateway 192.168.1.1
-
-f
-line con 0 
-logging synchronous
-password cisco
-login
-
-g
-ohne login command, wird nicht nach einem passwort gefragt
-
-
-\paragraph {configure the pc ip addr}
-step2:
-ss in dc für beides
-\subsection{Verify and Test Network Connectivity}
+\subsubsection{Konfiguration der IP-Adresse des PC}\abc
+Öffnen Sie dazu die Systemsteuerung, gehen Sie zu Netzwerk und Freigabecenter und tragen Sie unter Adaptereinstellungen bei ip4/6 die IP-Adressen aus der Tabelle ein.
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=0.4]{images/ipv4.png}
+	\caption{Konfiguration der IPv4-Adresse}
+\end{figure}
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=0.4]{images/ipv6.png}
+	\caption{Konfiguration der IPv6-Adresse}
+\end{figure}
+\subsection{Verify and Test Network Connectivity} \abc
 a
 show run
-b
-show interface vlan99
-bandwith: 1000000 Kbit
-vlan99 state: up
-line state: down
+\paragraph {1b} \abc
+Um die Einstellungen von VLAN99 zu überprüfen, wird der Befehl \texttt{show interface vlan99} Befehl verwendet.
+Hieraus geht hervor, dass die Bandbreite \texttt{1000000 Kbit} beträgt und der Status von VLAN99 und von line up ist.
+\newpage
+\subsubsection{Testen der Verbindung}\abc
+Zum Testen der Verbindung wird das Programm \texttt{ping} verwendet.
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=0.4]{images/ping.png}
+	\caption{Ping zum SVIs des Swichts}
+\end{figure}
 
-ping
-https://discord.com/channels/@me/1052223143202279517/1296756855049289789
+\subsection{Verwalten der MAC-Adressen-Tabelle}
+\subsubsection{Host-MAC-Adresse ermitteln}
+Mit dem Befehl \texttt{getmac -v} können alle MAC-Adressen angezeigt werden.
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=0.3]{images/getmac.png}
+	\caption{getmac -v}
+\end{figure}
+Die MAC-Adresse der verwendeten Ethernet-Schnittstelle lautet \texttt{D8-43-AE-86-06-88}.
+
+\newpage
+\subsubsection{Ermitteln Sie die MAC-Adressen, die der Switch gelernt hat.}
+Mit dem Befehl \texttt{show mac address-table} kann die MAc-Adresstabelle ausgegeben werden.\abc
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=0.4]{images/show-mac-addr-table.png}
+	\caption{show mac address-table}
+\end{figure}\abc
+Es werden 2 dynamische MAC-Adressen angezeigt und es gibt insgesamt 22 MAC-Adresseneinträge und die MAC-Adresse stimmt mit der des Hosts überein. \abc
+\subsubsection{Anzeigen der show mac address-table Optionen}
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=0.4]{images/show-table.otpion.png}
+	\caption{show mac address-table ?}
+\end{figure}\abc
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=0.4]{images/dynamic.png}
+	\caption{show mac address-table dynamic}
+\end{figure}\abc
+Es sind 13 dynamische MAC-Adressen eingetragen. \abc
+
+Der Befehl \texttt {show mac address-table address D8-43-AE-86-06-88} zeigt nur den Host-Eintrag an.
+\subsubsection{Einstellung der statischen Mac-Adressen}
+Die dynamischen Mac-adresen werden aus der MAC-Adressentable mit \texttt{clear mac address-table dynamic} gelöscht.\abc
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=0.4]{images/uesdghdsughdsg.png}
+	\caption{show mac-addres-table}
+\end{figure}\abc
+Es ist eine dynamische MAC-Adresse eingetragen, da der Switch diese dynamisch angefordert hat. \abc
+Der Befehl \texttt{mac address-table static d843.ae86.0688 vlan 99 interface fastethernet 0/6} fügt die MAC-Adresse des Hosts als statischen Eintrag in die Tabelle ein, so dass es nun 22 statische Einträge in der Tabelle gibt.\abc
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=0.4]{images/thign.png}
+	\caption{Nur statische Einträge}
+\end{figure}\abc
 
 
-\subsection{Manage the MAC Address Tabel}
+Mit dem Befehl \texttt{no mac address-table static d843.ae86.0688 vlan 99 interface fastethernet 0/6} wird dieser Eintrag wieder entfernt, woraufhin die Tabelle wieder wie zuvor 20 statische Einträge enthält.
 
-step1: 
-D8-43-AE-86-06-88
-step2:
-show mac address-table
-https://discord.com/channels/@me/1052223143202279517/1296757310357635115
-wv dynamische mac addr
-2
-wv gesamt:
-22
-is dasselbe:
-ja
-step3:
-a
-13
-b
-1
-show mac address-table dynamic
-fixen und ss
-c
-show mac address-table address D8-43-AE-86-06-88
-müssen fixen
-step4:
-a,b
-clear mac address-table dynamic
-show mac address-table
-ss
-c
-1.
-1 dynamic adresse
-2. übesetzen sptäer: the switch dynamicly reacquired the pc mac address
-d
-mac address-table static d843.ae86.0688 vlan 99 interface fastethernet 0/6 
-e
-1.
-22 mac addressen 
-2. 
-22 static
-https://discord.com/channels/@me/1052223143202279517/1299273300035239946
-f
-no mac address-table static d843.ae86.0688 vlan 99 interface fastethernet 0/6
-g
-20 static oida weil wir eine removed haben :ReallyMad:
-https://discord.com/channels/@me/1052223143202279517/1299274281036943393
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=0.4]{images/macddr3.png}
+	\caption{Wieder 20 statische Einträge}
+\end{figure}\abc
 
-reflection questions
-Reflection Questions
-1. Why should you configure the vty password for the switch?
 
-If you do not configure a vty password you will not be able to telnet to the switch
+\subsection{Reflection quenstions}
+\begin{enumerate}
+	\item Warum sollten Sie das vty-Passwort für den Switch konfigurieren?
+\begin{enumerate}
+	\item Wenn Sie kein vty-Passwort konfigurieren, können Sie nicht mit Telnet auf den Switch zugreifen.
+\end{enumerate}
+\item Warum sollte das Standard-VLAN 1 in eine andere VLAN-Nummer geändert werden?
+\begin{enumerate}
+	\item Für eine verbesserte Sicherheit.
+\end{enumerate}
+\item Wie kann man verhindern, dass Kennwörter im Klartext gesendet werden?
+\begin{enumerate}
+	\item Mit dem Befehl \texttt{service password-encryption} ein.
+\end{enumerate}
+\item Warum eine statische MAC-Adresse auf einer Port-Schnittstelle konfigurieren?
+\begin{enumerate}
+	\item So legen Sie fest, mit welchen Ports sich ein Host verbinden kann.
+\end{enumerate}
+\end{enumerate}
 
-2. Why change the default VLAN 1 to a different VLAN number?
 
-For improved security
 
-3. How can you prevent passwords from being sent in plain text?
-
-Issue the service password-encryption command.
-
-4. Why configure a static MAC address on a port interface?
-
-To specify which ports a host can connect to.
-
-https://discord.com/channels/@me/1052223143202279517/1296753070125879369
 \newpage
 
-\subsubsection{ssh}
-Switch benötigt domain name da keys unter hostname.domain abgespeichert werden und eine hostnamen
-- `ip domain-name htl-donaustadt.at
-- `crypto key gen rsa
-	- länge eingeben 4096 normalerweise aber im labor nur 1024 nehmen
-- benutzer anlegen
-	- `username name secret cisco
-		- secret statt passwort so dass es keine oarsch verschlüsselung used
-	- anmelden
-		- `login local
-			- locale benutzerdatenbank nutzen einschalten
-		- `logging synchronous
-			- nd required aba is qol
-		- beim anmelde bildschirm fragt es dann nach nem pw
-- `line vty 0 4` 4 weil 4 gleichzeitige verbindgen erlauben
-	- `login local
-	- `transport input ssh
-		- ssh einschalten
-	- `do wr
-		- copy run start in besser
-
-\subsubsection{aufräumen}
-
+\subsubsection{SSH}
+\begin{lstlisting}
+%Domänennamen festlegen
+ip domain-name htl-donaustadt.at
+%RSA-key generieren
+crypto key gen rsa
+benutzer anlegen
+%secret statt password, damit das Passwort nicht in Klartext gespeichert wird.
+username name secret cisco
+%lokale Benutzerdatenbank benutzen und einschalten
+login local
+logging synchronous
+%Vier gleichteige Verbindungen erlauben
+line vty 0 4 4 weil 4 gleichzeitige verbindgen erlauben
+login local
+%ssh aktivieren
+transport input ssh
+%Abspeichern der Running-config in der startup-config
+do wr
+\end{lstlisting}
+\newpage
+\subsubsection{Switch Zurücksetzen nach der Übung}
+\begin{lstlisting}
 en
 show flash
 delete vlan.dat
@@ -287,6 +357,7 @@ enter drücken
 erase startup-config
 reload
 no
+\end{lstlisting}
 \section{Vollständige Konfigurationsdateien}
 
 \begin{lstlisting}
@@ -308,21 +379,16 @@ enable secret 5 $1$WG/H$ILJURiwvDuU5JlSgXmVwY/
 !
 username name secret 5 $1$RrXg$grWbyFauxAuHdmwpC69tK.
 !
-!
 no aaa new-model
 system mtu routing 1500
 no ip domain-lookup
 ip domain-name htl-donaustadt.at
-!
-!
-!
 !
 crypto pki trustpoint TP-self-signed-662526720
  enrollment selfsigned
  subject-name cn=IOS-Self-Signed-Certificate-662526720
  revocation-check none
  rsakeypair TP-self-signed-662526720
-!
 !
 crypto pki certificate chain TP-self-signed-662526720
  certificate self-signed 01
@@ -357,21 +423,16 @@ enable secret 5 $1$WG/H$ILJURiwvDuU5JlSgXmVwY/
 !
 username name secret 5 $1$RrXg$grWbyFauxAuHdmwpC69tK.
 !
-!
 no aaa new-model
 system mtu routing 1500
 no ip domain-lookup
 ip domain-name htl-donaustadt.at
-!
-!
-!
 !
 crypto pki trustpoint TP-self-signed-662526720
  enrollment selfsigned
  subject-name cn=IOS-Self-Signed-Certificate-662526720
  revocation-check none
  rsakeypair TP-self-signed-662526720
-!
 !
 crypto pki certificate chain TP-self-signed-662526720
  certificate self-signed 01
@@ -395,15 +456,10 @@ crypto pki certificate chain TP-self-signed-662526720
   A761D3BA AE41B89F 6933C814 87608BAD C087AB4C E681B888 73A5BE20 6E
   quit
 !
-!
-!
 spanning-tree mode pvst
 spanning-tree extend system-id
 !
 vlan internal allocation policy ascending
-!
-!
-!
 !
 interface FastEthernet0/1
  switchport access vlan 99
@@ -485,10 +541,6 @@ interface Vlan99
 ip classless
 ip http server
 ip http secure-server
-!
-!
-!
-!
 !
 line con 0
 line vty 0 4
