@@ -80,7 +80,7 @@ Setting up a headless Linux installation with multiple users, adding them to a g
 
 \section{Summary}
 
-To accomplish this, we set up a Docker image that does all the necessary setup so that the container can be rebuilt at any time for easier testing instead of using a heavier vm. To make it easier to rebuild and restart the container, we wrote a shell script to the source so that we had aliases for all the commands. We used the Ubuntu Docker image as a base, installed the required packages since the image comes with a minimal amount of packages, and used \texttt{useradd, chmod, chown, chgrp, su} to add users, change file ownership, permissions and test. Finally, for the ssh part, the service was set up and configured appropriately. We did everything that made sense in the Dockerfile file to make it reproducible. 
+To accomplish this, we set up a Docker image that does all the necessary setup so that the container can be rebuilt at any time for easier testing instead of using a heavier vm. To make it easier to rebuild and restart the container, we wrote a shell script to the source so that we had aliases for all the commands. We used the Ubuntu Docker image as a base, installed the required packages since the image comes with a minimal amount of packages, and used \texttt{useradd, usermod, chmod, chown, chgrp, su} to add users, change file ownership, permissions and test. Finally, for the ssh part, the service was set up and configured appropriately. We did everything that made sense in the Dockerfile file to make it reproducible. 
 
 
 \newpage
@@ -160,7 +160,7 @@ There are other types of Docker networks, but they are not relevant for this exe
 \newpage
 \subsection{creating and managing users}
 
-To add groups and users, use the commands \texttt{groupadd} and \texttt{useradd}.
+To add groups and users, and to add users to groups, use the commands \texttt{groupadd, useradd, usermod}.
 To add the user, we add the following lines to our Dockerfile
 \begin{lstlisting}[language=bash]
 #creating the group

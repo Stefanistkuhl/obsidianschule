@@ -1,13 +1,14 @@
 # Fdb version 4
-["bibtex Fürst-Raichle-Basic-Switch-Configuration"] 1728632758.02823 "Fürst-Raichle-Basic-Switch-Configuration.aux" "Fürst-Raichle-Basic-Switch-Configuration.bbl" "Fürst-Raichle-Basic-Switch-Configuration" 1728632989.30097 0
+["bibtex Fürst-Raichle-Basic-Switch-Configuration"] 1730988880.72369 "Fürst-Raichle-Basic-Switch-Configuration.aux" "Fürst-Raichle-Basic-Switch-Configuration.bbl" "Fürst-Raichle-Basic-Switch-Configuration" 1730988912.31407 0
   "./quellen.bib" 1728632361.08993 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/opt/texlive/2024/texmf-dist/bibtex/bst/base/plain.bst" 1725910155 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "Fürst-Raichle-Basic-Switch-Configuration.aux" 1728632988.87172 1509 5c9d5bd1054b8e2cb42af77256ee843b "lualatex"
+  "Fürst-Raichle-Basic-Switch-Configuration.aux" 1730988911.79839 1926 86d8952b8b865671006636d18c1f2f38 "lualatex"
   (generated)
   "Fürst-Raichle-Basic-Switch-Configuration.bbl"
   "Fürst-Raichle-Basic-Switch-Configuration.blg"
   (rewritten before read)
-["lualatex"] 1728632987.79827 "Fürst-Raichle-Basic-Switch-Configuration.tex" "Fürst-Raichle-Basic-Switch-Configuration.pdf" "Fürst-Raichle-Basic-Switch-Configuration" 1728632989.30118 0
+["lualatex"] 1730988910.60743 "Fürst-Raichle-Basic-Switch-Configuration.tex" "Fürst-Raichle-Basic-Switch-Configuration.pdf" "Fürst-Raichle-Basic-Switch-Configuration" 1730988912.31427 0
+  "/home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc" 1728546912.92843 81831 9d0f9c90ea17bba23d6c76c6cf5743d1 ""
   "/home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc" 1728023820.71453 128404 ce93807fb8d5375cfa326b8cd1a33966 ""
   "/home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc" 1728023813.96118 127321 e336b5966242c93622f45cfde812f678 ""
   "/home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman12-bold.luc" 1728023814.19785 128293 5fcc0d385e99a132322310d71ca589d3 ""
@@ -15,6 +16,7 @@
   "/home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman5-regular.luc" 1728546912.8551 125961 05f2b9af0fd609c0acf09641e81365a9 ""
   "/home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman7-regular.luc" 1728546912.78511 128369 c1792953408da87d5413b586ce007323 ""
   "/home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz" 1728628769.38544 787829 ed736a84b530aff999e695b9150d87e3 ""
+  "/opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf" 1725910155 64684 15a2082c8e31f411875a86ea2d29a0ee ""
   "/opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf" 1725910155 111240 0af0b64d6d3df41bead3f9de314afbd4 ""
   "/opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf" 1725910155 111536 ae9d1b331000d544f47e5223081b7b54 ""
   "/opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf" 1725910155 110496 b9c8767d4cc3bf3f4b21f676bf89aa78 ""
@@ -119,11 +121,11 @@
   "/opt/texlive/2024/texmf-dist/tex/luatex/luaotfload/luaotfload.lua" 1725910155 13565 50482dad4c221a79dbdbb982122baf8c ""
   "/opt/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1725910155 5498194 34d313b590f78f31067828739fd13622 ""
   "/opt/texlive/2024/texmf-var/web2c/luahbtex/lualatex.fmt" 1725910155 12285504 6472c4cd048f626e3738e256e2560f58 ""
-  "Fürst-Raichle-Basic-Switch-Configuration.aux" 1728632988.87172 1509 5c9d5bd1054b8e2cb42af77256ee843b "lualatex"
-  "Fürst-Raichle-Basic-Switch-Configuration.bbl" 1728632758.17628 49 0eba253fc001332e731e8aba3f23127b "bibtex Fürst-Raichle-Basic-Switch-Configuration"
-  "Fürst-Raichle-Basic-Switch-Configuration.lof" 1728632988.87172 85 ee22a82eba11cff3ac649fc7109357ed "lualatex"
-  "Fürst-Raichle-Basic-Switch-Configuration.tex" 1728632987.28841 1939 196576ca72cdcab29152cf1dae54136c ""
-  "Fürst-Raichle-Basic-Switch-Configuration.toc" 1728632988.87172 865 432a17c93eed37cf3ec5c92a6fe71b7a "lualatex"
+  "Fürst-Raichle-Basic-Switch-Configuration.aux" 1730988911.79839 1926 86d8952b8b865671006636d18c1f2f38 "lualatex"
+  "Fürst-Raichle-Basic-Switch-Configuration.bbl" 1730988880.87457 49 0eba253fc001332e731e8aba3f23127b "bibtex Fürst-Raichle-Basic-Switch-Configuration"
+  "Fürst-Raichle-Basic-Switch-Configuration.lof" 1730988911.79839 85 ee22a82eba11cff3ac649fc7109357ed "lualatex"
+  "Fürst-Raichle-Basic-Switch-Configuration.tex" 1730988910.20169 10987 f89d3057d34e5a1d247a2b239cf99d13 ""
+  "Fürst-Raichle-Basic-Switch-Configuration.toc" 1730988911.79839 1117 07acd1eb1b88ec8e96612365811f1d15 "lualatex"
   "images/logo.png" 1728632361.08993 5251 cc1f58f2715d780a35156b77ab1d3f18 ""
   "images/mika.jpeg" 1728632361.08993 161999 208b7f4e703da1a5e0914a38c0f9fe67 ""
   (generated)

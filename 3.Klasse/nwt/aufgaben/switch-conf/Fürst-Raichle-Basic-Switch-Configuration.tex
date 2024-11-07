@@ -141,8 +141,8 @@ no ip domain-lookup
 hostname S1
 service password-encryption
 enable secret class
-banner motd #
-Unauthorized access is strictly prohibited. #
+banner motd \#
+Unauthorized access is strictly prohibited. \#
 
 b
 conf t
@@ -289,6 +289,8 @@ reload
 no
 \section{Vollständige Konfigurationsdateien}
 
+\begin{lstlisting}
+	
 Current configuration : 3608 bytes
 !
 version 12.2
@@ -335,7 +337,7 @@ crypto pki certificate chain TP-self-signed-662526720
   51920ADB 3266102A 8A5745DA 06ABA47C FECC8C07 AF90612C 412CB8E3 F26E329C
   CC17F9E2 81D47732 B02C8AC9 33C82388 87D3E4DF 2E86B505 E4170470 021733ED
 
-S1#sh run
+S1\#sh run
 Building configuration...
 
 Current configuration : 3608 bytes
@@ -496,6 +498,7 @@ line vty 5 15
  login
 !
 end
+\end{lstlisting}
 \newpage
 
 \section{Quellen}

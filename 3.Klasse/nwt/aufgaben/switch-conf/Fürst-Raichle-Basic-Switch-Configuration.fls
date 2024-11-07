@@ -127,6 +127,10 @@ INPUT ./images/logo.png
 INPUT ./images/logo.png
 INPUT ./images/logo.png
 INPUT ./images/logo.png
+INPUT /home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc
+INPUT ./images/logo.png
+INPUT ./images/logo.png
+INPUT ./images/logo.png
 INPUT ./images/logo.png
 INPUT ./Fürst-Raichle-Basic-Switch-Configuration.bbl
 INPUT ./images/logo.png
