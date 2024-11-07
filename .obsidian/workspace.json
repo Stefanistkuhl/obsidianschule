@@ -4,47 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5856d6732b0a8628",
+        "id": "ee45dcfdc8ab12d3",
         "type": "tabs",
         "children": [
           {
-            "id": "be7e7af61f05ead9",
+            "id": "fa804b1764324a97",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/itsi/Kryptografie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "765c3c2426acfdee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/itsi/AES.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e24835ae663b5868",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/itsi/Asymetrische Verschlüsselung.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -79,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -87,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -111,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/itsi/AES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +97,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -131,7 +111,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -139,7 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -147,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "stats-tracker",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -155,9 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "3.Klasse/itsi/AES.md"
-              }
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
             }
           },
           {
@@ -165,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -173,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "code-execute-manage-executors",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -197,11 +187,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "765c3c2426acfdee",
+  "active": "fa804b1764324a97",
   "lastOpenFiles": [
     "3.Klasse/itsi/Asymetrische Verschlüsselung.md",
-    "3.Klasse/itsi/AES.md",
     "3.Klasse/itsi/Kryptografie.md",
+    "3.Klasse/itsi/AES.md",
     "bilder/Asymetrische Verschlüsselung 10-10-2024-19.excalidraw.md",
     "3.Klasse/Ipt/itp mausefalle arbeitsball.md",
     "3.Klasse/deutsch/leser brief übubung thgy suely.md",
