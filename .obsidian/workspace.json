@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Eskalationsstufen"
             }
+          },
+          {
+            "id": "c252ac2a745cf8fb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Zeichnungen/DR07-11-2024-26.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "DR07-11-2024-26.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/Ipt/Eskalationsstufen.md",
+                "file": "Zeichnungen/DR07-11-2024-26.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Eskalationsstufen"
+              "title": "Backlinks for DR07-11-2024-26.excalidraw"
             }
           },
           {
@@ -147,10 +160,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/Ipt/Eskalationsstufen.md"
+                "file": "Zeichnungen/DR07-11-2024-26.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Eskalationsstufen"
+              "title": "File properties for DR07-11-2024-26.excalidraw"
             }
           },
           {
@@ -194,8 +207,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fa804b1764324a97",
+  "active": "c252ac2a745cf8fb",
   "lastOpenFiles": [
+    "Zeichnungen/DR07-11-2024-26.excalidraw.md",
+    "3.Klasse/Ipt/Eskalationsstufen.md",
     "3.Klasse/itsi/aufgaben/aufgabe2/Einrichten einer Multi-User-Umgebung.tex~",
     "3.Klasse/itsi/aufgaben/aufgabe2/Einrichten einer Multi-User-Umgebung.synctex(busy)",
     "3.Klasse/itsi/aufgaben/aufgabe2/lualatex17383.fls",
@@ -206,9 +221,7 @@
     "3.Klasse/nwt/aufgaben/switch-conf/lualatex15316.fls",
     "3.Klasse/nwt/aufgaben/switch-conf/lualatex15307.fls",
     "3.Klasse/nwt/aufgaben/switch-conf/lualatex15202.fls",
-    "3.Klasse/nwt/aufgaben/switch-conf/lualatex15031.fls",
     "Zeichnungen/DR07-11-2024-05.excalidraw.md",
-    "3.Klasse/Ipt/Eskalationsstufen.md",
     "3.Klasse/Ipt/3kl itp.md",
     "3.Klasse/ggp/3kl GGP.md",
     "3.Klasse/ggp/Schwachstellen.md",
