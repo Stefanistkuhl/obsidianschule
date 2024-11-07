@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/ggp/3kl GGP.md",
+                "file": "3.Klasse/Ipt/Eskalationsstufen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3kl GGP"
+              "title": "Eskalationsstufen"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/ggp/3kl GGP.md",
+                "file": "3.Klasse/Ipt/Eskalationsstufen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3kl GGP"
+              "title": "Backlinks for Eskalationsstufen"
             }
           },
           {
@@ -147,10 +147,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Klasse/ggp/3kl GGP.md"
+                "file": "3.Klasse/Ipt/Eskalationsstufen.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 3kl GGP"
+              "title": "File properties for Eskalationsstufen"
             }
           },
           {
@@ -196,9 +196,11 @@
   },
   "active": "fa804b1764324a97",
   "lastOpenFiles": [
+    "3.Klasse/Ipt/3kl itp.md",
+    "3.Klasse/Ipt/Eskalationsstufen.md",
+    "3.Klasse/ggp/3kl GGP.md",
     "3.Klasse/ggp/Schwachstellen.md",
     "3.Klasse/ggp/USA-Demokratie.md",
-    "3.Klasse/ggp/3kl GGP.md",
     "3.Klasse/itsi/Asymetrische Verschlüsselung.md",
     "3.Klasse/itsi/Kryptografie.md",
     "3.Klasse/itsi/AES.md",
@@ -222,8 +224,6 @@
     "3.Klasse/Nawi/Organischer Chemie.md",
     "3.Klasse/Nawi/3kl nawi.md",
     "3.Klasse/sew/uml.md",
-    "bilder/uml 04-11-2024-44.excalidraw.md",
-    "3.Klasse/sew/3kl sew.md",
     "bilder/Pasted image 20241104124457.png",
     "bilder/Pasted image 20241104124148.png",
     "bilder/Pasted image 20241104123217.png",
