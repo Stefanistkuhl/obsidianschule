@@ -11,10 +11,14 @@
             "id": "616d89347554e30b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/syt/rpi thing.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "rpi thing"
             }
           }
         ]
@@ -192,6 +196,7 @@
   },
   "active": "616d89347554e30b",
   "lastOpenFiles": [
+    "3.Klasse/syt/rpi thing.md",
     "bilder/Steps to a Loop-Free Topology 08-11-2024-15.excalidraw.md",
     "3.Klasse/nwt/Steps to a Loop-Free Topology.md",
     "bilder/STP-Spanning Tree Protocol 08-11-2024-40.excalidraw.md",
@@ -237,7 +242,6 @@
     "bilder/Asymetrische Verschlüsselung 10-10-2024-19.excalidraw.md",
     "3.Klasse/Ipt/itp mausefalle arbeitsball.md",
     "3.Klasse/deutsch/leser brief übubung thgy suely.md",
-    "3.Klasse/deutsch/Leserbief.md",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
     "Zeichnungen/Untitled.canvas"
   ]
