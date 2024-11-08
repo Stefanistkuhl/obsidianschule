@@ -49,13 +49,17 @@ Until the 15.7 where i randoomly where i said this at 1am (either make a ss of t
 My initial plan for the any% was keeping the iron ball unupgraded for Morgott as he’s one of my favourite fights in the game and I wanted to do something cool in my run, plus fighting him with iron ball was the playstyle I was most comfortable with. 
 But wait…doing +0 on Morgott wasn’t enough, I wanted an even bigger challenge, so I decided to buy the Battle Axe at Roundtable Hold to use it for Maliketh as well, another boss that I really love fighting.
 
-#### explaing the final routMy initial plan for the any% was keeping the iron ball unupgraded for Morgott as he’s one of my favourite fights in the game and I wanted to do something cool in my run, plus fighting him with iron ball was the playstyle I was most comfortable with. 
+#### explaing the final route
+
+My initial plan for the any% was keeping the iron ball unupgraded for Morgott as he’s one of my favourite fights in the game and I wanted to do something cool in my run, plus fighting him with iron ball was the playstyle I was most comfortable with. 
 But wait…doing +0 on Morgott wasn’t enough, I wanted an even bigger challenge, so I decided to buy the Battle Axe at Roundtable Hold to use it for Maliketh as well, another boss that I really love fighting.
 
 This idea was great on paper but had one tiny issue, if I can’t upgrade the Iron ball before defeating Morgott, what weapon should I use for the bosses prior? 
-to use for margit, godrick and radahn (write names on screen here, instead of naming each one out)
+(write names on screen here, instead of naming each one out)
+
 I wanted an option that was fast to grab, strong enough to carry me through the early game and with an enjoyable moveset, the weapon that matched all the criteria ended up being the Lordsworn’s Greatsword as you can get it right after talking to Melina at Gatefront which was suggested by Enfrax (Optional).
 And so, I had the plan to fight all bosses before Morgott with the Lordsworn’s Greatsword, I also considered fighting Goldfrey with the unupgraded iron ball as well, but that turned out to be horrible because his area was incredibly laggy so I quickly scrapped that idea.
+
 And because I was upgrading two different weapons; the Lordsworn Greatsword before Morgott and the Iron Ball after, I had to go through the Raya Lucaria Cave to defeat the Crystalian boss there and unlock the Smithing Bell Bearing. I kept overthinking the strategies against the boss. I tried backstabbing him to death. then I tried to get a stance break with Rogier’s Rapier, not knowing that the poise values were nerfed so I ended up panicking and using memory of grace when he didn’t get staggered in two charged attacks. [Crystalian boneout](https://www.youtube.com/clip/Ugkxbub1ayZT22DFeFd0OrjHw9yC9T5V3qRx)
 
 The entirety of the crystal cave fiasco brought many stupid hits with it the dumbest of them being hit by a rune bear under the academy gate, which I didn’t know existed before.
@@ -63,43 +67,40 @@ This definitely didn’t become a meme in any way shape or form. (insert a scree
 Since I was using Red-Feathered Branchsword, I made [this](https://youtube.com/clip/UgkxiUe4_ZtuptiUHa_1Sag3l8Vj40BcxMRn) neat strat to quickly kill the knight in Fort Haight and grab bloody slash so I could drop down to the 20% HP mark faster than using assassin’s gambit. (add explanation to strat)
 After a while of using this route, having to upgrade multiple weapons became somewhat tedious, so I fully switched to the Lordsworn’s Greatsword just so I could keep the +0 Morgott kill in the run, I did a lot of testing and practicing, learned new strategies for the bosses and once I was confident with it, I went for a run and the route was much more efficient and at least 15 minutes faster than the previous one.
 
-I didn’t edit much from here on, just grammatical corrections since Idk the strats :ok:
-
-The new and improved strats were the following:
-- Firegiant
-  - This boss actually broke me.
-  - Somehow i am really bad at aiming my weapon to hit his weak spots (make pretty image showing them from all angles)
-  - Additionally i struggled with keeing track of where his foot ends up after breaking the ankle.
-  - To midigate this there is a strat(idk who made the strat i need figure this out so its accurate or just say strat in general) [thing](https://discord.com/channels/493839512892342292/905828840578895922/1277589392956981369).
-  - You buff at this tree to always bait his running slam. 
-    - there are 3 options which he can do in this position. (make a clip for each)
-    - the options are
-      - avalance into running slam (most common)
-        - roll avalance and horse in (clip to demonstrate and explain better)
-      - avalance into nothing (rare)
-        - roll and run back on horse to bait it
-      - nothing into running slam (rare)
-        - run forward on foot under it
-  - after this you want to postion yourself arround here (insert epic image) and cr2 to break his ankle
-  - walk to the leg and cr2 twice from behind to hit the weakspot 
-  - jump r2 him to stagger him out of the roll that he wil always do.
-  - throw 2 sleep pots rebuff fmgs drink your blue flask and position yourself under his hair, aim slightly forward left (insert another epic image) and cr2 twice. 
-  - This will bring him to p2 where you rebuff golden vow at the start and then run to this bush (another epic image) and cr2 his hand twice which will stun him. However the fire pillars which he spawns are rng and it can hit you be warry of that (note: test and figoure at a way to make it safer) (insert clip of me dying to it [fg pillars](https://www.youtube.com/clip/UgkxtTQnCmQa5-H-k2Q0lkP2qtnomKjn2otp)) 
-  - throw 2 sleep pots at his eye or head it doenst matter and sprint to his left hand to do 3 crs and one r2 to stun him, run to the hand and finish him off with a cr2
-- Godskin Dou
-  - Since the ls gs doesnt do strike damage like balls, onecyceling them is really easy and and the only thing you need to pay attention for is to hit noble in a way where you dont get the stealth bonus (show img) or do <insert brian strat here>. Addiotnally if you use rtsr it do not level your str to more than 62. Record epic clip of it. [gdou](https://youtube.com/clip/Ugkx9Su8dPFsaIv8jzEl-uEwKOP-WOI5iB_w?si=e5g7MGQ9zpUv9rw5)
+##### The new and improved strats were the following:
+- Fire giant
+  - This boss actually broke me.
+  - Somehow, I was really bad at aiming my weapon to hit his weak spots (make pretty image showing them from all angles)
+  - Additionally, I often struggled to keep track of where his foot would end up after breaking the ankle.
+  - To mitigate this there is a strat made by oppai. [thing](https://discord.com/channels/493839512892342292/905828840578895922/1277589392956981369)
+  - You buff at this tree to always bait his running slam. 
+    - there are 3 scenarios which he can do in this position. (make a clip for each)
+      - the first would be avalanche into running slam (most common)
+        - you roll avalanche and then get on torrent until you reach his knee (clip to demonstrate and explain better)
+      -  The second possible scenario would be him doing an avalanche and doesn’t follow up with anything (rare)
+        - in which you roll and run back on horse to bait it run back where??
+      - And the final scenario would be him doing nothing then queueing the running slam (rare)
+        - For that one you run until you’re right under his knee.
+  - after this you want to position yourself around here (insert epic image) and charged attack to break his ankle
+  - walk to the leg and charged attack twice from behind to hit the weak spot 
+  - jumping heavy him to stagger him out of the roll that he will always do.
+  - throw 2 sleep pots rebuff flame grant me strength, drink your blue flask and position yourself under his hair, aim slightly forward left (insert another epic image) and charged attack twice. 
+  - This will bring him to p2 where you want to rebuff golden vow right at the start and then run to this bush (another epic image [just highlight it]) and charged attack his hand twice which will stun him. However, the fire pillars which he spawns are rng and it can hit you, so you need to be wary of that (note: test and figure at a way to make it safer) (insert clip of me dying to it [fg pillars](https://www.youtube.com/clip/UgkxtTQnCmQa5-H-k2Q0lkP2qtnomKjn2otp)) 
+  - throw 2 sleep pots at his eye or head it doesn’t matter and sprint to his left hand to do 3 charged attack and one heavy to stun him, run to the hand and finish him off with a charged attack
+- Godskin Duo
+  - Since the Lordsworn’s Greatsword doesn’t do strike damage like balls, onecyceling them is really easy and and the only thing you need to pay attention for is to hit noble in a way where you dont get the stealth bonus (show img) or do (insert brian strat here). Additionally, if you use Red-Feathered Branchsword it doesn’t require you to level your str to more than 62. Record epic clip of it. [gdou](https://youtube.com/clip/Ugkx9Su8dPFsaIv8jzEl-uEwKOP-WOI5iB_w?si=e5g7MGQ9zpUv9rw5)
 - Gideon
-  - Stays the same as with Iron balls just 3 cr2s
-- Horrah loux
-  - You cant script this boss, but instead you can script a stun at the start of phase 2 so you cana skip that.
-  - To do this you need to strafe the first opener and cr2 it, then you only punish with r1s and stay on his right or left side so he doenst do his phase 1.5 transition. 
-  - After he stuns you dont riposte and stay infront of him and wait until he starts his phase 1.5 transition and do one cr2 and one r2.
-  - At the start of phase 2 imidiatly do a cr2 roll the opener and do another cr2, this stun him and afer riposting you can finish him of during his phase 2.5 tranisition.
-  - [clip](https://youtube.com/clip/UgkxDVfIZCjPDH2OFkIvacscc6lzUxhhNV5u?si=CtKR04bM7OPHN9UK)
-- radabeast
-  - You cant fully script radagon with this weapon like you can balls/starfist, so naturally i decided to kill radagon with +0 balls in the run.
-  - if you use cragblade, golden vow and flame grant me strength you obliterate radagon with pure damage even on +0 and he only does a few unscripted attacks
-  - After killing radagon you have enough time to switch to the ls gs and cast cragblade and flame grant me strengh which is enough to fully script elden beast.
+  - Stays the same as with Iron balls just 3 charged attacks
+- Hoarah Loux
+  - You can’t script this boss, but instead you can script a stun at the start of phase 2 so you can skip that.
+  - To do this you need to strafe the first opener and charged attack it, then you only punish with r1s and stay on his right or left side so he doesn’t do his phase 1.5 transition. 
+  - After he stuns you don’t riposte and stay in front of him and wait until he starts his phase 1.5 transition and do one charged attack and one heavy.
+  - At the start of phase 2 immediately do a charged attack roll the opener and do another charged attack, this stun him and after riposting you can finish him of during his phase 2.5 transition.
+  - [clip](https://youtube.com/clip/UgkxDVfIZCjPDH2OFkIvacscc6lzUxhhNV5u?si=CtKR04bM7OPHN9UK)
+- radagon & elden beast
+  - You can’t fully script radagon with this weapon like you can iron ball/star fist, so naturally I decided to kill radagon with +0 balls in the run.
+  - if you use cragblade, golden vow and flame grant me strength you obliterate radagon with pure damage even on +0 and he only does a few unscripted attacks
+  - After killing radagon you have enough time to switch to the Lordsworn’s Greatsword and cast cragblade and flame grant me strength which is enough to fully script elden beast.
 
 ### documenting the journey 
 

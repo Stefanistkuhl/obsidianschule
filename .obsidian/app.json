@@ -16,5 +16,6 @@
   "spellcheck": false,
   "promptDelete": false,
   "vimMode": true,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "readableLineLength": true
 }
