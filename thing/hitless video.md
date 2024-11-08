@@ -74,7 +74,7 @@ After a while of using this route, having to upgrade multiple weapons became som
   - Additionally, I often struggled to keep track of where his foot would end up after breaking the ankle.
   - To mitigate this there is a strat made by oppai. [thing](https://discord.com/channels/493839512892342292/905828840578895922/1277589392956981369)
   - You buff at this tree to always bait his running slam. 
-    - there are 3 scenarios which he can do in this position. (make a clip for each)
+    - there are 3 scenarios which he can do in this position. (make a clip for each and play them side by side or sum)
       - the first would be avalanche into running slam (most common)
         - you roll avalanche and then get on torrent until you reach his knee (clip to demonstrate and explain better)
       -  The second possible scenario would be him doing an avalanche and doesn’t follow up with anything (rare)
