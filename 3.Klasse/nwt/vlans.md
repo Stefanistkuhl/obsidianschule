@@ -12,3 +12,5 @@ tags:
 ![[Trunks]]
 ![[Vlan Ranges on Catalyst Switches]]
 ![[vlan commands]]
+![[Troubleshoot Inter-VLAN Routing]]
+![[inter-VLAN-Routing]]

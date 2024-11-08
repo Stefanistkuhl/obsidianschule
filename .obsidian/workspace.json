@@ -11,13 +11,30 @@
             "id": "90d7c81dcf991d6e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/nwt/STP-Spanning Tree Protocol.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "STP-Spanning Tree Protocol"
+            }
+          },
+          {
+            "id": "1b8b61ed00643a16",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/STP-Spanning Tree Protocol 08-11-2024-36.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "STP-Spanning Tree Protocol 08-11-2024-36.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,8 +207,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "90d7c81dcf991d6e",
+  "active": "1b8b61ed00643a16",
   "lastOpenFiles": [
+    "3.Klasse/nwt/STP-Spanning Tree Protocol.md",
+    "bilder/STP-Spanning Tree Protocol 08-11-2024-36.excalidraw.md",
+    "3.Klasse/nwt/3kl nwt.md",
+    "3.Klasse/nwt/vlans.md",
+    "3.Klasse/nwt/Troubleshoot Inter-VLAN Routing.md",
+    "3.Klasse/nwt/Layer 3 swtich using switched virtual Interfaces (SVIs).md",
     "3.Klasse/Ipt/Eskalationsstufen.md",
     "3.Klasse/nwt/Ah yes 20 millionen cisco sachen.md",
     "3.Klasse/nwt/cisco commands oida.md",
@@ -232,12 +255,6 @@
     "medizin ethik.md",
     "3.Klasse/ehtik/3kl ethik.md",
     "templates/ehtik.md",
-    "3.Klasse/mathe/geogebra essentials.md",
-    "3.Klasse/mathe/3kl mathe.md",
-    "3.Klasse/mathe/Kurvendiskussion.md",
-    "3.Klasse/mathe/kurvendiskissionbsp.md",
-    "3.Klasse/mathe/Höhere Ableitungen.md",
-    "3.Klasse/Nawi/alkene thing was auch immer.md",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
     "Zeichnungen/Untitled.canvas"
   ]
