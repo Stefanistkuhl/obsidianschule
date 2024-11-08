@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "32a52a720f12f4a9",
+        "id": "d50e74f9d0ebd576",
         "type": "tabs",
         "children": [
           {
-            "id": "c08d69b3cac291ff",
+            "id": "8a435f809fb2e6ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/syt/rpi thing.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "rpi thing"
+              "title": "New tab"
             }
           }
         ]
@@ -194,10 +190,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c08d69b3cac291ff",
+  "active": "8a435f809fb2e6ef",
   "lastOpenFiles": [
-    "thing/hitless video.md",
     "3.Klasse/syt/rpi thing.md",
+    "thing/hitless video.md",
     "thing/hitless video.md~",
     "3.Klasse/syt/Rpi vieh.md",
     "bilder/Steps to a Loop-Free Topology 08-11-2024-15.excalidraw.md",
