@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/nwt/STP-Spanning Tree Protocol.md",
+                "file": "3.Klasse/nwt/Steps to a Loop-Free Topology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "STP-Spanning Tree Protocol"
-            }
-          },
-          {
-            "id": "1b8b61ed00643a16",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/STP-Spanning Tree Protocol 08-11-2024-36.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "STP-Spanning Tree Protocol 08-11-2024-36.excalidraw"
+              "title": "Steps to a Loop-Free Topology"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,9 +194,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1b8b61ed00643a16",
+  "active": "90d7c81dcf991d6e",
   "lastOpenFiles": [
     "3.Klasse/nwt/STP-Spanning Tree Protocol.md",
+    "3.Klasse/nwt/Steps to a Loop-Free Topology.md",
+    "bilder/STP-Spanning Tree Protocol 08-11-2024-40.excalidraw.md",
+    "3.Klasse/nwt/issues with redundant switch links.md",
     "bilder/STP-Spanning Tree Protocol 08-11-2024-36.excalidraw.md",
     "3.Klasse/nwt/3kl nwt.md",
     "3.Klasse/nwt/vlans.md",
@@ -252,9 +242,6 @@
     "3.Klasse/deutsch/leser brief übubung thgy suely.md",
     "3.Klasse/deutsch/Leserbief.md",
     "bilder/medizin ethik 05-11-2024-31.excalidraw.md",
-    "medizin ethik.md",
-    "3.Klasse/ehtik/3kl ethik.md",
-    "templates/ehtik.md",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
     "Zeichnungen/Untitled.canvas"
   ]
