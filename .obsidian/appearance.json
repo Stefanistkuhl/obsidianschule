@@ -11,13 +11,12 @@
     "fancy_checkboxen",
     "xd",
     "linenumbers",
-    "codeblocks_besa",
-    "spacing"
+    "codeblocks_besa"
   ],
   "accentColor": "#ffc7c7",
   "interfaceFontFamily": "Cascadia Mono",
-  "textFontFamily": "DejaVu Serif",
-  "monospaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "Cascadia Mono",
+  "monospaceFontFamily": "Cascadia Mono",
   "cssTheme": "Rosé Pine",
   "theme": "obsidian",
   "baseFontSizeAction": false
