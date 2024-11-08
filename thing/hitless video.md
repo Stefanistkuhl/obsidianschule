@@ -24,28 +24,20 @@ So naturally I did what any normal person would do, which is doing a hitless run
 (play epic intro)
 ### hitless rule thingy part
 
-A hitless run is beating the game without getting hit but here are the the rules which you can find on the teamhitless website:
+A hitless run is beating the game without getting hit, that means I can’t lose health or get staggered by anything, I can’t block any incoming attacks or die either, however there are a few exceptions to the rule; Fall damage and environmental damage such as rot damage from the Lake of Rot don’t count as a hit. And to keep things more interesting as well as challenging I can’t quit back to the menu to avoid dealing with enemies or use any unintended glitches or interactions to make things easier for myself.
 
-- A hit is defined by a loss of health and/or stagger caused by an enemy.
-- Hits from player triggered traps count.
-- Environmental damage caused by static features as lava, water, swamp, spikes, campfires do not count as a hit.
-- Fall damage does not count as a hit, but a death from falling does.
-- Blocking an enemy counts as a hit, but a perfect parry does not.
-- Quit-outs are generally not allowed, except when in the main hub or after sitting down at a grace.
-- Summon Ashes and NPC summons are allowed. Player summons are not allowed.
-- Killing bosses/ads from outside of the arena is forbidden.
-[rules](https://www.teamhitless.com/games/fromsoftware-games/elden-ring/)
+There are more detailed rules linked in the description but for now let me tell you how I got inspired to go for a no-hit run.
 
-You can run in multiple categories such as any%, all rememberences/greatrunes/bosses. Any% is just getting the final boss how ever you want.
-There are also categories like dlc%, stranded dlc you can find them in the description aswell.
-There are more General Rules and lists of banned skips,glichtes, cheeses etc that are linked in the description.
+(Try to segway from a chapter to another to maintain a flow instead of jumping from a topic to another)
 
-### getting inspired to do the run
+### Inspiration
 
 The first part of everything is getting the idea. In my case, my biggest source of inspiration was Gino Machino, just watching him hitless the game in so many different ways, like doing it level 1 +0 ng+7 always made think "i wish i am good enough to do a hitless run one day". After wacthing Gino test,route and complete runs on stream and seeing the processes of how you do this runs the desire to do oe aswell got larger, but yet I still didnt do any research on how to do one.
 Until one day this video popped up in my youtube recomendations: (insert some upsi from the guide here),wait wrong guide (insert epic recy guide here).
 
-After finding the perfect starting point to get into it surely just followed the guide and got the run without any kind of problems.
+After finding the perfect starting point to get into it surely just followed the guide and got the run without any kind of problems... except that’s not how it went.
+
+(make segway)
 
 ### starting doing to do the thing
 
@@ -54,15 +46,25 @@ Until the 15.7 where i randoomly where i said this at 1am (either make a ss of t
 
 ### talking abt the route and evolution idk
 
-As it stands now the current route is any% but keep the iron balls +0 for morgott. The question now was what weapon to use for margit, godrick and radahn, since i just planed to +0 goldfrey with balls awell, which is a horrible idea because this area is the laggiest thing ever and you get your inputs eaten left and right. Through some asking and testing i figured out how to deal with margit, godrick and Radahn with the Lorsworn Greatsword. 
+My initial plan for the any% was keeping the iron ball unupgraded for Morgott as he’s one of my favourite fights in the game and I wanted to do something cool in my run, plus fighting him with iron ball was the playstyle I was most comfortable with. 
+But wait…doing +0 on Morgott wasn’t enough, I wanted an even bigger challenge, so I decided to buy the Battle Axe at Roundtable Hold to use it for Maliketh as well, another boss that I really love fighting.
 
-Doing +0 Morgott wasnt enough so i decided to buy the battle axe at Rounddtable to use it for Maliketh.
-Because i do two kills at +0 no aux i decided to get rtsr, for which i made [this](https://youtube.com/clip/UgkxiUe4_ZtuptiUHa_1Sag3l8Vj40BcxMRn) neat strat to grab blood slash so setting it up with assasins gambit doenst take an eternity. (add explantion to strat)
+#### explaing the final routMy initial plan for the any% was keeping the iron ball unupgraded for Morgott as he’s one of my favourite fights in the game and I wanted to do something cool in my run, plus fighting him with iron ball was the playstyle I was most comfortable with. 
+But wait…doing +0 on Morgott wasn’t enough, I wanted an even bigger challenge, so I decided to buy the Battle Axe at Roundtable Hold to use it for Maliketh as well, another boss that I really love fighting.
 
-Now since i had the brilliant idea to upgrade the balls after morgott because i didnt even think of testing the rest of the bosses with the ls gs, so i just grabbed grabbed the smithing stone bellbearing 1, which ended in a total disaster, where i failed to figure out that i justd need to cr2 twice with balls and crabblade to always break the crystalions stance. I even found a crystalion backstap loop and tried using Rogiers Rapier for a stance break which i randoomly tested on a live run and ended in this disaster: [crystalion boneout](https://www.youtube.com/clip/Ugkxbub1ayZT22DFeFd0OrjHw9yC9T5V3qRx)
-The entierty of the crystal cave fiasko brought many stupid hits with it the dumbest of them beeing hit by a rune bear under the acamdey gate, which i didnt know existed before. This definitly didnt become a meme in any way shape or form. (insert a screenshot of the foreshadowing definition) [bear witness](https://clips.twitch.tv/PuzzledArtsyTapir4Head-hkQCleieXHyt0rPH) 
-After sticking for way too long with 2 upgrading weapons i finally switched to only using the lordsworn greatsword as my main weapon and after figuring out scripts for all of the remaining bosses, the route was way more efficient and about 15 minutes shorter.
-#### explaing the final route
+This idea was great on paper but had one tiny issue, if I can’t upgrade the Iron ball before defeating Morgott, what weapon should I use for the bosses prior? 
+to use for margit, godrick and radahn (write names on screen here, instead of naming each one out)
+I wanted an option that was fast to grab, strong enough to carry me through the early game and with an enjoyable moveset, the weapon that matched all the criteria ended up being the Lordsworn’s Greatsword as you can get it right after talking to Melina at Gatefront which was suggested by Enfrax (Optional).
+And so, I had the plan to fight all bosses before Morgott with the Lordsworn’s Greatsword, I also considered fighting Goldfrey with the unupgraded iron ball as well, but that turned out to be horrible because his area was incredibly laggy so I quickly scrapped that idea.
+And because I was upgrading two different weapons; the Lordsworn Greatsword before Morgott and the Iron Ball after, I had to go through the Raya Lucaria Cave to defeat the Crystalian boss there and unlock the Smithing Bell Bearing. I kept overthinking the strategies against the boss. I tried backstabbing him to death. then I tried to get a stance break with Rogier’s Rapier, not knowing that the poise values were nerfed so I ended up panicking and using memory of grace when he didn’t get staggered in two charged attacks. [Crystalian boneout](https://www.youtube.com/clip/Ugkxbub1ayZT22DFeFd0OrjHw9yC9T5V3qRx)
+
+The entirety of the crystal cave fiasco brought many stupid hits with it the dumbest of them being hit by a rune bear under the academy gate, which I didn’t know existed before.
+This definitely didn’t become a meme in any way shape or form. (insert a screenshot of the foreshadowing definition) [bear witness](https://clips.twitch.tv/PuzzledArtsyTapir4Head-hkQCleieXHyt0rPH) 
+Since I was using Red-Feathered Branchsword, I made [this](https://youtube.com/clip/UgkxiUe4_ZtuptiUHa_1Sag3l8Vj40BcxMRn) neat strat to quickly kill the knight in Fort Haight and grab bloody slash so I could drop down to the 20% HP mark faster than using assassin’s gambit. (add explanation to strat)
+After a while of using this route, having to upgrade multiple weapons became somewhat tedious, so I fully switched to the Lordsworn’s Greatsword just so I could keep the +0 Morgott kill in the run, I did a lot of testing and practicing, learned new strategies for the bosses and once I was confident with it, I went for a run and the route was much more efficient and at least 15 minutes faster than the previous one.
+
+I didn’t edit much from here on, just grammatical corrections since Idk the strats :ok:
+
 The new and improved strats were the following:
 - Firegiant
   - This boss actually broke me.
