@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Eskalationsstufen"
             }
-          },
-          {
-            "id": "c252ac2a745cf8fb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw-loading",
-              "state": {
-                "file": "Zeichnungen/DR07-11-2024-26.excalidraw.md"
-              },
-              "icon": "lucide-file",
-              "title": "Loading Excalidraw... DR07-11-2024-26.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,13 +190,26 @@
       "markdown-importer:Open format converter": true,
       "templates:Insert template": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c252ac2a745cf8fb",
+  "active": "fa804b1764324a97",
   "lastOpenFiles": [
-    "Zeichnungen/DR07-11-2024-26.excalidraw.md",
+    "3.Klasse/nwt/Ah yes 20 millionen cisco sachen.md",
+    "3.Klasse/nwt/cisco commands oida.md",
     "3.Klasse/Ipt/Eskalationsstufen.md",
+    "3.Klasse/nwt/aufgaben/switch-conf/images/uesdghdsughdsg.png",
+    "3.Klasse/nwt/aufgaben/switch-conf/images/thign.png",
+    "3.Klasse/nwt/aufgaben/switch-conf/images/show-vlan-brief.png",
+    "3.Klasse/nwt/aufgaben/switch-conf/images/show-table.otpion.png",
+    "3.Klasse/nwt/aufgaben/switch-conf/images/show-mac-addr-table.png",
+    "3.Klasse/nwt/aufgaben/switch-conf/images/ping.png",
+    "3.Klasse/nwt/aufgaben/switch-conf/images/macddr3.png",
+    "3.Klasse/nwt/aufgaben/switch-conf/images/ipv6.png",
+    "3.Klasse/nwt/aufgaben/switch-conf/images/ipv4.png",
+    "3.Klasse/nwt/aufgaben/switch-conf/images/ipconfigall.png",
+    "Zeichnungen/DR07-11-2024-26.excalidraw.md",
     "3.Klasse/itsi/aufgaben/aufgabe2/Einrichten einer Multi-User-Umgebung.tex~",
     "3.Klasse/itsi/aufgaben/aufgabe2/Einrichten einer Multi-User-Umgebung.synctex(busy)",
     "3.Klasse/itsi/aufgaben/aufgabe2/lualatex17383.fls",
@@ -233,7 +233,6 @@
     "3.Klasse/deutsch/leser brief übubung thgy suely.md",
     "3.Klasse/deutsch/Leserbief.md",
     "bilder/medizin ethik 05-11-2024-31.excalidraw.md",
-    "bilder/Pasted Image 20241105160710_346.png",
     "medizin ethik.md",
     "3.Klasse/ehtik/3kl ethik.md",
     "templates/ehtik.md",
@@ -243,17 +242,6 @@
     "3.Klasse/mathe/kurvendiskissionbsp.md",
     "3.Klasse/mathe/Höhere Ableitungen.md",
     "3.Klasse/Nawi/alkene thing was auch immer.md",
-    "bilder/alkene thing was auch immer 04-11-2024-32.excalidraw.md",
-    "3.Klasse/Nawi/Organischer Chemie.md",
-    "bilder/Pasted image 20241104124457.png",
-    "bilder/Pasted image 20241104124148.png",
-    "bilder/Pasted image 20241104123217.png",
-    "bilder/Pasted image 20241104123211.png",
-    "bilder/Pasted image 20241104123141.png",
-    "bilder/Pasted image 20241104122634.png",
-    "bilder/Pasted image 20241104122522.png",
-    "bilder/Pasted image 20241104121952.png",
-    "bilder/Pasted image 20241104120850.png",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
     "Zeichnungen/Untitled.canvas"
   ]
