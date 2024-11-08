@@ -25,12 +25,12 @@
             "id": "c252ac2a745cf8fb",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "excalidraw-loading",
               "state": {
                 "file": "Zeichnungen/DR07-11-2024-26.excalidraw.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "DR07-11-2024-26.excalidraw"
+              "icon": "lucide-file",
+              "title": "Loading Excalidraw... DR07-11-2024-26.excalidraw"
             }
           }
         ],
@@ -203,8 +203,7 @@
       "markdown-importer:Open format converter": true,
       "templates:Insert template": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "c252ac2a745cf8fb",
