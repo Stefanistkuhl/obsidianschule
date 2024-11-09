@@ -11,10 +11,12 @@
             "id": "8a435f809fb2e6ef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Release Notes 1.7.5"
             }
           }
         ]
@@ -186,8 +188,7 @@
       "markdown-importer:Open format converter": true,
       "templates:Insert template": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "8a435f809fb2e6ef",
