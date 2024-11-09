@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "ERD-Entity Relationship Diagramm"
             }
+          },
+          {
+            "id": "f84d8853f9f91916",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/ERD-Entity Relationship Diagramm 09-11-2024-00.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ERD-Entity Relationship Diagramm 09-11-2024-00.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,10 +207,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "48fbc3c0a474ffc3",
+  "active": "f84d8853f9f91916",
   "lastOpenFiles": [
-    "bilder/ERD-Entity Relationship Diagramm 09-11-2024-00.excalidraw.md",
     "3.Klasse/insy/ERD-Entity Relationship Diagramm.md",
+    "bilder/ERD-Entity Relationship Diagramm 09-11-2024-00.excalidraw.md",
     "3.Klasse/insy/crowsfoot noation.md",
     "3.Klasse/insy/something something insy test lernen.md",
     "bilder/Pasted image 20241109160551.png",

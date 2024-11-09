@@ -22,6 +22,15 @@ tags:
 		- A primary has the be unique and identify with only only one record in our table
 		- It need to be never changing 
 		- A primary key needs to be never null
+- Foreign Key
+	- The same as a primery key, it's just located in a foregein place.
+	- Unlike a primary key, a foreign key does not have to be unique. It can be repeated inside a table.
+	- It's possible to have multiple foreign keys in one entity. 
+- Composite Primary Key
+	- Are used when tweo or more attributes are necessary to uniqely identify every record in a table
+	- Rules
+		- Use the feweset number of attributes as possible.
+		- Dont use attributes that are apt to change.
 
 ![[ERD-Entity Relationship Diagramm 09-11-2024-00.excalidraw]]
 
