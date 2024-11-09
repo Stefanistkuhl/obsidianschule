@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/insy/crowsfoot noation.md",
+                "file": "3.Klasse/insy/ERD-Entity Relationship Diagramm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "crowsfoot noation"
+              "title": "ERD-Entity Relationship Diagramm"
+            }
+          },
+          {
+            "id": "89a20e736cca5c9f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/ERD-Entity Relationship Diagramm 09-11-2024-00.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ERD-Entity Relationship Diagramm 09-11-2024-00.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,12 +207,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "48fbc3c0a474ffc3",
+  "active": "89a20e736cca5c9f",
   "lastOpenFiles": [
-    "3.Klasse/insy/ERD.md",
+    "3.Klasse/insy/ERD-Entity Relationship Diagramm.md",
+    "bilder/ERD-Entity Relationship Diagramm 09-11-2024-00.excalidraw.md",
     "3.Klasse/insy/crowsfoot noation.md",
+    "3.Klasse/insy/something something insy test lernen.md",
     "bilder/Pasted image 20241109160551.png",
-    "3.Klasse/insy/something something test lernen.md",
     "3.Klasse/insy/insy teststoff 1311.md",
     "3.Klasse/syt/rpi thing.md",
     "thing/hitless video.md",
@@ -241,7 +255,6 @@
     "3.Klasse/Ipt/3kl itp.md",
     "3.Klasse/ggp/3kl GGP.md",
     "3.Klasse/ggp/Schwachstellen.md",
-    "3.Klasse/ggp/USA-Demokratie.md",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
     "Zeichnungen/Untitled.canvas"
   ]
