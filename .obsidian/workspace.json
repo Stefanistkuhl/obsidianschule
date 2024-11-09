@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d50e74f9d0ebd576",
+        "id": "d98fd536fef2bedc",
         "type": "tabs",
         "children": [
           {
-            "id": "8a435f809fb2e6ef",
+            "id": "48fbc3c0a474ffc3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.5"
+                "file": "3.Klasse/insy/crowsfoot noation.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
+              "title": "crowsfoot noation"
             }
           }
         ]
@@ -188,11 +190,17 @@
       "markdown-importer:Open format converter": true,
       "templates:Insert template": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8a435f809fb2e6ef",
+  "active": "48fbc3c0a474ffc3",
   "lastOpenFiles": [
+    "3.Klasse/insy/ERD.md",
+    "3.Klasse/insy/crowsfoot noation.md",
+    "bilder/Pasted image 20241109160551.png",
+    "3.Klasse/insy/something something test lernen.md",
+    "3.Klasse/insy/insy teststoff 1311.md",
     "3.Klasse/syt/rpi thing.md",
     "thing/hitless video.md",
     "thing/hitless video.md~",
@@ -219,7 +227,6 @@
     "3.Klasse/nwt/aufgaben/switch-conf/images/macddr3.png",
     "3.Klasse/nwt/aufgaben/switch-conf/images/ipv6.png",
     "3.Klasse/nwt/aufgaben/switch-conf/images/ipv4.png",
-    "3.Klasse/nwt/aufgaben/switch-conf/images/ipconfigall.png",
     "Zeichnungen/DR07-11-2024-26.excalidraw.md",
     "3.Klasse/itsi/aufgaben/aufgabe2/Einrichten einer Multi-User-Umgebung.tex~",
     "3.Klasse/itsi/aufgaben/aufgabe2/Einrichten einer Multi-User-Umgebung.synctex(busy)",
@@ -235,9 +242,6 @@
     "3.Klasse/ggp/3kl GGP.md",
     "3.Klasse/ggp/Schwachstellen.md",
     "3.Klasse/ggp/USA-Demokratie.md",
-    "3.Klasse/itsi/Asymetrische Verschlüsselung.md",
-    "3.Klasse/itsi/Kryptografie.md",
-    "3.Klasse/itsi/AES.md",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
     "Zeichnungen/Untitled.canvas"
   ]
