@@ -47,4 +47,5 @@ tags:
 	- city
 - prosperous
 	- rich 
-- 
+- ivory
+	- material on elepahnts tusks is the white thing on elepahnts (Elfenbein in deutsch)

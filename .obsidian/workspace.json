@@ -13,28 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/insy/ERD-Entity Relationship Diagramm.md",
+                "file": "3.Klasse/englisch/article zettel thing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ERD-Entity Relationship Diagramm"
+              "title": "article zettel thing"
+            }
+          },
+          {
+            "id": "ed87bfe0d4b9c284",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/article zettel thing 21-10-2024-29.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "article zettel thing 21-10-2024-29.excalidraw"
+            }
+          },
+          {
+            "id": "d75ddda77e4bc18e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/article zettel thing 21-10-2024-11.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "article zettel thing 21-10-2024-11.excalidraw"
             }
           },
           {
             "id": "f84d8853f9f91916",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "bilder/ERD-Entity Relationship Diagramm 09-11-2024-00.excalidraw.md"
+                "file": "3.Klasse/englisch/vocab.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "ERD-Entity Relationship Diagramm 09-11-2024-00.excalidraw"
+              "icon": "lucide-file",
+              "title": "vocab"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,9 +233,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f84d8853f9f91916",
+  "active": "d75ddda77e4bc18e",
   "lastOpenFiles": [
+    "bilder/article zettel thing 21-10-2024-29.excalidraw.md",
+    "bilder/article zettel thing 21-10-2024-11.excalidraw.md",
+    "3.Klasse/englisch/article zettel thing.md",
     "3.Klasse/insy/ERD-Entity Relationship Diagramm.md",
+    "3.Klasse/englisch/vocab.md",
     "bilder/ERD-Entity Relationship Diagramm 09-11-2024-00.excalidraw.md",
     "3.Klasse/insy/crowsfoot noation.md",
     "3.Klasse/insy/something something insy test lernen.md",
@@ -251,10 +281,6 @@
     "3.Klasse/nwt/aufgaben/switch-conf/Fürst-Raichle-Basic-Switch-Configuration.tex~",
     "3.Klasse/nwt/aufgaben/switch-conf/lualatex15316.fls",
     "3.Klasse/nwt/aufgaben/switch-conf/lualatex15307.fls",
-    "Zeichnungen/DR07-11-2024-05.excalidraw.md",
-    "3.Klasse/Ipt/3kl itp.md",
-    "3.Klasse/ggp/3kl GGP.md",
-    "3.Klasse/ggp/Schwachstellen.md",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
     "Zeichnungen/Untitled.canvas"
   ]
