@@ -51,16 +51,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/englisch/vocab.md",
+                "file": "3.Klasse/englisch/table of content.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vocab"
+              "title": "table of content"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -233,11 +233,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d75ddda77e4bc18e",
+  "active": "f84d8853f9f91916",
   "lastOpenFiles": [
+    "3.Klasse/englisch/3kl eng.md",
+    "3.Klasse/englisch/table of content.md",
     "3.Klasse/englisch/vocab.md",
-    "bilder/article zettel thing 21-10-2024-29.excalidraw.md",
     "bilder/article zettel thing 21-10-2024-11.excalidraw.md",
+    "bilder/article zettel thing 21-10-2024-29.excalidraw.md",
     "3.Klasse/englisch/article zettel thing.md",
     "3.Klasse/insy/ERD-Entity Relationship Diagramm.md",
     "bilder/ERD-Entity Relationship Diagramm 09-11-2024-00.excalidraw.md",
@@ -261,7 +263,6 @@
     "3.Klasse/nwt/Layer 3 swtich using switched virtual Interfaces (SVIs).md",
     "3.Klasse/Ipt/Eskalationsstufen.md",
     "3.Klasse/nwt/Ah yes 20 millionen cisco sachen.md",
-    "3.Klasse/nwt/cisco commands oida.md",
     "3.Klasse/nwt/aufgaben/switch-conf/images/uesdghdsughdsg.png",
     "3.Klasse/nwt/aufgaben/switch-conf/images/thign.png",
     "3.Klasse/nwt/aufgaben/switch-conf/images/show-vlan-brief.png",
@@ -271,7 +272,6 @@
     "3.Klasse/nwt/aufgaben/switch-conf/images/macddr3.png",
     "3.Klasse/nwt/aufgaben/switch-conf/images/ipv6.png",
     "3.Klasse/nwt/aufgaben/switch-conf/images/ipv4.png",
-    "Zeichnungen/DR07-11-2024-26.excalidraw.md",
     "3.Klasse/itsi/aufgaben/aufgabe2/Einrichten einer Multi-User-Umgebung.tex~",
     "3.Klasse/itsi/aufgaben/aufgabe2/Einrichten einer Multi-User-Umgebung.synctex(busy)",
     "3.Klasse/itsi/aufgaben/aufgabe2/lualatex17383.fls",
