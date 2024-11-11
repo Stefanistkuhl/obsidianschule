@@ -43,3 +43,11 @@ tags:
 	- Merkmale
 		- Staat greift lenked ein → Steuer gesetz gebung → umverteilung zu den sozial schwächeren
 			- Steuerpolitik und Sozialversicherungen
+	- Vorteile
+		- staat stellt öfentliche güter zu verfügung (bildung, gesundheitswesen)
+		- Soziale und Arbeitsplatzsicherung
+		- Wohlstand für alle
+		- gerechtigkeit
+	- Nachteile
+		- hohe steuern
+		- finanzirung → sehr hohe kosten
