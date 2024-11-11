@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "750cdecb5a1d7ec9",
+        "id": "b82081d6041e27c4",
         "type": "tabs",
         "children": [
           {
-            "id": "18aef4c763ff3d5c",
+            "id": "653633781a7f986f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/Nawi/Erdöl und Alternativen.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Erdöl und Alternativen"
             }
           }
         ]
@@ -190,8 +194,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "18aef4c763ff3d5c",
+  "active": "653633781a7f986f",
   "lastOpenFiles": [
+    "3.Klasse/Nawi/3kl nawi.md",
+    "3.Klasse/Nawi/Erdöl und Alternativen.md",
+    "bilder/alkene thing was auch immer 04-11-2024-32.excalidraw.md",
+    "3.Klasse/Nawi/alkene thing was auch immer.md",
+    "bilder/Pasted image 20241111120627.png",
     "3.Klasse/mathe/kurvendiskissionbsp.md",
     "bilder/Pasted image 20241111123728.png",
     "bilder/Pasted image 20241111123619.png",
@@ -199,7 +208,6 @@
     "bilder/Pasted image 20241111121535.png",
     "bilder/Pasted image 20241111121422.png",
     "bilder/Pasted image 20241111120720.png",
-    "bilder/Pasted image 20241111120627.png",
     "bilder/Pasted image 20241111120619.png",
     "3.Klasse/mathe/Kurvendiskussion.md",
     "3.Klasse/ggp/Marktformen.md",
@@ -224,10 +232,6 @@
     "bilder/Steps to a Loop-Free Topology 08-11-2024-15.excalidraw.md",
     "3.Klasse/nwt/Steps to a Loop-Free Topology.md",
     "bilder/STP-Spanning Tree Protocol 08-11-2024-40.excalidraw.md",
-    "3.Klasse/nwt/STP-Spanning Tree Protocol.md",
-    "3.Klasse/nwt/issues with redundant switch links.md",
-    "bilder/STP-Spanning Tree Protocol 08-11-2024-36.excalidraw.md",
-    "3.Klasse/nwt/3kl nwt.md",
     "3.Klasse/nwt/aufgaben/switch-conf/images/uesdghdsughdsg.png",
     "3.Klasse/itsi/aufgaben/aufgabe2/Einrichten einer Multi-User-Umgebung.tex~",
     "3.Klasse/itsi/aufgaben/aufgabe2/Einrichten einer Multi-User-Umgebung.synctex(busy)",
