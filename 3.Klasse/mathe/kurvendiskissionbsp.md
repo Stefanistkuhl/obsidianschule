@@ -50,4 +50,13 @@ s.m. steigend auf $$[  \frac{2}{3}, \infty[$$
 Krümmungsverhalten (Wendepunkt)
 
 Rechtsgekrümmt(negativ gekrümmt) $$]-\infty, \frac{1}{3}$$
-Linkgsgekrümmt (positiv gekrümmt) $$[\frac{1}{3}, \infty]$$
+Linkgsgekrümmt (positiv gekrümmt) $$[\frac{1}{3}, \infty[$$
+c)
+N(ullstelle) → f(x)=0
+E(xtremstellen) → f'(x)=0
+W(wendepunk) → f''(x)=0
+![[Pasted image 20241111123619.png]]
+keine extrem vieher
+![[Pasted image 20241111123728.png]]
+4.32a)
+Nullstellen gibt es nicht
