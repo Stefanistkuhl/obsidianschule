@@ -49,3 +49,17 @@ tags:
 	- rich 
 - ivory
 	- material on elepahnts tusks is the white thing on elepahnts (Elfenbein in deutsch)
+- mainting
+	- keep a thing going
+- rise
+	- sun rises (on its own)
+- raise
+	- raise your arm (you have to do something)
+- forecast
+	- will future with the weater → how the weather will be
+- crops
+	- Harvest crops → fully grown plants
+- tides 
+	- high/low tides
+	- rise and fall of sea level caused by the moon
+- 
