@@ -30,3 +30,9 @@ Bei x= -3/4 hat die Funktion ein Minimum
 | 1    | 1      |
 | 2    | 10     |
 | -3/4 | -5.125 |
+4.31a)
+![[Pasted image 20241111120619.png]]
+![[Pasted image 20241111120627.png]]
+Nullstelle und Extremstellen
+Wendepunkt 2te ableitung 0 setzen
+![[Pasted image 20241111120720.png]]
