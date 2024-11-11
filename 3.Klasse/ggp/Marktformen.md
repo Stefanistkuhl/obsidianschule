@@ -15,4 +15,31 @@ tags:
 	- Vorteil
 		- Produktvielvalt
 		- Freie Berufswhal
-		- 
+		- Innovation und effizienz
+		- Große Leistungs anreize
+	- Nachteile 
+		- ungleicheit → kluft zwischen arm und reich ist riesing
+		- monopolgefahr 
+		- keine staatliche absicherung
+		- negative ökologische folgen
+		- güter und dienstleitungen werden ungerecht verteilt
+- Planwirtschaft
+	- Karl Marx (1818-1883)
+	- Merkmale
+		- Der staat kontroliert alles
+		- Löhne und Preise werden staatlich festgelegt
+		- Produckttonsfaktioren gehören dem start
+		- Erfüllung von 5 Jahresplänen
+	- Vorteile
+		- Soziale Gleichheit
+		- keine monopole der statt ist das monopol
+	- Nachteile
+		- wenige invation weil kein wettbewerb
+		- keine freie jobwahl
+		- system is unflexibel → Mangelwirtschaft
+		- Eingescränkte individuelle Freiheit
+- Soziale Markwirtschaft
+	- John Maynard Keynes (1883-1946) (1883-1946)
+	- Merkmale
+		- Staat greift lenked ein → Steuer gesetz gebung → umverteilung zu den sozial schwächeren
+			- Steuerpolitik und Sozialversicherungen
