@@ -23,7 +23,7 @@ tags:
 		- Ordner
 		- Datein
 
-> Die 3 Ebenen sind getrennt dh die OPerationen einer Ebene müssen nichts über die anderen Ebenen wissen
+> Die 3 Ebenen sind getrennt dh die Operationen einer Ebene müssen nichts über die anderen Ebenen wissen
 
 2.Entitiy Relationship Model (ERM)
 - Objekte → welche informationen?
@@ -38,12 +38,12 @@ Objekte zb
 - Schüler
 - Einrichtung,Inventar
 - Lehrpersonen 
-- Handymake
+- Handymarke
 - Schuhlnummern
 - Augenfarbe
 Entität
 - Herr Laibner 
-Bezeihung 
+Beziehung 
 - Lehrperson unterrichtet Klasse 
 Attribute Lehrperson
 - Kürzel (Name, Geb datum)
