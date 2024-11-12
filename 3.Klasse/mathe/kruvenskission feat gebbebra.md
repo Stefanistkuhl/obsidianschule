@@ -12,4 +12,6 @@ Linksgekrümmt in $$]-\infty; -\frac{4}{3};\infty[$$
 
 Str.m.st in $$]-\infty;-1] $$ && $$[1;\infty[$$
 Str.m.f in $$]-1;0[$$ und $$]0;1[$$
-$$D=\mathbb{R} \{0}$$
+D=R\{0}
+4.32)b)
+![[Pasted image 20241112124513.png]]
