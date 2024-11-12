@@ -11,3 +11,4 @@ tags:
 ![[Pasted image 20241104123141.png]]
 
 [[kurvendiskissionbsp]]
+[[kruvenskission feat gebbebra]]
