@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/insy/Realtionales Datenbank Magment System.md",
+                "file": "3.Klasse/insy/crowsfoot noation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Realtionales Datenbank Magment System"
+              "title": "Backlinks for crowsfoot noation"
             }
           },
           {
@@ -292,10 +292,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "328189d258f2b24a",
+  "active": "a62cf04e01952128",
   "lastOpenFiles": [
-    "3.Klasse/insy/Relationale Datenbank Systeme.md",
+    "3.Klasse/itsi/Asymetrische Verschlüsselung.md",
     "3.Klasse/insy/Realtionales Datenbank Magment System.md",
+    "3.Klasse/insy/Relationale Datenbank Systeme.md",
     "3.Klasse/insy/3kl insy.md",
     "3.Klasse/insy/insy teststoff 1311.md",
     "3.Klasse/insy/crowsfoot noation.md",
@@ -329,7 +330,6 @@
     "bilder/Pasted image 20241111121535.png",
     "bilder/Pasted image 20241111121422.png",
     "bilder/Pasted image 20241111120720.png",
-    "3.Klasse/ggp/Marktformen.md",
     "thing/hitless video.md~",
     "3.Klasse/itsi/aufgaben/aufgabe2/Einrichten einer Multi-User-Umgebung.tex~",
     "3.Klasse/itsi/aufgaben/aufgabe2/Einrichten einer Multi-User-Umgebung.synctex(busy)",
