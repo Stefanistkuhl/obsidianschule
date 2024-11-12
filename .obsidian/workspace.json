@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "d405dd0332aa5e58",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/Erdöl und Alternativen 11-11-2024-12.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Erdöl und Alternativen 11-11-2024-12.excalidraw"
+            }
+          },
+          {
             "id": "ee99f807eba80362",
             "type": "leaf",
             "state": {
@@ -33,8 +45,7 @@
               "title": "Erdöl und Alternativen 11-11-2024-37.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,14 +214,14 @@
       "markdown-importer:Open format converter": true,
       "templates:Insert template": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee99f807eba80362",
+  "active": "653633781a7f986f",
   "lastOpenFiles": [
-    "3.Klasse/Nawi/Erdöl und Alternativen.md",
     "bilder/Erdöl und Alternativen 11-11-2024-37.excalidraw.md",
+    "bilder/Erdöl und Alternativen 11-11-2024-12.excalidraw.md",
+    "3.Klasse/Nawi/Erdöl und Alternativen.md",
     "bilder/Erdöl und Alternativen 11-11-2024-41.excalidraw.md",
     "3.Klasse/Nawi/3kl nawi.md",
     "bilder/alkene thing was auch immer 04-11-2024-32.excalidraw.md",
@@ -244,7 +255,6 @@
     "thing/hitless video.md",
     "thing/hitless video.md~",
     "3.Klasse/syt/Rpi vieh.md",
-    "bilder/Steps to a Loop-Free Topology 08-11-2024-15.excalidraw.md",
     "3.Klasse/nwt/aufgaben/switch-conf/images/uesdghdsughdsg.png",
     "3.Klasse/itsi/aufgaben/aufgabe2/Einrichten einer Multi-User-Umgebung.tex~",
     "3.Klasse/itsi/aufgaben/aufgabe2/Einrichten einer Multi-User-Umgebung.synctex(busy)",

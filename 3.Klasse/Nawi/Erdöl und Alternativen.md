@@ -16,4 +16,7 @@ Bsp
 Man versucht,erdölbasierte Grundstoffe durch Biomassebasierte Grundstuffe zu erstezen. Eine Möglichkeit basiert auf <mark style="background: #FFB8EBA6;">Fermentation:</mark>
 Mikrooganismen zerstzen Biomasse in Molekühle wie Alkohole, Säuren, Keton, Aldehyd oder Ester.
 Bsp: Alkoholoishe Garung:
-![[Erdöl und Alternativen 11-11-2024-37.excalidraw]]
+![[Erdöl und Alternativen 11-11-2024-37.excalidraw]]Es gibt auch andere Femrmationen: 
+Bsp:  IBE-Fermantation liefern Isoproponol, Butonol und Ethanol
+![[Erdöl und Alternativen 11-11-2024-12.excalidraw]]
+Die japanische Firma Mitsui Chemicals forst aktuell daran, Propen großtechnisch ausgehend von Biomasse herzustellen
