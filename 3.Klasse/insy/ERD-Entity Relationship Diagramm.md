@@ -23,7 +23,7 @@ tags:
 		- It need to be never changing 
 		- A primary key needs to be never null
 - Foreign Key
-	- The same as a primery key, it's just located in a foregein place.
+	- The same as a primary key, it's just located in a foregein place.
 	- Unlike a primary key, a foreign key does not have to be unique. It can be repeated inside a table.
 	- It's possible to have multiple foreign keys in one entity. 
 - Composite Primary Key
