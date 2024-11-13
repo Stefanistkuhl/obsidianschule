@@ -16,9 +16,9 @@ Argumente:
 
 Something something Menschen merken sich Geschichten leicht und Kunst erzählt Geschichten und is wichtig für Meinungsbildung und dann Aufklären.
 
-### tietel hier
+### Ein Text über Kunst, der viel zu Politisch geworden ist
 
 Sehr geehrte Redaktion, das Interview "Die Kunst und ihre Grenzen" mit Hanno Rauterberg behandelt das Thema, ob und wo die Grenzen für künstlerische Freiheit werden sollen. Zusätzlich geht es darum, ob die moralischen Standpunkte des Künstlers unabhängig von seiner Kunst sein sollten. Da ich finde, dass dies ein interessantes Thema ist, will ich meine Meinung dazu abgeben.
 
-Kunst dient schon seit langem als Mittel der Reflexion und zum Anregen von kritischen Hinterfragen von den behandelten Themen. Ein gutes Beispiel hierfür ist die Aktionskunst in den 1960er Jahren, welche oft im öffentlichen Raum stattfindet und das Ziel verfolgt, zu provozieren und zum Nachdenken anzuregen. Zum Beispiel in der Aktion „abgefertigt“ am Brandenburger Tor in Berlin, behandelte Kurt Fleckenstein das Thema Asyl, indem er 100 Jugendliche mit verbundenen Händen in sogenannten Migrantentaschen setzt, um die Hilflosigkeit der Asylbewerber:innen bei einer Abschiebung aufzuzeigen.
-Jedoch sollte künstlerische Freiheit ihre Grenzen haben, damit Kunst nicht zur einer Plattform für sämtliche Formen von Extremismus wird. Dies ist problem
+Kunst dient schon seit langem als Mittel der Reflexion und zum Anregen von kritischen Hinterfragen von den behandelten Themen. Ein gutes Beispiel hierfür ist die Aktionskunst , welche oft im öffentlichen Raum stattfindet und das Ziel verfolgt, zu provozieren und zum Nachdenken anzuregen. Zum Beispiel in der Aktion „abgefertigt“ am Brandenburger Tor in Berlin, behandelte Kurt Fleckenstein das Thema Asyl, indem er 100 Jugendliche mit verbundenen Händen in sogenannten Migrantentaschen setzt, um die Hilflosigkeit der Asylbewerber:innen bei einer Abschiebung aufzuzeigen.
+Jedoch sollte künstlerische Freiheit ihre Grenzen haben, damit Kunst nicht zur einer Plattform für sämtliche Formen von Extremismus wird. Dies ist problematisch, weil Kunst of einfach one Hinterfragen konsumiert wird und wenn in dieser "problematische" oder "extreme" Werte vermittelt werden, kann es die eigene Stellung zu diesen Themen unterbewusst beeinflussen, wenn ein regelmäßiger Konsum davon stattfindet. Im übertragenen Sinne pflantzt sich der Konsument i
