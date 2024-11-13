@@ -16,9 +16,13 @@ Argumente:
 
 Something something Menschen merken sich Geschichten leicht und Kunst erzählt Geschichten und is wichtig für Meinungsbildung und dann Aufklären.
 
-### Ein Text über Kunst, der viel zu Politisch geworden ist
+### Kunst zwischen Freiheit und Verantwortung
 
-Sehr geehrte Redaktion, das Interview "Die Kunst und ihre Grenzen" mit Hanno Rauterberg behandelt das Thema, ob und wo die Grenzen für künstlerische Freiheit werden sollen. Zusätzlich geht es darum, ob die moralischen Standpunkte des Künstlers unabhängig von seiner Kunst sein sollten. Da ich finde, dass dies ein interessantes Thema ist, will ich meine Meinung dazu abgeben.
+Sehr geehrte Redaktion, im Interview "Kunst und ihre Grenzen" mit Hanno Rauterberg geht es um die Frage, ob und wo die Grenzen der künstlerischen Freiheit liegen. Außerdem geht es um die Frage, ob die moralische Haltung des Künstlers unabhängig von seiner Kunst sein sollte. Da ich dies für ein interessantes Thema halte, möchte ich dazu Stellung nehmen.
 
-Kunst dient schon seit langem als Mittel der Reflexion und zum Anregen von kritischen Hinterfragen von den behandelten Themen. Ein gutes Beispiel hierfür ist die Aktionskunst , welche oft im öffentlichen Raum stattfindet und das Ziel verfolgt, zu provozieren und zum Nachdenken anzuregen. Zum Beispiel in der Aktion „abgefertigt“ am Brandenburger Tor in Berlin, behandelte Kurt Fleckenstein das Thema Asyl, indem er 100 Jugendliche mit verbundenen Händen in sogenannten Migrantentaschen setzt, um die Hilflosigkeit der Asylbewerber:innen bei einer Abschiebung aufzuzeigen.
-Jedoch sollte künstlerische Freiheit ihre Grenzen haben, damit Kunst nicht zur einer Plattform für sämtliche Formen von Extremismus wird. Dies ist problematisch, weil Kunst of einfach one Hinterfragen konsumiert wird und wenn in dieser "problematische" oder "extreme" Werte vermittelt werden, kann es die eigene Stellung zu diesen Themen unterbewusst beeinflussen, wenn ein regelmäßiger Konsum davon stattfindet. Im übertragenen Sinne pflantzt sich der Konsument i
+Kunst dient schon seit langem als Mittel der Reflexion und als Anregung, sich kritisch mit den behandelten Themen auseinanderzusetzen. Ein gutes Beispiel dafür ist die Aktionskunst, die oft im öffentlichen Raum stattfindet und das Ziel verfolgt, zu provozieren und zum Nachdenken anzuregen. In der Aktion „abgefertigt“ am Brandenburger Tor in Berlin beispielsweise thematisierte Kurt Fleckenstein das Thema Asyl, indem er 100 Jugendliche mit verbundenen Händen in so genannte Migrantentaschen steckte, um die Hilflosigkeit der Asylbewerber:innen im Falle einer Abschiebung aufzuzeigen.
+Die künstlerische Freiheit muss aber auch ihre Grenzen haben, damit Kunst nicht zu einer Plattform für Extremismus jeglicher Art wird. Dies ist deshalb problematisch, weil Kunst unhinterfragt konsumiert wird und die Vermittlung "problematischer" oder "extremer" Werte bei regelmäßigem Konsum unbewusst die eigene Einstellung zu diesen Themen beeinflussen kann. Im übertragenen Sinne pflanzt sich der Konsument bewusst oder unbewusst neue Ideen in den Kopf und das ist oft auch einer der Faktoren, die zu einer Radikalisierung jeglicher Art beitragen.
+
+Aus diesen Gründen fordere ich, dass wir uns der gesellschaftlichen und politischen Wirkung von Kunst bewusster werden und uns ihrer Vor- und Nachteile bewusst sind, anstatt leere und bedeutungslose Kunst zu schaffen.
+Mit freundlichen Grüßen
+Stefan Fürst
