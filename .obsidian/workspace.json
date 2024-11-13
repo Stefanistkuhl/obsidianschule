@@ -78,6 +78,18 @@
             }
           },
           {
+            "id": "df7a5ad1b6e23a08",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
+          },
+          {
             "id": "7614fef0e692b693",
             "type": "leaf",
             "state": {
@@ -106,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -274,11 +286,10 @@
       "markdown-importer:Open format converter": true,
       "templates:Insert template": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f9bf6d8e445a278",
+  "active": "df7a5ad1b6e23a08",
   "lastOpenFiles": [
     "3.Klasse/insy/Datenbank-Entwurf.md",
     "3.Klasse/insy/crowsfoot noation.md",
