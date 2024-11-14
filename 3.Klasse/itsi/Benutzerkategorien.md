@@ -33,3 +33,17 @@ Nutzeraufteilung
 
 - Wie können Nutzer zussamengefasst werden?
 	- mit Gruppen
+		- organisatorische
+			- Unterteilen in Origanisazionenstrukturen
+				- zb 3AHITN
+		- Sicherheit
+			- Fasst rechte zusasamen
+				- zb Zugriff auf N301
+	- Gruppen könnne aus mehren Nutzern und weiteren Gruppen bestehen
+		- sie werden Verschachtelt 
+			- ITEL
+				- 3AHITN
+				- 3AHITM
+				- Leherer:innen
+					- ZIVK
+					- ANGE
