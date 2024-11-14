@@ -1,0 +1,13 @@
+---
+tags:
+  - 3te_Klasse
+  - itsi
+---
+- priviligierte Benutzer
+	- unix: root (build in)
+	- Windows: Administrator (build in)
+	- um Konfigurationen am System durchzuführen
+		- services configuriren instlairen
+		- nutzer erstellen/verwalten
+- unpriviligierte Benutzer
+	- um Anwendungen auszuführen

@@ -11,10 +11,14 @@
             "id": "34572a479ac87129",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/itsi/Benutzerkategorien.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Benutzerkategorien"
             }
           }
         ]
@@ -191,6 +195,8 @@
   },
   "active": "34572a479ac87129",
   "lastOpenFiles": [
+    "3.Klasse/itsi/3kl itsi.md",
+    "3.Klasse/itsi/Benutzerkategorien.md",
     "3.Klasse/insy/ERD-Entity Relationship Diagramm.md",
     "3.Klasse/insy/Datenbank-Entwurf.md",
     "3.Klasse/deutsch/leser brief übubung thgy suely.md",
@@ -218,8 +224,6 @@
     "3.Klasse/Nawi/Erdöl und Alternativen.md",
     "bilder/Erdöl und Alternativen 11-11-2024-41.excalidraw.md",
     "3.Klasse/Nawi/3kl nawi.md",
-    "bilder/alkene thing was auch immer 04-11-2024-32.excalidraw.md",
-    "3.Klasse/Nawi/alkene thing was auch immer.md",
     "bilder/Pasted image 20241111120627.png",
     "bilder/Pasted image 20241111123728.png",
     "bilder/Pasted image 20241111123619.png",
