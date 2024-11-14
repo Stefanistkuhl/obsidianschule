@@ -13,7 +13,7 @@
 \lstset{emph={
 	EXPOSE,RUN,FROM,CMD,nc,tcp,udp,http,docker},emphstyle=\color{purple}
 }
-% \renewcommand{\\}{\hfill \break}
+\newcommand{\abc}{\hfill \break}
 \usepackage{fancyhdr}
 \usepackage{geometry}
 \geometry{
@@ -41,7 +41,7 @@
 \begin{document}
 \bibliographystyle{plain}
 \pagestyle{oida}
-\section*{Thema}
+\section*{GNU/Linux - Setting up a multi-user environment}
 \par\noindent\rule{\textwidth}{0.4pt}
 
 Laboratory protocol
@@ -89,14 +89,13 @@ To accomplish this, we set up a Docker image that does all the necessary setup s
 
 \subsection{Creating the Container}
 
-I decided to write my own dockerfile for this, which is a text file that describes the commands needed to create the desired image. Lets walk through how to create an image for the first task. \\
+I decided to write my own dockerfile for this, which is a text file that describes the commands needed to create the desired image. Lets walk through how to create an image for the first task. \abc
 We start by using the \texttt{FROM} keyword to specify the base image \cite{docker-glossary} from which we are starting.
-\\
-\texttt{FROM ubuntu:latest} \\
-I chose the ubuntu image \cite{ubuntu} and used the \texttt{latest} tag, which points to the latest LTS release.\\
-However, if we were to build, start, and execute in the container, we would not be able to do it because it would immediately showdown since nothing is running. \\
-To mitigate this, we add \texttt{CMD tail -F /dev/null} to the end of our Dockerfile. The \texttt{tail} command prints the last 10 lines of a file and the \texttt{-F} argument stands for follow, so it will run forever and print the last 10 lines of a given file.\cite{tail} I used the file \texttt{/dev/null}, which is a virtual device, so any data written to it will disappear. \cite{devnull} So we are essentially reading an empty file forever to keep the container up. \\
-
+\abc
+\texttt{FROM ubuntu:latest} \abc
+I chose the ubuntu image \cite{ubuntu} and used the \texttt{latest} tag, which points to the latest LTS release.\abc
+However, if we were to build, start, and execute in the container, we would not be able to do it because it would immediately showdown since nothing is running. \abc
+To mitigate this, we add \texttt{CMD tail -F /dev/null} to the end of our Dockerfile. The \texttt{tail} command prints the last 10 lines of a file and the \texttt{-F} argument stands for follow, so it will run forever and print the last 10 lines of a given file.\cite{tail} I used the file \texttt{/dev/null}, which is a virtual device, so any data written to it will disappear. \cite{devnull} So we are essentially reading an empty file forever to keep the container up. \abc
 If we now run the following commands to build the image, run the container and get a shell in it.
 \begin{lstlisting}[language=bash]
 #build the image
@@ -158,7 +157,7 @@ This happens because when you install Docker, it creates a virtual interface \te
 There are other types of Docker networks, but they are not relevant for this exercise.\cite{docker-networking-video}
 
 \newpage
-\subsection{creating and managing users}
+\subsection{Creating and managing users}
 
 To add groups and users, and to add users to groups, use the commands \texttt{groupadd, useradd, usermod}.
 To add the user, we add the following lines to our Dockerfile
@@ -177,7 +176,7 @@ RUN usermod -g ram-Users ram-alois &&\
 #settings chris's default shell to zsh
 RUN usermod --shell /bin/zsh ram-chris 
 \end{lstlisting}
-\subsubsection{logging in as the users}
+\subsubsection{Login as the users}
 
 To log in as another user, use the \texttt{su} command.
 
@@ -196,11 +195,11 @@ RUN mkdir -p /data/fus &&\
     mkdir /data/fus/chris &&\
     mkdir /data/fus/public
 \end{lstlisting}
-Three tools are used to set the permission: \texttt{chrgrp}, \texttt{chown} and \texttt{chmod}. \\
+Three tools are used to set the permission: \texttt{chrgrp}, \texttt{chown} and \texttt{chmod}. \abc
 First, we want everyone in the group to have access to the directory for which \texttt{chgrp -R ram-Users /data/fus/} is used with the \texttt{-R} argument, which means recursive \cite{perms,chgrp}.
-\\To give everyone all the permissions in their own directory, we need to make them the owner of it using \texttt{chown -R username:groupname /data/fus/name-of-directory}.\cite{chown} \\
-Now we can assign permissions to each directory using the \texttt{chmod}\cite{chmod} command. \\
-To better understand the command, here is a breakdown of the options: \\ 
+\\To give everyone all the permissions in their own directory, we need to make them the owner of it using \texttt{chown -R username:groupname /data/fus/name-of-directory}.\cite{chown} \abc
+Now we can assign permissions to each directory using the \texttt{chmod}\cite{chmod} command. \abc
+To better understand the command, here is a breakdown of the options: \abc
 \begin{lstlisting}
 u = user who owns the file
 g = group -> everyone in the group of the owner
@@ -228,11 +227,11 @@ chmod -R u+wrx,g+wrx,o=r /data/fus/public/
 	\centering
 	\includegraphics[scale=1.2]{images/testing_perms.png}
 	\caption{Testing permissions}
-\end{figure} \\
+\end{figure} \abc
 If we log in as the users, we can see that everything is working as intended.
 \newpage
-\subsection {setting up ssh}
-The two new users required for this have already been created above in 3.3 \\
+\subsection {Setting up ssh}
+The two new users required for this have already been created above in 3.3 \abc
 To set up an ssh server we need to install the package, if we just add \texttt{ssh} to our install command in the Dockerfile we find out that this command requires interactions to set the timezone we need to add these two extra lines to the Dockerfile.
 \begin{lstlisting}[language=bash]
 #setting the timezone
@@ -260,9 +259,9 @@ This is done with the command \texttt{netstat -tunlp | grep ssh}. The options of
 	\centering
 	\includegraphics[scale=0.4]{images/netstatssh.png}
 	\caption{Search for port with netstat}
-\end{figure} \\
-Apparently it is a "good practice" to switch from the default ssh port to a different port to avoid bots and script kiddies that scan the internet for public servers with ssh and test default passwords. I think this is snake oil to change ports for better security, because if you disable password authentication, have a strong password, or ban failing ips with tools like fail2ban, all the problems are solved anyway.\cite{hardening-linux-video} \\
-For this we need to edit the file \texttt{/etc/ssh/sshd\_config}. \\
+\end{figure} \abc
+Apparently it is a "good practice" to switch from the default ssh port to a different port to avoid bots and script kiddies that scan the internet for public servers with ssh and test default passwords. I think this is snake oil to change ports for better security, because if you disable password authentication, have a strong password, or ban failing ips with tools like fail2ban, all the problems are solved anyway.\cite{hardening-linux-video} \abc
+For this we need to edit the file \texttt{/etc/ssh/sshd\_config}. \abc
 I still changed the port to show how it would be done anyway.
 To do this, we can use the preinstalled text editor \texttt{sed}, so edit the file with the following command to change the port in the Dockerfile.
 \begin{lstlisting}[language=bash]
@@ -291,7 +290,7 @@ Even if we log in now, it still won't work because the user doesn't have a passw
 	\centering
 	\includegraphics[scale=0.4]{images/failingtologin.png}
 	\caption{Logging in without a password}
-\end{figure} \\
+\end{figure} \abc
 To fix this we add this line to our Dockerfile:
 \begin{lstlisting}[language=bash]
 RUN echo 'root:youresecurepasswordhere' | chpasswd
@@ -301,7 +300,7 @@ We change the root password instead of the user password because we do not have 
 	\centering
 	\includegraphics[scale=0.4]{images/workinglogin.png}
 	\caption{working login}
-\end{figure} \\
+\end{figure} \abc
 \newpage
 \subsubsection{enabeling keypair authenthication}
 To generate a key pair, we go back to our host system and run the command \texttt{ssh-keygen -b 4096} to generate a 4096-bit SSH key. \texttt{ssh-keygen}
@@ -310,19 +309,19 @@ On Linux, the keys are stored in the \texttt{~/.ssh} directory, but you can spec
 	\centering
 	\includegraphics[scale=0.5]{images/keys-in-the-dir.png}
 	\caption{keys in the directory}
-\end{figure} \\
+\end{figure} \abc
 To copy the public key to the server we want to use it on, we use the command \texttt{ssh-copy-id} on Linux and \texttt{scp} on Windows and Mac. \texttt{ssh-copy-id}
 \begin{figure}[h]
 	\centering
 	\includegraphics[scale=0.3]{images/ssh-copy-id.png}
 	\caption{ssh-copy-id}
-\end{figure} \\
+\end{figure} \abc
 After this we will not need to enter a password to authenticate.
 \begin{figure}[h]
 	\centering
 	\includegraphics[scale=0.35]{images/login-with-key.png}
 	\caption{logging with a key}
-\end{figure} \\
+\end{figure} \abc
 \newpage
 \subsubsection{Disable password authentication}
 To only allow key authentication, we need to edit the \texttt{/etc/ssh/sshd\_config} file again.
@@ -338,7 +337,7 @@ If we try to log in as another user for which we do not have a key, we cannot co
 	\centering
 	\includegraphics[scale=0.35]{images/nokey.png}
 	\caption{Not having a key}
-\end{figure} \\
+\end{figure} \abc
 \newpage
 \bibliography{quellen}
 \newpage

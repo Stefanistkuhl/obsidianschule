@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.9.9)  7 NOV 2024 15:20
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.9.9)  14 NOV 2024 15:48
  restricted system commands enabled.
  file:line:error style messages enabled.
 **"Einrichten einer Multi-User-Umgebung.tex"
@@ -351,12 +351,7 @@ File: images/logo.png Graphic file (type png)
 <use images/logo.png>
 Package luatex.def Info: images/logo.png  used on input line 86.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 92--99
-
- []
-
-(/opt/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
+[3] (/opt/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2024/05/25 1.10b listings language file
 ) (/opt/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2024/05/25 1.10b listings language file
@@ -364,50 +359,50 @@ File: lstlang1.sty 2024/05/25 1.10b listings language file
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 128.
+Package luatex.def Info: images/logo.png  used on input line 127.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [4]
 <images/ping_internet.png, id=22, 805.0075pt x 465.74pt>
 File: images/ping_internet.png Graphic file (type png)
 <use images/ping_internet.png>
-Package luatex.def Info: images/ping_internet.png  used on input line 134.
+Package luatex.def Info: images/ping_internet.png  used on input line 133.
 (luatex.def)             Requested size: 241.50412pt x 139.72307pt.
 <images/ping_lokal.png, id=23, 632.3625pt x 404.51125pt>
 File: images/ping_lokal.png Graphic file (type png)
 <use images/ping_lokal.png>
-Package luatex.def Info: images/ping_lokal.png  used on input line 139.
+Package luatex.def Info: images/ping_lokal.png  used on input line 138.
 (luatex.def)             Requested size: 189.7102pt x 121.35431pt.
 
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 142.
+Package luatex.def Info: images/logo.png  used on input line 141.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [5<./images/ping_internet.png><./images/ping_lokal.png>]
 <images/docker_inspect_nw.png, id=27, 843.15pt x 346.29375pt>
 File: images/docker_inspect_nw.png Graphic file (type png)
 <use images/docker_inspect_nw.png>
-Package luatex.def Info: images/docker_inspect_nw.png  used on input line 149.
+Package luatex.def Info: images/docker_inspect_nw.png  used on input line 148.
 (luatex.def)             Requested size: 252.94695pt x 103.88892pt.
 <images/ipadocker.png, id=28, 1047.915pt x 117.43875pt>
 File: images/ipadocker.png Graphic file (type png)
 <use images/ipadocker.png>
-Package luatex.def Info: images/ipadocker.png  used on input line 155.
+Package luatex.def Info: images/ipadocker.png  used on input line 154.
 (luatex.def)             Requested size: 314.37692pt x 35.23189pt.
 
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 160.
+Package luatex.def Info: images/logo.png  used on input line 159.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [6<./images/docker_inspect_nw.png><./images/ipadocker.png>]
 <images/logggingin.png, id=33, 384.43625pt x 318.18875pt>
 File: images/logggingin.png Graphic file (type png)
 <use images/logggingin.png>
-Package luatex.def Info: images/logggingin.png  used on input line 186.
+Package luatex.def Info: images/logggingin.png  used on input line 185.
 (luatex.def)             Requested size: 115.33176pt x 95.45735pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 199--204
+Underfull \hbox (badness 10000) in paragraph at lines 198--203
 
  []
 
@@ -415,34 +410,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 199--204
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 208.
+Package luatex.def Info: images/logo.png  used on input line 207.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [7<./images/logggingin.png>]
-Overfull \hbox (20.30829pt too wide) in paragraph at lines 219--220
+Overfull \hbox (20.30829pt too wide) in paragraph at lines 218--219
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 <images/testing_perms.png, id=38, 145.9854pt x 215.6055pt>
 File: images/testing_perms.png Graphic file (type png)
 <use images/testing_perms.png>
-Package luatex.def Info: images/testing_perms.png  used on input line 229.
+Package luatex.def Info: images/testing_perms.png  used on input line 228.
 (luatex.def)             Requested size: 175.18158pt x 258.7253pt.
 
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 233.
+Package luatex.def Info: images/logo.png  used on input line 232.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [8<./images/testing_perms.png>]
 <images/netstatssh.png, id=43, 934.49126pt x 67.25125pt>
 File: images/netstatssh.png Graphic file (type png)
 <use images/netstatssh.png>
-Package luatex.def Info: images/netstatssh.png  used on input line 261.
+Package luatex.def Info: images/netstatssh.png  used on input line 260.
 (luatex.def)             Requested size: 373.78989pt x 26.90001pt.
 <images/loggingin-before-expsing-the-port.png, id=44, 591.20876pt x 122.4575pt>
 File: images/loggingin-before-expsing-the-port.png Graphic file (type png)
 <use images/loggingin-before-expsing-the-port.png>
-Package luatex.def Info: images/loggingin-before-expsing-the-port.png  used on input line 279.
+Package luatex.def Info: images/loggingin-before-expsing-the-port.png  used on input line 278.
 (luatex.def)             Requested size: 236.47931pt x 48.98212pt.
 
 
@@ -451,7 +446,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <images/failingtologin.png, id=45, 768.8725pt x 241.90375pt>
 File: images/failingtologin.png Graphic file (type png)
 <use images/failingtologin.png>
-Package luatex.def Info: images/failingtologin.png  used on input line 292.
+Package luatex.def Info: images/failingtologin.png  used on input line 291.
 (luatex.def)             Requested size: 307.54355pt x 96.75978pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -460,16 +455,16 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 296.
+Package luatex.def Info: images/logo.png  used on input line 295.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [9<./images/netstatssh.png>]
 <images/workinglogin.png, id=50, 725.71124pt x 334.24875pt>
 File: images/workinglogin.png Graphic file (type png)
 <use images/workinglogin.png>
-Package luatex.def Info: images/workinglogin.png  used on input line 302.
+Package luatex.def Info: images/workinglogin.png  used on input line 301.
 (luatex.def)             Requested size: 290.27936pt x 133.69713pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--305
+Underfull \hbox (badness 10000) in paragraph at lines 298--304
 
  []
 
@@ -477,26 +472,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 299--305
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 305.
+Package luatex.def Info: images/logo.png  used on input line 304.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [10<./images/loggingin-before-expsing-the-port.png><./images/failingtologin.png><./images/workinglogin.png>]
 <images/keys-in-the-dir.png, id=55, 303.1325pt x 83.31125pt>
 File: images/keys-in-the-dir.png Graphic file (type png)
 <use images/keys-in-the-dir.png>
-Package luatex.def Info: images/keys-in-the-dir.png  used on input line 311.
+Package luatex.def Info: images/keys-in-the-dir.png  used on input line 310.
 (luatex.def)             Requested size: 151.56587pt x 41.65552pt.
 <images/ssh-copy-id.png, id=56, 1108.14pt x 313.17pt>
 File: images/ssh-copy-id.png Graphic file (type png)
 <use images/ssh-copy-id.png>
-Package luatex.def Info: images/ssh-copy-id.png  used on input line 317.
+Package luatex.def Info: images/ssh-copy-id.png  used on input line 316.
 (luatex.def)             Requested size: 332.44456pt x 93.95172pt.
 <images/login-with-key.png, id=57, 725.71124pt x 334.24875pt>
 File: images/login-with-key.png Graphic file (type png)
 <use images/login-with-key.png>
-Package luatex.def Info: images/login-with-key.png  used on input line 323.
+Package luatex.def Info: images/login-with-key.png  used on input line 322.
 (luatex.def)             Requested size: 254.00273pt x 116.9888pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 307--326
+Underfull \hbox (badness 10000) in paragraph at lines 306--325
 
  []
 
@@ -504,16 +499,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 307--326
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 326.
+Package luatex.def Info: images/logo.png  used on input line 325.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [11<./images/keys-in-the-dir.png><./images/ssh-copy-id.png><./images/login-with-key.png>]
 <images/nokey.png, id=63, 591.20876pt x 122.4575pt>
 File: images/nokey.png Graphic file (type png)
 <use images/nokey.png>
-Package luatex.def Info: images/nokey.png  used on input line 339.
+Package luatex.def Info: images/nokey.png  used on input line 338.
 (luatex.def)             Requested size: 206.92616pt x 42.86075pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 336--342
+Underfull \hbox (badness 10000) in paragraph at lines 335--341
 
  []
 
@@ -521,13 +516,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 336--342
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 342.
+Package luatex.def Info: images/logo.png  used on input line 341.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [12<./images/nokey.png>] ("./Einrichten einer Multi-User-Umgebung.bbl")
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 344.
+Package luatex.def Info: images/logo.png  used on input line 343.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [13] ("./Einrichten einer Multi-User-Umgebung.lof")
 \tf@lof=\write4
@@ -537,13 +532,13 @@ Package luatex.def Info: images/logo.png  used on input line 344.
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 348.
+Package luatex.def Info: images/logo.png  used on input line 347.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [14]
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 404.
+Package luatex.def Info: images/logo.png  used on input line 403.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [15] ("./Einrichten einer Multi-User-Umgebung.aux")
  ***********
@@ -553,16 +548,16 @@ L3 programming layer <2024-08-16>
 )
 
 Here is how much of LuaTeX's memory you used:
- 7168 strings out of 475910
+ 7169 strings out of 475910
  156263,1977958 words of node,token memory allocated
  421 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 51 glue_spec, 4 attribute_list, 1 write nodes
-   avail lists: 2:3532,3:210,4:731,5:944,6:122,7:9960,8:1,9:4688,10:9,11:208
- 29621 multiletter control sequences out of 65536+600000
+   avail lists: 2:3532,3:201,4:731,5:944,6:122,7:9962,8:1,9:4688,10:9,11:208
+ 29622 multiletter control sequences out of 65536+600000
  34 fonts using 2524711 bytes
  79i,17n,89p,802b,799s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf>
-Output written on Einrichten einer Multi-User-Umgebung.pdf (15 pages, 1549152 bytes).
+Output written on Einrichten einer Multi-User-Umgebung.pdf (15 pages, 1549609 bytes).
 
 PDF statistics: 111 PDF objects out of 1000 (max. 8388607)
  54 compressed objects within 1 object stream

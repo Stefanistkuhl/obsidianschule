@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex Einrichten einer Multi-User-Umgebung"] 1730848089.06623 "Einrichten einer Multi-User-Umgebung.aux" "Einrichten einer Multi-User-Umgebung.bbl" "Einrichten einer Multi-User-Umgebung" 1730989221.65146 0
+["bibtex Einrichten einer Multi-User-Umgebung"] 1731595693.60538 "Einrichten einer Multi-User-Umgebung.aux" "Einrichten einer Multi-User-Umgebung.bbl" "Einrichten einer Multi-User-Umgebung" 1731595695.91129 0
   "./quellen.bib" 1730707290.82083 4477 0f1e0cc4dfe6d67ed1a79d89ba7de5ce ""
   "/opt/texlive/2024/texmf-dist/bibtex/bst/base/plain.bst" 1725910155 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "Einrichten einer Multi-User-Umgebung.aux" 1730989220.29068 4228 ee243215cef4b805a7e76ee85d25635c "lualatex"
+  "Einrichten einer Multi-User-Umgebung.aux" 1731595695.45179 4223 5526c7bc993948ad0dffc1790100f003 "lualatex"
   (generated)
   "Einrichten einer Multi-User-Umgebung.bbl"
   "Einrichten einer Multi-User-Umgebung.blg"
   (rewritten before read)
-["lualatex"] 1730989216.77821 "Einrichten einer Multi-User-Umgebung.tex" "Einrichten einer Multi-User-Umgebung.pdf" "Einrichten einer Multi-User-Umgebung" 1730989221.65243 0
+["lualatex"] 1731595693.75213 "Einrichten einer Multi-User-Umgebung.tex" "Einrichten einer Multi-User-Umgebung.pdf" "Einrichten einer Multi-User-Umgebung" 1731595695.9115 0
   "/home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc" 1728546912.92843 81831 9d0f9c90ea17bba23d6c76c6cf5743d1 ""
   "/home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc" 1728023820.71453 128404 ce93807fb8d5375cfa326b8cd1a33966 ""
   "/home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-italic.luc" 1730844021.38556 136306 f124af5db0c84b8a973bb4080bbe411b ""
@@ -124,11 +124,11 @@
   "/opt/texlive/2024/texmf-dist/tex/luatex/luaotfload/luaotfload.lua" 1725910155 13565 50482dad4c221a79dbdbb982122baf8c ""
   "/opt/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1725910155 5498194 34d313b590f78f31067828739fd13622 ""
   "/opt/texlive/2024/texmf-var/web2c/luahbtex/lualatex.fmt" 1725910155 12285504 6472c4cd048f626e3738e256e2560f58 ""
-  "Einrichten einer Multi-User-Umgebung.aux" 1730989220.29068 4228 ee243215cef4b805a7e76ee85d25635c "lualatex"
-  "Einrichten einer Multi-User-Umgebung.bbl" 1730848089.20538 1516 1b6bcf6dcd643e868c24edc804d7f9b4 "bibtex Einrichten einer Multi-User-Umgebung"
-  "Einrichten einer Multi-User-Umgebung.lof" 1730989220.29401 1224 0df468a5b94bc90e376315d8899759ce "lualatex"
-  "Einrichten einer Multi-User-Umgebung.tex" 1730989214.95382 17527 9ca2a886158c6de2150de7662de41c52 ""
-  "Einrichten einer Multi-User-Umgebung.toc" 1730989220.29068 1090 f0c2517ec2f63e22742d56dd5dd053b1 "lualatex"
+  "Einrichten einer Multi-User-Umgebung.aux" 1731595695.45179 4223 5526c7bc993948ad0dffc1790100f003 "lualatex"
+  "Einrichten einer Multi-User-Umgebung.bbl" 1731595693.74178 1516 1b6bcf6dcd643e868c24edc804d7f9b4 "bibtex Einrichten einer Multi-User-Umgebung"
+  "Einrichten einer Multi-User-Umgebung.lof" 1731595695.45179 1224 0df468a5b94bc90e376315d8899759ce "lualatex"
+  "Einrichten einer Multi-User-Umgebung.tex" 1731595690.57844 17602 73486cb4e0062c506b0b6fc64af51352 ""
+  "Einrichten einer Multi-User-Umgebung.toc" 1731595695.45179 1085 f79abb5e863ca19380b5118b2ef2c82b "lualatex"
   "images/docker_inspect_nw.png" 1730707290.81417 31249 531562f47040f57f3a75a609cc52c589 ""
   "images/failingtologin.png" 1730707290.81417 39020 4f947ae606689eecd979d1ee42824e4e ""
   "images/ipadocker.png" 1730707290.81417 129719 a915098a744ccb5f9498849a45be2528 ""

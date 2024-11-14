@@ -4,10 +4,10 @@
 \contentsline {subsection}{\numberline {3.1}Creating the Container}{4}{}%
 \contentsline {subsection}{\numberline {3.2}Testing Connectivity}{5}{}%
 \contentsline {subsubsection}{\numberline {3.2.1}It works, but why?}{6}{}%
-\contentsline {subsection}{\numberline {3.3}creating and managing users}{7}{}%
-\contentsline {subsubsection}{\numberline {3.3.1}logging in as the users}{7}{}%
+\contentsline {subsection}{\numberline {3.3}Creating and managing users}{7}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}Login as the users}{7}{}%
 \contentsline {subsection}{\numberline {3.4}Set directory privileges}{7}{}%
-\contentsline {subsection}{\numberline {3.5}setting up ssh}{9}{}%
+\contentsline {subsection}{\numberline {3.5}Setting up ssh}{9}{}%
 \contentsline {subsubsection}{\numberline {3.5.1}Logging On to the SSH Server}{9}{}%
 \contentsline {subsubsection}{\numberline {3.5.2}enabeling keypair authenthication}{11}{}%
 \contentsline {subsubsection}{\numberline {3.5.3}Disable password authentication}{12}{}%
