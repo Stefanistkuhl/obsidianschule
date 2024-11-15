@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4c768384a81f6177",
+        "id": "f9e14e664614dbcc",
         "type": "tabs",
         "children": [
           {
-            "id": "0528cac68b0ddb85",
+            "id": "c7c0bb81a5b2ffc6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/deutsch/something something dssa leserbrief lernen ofmg.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "something something dssa leserbrief lernen ofmg"
             }
           }
         ]
@@ -189,8 +193,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0528cac68b0ddb85",
+  "active": "c7c0bb81a5b2ffc6",
   "lastOpenFiles": [
+    "3.Klasse/deutsch/3kl deutsch.md",
+    "3.Klasse/deutsch/something something dssa leserbrief lernen ofmg.md",
+    "3.Klasse/Nawi/Erdöl und Alternativen.md",
+    "3.Klasse/Nawi/3kl nawi.md",
+    "3.Klasse/Nawi/Redoxreaktionen.md",
+    "3.Klasse/Nawi/alkene thing was auch immer.md",
+    "3.Klasse/Nawi/Nomenklatur vom KW.md",
+    "3.Klasse/Nawi/Organischer Chemie.md",
     "3.Klasse/itsi/aufgaben/aufgabe2/Einrichten einer Multi-User-Umgebung.tex~",
     "3.Klasse/itsi/aufgaben/aufgabe2/abgabe/GRP-7-Raichle-Fürst-Lab-2.zip",
     "3.Klasse/itsi/aufgaben/aufgabe2/abgabe/zizWuDjN",
@@ -201,7 +213,6 @@
     "3.Klasse/itsi/aufgaben/aufgabe2/Einrichten einer Multi-User-Umgebung.synctex(busy)",
     "3.Klasse/itsi/aufgaben/aufgabe2/lualatex26796.fls",
     "3.Klasse/itsi/aufgaben/aufgabe2/lualatex26787.fls",
-    "3.Klasse/itsi/aufgaben/aufgabe2/lualatex26721.fls",
     "3.Klasse/ggp/Meneschnrechte.md",
     "3.Klasse/ggp/Franzöische Revolution.md",
     "bilder/Pasted image 20241114142613.png",
@@ -221,16 +232,9 @@
     "3.Klasse/insy/crowsfoot noation.md",
     "3.Klasse/itsi/Asymetrische Verschlüsselung.md",
     "3.Klasse/insy/Schlüssel.md",
-    "lernen insy.md",
-    "3.Klasse/insy/Insy-Begriffe.md",
-    "3.Klasse/insy/Optionalität.md",
-    "3.Klasse/insy/Kardinalität.md",
-    "templates/Insy.md",
-    "3.Klasse/mathe/kruvenskission feat gebbebra.md",
     "bilder/Pasted image 20241112124513.png",
     "bilder/Pasted image 20241112121847.png",
     "bilder/Pasted image 20241112121445.png",
-    "3.Klasse/mathe/Kurvendiskussion.md",
     "bilder/Pasted image 20241111120627.png",
     "bilder/Pasted image 20241111123728.png",
     "bilder/Pasted image 20241111123619.png",
