@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f9e14e664614dbcc",
+        "id": "8538b2c2c47b225e",
         "type": "tabs",
         "children": [
           {
-            "id": "c7c0bb81a5b2ffc6",
+            "id": "3219c5c0730b83c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -189,13 +189,14 @@
       "markdown-importer:Open format converter": true,
       "templates:Insert template": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c7c0bb81a5b2ffc6",
+  "active": "3219c5c0730b83c5",
   "lastOpenFiles": [
-    "3.Klasse/deutsch/3kl deutsch.md",
     "3.Klasse/deutsch/something something dssa leserbrief lernen ofmg.md",
+    "3.Klasse/deutsch/3kl deutsch.md",
     "3.Klasse/Nawi/Erdöl und Alternativen.md",
     "3.Klasse/Nawi/3kl nawi.md",
     "3.Klasse/Nawi/Redoxreaktionen.md",
