@@ -17,5 +17,8 @@
   "promptDelete": false,
   "vimMode": true,
   "showLineNumber": true,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "spellcheckDictionary": [
+    "nab"
+  ]
 }
