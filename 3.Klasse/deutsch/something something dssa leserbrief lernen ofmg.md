@@ -18,6 +18,7 @@ Argumente:
 - ja die welt ändert sich zb kann man mache sachen wie zb das nwort enf nd mehr sagen lol checke sein problem nd nur weil es "kunst" ist darfst du nd zu nem schwarzen das nwort sagen
 ### ein tietel wär schön
 
-In dem Interview "Die Kunst und ihre Grenze", erschienen am 15.12.2022 in der Tiroler Tageszeitung, stellt der interviewte Kunstkritiker Hanno Rauterberg seine Meinung zu dem Thema, ob unsere "neuen gesellschaftlichen Tabus" eine Bedrohung für die Kunst sind, vor. Da ich eine andere Ansicht vertrete, möchte ich diese im folgengen Leserbrief präsentieren.
+In dem Interview "Die Kunst und ihre Grenze", erschienen am 15.12.2022 in der Tiroler Tageszeitung, stellt der interviewte Kunstkritiker Hanno Rauterberg seine Meinung zu dem Thema, ob unsere "neuen gesellschaftlichen Tabus" eine Bedrohung für die Kunst sind, vor. Da ich eine andere Ansicht vertrete, möchte ich diese im folgenden Leserbrief präsentieren.
 
 Rauterberg ist der Ansicht, dass es oft zu Konflikten mit einem Teil des Publikums kommt, welcher dem "linksliberalen Milieu" angehört, weil dieser Teil des Publikums sich gegen Diskriminierung, die durch Kunst stattfindet, ausspricht. Denn vertritt er die Auffassung, dass Kunst und Künstler:innen unabhängig voneinander betrachtet werden sollen. 
+Dieser Aussage stimme ich überhaupt nicht 
