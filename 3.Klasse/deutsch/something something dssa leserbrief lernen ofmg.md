@@ -21,4 +21,4 @@ Argumente:
 In dem Interview "Die Kunst und ihre Grenze", erschienen am 15.12.2022 in der Tiroler Tageszeitung, stellt der interviewte Kunstkritiker Hanno Rauterberg seine Meinung zu dem Thema, ob unsere "neuen gesellschaftlichen Tabus" eine Bedrohung für die Kunst sind, vor. Da ich eine andere Ansicht vertrete, möchte ich diese im folgenden Leserbrief präsentieren.
 
 Rauterberg ist der Ansicht, dass es oft zu Konflikten mit einem Teil des Publikums kommt, welcher dem "linksliberalen Milieu" angehört, weil dieser Teil des Publikums sich gegen Diskriminierung, die durch Kunst stattfindet, ausspricht. Denn vertritt er die Auffassung, dass Kunst und Künstler:innen unabhängig voneinander betrachtet werden sollen. 
-Dieser Aussage stimme ich überhaupt nicht zu, da 
+Dieser Aussage stimme ich überhaupt nicht zu, da meiner Meinung nach, das Kreieren guter Kunst einen über jegliche Moral stellen sollte. Ein gutes Beispiel hierfür ist die Band "Rammstein", nur weil man deren Musik bevorzugt, bedeutet das nicht, dass deren Skandale 
