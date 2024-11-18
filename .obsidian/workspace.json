@@ -204,8 +204,7 @@
       "markdown-importer:Open format converter": true,
       "templates:Insert template": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "3219c5c0730b83c5",
