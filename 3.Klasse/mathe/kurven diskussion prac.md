@@ -6,3 +6,5 @@ tags:
 4.32)
 f)
 $$f(x)=\frac{x²+2x-3}{x-1}$$
+Nulstellen
+![[Pasted image 20241118182430.png]]
