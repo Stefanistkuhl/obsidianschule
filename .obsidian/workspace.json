@@ -11,14 +11,12 @@
             "id": "3219c5c0730b83c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "3.Klasse/deutsch/something something dssa leserbrief lernen ofmg.md",
-                "mode": "source",
-                "source": false
+                "file": "Zeichnungen/2025 Bingo.md"
               },
-              "icon": "lucide-file",
-              "title": "something something dssa leserbrief lernen ofmg"
+              "icon": "excalidraw-icon",
+              "title": "2025 Bingo"
             }
           },
           {
@@ -204,14 +202,17 @@
       "markdown-importer:Open format converter": true,
       "templates:Insert template": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "3219c5c0730b83c5",
   "lastOpenFiles": [
+    "Zeichnungen/2025 Bingo.md",
+    "Excalidraw/2025 Bingo.md",
+    "3.Klasse/deutsch/something something dssa leserbrief lernen ofmg.md",
     "3.Klasse/deutsch/leser brief übubung thgy suely.md",
     "3.Klasse/deutsch/Leserbief.md",
-    "3.Klasse/deutsch/something something dssa leserbrief lernen ofmg.md",
     "3.Klasse/deutsch/3kl deutsch.md",
     "3.Klasse/Nawi/Erdöl und Alternativen.md",
     "3.Klasse/Nawi/3kl nawi.md",
@@ -244,8 +245,6 @@
     "3.Klasse/insy/Relationale Datenbank Systeme.md",
     "3.Klasse/insy/Realtionales Datenbank Magment System.md",
     "3.Klasse/insy/insy teststoff 1311.md",
-    "3.Klasse/insy/crowsfoot noation.md",
-    "3.Klasse/itsi/Asymetrische Verschlüsselung.md",
     "bilder/Pasted image 20241112124513.png",
     "bilder/Pasted image 20241112121847.png",
     "bilder/Pasted image 20241112121445.png",
