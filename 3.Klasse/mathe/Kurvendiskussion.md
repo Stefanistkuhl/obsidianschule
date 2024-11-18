@@ -9,6 +9,8 @@ tags:
 ![[Pasted image 20241104123217.png]]
 ![[Pasted image 20241104122634.png]]
 ![[Pasted image 20241104123141.png]]
+![[Pasted image 20241118175605.png]]
+
 
 [[kurvendiskissionbsp]]
 [[kruvenskission feat gebbebra]]
