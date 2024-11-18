@@ -35,8 +35,7 @@
               "title": "kurvendiskissionbsp"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,10 +208,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "60a7a8c9ecaac74f",
+  "active": "5571b43418e25e6d",
   "lastOpenFiles": [
-    "3.Klasse/mathe/kurven diskussion prac.md",
+    "bilder/Pasted image 20241118200520.png",
+    "bilder/Pasted image 20241118200340.png",
+    "bilder/Pasted image 20241118195543.png",
     "3.Klasse/mathe/kurvendiskissionbsp.md",
+    "3.Klasse/mathe/kurven diskussion prac.md",
     "bilder/Pasted image 20241118193747.png",
     "bilder/Pasted image 20241118191852.png",
     "bilder/Pasted image 20241118191614.png",
@@ -254,8 +256,6 @@
     "3.Klasse/insy/Entity Relationship-Model.md",
     "bilder/Pasted image 20241112124513.png",
     "bilder/Pasted image 20241112121847.png",
-    "bilder/Pasted image 20241112121445.png",
-    "bilder/Pasted image 20241111120627.png",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
     "Zeichnungen/Untitled.canvas"
   ]
