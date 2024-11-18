@@ -20,5 +20,6 @@ Nustelle
 Extremstellen
 lokales Minimum (-1|-0.5)
 ![[Pasted image 20241118191852.png]]
-lokales Maximum
-
+lokales Maximum (1|0.5)
+![[Pasted image 20241118193747.png]]
+Wendepunkt
