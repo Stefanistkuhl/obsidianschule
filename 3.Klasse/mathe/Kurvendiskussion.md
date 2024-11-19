@@ -14,3 +14,4 @@ tags:
 
 [[kurvendiskissionbsp]]
 [[kruvenskission feat gebbebra]]
+[[Umgekehrte Kurvendiskussion]]

@@ -1,0 +1,26 @@
+---
+tags:
+  - m
+  - 3te_Klasse
+---
+- Bisher: 
+	- Kurvendiskussion: 
+		- Man <mark style="background: #FFB8EBA6;">kennt</mark> die Fkt.gfg und den Graphen einer Funktion.
+- Jetzt:
+	- Umgekerhte Kurvendiskussion
+		- Man kennt einige Eigenschaften der Fkt.
+		- Man bestimmt die Fkt.gfg (und den Graphen)
+4.51)b)
+$$f(x)=ax³+bx¹+cx+d$$
+- Wann?
+	- Hochpunkt H=(1|9)
+	- Tiefpunkt T=(3|5)
+Gleichungssystem bilden
+```math
+||{"id":1529919127584}||
+
+|:f'(1)=0
+||:f'(3)=0
+|||:f(1)=9
+IV:f(3)=5
+```
