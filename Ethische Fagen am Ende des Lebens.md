@@ -5,3 +5,17 @@ tags:
 ---
 - Sterbehilfe
 - Nach dem Tod
+- Sterben in Würde
+
+- Sterbehilfe
+	- Aktiv
+		- Beiheilfe beim Suizid
+		- Tötung auf Verlangen
+			- Person von außen setzt tödliche Maßnahmen
+			- in Ö verboten
+	- Passiv
+		- keine Lebensverlängerden Maßnahmen
+			- (assistiver suizid)
+			- Person selbst nimmt Medikament ein
+		- indirekte Sterbehilfe
+			- sterben wird durch zb Schwerzmittel beschleunigt
