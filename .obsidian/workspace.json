@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "medizin ethik.md",
+                "file": "Ethische Fagen am Ende des Lebens.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "medizin ethik"
+              "title": "Ethische Fagen am Ende des Lebens"
             }
           }
         ]
@@ -196,6 +196,8 @@
   },
   "active": "e365d2b72fec0ff3",
   "lastOpenFiles": [
+    "medizin ethik.md",
+    "Ethische Fagen am Ende des Lebens.md",
     "3.Klasse/insy/ERD-Entity Relationship Diagramm.md",
     "3.Klasse/insy/something something insy test lernen.md",
     "3.Klasse/mathe/Umgekehrte Kurvendiskussion.md",
@@ -240,7 +242,6 @@
     "3.Klasse/ggp/Franzosen.md",
     "3.Klasse/itsi/Benutzerkategorien.md",
     "3.Klasse/itsi/3kl itsi.md",
-    "3.Klasse/insy/Datenbank-Entwurf.md",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
     "Zeichnungen/Untitled.canvas"
   ]
