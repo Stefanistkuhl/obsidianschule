@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Ethische Fagen am Ende des Lebens"
             }
+          },
+          {
+            "id": "1a1ee996cf8c23b1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,11 +203,10 @@
       "markdown-importer:Open format converter": true,
       "templates:Insert template": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e365d2b72fec0ff3",
+  "active": "1a1ee996cf8c23b1",
   "lastOpenFiles": [
     "medizin ethik.md",
     "Ethische Fagen am Ende des Lebens.md",
