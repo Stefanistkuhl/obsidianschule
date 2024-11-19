@@ -24,3 +24,6 @@ Gleichungssystem bilden
 |||:f(1)=9
 IV:f(3)=5
 ```
+geobegra handeln lassen
+dann strg click alle zeilen dann auf solve
+![[Pasted image 20241119124730.png]]
