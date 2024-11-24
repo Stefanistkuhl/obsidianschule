@@ -6,7 +6,7 @@ tags:
 - Alkene
 	- = ungesättigte Kohlenwasserstoffe
 		- Weisen Mehrfachbindungen auf → mindestens eine Doppelbindung
-		
+		- erkennbar an der Endsilbe en
 #### Allgemeine Formel der Alkene:
 $$C_{n}H_{2n}$$
 n ... Anzahl der C-Atome
