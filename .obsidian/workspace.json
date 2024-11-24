@@ -46,9 +46,21 @@
               "icon": "lucide-file",
               "title": "table of content"
             }
+          },
+          {
+            "id": "56408900f7c18de9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/article zettel thing 21-10-2024-11.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "article zettel thing 21-10-2024-11.excalidraw"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -220,8 +232,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e3ba386214fdd0eb",
+  "active": "56408900f7c18de9",
   "lastOpenFiles": [
+    "3.Klasse/englisch/article zettel thing.md",
+    "3.Klasse/englisch/article.md",
+    "3.Klasse/englisch/table of content.md",
+    "bilder/article zettel thing 21-10-2024-29.excalidraw.md",
     "2.Klasse/English/~$rst_Hü1.docx",
     "3.Klasse/englisch/3kl eng.md",
     "3.Klasse/Nawi/smü alekene lernen oder so.md",
@@ -245,10 +261,7 @@
     "3.Klasse/deutsch/something something dssa leserbrief lernen ofmg.md",
     "3.Klasse/insy/ERD-Entity Relationship Diagramm.md",
     "3.Klasse/insy/something something insy test lernen.md",
-    "3.Klasse/mathe/Umgekehrte Kurvendiskussion.md",
     "bilder/Pasted image 20241119124730.png",
-    "3.Klasse/mathe/Kurvendiskussion.md",
-    "3.Klasse/mathe/kurvendiskissionbsp.md",
     "bilder/Pasted image 20241118200520.png",
     "bilder/Pasted image 20241118200340.png",
     "bilder/Pasted image 20241118195543.png",
@@ -266,7 +279,6 @@
     "3.Klasse/itsi/aufgaben/aufgabe2/abgabe",
     "3.Klasse/itsi/aufgaben/aufgabe2/Einrichten einer Multi-User-Umgebung.synctex(busy)",
     "3.Klasse/itsi/aufgaben/aufgabe2/lualatex26796.fls",
-    "3.Klasse/itsi/aufgaben/aufgabe2/lualatex26787.fls",
     "bilder/Pasted image 20241114142613.png",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
     "Zeichnungen/Untitled.canvas"
