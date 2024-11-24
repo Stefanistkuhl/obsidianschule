@@ -72,6 +72,11 @@
       "folder": "3.Klasse/insy",
       "tag": "#insy",
       "pattern": ""
+    },
+    {
+      "folder": "3.Klasse/ehtik",
+      "tag": "#ehtik",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,

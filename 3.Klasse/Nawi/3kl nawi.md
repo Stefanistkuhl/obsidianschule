@@ -7,3 +7,4 @@ tags:
 [[Redoxreaktionen]]
 [[Organischer Chemie]]
 [[Erdöl und Alternativen]]
+[[smü alekene lernen oder so]]
