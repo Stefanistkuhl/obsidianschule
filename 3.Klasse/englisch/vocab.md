@@ -66,3 +66,5 @@ tags:
 	- container for the glass where you throw it in altglaskontainer aber besser
 - thrifty/economical
 	- saving things and beeing sparing and saving a lot
+- surplus
+	- Überschuss
