@@ -27,3 +27,14 @@ IV:f(3)=5
 geobegra handeln lassen
 dann strg click alle zeilen dann auf solve
 ![[Pasted image 20241119124730.png]]
+
+x1 ... Extremstelle ⇐⇒ f'(x1)=0
+x1 ... Nustelle ⇐⇒ f''(x1)=0
+x1 ... Wendestelle ⇐⇒ f'''(x1)=0
+P=(x1|y1) liegt auf f ⇐⇒ f(x1)=y
+
+bei x1 ist die Steigung 0.5 ⇐⇒ f'(x1)=0.5
+bei x1 ist der Steigungswinkel 30° bei ⇐⇒ f'(x1)=tan(30)
+
+![[Umgekehrte Kurvendiskussion 25-11-2024-07.excalidraw]]
+1)
