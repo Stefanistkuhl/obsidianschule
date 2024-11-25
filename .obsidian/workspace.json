@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2b7a8d0b0893deca",
+        "id": "82ab94fda299ed05",
         "type": "tabs",
         "children": [
           {
-            "id": "6bb4fdd714bfa027",
+            "id": "8ecb215812ce1e14",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/englisch/vocab.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "vocab"
+              "title": "New tab"
             }
           }
         ]
@@ -189,15 +185,16 @@
       "markdown-importer:Open format converter": true,
       "templates:Insert template": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6bb4fdd714bfa027",
+  "active": "8ecb215812ce1e14",
   "lastOpenFiles": [
+    "3.Klasse/englisch/table of content.md",
+    "3.Klasse/englisch/vocab.md",
     "bilder/smü alekene lernen oder so 24-11-2024-49.excalidraw.md",
     "3.Klasse/Nawi/smü alekene lernen oder so.md",
-    "3.Klasse/englisch/vocab.md",
-    "3.Klasse/englisch/table of content.md",
     "bilder/article zettel thing 21-10-2024-11.excalidraw.md",
     "3.Klasse/englisch/~$rst_Article.docx",
     "3.Klasse/englisch/Fürst_Article.docx",
