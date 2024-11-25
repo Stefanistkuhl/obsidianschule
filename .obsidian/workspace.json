@@ -4,33 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "60db9f7fde3ad163",
+        "id": "4315980e1812df79",
         "type": "tabs",
         "children": [
           {
-            "id": "f549c5b3b8dd8a9e",
+            "id": "946792e3e02fcfe7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/mathe/Umgekehrte Kurvendiskussion.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Umgekehrte Kurvendiskussion"
-            }
-          },
-          {
-            "id": "ef3738b8c09795e9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/Umgekehrte Kurvendiskussion 25-11-2024-07.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Umgekehrte Kurvendiskussion 25-11-2024-07.excalidraw"
+              "title": "New tab"
             }
           }
         ]
@@ -205,23 +189,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f549c5b3b8dd8a9e",
+  "active": "946792e3e02fcfe7",
   "lastOpenFiles": [
+    "bilder/Umgekehrte Kurvendiskussion 25-11-2024-07.excalidraw.md",
+    "3.Klasse/mathe/Umgekehrte Kurvendiskussion.md",
     "bilder/Pasted image 20241125122249.png",
     "bilder/Pasted image 20241125121914.png",
     "bilder/Pasted image 20241125121723.png",
     "bilder/Pasted image 20241125121356.png",
     "bilder/Pasted image 20241125115713.png",
     "bilder/Pasted image 20241125114951.png",
-    "3.Klasse/mathe/Umgekehrte Kurvendiskussion.md",
     "bilder/Pasted image 20241125114628.png",
     "bilder/Pasted image 20241125112859.png",
-    "bilder/Umgekehrte Kurvendiskussion 25-11-2024-07.excalidraw.md",
     "bilder/Pasted Image 20241125112107_724.png",
     "bilder/Pasted image 20241125111603.png",
     "3.Klasse/ggp/arbeitsblatt ding.md",
     "bilder/arbeitsblatt ding 25-11-2024-15.excalidraw.md",
-    "bilder/Pasted Image 20241125101642_584.png",
     "3.Klasse/ggp/Volkswirtschaften.md",
     "3.Klasse/ggp/geographie teststoff.md",
     "3.Klasse/englisch/table of content.md",

@@ -67,3 +67,7 @@ N1(1|0) → f'(1)=1,f''(1)=10
 P(2|-9)
 relativer hochpunkt H(-2|7) → f''(7)=-18
 ![[Pasted image 20241125122249.png]]
+9)
+P1(2|11) und P2(1|6) P1 .. wendepunk (f'''(2)=0) 
+
+bis 12 zh machen
