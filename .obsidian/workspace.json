@@ -4,37 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4315980e1812df79",
+        "id": "6e316d0ee34c9912",
         "type": "tabs",
         "children": [
           {
-            "id": "946792e3e02fcfe7",
+            "id": "6e57d71438e0182f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Zeichnungen/DR25-11-2024-46.excalidraw.md"
+                "file": "3.Klasse/sew/Sew test Cheatsheet.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "DR25-11-2024-46.excalidraw"
-            }
-          }
-        ]
-      },
-      {
-        "id": "5e2e7b4747dfb290",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f08abc7337ab8beb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/Nomenklatur vom KW 07-10-2024-48.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Nomenklatur vom KW 07-10-2024-48.excalidraw"
+              "icon": "lucide-file",
+              "title": "Sew test Cheatsheet"
             }
           }
         ]
@@ -209,11 +193,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "946792e3e02fcfe7",
+  "active": "6e57d71438e0182f",
   "lastOpenFiles": [
+    "3.Klasse/sew/3kl sew.md",
+    "3.Klasse/sew/Sew test Cheatsheet.md",
     "bilder/Nomenklatur vom KW 07-10-2024-48.excalidraw.md",
-    "3.Klasse/Nawi/Nomenklatur vom KW.md",
     "Zeichnungen/DR25-11-2024-46.excalidraw.md",
+    "3.Klasse/Nawi/Nomenklatur vom KW.md",
     "bilder/Umgekehrte Kurvendiskussion 25-11-2024-07.excalidraw.md",
     "3.Klasse/mathe/Umgekehrte Kurvendiskussion.md",
     "bilder/Pasted image 20241125122249.png",
@@ -251,8 +237,6 @@
     "Überlebenswichtige Strichlisten.md",
     "3.Klasse/ehtik/medizin ethik.md",
     "Untitled.md",
-    "3.Klasse/ehtik/Ethische Fagen am Ende des Lebens.md",
-    "aktuelle itsi aufgabe.md",
     "3.Klasse/itsi/aufgaben/aufgabe2/Einrichten einer Multi-User-Umgebung.tex~",
     "3.Klasse/itsi/aufgaben/aufgabe2/abgabe/GRP-7-Raichle-Fürst-Lab-2.zip",
     "3.Klasse/itsi/aufgaben/aufgabe2/abgabe/zizWuDjN",
