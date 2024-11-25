@@ -38,3 +38,14 @@ bei x1 ist der Steigungswinkel 30° bei ⇐⇒ f'(x1)=tan(30)
 
 ![[Umgekehrte Kurvendiskussion 25-11-2024-07.excalidraw]]
 1)
+waagerechte tangete P1(-1|5) und die fkt hat P2(4|8)
+![[Pasted image 20241125112859.png]]
+f(x)=3\*x²+6\*x+8
+2)
+P1(2|-2)
+P2(4|8)
+P1 k=-1
+f''(-2)=2
+8)
+P(2|-9)
+relativer hochpunkt H(-2|7) → f''(7)=-18
