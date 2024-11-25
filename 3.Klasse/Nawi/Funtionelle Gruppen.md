@@ -9,3 +9,5 @@ Die beden doppelt gebundenen Kohlenstoffe ermöglichen zb eine Umwandlung in ein
 
 Weitere Beispiele
 ![[Funtionelle Gruppen 25-11-2024-38_0.excalidraw]]
+Übung:
+![[Funtionelle Gruppen 25-11-2024-44.excalidraw]]

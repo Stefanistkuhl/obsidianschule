@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6e316d0ee34c9912",
+        "id": "cb856ecfb6e24a94",
         "type": "tabs",
         "children": [
           {
-            "id": "6e57d71438e0182f",
+            "id": "fa113cb7bc49f483",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/Nawi/Funtionelle Gruppen.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Funtionelle Gruppen"
-            }
-          },
-          {
-            "id": "ef6def04e4c9d7e3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/Funtionelle Gruppen 25-11-2024-38_0.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Funtionelle Gruppen 25-11-2024-38_0.excalidraw"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,10 +189,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ef6def04e4c9d7e3",
+  "active": "fa113cb7bc49f483",
   "lastOpenFiles": [
-    "3.Klasse/Nawi/Funtionelle Gruppen.md",
     "bilder/Funtionelle Gruppen 25-11-2024-38_0.excalidraw.md",
+    "3.Klasse/Nawi/Funtionelle Gruppen.md",
+    "bilder/Funtionelle Gruppen 25-11-2024-44.excalidraw.md",
     "bilder/Funtionelle Gruppen 25-11-2024-38.excalidraw.md",
     "3.Klasse/Nawi/3kl nawi.md",
     "3.Klasse/nwt/3kl nwt.md",
@@ -249,7 +233,6 @@
     "3.Klasse/englisch/article.md",
     "bilder/article zettel thing 21-10-2024-29.excalidraw.md",
     "2.Klasse/English/~$rst_Hü1.docx",
-    "3.Klasse/englisch/3kl eng.md",
     "3.Klasse/itsi/aufgaben/aufgabe2/Einrichten einer Multi-User-Umgebung.tex~",
     "3.Klasse/itsi/aufgaben/aufgabe2/abgabe/GRP-7-Raichle-Fürst-Lab-2.zip",
     "3.Klasse/itsi/aufgaben/aufgabe2/abgabe/zizWuDjN",
