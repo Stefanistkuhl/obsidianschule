@@ -68,3 +68,5 @@ tags:
 	- saving things and beeing sparing and saving a lot
 - surplus
 	- Überschuss
+- reluctant
+	- not willing to do something and therefore slow to do it

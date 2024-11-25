@@ -4,33 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d9afecb065c0802e",
+        "id": "2b7a8d0b0893deca",
         "type": "tabs",
         "children": [
           {
-            "id": "4d01cfdd256f2767",
+            "id": "6bb4fdd714bfa027",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/Nawi/smü alekene lernen oder so.md",
+                "file": "3.Klasse/englisch/vocab.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "smü alekene lernen oder so"
-            }
-          },
-          {
-            "id": "9d2d17fd8de10e7a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/smü alekene lernen oder so 24-11-2024-49.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "smü alekene lernen oder so 24-11-2024-49.excalidraw"
+              "title": "vocab"
             }
           }
         ]
@@ -204,9 +192,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d01cfdd256f2767",
+  "active": "6bb4fdd714bfa027",
   "lastOpenFiles": [
     "bilder/smü alekene lernen oder so 24-11-2024-49.excalidraw.md",
+    "3.Klasse/Nawi/smü alekene lernen oder so.md",
     "3.Klasse/englisch/vocab.md",
     "3.Klasse/englisch/table of content.md",
     "bilder/article zettel thing 21-10-2024-11.excalidraw.md",
@@ -220,7 +209,6 @@
     "bilder/article zettel thing 21-10-2024-29.excalidraw.md",
     "2.Klasse/English/~$rst_Hü1.docx",
     "3.Klasse/englisch/3kl eng.md",
-    "3.Klasse/Nawi/smü alekene lernen oder so.md",
     "3.Klasse/Nawi/3kl nawi.md",
     "Filmliste.md",
     "README.md",

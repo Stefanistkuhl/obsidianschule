@@ -157,3 +157,4 @@ body {
     width: 0%;
   }
 }
+.cm-cursorLayer {animation: none !important;}
