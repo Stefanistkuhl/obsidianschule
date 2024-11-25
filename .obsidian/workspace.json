@@ -11,13 +11,30 @@
             "id": "8ecb215812ce1e14",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/ggp/arbeitsblatt ding.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "arbeitsblatt ding"
+            }
+          },
+          {
+            "id": "4654defc374206c3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/arbeitsblatt ding 25-11-2024-15.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "arbeitsblatt ding 25-11-2024-15.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,8 +206,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8ecb215812ce1e14",
+  "active": "4654defc374206c3",
   "lastOpenFiles": [
+    "bilder/Pasted Image 20241125101642_584.png",
+    "bilder/Pasted Image 20241125101622_703.png",
+    "3.Klasse/ggp/arbeitsblatt ding.md",
+    "bilder/arbeitsblatt ding 25-11-2024-15.excalidraw.md",
+    "3.Klasse/ggp/Volkswirtschaften.md",
+    "3.Klasse/ggp/geographie teststoff.md",
     "3.Klasse/englisch/table of content.md",
     "3.Klasse/englisch/vocab.md",
     "bilder/smü alekene lernen oder so 24-11-2024-49.excalidraw.md",
@@ -218,10 +241,6 @@
     "3.Klasse/ggp/Franöschie Revolution fr.md",
     "3.Klasse/ggp/Meneschnrechte.md",
     "3.Klasse/ggp/Die Europäische Menschenrechtskonvention.md",
-    "3.Klasse/ggp/Franzöische Revolution.md",
-    "3.Klasse/ggp/Franzosen.md",
-    "3.Klasse/ggp/3kl GGP.md",
-    "3.Klasse/ggp/ggp teststoff.md",
     "bilder/Pasted image 20241119124730.png",
     "bilder/Pasted image 20241118200520.png",
     "bilder/Pasted image 20241118200340.png",
@@ -235,7 +254,6 @@
     "3.Klasse/itsi/aufgaben/aufgabe2/abgabe/GRP-7-Raichle-Fürst-Lab-2.zip",
     "3.Klasse/itsi/aufgaben/aufgabe2/abgabe/zizWuDjN",
     "3.Klasse/itsi/aufgaben/aufgabe2/abgabe/alias.sh",
-    "bilder/Pasted image 20241114142613.png",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
     "Zeichnungen/Untitled.canvas"
   ]
