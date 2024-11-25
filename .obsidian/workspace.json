@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/Nawi/Erdöl und Alternativen.md",
+                "file": "3.Klasse/Nawi/Funtionelle Gruppen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Erdöl und Alternativen"
+              "title": "Funtionelle Gruppen"
+            }
+          },
+          {
+            "id": "ef6def04e4c9d7e3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/Funtionelle Gruppen 25-11-2024-38_0.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Funtionelle Gruppen 25-11-2024-38_0.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,10 +206,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6e57d71438e0182f",
+  "active": "ef6def04e4c9d7e3",
   "lastOpenFiles": [
+    "3.Klasse/Nawi/Funtionelle Gruppen.md",
+    "bilder/Funtionelle Gruppen 25-11-2024-38_0.excalidraw.md",
+    "bilder/Funtionelle Gruppen 25-11-2024-38.excalidraw.md",
     "3.Klasse/Nawi/3kl nawi.md",
     "3.Klasse/nwt/3kl nwt.md",
+    "3.Klasse/Nawi/Erdöl und Alternativen.md",
     "3.Klasse/sew/Sew test Cheatsheet.md",
     "3.Klasse/sew/3kl sew.md",
     "bilder/Nomenklatur vom KW 07-10-2024-48.excalidraw.md",
@@ -233,10 +250,6 @@
     "bilder/article zettel thing 21-10-2024-29.excalidraw.md",
     "2.Klasse/English/~$rst_Hü1.docx",
     "3.Klasse/englisch/3kl eng.md",
-    "Filmliste.md",
-    "README.md",
-    "Überlebenswichtige Strichlisten.md",
-    "3.Klasse/ehtik/medizin ethik.md",
     "3.Klasse/itsi/aufgaben/aufgabe2/Einrichten einer Multi-User-Umgebung.tex~",
     "3.Klasse/itsi/aufgaben/aufgabe2/abgabe/GRP-7-Raichle-Fürst-Lab-2.zip",
     "3.Klasse/itsi/aufgaben/aufgabe2/abgabe/zizWuDjN",

@@ -8,3 +8,4 @@ tags:
 [[Organischer Chemie]]
 [[Erdöl und Alternativen]]
 [[smü alekene lernen oder so]]
+[[Funtionelle Gruppen]]
