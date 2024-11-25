@@ -57,6 +57,13 @@ Nulstelle 1
 P(2|7)
 N1(1|0) → f'(1)=1,f''(1)=10
 ![[Pasted image 20241125115713.png]]
+5)
+![[Pasted image 20241125121356.png]]
+6)
+![[Pasted image 20241125121723.png]]
+7)
+![[Pasted image 20241125121914.png]]
 8)
 P(2|-9)
 relativer hochpunkt H(-2|7) → f''(7)=-18
+![[Pasted image 20241125122249.png]]
