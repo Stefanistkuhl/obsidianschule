@@ -11,10 +11,30 @@
             "id": "946792e3e02fcfe7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Zeichnungen/DR25-11-2024-46.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "DR25-11-2024-46.excalidraw"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5e2e7b4747dfb290",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f08abc7337ab8beb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/Nomenklatur vom KW 07-10-2024-48.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Nomenklatur vom KW 07-10-2024-48.excalidraw"
             }
           }
         ]
@@ -191,6 +211,9 @@
   },
   "active": "946792e3e02fcfe7",
   "lastOpenFiles": [
+    "bilder/Nomenklatur vom KW 07-10-2024-48.excalidraw.md",
+    "3.Klasse/Nawi/Nomenklatur vom KW.md",
+    "Zeichnungen/DR25-11-2024-46.excalidraw.md",
     "bilder/Umgekehrte Kurvendiskussion 25-11-2024-07.excalidraw.md",
     "3.Klasse/mathe/Umgekehrte Kurvendiskussion.md",
     "bilder/Pasted image 20241125122249.png",
@@ -230,8 +253,6 @@
     "Untitled.md",
     "3.Klasse/ehtik/Ethische Fagen am Ende des Lebens.md",
     "aktuelle itsi aufgabe.md",
-    "3.Klasse/ggp/Grund und Freiheitsrechte in Ö.md",
-    "3.Klasse/ggp/Franöschie Revolution fr.md",
     "3.Klasse/itsi/aufgaben/aufgabe2/Einrichten einer Multi-User-Umgebung.tex~",
     "3.Klasse/itsi/aufgaben/aufgabe2/abgabe/GRP-7-Raichle-Fürst-Lab-2.zip",
     "3.Klasse/itsi/aufgaben/aufgabe2/abgabe/zizWuDjN",
