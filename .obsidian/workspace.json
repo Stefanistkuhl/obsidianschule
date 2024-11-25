@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "82ab94fda299ed05",
+        "id": "60db9f7fde3ad163",
         "type": "tabs",
         "children": [
           {
-            "id": "8ecb215812ce1e14",
+            "id": "f549c5b3b8dd8a9e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/ggp/arbeitsblatt ding.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "arbeitsblatt ding"
-            }
-          },
-          {
-            "id": "4654defc374206c3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/arbeitsblatt ding 25-11-2024-15.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "arbeitsblatt ding 25-11-2024-15.excalidraw"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,12 +189,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4654defc374206c3",
+  "active": "f549c5b3b8dd8a9e",
   "lastOpenFiles": [
-    "bilder/Pasted Image 20241125101642_584.png",
-    "bilder/Pasted Image 20241125101622_703.png",
     "3.Klasse/ggp/arbeitsblatt ding.md",
     "bilder/arbeitsblatt ding 25-11-2024-15.excalidraw.md",
+    "bilder/Pasted Image 20241125101642_584.png",
+    "bilder/Pasted Image 20241125101622_703.png",
     "3.Klasse/ggp/Volkswirtschaften.md",
     "3.Klasse/ggp/geographie teststoff.md",
     "3.Klasse/englisch/table of content.md",
@@ -249,7 +232,6 @@
     "bilder/Pasted image 20241118191852.png",
     "bilder/Pasted image 20241118191614.png",
     "bilder/Pasted image 20241118182430.png",
-    "bilder/Pasted image 20241118175605.png",
     "3.Klasse/itsi/aufgaben/aufgabe2/Einrichten einer Multi-User-Umgebung.tex~",
     "3.Klasse/itsi/aufgaben/aufgabe2/abgabe/GRP-7-Raichle-Fürst-Lab-2.zip",
     "3.Klasse/itsi/aufgaben/aufgabe2/abgabe/zizWuDjN",
