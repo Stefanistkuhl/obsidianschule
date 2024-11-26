@@ -29,4 +29,12 @@ vim /etc/ssh/sshd_config
 
 sudo rechte
 https://superuser.com/questions/767415/limit-user-to-execute-selective-commands-linux
+pw richtilinie
 https://ostechnix.com/how-to-set-password-policies-in-linux/
+https://www.golinuxcloud.com/prevent-user-from-using-old-password-rhel-7/
+sed append
+https://askubuntu.com/questions/537967/appending-to-end-of-a-line-using-sed
+sed append new line
+https://stackoverflow.com/questions/46082397/insert-newline-n-using-sed
+2fa
+https://medium.com/@prateek.malhotra004/enhancing-ssh-security-with-two-factor-authentication-2fa-via-pam-and-google-authenticator-70af135c2a95
