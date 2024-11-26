@@ -71,3 +71,8 @@ relativer hochpunkt H(-2|7) → f''(7)=-18
 P1(2|11) und P2(1|6) P1 .. wendepunk (f'''(2)=0) 
 
 bis 12 zh machen
+iwas matura aufgaben ding
+[angabe a)](https://aufgabenpool.at/amn/teilb1/300/Armageddon.pdf)
+![[Pasted image 20241126123710.png]]
+[minigolf a)](https://aufgabenpool.at/amn/teilb1/376/Minigolf.pdf)
+![[Pasted image 20241126124027.png]]
