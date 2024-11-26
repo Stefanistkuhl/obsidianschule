@@ -26,3 +26,7 @@ ssh-copy-id -p 38452 root@localhost
 wenn mit nem erstellen nutzer anmelden will gehts nicht weil er kein passwort hat
 
 vim /etc/ssh/sshd_config
+
+sudo rechte
+https://superuser.com/questions/767415/limit-user-to-execute-selective-commands-linux
+https://ostechnix.com/how-to-set-password-policies-in-linux/
