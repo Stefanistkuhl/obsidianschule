@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "489954fc9797971f",
+        "id": "d02bbc4625d8150d",
         "type": "tabs",
         "children": [
           {
-            "id": "8207711994726a73",
+            "id": "c6103175d07102a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/nwt/Layer 3 swtich using switched virtual Interfaces (SVIs).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Layer 3 swtich using switched virtual Interfaces (SVIs)"
+              "title": "New tab"
             }
           }
         ]
@@ -193,8 +189,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8207711994726a73",
+  "active": "c6103175d07102a8",
   "lastOpenFiles": [
+    "3.Klasse/ggp/Usa-Demotratie-Schwachstellen.md",
+    "3.Klasse/ggp/ggp test zettel fragen beatworten.md",
+    "3.Klasse/nwt/Layer 3 swtich using switched virtual Interfaces (SVIs).md",
     "3.Klasse/nwt/what is inter vlan routung.md",
     "3.Klasse/nwt/inter-VLAN-Routing.md",
     "3.Klasse/nwt/vlans.md",
@@ -202,8 +201,6 @@
     "bilder/Pasted image 20241024142302.png",
     "3.Klasse/ggp/Meneschnrechte.md",
     "3.Klasse/ggp/3kl GGP.md",
-    "3.Klasse/ggp/Usa-Demotratie-Schwachstellen.md",
-    "3.Klasse/ggp/ggp test zettel fragen beatworten.md",
     "3.Klasse/ggp/Die Europäische Menschenrechtskonvention.md",
     "3.Klasse/ggp/Franzosen.md",
     "3.Klasse/ggp/Franzöische Revolution.md",
@@ -226,7 +223,6 @@
     "bilder/Pasted image 20241126124027.png",
     "bilder/Pasted image 20241126123710.png",
     "bilder/Funtionelle Gruppen 25-11-2024-38_0.excalidraw.md",
-    "3.Klasse/Nawi/Funtionelle Gruppen.md",
     "bilder/Pasted image 20241125122249.png",
     "bilder/Pasted image 20241125121914.png",
     "bilder/Pasted image 20241125121723.png",
