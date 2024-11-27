@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "Schlüssel"
             }
+          },
+          {
+            "id": "30cf3cb59a2b7b41",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/Schlüssel 27-11-2024-45.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Schlüssel 27-11-2024-45.excalidraw"
+            }
           }
         ]
       }
@@ -195,8 +207,10 @@
   },
   "active": "202f784af8b97170",
   "lastOpenFiles": [
-    "3.Klasse/insy/Primärschlüssel.md",
+    "bilder/Schlüssel 27-11-2024-45.excalidraw.md",
+    "Zeichnungen/DR27-11-2024-58.excalidraw.md",
     "3.Klasse/insy/Schlüssel.md",
+    "3.Klasse/insy/Primärschlüssel.md",
     "3.Klasse/insy/3kl insy.md",
     "3.Klasse/deutsch/literatur.md",
     "bilder/literatur 27-11-2024-41.excalidraw.md",
@@ -229,8 +243,6 @@
     "bilder/arbeitsblatt ding 25-11-2024-15.excalidraw.md",
     "3.Klasse/ggp/Volkswirtschaften.md",
     "3.Klasse/ggp/geographie teststoff.md",
-    "3.Klasse/englisch/table of content.md",
-    "3.Klasse/englisch/vocab.md",
     "3.Klasse/englisch/~$rst_Article.docx",
     "3.Klasse/englisch/Fürst_Article.docx",
     "3.Klasse/englisch/~WRD0004.tmp",
