@@ -26,4 +26,14 @@ tags:
 - Bedeutung und Vorbildwirkung der amerikanischen Verfassung
 	- Vorbild für die Französische Revolution
 - Grundzüge der französischen Verfassung von 1791
-	-  
+	- Monarchie mit konstituellen Einschränkungen
+		- könig hatte nur noch eine executtive gewalt → seine macht für die Gesetzgebung wurde eingeschränkt
+	- Trennung der Gewalten
+		- könig hatte jedoch ein Vetorecht konnte aber nicht eigenständig Gesetze erlassen
+	- Wahlrecht für alle männer die genung geld haben
+	- Bürgerrechte
+		- Recht auf eigetum
+		- Gleichheit vor dem Gesetze
+- Hintergründe der Entsheung der Menschrechte und un erklärung
+	- UN Menschenrechte aufgrund der Verbrechen gegen die Menschheit im 2ten wk 10.12.1948
+	- Aufklärung und Amerika, unzufriedenheit für die Franzoen thing
