@@ -12,5 +12,5 @@ tags:
 	- bubbles
 	- missinfo spam
 - Notwendige Registration zum Wählen
-	- in machen Wahlkreisen braucht man einen Führerschein dafür :um: weil amis nie Pass haben
+	- in machen Wahlkreisen braucht man einen Führerschein dafür :um: weil amis nie einen Pass haben
 	- nicht wie in Ösi simpler jeder is per default registiert
