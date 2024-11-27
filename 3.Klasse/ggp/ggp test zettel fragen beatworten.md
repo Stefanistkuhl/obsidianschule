@@ -21,4 +21,9 @@ tags:
 	- Charles de Montesquie
 		- entwickelte Lockes ideen weiter und unterschied auch zwischen den 3 gewalten
 - Hauptvefaasser der Amerikanischen Unabhängigkeitserklärung und Datum der Unterzeichnung
-	- 
+	- 4.Juli 1776 wurde die Unabhängikeits erklärung Unterschrieben
+	- Hauptverfasst Thomans Jefferson
+- Bedeutung und Vorbildwirkung der amerikanischen Verfassung
+	- Vorbild für die Französische Revolution
+- Grundzüge der französischen Verfassung von 1791
+	-  
