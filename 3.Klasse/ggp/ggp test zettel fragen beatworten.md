@@ -7,4 +7,14 @@ tags:
 	- Aufklärung ist der Ausgang des Menschen aus seiner selbstverschuldeteten Unmüdigkeit.
 	- Habe Mut dich deines eigenen Verstandes zu bedienen.
 - Erste Ansätze der Menschenrechte (Mittelalter, England)
-	- In England konnte die Magna Charta
+	- Magna Charta
+		- Im 13.Jh konnten in England die Adeligen in einem geschwächten Königshaus Mitsprache bei Besteuerung und Rechtsfragen mitsprache abrigen
+- Gewaltenteilung
+	- Die 3 Gewalten des Staates müssen unabhängig von einander Handeln, sich gegenseitig überprüfe und keiner darf Kontroller über alle 3 haben
+	- Legeslative
+	- Exekutive 
+	- Juikative
+- Gewaltenteilung Vordenker und wieso wichtig
+	- Es darf nd einer die Gesetze machen, ausführen und richten sonst ist es keine Demokratie da dieser Herscher die Vollemacht über den Staat hat
+	- John Locke
+	- Charles de Montesquie <
