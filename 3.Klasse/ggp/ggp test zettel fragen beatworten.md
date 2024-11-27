@@ -17,4 +17,8 @@ tags:
 - Gewaltenteilung Vordenker und wieso wichtig
 	- Es darf nd einer die Gesetze machen, ausführen und richten sonst ist es keine Demokratie da dieser Herscher die Vollemacht über den Staat hat
 	- John Locke
-	- Charles de Montesquie <
+		- vertat in deinen Schriften "Über die Regierug" die Auffasung, dass die Staatsmacht vom Volk ausgehen müsste und das Recht zur revolution habe. Er entwarf ein System der Gewaltenteilung
+	- Charles de Montesquie
+		- entwickelte Lockes ideen weiter und unterschied auch zwischen den 3 gewalten
+- Hauptvefaasser der Amerikanischen Unabhängigkeitserklärung und Datum der Unterzeichnung
+	- 
