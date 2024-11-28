@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d02bbc4625d8150d",
+        "id": "b497d0d3f5dda729",
         "type": "tabs",
         "children": [
           {
-            "id": "c6103175d07102a8",
+            "id": "3884f8c88d54e097",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/itsi/Authetifizierungsmethoden.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Authetifizierungsmethoden"
             }
           }
         ]
@@ -189,23 +193,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c6103175d07102a8",
+  "active": "3884f8c88d54e097",
   "lastOpenFiles": [
-    "3.Klasse/ggp/Usa-Demotratie-Schwachstellen.md",
+    "3.Klasse/itsi/3kl itsi.md",
+    "3.Klasse/itsi/Authetifizierungsmethoden.md",
+    "3.Klasse/itsi/Benutzerkategorien.md",
     "3.Klasse/ggp/ggp test zettel fragen beatworten.md",
-    "3.Klasse/nwt/Layer 3 swtich using switched virtual Interfaces (SVIs).md",
-    "3.Klasse/nwt/what is inter vlan routung.md",
-    "3.Klasse/nwt/inter-VLAN-Routing.md",
-    "3.Klasse/nwt/vlans.md",
-    "3.Klasse/nwt/vlan commands.md",
-    "bilder/Pasted image 20241024142302.png",
-    "3.Klasse/ggp/Meneschnrechte.md",
-    "3.Klasse/ggp/3kl GGP.md",
-    "3.Klasse/ggp/Die Europäische Menschenrechtskonvention.md",
-    "3.Klasse/ggp/Franzosen.md",
-    "3.Klasse/ggp/Franzöische Revolution.md",
-    "3.Klasse/ggp/aufklärung.md",
-    "3.Klasse/ggp/USA-Demokratie.md",
+    "3.Klasse/ggp/Usa-Demotratie-Schwachstellen.md",
     "bilder/Schlüssel 27-11-2024-47.excalidraw.md",
     "3.Klasse/insy/Schlüssel.md",
     "bilder/Schlüssel 27-11-2024-58.excalidraw.md",
@@ -223,10 +217,20 @@
     "bilder/Pasted image 20241126124027.png",
     "bilder/Pasted image 20241126123710.png",
     "bilder/Funtionelle Gruppen 25-11-2024-38_0.excalidraw.md",
+    "3.Klasse/Nawi/Funtionelle Gruppen.md",
+    "bilder/Funtionelle Gruppen 25-11-2024-44.excalidraw.md",
+    "bilder/Funtionelle Gruppen 25-11-2024-38.excalidraw.md",
+    "3.Klasse/Nawi/3kl nawi.md",
+    "3.Klasse/nwt/3kl nwt.md",
+    "3.Klasse/Nawi/Erdöl und Alternativen.md",
+    "3.Klasse/sew/Sew test Cheatsheet.md",
+    "3.Klasse/sew/3kl sew.md",
+    "bilder/Nomenklatur vom KW 07-10-2024-48.excalidraw.md",
     "bilder/Pasted image 20241125122249.png",
     "bilder/Pasted image 20241125121914.png",
     "bilder/Pasted image 20241125121723.png",
     "bilder/Pasted image 20241125121356.png",
+    "bilder/Pasted image 20241125115713.png",
     "3.Klasse/englisch/~$rst_Article.docx",
     "3.Klasse/englisch/Fürst_Article.docx",
     "3.Klasse/englisch/~WRD0004.tmp",

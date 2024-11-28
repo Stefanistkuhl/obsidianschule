@@ -1,0 +1,11 @@
+---
+tags:
+  - 3te_Klasse
+  - itsi
+---
+- Wissen (Was weiß ich?)
+	- Password + Benutzernae, Telefonummer, Fragen
+- Besitz (Was habe ich?)
+	- Sms "Auth Codes", Schlüssel
+- Sein (Was bin ich?)
+	- Biometrie
