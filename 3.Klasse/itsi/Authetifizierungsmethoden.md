@@ -30,3 +30,5 @@ tags:
 			- Schwer zu Kopieren
 		- Nachteile
 			- Technik is kompliziert und teuer
+
+Alles hat vor und Nachteile am beten Kombiniert man sie = Multifaktor authenfizirung (MFA).
