@@ -3,10 +3,12 @@ tags:
   - 3te_Klasse
   - ggp
 ---
-### Was heißt Wirschaften?
+#### Was heißt Wirschaften?
 
-> Jeder ist Teil der Wirtschaft und verübt unzählige Wirschaftliche Handlungen Täglich, diese sind unteranderem:
-> Kaufen, investieren, mieten, konsumieren, produzieren, arbeiten, Stuern zahlen etc...
+> Wirtschaften heißt Waren und Dienstleistungen erzeugen, verteilen und verbrauchem, um Bedürfnisse zu befriedigen.
+
+#### Bedürfnisse als "Motor" der Wirtschaft
+
 
 
 ### Produktionsfaktoren
