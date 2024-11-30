@@ -22,6 +22,11 @@ tags:
 		- Bodenschätze, Ackerböden, Wasser, Holz
 			- Diese natürlcuehn Quellen sind die Grundlage für alle Witschaftlichen tätigkeiten
 
+#### Güter
+
+- Güter sind Waren und Dienstleistungen
+- Nach verwendungeszweck einteilbar
+- 
 ### Produktionsfaktoren
 
 ### Arbeit und Ausbeutung
