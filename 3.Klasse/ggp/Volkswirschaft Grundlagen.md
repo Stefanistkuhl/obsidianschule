@@ -9,7 +9,14 @@ tags:
 
 #### Bedürfnisse als "Motor" der Wirtschaft
 
+- Wünsche der Menschen werden **Bedürfnisse** genannt.
+- Können in der Form der Maslow Pyradmide dargestellt werden.
 
+##### Bedarf und Nachfrage
+
+- Erst bei tatsächlicher Nachfrage nach Waren/Dienstleistungen ensteht **Bedarf** 
+- Im Gegensatz zu Bedürfnissen ist Bedarf durch die Kaufkraft begrentz
+	- Kaufkraft = 
 
 ### Produktionsfaktoren
 
