@@ -3,7 +3,7 @@ tags:
   - 2te_Klasse
 ---
 [[😐Bwl Tiger]]
-[[🏳️‍⚧️Netzwerktiger]]
+[[Netzwerktiger]]
 [[🤔Tigerentwicklung]]
 [[🤗ItigerSicherheit]]
 [[🙂GeografieGeschichteTigerrischebildung]]

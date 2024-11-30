@@ -74,8 +74,51 @@ tags:
 	- personengebundene Kentnisse bzw fähigkeiten
 	- entsteht durch Ausbildung
 	- Zugang zu Bildungseinrichtugugen für alle Bevölkerungsschichten wesentliche Vorleistungen für die künftige Entwicklung von Wirschaft und Gesellschaft.
+
+- Arbeitsintensive Produktion
+	- Arbeitsvorgänge bei denen viel menschliche Arbeitsleistung erforderlich ist.
+		- zb Textil und Bekleidserzeugung
+- Kapitalintensive Produktion
+	- Industireanlagen, mit hohem technischen Aufwand
+		- Stark automatisiert
+	- Viel Kpital in Form von Geräten, technik und wissen erforderlich
 ### Arbeit und Ausbeutung
+
+- Ziel der Wirtschaft Produkte so kostengünstig wie möglich zu produzieren um hohen Gewinn zu erziehlen
+- Niedrige Preise werden häufig durch Sizial und Umweltdumping möglichgemacht
+- Montage oft in der Textilindustrie in Niedriglohnländern verlagert (outsorcing)
+	- diese länder haben oft schlechten arbeiterschutz und oft auch Gewerkschaftsverbote
+- Kinderabeit oft illegal aber nicht kontroloiert
+	- oft im informellen Sektor der Wirtschaft tätig
+		- zb den im Familien unternehmen mithelfen
 
 ### Mark + Marktwirschaft
 
-### Marktfromen + BIP
+> Markt = überall wo Nachfrage Kaufwilliger und das Angebot verkaufswilliger aufeinandertreffen
+
+- Angebot und Nachfrage treffen aufeinander
+- Marktformen
+	- Polypol
+		- Feier Wettbewerb
+		- viele Nachfragende
+		- veile Anbietende
+		- Marktanteile der einzelen Anbietenden sind so klein, dass keiner die Preise Beinflussen kann
+		- zb Markt für Unterhaltungselektronik
+	- Oligopol
+		- Angeotsolgopol
+		- veile (kleine) Nachfragende
+		- wenige (große) Anbietende
+		- Konkurenz twischen den Oligopol-Angehörigen oder Preis-absrpachen oder Presiführerschaft des stärksten anbietenden Unternehmens.
+		- zb Lebensmittelmarkt
+	- Monopol
+		- viele Nachfragende
+		- ein Anbieter
+		- Angebostmon9opolist bestimmt den Preis
+		- zb Kabelfernsehen in einem Ort oder einer Region
+### Marktformen + BIP
+[[Marktformen]]
+
+- Bruttoinlandsprodukt (BIP)
+	- Messung der Leistungsfähigkeit/Erfolg oder Misserfolg einer Volkswirschaft innerhalb eines bestimmen Zeitraums
+	- Angabe der Erwirtscahftung des Wertes an Gütern und Dienstleistungen innerhalb eines Jahres
+	- Berücksichtight nur Endprodukte (keine Zwischenproudkte)

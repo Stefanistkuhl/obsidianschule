@@ -1,4 +1,4 @@
-[[🏳️‍⚧️Netzwerktiger]]
+[[Netzwerktiger]]
 [[🛜ccna theroie]]
 [[Privat]] #Privat #homelab #ccna #nwt 
 # <mark style="background: #FFB8EBA6;">Switching</mark>

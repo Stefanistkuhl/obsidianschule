@@ -10,3 +10,6 @@ tags:
 [[3kl nwt]]
 [[3kl mathe]]
 [[3kl eng]]
+[[3kl itp]]
+[[3kl ethik]]
+[[3kl GGP]]

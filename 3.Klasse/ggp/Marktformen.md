@@ -4,6 +4,7 @@ tags:
   - ggp
 ---
 ![[Marktformen 04-11-2024-05.excalidraw]]
+[[3kl GGP]]
 - Freie Marktwirtschaft
 	- von Adam Smith (1723-1790)
 	- Merkmale
