@@ -4,6 +4,6 @@
 \contentsline {subsection}{\numberline {3.1}Privileged rights}{4}{}%
 \contentsline {subsubsection}{\numberline {3.1.1}Explanation of the sudo command}{4}{}%
 \contentsline {subsubsection}{\numberline {3.1.2}Granting and restricting users' sudo access}{4}{}%
-\contentsline {subsubsection}{\numberline {3.1.3}Setting up a password policy}{4}{}%
+\contentsline {subsubsection}{\numberline {3.1.3}Setting up a password policy}{5}{}%
 \contentsline {section}{\numberline {4}References}{6}{}%
 \contentsline {section}{\numberline {5}List of figures}{7}{}%

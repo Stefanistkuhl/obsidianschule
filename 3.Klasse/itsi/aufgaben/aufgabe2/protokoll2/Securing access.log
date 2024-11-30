@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2024.5.4)  30 NOV 2024 22:26
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2024.5.4)  30 NOV 2024 22:47
  restricted system commands enabled.
  file:line:error style messages enabled.
 **"Securing access.tex"
@@ -352,23 +352,116 @@ File: lstlang1.sty 2020/03/24 1.8d listings language file
 ) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
-Overfull \hbox (50.3086pt too wide) in paragraph at lines 120--121
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package luatex.def Info: images/logo.png  used on input line 114.
+(luatex.def)             Requested size: 186.09352pt x 55.10535pt.
+ [4<./images/sudoid.png>]
+./Securing access.tex:117: Missing $ inserted.
+<inserted text> 
+$
+l.117 ... on the line with \texttt{pam_pwquality.so}
+                                                   \texttt{dcredit=-1}, \tex...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Securing access.tex:117: Extra }, or forgotten $.
+<recently read> \egroup 
+        
+l.117 ... on the line with \texttt{pam_pwquality.so}
+                                                   \texttt{dcredit=-1}, \tex...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Securing access.tex:119: Missing $ inserted.
+<inserted text> 
+$
+l.119 \begin{lstlisting}[language=bash]
+                                     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Securing access.tex:119: Missing \endgroup inserted.
+<inserted text> 
+\endgroup 
+l.119 \begin{lstlisting}[language=bash]
+                                     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Securing access.tex:119: Missing \endgroup inserted.
+<inserted text> 
+\endgroup 
+l.119 \begin{lstlisting}[language=bash]
+                                     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Securing access.tex:119: Missing \endgroup inserted.
+<inserted text> 
+\endgroup 
+l.119 \begin{lstlisting}[language=bash]
+                                     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (561.58316pt too wide) in paragraph at lines 116--119
+\TU/lmtt/m/n/10 /etc/pam.d/common-password \TU/lmr/m/n/10 file, on the line with \TU/lmtt/m/n/10 pam$[][]\OML/cmm/m/it/10 wquality:so[]; []and[]needtobeaddedattheendtorequireatleastonelowercaseletterandonesymbolinanypasswordsetandtoenforceitfortherootuser: 
  []
+
+./Securing access.tex:119: Undefined control sequence.
+\lst@GetLineInterval ...r \lst@GLI \lst@linerange 
+                                                  \@nil 
+l.119 \begin{lstlisting}[language=bash]
+                                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Runaway argument?
+\@nil \lst@ifsensitive \else \let \lst@KeywordTest \lst@KEYWORDTEST \let \ETC.
+./Securing access.tex:129: Paragraph ended before \lst@GLI was complete.
+<to be read again> 
+\par 
+l.129 
+    
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 123.
+Package luatex.def Info: images/logo.png  used on input line 130.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
-[4<./images/sudoid.png>]
+[5] ("./Securing access.bbl"
+Underfull \hbox (badness 10000) in paragraph at lines 4--7
+[]\TU/lmtt/m/n/10 How to prevent user from using old password (or re-using) again in Linux $\OMS/cmsy/m/n/10 j$ \TU/lmtt/m/n/10 GoLinuxCloud,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--17
+[]\TU/lmtt/m/n/10 Sara Zivanov.  Linux Sudo Command $\OMS/cmsy/m/n/10 f$\TU/lmtt/m/n/10 How to Use It +Examples$\OMS/cmsy/m/n/10 g$\TU/lmtt/m/n/10 .  \TU/lmtt/m/it/10 Knowledge Base by
+ []
+
+)
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 125.
-(luatex.def)             Requested size: 186.09352pt x 55.10535pt.
- [5] ("./Securing access.bbl")
-File: images/logo.png Graphic file (type png)
-<use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 128.
+Package luatex.def Info: images/logo.png  used on input line 133.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
  [6] ("./Securing access.lof")
 \tf@lof=\write4
@@ -376,24 +469,28 @@ Package luatex.def Info: images/logo.png  used on input line 128.
 \openout4 = Securing access.lof
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 133.
+Package luatex.def Info: images/logo.png  used on input line 138.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
  [7] ("./Securing access.aux"))
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 117 ({)
+### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 6936 strings out of 478382
+ 6929 strings out of 478382
  100000,1977958 words of node,token memory allocated
- 421 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 51 glue_spec, 4 attribute_list, 1 write nodes
-   avail lists: 2:1678,3:167,4:297,5:484,6:67,7:7958,8:1,9:1680,10:5,11:298
- 26777 multiletter control sequences out of 65536+600000
- 34 fonts using 2524711 bytes
- 72i,16n,73p,317b,619s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf/fonts/opentype/public/lm/lmroman10-italic.otf></usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman12-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Securing access.pdf (7 pages, 233394 bytes).
+ 471 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 61 glue_spec, 4 attribute_list, 1 write nodes
+   avail lists: 2:1130,3:177,4:276,5:329,6:54,7:5948,8:173,9:1112,10:5,11:242
+ 26770 multiletter control sequences out of 65536+600000
+ 34 fonts using 2519111 bytes
+ 72i,16n,73p,471b,619s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf/fonts/opentype/public/lm/lmmono10-italic.otf></usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman12-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Securing access.pdf (7 pages, 252214 bytes).
 
-PDF statistics: 69 PDF objects out of 1000 (max. 8388607)
- 39 compressed objects within 1 object stream
+PDF statistics: 77 PDF objects out of 1000 (max. 8388607)
+ 45 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

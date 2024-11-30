@@ -194,7 +194,7 @@ INPUT ./images/logo.png
 INPUT ./images/logo.png
 INPUT ./Securing access.bbl
 INPUT ./Securing access.bbl
-INPUT /home/stefiii/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-italic.luc
+INPUT /home/stefiii/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-italic.luc
 INPUT ./images/logo.png
 INPUT ./images/logo.png
 INPUT ./Securing access.lof
@@ -203,4 +203,6 @@ OUTPUT Securing access.lof
 INPUT ./images/logo.png
 INPUT ./images/logo.png
 INPUT ./Securing access.aux
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
