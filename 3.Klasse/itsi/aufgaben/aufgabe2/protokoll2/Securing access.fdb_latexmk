@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex Securing access"] 1732871898.40406 "Securing access.aux" "Securing access.bbl" "Securing access" 1732997006 0
-  "./quellen.bib" 1732980661 254 aa8d6ec70264406aac192c94dce5f3f8 ""
+["bibtex Securing access"] 1732997468 "Securing access.aux" "Securing access.bbl" "Securing access" 1732997472 0
+  "./quellen.bib" 1732997449 490 81178c6ae2827037f0482e23a31217cf ""
   "/usr/share/texlive/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "Securing access.aux" 1732997005 1334 993e43be9f5d80c38dc7dbd7b7c0363d "lualatex"
+  "Securing access.aux" 1732997471 1398 d6679a2a36fd6a909cec5b28bd76ca7c "lualatex"
   (generated)
   "Securing access.bbl"
   "Securing access.blg"
   (rewritten before read)
-["lualatex"] 1732997002 "Securing access.tex" "Securing access.pdf" "Securing access" 1732997006 0
+["lualatex"] 1732997468 "Securing access.tex" "Securing access.pdf" "Securing access" 1732997472 0
   "/home/stefiii/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc" 1728494198 81819 943de47a424d8006cb945ecfb1acc821 ""
   "/home/stefiii/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc" 1728493512 128392 5ccdcd80529671c517f74edd952aa156 ""
   "/home/stefiii/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-italic.luc" 1732980895 136294 09728fc21177978741a7b8266f6c1d72 ""
@@ -121,11 +121,11 @@
   "/usr/share/texmf/fonts/opentype/public/lm/lmroman12-bold.otf" 1255129361 110496 b9c8767d4cc3bf3f4b21f676bf89aa78 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1714843709 4623455 fa0568a71dd9a288d6c226ee477506c6 ""
   "/var/lib/texmf/web2c/luahbtex/lualatex.fmt" 1714843851 11864777 45c57b392a241cd4ba01f7b18897044a ""
-  "Securing access.aux" 1732997005 1334 993e43be9f5d80c38dc7dbd7b7c0363d "lualatex"
-  "Securing access.bbl" 1732980661 216 ad015a3507187ee37ef166afa3c1df4e "bibtex Securing access"
-  "Securing access.lof" 1732997005 140 96f68e828ab2f707d766749a3255c72e "lualatex"
-  "Securing access.tex" 1732997000 4340 15ef34993d6240cc83c9a611a0fe8da1 ""
-  "Securing access.toc" 1732997005 642 1fa75e38f5abab33b3bd987ae346e9d8 "lualatex"
+  "Securing access.aux" 1732997471 1398 d6679a2a36fd6a909cec5b28bd76ca7c "lualatex"
+  "Securing access.bbl" 1732997468 352 a94699e04dff6368e4c0af8ca2c6767d "bibtex Securing access"
+  "Securing access.lof" 1732997471 140 96f68e828ab2f707d766749a3255c72e "lualatex"
+  "Securing access.tex" 1732997459 4480 7bdf6a6842b9153daaefe5144ee5e628 ""
+  "Securing access.toc" 1732997471 642 1fa75e38f5abab33b3bd987ae346e9d8 "lualatex"
   "images/logo.png" 1732642371 5251 cc1f58f2715d780a35156b77ab1d3f18 ""
   "images/mika.jpeg" 1732642371 161999 208b7f4e703da1a5e0914a38c0f9fe67 ""
   "images/sudoid.png" 1732980661 18323 ab2412d27252ac43dbb597281611afaf ""

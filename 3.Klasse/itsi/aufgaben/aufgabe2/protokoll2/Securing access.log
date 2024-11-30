@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2024.5.4)  30 NOV 2024 21:03
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2024.5.4)  30 NOV 2024 21:11
  restricted system commands enabled.
  file:line:error style messages enabled.
 **"Securing access.tex"
@@ -376,16 +376,16 @@ Package luatex.def Info: images/logo.png  used on input line 132.
  [6] ("./Securing access.aux"))
 
 Here is how much of LuaTeX's memory you used:
- 6928 strings out of 478382
+ 6929 strings out of 478382
  100000,1977958 words of node,token memory allocated
  421 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 51 glue_spec, 4 attribute_list, 1 write nodes
-   avail lists: 2:1674,3:164,4:304,5:463,6:68,7:7758,8:1,9:1736,10:5,11:262
- 26775 multiletter control sequences out of 65536+600000
+   avail lists: 2:1676,3:166,4:304,5:475,6:68,7:8020,8:1,9:1740,10:5,11:288
+ 26776 multiletter control sequences out of 65536+600000
  34 fonts using 2524711 bytes
  72i,16n,73p,313b,619s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/opentype/public/lm/lmroman10-italic.otf></usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman12-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Securing access.pdf (6 pages, 231097 bytes).
+Output written on Securing access.pdf (6 pages, 232010 bytes).
 
 PDF statistics: 66 PDF objects out of 1000 (max. 8388607)
  37 compressed objects within 1 object stream
