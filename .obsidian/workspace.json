@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/itsi/Authetifizierungsmethoden.md",
+                "file": "3.Klasse/nwt/vlans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Authetifizierungsmethoden"
+              "title": "vlans"
             }
           }
         ]
@@ -189,13 +189,15 @@
       "markdown-importer:Open format converter": true,
       "templates:Insert template": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "3884f8c88d54e097",
   "lastOpenFiles": [
-    "3.Klasse/itsi/3kl itsi.md",
+    "3.Klasse/nwt/3kl nwt.md",
     "3.Klasse/itsi/Authetifizierungsmethoden.md",
+    "3.Klasse/itsi/3kl itsi.md",
     "3.Klasse/itsi/Benutzerkategorien.md",
     "3.Klasse/ggp/ggp test zettel fragen beatworten.md",
     "3.Klasse/ggp/Usa-Demotratie-Schwachstellen.md",
@@ -220,7 +222,6 @@
     "bilder/Funtionelle Gruppen 25-11-2024-44.excalidraw.md",
     "bilder/Funtionelle Gruppen 25-11-2024-38.excalidraw.md",
     "3.Klasse/Nawi/3kl nawi.md",
-    "3.Klasse/nwt/3kl nwt.md",
     "3.Klasse/Nawi/Erdöl und Alternativen.md",
     "3.Klasse/sew/Sew test Cheatsheet.md",
     "3.Klasse/sew/3kl sew.md",
