@@ -18,7 +18,7 @@ RUN echo 'root:changeme' | chpasswd
 
 RUN sed -i 's/#Port 22/Port 38452/' /etc/ssh/sshd_config
 RUN sed -i 's/#PermitRootLogin prohibit-password/PermitRootLogin yes/' /etc/ssh/sshd_config
-RUN sed -i '/retry=3/ s/$/ucredit=-1 dcredit=-1 ocredit=-1/' /etc/pam.d/common-password
+RUN sed -i '/retry=3/ s/$/ucredit=-1 dcredit=-1 ocredit=-1/ enforce_for_root' /etc/pam.d/common-password
 RUN sed -i '/ocredit=-1/ a password\trequisite\t\t\tpam_pwhistory.so remember=5 use_authtok' /etc/pam.d/common-password
 RUN sed -i '/yescrypt/ s/$/ minlen=10/' /etc/pam.d/common-password
 
