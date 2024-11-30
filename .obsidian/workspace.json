@@ -13,12 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "3.Klasse/ggp/Volkswirschaft Grundlagen.md",
+=======
+                "file": "3.Klasse/nwt/vlans.md",
+>>>>>>> 08dd599dd1bdc0abee142f1ad186ba1dda7221d7
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Volkswirschaft Grundlagen"
+=======
+              "title": "vlans"
+>>>>>>> 08dd599dd1bdc0abee142f1ad186ba1dda7221d7
             }
           }
         ]
@@ -195,9 +203,13 @@
   },
   "active": "3884f8c88d54e097",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "3.Klasse/ggp/scheiß test thing oida omg.md",
     "3.Klasse/ggp/Volkswirschaft Grundlagen.md",
     "3.Klasse/ggp/3kl GGP.md",
+=======
+    "3.Klasse/nwt/3kl nwt.md",
+>>>>>>> 08dd599dd1bdc0abee142f1ad186ba1dda7221d7
     "3.Klasse/itsi/Authetifizierungsmethoden.md",
     "3.Klasse/itsi/3kl itsi.md",
     "3.Klasse/itsi/Benutzerkategorien.md",
@@ -224,7 +236,6 @@
     "bilder/Funtionelle Gruppen 25-11-2024-44.excalidraw.md",
     "bilder/Funtionelle Gruppen 25-11-2024-38.excalidraw.md",
     "3.Klasse/Nawi/3kl nawi.md",
-    "3.Klasse/nwt/3kl nwt.md",
     "3.Klasse/Nawi/Erdöl und Alternativen.md",
     "bilder/Pasted image 20241125122249.png",
     "bilder/Pasted image 20241125121914.png",
