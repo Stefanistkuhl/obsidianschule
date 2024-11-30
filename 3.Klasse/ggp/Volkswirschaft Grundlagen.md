@@ -122,3 +122,17 @@ tags:
 	- Messung der Leistungsfähigkeit/Erfolg oder Misserfolg einer Volkswirschaft innerhalb eines bestimmen Zeitraums
 	- Angabe der Erwirtscahftung des Wertes an Gütern und Dienstleistungen innerhalb eines Jahres
 	- Berücksichtight nur Endprodukte (keine Zwischenproudkte)
+		- preis Des Zwischenprudkts ist ja im Endpreis enthalten
+	- Enthält
+		- Materielle Güter
+		- immaterielle Güter
+	- !Enthält
+		- illegale Produkte
+		- unbezahlte Arbeit
+		- Homemade
+	- Messung des Wertes der Produktion innerhalb der Grenzes eines Landers zu einer bestimmten Zeit
+		- zb wenn man in dem anderen Land ist zählt in diesem zum BIP
+	- Kritik
+		- Ungleiche Verteilung von reichtum
+		- unbezahlte arbeit wird nicht berücksichtigt
+		- Umweltverschmutzung wird nicht berücksichtigt
