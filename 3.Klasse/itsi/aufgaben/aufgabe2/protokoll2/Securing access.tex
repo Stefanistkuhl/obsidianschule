@@ -112,7 +112,8 @@ RUN echo "ram-ram ALL=(root) /bin/cat" >> /etc/sudoers
 I chose nano over vim for editing the ssh config file, as running vim as sudo effectively gives the user full sudo access, as it is possible to open a terminal in it and escape the normal editor mode in numerous ways, so its just easier to give the user nano.\abc
 insert screenshots of the thing
 \subsubsection{Setting up a password policy}
-To set Password polcies on Debain based distrobutions the \texttt{/etc/pam.d/common-password} has to be edited. Pam stands for Pluggable Authentication Modules and its installed per default on every Debian-based Distrobution.\cite{password-policies-1}
+To set password policies on Debian-based distrobutions, edit \texttt{/etc/pam.d/common-password}. Pam stands for Pluggable Authentication Modules and is installed by default on every Debian-based distribution.\cite{password-policies-1}\cite{password-policies-2} \abc
+To set a required complexity for passwords the \texttt{libpam-pwquality}
 \begin{lstlisting}[language=bash]
 RUN sed -i '/retry=3/ s/$/ucredit=-1 dcredit=-1 ocredit=-1/ enforce_for_root'\
             /etc/pam.d/common-password

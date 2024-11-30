@@ -190,6 +190,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT ./images/logo.png
 INPUT ./images/logo.png
+INPUT ./images/logo.png
+INPUT ./images/logo.png
 INPUT ./Securing access.bbl
 INPUT ./Securing access.bbl
 INPUT /home/stefiii/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-italic.luc

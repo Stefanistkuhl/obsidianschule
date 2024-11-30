@@ -1,5 +1,10 @@
 \begin{thebibliography}{1}
 
+\bibitem{password-policies-2}
+{How to prevent user from using old password (or re-using) again in Linux
+  {$\vert$} GoLinuxCloud}, August 2022.
+\newblock [Online; accessed 30. Nov. 2024].
+
 \bibitem{password-policies-1}
 sk.
 \newblock {How To Set Password Policies In Linux - OSTechNix}.

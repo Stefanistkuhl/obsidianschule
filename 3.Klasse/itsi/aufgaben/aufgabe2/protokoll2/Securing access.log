@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2024.5.4)  30 NOV 2024 21:11
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2024.5.4)  30 NOV 2024 22:26
  restricted system commands enabled.
  file:line:error style messages enabled.
 **"Securing access.tex"
@@ -352,43 +352,48 @@ File: lstlang1.sty 2020/03/24 1.8d listings language file
 ) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
-Overfull \hbox (50.3086pt too wide) in paragraph at lines 119--120
+Overfull \hbox (50.3086pt too wide) in paragraph at lines 120--121
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 124.
+Package luatex.def Info: images/logo.png  used on input line 123.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
-[4<./images/sudoid.png>] ("./Securing access.bbl")
+[4<./images/sudoid.png>]
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 127.
+Package luatex.def Info: images/logo.png  used on input line 125.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
- [5] ("./Securing access.lof")
+ [5] ("./Securing access.bbl")
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package luatex.def Info: images/logo.png  used on input line 128.
+(luatex.def)             Requested size: 186.09352pt x 55.10535pt.
+ [6] ("./Securing access.lof")
 \tf@lof=\write4
 
 \openout4 = Securing access.lof
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 132.
+Package luatex.def Info: images/logo.png  used on input line 133.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
- [6] ("./Securing access.aux"))
+ [7] ("./Securing access.aux"))
 
 Here is how much of LuaTeX's memory you used:
- 6929 strings out of 478382
+ 6936 strings out of 478382
  100000,1977958 words of node,token memory allocated
  421 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 51 glue_spec, 4 attribute_list, 1 write nodes
-   avail lists: 2:1676,3:166,4:304,5:475,6:68,7:8020,8:1,9:1740,10:5,11:288
- 26776 multiletter control sequences out of 65536+600000
+   avail lists: 2:1678,3:167,4:297,5:484,6:67,7:7958,8:1,9:1680,10:5,11:298
+ 26777 multiletter control sequences out of 65536+600000
  34 fonts using 2524711 bytes
- 72i,16n,73p,313b,619s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,16n,73p,317b,619s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/opentype/public/lm/lmroman10-italic.otf></usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman12-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Securing access.pdf (6 pages, 232010 bytes).
+Output written on Securing access.pdf (7 pages, 233394 bytes).
 
-PDF statistics: 66 PDF objects out of 1000 (max. 8388607)
- 37 compressed objects within 1 object stream
+PDF statistics: 69 PDF objects out of 1000 (max. 8388607)
+ 39 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
