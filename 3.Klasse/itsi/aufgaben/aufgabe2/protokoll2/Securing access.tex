@@ -114,8 +114,10 @@ insert screenshots of the thing
 \newpage
 \subsubsection{Setting up a password policy}
 To set password policies on Debian-based distrobutions, edit \texttt{/etc/pam.d/common-password}. Pam stands for Pluggable Authentication Modules and is installed by default on every Debian-based distribution.\cite{password-policies-1}\cite{password-policies-2} \abc
-To set a required complexity for passwords, the \texttt{libpam-pwquality} package needs to be installed. Then in the \texttt{/etc/pam.d/common-password} file, on the line with \texttt{pam_pwquality.so} \texttt{dcredit=-1}, \texttt{ocredit=-1} and \texttt{enforce\_for\_root} need to be added at the end to require at least one lowercase letter and one symbol in any password set and to enforce it for the root user.\abc
-Preventing the reuse of passwords is achieved by
+To set a required complexity for passwords, the \texttt{libpam-pwquality} package needs to be installed. Then in the \texttt{/etc/pam.d/common-password} file, on the line with \texttt{pam\_pwquality.so} \texttt{dcredit=-1}, \texttt{ocredit=-1} and \texttt{enforce\_for\_root} need to be added at the end to require at least one lowercase letter and one symbol in any password set and to enforce it for the root user.\abc
+Preventing password reuse is achieved by adding a line with the \texttt{pam\_pwhistory.so} module and appending \texttt{remember=5} and \texttt{use\_authtok} at the end of the line to remember the last 5 passwords so that they cannot be reused and to enforce the previously stacked password modules.\cite{password-policies-2}
+Finally, set the minimum length of the line with \texttt{pam\_unix.so}. \texttt{minlen=10} to require the password to be at least 10 characters long. \abc
+To edit this file declaratively in the Dockerfile I used the \texttt{sed} editor and the sed commands used are explained in the next section.
 \begin{lstlisting}[language=bash]
 #setting the requied password complexity
 RUN sed -i '/retry=3/ s/$/ucredit=-1 dcredit=-1 ocredit=-1/ enforce_for_root'\
@@ -126,6 +128,8 @@ RUN sed -i '/dit=-1/ a password\trequisite\t\t\tpam_pwhistory.so remember=5 use_
 #setting the minimum length
 RUN sed -i '/yescrypt/ s/$/ minlen=10/' /etc/pam.d/common-password
 \end{lstlisting}
+\subsubsection{sed Basics}
+todo explain sed
 
 \newpage
 \section{References}
