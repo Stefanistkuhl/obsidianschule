@@ -12,3 +12,4 @@ tags:
 [[Höhere Ableitungen]]
 [[Kurvendiskussion]]
 [[geogebra essentials]]
+[[Kosten und Preis theorie]]

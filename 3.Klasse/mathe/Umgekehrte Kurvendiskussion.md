@@ -88,3 +88,5 @@ iwas matura aufgaben ding
 ![[Pasted image 20241202113408.png]]
 A: Der tiefste Punkt des Seiles läuft leigt 4m unter dem Aufhängepunkt der niedrigeneren Mastens
 4.55)
+![[Pasted image 20241202115004.png]]
+4te Gleichung benötigt da man eine weietere variable benötigt
