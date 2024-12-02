@@ -2,6 +2,10 @@
 	- torch no talis at the start + ls gs for riposte
 - godrick
 	- same as above
+- deathbird
+	- pots or fight if i am cool
+- guardian golem
+	- club + riposte
 - radahn
 	- torch + misery
 - goldfrey
