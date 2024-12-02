@@ -5,16 +5,15 @@
 - radahn
 	- torch + misery
 - goldfrey
-	- lighting slam axe
+	- ill testlighting slam axe
 - morg
-	- ps ss
 	- long + broadsword
 - fg
-	- copy shilke
+	- copy shilkey
 - gdou
-	- shilkey
+	- copy shilkey
 - mali
-	- 
+	- hammer or ps ss or axe
 - gideon
 	- pots
 - loux
