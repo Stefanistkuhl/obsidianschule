@@ -1,0 +1,25 @@
+- margit
+	- torch no talis at the start + ls gs for riposte
+- godrick
+	- same as above
+- radahn
+	- torch + misery
+- goldfrey
+	- lighting slam axe
+- morg
+	- ps ss
+	- long + broadsword
+- fg
+	- copy shilke
+- gdou
+	- shilkey
+- mali
+	- 
+- gideon
+	- pots
+- loux
+	- torch + misery or balls + endure
+- radagon
+	- starfist
+- elden beast
+	- whatever shilkey did
