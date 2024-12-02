@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5db58cea4b5a8221",
+        "id": "f9e448746b48c5fa",
         "type": "tabs",
         "children": [
           {
-            "id": "2e235e62b64be30b",
+            "id": "f38f24ec9891d5ff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/englisch/english text formatting.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "english text formatting"
             }
           }
         ]
@@ -137,8 +141,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2e235e62b64be30b",
+  "active": "f38f24ec9891d5ff",
   "lastOpenFiles": [
+    "3.Klasse/englisch/english text formatting.md",
+    "bilder/english text formatting 02-12-2024-35.excalidraw.md",
+    "bilder/Pasted Image 20241202082553_780.png",
+    "3.Klasse/englisch/3kl eng.md",
+    "3.Klasse/ggp/Volkswirschaft Grundlagen.md",
+    "3.Klasse/ggp/scheiß test thing oida omg.md",
     "3.Klasse/itsi/aufgaben/aufgabe2/protokoll2/Securing access.tex~",
     "3.Klasse/itsi/aufgaben/aufgabe2/protokoll2/4913",
     "3.Klasse/itsi/aufgaben/aufgabe2/protokoll2/Securing access.synctex(busy)",
@@ -149,10 +159,8 @@
     "3.Klasse/itsi/aufgaben/aufgabe2/protokoll2/lualatex8175.fls",
     "3.Klasse/itsi/aufgaben/aufgabe2/protokoll2/lualatex8166.fls",
     "3.Klasse/itsi/aufgaben/aufgabe2/protokoll2/lualatex8150.fls",
-    "3.Klasse/itsi/aufgaben/aufgabe2/protokoll2/lualatex7996.fls",
     "3.Klasse/englisch/table of content.md",
     "bilder/arbeitsblatt ding 25-11-2024-15.excalidraw.md",
-    "3.Klasse/ggp/Volkswirschaft Grundlagen.md",
     "3.Klasse/ggp/arbeitsblatt BIP.md",
     "3.Klasse/ggp/wirschaft thingy.md",
     "3.Klasse/ggp/Volkswirtschaften.md",
