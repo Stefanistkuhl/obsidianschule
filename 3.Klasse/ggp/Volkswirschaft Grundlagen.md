@@ -32,7 +32,7 @@ tags:
 	- Produktionsgüter
 	- Konsumgüter
 	- Verbrauchsgüter
-- INmaterielle Güter
+- Inmaterielle Güter
 	- Dienstleistungen
 	- Rechte (zb Patente)
 - Güter sind Waren und Dienstleistungen
