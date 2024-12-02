@@ -74,3 +74,6 @@ tags:
 	- spilterrlau
 - upcyceling
 	- making something new/creative out of wasted things
+- overheads
+	- Betriebskosten
+	- cost to keep something running
