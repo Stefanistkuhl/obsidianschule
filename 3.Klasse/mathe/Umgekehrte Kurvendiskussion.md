@@ -85,3 +85,6 @@ iwas matura aufgaben ding
 ||:f'(48)=\tan(45°)
 |||:f(0)=0
 ```
+![[Pasted image 20241202113408.png]]
+A: Der tiefste Punkt des Seiles läuft leigt 4m unter dem Aufhängepunkt der niedrigeneren Mastens
+4.55)
