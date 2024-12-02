@@ -76,3 +76,12 @@ iwas matura aufgaben ding
 ![[Pasted image 20241126123710.png]]
 [minigolf a)](https://aufgabenpool.at/amn/teilb1/376/Minigolf.pdf)
 ![[Pasted image 20241126124027.png]]
+4.54)
+![[Umgekehrte Kurvendiskussion 02-12-2024-05.excalidraw]]
+```math
+||{"id":1663005185438}||
+
+|:f(48)=12
+||:f'(48)=\tan(45°)
+|||:f(0)=0
+```
