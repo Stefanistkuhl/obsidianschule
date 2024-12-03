@@ -13,3 +13,4 @@ tags:
 [[Kurvendiskussion]]
 [[geogebra essentials]]
 [[Kosten und Preis theorie]]
+[[Kosten und Presifunktionen]]

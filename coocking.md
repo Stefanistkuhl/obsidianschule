@@ -17,7 +17,7 @@
 - gdou
 	- copy shilkey
 - mali
-	- hammer or ps ss or axe
+	- hammer  + misery
 - gideon
 	- pots
 - loux

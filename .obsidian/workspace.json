@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "293372f5732086de",
+        "id": "523c28946fcfad03",
         "type": "tabs",
         "children": [
           {
-            "id": "416cf862bc14220b",
+            "id": "9800f77f1c115661",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/mathe/Kosten und Presifunktionen.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Kosten und Presifunktionen"
             }
           }
         ]
@@ -137,10 +141,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "416cf862bc14220b",
+  "active": "9800f77f1c115661",
   "lastOpenFiles": [
-    "medt thingy notizen.md",
+    "3.Klasse/mathe/3kl mathe.md",
+    "3.Klasse/mathe/Kosten und Presifunktionen.md",
     "coocking.md",
+    "medt thingy notizen.md",
     "3.Klasse/Nawi/Funktionellegruppen Umwandlungen.md",
     "bilder/Funktionellegruppen Umwandlungen 02-12-2024-24.excalidraw.md",
     "bilder/Teststoff 02-12-2024-29.excalidraw.md",
@@ -151,7 +157,6 @@
     "bilder/Pasted image 20241202121827.png",
     "bilder/Pasted image 20241202121755.png",
     "bilder/Umgekehrte Kurvendiskussion 02-12-2024-05.excalidraw.md",
-    "3.Klasse/mathe/3kl mathe.md",
     "3.Klasse/mathe/Umgekehrte Kurvendiskussion.md",
     "bilder/Pasted image 20241202115004.png",
     "bilder/Pasted image 20241202113408.png",
@@ -180,7 +185,6 @@
     "bilder/arbeitsblatt ding 25-11-2024-15.excalidraw.md",
     "3.Klasse/ggp/arbeitsblatt BIP.md",
     "3.Klasse/ggp/wirschaft thingy.md",
-    "3.Klasse/ggp/Volkswirtschaften.md",
-    "3.Klasse/3te Klasse.md"
+    "3.Klasse/ggp/Volkswirtschaften.md"
   ]
 }
