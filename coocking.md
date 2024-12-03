@@ -1,5 +1,5 @@
 - margit
-	- torch no talis at the start + ls gs for riposte
+	- torch no talis at the start + club riposte
 - godrick
 	- same as above
 - deathbird
