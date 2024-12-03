@@ -11,14 +11,10 @@
             "id": "416cf862bc14220b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "medt thingy notizen.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "medt thingy notizen"
+              "title": "New tab"
             }
           }
         ]
