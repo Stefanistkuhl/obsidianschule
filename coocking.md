@@ -7,9 +7,9 @@
 - guardian golem
 	- club + riposte
 - radahn
-	- torch + misery
+	- beasttorch + misery
 - goldfrey
-	- ill testlighting slam axe
+	- battle axe lightning slash
 - morg
 	- long + broadsword
 - fg
