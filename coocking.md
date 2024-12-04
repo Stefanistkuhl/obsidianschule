@@ -12,17 +12,20 @@
 	- battle axe lightning slash
 - morg
 	- long + broadsword
+	- lightning slash
 - fg
 	- copy shilkey
 - gdou
 	- copy shilkey
 - mali
-	- hammer  + misery
+	- hammer + misery
+	- cragblade or lightning  slash
 - gideon
 	- pots
 - loux
 	- torch + misery or balls + endure
 - radagon
-	- starfist
+	- balls
+	- flaming strike
 - elden beast
 	- whatever shilkey did
