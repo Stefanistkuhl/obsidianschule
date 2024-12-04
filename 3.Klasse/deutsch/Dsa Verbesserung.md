@@ -14,8 +14,10 @@ Die Kernidee hinter dieser Aktion ist es==,== die Anzahl der Opfer, welche bei d
 
 Meiner Meinung nach ist politisches Engagement dieser Art eine effektive Form, Aufmerksamkeit auf wichtige Themen zu bringen. Es ist eine Sache==,== über ein Thema in den Nachrichten zu lesen, aber sobald die Person selbst durch eine Darstellung dessen ==damit== konfrontiert wird, ist die Wahrscheinlichkeit höher, dass ihr das Thema in Erinnerung bleibt und sie dafür ein besseres Verständnis ~~dafür~~ erlangt.
 
-Je nach Thema wurde ich persönlich ohne viel zu ==ü==berlegen an solchen Aktionen teilnehmen, da es mir ==w==ichtig ist ~~über~~==auf== Missstände aufmerksam zu machen und meinen Teil für ==p==otenzielle ==p==olitische Änderungen beizutragen Weil wenn niemand sich für seine Interessen einsetzt, oder diese Deutlich macht sich auch nichts ändern wird R
+Je nach Thema wurde ich persönlich ohne viel zu ==ü==berlegen an solchen Aktionen teilnehmen, da es mir ==w==ichtig ist==,== ~~über~~==auf== Missstände aufmerksam zu machen und meinen Teil für ==p==otenzielle 
+==p==olitische Änderungen beizutragen. ==Denn== wenn niemand sich für seine Interessen einsetzt, oder diese ==d==eutlich macht==,== sich auch nichts ändern wird.
 
-Deshalb fordere ich, dass wir als Gesellschaft uns politisch bilden und unser Bestes geben, um unsere Interessen zu vertreten, anstatt die Politikverdrossenheit anzukurbeln und sich über die Politik und Gesellschaft zu Beschweren 
+Deshalb fordere ich, dass wir als Gesellschaft uns politisch bilden und unser Bestes geben, um unsere Interessen zu vertreten, anstatt die Politikverdrossenheit anzukurbeln und sich über die 
+ ==p==olitik und Gesellschaft zu ==b==eschweren.
 Mit freundlichen Grüßen
 Stefan Fürst

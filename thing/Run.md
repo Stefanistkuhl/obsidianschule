@@ -4,6 +4,7 @@
 	- same as above
 - deathbird
 	- pots or fight if i am cool
+	- club with sacred blade
 - guardian golem
 	- club + riposte
 - radahn
@@ -19,7 +20,7 @@
 	- copy shilkey
 - mali
 	- hammer + misery
-	- cragblade or lightning  slash
+	- cragblade or lightning slash
 - gideon
 	- pots
 - loux
