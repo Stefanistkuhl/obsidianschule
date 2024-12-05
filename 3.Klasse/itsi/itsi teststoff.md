@@ -4,7 +4,8 @@ tags:
   - itsi
 ---
 - cwe things [[cve wh]]
+- [[Klassifizierunsstufen]]
 - kryptographie
-- benutzer und gruppen
+- [[Benutzerkategorien|benutzergruppen]]
 - Authetifizierungsmethoden
 - alles zur user/gruppen verwaltung, ssh
