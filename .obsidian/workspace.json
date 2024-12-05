@@ -11,10 +11,14 @@
             "id": "2ca14a4478b29f9e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/itsi/cve wh.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "cve wh"
             }
           }
         ]
@@ -138,6 +142,8 @@
   },
   "active": "2ca14a4478b29f9e",
   "lastOpenFiles": [
+    "3.Klasse/itsi/itsi teststoff.md",
+    "3.Klasse/itsi/cve wh.md",
     "thing/Run.md",
     "3.Klasse/deutsch/Dsa Verbesserung.md",
     "3.Klasse/mathe/Kosten und Presifunktionen.md",
@@ -178,8 +184,6 @@
     "3.Klasse/itsi/aufgaben/aufgabe2/protokoll2/lualatex8175.fls",
     "3.Klasse/itsi/aufgaben/aufgabe2/protokoll2/lualatex8166.fls",
     "3.Klasse/itsi/aufgaben/aufgabe2/protokoll2/lualatex8150.fls",
-    "bilder/arbeitsblatt ding 25-11-2024-15.excalidraw.md",
-    "3.Klasse/ggp/arbeitsblatt BIP.md",
-    "3.Klasse/ggp/wirschaft thingy.md"
+    "bilder/arbeitsblatt ding 25-11-2024-15.excalidraw.md"
   ]
 }
