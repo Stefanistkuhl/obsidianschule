@@ -136,13 +136,13 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "2ca14a4478b29f9e",
   "lastOpenFiles": [
     "3.Klasse/itsi/itsi teststoff.md",
+    "3.Klasse/itsi/cve wh.md",
     "3.Klasse/itsi/cve wh.md",
     "thing/Run.md",
     "3.Klasse/deutsch/Dsa Verbesserung.md",
@@ -183,7 +183,6 @@
     "3.Klasse/itsi/aufgaben/aufgabe2/protokoll2/lualatex8272.fls",
     "3.Klasse/itsi/aufgaben/aufgabe2/protokoll2/lualatex8175.fls",
     "3.Klasse/itsi/aufgaben/aufgabe2/protokoll2/lualatex8166.fls",
-    "3.Klasse/itsi/aufgaben/aufgabe2/protokoll2/lualatex8150.fls",
-    "bilder/arbeitsblatt ding 25-11-2024-15.excalidraw.md"
+    "3.Klasse/itsi/aufgaben/aufgabe2/protokoll2/lualatex8150.fls"
   ]
 }
