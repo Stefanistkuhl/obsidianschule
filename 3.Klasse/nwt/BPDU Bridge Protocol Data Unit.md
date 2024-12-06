@@ -11,3 +11,4 @@ tags:
 	- wurde 2004 erwirternt und neue weichte wurden gesetzt
 	- 10 gig dann 2000
 - Timer-info
+- TC-Flag ... Topology Changed

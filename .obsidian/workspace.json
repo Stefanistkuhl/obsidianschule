@@ -25,15 +25,18 @@
             "id": "89ba0b5d9d389c69",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "bilder/Bridge-ID 06-12-2024-56.excalidraw.md"
+                "file": "3.Klasse/nwt/BPDU Bridge Protocol Data Unit.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Bridge-ID 06-12-2024-56.excalidraw"
+              "icon": "lucide-file",
+              "title": "BPDU Bridge Protocol Data Unit"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,15 +155,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9b93fb39aab03fde",
+  "active": "89ba0b5d9d389c69",
   "lastOpenFiles": [
-    "3.Klasse/nwt/STP-Spanning Tree Protocol.md",
+    "bilder/Bridge-ID 06-12-2024-56.excalidraw.md",
     "3.Klasse/nwt/STP TImer and Port States.md",
+    "3.Klasse/nwt/STP-Spanning Tree Protocol.md",
     "3.Klasse/nwt/BPDU Bridge Protocol Data Unit.md",
     "3.Klasse/nwt/Steps to a Loop-Free Topology.md",
     "bilder/Steps to a Loop-Free Topology 08-11-2024-15.excalidraw.md",
     "3.Klasse/nwt/Bridge-ID.md",
-    "bilder/Bridge-ID 06-12-2024-56.excalidraw.md",
     "3.Klasse/ggp/3kl GGP.md",
     "3.Klasse/itsi/itsi teststoff.md",
     "3.Klasse/itsi/cve wh.md",
