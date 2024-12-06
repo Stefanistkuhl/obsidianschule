@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "19edcf9dc5cdc648",
+        "id": "9cbd3500a234a788",
         "type": "tabs",
         "children": [
           {
-            "id": "77bf429eb20f698e",
+            "id": "8741ee17939a361c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -136,8 +136,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "77bf429eb20f698e",
+  "active": "8741ee17939a361c",
   "lastOpenFiles": [
+    "3.Klasse/Nawi/Teststoff.md",
+    "3.Klasse/Nawi/3kl nawi.md",
+    "Nawi Teststoff.md",
     "Untitled.md",
     "3.Klasse/nwt/STP TImer and Port States.md",
     "3.Klasse/nwt/BPDU Bridge Protocol Data Unit.md",
@@ -158,8 +161,6 @@
     "bilder/Funktionellegruppen Umwandlungen 02-12-2024-24.excalidraw.md",
     "bilder/Teststoff 02-12-2024-29.excalidraw.md",
     "3.Klasse/Nawi/Funtionelle Gruppen.md",
-    "3.Klasse/Nawi/3kl nawi.md",
-    "3.Klasse/Nawi/Teststoff.md",
     "3.Klasse/mathe/Kosten und Preis theorie.md",
     "bilder/Pasted image 20241202121827.png",
     "bilder/Pasted image 20241202121755.png",
@@ -168,7 +169,6 @@
     "bilder/Pasted image 20241202115004.png",
     "bilder/Pasted image 20241202113408.png",
     "bilder/Pasted image 20241202112912.png",
-    "3.Klasse/ggp/Volkswirschaft Grundlagen.md",
     "bilder/Pasted image 20241202095126.png",
     "bilder/Pasted Image 20241202082553_780.png",
     "3.Klasse/itsi/aufgaben/aufgabe2/protokoll2/Securing access.tex~",
