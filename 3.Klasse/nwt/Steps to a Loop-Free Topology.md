@@ -14,3 +14,4 @@ Using the STA, STP builds a loop free topology
 
 ![[Steps to a Loop-Free Topology 08-11-2024-15.excalidraw]]
 Root ports sind ports die mit der Root bridge verbunden sind
+Root Bridge is die Wurzel des Schleifenfreies baums

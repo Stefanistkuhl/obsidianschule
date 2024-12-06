@@ -15,3 +15,5 @@ tags:
 ![[STP-Spanning Tree Protocol 08-11-2024-36.excalidraw]]
 ![[issues with redundant switch links]]
 ![[Steps to a Loop-Free Topology]]
+![[Bridge-ID]]
+![[BPDU Bridge Protocol Data Unit]]
