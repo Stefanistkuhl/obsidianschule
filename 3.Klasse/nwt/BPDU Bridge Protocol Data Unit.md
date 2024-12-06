@@ -10,4 +10,4 @@ tags:
 	- zb 10gig = 2, 1gig = 4
 	- wurde 2004 erwirternt und neue weichte wurden gesetzt
 	- 10 gig dann 2000
-- Timer-kannndlesen
+- Timer-info
