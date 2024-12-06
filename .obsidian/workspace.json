@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "456bbe3bb8b4ffa6",
+        "id": "19edcf9dc5cdc648",
         "type": "tabs",
         "children": [
           {
-            "id": "9b93fb39aab03fde",
+            "id": "77bf429eb20f698e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/nwt/STP TImer and Port States.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "STP TImer and Port States"
-            }
-          },
-          {
-            "id": "89ba0b5d9d389c69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/nwt/BPDU Bridge Protocol Data Unit.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "BPDU Bridge Protocol Data Unit"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,12 +136,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "89ba0b5d9d389c69",
+  "active": "77bf429eb20f698e",
   "lastOpenFiles": [
-    "bilder/Bridge-ID 06-12-2024-56.excalidraw.md",
     "3.Klasse/nwt/STP TImer and Port States.md",
-    "3.Klasse/nwt/STP-Spanning Tree Protocol.md",
     "3.Klasse/nwt/BPDU Bridge Protocol Data Unit.md",
+    "bilder/Bridge-ID 06-12-2024-56.excalidraw.md",
+    "3.Klasse/nwt/STP-Spanning Tree Protocol.md",
     "3.Klasse/nwt/Steps to a Loop-Free Topology.md",
     "bilder/Steps to a Loop-Free Topology 08-11-2024-15.excalidraw.md",
     "3.Klasse/nwt/Bridge-ID.md",
