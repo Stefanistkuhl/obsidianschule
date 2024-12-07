@@ -11,10 +11,14 @@
             "id": "8741ee17939a361c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/Nawi/Nawi Teststoff.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Nawi Teststoff"
             }
           }
         ]
@@ -138,7 +142,7 @@
   },
   "active": "8741ee17939a361c",
   "lastOpenFiles": [
-    "3.Klasse/Nawi/Teststoff.md",
+    "3.Klasse/Nawi/Nawi Teststoff.md",
     "3.Klasse/Nawi/3kl nawi.md",
     "Nawi Teststoff.md",
     "Untitled.md",
