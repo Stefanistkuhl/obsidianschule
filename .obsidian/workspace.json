@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "23a058acd20c988e",
+        "id": "086d5962f4953a49",
         "type": "tabs",
         "children": [
           {
-            "id": "082c71b26181e446",
+            "id": "f503868b50f4c956",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/Nawi/Aminosäuren.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Aminosäuren"
-            }
-          },
-          {
-            "id": "d5d174475142a8da",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/Aminosäuren 09-12-2024-35.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Aminosäuren 09-12-2024-35.excalidraw"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +136,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d5d174475142a8da",
+  "active": "f503868b50f4c956",
   "lastOpenFiles": [
     "3.Klasse/Nawi/Aminosäuren.md",
     "bilder/Aminosäuren 09-12-2024-35.excalidraw.md",
