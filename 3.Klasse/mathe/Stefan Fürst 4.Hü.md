@@ -12,7 +12,8 @@ x > 8.3333 progressiv steigend
 ![[Pasted image 20241209192651.png]]
 b)
 p=14
-$$p(x) = 14x$$
+$$p=14$$
 $$E(x)=p(x)*x$$
 
 4.40)
+a)
