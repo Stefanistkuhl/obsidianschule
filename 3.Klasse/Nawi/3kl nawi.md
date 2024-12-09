@@ -10,3 +10,4 @@ tags:
 [[smü alekene lernen oder so]]
 [[Funtionelle Gruppen]]
 [[Nawi Teststoff]]
+[[Aminosäuren]]
