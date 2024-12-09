@@ -4,7 +4,15 @@ tags:
   - 3te_Klasse
 ---
 4.39)
-Übergang von degressiv zu progressiv steigend = Wendepukt
-![[Pasted image 20241209190713.png]]
+a)
+Übergang von degressiv zu progressiv steigend = Kostenkhere =Wendepukt
+![[Pasted image 20241209192523.png]]
+x < 8.3333 deegressiv
+x > 8.3333 progressiv steigend
+![[Pasted image 20241209192651.png]]
+b)
+p=14
+$$p(x) = 14x$$
+$$E(x)=p(x)*x$$
 
 4.40)
