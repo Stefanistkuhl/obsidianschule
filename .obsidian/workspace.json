@@ -4,45 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fb606ca32355e3eb",
+        "id": "23a058acd20c988e",
         "type": "tabs",
         "children": [
           {
-            "id": "b35da59c15b51736",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/arbeitsblatt volkswirtschaft wh 09-12-2024-35.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "arbeitsblatt volkswirtschaft wh 09-12-2024-35.excalidraw"
-            }
-          },
-          {
-            "id": "d048ce5a3dab3dcc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/arbeitsblatt ding 25-11-2024-15.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "arbeitsblatt ding 25-11-2024-15.excalidraw"
-            }
-          },
-          {
-            "id": "3e84cbaa14d67102",
+            "id": "082c71b26181e446",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/ggp/Volkswirschaft Grundlagen.md",
+                "file": "3.Klasse/mathe/Möbel aufgabe Kostenfunktion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Volkswirschaft Grundlagen"
+              "title": "Möbel aufgabe Kostenfunktion"
             }
           }
         ]
@@ -164,12 +140,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b35da59c15b51736",
+  "active": "082c71b26181e446",
   "lastOpenFiles": [
+    "bilder/Pasted image 20241209111725.png",
+    "3.Klasse/mathe/Kosten und Preis theorie.md",
+    "3.Klasse/mathe/Möbel aufgabe Kostenfunktion.md",
     "3.Klasse/ggp/Volkswirschaft Grundlagen.md",
     "bilder/arbeitsblatt ding 25-11-2024-15.excalidraw.md",
-    "3.Klasse/ggp/arbeitsblatt BIP.md",
     "bilder/arbeitsblatt volkswirtschaft wh 09-12-2024-35.excalidraw.md",
+    "3.Klasse/ggp/arbeitsblatt BIP.md",
     "3.Klasse/ggp/scheiß test thing oida omg.md",
     "3.Klasse/ggp/3kl GGP.md",
     "3.Klasse/ggp/arbeitsblatt volkswirtschaft wh.md",
@@ -191,9 +170,6 @@
     "Nawi Teststoff.md",
     "Untitled.md",
     "3.Klasse/nwt/STP TImer and Port States.md",
-    "3.Klasse/nwt/BPDU Bridge Protocol Data Unit.md",
-    "bilder/Bridge-ID 06-12-2024-56.excalidraw.md",
-    "3.Klasse/nwt/STP-Spanning Tree Protocol.md",
     "bilder/Pasted image 20241202121827.png",
     "bilder/Pasted image 20241202121755.png",
     "bilder/Pasted image 20241202115004.png",

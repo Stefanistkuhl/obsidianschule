@@ -29,3 +29,4 @@ p(x)=0.5
 E(x)=0.5x
 G(x)=0.5*x-K_{2}(x)
 ```
+[[Möbel aufgabe Kostenfunktion]]
