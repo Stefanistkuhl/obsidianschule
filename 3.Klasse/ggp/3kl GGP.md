@@ -7,6 +7,7 @@ tags:
 ![[Pasted image 20240919134221.png]]
 
 [[wirschaft thingy]]
+[[Volkswirtschaften]]
 [[USA-Demokratie]]
 [[Franzosen]]
 [[Meneschnrechte]]
