@@ -20,7 +20,13 @@
               "icon": "lucide-file",
               "title": "Das Meer in mir"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "fa8af3f232e12d9d",
+        "type": "tabs",
+        "children": [
           {
             "id": "d65b3621e38ac901",
             "type": "leaf",
@@ -154,21 +160,22 @@
   },
   "active": "7accab03339c216b",
   "lastOpenFiles": [
-    "3.Klasse/nwt/aufgaben/basic-router-conf/Configure-Basic-Router-Setting.tex",
-    "3.Klasse/nwt/aufgaben/basic-router-conf/template.tex",
-    "3.Klasse/nwt/aufgaben/basic-router-conf/quellen.bib",
-    "3.Klasse/nwt/aufgaben/basic-router-conf/images/mika.jpeg",
-    "3.Klasse/nwt/aufgaben/basic-router-conf/images/logo.png",
-    "3.Klasse/nwt/aufgaben/basic-router-conf/images",
-    "latex/template/nwt/template.tex~",
-    "latex/template/nwt/template.tex",
-    "latex/template/nwt/quellen.bib",
-    "latex/template/nwt/images/mika.jpeg",
-    "latex/template/nwt/images/logo.png",
-    "latex/template/nwt/images",
-    "3.Klasse/nwt/aufgaben/basic-router-conf/Configure-Basic-Router-Settings.tex",
     "bilder/Das Meer in mir 10-12-2024-42.excalidraw.md",
     "3.Klasse/ehtik/Das Meer in mir.md",
+    "3.Klasse/nwt/aufgaben/basic-router-conf/Configure-Basic-Router-Settings.synctex(busy)",
+    "3.Klasse/nwt/aufgaben/basic-router-conf/lualatex5335.fls",
+    "3.Klasse/nwt/aufgaben/basic-router-conf/Configure-Basic-Router-Settings.tex~",
+    "3.Klasse/nwt/aufgaben/basic-router-conf/lualatex5275.fls",
+    "3.Klasse/nwt/aufgaben/basic-router-conf/Configure-Basic-Router-Settings.bbl",
+    "3.Klasse/nwt/aufgaben/basic-router-conf/Configure-Basic-Router-Settings.blg",
+    "3.Klasse/nwt/aufgaben/basic-router-conf/Configure-Basic-Router-Settings.synctex.gz",
+    "3.Klasse/nwt/aufgaben/basic-router-conf/Configure-Basic-Router-Settings.lof",
+    "3.Klasse/nwt/aufgaben/basic-router-conf/Configure-Basic-Router-Settings.toc",
+    "3.Klasse/nwt/aufgaben/basic-router-conf/Configure-Basic-Router-Settings.pdf",
+    "3.Klasse/nwt/aufgaben/basic-router-conf/images/mika.jpeg",
+    "3.Klasse/nwt/aufgaben/basic-router-conf/images/logo.png",
+    "latex/template/nwt/images/mika.jpeg",
+    "latex/template/nwt/images/logo.png",
     "bilder/Pasted image 20241210150316.png",
     "3.Klasse/ehtik/3kl ethik.md",
     "3.Klasse/mathe/Aufgabenpool things.md",
@@ -197,8 +204,6 @@
     "3.Klasse/ggp/wirschaft thingy.md",
     "3.Klasse/englisch/table of content.md",
     "3.Klasse/englisch/3kl eng.md",
-    "bilder/Funktionellegruppen Umwandlungen 02-12-2024-24.excalidraw.md",
-    "3.Klasse/Nawi/NW2 1. Semester.pdf",
-    "3.Klasse/itsi/aufgaben/aufgabe2/protokoll2/Securing access.tex~"
+    "bilder/Funktionellegruppen Umwandlungen 02-12-2024-24.excalidraw.md"
   ]
 }

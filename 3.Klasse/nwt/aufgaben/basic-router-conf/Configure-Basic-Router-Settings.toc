@@ -1,0 +1,5 @@
+\contentsline {section}{\numberline {1}Task definition}{3}{}%
+\contentsline {section}{\numberline {2}Summary}{3}{}%
+\contentsline {section}{\numberline {3}Exercise Execution}{4}{}%
+\contentsline {section}{\numberline {4}References}{5}{}%
+\contentsline {section}{\numberline {5}List of figures}{6}{}%
