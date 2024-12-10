@@ -23,14 +23,18 @@ tags:
 		- Javi
 			- neffe von roman hat sich im laufe des filmes nicht geäußert wie es dazu steht, aber am ende sieht man wie er dem van nachläuft weil er seinen onkel nicht verlieren will
 		- Jose
-			- sein Schwager und ist komplett dagegen, weil er der Ansicht ist, dass
+			- sein Schwager und ist komplett dagegen, weil er der Ansicht ist, dass es einen schlechten eindruck auf die famile wirft wenn sie wegen des gerichtsprozesses in den medien ist
 		- Joaquin
+			- findet es schlimmer das ein kind sterben will, als wenn es stirbt.
 		- priester wappla typ
 			- ist gegen sterbe hilfe und den tod von ramon
 	- Welche Interessen vertreten die Personen?
+		- julia
+			- vertritt dass interese eine sterbehilfe einzuführen, weil sie findet, dass die menschen mehr entscheidungskraft haben sollten
+		- Manuela findet will nur das Beste für Ramon und 
 	- Was wissen wir nicht, was wir zur Klärung des Ethischen Problems wissen müssten?
 - Werte analyse
-	- Welche Werte lassen sich den einzelenen Interessenträgern/Personen zuordnern?i
+	- Welche Werte lassen sich den einzelenen Interessenträgern/Personen zuordnern?
 	- Wo verlaufen die Konfliktlinien: Welche Werte/moralische Normen stehen in diesem Fall in Widerpruch zueinernader.
 - Entwurf von Handlungsmotiven
 	- Wie sind die Handlungsalternativen der beteiligten Personen moralisch zu bewerten?

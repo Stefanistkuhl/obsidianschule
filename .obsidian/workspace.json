@@ -22,24 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "fa8af3f232e12d9d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d65b3621e38ac901",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/Das Meer in mir 10-12-2024-42.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Das Meer in mir 10-12-2024-42.excalidraw"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
