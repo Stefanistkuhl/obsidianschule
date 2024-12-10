@@ -11,10 +11,26 @@
             "id": "7accab03339c216b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/ehtik/Das Meer in mir.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Das Meer in mir"
+            }
+          },
+          {
+            "id": "d65b3621e38ac901",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/Das Meer in mir 10-12-2024-42.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Das Meer in mir 10-12-2024-42.excalidraw"
             }
           }
         ]
@@ -138,6 +154,23 @@
   },
   "active": "7accab03339c216b",
   "lastOpenFiles": [
+    "3.Klasse/nwt/aufgaben/basic-router-conf/Configure-Basic-Router-Setting.tex",
+    "3.Klasse/nwt/aufgaben/basic-router-conf/template.tex",
+    "3.Klasse/nwt/aufgaben/basic-router-conf/quellen.bib",
+    "3.Klasse/nwt/aufgaben/basic-router-conf/images/mika.jpeg",
+    "3.Klasse/nwt/aufgaben/basic-router-conf/images/logo.png",
+    "3.Klasse/nwt/aufgaben/basic-router-conf/images",
+    "latex/template/nwt/template.tex~",
+    "latex/template/nwt/template.tex",
+    "latex/template/nwt/quellen.bib",
+    "latex/template/nwt/images/mika.jpeg",
+    "latex/template/nwt/images/logo.png",
+    "latex/template/nwt/images",
+    "3.Klasse/nwt/aufgaben/basic-router-conf/Configure-Basic-Router-Settings.tex",
+    "bilder/Das Meer in mir 10-12-2024-42.excalidraw.md",
+    "3.Klasse/ehtik/Das Meer in mir.md",
+    "bilder/Pasted image 20241210150316.png",
+    "3.Klasse/ehtik/3kl ethik.md",
     "3.Klasse/mathe/Aufgabenpool things.md",
     "bilder/Pasted image 20241210123342.png",
     "bilder/Pasted image 20241210122635.png",
@@ -148,15 +181,11 @@
     "bilder/Pasted image 20241209211305.png",
     "3.Klasse/mathe/Kosten und Preis theorie.md",
     "3.Klasse/mathe/Kosten und Presifunktionen.md",
-    "bilder/Pasted image 20241209192651.png",
-    "bilder/Pasted image 20241209192523.png",
-    "bilder/Pasted image 20241209190713.png",
     "3.Klasse/Nawi/Aminosäuren.md",
     "bilder/Aminosäuren 09-12-2024-35.excalidraw.md",
     "bilder/Aminosäuren 09-12-2024-31.excalidraw.md",
     "3.Klasse/Nawi/3kl nawi.md",
     "3.Klasse/mathe/Möbel aufgabe Kostenfunktion.md",
-    "bilder/Pasted image 20241209111725.png",
     "3.Klasse/ggp/Volkswirschaft Grundlagen.md",
     "bilder/arbeitsblatt ding 25-11-2024-15.excalidraw.md",
     "bilder/arbeitsblatt volkswirtschaft wh 09-12-2024-35.excalidraw.md",
@@ -164,24 +193,12 @@
     "3.Klasse/ggp/scheiß test thing oida omg.md",
     "3.Klasse/ggp/3kl GGP.md",
     "3.Klasse/ggp/arbeitsblatt volkswirtschaft wh.md",
-    "bilder/Pasted Image 20241209103045_239.png",
     "3.Klasse/ggp/Volkswirtschaften.md",
     "3.Klasse/ggp/wirschaft thingy.md",
     "3.Klasse/englisch/table of content.md",
     "3.Klasse/englisch/3kl eng.md",
     "bilder/Funktionellegruppen Umwandlungen 02-12-2024-24.excalidraw.md",
-    "3.Klasse/Nawi/Funtionelle Gruppen.md",
-    "3.Klasse/Nawi/Nawi Teststoff.md",
-    "3.Klasse/Nawi/Organischer Chemie.md",
     "3.Klasse/Nawi/NW2 1. Semester.pdf",
-    "3.Klasse/itsi/aufgaben/aufgabe2/protokoll2/Securing access.tex~",
-    "3.Klasse/itsi/aufgaben/aufgabe2/protokoll2/4913",
-    "3.Klasse/itsi/aufgaben/aufgabe2/protokoll2/Securing access.synctex(busy)",
-    "3.Klasse/itsi/aufgaben/aufgabe2/protokoll2/lualatex8498.fls",
-    "3.Klasse/itsi/aufgaben/aufgabe2/protokoll2/lualatex8302.fls",
-    "3.Klasse/itsi/aufgaben/aufgabe2/protokoll2/lualatex8286.fls",
-    "3.Klasse/itsi/aufgaben/aufgabe2/protokoll2/lualatex8272.fls",
-    "3.Klasse/itsi/aufgaben/aufgabe2/protokoll2/lualatex8175.fls",
-    "3.Klasse/itsi/aufgaben/aufgabe2/protokoll2/lualatex8166.fls"
+    "3.Klasse/itsi/aufgaben/aufgabe2/protokoll2/Securing access.tex~"
   ]
 }
