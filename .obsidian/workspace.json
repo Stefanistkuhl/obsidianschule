@@ -11,10 +11,14 @@
             "id": "d48fb4844d83f711",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/mathe/Aufgabenpool things.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Aufgabenpool things"
             }
           }
         ]
@@ -138,11 +142,12 @@
   },
   "active": "d48fb4844d83f711",
   "lastOpenFiles": [
+    "3.Klasse/mathe/3kl mathe.md",
+    "3.Klasse/mathe/Aufgabenpool things.md",
     "3.Klasse/mathe/Stefan Fürst 4.Hü.md",
     "bilder/Pasted image 20241209230008.png",
     "bilder/Pasted image 20241209225408.png",
     "bilder/Pasted image 20241209211305.png",
-    "3.Klasse/mathe/3kl mathe.md",
     "3.Klasse/mathe/Kosten und Preis theorie.md",
     "3.Klasse/mathe/Kosten und Presifunktionen.md",
     "bilder/Pasted image 20241209192651.png",
