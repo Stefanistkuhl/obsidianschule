@@ -1,10 +1,10 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.9.9)  10 DEC 2024 15:22
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.10.15)  11 DEC 2024 16:52
  restricted system commands enabled.
  file:line:error style messages enabled.
 **Configure-Basic-Router-Settings.tex
 (./Configure-Basic-Router-Settings.tex
 LaTeX2e <2024-06-01> patch level 2
-L3 programming layer <2024-08-16>
+L3 programming layer <2024-09-10>
 Lua module: luaotfload 2024-02-14 3.28 Lua based OpenType font support
 Lua module: lualibs 2023-07-13 2.76 ConTeXt Lua standard libraries.
 Lua module: lualibs-extended 2023-07-13 2.76 ConTeXt Lua libraries -- extended collection.
@@ -70,21 +70,21 @@ File: luatex.def 2024/04/13 v1.2e Graphics/color driver for luatex
 \Gin@req@height=\dimen141
 \Gin@req@width=\dimen142
 ) (/opt/texlive/2024/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
  (/opt/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: luatex.def on input line 274.
  (/opt/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx)
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
-Package xcolor Info: Model `RGB' extended on input line 1366.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 ) (/opt/texlive/2024/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
@@ -106,18 +106,18 @@ Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 \lst@lineno=\count271
 \lst@maxwidth=\dimen146
  (/opt/texlive/2024/texmf-dist/tex/latex/listings/lstpatch.sty
-File: lstpatch.sty 2024/05/25 1.10b (Carsten Heinz)
+File: lstpatch.sty 2024/09/23 1.10c (Carsten Heinz)
 ) (/opt/texlive/2024/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2024/05/25 1.10b (Carsten Heinz)
+File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
 \c@lstnumber=\count272
 \lst@skipnumbers=\count273
 \lst@framebox=\box53
 ) (/opt/texlive/2024/texmf-dist/tex/latex/listings/listings.cfg
-File: listings.cfg 2024/05/25 1.10b listings configuration
+File: listings.cfg 2024/09/23 1.10c listings configuration
 ))
-Package: listings 2024/05/25 1.10b (Carsten Heinz)
+Package: listings 2024/09/23 1.10c (Carsten Heinz)
  (/opt/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.sty (/opt/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/opt/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2024-08-16 L3 programming layer (loader) 
+Package: expl3 2024-09-10 L3 programming layer (loader) 
  (/opt/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
 File: l3backend-luatex.def 2024-05-08 L3 backend support: PDF output (LuaTeX)
 \l__color_backend_stack_int=\count274
@@ -326,11 +326,16 @@ Package luatex.def Info: images/mika.jpeg  used on input line 51.
 <images/logo.png, id=2, 413.545pt x 122.4575pt>
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 72.
+Package luatex.def Info: images/logo.png  used on input line 71.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [1{/opt/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
-<./images/logo.png><./images/mika.jpeg>] (./Configure-Basic-Router-Settings.toc)
+<./images/logo.png><./images/mika.jpeg>] (./Configure-Basic-Router-Settings.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+)
 \tf@toc=\write3
 
 \openout3 = Configure-Basic-Router-Settings.toc
@@ -338,21 +343,27 @@ Package luatex.def Info: images/logo.png  used on input line 72.
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 75.
+Package luatex.def Info: images/logo.png  used on input line 74.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [2]
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 84.
+Package luatex.def Info: images/logo.png  used on input line 83.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [3]
+<images/nwtopology.png, id=18, 735.74875pt x 188.705pt>
+File: images/nwtopology.png Graphic file (type png)
+<use images/nwtopology.png>
+Package luatex.def Info: images/nwtopology.png  used on input line 89.
+(luatex.def)             Requested size: 331.08388pt x 84.91646pt.
+
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 89.
+Package luatex.def Info: images/logo.png  used on input line 94.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
-[4] (./Configure-Basic-Router-Settings.bbl
+[4<./images/nwtopology.png>] (./Configure-Basic-Router-Settings.bbl
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
@@ -360,14 +371,9 @@ LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 92.
+Package luatex.def Info: images/logo.png  used on input line 97.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
-[5] (./Configure-Basic-Router-Settings.lof
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 1.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 1.
-)
+[5] (./Configure-Basic-Router-Settings.lof)
 \tf@lof=\write4
 
 \openout4 = Configure-Basic-Router-Settings.lof
@@ -375,28 +381,28 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 97.
+Package luatex.def Info: images/logo.png  used on input line 102.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [6] (./Configure-Basic-Router-Settings.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
-L3 programming layer <2024-08-16>
+L3 programming layer <2024-09-10>
  ***********
 )
 
 Here is how much of LuaTeX's memory you used:
- 6489 strings out of 475910
- 100000,1977958 words of node,token memory allocated
+ 6503 strings out of 475910
+ 100000,794899 words of node,token memory allocated
  421 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 51 glue_spec, 4 attribute_list, 1 write nodes
-   avail lists: 2:160,3:80,4:18,5:67,6:44,7:1188,8:1,9:198,10:3,11:100
- 29021 multiletter control sequences out of 65536+600000
- 30 fonts using 2003495 bytes
+   avail lists: 2:162,3:88,4:16,5:75,6:44,7:1128,8:1,9:194,10:3,11:90
+ 29032 multiletter control sequences out of 65536+600000
+ 32 fonts using 2266935 bytes
  79i,16n,89p,261b,379s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf>
-Output written on Configure-Basic-Router-Settings.pdf (6 pages, 189402 bytes).
+Output written on Configure-Basic-Router-Settings.pdf (6 pages, 198100 bytes).
 
-PDF statistics: 47 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 49 PDF objects out of 1000 (max. 8388607)
  26 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
