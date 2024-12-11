@@ -44,4 +44,19 @@ Das [[Realtionales Datenbank Magment System|RDBMS]] stellt uns Werkzeuge dafür 
 → Contraints (Einschränkung)
 
 - DELETE UPDATE
-	- 
+	- NO ACTION
+		- Verweigerung
+	- CASCADE
+		- weiterreichen
+	- SET DEFAULT
+		- Standartwert eintragen
+	- SET NULL
+		- Null eintragen
+
+```sql
+CREATE TABLE(
+FOREIGN KEY (FK_KLASSE) REFERENCES KLASSE(KlasseID)
+	ON DELTE NO ACTION
+	ON UPDATE CASCADE,
+)
+```
