@@ -4,5 +4,5 @@
 \contentsline {subsection}{\numberline {3.1}Set Up the Topology and Initialize Devices}{4}{}%
 \contentsline {subsection}{\numberline {3.2}Configure Devices and Verify Connectivity}{4}{}%
 \contentsline {subsubsection}{\numberline {3.2.1}Configure the PC interfaces}{4}{}%
-\contentsline {subsection}{\numberline {3.3}Configure the router}{4}{}%
-\contentsline {section}{\numberline {4}List of figures}{5}{}%
+\contentsline {subsection}{\numberline {3.3}Configure the router}{5}{}%
+\contentsline {section}{\numberline {4}List of figures}{6}{}%

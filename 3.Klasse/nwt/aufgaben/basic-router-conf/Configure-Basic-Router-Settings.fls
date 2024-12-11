@@ -130,6 +130,11 @@ INPUT ./images/nwtopology.png
 INPUT ./images/pc-ipconf.png
 INPUT ./images/pc-ipconf.png
 INPUT ./images/logo.png
+INPUT /home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-italic.luc
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
+INPUT /home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc
+INPUT ./images/logo.png
 INPUT ./Configure-Basic-Router-Settings.lof
 OUTPUT Configure-Basic-Router-Settings.lof
 INPUT ./images/logo.png

@@ -14,6 +14,7 @@
 	EXPOSE,RUN,FROM,CMD,nc,tcp,udp,http,docker},emphstyle=\color{purple}
 }
 \newcommand{\abc}{\hfill \break}
+\newcommand{\ii}{\textit}
 \usepackage{fancyhdr}
 \usepackage{geometry}
 % \usepackage{hyperref}
@@ -94,7 +95,7 @@ This exercise was done in Cisco Packet Tracer and the devices were placed and wi
 	\includegraphics[scale=0.45]{images/nwtopology.png}
 	\centering
 	\caption{Network topology required for this exercise}
-\end{figure}
+\end{figure}\abc
 After that, everything was turned on and the router and switch were both iniliazised and reloaded.
 
 \subsection{Configure Devices and Verify Connectivity}
@@ -105,8 +106,21 @@ The IP addresses for both PCs have been set in the IP Configuration application.
 	\centering
 	\caption{IP configuration for PC-A and PC-B}
 \end{figure}
+\newpage
 \subsection{Configure the router}
-
+To access the router's configuration mode, connect to the router through the console port and execute the \ii{en} and \ii{conf t} commands.\abc
+The following basic settings are configured using the commands listed below:
+\begin{lstlisting}[language=bash]
+#setting the hostname
+hostname R1
+#setting the domain name of the router
+ip domain name ccna-lab.com
+#disable DNS lookup on mistyped commands
+no ip domain lookup
+#encrypting plaintext passwords
+service password-encryption
+security passwords min-length 12
+\end{lstlisting}
 
 \newpage
 \section{List of figures}
