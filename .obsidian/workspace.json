@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4640b8e65dcb2c57",
+        "id": "7a9a7d01ec0d140d",
         "type": "tabs",
         "children": [
           {
-            "id": "5d8ca48835aead63",
+            "id": "6630aaea0722ec6f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/Schlüssel 11-12-2024-59.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Schlüssel 11-12-2024-59.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -138,10 +136,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5d8ca48835aead63",
+  "active": "6630aaea0722ec6f",
   "lastOpenFiles": [
-    "3.Klasse/insy/Schlüssel.md",
     "bilder/Schlüssel 11-12-2024-59.excalidraw.md",
+    "3.Klasse/insy/Schlüssel.md",
     "3.Klasse/ehtik/Das Meer in mir.md",
     "bilder/Das Meer in mir 10-12-2024-42.excalidraw.md",
     "3.Klasse/nwt/aufgaben/basic-router-conf/Configure-Basic-Router-Settings.synctex(busy)",
