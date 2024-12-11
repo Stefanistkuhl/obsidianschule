@@ -123,16 +123,6 @@ no ip domain lookup
 service password-encryption
 #setting the minimum password length to 12 characters
 security passwords min-length 12
-#setting a password to enter EXEC mode
-enable secret $cisco!PRIV*
-#entering the configuration line for console port access.
-line console 0
-#setting password for console access
-password $cisco!!CON*
-#termination of session after four minutes of inactivity
-exec-timeout 4 0
-#enabeling login 
-login
 \end{lstlisting}
 To set up SSH for configuring the router over the network, first, a user must be created with the \ii{username SSHadmin secret 55Hadm!n2020} command, which creates a user named SSHadmin and sets an encrypted password.\abc
 Once the user has been created, an RSA key pair needs to be generated using the \ii{crypto key generate rsa general-keys modulus 1024}\footnote{As this is done in Packet Tracer and the hardware in the lab is outdated, the keys are limited to 1024 bit length instead of the 4096 bit length that should be used in a production environment.} command.
@@ -141,9 +131,30 @@ Once the user has been created, an RSA key pair needs to be generated using the 
 	\includegraphics[scale=0.55]{images/keygen.png}
 	\centering
 	\caption{Key pair generation}
-\end{figure}\abc
-
-
+\end{figure}
+\begin{lstlisting}[language=bash,
+	keywordstyle=\color{black},
+	rulecolor=\color{blue}]
+#setting a password to enter EXEC mode
+enable secret $cisco!PRIV*
+line console 0
+#setting password for console access
+password $cisco!!CON*
+#termination of the session after four minutes of inactivity
+exec-timeout 4 0
+#enabeling login 
+login
+#entering the configuration for lines for vty lines 0 to 4
+line vty 0 4
+#setting a password to access the lines
+password $cisco!!VTY*
+#termination of the session after four minutes of inactivity
+exec-timeout 4 0
+#only allowing ssh connections
+transport input ssh
+#enabeling login using the local database
+login local
+\end{lstlisting}
 
 
 
