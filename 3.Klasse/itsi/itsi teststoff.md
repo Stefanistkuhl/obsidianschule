@@ -5,7 +5,7 @@ tags:
 ---
 - cwe things [[cve wh]]
 - [[Klassifizierunsstufen]]
-- kryptographie
+- [[Kryptografie]]
 - [[Benutzerkategorien|benutzergruppen]]
-- Authetifizierungsmethoden
-- alles zur user/gruppen verwaltung, ssh
+- [[Authetifizierungsmethoden]]
+- alles zur [[Benutzerkategorien|benutzern]] verwaltung, ssh
