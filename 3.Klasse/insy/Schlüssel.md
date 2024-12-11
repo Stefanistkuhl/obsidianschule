@@ -29,3 +29,19 @@ Eine n:m Beziehung muss mit einer Zwischentabelle aufgelöst werden.
 in 2 1:n-Beziehungen
 ![[Schlüssel 27-11-2024-47.excalidraw]]
 2 "Krähenfüße" → 2 Fremdschlüssel in der Zwischentabelle
+
+![[Schlüssel 11-12-2024-59.excalidraw]]
+2 Problemfälle
+1. löschen in der Vatertabelle
+2. Änderen des PK in der Vatertabelle
+
+> Refrenzielle Integrität muss immer gegeben sein
+
+dh  zu einem FK muss immer ein PK vorhanden sein.
+Bei einer Änderung an löschung der Vatertabelle müssen die Einträge in der Kindertabbelle behalndelt wernde.
+
+Das [[Realtionales Datenbank Magment System|RDBMS]] stellt uns Werkzeuge dafür zur Verfügng
+→ Contraints (Einschränkung)
+
+- DELETE UPDATE
+	- 
