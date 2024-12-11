@@ -85,6 +85,15 @@ Submission date:
 
 \section{Summary}
 
+\newpage
+
+\section{Complete network topology of the exercise}
+\section{TODO ADD IP ADDRESSES TO THE TOPOLOGY}
+\begin{figure}[h]
+	\includegraphics[scale=0.65]{images/nwtopology.png}
+	\centering
+	\caption{Complete network topology of this exercise}
+\end{figure}
 
 \newpage
 
@@ -154,6 +163,39 @@ exec-timeout 4 0
 transport input ssh
 #enabeling login using the local database
 login local
+#createing a banner to warn that unauthorized access is prohibited
+banner motd $ unauthorized access is prohibited $
+\end{lstlisting}
+\begin{figure}[h]
+	\includegraphics[scale=0.55]{images/banner.png}
+	\centering
+	\caption{motd banner}
+\end{figure}\abc
+
+\begin{lstlisting}[language=bash,
+	keywordstyle=\color{black},
+	rulecolor=\color{blue}]
+#enable ipv6 routing
+ipv6 unicast-routing
+#setting the ip addresses according to the addressing table
+interface g0/0/0
+ip address 192.168.0.1 255.255.255.0
+ipv6 address fe80::1 link-local
+ipv6 address 2001:db8:acad::1/64
+no shutdown
+exit
+interface g0/0/1
+ip address 192.168.1.1 255.255.255.0
+ipv6 address fe80::1 link-local
+ipv6 address 2001:db8:acad:1::1/64
+no shutdown
+exit
+interface loopback0
+ip address 10.0.0.1 255.255.255.0
+ipv6 address fe80::1 link-local
+ipv6 address 2001:db8:acad:2::1/64
+no shutdown
+exit
 \end{lstlisting}
 
 

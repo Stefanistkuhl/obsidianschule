@@ -127,6 +127,8 @@ INPUT ./images/logo.png
 INPUT ./images/logo.png
 INPUT ./images/nwtopology.png
 INPUT ./images/nwtopology.png
+INPUT ./images/logo.png
+INPUT ./images/nwtopology.png
 INPUT ./images/pc-ipconf.png
 INPUT ./images/pc-ipconf.png
 INPUT ./images/logo.png
@@ -144,6 +146,9 @@ INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT ./images/keygen.png
 INPUT ./images/keygen.png
+INPUT ./images/banner.png
+INPUT ./images/banner.png
+INPUT ./images/logo.png
 INPUT ./images/logo.png
 INPUT ./Configure-Basic-Router-Settings.lof
 OUTPUT Configure-Basic-Router-Settings.lof

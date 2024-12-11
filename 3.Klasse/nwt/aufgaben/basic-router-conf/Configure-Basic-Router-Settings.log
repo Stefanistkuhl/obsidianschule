@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.10.15)  11 DEC 2024 21:13
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.10.15)  11 DEC 2024 22:57
  restricted system commands enabled.
  file:line:error style messages enabled.
 **Configure-Basic-Router-Settings.tex
@@ -332,9 +332,9 @@ Package luatex.def Info: images/logo.png  used on input line 77.
 
 <./images/logo.png><./images/mika.jpeg>] (./Configure-Basic-Router-Settings.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 4.
+(Font)              <7> on input line 6.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 4.
+(Font)              <5> on input line 6.
 )
 \tf@toc=\write3
 
@@ -349,46 +349,77 @@ Package luatex.def Info: images/logo.png  used on input line 80.
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 89.
+Package luatex.def Info: images/logo.png  used on input line 88.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [3]
 <images/nwtopology.png, id=18, 735.74875pt x 188.705pt>
 File: images/nwtopology.png Graphic file (type png)
 <use images/nwtopology.png>
-Package luatex.def Info: images/nwtopology.png  used on input line 95.
+Package luatex.def Info: images/nwtopology.png  used on input line 93.
+(luatex.def)             Requested size: 478.23102pt x 122.65678pt.
+
+
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package luatex.def Info: images/logo.png  used on input line 98.
+(luatex.def)             Requested size: 186.09352pt x 55.10535pt.
+[4<./images/nwtopology.png>]
+File: images/nwtopology.png Graphic file (type png)
+<use images/nwtopology.png>
+Package luatex.def Info: images/nwtopology.png  used on input line 104.
 (luatex.def)             Requested size: 331.08388pt x 84.91646pt.
-<images/pc-ipconf.png, id=19, 1015.795pt x 529.98pt>
+<images/pc-ipconf.png, id=23, 1015.795pt x 529.98pt>
 File: images/pc-ipconf.png Graphic file (type png)
 <use images/pc-ipconf.png>
-Package luatex.def Info: images/pc-ipconf.png  used on input line 105.
+Package luatex.def Info: images/pc-ipconf.png  used on input line 114.
 (luatex.def)             Requested size: 457.10353pt x 238.48878pt.
 
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 109.
+Package luatex.def Info: images/logo.png  used on input line 118.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
-[4<./images/nwtopology.png><./images/pc-ipconf.png>] (/opt/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
+[5<./images/pc-ipconf.png>] (/opt/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2024/09/23 1.10c listings language file
 ) (/opt/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2024/09/23 1.10c listings language file
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 128.
+(Font)              <8> on input line 137.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 128.
-<images/keygen.png, id=24, 540.0175pt x 97.36375pt>
+(Font)              <6> on input line 137.
+<images/keygen.png, id=27, 540.0175pt x 97.36375pt>
 File: images/keygen.png Graphic file (type png)
 <use images/keygen.png>
-Package luatex.def Info: images/keygen.png  used on input line 131.
+Package luatex.def Info: images/keygen.png  used on input line 140.
 (luatex.def)             Requested size: 297.01054pt x 53.55022pt.
+<images/banner.png, id=28, 286.06876pt x 91.34125pt>
+File: images/banner.png Graphic file (type png)
+<use images/banner.png>
+Package luatex.def Info: images/banner.png  used on input line 170.
+(luatex.def)             Requested size: 157.3383pt x 50.23784pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
+
+ []
+
 
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 161.
+Package luatex.def Info: images/logo.png  used on input line 181.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
-[5<./images/keygen.png>] (./Configure-Basic-Router-Settings.lof)
+[6<./images/keygen.png>]
+
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package luatex.def Info: images/logo.png  used on input line 203.
+(luatex.def)             Requested size: 186.09352pt x 55.10535pt.
+[7<./images/banner.png>] (./Configure-Basic-Router-Settings.lof)
 \tf@lof=\write4
 
 \openout4 = Configure-Basic-Router-Settings.lof
@@ -396,9 +427,9 @@ Package luatex.def Info: images/logo.png  used on input line 161.
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 166.
+Package luatex.def Info: images/logo.png  used on input line 208.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
-[6] (./Configure-Basic-Router-Settings.aux)
+[8] (./Configure-Basic-Router-Settings.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
@@ -406,19 +437,19 @@ L3 programming layer <2024-09-10>
 )
 
 Here is how much of LuaTeX's memory you used:
- 6851 strings out of 475910
+ 6909 strings out of 475910
  100000,953878 words of node,token memory allocated
- 443 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 4 glue, 3 kern, 1 glyph, 6 attribute, 51 glue_spec, 6 attribute_list, 1 write nodes
-   avail lists: 2:1840,3:154,4:872,5:534,6:90,7:6744,8:2,9:2250,10:4,11:156
- 29369 multiletter control sequences out of 65536+600000
+ 454 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 5 glue, 3 kern, 1 glyph, 7 attribute, 51 glue_spec, 7 attribute_list, 1 write nodes
+   avail lists: 2:2290,3:176,4:1020,5:620,6:101,7:7616,8:2,9:2600,10:4,11:156
+ 29415 multiletter control sequences out of 65536+600000
  42 fonts using 3161527 bytes
- 79i,16n,89p,405b,625s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,17n,89p,405b,844s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman8-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman6-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman7-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf>
-Output written on Configure-Basic-Router-Settings.pdf (6 pages, 286748 bytes).
+Output written on Configure-Basic-Router-Settings.pdf (8 pages, 294280 bytes).
 
-PDF statistics: 87 PDF objects out of 1000 (max. 8388607)
- 46 compressed objects within 1 object stream
+PDF statistics: 95 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
