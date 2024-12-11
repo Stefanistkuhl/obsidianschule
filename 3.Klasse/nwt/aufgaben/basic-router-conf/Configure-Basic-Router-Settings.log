@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.10.15)  11 DEC 2024 19:08
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.10.15)  11 DEC 2024 19:28
  restricted system commands enabled.
  file:line:error style messages enabled.
 **Configure-Basic-Router-Settings.tex
@@ -319,14 +319,14 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 <images/mika.jpeg, id=1, 1606.0pt x 1606.0pt>
 File: images/mika.jpeg Graphic file (type jpg)
 <use images/mika.jpeg>
-Package luatex.def Info: images/mika.jpeg  used on input line 57.
+Package luatex.def Info: images/mika.jpeg  used on input line 56.
 (luatex.def)             Requested size: 321.19432pt x 321.19432pt.
 
 
 <images/logo.png, id=2, 413.545pt x 122.4575pt>
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 77.
+Package luatex.def Info: images/logo.png  used on input line 76.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [1{/opt/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
@@ -343,37 +343,32 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 80.
+Package luatex.def Info: images/logo.png  used on input line 79.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [2]
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 89.
+Package luatex.def Info: images/logo.png  used on input line 88.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [3]
 <images/nwtopology.png, id=18, 735.74875pt x 188.705pt>
 File: images/nwtopology.png Graphic file (type png)
 <use images/nwtopology.png>
-Package luatex.def Info: images/nwtopology.png  used on input line 95.
+Package luatex.def Info: images/nwtopology.png  used on input line 94.
 (luatex.def)             Requested size: 331.08388pt x 84.91646pt.
+<images/pc-ipconf.png, id=19, 1015.795pt x 529.98pt>
+File: images/pc-ipconf.png Graphic file (type png)
+<use images/pc-ipconf.png>
+Package luatex.def Info: images/pc-ipconf.png  used on input line 104.
+(luatex.def)             Requested size: 457.10353pt x 238.48878pt.
 
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 105.
+Package luatex.def Info: images/logo.png  used on input line 111.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
-[4<./images/nwtopology.png>] (./Configure-Basic-Router-Settings.bbl
-
-LaTeX Warning: Empty `thebibliography' environment on input line 3.
-
-)
-
-File: images/logo.png Graphic file (type png)
-<use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 108.
-(luatex.def)             Requested size: 186.09352pt x 55.10535pt.
-[5] (./Configure-Basic-Router-Settings.lof)
+[4<./images/nwtopology.png><./images/pc-ipconf.png>] (./Configure-Basic-Router-Settings.lof)
 \tf@lof=\write4
 
 \openout4 = Configure-Basic-Router-Settings.lof
@@ -381,9 +376,9 @@ Package luatex.def Info: images/logo.png  used on input line 108.
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 113.
+Package luatex.def Info: images/logo.png  used on input line 116.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
-[6] (./Configure-Basic-Router-Settings.aux)
+[5] (./Configure-Basic-Router-Settings.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
@@ -391,19 +386,19 @@ L3 programming layer <2024-09-10>
 )
 
 Here is how much of LuaTeX's memory you used:
- 6503 strings out of 475910
+ 6500 strings out of 475910
  100000,794899 words of node,token memory allocated
  421 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 51 glue_spec, 4 attribute_list, 1 write nodes
-   avail lists: 2:198,3:106,4:20,5:97,6:44,7:1612,8:1,9:210,10:3,11:128
- 29032 multiletter control sequences out of 65536+600000
+   avail lists: 2:240,3:142,4:24,5:102,6:44,7:2002,8:1,9:216,10:3,11:162
+ 29034 multiletter control sequences out of 65536+600000
  32 fonts using 2266935 bytes
  79i,16n,89p,261b,379s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf>
-Output written on Configure-Basic-Router-Settings.pdf (6 pages, 199300 bytes).
+Output written on Configure-Basic-Router-Settings.pdf (5 pages, 259757 bytes).
 
-PDF statistics: 49 PDF objects out of 1000 (max. 8388607)
- 26 compressed objects within 1 object stream
+PDF statistics: 47 PDF objects out of 1000 (max. 8388607)
+ 24 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

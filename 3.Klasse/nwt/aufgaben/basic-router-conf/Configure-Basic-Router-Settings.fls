@@ -127,8 +127,8 @@ INPUT ./images/logo.png
 INPUT ./images/logo.png
 INPUT ./images/nwtopology.png
 INPUT ./images/nwtopology.png
-INPUT ./images/logo.png
-INPUT ./Configure-Basic-Router-Settings.bbl
+INPUT ./images/pc-ipconf.png
+INPUT ./images/pc-ipconf.png
 INPUT ./images/logo.png
 INPUT ./Configure-Basic-Router-Settings.lof
 OUTPUT Configure-Basic-Router-Settings.lof

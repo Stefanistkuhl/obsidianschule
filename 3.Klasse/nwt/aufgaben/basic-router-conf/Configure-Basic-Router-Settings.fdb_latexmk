@@ -1,13 +1,5 @@
 # Fdb version 4
-["bibtex Configure-Basic-Router-Settings"] 1733940493.49435 "Configure-Basic-Router-Settings.aux" "Configure-Basic-Router-Settings.bbl" "Configure-Basic-Router-Settings" 1733940494.59841 0
-  "./quellen.bib" 1732474410.28402 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "/opt/texlive/2024/texmf-dist/bibtex/bst/base/plain.bst" 1729016948 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "Configure-Basic-Router-Settings.aux" 1733940494.31591 1112 961988431ce8e9b20eafe4b14be48c79 "lualatex"
-  (generated)
-  "Configure-Basic-Router-Settings.bbl"
-  "Configure-Basic-Router-Settings.blg"
-  (rewritten before read)
-["lualatex"] 1733940493.58363 "Configure-Basic-Router-Settings.tex" "Configure-Basic-Router-Settings.pdf" "Configure-Basic-Router-Settings" 1733940494.59857 0
+["lualatex"] 1733941686.02888 "Configure-Basic-Router-Settings.tex" "Configure-Basic-Router-Settings.pdf" "Configure-Basic-Router-Settings" 1733941686.90927 0
   "/home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc" 1730474414.62049 128404 28b49989deeee2fef4bad54ea4ff03b7 ""
   "/home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc" 1730474414.39382 127321 1e575eb819bbc3a6f6680472e09f2dd0 ""
   "/home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman12-bold.luc" 1730474454.10763 128293 a1a1ef773e5e7e674b26c0027d88763d ""
@@ -119,14 +111,14 @@
   "/opt/texlive/2024/texmf-dist/tex/luatex/luaotfload/luaotfload.lua" 1729016948 13565 50482dad4c221a79dbdbb982122baf8c ""
   "/opt/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1729016948 5474839 35cc53a4aba5d7acf580f82c98bda701 ""
   "/opt/texlive/2024/texmf-var/web2c/luahbtex/lualatex.fmt" 1729016948 5627683 ec51dd1c20e290e9cda42431b3ff2ef6 ""
-  "Configure-Basic-Router-Settings.aux" 1733940494.31591 1112 961988431ce8e9b20eafe4b14be48c79 "lualatex"
-  "Configure-Basic-Router-Settings.bbl" 1733940493.5759 49 0eba253fc001332e731e8aba3f23127b "bibtex Configure-Basic-Router-Settings"
-  "Configure-Basic-Router-Settings.lof" 1733940494.31591 105 3191835b05403a7897f58155b8b18601 "lualatex"
-  "Configure-Basic-Router-Settings.tex" 1733940492.12923 2286 7e6fb7bd4b8774e0772bdade689c3d0c ""
-  "Configure-Basic-Router-Settings.toc" 1733940494.31591 571 08c88cbc28423a2d0d6a1c9439d92da2 "lualatex"
+  "Configure-Basic-Router-Settings.aux" 1733941686.79891 1229 aad0b8a8276ae22d51299715a9e281ac "lualatex"
+  "Configure-Basic-Router-Settings.lof" 1733941686.79891 201 2cec87b3694606e5560c36002a5a3a29 "lualatex"
+  "Configure-Basic-Router-Settings.tex" 1733941683.72221 2463 cb380f7360477174a48689c1b6a3283e ""
+  "Configure-Basic-Router-Settings.toc" 1733941686.79891 586 c2967e6316fc18019d29c68edc28b34b "lualatex"
   "images/logo.png" 1732474410.28069 5251 cc1f58f2715d780a35156b77ab1d3f18 ""
   "images/mika.jpeg" 1732474410.28402 161999 208b7f4e703da1a5e0914a38c0f9fe67 ""
   "images/nwtopology.png" 1733931783.96371 11924 ea646f8731dd81741e1e51aa2e59ade6 ""
+  "images/pc-ipconf.png" 1733941152.45422 82141 e731e3c0ed78b72314e6856acbacd725 ""
   (generated)
   "Configure-Basic-Router-Settings.aux"
   "Configure-Basic-Router-Settings.lof"
