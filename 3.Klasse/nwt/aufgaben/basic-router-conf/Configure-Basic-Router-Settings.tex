@@ -90,7 +90,7 @@ Submission date:
 \section{Complete network topology of the exercise}
 \section{TODO ADD IP ADDRESSES TO THE TOPOLOGY}
 \begin{figure}[h]
-	\includegraphics[scale=0.65]{images/nwtopology.png}
+	\includegraphics[scale=0.65]{images/nwtopology2.png}
 	\centering
 	\caption{Complete network topology of this exercise}
 \end{figure}
@@ -215,25 +215,35 @@ ipv6 address 2001:db8:acad:2::1/64
 no shutdown
 exit
 \end{lstlisting}
+\newpage
 \begin{figure}[h]
 	\includegraphics[scale=0.55]{images/showip.png}
 	\centering
 	\caption{Displaying the IP addresses set}
-\end{figure}\abc
+\end{figure}
 \begin{lstlisting}[language=bash,
 	keywordstyle=\color{black},
 	rulecolor=\color{blue}]
 #setting a timeout of 2 minutes after 3 failed login attempts in 60 seconds
 login block-for 120 attempts 3 within 60
+exit
 #setting the clock
 clock set 9:22:40 08 Nov 2024
 \end{lstlisting}
 \begin{figure}[h]
-	\includegraphics[scale=0.55]{images/showip.png}
+	\includegraphics[scale=0.55]{images/showclock.png}
 	\centering
-	\caption{Displaying the IP addresses set}
+	\caption{Display of current time}
 \end{figure}\abc
 
+\begin{lstlisting}[language=bash,
+	keywordstyle=\color{black},
+	rulecolor=\color{blue}]
+#copying the current running-config to the startup-config
+copy run start
+\end{lstlisting}
+If the router is reloaded before running this command, the running configuration will be lost, as the RAM is erased during a reload.
+\subsection{Verify network connectivity}
 
 \newpage
 \section{List of figures}

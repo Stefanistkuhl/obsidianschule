@@ -125,9 +125,10 @@ INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr5.tfm
 OUTPUT Configure-Basic-Router-Settings.toc
 INPUT ./images/logo.png
 INPUT ./images/logo.png
-INPUT ./images/nwtopology.png
-INPUT ./images/nwtopology.png
+INPUT ./images/nwtopology2.png
+INPUT ./images/nwtopology2.png
 INPUT ./images/logo.png
+INPUT ./images/nwtopology.png
 INPUT ./images/nwtopology.png
 INPUT ./images/pc-ipconf.png
 INPUT ./images/pc-ipconf.png
@@ -153,8 +154,11 @@ INPUT ./images/votylines.png
 INPUT ./images/votylines.png
 INPUT ./images/banner.png
 INPUT ./images/banner.png
+INPUT ./images/logo.png
 INPUT ./images/showip.png
 INPUT ./images/showip.png
+INPUT ./images/showclock.png
+INPUT ./images/showclock.png
 INPUT ./images/logo.png
 INPUT ./Configure-Basic-Router-Settings.lof
 OUTPUT Configure-Basic-Router-Settings.lof

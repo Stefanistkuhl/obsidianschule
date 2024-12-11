@@ -7,4 +7,5 @@
 \contentsline {subsection}{\numberline {5.2}Configure Devices and Verify Connectivity}{5}{}%
 \contentsline {subsubsection}{\numberline {5.2.1}Configure the PC interfaces}{5}{}%
 \contentsline {subsection}{\numberline {5.3}Configure the router}{6}{}%
-\contentsline {section}{\numberline {6}List of figures}{8}{}%
+\contentsline {subsection}{\numberline {5.4}Verify network connectivity}{8}{}%
+\contentsline {section}{\numberline {6}List of figures}{9}{}%

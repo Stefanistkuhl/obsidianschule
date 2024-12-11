@@ -1,5 +1,5 @@
 # Fdb version 4
-["lualatex"] 1733955460.11101 "Configure-Basic-Router-Settings.tex" "Configure-Basic-Router-Settings.pdf" "Configure-Basic-Router-Settings" 1733955461.21666 0
+["lualatex"] 1733956606.50809 "Configure-Basic-Router-Settings.tex" "Configure-Basic-Router-Settings.pdf" "Configure-Basic-Router-Settings" 1733956607.72335 0
   "/home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc" 1730474415.20716 81831 1e55f7d413926e3d119e4370905a9489 ""
   "/home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc" 1730474414.62049 128404 28b49989deeee2fef4bad54ea4ff03b7 ""
   "/home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-italic.luc" 1730476367.64593 136306 0ea3389d91ca273d5d8a160abfb7593a ""
@@ -127,17 +127,19 @@
   "/opt/texlive/2024/texmf-dist/tex/luatex/luaotfload/luaotfload.lua" 1729016948 13565 50482dad4c221a79dbdbb982122baf8c ""
   "/opt/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1729016948 5474839 35cc53a4aba5d7acf580f82c98bda701 ""
   "/opt/texlive/2024/texmf-var/web2c/luahbtex/lualatex.fmt" 1729016948 5627683 ec51dd1c20e290e9cda42431b3ff2ef6 ""
-  "Configure-Basic-Router-Settings.aux" 1733955461.00185 2297 aeecdc913d163c3aba824d295629d012 "lualatex"
-  "Configure-Basic-Router-Settings.lof" 1733955461.00518 769 da1f3ad872f6309b366361aaa627e71c "lualatex"
-  "Configure-Basic-Router-Settings.tex" 1733955458.96183 6536 8f8538be373e63590ae0756cc2283edb ""
-  "Configure-Basic-Router-Settings.toc" 1733955461.00518 758 bb061991b3882bde57c1229e05cb164c "lualatex"
+  "Configure-Basic-Router-Settings.aux" 1733956607.49634 2543 cbac8954d1769185f40d8c42a04ba4c0 "lualatex"
+  "Configure-Basic-Router-Settings.lof" 1733956607.49967 854 f921c2171428eecae0158a1adca86808 "lualatex"
+  "Configure-Basic-Router-Settings.tex" 1733956462.23821 7033 08ea26bf420aae683ccbe999df20aa35 ""
+  "Configure-Basic-Router-Settings.toc" 1733956607.49967 837 7536a47fa056d71a409d53bfe56a472d "lualatex"
   "images/banner.png" 1733953442.03323 3126 e5e21a0e9bd5ed181c5874786e6562ed ""
   "images/keygen.png" 1733944805.8904 10688 1df94c6937f289e97e03aa4602e21176 ""
   "images/line con0.png" 1733954515.95335 1920 ba73c21a6ba974771e1dc88013237f44 ""
   "images/logo.png" 1732474410.28069 5251 cc1f58f2715d780a35156b77ab1d3f18 ""
   "images/mika.jpeg" 1732474410.28402 161999 208b7f4e703da1a5e0914a38c0f9fe67 ""
   "images/nwtopology.png" 1733931783.96371 11924 ea646f8731dd81741e1e51aa2e59ade6 ""
+  "images/nwtopology2.png" 1733956598.93625 24672 9c1a8447c5bbffbf9d69863f5a429ff0 ""
   "images/pc-ipconf.png" 1733941152.45422 82141 e731e3c0ed78b72314e6856acbacd725 ""
+  "images/showclock.png" 1733953769.91661 2361 450c727731bd96b13da3eda5f026f1ea ""
   "images/showip.png" 1733954449.8528 7957 2313d77cab2cfda7a8100490ae3dae23 ""
   "images/votylines.png" 1733954484.87976 2339 bcb7ba6190d85bc94af4abf67ee84da4 ""
   (generated)
