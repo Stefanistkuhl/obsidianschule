@@ -122,6 +122,16 @@ service password-encryption
 #setting the minimum password length to 12 characters
 security passwords min-length 12
 \end{lstlisting}
+To set up SSH for configuring the router over the network, first, a user must be created with the \ii{username SSHadmin secret 55Hadm!n2020} command, which creates a user named SSHadmin and sets an encrypted password.\abc
+Once the user has been created, an RSA key pair needs to be generated using the \ii{crypto key generate rsa general-keys modulus 1024}\footnote{As this is done in Packet Tracer and the hardware in the lab is outdated, the keys are limited to 1024 bit length instead of the 4096 bit length that should be used in a production environment.} command.
+
+\begin{figure}[h]
+	\includegraphics[scale=0.55]{images/keygen.png}
+	\centering
+	\caption{Key pair generation}
+\end{figure}\abc
+
+
 
 \newpage
 \section{List of figures}

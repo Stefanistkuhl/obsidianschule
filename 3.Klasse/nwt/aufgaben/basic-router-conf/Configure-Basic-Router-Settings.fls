@@ -134,6 +134,16 @@ INPUT /home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/fonts/ot
 INPUT /opt/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /opt/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc
+INPUT /home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman8-regular.luc
+INPUT /home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman6-regular.luc
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT ./images/keygen.png
+INPUT ./images/keygen.png
 INPUT ./images/logo.png
 INPUT ./Configure-Basic-Router-Settings.lof
 OUTPUT Configure-Basic-Router-Settings.lof

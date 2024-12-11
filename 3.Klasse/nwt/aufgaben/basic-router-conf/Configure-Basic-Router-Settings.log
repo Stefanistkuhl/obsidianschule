@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.10.15)  11 DEC 2024 19:58
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.10.15)  11 DEC 2024 20:34
  restricted system commands enabled.
  file:line:error style messages enabled.
 **Configure-Basic-Router-Settings.tex
@@ -373,12 +373,27 @@ File: lstlang1.sty 2024/09/23 1.10c listings language file
 ) (/opt/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2024/09/23 1.10c listings language file
 )
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 126.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 126.
+<images/keygen.png, id=24, 540.0175pt x 97.36375pt>
+File: images/keygen.png Graphic file (type png)
+<use images/keygen.png>
+Package luatex.def Info: images/keygen.png  used on input line 129.
+(luatex.def)             Requested size: 297.01054pt x 53.55022pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--133
+
+ []
+
+
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 126.
+Package luatex.def Info: images/logo.png  used on input line 136.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
-[5] (./Configure-Basic-Router-Settings.lof)
+[5<./images/keygen.png>] (./Configure-Basic-Router-Settings.lof)
 \tf@lof=\write4
 
 \openout4 = Configure-Basic-Router-Settings.lof
@@ -386,7 +401,7 @@ Package luatex.def Info: images/logo.png  used on input line 126.
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 131.
+Package luatex.def Info: images/logo.png  used on input line 141.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [6] (./Configure-Basic-Router-Settings.aux)
  ***********
@@ -396,19 +411,19 @@ L3 programming layer <2024-09-10>
 )
 
 Here is how much of LuaTeX's memory you used:
- 6803 strings out of 475910
+ 6823 strings out of 475910
  100000,953878 words of node,token memory allocated
- 421 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 51 glue_spec, 4 attribute_list, 1 write nodes
-   avail lists: 2:670,3:130,4:236,5:200,6:46,7:2592,8:1,9:840,10:3,11:156
- 29324 multiletter control sequences out of 65536+600000
- 34 fonts using 2524711 bytes
- 79i,16n,89p,261b,621s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf>
-Output written on Configure-Basic-Router-Settings.pdf (6 pages, 267944 bytes).
+ 443 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 4 glue, 3 kern, 1 glyph, 6 attribute, 51 glue_spec, 6 attribute_list, 1 write nodes
+   avail lists: 2:750,3:130,4:248,5:264,6:54,7:3896,8:2,9:910,10:4,11:156
+ 29341 multiletter control sequences out of 65536+600000
+ 42 fonts using 3161527 bytes
+ 79i,16n,89p,405b,621s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman8-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman6-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman7-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf>
+Output written on Configure-Basic-Router-Settings.pdf (6 pages, 284340 bytes).
 
-PDF statistics: 64 PDF objects out of 1000 (max. 8388607)
- 34 compressed objects within 1 object stream
+PDF statistics: 87 PDF objects out of 1000 (max. 8388607)
+ 46 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
