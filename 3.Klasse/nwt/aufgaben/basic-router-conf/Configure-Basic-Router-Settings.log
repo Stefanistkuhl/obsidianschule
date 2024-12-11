@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.10.15)  11 DEC 2024 23:36
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.10.15)  11 DEC 2024 23:40
  restricted system commands enabled.
  file:line:error style messages enabled.
 **Configure-Basic-Router-Settings.tex
@@ -332,9 +332,9 @@ Package luatex.def Info: images/logo.png  used on input line 77.
 
 <./images/logo.png><./images/mika.jpeg>] (./Configure-Basic-Router-Settings.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 6.
+(Font)              <7> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 6.
+(Font)              <5> on input line 5.
 )
 \tf@toc=\write3
 
@@ -355,30 +355,30 @@ Package luatex.def Info: images/logo.png  used on input line 88.
 <images/nwtopology2.png, id=18, 735.74875pt x 227.85126pt>
 File: images/nwtopology2.png Graphic file (type png)
 <use images/nwtopology2.png>
-Package luatex.def Info: images/nwtopology2.png  used on input line 93.
+Package luatex.def Info: images/nwtopology2.png  used on input line 92.
 (luatex.def)             Requested size: 478.23102pt x 148.10155pt.
 
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 98.
+Package luatex.def Info: images/logo.png  used on input line 97.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [4<./images/nwtopology2.png>]
 <images/nwtopology.png, id=22, 735.74875pt x 188.705pt>
 File: images/nwtopology.png Graphic file (type png)
 <use images/nwtopology.png>
-Package luatex.def Info: images/nwtopology.png  used on input line 104.
+Package luatex.def Info: images/nwtopology.png  used on input line 103.
 (luatex.def)             Requested size: 331.08388pt x 84.91646pt.
 <images/pc-ipconf.png, id=23, 1015.795pt x 529.98pt>
 File: images/pc-ipconf.png Graphic file (type png)
 <use images/pc-ipconf.png>
-Package luatex.def Info: images/pc-ipconf.png  used on input line 114.
+Package luatex.def Info: images/pc-ipconf.png  used on input line 113.
 (luatex.def)             Requested size: 457.10353pt x 238.48878pt.
 
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 118.
+Package luatex.def Info: images/logo.png  used on input line 117.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [5<./images/nwtopology.png><./images/pc-ipconf.png>] (/opt/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2024/09/23 1.10c listings language file
@@ -386,38 +386,38 @@ File: lstlang1.sty 2024/09/23 1.10c listings language file
 File: lstlang1.sty 2024/09/23 1.10c listings language file
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 137.
+(Font)              <8> on input line 136.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 137.
+(Font)              <6> on input line 136.
 <images/keygen.png, id=28, 540.0175pt x 97.36375pt>
 File: images/keygen.png Graphic file (type png)
 <use images/keygen.png>
-Package luatex.def Info: images/keygen.png  used on input line 140.
+Package luatex.def Info: images/keygen.png  used on input line 139.
 (luatex.def)             Requested size: 297.01054pt x 53.55022pt.
 <images/line con0.png, id=29, 318.18875pt x 67.25125pt>
 File: images/line con0.png Graphic file (type png)
 <use images/line con0.png>
-Package luatex.def Info: images/line con0.png  used on input line 158.
+Package luatex.def Info: images/line con0.png  used on input line 157.
 (luatex.def)             Requested size: 175.00433pt x 36.98828pt.
 
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 175.
+Package luatex.def Info: images/logo.png  used on input line 174.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [6<./images/keygen.png><./images/line con0.png>]
 <images/votylines.png, id=40, 329.23pt x 82.3075pt>
 File: images/votylines.png Graphic file (type png)
 <use images/votylines.png>
-Package luatex.def Info: images/votylines.png  used on input line 177.
+Package luatex.def Info: images/votylines.png  used on input line 176.
 (luatex.def)             Requested size: 181.07706pt x 45.26924pt.
 <images/banner.png, id=41, 286.06876pt x 91.34125pt>
 File: images/banner.png Graphic file (type png)
 <use images/banner.png>
-Package luatex.def Info: images/banner.png  used on input line 188.
+Package luatex.def Info: images/banner.png  used on input line 187.
 (luatex.def)             Requested size: 157.3383pt x 50.23784pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--192
+Underfull \hbox (badness 10000) in paragraph at lines 190--191
 
  []
 
@@ -425,21 +425,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 191--192
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 218.
+Package luatex.def Info: images/logo.png  used on input line 217.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [7<./images/votylines.png><./images/banner.png>]
 <images/showip.png, id=47, 423.5825pt x 352.31625pt>
 File: images/showip.png Graphic file (type png)
 <use images/showip.png>
-Package luatex.def Info: images/showip.png  used on input line 220.
+Package luatex.def Info: images/showip.png  used on input line 219.
 (luatex.def)             Requested size: 232.97108pt x 193.77454pt.
 <images/showclock.png, id=48, 279.0425pt x 31.11626pt>
 File: images/showclock.png Graphic file (type png)
 <use images/showclock.png>
-Package luatex.def Info: images/showclock.png  used on input line 234.
+Package luatex.def Info: images/showclock.png  used on input line 233.
 (luatex.def)             Requested size: 153.47385pt x 17.11398pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 237--238
+Underfull \hbox (badness 10000) in paragraph at lines 236--237
 
  []
 
@@ -447,7 +447,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 237--238
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 248.
+Package luatex.def Info: images/logo.png  used on input line 247.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [8<./images/showip.png><./images/showclock.png>] (./Configure-Basic-Router-Settings.lof)
 \tf@lof=\write4
@@ -457,7 +457,7 @@ Package luatex.def Info: images/logo.png  used on input line 248.
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 253.
+Package luatex.def Info: images/logo.png  used on input line 252.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [9] (./Configure-Basic-Router-Settings.aux)
  ***********
@@ -476,7 +476,7 @@ Here is how much of LuaTeX's memory you used:
  42 fonts using 3161527 bytes
  79i,16n,89p,405b,625s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman8-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman6-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman7-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf>
-Output written on Configure-Basic-Router-Settings.pdf (9 pages, 332929 bytes).
+Output written on Configure-Basic-Router-Settings.pdf (9 pages, 331209 bytes).
 
 PDF statistics: 107 PDF objects out of 1000 (max. 8388607)
  52 compressed objects within 1 object stream
