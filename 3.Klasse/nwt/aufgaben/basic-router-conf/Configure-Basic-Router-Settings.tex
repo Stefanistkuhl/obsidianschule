@@ -110,7 +110,9 @@ The IP addresses for both PCs have been set in the IP Configuration application.
 \subsection{Configure the router}
 To access the router's configuration mode, connect to the router through the console port and execute the \ii{en} and \ii{conf t} commands.\abc
 The following basic settings are configured using the commands listed below:
-\begin{lstlisting}[language=bash]
+\begin{lstlisting}[language=bash,
+	keywordstyle=\color{black},
+	rulecolor=\color{blue}]
 #setting the hostname
 hostname R1
 #setting the domain name of the router
@@ -121,6 +123,16 @@ no ip domain lookup
 service password-encryption
 #setting the minimum password length to 12 characters
 security passwords min-length 12
+#setting a password to enter EXEC mode
+enable secret $cisco!PRIV*
+#entering the configuration line for console port access.
+line console 0
+#setting password for console access
+password $cisco!!CON*
+#termination of session after four minutes of inactivity
+exec-timeout 4 0
+#enabeling login 
+login
 \end{lstlisting}
 To set up SSH for configuring the router over the network, first, a user must be created with the \ii{username SSHadmin secret 55Hadm!n2020} command, which creates a user named SSHadmin and sets an encrypted password.\abc
 Once the user has been created, an RSA key pair needs to be generated using the \ii{crypto key generate rsa general-keys modulus 1024}\footnote{As this is done in Packet Tracer and the hardware in the lab is outdated, the keys are limited to 1024 bit length instead of the 4096 bit length that should be used in a production environment.} command.
@@ -130,6 +142,8 @@ Once the user has been created, an RSA key pair needs to be generated using the 
 	\centering
 	\caption{Key pair generation}
 \end{figure}\abc
+
+
 
 
 
