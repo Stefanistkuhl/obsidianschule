@@ -2,4 +2,7 @@
 \contentsline {figure}{\numberline {2}{\ignorespaces Network topology required for this exercise}}{5}{}%
 \contentsline {figure}{\numberline {3}{\ignorespaces IP configuration for PC-A and PC-B}}{5}{}%
 \contentsline {figure}{\numberline {4}{\ignorespaces Key pair generation}}{6}{}%
-\contentsline {figure}{\numberline {5}{\ignorespaces motd banner}}{7}{}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Viewing the configuration of VTY line 0}}{6}{}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Viewing the configuration of VTY lines 0 4}}{7}{}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Viewing the MOTD banner}}{7}{}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Displaying the IP addresses set}}{8}{}%

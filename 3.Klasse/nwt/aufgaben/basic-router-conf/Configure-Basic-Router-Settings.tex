@@ -153,6 +153,15 @@ password $cisco!!CON*
 exec-timeout 4 0
 #enabeling login 
 login
+\end{lstlisting}
+\begin{figure}[h]
+	\includegraphics[scale=0.55]{images/line con0.png}
+	\centering
+	\caption{Viewing the configuration of VTY line 0}
+\end{figure}
+\begin{lstlisting}[language=bash,
+	keywordstyle=\color{black},
+	rulecolor=\color{blue}]
 #entering the configuration for lines for vty lines 0 to 4
 line vty 0 4
 #setting a password to access the lines
@@ -163,13 +172,22 @@ exec-timeout 4 0
 transport input ssh
 #enabeling login using the local database
 login local
+\end{lstlisting}
+\begin{figure}[h]
+	\includegraphics[scale=0.55]{images/votylines.png}
+	\centering
+	\caption{Viewing the configuration of VTY lines 0 4}
+\end{figure}
+\begin{lstlisting}[language=bash,
+	keywordstyle=\color{black},
+	rulecolor=\color{blue}]
 #createing a banner to warn that unauthorized access is prohibited
 banner motd $ unauthorized access is prohibited $
 \end{lstlisting}
 \begin{figure}[h]
 	\includegraphics[scale=0.55]{images/banner.png}
 	\centering
-	\caption{motd banner}
+	\caption{Viewing the MOTD banner}
 \end{figure}\abc
 
 \begin{lstlisting}[language=bash,
@@ -197,7 +215,24 @@ ipv6 address 2001:db8:acad:2::1/64
 no shutdown
 exit
 \end{lstlisting}
-
+\begin{figure}[h]
+	\includegraphics[scale=0.55]{images/showip.png}
+	\centering
+	\caption{Displaying the IP addresses set}
+\end{figure}\abc
+\begin{lstlisting}[language=bash,
+	keywordstyle=\color{black},
+	rulecolor=\color{blue}]
+#setting a timeout of 2 minutes after 3 failed login attempts in 60 seconds
+login block-for 120 attempts 3 within 60
+#setting the clock
+clock set 9:22:40 08 Nov 2024
+\end{lstlisting}
+\begin{figure}[h]
+	\includegraphics[scale=0.55]{images/showip.png}
+	\centering
+	\caption{Displaying the IP addresses set}
+\end{figure}\abc
 
 
 \newpage

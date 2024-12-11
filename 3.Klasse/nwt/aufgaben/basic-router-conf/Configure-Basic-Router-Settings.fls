@@ -146,9 +146,15 @@ INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT ./images/keygen.png
 INPUT ./images/keygen.png
-INPUT ./images/banner.png
-INPUT ./images/banner.png
+INPUT ./images/line con0.png
+INPUT ./images/line con0.png
 INPUT ./images/logo.png
+INPUT ./images/votylines.png
+INPUT ./images/votylines.png
+INPUT ./images/banner.png
+INPUT ./images/banner.png
+INPUT ./images/showip.png
+INPUT ./images/showip.png
 INPUT ./images/logo.png
 INPUT ./Configure-Basic-Router-Settings.lof
 OUTPUT Configure-Basic-Router-Settings.lof
