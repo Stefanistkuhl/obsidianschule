@@ -117,8 +117,9 @@ hostname R1
 ip domain name ccna-lab.com
 #disable DNS lookup on mistyped commands
 no ip domain lookup
-#encrypting plaintext passwords
+#encrypt plain text passwords
 service password-encryption
+#setting the minimum password length to 12 characters
 security passwords min-length 12
 \end{lstlisting}
 
