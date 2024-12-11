@@ -12,7 +12,7 @@ tags:
 - unpriviligierte Benutzer
 	- um Anwendungen auszuführen
 	- müssen manuell erstellet werden
-	- könnne durch priviligierte Nutzer (privielge escalation)
+	- könnnen durch priviligierte Nutzer priviligierte sachen ausführen (privielge escalation)
 - Service Nutzer
 	- haben nur die Rechte für bestimmte Dienste
 		- zb HTTP-Server
