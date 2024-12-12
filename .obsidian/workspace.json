@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3e09ed2110ee134b",
+        "id": "f0d622e693bf291c",
         "type": "tabs",
         "children": [
           {
-            "id": "af3f77843e7ea695",
+            "id": "3f0e9655af980789",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/ggp/industrialisierung.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "industrialisierung"
+              "title": "New tab"
             }
           }
         ]
@@ -140,10 +136,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "af3f77843e7ea695",
+  "active": "3f0e9655af980789",
   "lastOpenFiles": [
-    "3.Klasse/ggp/3kl GGP.md",
     "3.Klasse/ggp/industrialisierung.md",
+    "3.Klasse/ggp/3kl GGP.md",
     "3.Klasse/itsi/Authetifizierungsmethoden.md",
     "3.Klasse/itsi/Benutzerkategorien.md",
     "3.Klasse/itsi/Klassifizierunsstufen.md",
