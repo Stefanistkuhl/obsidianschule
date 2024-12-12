@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f0d622e693bf291c",
+        "id": "ace6f0b9befb954e",
         "type": "tabs",
         "children": [
           {
-            "id": "3f0e9655af980789",
+            "id": "433d69b1869e0d56",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -136,8 +136,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3f0e9655af980789",
+  "active": "433d69b1869e0d56",
   "lastOpenFiles": [
+    "Überlebenswichtige Strichlisten.md",
+    "3.Klasse/syt/Überischt Festdatenspeicher.md",
     "3.Klasse/ggp/industrialisierung.md",
     "3.Klasse/ggp/3kl GGP.md",
     "3.Klasse/itsi/Authetifizierungsmethoden.md",
@@ -181,8 +183,6 @@
     "3.Klasse/mathe/Aufgabenpool things.md",
     "3.Klasse/mathe/3kl mathe.md",
     "3.Klasse/mathe/Stefan Fürst 4.Hü.md",
-    "3.Klasse/mathe/Kosten und Preis theorie.md",
-    "3.Klasse/mathe/Kosten und Presifunktionen.md",
-    "3.Klasse/Nawi/Aminosäuren.md"
+    "3.Klasse/mathe/Kosten und Preis theorie.md"
   ]
 }
