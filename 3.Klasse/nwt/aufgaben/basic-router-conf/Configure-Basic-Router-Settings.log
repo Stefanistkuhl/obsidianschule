@@ -1,10 +1,10 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.10.15)  11 DEC 2024 23:40
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.9.9)  12 DEC 2024 10:18
  restricted system commands enabled.
  file:line:error style messages enabled.
 **Configure-Basic-Router-Settings.tex
 (./Configure-Basic-Router-Settings.tex
 LaTeX2e <2024-06-01> patch level 2
-L3 programming layer <2024-09-10>
+L3 programming layer <2024-08-16>
 Lua module: luaotfload 2024-02-14 3.28 Lua based OpenType font support
 Lua module: lualibs 2023-07-13 2.76 ConTeXt Lua standard libraries.
 Lua module: lualibs-extended 2023-07-13 2.76 ConTeXt Lua libraries -- extended collection.
@@ -70,21 +70,21 @@ File: luatex.def 2024/04/13 v1.2e Graphics/color driver for luatex
 \Gin@req@height=\dimen141
 \Gin@req@width=\dimen142
 ) (/opt/texlive/2024/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
  (/opt/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: luatex.def on input line 274.
  (/opt/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx)
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
-Package xcolor Info: Model `RGB' extended on input line 1365.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
 ) (/opt/texlive/2024/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
@@ -106,18 +106,18 @@ Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 \lst@lineno=\count271
 \lst@maxwidth=\dimen146
  (/opt/texlive/2024/texmf-dist/tex/latex/listings/lstpatch.sty
-File: lstpatch.sty 2024/09/23 1.10c (Carsten Heinz)
+File: lstpatch.sty 2024/05/25 1.10b (Carsten Heinz)
 ) (/opt/texlive/2024/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
+File: lstmisc.sty 2024/05/25 1.10b (Carsten Heinz)
 \c@lstnumber=\count272
 \lst@skipnumbers=\count273
 \lst@framebox=\box53
 ) (/opt/texlive/2024/texmf-dist/tex/latex/listings/listings.cfg
-File: listings.cfg 2024/09/23 1.10c listings configuration
+File: listings.cfg 2024/05/25 1.10b listings configuration
 ))
-Package: listings 2024/09/23 1.10c (Carsten Heinz)
+Package: listings 2024/05/25 1.10b (Carsten Heinz)
  (/opt/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.sty (/opt/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/opt/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2024-09-10 L3 programming layer (loader) 
+Package: expl3 2024-08-16 L3 programming layer (loader) 
  (/opt/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
 File: l3backend-luatex.def 2024-05-08 L3 backend support: PDF output (LuaTeX)
 \l__color_backend_stack_int=\count274
@@ -145,17 +145,86 @@ Package: fontspec-luatex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTe
 \l__fontspec_tmpc_dim=\dimen149
  (/opt/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-) (/opt/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (/opt/texlive/2024/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+) (/opt/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (/opt/texlive/2024/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2024/05/23 v1.9h multicolumn formatting (FMi)
+\c@tracingmulticols=\count286
+\mult@box=\box55
+\multicol@leftmargin=\dimen150
+\c@unbalance=\count287
+\c@collectmore=\count288
+\doublecol@number=\count289
+\multicoltolerance=\count290
+\multicolpretolerance=\count291
+\full@width=\dimen151
+\page@free=\dimen152
+\premulticols=\dimen153
+\postmulticols=\dimen154
+\multicolsep=\skip51
+\multicolbaselineskip=\skip52
+\partial@page=\box56
+\last@line=\box57
+\mc@boxedresult=\box58
+\maxbalancingoverflow=\dimen155
+\mult@rightbox=\box59
+\mult@grightbox=\box60
+\mult@firstbox=\box61
+\mult@gfirstbox=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\c@minrows=\count292
+\c@columnbadness=\count293
+\c@finalcolumnbadness=\count294
+\last@try=\dimen156
+\multicolovershoot=\dimen157
+\multicolundershoot=\dimen158
+\mult@nat@firstbox=\box99
+\colbreak@box=\box100
+\mc@col@check@num=\count295
+) (/opt/texlive/2024/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2024/07/23 v4.3.1 Extensive control of page headers and footers
-\f@nch@headwidth=\skip51
-\f@nch@O@elh=\skip52
-\f@nch@O@erh=\skip53
-\f@nch@O@olh=\skip54
-\f@nch@O@orh=\skip55
-\f@nch@O@elf=\skip56
-\f@nch@O@erf=\skip57
-\f@nch@O@olf=\skip58
-\f@nch@O@orf=\skip59
+\f@nch@headwidth=\skip53
+\f@nch@O@elh=\skip54
+\f@nch@O@erh=\skip55
+\f@nch@O@olh=\skip56
+\f@nch@O@orh=\skip57
+\f@nch@O@elf=\skip58
+\f@nch@O@erf=\skip59
+\f@nch@O@olf=\skip60
+\f@nch@O@orf=\skip61
 ) (/opt/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (/opt/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
@@ -163,17 +232,17 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
  (/opt/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count286
-\Gm@cntv=\count287
-\c@Gm@tempcnt=\count288
-\Gm@bindingoffset=\dimen150
-\Gm@wd@mp=\dimen151
-\Gm@odd@mp=\dimen152
-\Gm@even@mp=\dimen153
-\Gm@layoutwidth=\dimen154
-\Gm@layoutheight=\dimen155
-\Gm@layouthoffset=\dimen156
-\Gm@layoutvoffset=\dimen157
+\Gm@cnth=\count296
+\Gm@cntv=\count297
+\c@Gm@tempcnt=\count298
+\Gm@bindingoffset=\dimen159
+\Gm@wd@mp=\dimen160
+\Gm@odd@mp=\dimen161
+\Gm@even@mp=\dimen162
+\Gm@layoutwidth=\dimen163
+\Gm@layoutheight=\dimen164
+\Gm@layouthoffset=\dimen165
+\Gm@layoutvoffset=\dimen166
 \Gm@dimlist=\toks19
 )
 
@@ -183,38 +252,38 @@ Package geometry Warning: Over-specification in `v'-direction.
 (./Configure-Basic-Router-Settings.aux)
 \openout1 = Configure-Basic-Router-Settings.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 48.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 49.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 49.
  (/opt/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
  (/opt/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count289
-\scratchdimen=\dimen158
-\scratchbox=\box55
-\nofMPsegments=\count290
-\nofMParguments=\count291
+\scratchcounter=\count299
+\scratchdimen=\dimen167
+\scratchbox=\box101
+\nofMPsegments=\count300
+\nofMParguments=\count301
 \everyMPshowfont=\toks20
-\MPscratchCnt=\count292
-\MPscratchDim=\dimen159
-\MPnumerator=\count293
-\makeMPintoPDFobject=\count294
+\MPscratchCnt=\count302
+\MPscratchDim=\dimen168
+\MPnumerator=\count303
+\makeMPintoPDFobject=\count304
 \everyMPtoPDFconversion=\toks21
 ) (/opt/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -222,7 +291,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/opt/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-\c@lstlisting=\count295
+\c@lstlisting=\count305
 
 Package fontspec Info: 
 (fontspec)             Adjusting the maths setup (use [no-math] to avoid
@@ -230,57 +299,57 @@ Package fontspec Info:
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 48.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 48.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 48.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 48.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 48.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 48.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 48.
-LaTeX Font Info:    Redeclaring math accent \check on input line 48.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 48.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 48.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 48.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 48.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 48.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 48.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 48.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 48.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 48.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 48.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 48.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 48.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 48.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 48.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 48.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 48.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 48.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 49.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 49.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 49.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 49.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 49.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 49.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 49.
+LaTeX Font Info:    Redeclaring math accent \check on input line 49.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 49.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 49.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 49.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 49.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 49.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 49.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 49.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 49.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 49.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 49.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 49.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 49.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 49.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 49.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 49.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 49.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 49.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 48.
+(Font)              `operators' in the math version `normal' on input line 49.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 48.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 49.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 48.
+(Font)              `operators' in the math version `bold' on input line 49.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 48.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 49.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 48.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 49.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 48.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 49.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 48.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 49.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 48.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 49.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 48.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 49.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 48.
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 49.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 48.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 49.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 48.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 49.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 48.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 49.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -319,14 +388,14 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 <images/mika.jpeg, id=1, 1606.0pt x 1606.0pt>
 File: images/mika.jpeg Graphic file (type jpg)
 <use images/mika.jpeg>
-Package luatex.def Info: images/mika.jpeg  used on input line 57.
+Package luatex.def Info: images/mika.jpeg  used on input line 58.
 (luatex.def)             Requested size: 321.19432pt x 321.19432pt.
 
 
 <images/logo.png, id=2, 413.545pt x 122.4575pt>
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 77.
+Package luatex.def Info: images/logo.png  used on input line 78.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [1{/opt/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
@@ -343,81 +412,81 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 80.
+Package luatex.def Info: images/logo.png  used on input line 81.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [2]
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 88.
+Package luatex.def Info: images/logo.png  used on input line 89.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [3]
 <images/nwtopology2.png, id=18, 735.74875pt x 227.85126pt>
 File: images/nwtopology2.png Graphic file (type png)
 <use images/nwtopology2.png>
-Package luatex.def Info: images/nwtopology2.png  used on input line 92.
+Package luatex.def Info: images/nwtopology2.png  used on input line 93.
 (luatex.def)             Requested size: 478.23102pt x 148.10155pt.
 
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 97.
+Package luatex.def Info: images/logo.png  used on input line 98.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [4<./images/nwtopology2.png>]
 <images/nwtopology.png, id=22, 735.74875pt x 188.705pt>
 File: images/nwtopology.png Graphic file (type png)
 <use images/nwtopology.png>
-Package luatex.def Info: images/nwtopology.png  used on input line 103.
+Package luatex.def Info: images/nwtopology.png  used on input line 104.
 (luatex.def)             Requested size: 331.08388pt x 84.91646pt.
 <images/pc-ipconf.png, id=23, 1015.795pt x 529.98pt>
 File: images/pc-ipconf.png Graphic file (type png)
 <use images/pc-ipconf.png>
-Package luatex.def Info: images/pc-ipconf.png  used on input line 113.
+Package luatex.def Info: images/pc-ipconf.png  used on input line 114.
 (luatex.def)             Requested size: 457.10353pt x 238.48878pt.
 
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 117.
+Package luatex.def Info: images/logo.png  used on input line 118.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [5<./images/nwtopology.png><./images/pc-ipconf.png>] (/opt/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2024/09/23 1.10c listings language file
+File: lstlang1.sty 2024/05/25 1.10b listings language file
 ) (/opt/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2024/09/23 1.10c listings language file
+File: lstlang1.sty 2024/05/25 1.10b listings language file
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 136.
+(Font)              <8> on input line 137.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 136.
+(Font)              <6> on input line 137.
 <images/keygen.png, id=28, 540.0175pt x 97.36375pt>
 File: images/keygen.png Graphic file (type png)
 <use images/keygen.png>
-Package luatex.def Info: images/keygen.png  used on input line 139.
+Package luatex.def Info: images/keygen.png  used on input line 140.
 (luatex.def)             Requested size: 297.01054pt x 53.55022pt.
 <images/line con0.png, id=29, 318.18875pt x 67.25125pt>
 File: images/line con0.png Graphic file (type png)
 <use images/line con0.png>
-Package luatex.def Info: images/line con0.png  used on input line 157.
+Package luatex.def Info: images/line con0.png  used on input line 158.
 (luatex.def)             Requested size: 175.00433pt x 36.98828pt.
 
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 174.
+Package luatex.def Info: images/logo.png  used on input line 175.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [6<./images/keygen.png><./images/line con0.png>]
 <images/votylines.png, id=40, 329.23pt x 82.3075pt>
 File: images/votylines.png Graphic file (type png)
 <use images/votylines.png>
-Package luatex.def Info: images/votylines.png  used on input line 176.
+Package luatex.def Info: images/votylines.png  used on input line 177.
 (luatex.def)             Requested size: 181.07706pt x 45.26924pt.
 <images/banner.png, id=41, 286.06876pt x 91.34125pt>
 File: images/banner.png Graphic file (type png)
 <use images/banner.png>
-Package luatex.def Info: images/banner.png  used on input line 187.
+Package luatex.def Info: images/banner.png  used on input line 188.
 (luatex.def)             Requested size: 157.3383pt x 50.23784pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 190--191
+Underfull \hbox (badness 10000) in paragraph at lines 191--192
 
  []
 
@@ -425,21 +494,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 190--191
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 217.
+Package luatex.def Info: images/logo.png  used on input line 218.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [7<./images/votylines.png><./images/banner.png>]
 <images/showip.png, id=47, 423.5825pt x 352.31625pt>
 File: images/showip.png Graphic file (type png)
 <use images/showip.png>
-Package luatex.def Info: images/showip.png  used on input line 219.
+Package luatex.def Info: images/showip.png  used on input line 220.
 (luatex.def)             Requested size: 232.97108pt x 193.77454pt.
 <images/showclock.png, id=48, 279.0425pt x 31.11626pt>
 File: images/showclock.png Graphic file (type png)
 <use images/showclock.png>
-Package luatex.def Info: images/showclock.png  used on input line 233.
+Package luatex.def Info: images/showclock.png  used on input line 234.
 (luatex.def)             Requested size: 153.47385pt x 17.11398pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 236--237
+Underfull \hbox (badness 10000) in paragraph at lines 237--238
 
  []
 
@@ -447,9 +516,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 236--237
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 247.
+Package luatex.def Info: images/logo.png  used on input line 248.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
-[8<./images/showip.png><./images/showclock.png>] (./Configure-Basic-Router-Settings.lof)
+[8<./images/showip.png><./images/showclock.png>]
+
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package luatex.def Info: images/logo.png  used on input line 252.
+(luatex.def)             Requested size: 186.09352pt x 55.10535pt.
+[9] (./Configure-Basic-Router-Settings.lof)
 \tf@lof=\write4
 
 \openout4 = Configure-Basic-Router-Settings.lof
@@ -457,29 +532,29 @@ Package luatex.def Info: images/logo.png  used on input line 247.
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 252.
+Package luatex.def Info: images/logo.png  used on input line 257.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
-[9] (./Configure-Basic-Router-Settings.aux)
+[10] (./Configure-Basic-Router-Settings.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
-L3 programming layer <2024-09-10>
+L3 programming layer <2024-08-16>
  ***********
 )
 
 Here is how much of LuaTeX's memory you used:
- 6977 strings out of 475910
- 100000,953878 words of node,token memory allocated
- 454 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 5 glue, 3 kern, 1 glyph, 7 attribute, 51 glue_spec, 7 attribute_list, 1 write nodes
-   avail lists: 2:1906,3:174,4:851,5:578,6:90,7:6751,8:2,9:2229,10:4,11:166
- 29468 multiletter control sequences out of 65536+600000
+ 7119 strings out of 475910
+ 100000,1977958 words of node,token memory allocated
+ 482 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 5 glue, 3 kern, 1 glyph, 8 attribute, 54 glue_spec, 8 attribute_list, 1 write nodes
+   avail lists: 2:1904,3:174,4:851,5:578,6:90,7:6751,8:2,9:2228,10:4,11:166
+ 29602 multiletter control sequences out of 65536+600000
  42 fonts using 3161527 bytes
  79i,16n,89p,405b,625s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman8-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman6-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman7-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf>
-Output written on Configure-Basic-Router-Settings.pdf (9 pages, 331209 bytes).
+Output written on Configure-Basic-Router-Settings.pdf (10 pages, 332233 bytes).
 
-PDF statistics: 107 PDF objects out of 1000 (max. 8388607)
- 52 compressed objects within 1 object stream
+PDF statistics: 110 PDF objects out of 1000 (max. 8388607)
+ 54 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

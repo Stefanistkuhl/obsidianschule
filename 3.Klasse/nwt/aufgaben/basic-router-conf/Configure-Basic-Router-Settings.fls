@@ -90,6 +90,7 @@ INPUT /opt/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
 INPUT /opt/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
 INPUT /opt/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.cfg
 INPUT /home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/tools/multicol.sty
 INPUT /opt/texlive/2024/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 INPUT /opt/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
 INPUT /opt/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
@@ -159,6 +160,7 @@ INPUT ./images/showip.png
 INPUT ./images/showip.png
 INPUT ./images/showclock.png
 INPUT ./images/showclock.png
+INPUT ./images/logo.png
 INPUT ./images/logo.png
 INPUT ./Configure-Basic-Router-Settings.lof
 OUTPUT Configure-Basic-Router-Settings.lof
