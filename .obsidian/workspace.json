@@ -11,13 +11,30 @@
             "id": "433d69b1869e0d56",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/nwt/Spanning Tree bsp.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Spanning Tree bsp"
+            }
+          },
+          {
+            "id": "49401b00ff9b381c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/Spanning Tree bsp 13-12-2024-51.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Spanning Tree bsp 13-12-2024-51.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,8 +153,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "433d69b1869e0d56",
+  "active": "49401b00ff9b381c",
   "lastOpenFiles": [
+    "3.Klasse/nwt/Spanning Tree bsp.md",
+    "bilder/Spanning Tree bsp 13-12-2024-51.excalidraw.md",
+    "3.Klasse/nwt/STP-Spanning Tree Protocol.md",
+    "3.Klasse/nwt/3kl nwt.md",
     "Überlebenswichtige Strichlisten.md",
     "3.Klasse/syt/Überischt Festdatenspeicher.md",
     "3.Klasse/ggp/industrialisierung.md",
@@ -179,10 +200,6 @@
     "3.Klasse/insy/Schlüssel.md",
     "3.Klasse/ehtik/Das Meer in mir.md",
     "bilder/Das Meer in mir 10-12-2024-42.excalidraw.md",
-    "3.Klasse/ehtik/3kl ethik.md",
-    "3.Klasse/mathe/Aufgabenpool things.md",
-    "3.Klasse/mathe/3kl mathe.md",
-    "3.Klasse/mathe/Stefan Fürst 4.Hü.md",
-    "3.Klasse/mathe/Kosten und Preis theorie.md"
+    "3.Klasse/ehtik/3kl ethik.md"
   ]
 }
