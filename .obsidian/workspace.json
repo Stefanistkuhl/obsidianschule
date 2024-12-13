@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ace6f0b9befb954e",
+        "id": "e518d50a45e0dcd0",
         "type": "tabs",
         "children": [
           {
-            "id": "433d69b1869e0d56",
+            "id": "b2231a6b356cecd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/nwt/Spanning Tree bsp.md",
+                "file": "3.Klasse/nwt/STP-Spanning Tree Protocol.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spanning Tree bsp"
-            }
-          },
-          {
-            "id": "49401b00ff9b381c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/Spanning Tree bsp 13-12-2024-51.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Spanning Tree bsp 13-12-2024-51.excalidraw"
+              "title": "STP-Spanning Tree Protocol"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,11 +140,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "49401b00ff9b381c",
+  "active": "b2231a6b356cecd4",
   "lastOpenFiles": [
-    "3.Klasse/nwt/Spanning Tree bsp.md",
     "bilder/Spanning Tree bsp 13-12-2024-51.excalidraw.md",
+    "3.Klasse/nwt/RSTP Rapid Spanning Tree Protocol.md",
+    "bilder/STP-States 13-12-2024-50.excalidraw.md",
     "3.Klasse/nwt/STP-Spanning Tree Protocol.md",
+    "3.Klasse/nwt/STP-States.md",
+    "bilder/Pasted image 20241213114256.png",
+    "bilder/Pasted image 20241213114246.png",
+    "bilder/Pasted image 20241213114227.png",
+    "3.Klasse/nwt/Per-Vlan Spanning Tree.md",
+    "3.Klasse/nwt/Evolution of STP.md",
+    "bilder/Pasted image 20241213114053.png",
+    "3.Klasse/nwt/Spanning Tree bsp.md",
     "3.Klasse/nwt/3kl nwt.md",
     "Überlebenswichtige Strichlisten.md",
     "3.Klasse/syt/Überischt Festdatenspeicher.md",
@@ -188,18 +184,9 @@
     "3.Klasse/nwt/aufgaben/basic-router-conf/images/line con0.png",
     "3.Klasse/nwt/aufgaben/basic-router-conf/images/showclock.png",
     "3.Klasse/nwt/aufgaben/basic-router-conf/images/banner.png",
-    "3.Klasse/nwt/aufgaben/basic-router-conf/images/keygen.png",
-    "3.Klasse/nwt/aufgaben/basic-router-conf/images/pc-ipconf.png",
-    "3.Klasse/nwt/aufgaben/basic-router-conf/images/pc-b-ipconf2.png",
-    "3.Klasse/nwt/aufgaben/basic-router-conf/images/pc-b-ip-conf1.png",
     "bilder/Asymetrische Verschlüsselung 10-10-2024-58.excalidraw.md",
     "3.Klasse/itsi/Asymetrische Verschlüsselung.md",
     "bilder/AES 27-09-2024-25.excalidraw.md",
-    "3.Klasse/itsi/CVE.md",
-    "bilder/Schlüssel 11-12-2024-59.excalidraw.md",
-    "3.Klasse/insy/Schlüssel.md",
-    "3.Klasse/ehtik/Das Meer in mir.md",
-    "bilder/Das Meer in mir 10-12-2024-42.excalidraw.md",
-    "3.Klasse/ehtik/3kl ethik.md"
+    "3.Klasse/itsi/CVE.md"
   ]
 }
