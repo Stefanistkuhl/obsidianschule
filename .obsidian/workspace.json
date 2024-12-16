@@ -11,10 +11,14 @@
             "id": "35fe433ccc7ecd26",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/Nawi/Aminosäuren.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Aminosäuren"
             }
           }
         ]
@@ -138,6 +142,7 @@
   },
   "active": "35fe433ccc7ecd26",
   "lastOpenFiles": [
+    "3.Klasse/Nawi/3kl nawi.md",
     "3.Klasse/sew/File IO Things.md~",
     "3.Klasse/sew/File IO Things.md",
     "3.Klasse/sew/3kl sew.md",
