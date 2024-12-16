@@ -11,10 +11,14 @@
             "id": "68f694c4c1ff4553",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/mathe/Aufgabenpool things.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Aufgabenpool things"
             }
           }
         ]
@@ -138,6 +142,10 @@
   },
   "active": "68f694c4c1ff4553",
   "lastOpenFiles": [
+    "bilder/Pasted image 20241216112301.png",
+    "bilder/Pasted image 20241216111805.png",
+    "bilder/Pasted image 20241216111759.png",
+    "3.Klasse/mathe/3kl mathe.md",
     "bilder/arbeitsblatt volkswirtschaft wh 09-12-2024-35.excalidraw.md",
     "3.Klasse/ggp/arbeitsblatt volkswirtschaft wh.md",
     "3.Klasse/ggp/arbeitsblatt BIP.md",
@@ -166,8 +174,6 @@
     "3.Klasse/itsi/itsi teststoff.md",
     "3.Klasse/itsi/AES.md",
     "3.Klasse/itsi/Kryptografie.md",
-    "3.Klasse/itsi/3kl itsi.md",
-    "3.Klasse/itsi/Stefan Fürst CVE aufgabe.md",
     "3.Klasse/nwt/aufgaben/basic-router-conf/Configure-Basic-Router-Settings.synctex(busy)",
     "3.Klasse/nwt/aufgaben/basic-router-conf/lualatex54089.fls",
     "3.Klasse/nwt/aufgaben/basic-router-conf/lualatex54088.fls",
@@ -181,8 +187,6 @@
     "3.Klasse/nwt/aufgaben/basic-router-conf/lualatex52330.fls",
     "3.Klasse/nwt/aufgaben/basic-router-conf/images/votylines.png",
     "3.Klasse/nwt/aufgaben/basic-router-conf/images/showip.png",
-    "3.Klasse/nwt/aufgaben/basic-router-conf/images/line con0.png",
-    "3.Klasse/nwt/aufgaben/basic-router-conf/images/showclock.png",
-    "3.Klasse/nwt/aufgaben/basic-router-conf/images/banner.png"
+    "3.Klasse/nwt/aufgaben/basic-router-conf/images/line con0.png"
   ]
 }

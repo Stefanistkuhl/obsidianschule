@@ -14,3 +14,10 @@ tags:
 Stelle der stärksten Steigung dafür die 2te Ableitung
 ### Abbaut von Arzneimitteln
 [angabe](https://aufgabenpool.at/amn/teilb1/419/Abbau_v_Arzneimitteln.pdf)
+### Autofahrt (1)
+[angabe](https://aufgabenpool.at/amn/teilb1/113/Autofahrt_1.pdf)
+![[Pasted image 20241216111759.png]]
+![[Pasted image 20241216111805.png]]
+s'(30)=V(30)=75/5 = 15m/s
+V(30)=450/30=15
+![[Pasted image 20241216112301.png]]
