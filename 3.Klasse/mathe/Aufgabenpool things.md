@@ -32,4 +32,5 @@ c)
 ![[Pasted image 20241216120948.png]]
 Erbeschleunigung is real
 Und egal wohin man fällt man fällt.
-### 
+### Kransteuerung
+[angabe](https://www.mathago.at/wp-content/uploads/PDF/B_039.pdf)
