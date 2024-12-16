@@ -24,3 +24,12 @@ V(30)=450/30=15
 Weil nach unten gekrümmt → 2te ableitung is negativ
 krümmung = 2te ableitung
 ![[Pasted image 20241216113242.png]]
+### BUngejumping
+[angabe](https://aufgabenpool.at/amn/teila/48/Bungeejumping.pdf)
+b)
+![[Pasted image 20241216120812.png]]
+c)
+![[Pasted image 20241216120948.png]]
+Erbeschleunigung is real
+Und egal wohin man fällt man fällt.
+### 
