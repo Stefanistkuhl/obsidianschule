@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6f0f5ce6466f2553",
+        "id": "a7b6c18daaf1bd7e",
         "type": "tabs",
         "children": [
           {
-            "id": "3ff994acf60da928",
+            "id": "68f694c4c1ff4553",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/arbeitsblatt volkswirtschaft wh 09-12-2024-35.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "arbeitsblatt volkswirtschaft wh 09-12-2024-35.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -138,8 +136,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3ff994acf60da928",
+  "active": "68f694c4c1ff4553",
   "lastOpenFiles": [
+    "bilder/arbeitsblatt volkswirtschaft wh 09-12-2024-35.excalidraw.md",
     "3.Klasse/ggp/arbeitsblatt volkswirtschaft wh.md",
     "3.Klasse/ggp/arbeitsblatt BIP.md",
     "bilder/arbeitsblatt ding 25-11-2024-15.excalidraw.md",
@@ -184,7 +183,6 @@
     "3.Klasse/nwt/aufgaben/basic-router-conf/images/showip.png",
     "3.Klasse/nwt/aufgaben/basic-router-conf/images/line con0.png",
     "3.Klasse/nwt/aufgaben/basic-router-conf/images/showclock.png",
-    "3.Klasse/nwt/aufgaben/basic-router-conf/images/banner.png",
-    "bilder/Asymetrische Verschlüsselung 10-10-2024-58.excalidraw.md"
+    "3.Klasse/nwt/aufgaben/basic-router-conf/images/banner.png"
   ]
 }
