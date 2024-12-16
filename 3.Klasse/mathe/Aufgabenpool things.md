@@ -21,3 +21,6 @@ Stelle der stärksten Steigung dafür die 2te Ableitung
 s'(30)=V(30)=75/5 = 15m/s
 V(30)=450/30=15
 ![[Pasted image 20241216112301.png]]
+Weil nach unten gekrümmt → 2te ableitung is negativ
+krümmung = 2te ableitung
+![[Pasted image 20241216113242.png]]
