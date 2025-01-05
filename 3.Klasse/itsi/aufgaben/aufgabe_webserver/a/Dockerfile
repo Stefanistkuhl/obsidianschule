@@ -1,5 +1,14 @@
 FROM ubuntu:latest
 
+ARG ROOT_PW
+ARG RAM_WEBUSER_PW
+ARG ZIVK_WEBUSER_PW
+ARG RAM_FUS_PW
+ARG RAM_RAM_PW
+ARG RAM_ALOIS_PW
+ARG RAM_CHRIS_PW
+ARG RAM_BERTA_PW
+
 RUN apt update 
 RUN apt upgrade -y 
 
@@ -33,8 +42,8 @@ RUN rm /etc/nginx/sites-available/default
 RUN rm /etc/nginx/sites-enabled/default
 COPY ./mapped-files/metyr.xyz /etc/nginx/sites-available/metyr.xyz
 RUN ln -s /etc/nginx/sites-available/metyr.xyz /etc/nginx/sites-enabled/metyr.xyz
-RUN echo -n "p8oz487ofzWKMhK7yJ39EVwYaOqb5SfM1!^*eRCA6^VH6a&txN28S46Ayel49@tY5wAbt" | htpasswd -i -c /etc/apache2/.htpasswd ram-webuser
-RUN echo -n "V&infRARtzDuGzYroWgfPw0#^tH5WDlzu6As%E^ME0q7jKzB5KZ4vjc5hRTslDi&GyRWl" | htpasswd -i /etc/apache2/.htpasswd zivk-webuser
+RUN echo -n "$RAM_WEBUSER_PW" | htpasswd -i -c /etc/apache2/.htpasswd ram-webuser
+RUN echo -n "$ZIVK_WEBUSER_PW" | htpasswd -i /etc/apache2/.htpasswd zivk-webuser
 COPY ./mapped-files/dhparam.pem /etc/nginx/dhparam.pem
 RUN openssl req -x509 -nodes -days 365 -newkey rsa:2048 \
     -keyout /etc/ssl/private/nginx-selfsigned.key \
@@ -50,7 +59,7 @@ RUN ln -fs /usr/share/zoneinfo/Europe/Vienna /etc/localtime
 
 RUN DEBIAN_FRONTEND=noninteractive apt install -y tzdata ssh
 
-RUN echo 'root:e2RFgRj#4S8gh9Hmy3i*qukK^@Kjy!ZP!KJGaemzCUFk3vzC7NKSp06P^5ioW1fn!T7Sx' | chpasswd
+RUN echo 'root:$ROOT_PW' | chpasswd
 
 RUN sed -i 's/#Port 22/Port 38452/' /etc/ssh/sshd_config
 RUN sed -i 's/#PasswordAuthentication yes/PasswordAuthentication no/' /etc/ssh/sshd_config
@@ -65,11 +74,11 @@ RUN useradd -u 1224 -m ram-chris
 RUN useradd -m ram-fus 
 RUN useradd -m ram-ram
 
-RUN echo 'ram-fus:sCF&uhAxVD6AJT1CRdJE^0zE&SvuEGhgtqX52EcPvLTIEe42x^am$mf5!unp53R#ZkmhD' | chpasswd
-RUN echo 'ram-ram:%Q6NPj67q&#6UAJTXIKyVv6C9Fogv@MCAPzZ$qFkYN5&W$g1*GM4m4gqnGIHWov%YOi*W' | chpasswd
-RUN echo 'ram-alois:#jzG&^26&yEEJ%h0jP7wOAa$mmeBqLiB6oTC#238k*^WS7SwWK89h6r@B8*IUz5SNfnY0' | chpasswd
-RUN echo 'ram-chris:YuPWeKAXrGa**BMW2ddqPz3kX3Fdgx^zs70CCvK*OUCQOBO2Hf%r@$IRbicU7nhGt#sNZ' | chpasswd
-RUN echo 'ram-berta:8#dv1OStGk*R@hRVoITH77YkBZVBf*sWYq2#tdbx2AQ0Pswjkrt&8dXRPwVH5XiTNMxYG' | chpasswd
+RUN echo 'ram-fus:$RAM_FUS_PW' | chpasswd
+RUN echo 'ram-ram:$RAM_RAM_PW' | chpasswd
+RUN echo 'ram-alois:$RAM_ALOIS_PW' | chpasswd
+RUN echo 'ram-chris:$RAM_CHRIS_PW' | chpasswd
+RUN echo 'ram-berta:$RAM_BERTA_PW' | chpasswd
 
 #nvim
 RUN curl -LO https://github.com/neovim/neovim/releases/latest/download/nvim-linux64.tar.gz

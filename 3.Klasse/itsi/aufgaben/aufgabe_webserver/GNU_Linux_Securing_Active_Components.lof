@@ -1,9 +1,20 @@
 \contentsline {figure}{\numberline {1}{\ignorespaces Grouplogo}}{1}{figure.1}%
-\contentsline {figure}{\numberline {2}{\ignorespaces Network topology of this exercise}}{5}{figure.2}%
-\contentsline {figure}{\numberline {3}{\ignorespaces Password authentication disabled}}{6}{figure.3}%
-\contentsline {figure}{\numberline {4}{\ignorespaces No SSH key available}}{6}{figure.4}%
-\contentsline {figure}{\numberline {5}{\ignorespaces ram-fus authenticating via SSH key}}{6}{figure.5}%
-\contentsline {figure}{\numberline {6}{\ignorespaces ram-ram authenticating via SSH key}}{6}{figure.6}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Network topology of this exercise}}{4}{figure.2}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Password authentication disabled}}{5}{figure.3}%
+\contentsline {figure}{\numberline {4}{\ignorespaces No SSH key available}}{5}{figure.4}%
+\contentsline {figure}{\numberline {5}{\ignorespaces ram-fus authenticating via SSH key}}{5}{figure.5}%
+\contentsline {figure}{\numberline {6}{\ignorespaces ram-ram authenticating via SSH key}}{5}{figure.6}%
 \contentsline {figure}{\numberline {7}{\ignorespaces Default nginx site}}{8}{figure.7}%
 \contentsline {figure}{\numberline {8}{\ignorespaces Viewing the index of the website}}{9}{figure.8}%
 \contentsline {figure}{\numberline {9}{\ignorespaces Viewing the private part of the website}}{10}{figure.9}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Showing the sign-in prompt}}{11}{figure.10}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Failed authentication}}{11}{figure.11}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Logged in as zivk-webuser}}{11}{figure.12}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Logged in as ram-webuser}}{11}{figure.13}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Reading the plaintext credentials of zivk-webuser}}{12}{figure.14}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Reading the plaintext credentials of ram-webuser}}{12}{figure.15}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Browser warning for untrusted certificate}}{14}{figure.16}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Viewing the self-signed certificate}}{14}{figure.17}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Not being able to see the credentials anymore}}{15}{figure.18}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Setting up the DNS record}}{15}{figure.19}%
+\contentsline {figure}{\numberline {20}{\ignorespaces Showing the trusted certificate signed by Let's Encrypt}}{16}{figure.20}%
