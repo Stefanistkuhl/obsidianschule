@@ -165,6 +165,8 @@ INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT ./images/logo.png
+INPUT ./images/tpologie.png
+INPUT ./images/tpologie.png
 INPUT ./images/logo.png
 INPUT /home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-italic.luc
 INPUT /opt/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty

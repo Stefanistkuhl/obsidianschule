@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.10.15)  9 JAN 2025 22:33
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.10.15)  9 JAN 2025 23:14
  restricted system commands enabled.
  file:line:error style messages enabled.
 **Fürst_Raichle_Router_InterVLAN_Routing.tex
@@ -598,12 +598,18 @@ File: images/logo.png Graphic file (type png)
 Package luatex.def Info: images/logo.png  used on input line 96.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [3]
+<images/tpologie.png, id=125, 578.16pt x 377.41pt>
+File: images/tpologie.png Graphic file (type png)
+<use images/tpologie.png>
+Package luatex.def Info: images/tpologie.png  used on input line 101.
+(luatex.def)             Requested size: 462.52863pt x 301.9284pt.
+
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 100.
+Package luatex.def Info: images/logo.png  used on input line 106.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
-[4] (/opt/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
+[4<./images/tpologie.png>] (/opt/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2024/09/23 1.10c listings language file
 ) (/opt/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2024/09/23 1.10c listings language file
@@ -611,121 +617,121 @@ File: lstlang1.sty 2024/09/23 1.10c listings language file
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 153.
+Package luatex.def Info: images/logo.png  used on input line 159.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [5]
-<images/ipconfmar.png, id=177, 484.81125pt x 434.37282pt>
+<images/ipconfmar.png, id=180, 484.81125pt x 434.37282pt>
 File: images/ipconfmar.png Graphic file (type png)
 <use images/ipconfmar.png>
-Package luatex.def Info: images/ipconfmar.png  used on input line 166.
+Package luatex.def Info: images/ipconfmar.png  used on input line 172.
 (luatex.def)             Requested size: 193.92105pt x 173.74605pt.
-<images/ipconfich.png, id=178, 729.72626pt x 546.04pt>
+<images/ipconfich.png, id=181, 729.72626pt x 546.04pt>
 File: images/ipconfich.png Graphic file (type png)
 <use images/ipconfich.png>
-Package luatex.def Info: images/ipconfich.png  used on input line 171.
+Package luatex.def Info: images/ipconfich.png  used on input line 177.
 (luatex.def)             Requested size: 197.02872pt x 147.43277pt.
 
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 175.
+Package luatex.def Info: images/logo.png  used on input line 181.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [6<./images/ipconfmar.png><./images/ipconfich.png>]
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 227.
+Package luatex.def Info: images/logo.png  used on input line 233.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [7]
-<images/s1_show_vlan_brief.png, id=243, 596.98032pt x 267.24844pt>
+<images/s1_show_vlan_brief.png, id=246, 596.98032pt x 267.24844pt>
 File: images/s1_show_vlan_brief.png Graphic file (type png)
 <use images/s1_show_vlan_brief.png>
-Package luatex.def Info: images/s1_show_vlan_brief.png  used on input line 239.
+Package luatex.def Info: images/s1_show_vlan_brief.png  used on input line 245.
 (luatex.def)             Requested size: 238.78789pt x 106.89748pt.
-<images/s2_show_vlan_brief.png, id=244, 647.41875pt x 310.15875pt>
+<images/s2_show_vlan_brief.png, id=247, 647.41875pt x 310.15875pt>
 File: images/s2_show_vlan_brief.png Graphic file (type png)
 <use images/s2_show_vlan_brief.png>
-Package luatex.def Info: images/s2_show_vlan_brief.png  used on input line 244.
+Package luatex.def Info: images/s2_show_vlan_brief.png  used on input line 250.
 (luatex.def)             Requested size: 239.54118pt x 114.75693pt.
-<images/upsi.png, id=245, 643.40375pt x 48.18pt>
+<images/upsi.png, id=248, 643.40375pt x 48.18pt>
 File: images/upsi.png Graphic file (type png)
 <use images/upsi.png>
-Package luatex.def Info: images/upsi.png  used on input line 255.
+Package luatex.def Info: images/upsi.png  used on input line 261.
 (luatex.def)             Requested size: 353.87315pt x 26.49905pt.
 
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 266.
+Package luatex.def Info: images/logo.png  used on input line 272.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [8<./images/s1_show_vlan_brief.png><./images/s2_show_vlan_brief.png><./images/upsi.png>]
-<images/s1_show_trunk.png, id=273, 526.21594pt x 196.48407pt>
+<images/s1_show_trunk.png, id=276, 526.21594pt x 196.48407pt>
 File: images/s1_show_trunk.png Graphic file (type png)
 <use images/s1_show_trunk.png>
-Package luatex.def Info: images/s1_show_trunk.png  used on input line 273.
+Package luatex.def Info: images/s1_show_trunk.png  used on input line 279.
 (luatex.def)             Requested size: 289.41966pt x 108.06656pt.
-<images/s2_show_trunk.png, id=274, 574.145pt x 228.855pt>
+<images/s2_show_trunk.png, id=277, 574.145pt x 228.855pt>
 File: images/s2_show_trunk.png Graphic file (type png)
 <use images/s2_show_trunk.png>
-Package luatex.def Info: images/s2_show_trunk.png  used on input line 278.
+Package luatex.def Info: images/s2_show_trunk.png  used on input line 284.
 (luatex.def)             Requested size: 315.78073pt x 125.87062pt.
 
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 282.
+Package luatex.def Info: images/logo.png  used on input line 288.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [9<./images/s1_show_trunk.png><./images/s2_show_trunk.png>]
 File: images/s1_show_trunk.png Graphic file (type png)
 <use images/s1_show_trunk.png>
-Package luatex.def Info: images/s1_show_trunk.png  used on input line 293.
+Package luatex.def Info: images/s1_show_trunk.png  used on input line 299.
 (luatex.def)             Requested size: 289.41966pt x 108.06656pt.
 
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 325.
+Package luatex.def Info: images/logo.png  used on input line 331.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [10]
-<images/R1_show_int_brief.png, id=322, 644.4075pt x 122.70844pt>
+<images/R1_show_int_brief.png, id=325, 644.4075pt x 122.70844pt>
 File: images/R1_show_int_brief.png Graphic file (type png)
 <use images/R1_show_int_brief.png>
-Package luatex.def Info: images/R1_show_int_brief.png  used on input line 328.
+Package luatex.def Info: images/R1_show_int_brief.png  used on input line 334.
 (luatex.def)             Requested size: 354.42522pt x 67.48984pt.
-<images/PC_A_ping_Gateway.png, id=323, 505.89pt x 229.8186pt>
+<images/PC_A_ping_Gateway.png, id=326, 505.89pt x 229.8186pt>
 File: images/PC_A_ping_Gateway.png Graphic file (type png)
 <use images/PC_A_ping_Gateway.png>
-Package luatex.def Info: images/PC_A_ping_Gateway.png  used on input line 340.
+Package luatex.def Info: images/PC_A_ping_Gateway.png  used on input line 346.
 (luatex.def)             Requested size: 278.24034pt x 126.40062pt.
-<images/PC_A_ping_PC_B.png, id=324, 505.89pt x 224.5188pt>
+<images/PC_A_ping_PC_B.png, id=327, 505.89pt x 224.5188pt>
 File: images/PC_A_ping_PC_B.png Graphic file (type png)
 <use images/PC_A_ping_PC_B.png>
-Package luatex.def Info: images/PC_A_ping_PC_B.png  used on input line 345.
+Package luatex.def Info: images/PC_A_ping_PC_B.png  used on input line 351.
 (luatex.def)             Requested size: 278.24034pt x 123.4857pt.
 
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 348.
+Package luatex.def Info: images/logo.png  used on input line 354.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [11<./images/R1_show_int_brief.png><./images/PC_A_ping_Gateway.png><./images/PC_A_ping_PC_B.png>]
-<images/PC_A_ping_S2.png, id=339, 505.89pt x 228.3732pt>
+<images/PC_A_ping_S2.png, id=342, 505.89pt x 228.3732pt>
 File: images/PC_A_ping_S2.png Graphic file (type png)
 <use images/PC_A_ping_S2.png>
-Package luatex.def Info: images/PC_A_ping_S2.png  used on input line 350.
+Package luatex.def Info: images/PC_A_ping_S2.png  used on input line 356.
 (luatex.def)             Requested size: 278.24034pt x 125.60564pt.
-<images/PC-A_tracert.png, id=340, 494.8086pt x 155.6214pt>
+<images/PC-A_tracert.png, id=343, 494.8086pt x 155.6214pt>
 File: images/PC-A_tracert.png Graphic file (type png)
 <use images/PC-A_tracert.png>
-Package luatex.def Info: images/PC-A_tracert.png  used on input line 356.
+Package luatex.def Info: images/PC-A_tracert.png  used on input line 362.
 (luatex.def)             Requested size: 272.14555pt x 85.59203pt.
-<images/R1_routing_table.png, id=341, 505.89pt x 249.5724pt>
+<images/R1_routing_table.png, id=344, 505.89pt x 249.5724pt>
 File: images/R1_routing_table.png Graphic file (type png)
 <use images/R1_routing_table.png>
-Package luatex.def Info: images/R1_routing_table.png  used on input line 364.
+Package luatex.def Info: images/R1_routing_table.png  used on input line 370.
 (luatex.def)             Requested size: 278.24034pt x 137.26523pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 353--368
+Underfull \hbox (badness 10000) in paragraph at lines 359--374
 
  []
 
@@ -733,46 +739,46 @@ Underfull \hbox (badness 10000) in paragraph at lines 353--368
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 368.
+Package luatex.def Info: images/logo.png  used on input line 374.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [12<./images/PC_A_ping_S2.png><./images/PC-A_tracert.png><./images/R1_routing_table.png>]
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 484.
+Package luatex.def Info: images/logo.png  used on input line 490.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
  [13]
-Overfull \hbox (15.15414pt too wide) in paragraph at lines 490--491
+Overfull \hbox (15.15414pt too wide) in paragraph at lines 496--497
 [][][][][][][][][][][][][][] 
  []
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 596.
+Package luatex.def Info: images/logo.png  used on input line 602.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [14]
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 708.
+Package luatex.def Info: images/logo.png  used on input line 714.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
  [15]
-Overfull \hbox (15.15414pt too wide) in paragraph at lines 734--735
+Overfull \hbox (15.15414pt too wide) in paragraph at lines 740--741
 [][][][][][][][][][][][][][] 
  []
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 820.
+Package luatex.def Info: images/logo.png  used on input line 826.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [16]
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 932.
+Package luatex.def Info: images/logo.png  used on input line 938.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
  [17]
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 964.
+Package luatex.def Info: images/logo.png  used on input line 970.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [18] (./Fürst_Raichle_Router_InterVLAN_Routing.lof)
 \tf@lof=\write5
@@ -782,7 +788,7 @@ Package luatex.def Info: images/logo.png  used on input line 964.
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 969.
+Package luatex.def Info: images/logo.png  used on input line 975.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [19] (./Fürst_Raichle_Router_InterVLAN_Routing.aux)
  ***********
@@ -794,19 +800,19 @@ Package rerunfilecheck Info: File `Fürst_Raichle_Router_InterVLAN_Routing.out' 
 )
 
 Here is how much of LuaTeX's memory you used:
- 15197 strings out of 475910
+ 15208 strings out of 475910
  195335,1144653 words of node,token memory allocated
  498 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 6 glue, 3 kern, 1 glyph, 9 attribute, 55 glue_spec, 9 attribute_list, 1 write nodes
    avail lists: 1:1,2:4115,3:715,4:930,5:2188,6:251,7:13564,8:2,9:7240,10:7,11:556
- 36705 multiletter control sequences out of 65536+600000
+ 36712 multiletter control sequences out of 65536+600000
  42 fonts using 3161527 bytes
  79i,17n,89p,449b,963s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman8-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman6-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman7-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf>
-Output written on Fürst_Raichle_Router_InterVLAN_Routing.pdf (19 pages, 1033297 bytes).
+Output written on Fürst_Raichle_Router_InterVLAN_Routing.pdf (19 pages, 1068424 bytes).
 
-PDF statistics: 1070 PDF objects out of 1200 (max. 8388607)
- 986 compressed objects within 10 object streams
- 788 named destinations out of 1000 (max. 131072)
+PDF statistics: 1074 PDF objects out of 1200 (max. 8388607)
+ 988 compressed objects within 10 object streams
+ 789 named destinations out of 1000 (max. 131072)
  145 words of extra memory for PDF output out of 10000 (max. 100000000)
 

@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2caf4f3168cdeff6",
+        "id": "656c3067582353e0",
         "type": "tabs",
         "children": [
           {
-            "id": "b73dd63ec7738a37",
+            "id": "7730c7e553de85e2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Zeichnungen/DR09-01-2025-47.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "DR09-01-2025-47.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -138,11 +136,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b73dd63ec7738a37",
+  "active": "7730c7e553de85e2",
   "lastOpenFiles": [
+    "Zeichnungen/DR09-01-2025-47.excalidraw.md",
+    "3.Klasse/nwt/aufgaben/router-on-a-stick/Fürst_Raichle_Router_InterVLAN_Routing.tex~",
+    "3.Klasse/nwt/aufgaben/router-on-a-stick/Fürst_Raichle_Router_InterVLAN_Routing.synctex(busy)",
+    "3.Klasse/nwt/aufgaben/router-on-a-stick/lualatex105805.fls",
+    "3.Klasse/nwt/aufgaben/router-on-a-stick/lualatex105799.fls",
+    "3.Klasse/nwt/aufgaben/router-on-a-stick/lualatex105777.fls",
+    "3.Klasse/nwt/aufgaben/router-on-a-stick/lualatex105762.fls",
+    "3.Klasse/nwt/aufgaben/router-on-a-stick/lualatex105695.fls",
+    "3.Klasse/nwt/aufgaben/router-on-a-stick/lualatex105680.fls",
+    "3.Klasse/nwt/aufgaben/router-on-a-stick/lualatex105646.fls",
+    "3.Klasse/nwt/aufgaben/router-on-a-stick/images/tpologie.png",
+    "Zeichnungen/DR09-01-2025-47.excalidraw.png",
     "bilder/Pasted Image 20250109225019_480.png",
     "bilder/Pasted Image 20250109224858_972.png",
-    "Zeichnungen/DR09-01-2025-47.excalidraw.md",
     "3.Klasse/ggp/der demopgrahise wandel.md",
     "3.Klasse/ggp/3kl GGP.md",
     "3.Klasse/ggp/Checkliste Die Industrielle Revolution.md",
@@ -160,8 +169,6 @@
     "bilder/Pasted image 20241216120812.png",
     "bilder/Pasted image 20241216113242.png",
     "bilder/Pasted image 20241216112301.png",
-    "bilder/Pasted image 20241216111805.png",
-    "bilder/Pasted image 20241216111759.png",
     "3.Klasse/mathe/3kl mathe.md",
     "bilder/arbeitsblatt volkswirtschaft wh 09-12-2024-35.excalidraw.md",
     "3.Klasse/ggp/arbeitsblatt volkswirtschaft wh.md",
@@ -172,19 +179,9 @@
     "3.Klasse/nwt/RSTP Rapid Spanning Tree Protocol.md",
     "bilder/STP-States 13-12-2024-50.excalidraw.md",
     "3.Klasse/nwt/STP-States.md",
-    "bilder/Pasted image 20241213114256.png",
     "3.Klasse/nwt/Per-Vlan Spanning Tree.md",
     "3.Klasse/nwt/Evolution of STP.md",
     "3.Klasse/nwt/Spanning Tree bsp.md",
-    "3.Klasse/nwt/3kl nwt.md",
-    "3.Klasse/nwt/aufgaben/basic-router-conf/Configure-Basic-Router-Settings.synctex(busy)",
-    "3.Klasse/nwt/aufgaben/basic-router-conf/lualatex54089.fls",
-    "3.Klasse/nwt/aufgaben/basic-router-conf/lualatex54088.fls",
-    "3.Klasse/nwt/aufgaben/basic-router-conf/Configure-Basic-Router-Settings.tex~",
-    "3.Klasse/nwt/aufgaben/basic-router-conf/lualatex53504.fls",
-    "3.Klasse/nwt/aufgaben/basic-router-conf/lualatex53203.fls",
-    "3.Klasse/nwt/aufgaben/basic-router-conf/lualatex52557.fls",
-    "3.Klasse/nwt/aufgaben/basic-router-conf/lualatex52475.fls",
-    "3.Klasse/nwt/aufgaben/basic-router-conf/lualatex52337.fls"
+    "3.Klasse/nwt/3kl nwt.md"
   ]
 }
