@@ -11,8 +11,8 @@
 \contentsline {subsubsection}{\numberline {4.2.2}Assign VLANs to the correct switch interfaces}{7}{subsubsection.4.2.2}%
 \contentsline {subsection}{\numberline {4.3}Configure an 802.1Q Trunk Between the Switches}{8}{subsection.4.3}%
 \contentsline {subsubsection}{\numberline {4.3.1}Manually configure trunk interface F0/1}{8}{subsubsection.4.3.1}%
-\contentsline {subsubsection}{\numberline {4.3.2}Manually configure S1’s trunk interface F0/5}{8}{subsubsection.4.3.2}%
-\contentsline {subsection}{\numberline {4.4}Configure Inter-VLAN Routing on the Router}{8}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}Verify Inter-VLAN Routing is Working}{8}{subsection.4.5}%
-\contentsline {section}{\numberline {5}Complete configuration files}{9}{section.5}%
-\contentsline {section}{\numberline {6}List of figures}{10}{section.6}%
+\contentsline {subsubsection}{\numberline {4.3.2}Manually configure S1’s trunk interface F0/5}{10}{subsubsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.4}Configure Inter-VLAN Routing on the Router}{10}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Verify Inter-VLAN Routing is Working}{11}{subsection.4.5}%
+\contentsline {section}{\numberline {5}Complete configuration files}{13}{section.5}%
+\contentsline {section}{\numberline {6}List of figures}{19}{section.6}%
