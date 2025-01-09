@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "73b6ff47f6cff892",
+        "id": "7ff8c7f9d28fde64",
         "type": "tabs",
         "children": [
           {
-            "id": "bda06b176c373780",
+            "id": "0ec35bb42bf7f58a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/itsi/Angriffs Vektoren.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Angriffs Vektoren"
+              "title": "New tab"
             }
           }
         ]
@@ -140,7 +136,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bda06b176c373780",
+  "active": "0ec35bb42bf7f58a",
   "lastOpenFiles": [
     "3.Klasse/itsi/Angriffs Vektoren.md",
     "an.md",
