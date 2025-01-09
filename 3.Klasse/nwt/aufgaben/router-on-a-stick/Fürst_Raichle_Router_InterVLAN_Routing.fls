@@ -158,6 +158,14 @@ INPUT ./images/logo.png
 INPUT ./images/logo.png
 INPUT ./images/logo.png
 INPUT /home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-italic.luc
+INPUT /home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman8-regular.luc
+INPUT /home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman6-regular.luc
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT /opt/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /opt/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc
@@ -168,8 +176,11 @@ INPUT ./images/ipconfich.png
 INPUT ./images/ipconfich.png
 INPUT ./images/logo.png
 INPUT ./images/logo.png
+INPUT ./images/s1_show_vlan_brief.png
+INPUT ./images/s1_show_vlan_brief.png
+INPUT ./images/s2_show_vlan_brief.png
+INPUT ./images/s2_show_vlan_brief.png
 INPUT ./images/logo.png
-INPUT ./Fürst_Raichle_Router_InterVLAN_Routing.bbl
 INPUT ./images/logo.png
 INPUT ./Fürst_Raichle_Router_InterVLAN_Routing.lof
 OUTPUT Fürst_Raichle_Router_InterVLAN_Routing.lof

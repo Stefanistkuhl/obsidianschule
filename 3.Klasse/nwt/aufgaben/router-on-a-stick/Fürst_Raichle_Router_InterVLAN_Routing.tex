@@ -16,7 +16,7 @@
 \newcommand{\abc}{\hfill \break}
 \newcommand{\vi}{\vfill}
 \newcommand{\ii}{\textit}
-\newcommand{\tt}{\texttt}
+\newcommand{\ttt}{\texttt}
 \usepackage{fancyhdr}
 \usepackage{geometry}
 \geometry{
@@ -42,7 +42,7 @@
 }
 
 \begin{document}
-\bibliographystyle{plain}
+% \bibliographystyle{plain}
 \pagestyle{oida}
 \subsection*{Exercise 3: 4.2.8 Lab - Configure Router-on-a-Stick Inter-VLAN Routing}
 \par\noindent\rule{\textwidth}{0.4pt}
@@ -61,7 +61,7 @@ Laboratory protocol
 
 \textbf{Name:}	Stefan Fürst, Marcel Raichle\abc
 
-\textbf{Gruppenname/Nummer:} Dumm und Dümmer/7\abc
+\textbf{Groupname/Number} Team 7/7\abc
 
 \textbf{Supervisor:} 	ANGE, ZIVK\abc
 
@@ -94,7 +94,7 @@ Laboratory protocol
 
 \subsubsection{Configure basic settings for the router.}
 To access the router's configuration mode, connect to the router through the console port and execute the \ii{en} and \ii{conf t} commands.\abc
-The following basic settings are configured using the commands listed below:
+The following basic settings are configured using the commands listed below: \footnote{I won't add any screenshots for the basic configuration, as this has already been covered in the last two exercises and is therefore redundant.}
 \begin{lstlisting}[language=bash]
 #Enter privileged exec mode
 #Assign a hostname to the router
@@ -163,16 +163,84 @@ To configure the PC hosts, the Settings app of each operating system was used. U
 	\centering
 	\caption{Configure the IP settings for PC B}
 \end{figure}
-
+\newpage
 \subsection{Create VLANs and Assign Switch Ports}
-
-
-
+some explanation here
 \subsubsection{Create VLANs on both switches}
-
+To create VLANs, the global configuration must be entered. Since the VLANs are the same on both switches, I will list the configuration only once.
+\begin{lstlisting}[language=bash]
+#Creating VLAN 3
+vlan 3
+#Setting a name of it
+name Management
+#Creating VLAN 4
+vlan 4
+#Setting a name of it
+name Operations
+#Creating VLAN 7
+vlan 7
+#Setting a name of it
+name ParkingLot
+#Creating VLAN 8
+vlan 8
+#Setting a name of it
+name Native
+\end{lstlisting}
+To set a default gateway and an IP address for management in each VLAN, use the \ii{interface vlan <number>} command, followed by the \ii{ip address <address> <subnet\_mask>} command, and then the \ii{no shutdown} command to configure the VLAN, set its IP address, and enable it.
+Lastly, the default gateway is set in global configuration mode rather than for the interface. \footnote{The commands that are the same for both S1 and S2 will only be written once from now on, and the comment above the command will indicate if there are any differences.}
+\begin{lstlisting}[language=bash]
+#Entering the configuration for the VLAN 3 interface
+interface vlan 3
+#Setting the IP address for S1
+ip address 192.168.3.11 255.255.255.0
+#Setting the IP address for S2
+ip address 192.168.3.12 255.255.255.0
+#Enabling the interface
+no shutdown
+#Returning to global configuration mode
+exit
+#Setting the default gateway
+ip default-gateway 192.168.3.1
+\end{lstlisting}
 \subsubsection{Assign VLANs to the correct switch interfaces}
+To assign all unused interfaces to the Parking Lot VLAN, the \ii{interface range} command is used to edit multiple interfaces at the same time. These interfaces are then set to access mode with \ii{switchport mode access}, assigned to the VLAN with \ii{switchport access vlan <number>}, and disabled with \ii{shutdown}.
+\begin{lstlisting}
+#Selecting the ports on S1
+interface range f0/2 - 4 , f0/7 - 24 , g0/1 - 2	
+#Selecting the ports on S2
+interface range f0/2 - 17, f0/19 - 24 , g0/1 - 2
+#Setting the interface mode to access
+switchport mode access
+#Setting the the Interface to access VLAN 7
+switchport access vlan 7
+#Disabling those interfaces
+shut
+#Returning to global configuration mode
+exit
+#Selecting Fast Ethernet port 6 (on S1)
+interface f0/6
+#Selecting Fast Ethernet port 18 (on S2)
+interface f0/18
+#Setting the interface mode to access
+switchport mode access
+#Setting the the Interface to access VLAN 3
+switchport access vlan 3
+\end{lstlisting}
+The VLAN configuration can be examined using the \ii{show vlan brief} command.
+\begin{figure}[h]
+	\includegraphics[scale=0.4]{images/s1_show_vlan_brief.png}
+	\centering
+	\caption{Examining the VLAN configuration of S1}
+\end{figure}
+\begin{figure}[h]
+	\includegraphics[scale=0.37]{images/s2_show_vlan_brief.png}
+	\centering
+	\caption{Examining the VLAN configuration of S2}
+\end{figure}
 
 \subsection{Configure an 802.1Q Trunk Between the Switches}
+
+
 
 \subsubsection{Manually configure trunk interface F0/1}
 
@@ -282,9 +350,9 @@ scheduler allocate 20000 1000
 end	
 	\end{lstlisting}
 \end{multicols}
-\newpage
-\section{References}
-\bibliography{quellen}
+% \newpage
+% \section{References}
+% \bibliography{quellen}
 \newpage
 \section{List of figures}
 
