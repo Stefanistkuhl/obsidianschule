@@ -1,0 +1,19 @@
+\contentsline {section}{\numberline {1}Task definition}{3}{section.1}%
+\contentsline {section}{\numberline {2}Summary}{3}{section.2}%
+\contentsline {section}{\numberline {3}Complete network topology of the exercise}{4}{section.3}%
+\contentsline {section}{\numberline {4}Exercise Execution}{5}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Build the Network and Configure Basic Device Settings}{5}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Configure basic settings for the router.}{5}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}Configure basic settings for each switch}{5}{subsubsection.4.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.3}Configure PC hosts}{6}{subsubsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.2}Create VLANs and Assign Switch Ports}{7}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Create VLANs on both switches}{7}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Assign VLANs to the correct switch interfaces}{7}{subsubsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.3}Configure an 802.1Q Trunk Between the Switches}{7}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}Manually configure trunk interface F0/1}{7}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.2}Manually configure S1’s trunk interface F0/5}{7}{subsubsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.4}Configure Inter-VLAN Routing on the Router}{7}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Verify Inter-VLAN Routing is Working}{7}{subsection.4.5}%
+\contentsline {section}{\numberline {5}Complete configuration files}{8}{section.5}%
+\contentsline {section}{\numberline {6}References}{9}{section.6}%
+\contentsline {section}{\numberline {7}List of figures}{10}{section.7}%
