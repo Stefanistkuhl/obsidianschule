@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6b4bd03840c3b3a2",
+        "id": "73b6ff47f6cff892",
         "type": "tabs",
         "children": [
           {
-            "id": "28b4b388246b826f",
+            "id": "bda06b176c373780",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/itsi/Angriffs Vektoren.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Angriffs Vektoren"
             }
           }
         ]
@@ -132,11 +136,14 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "28b4b388246b826f",
+  "active": "bda06b176c373780",
   "lastOpenFiles": [
+    "3.Klasse/itsi/Angriffs Vektoren.md",
+    "an.md",
     "3.Klasse/Nawi/Aminosäuren.md",
     "3.Klasse/Nawi/3kl nawi.md",
     "3.Klasse/sew/File IO Things.md~",
@@ -172,8 +179,6 @@
     "3.Klasse/ggp/industrialisierung.md",
     "3.Klasse/ggp/3kl GGP.md",
     "3.Klasse/itsi/Authetifizierungsmethoden.md",
-    "3.Klasse/itsi/Benutzerkategorien.md",
-    "3.Klasse/itsi/Klassifizierunsstufen.md",
     "3.Klasse/nwt/aufgaben/basic-router-conf/Configure-Basic-Router-Settings.synctex(busy)",
     "3.Klasse/nwt/aufgaben/basic-router-conf/lualatex54089.fls",
     "3.Klasse/nwt/aufgaben/basic-router-conf/lualatex54088.fls",
