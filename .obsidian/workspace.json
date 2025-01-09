@@ -11,10 +11,12 @@
             "id": "b73dd63ec7738a37",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Zeichnungen/DR09-01-2025-47.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "DR09-01-2025-47.excalidraw"
             }
           }
         ]
@@ -138,6 +140,9 @@
   },
   "active": "b73dd63ec7738a37",
   "lastOpenFiles": [
+    "bilder/Pasted Image 20250109225019_480.png",
+    "bilder/Pasted Image 20250109224858_972.png",
+    "Zeichnungen/DR09-01-2025-47.excalidraw.md",
     "3.Klasse/ggp/der demopgrahise wandel.md",
     "3.Klasse/ggp/3kl GGP.md",
     "3.Klasse/ggp/Checkliste Die Industrielle Revolution.md",
@@ -168,13 +173,10 @@
     "bilder/STP-States 13-12-2024-50.excalidraw.md",
     "3.Klasse/nwt/STP-States.md",
     "bilder/Pasted image 20241213114256.png",
-    "bilder/Pasted image 20241213114246.png",
     "3.Klasse/nwt/Per-Vlan Spanning Tree.md",
     "3.Klasse/nwt/Evolution of STP.md",
     "3.Klasse/nwt/Spanning Tree bsp.md",
     "3.Klasse/nwt/3kl nwt.md",
-    "Überlebenswichtige Strichlisten.md",
-    "3.Klasse/syt/Überischt Festdatenspeicher.md",
     "3.Klasse/nwt/aufgaben/basic-router-conf/Configure-Basic-Router-Settings.synctex(busy)",
     "3.Klasse/nwt/aufgaben/basic-router-conf/lualatex54089.fls",
     "3.Klasse/nwt/aufgaben/basic-router-conf/lualatex54088.fls",
