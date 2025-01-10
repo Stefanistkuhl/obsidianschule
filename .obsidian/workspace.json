@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/nwt/DHCPv4.md",
+                "file": "3.Klasse/nwt/configure a cisco IOS DHCPv4 Server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DHCPv4"
+              "title": "configure a cisco IOS DHCPv4 Server"
             }
           }
         ],
@@ -155,8 +155,10 @@
   },
   "active": "7730c7e553de85e2",
   "lastOpenFiles": [
-    "bilder/EtherChannel 10-01-2025-26.excalidraw.md",
+    "bilder/Pasted image 20250110110940.png",
     "3.Klasse/nwt/DHCPv4.md",
+    "3.Klasse/nwt/configure a cisco IOS DHCPv4 Server.md",
+    "bilder/EtherChannel 10-01-2025-26.excalidraw.md",
     "3.Klasse/nwt/3kl nwt.md",
     "3.Klasse/nwt/Configuring EtherChanel.md",
     "3.Klasse/nwt/Configuring EtherChanel.md~",
@@ -198,8 +200,6 @@
     "bilder/arbeitsblatt ding 25-11-2024-15.excalidraw.md",
     "3.Klasse/nwt/STP-Spanning Tree Protocol.md",
     "bilder/Spanning Tree bsp 13-12-2024-51.excalidraw.md",
-    "3.Klasse/nwt/RSTP Rapid Spanning Tree Protocol.md",
-    "bilder/STP-States 13-12-2024-50.excalidraw.md",
-    "3.Klasse/nwt/STP-States.md"
+    "3.Klasse/nwt/RSTP Rapid Spanning Tree Protocol.md"
   ]
 }
