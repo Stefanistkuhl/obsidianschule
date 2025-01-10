@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "656c3067582353e0",
+        "id": "ed402cb352e5d50e",
         "type": "tabs",
         "children": [
           {
-            "id": "3e22561584397f61",
+            "id": "6c556e943b836e0d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/EtherChannel 10-01-2025-26.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "EtherChannel 10-01-2025-26.excalidraw"
-            }
-          },
-          {
-            "id": "7730c7e553de85e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/nwt/configure a cisco IOS DHCPv4 Server.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "configure a cisco IOS DHCPv4 Server"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,13 +136,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7730c7e553de85e2",
+  "active": "6c556e943b836e0d",
   "lastOpenFiles": [
+    "3.Klasse/nwt/Auto Ip-Bereich.md",
+    "3.Klasse/nwt/3kl nwt.md",
+    "bilder/EtherChannel 10-01-2025-26.excalidraw.md",
+    "3.Klasse/nwt/configure a cisco IOS DHCPv4 Server.md",
     "bilder/Pasted image 20250110110940.png",
     "3.Klasse/nwt/DHCPv4.md",
-    "3.Klasse/nwt/configure a cisco IOS DHCPv4 Server.md",
-    "bilder/EtherChannel 10-01-2025-26.excalidraw.md",
-    "3.Klasse/nwt/3kl nwt.md",
     "3.Klasse/nwt/Configuring EtherChanel.md",
     "3.Klasse/nwt/Configuring EtherChanel.md~",
     "3.Klasse/nwt/EtherChannel (LAG).md",
@@ -192,7 +176,6 @@
     "3.Klasse/mathe/Aufgabenpool things.md",
     "bilder/Pasted image 20241216120948.png",
     "bilder/Pasted image 20241216120812.png",
-    "bilder/Pasted image 20241216113242.png",
     "3.Klasse/mathe/3kl mathe.md",
     "bilder/arbeitsblatt volkswirtschaft wh 09-12-2024-35.excalidraw.md",
     "3.Klasse/ggp/arbeitsblatt volkswirtschaft wh.md",
