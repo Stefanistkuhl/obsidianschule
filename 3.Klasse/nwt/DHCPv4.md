@@ -16,4 +16,8 @@ Es gibt nich DHCP decline
 Clients können nach hälfte der mietdauer einen verlängerung anfragen
 schickt dhcp request ohne discovery davor 
 
+im int `ip helper-address x.x.x.x` to use a dhcp relay so you can use a dhcp server from another subnet
+
+vergebene addressen kann man sehen mit `show ip dhcp binding`
+
 [[configure a cisco IOS DHCPv4 Server]]
