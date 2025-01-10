@@ -13,4 +13,4 @@ tags:
 [[inter-VLAN-Routing]]
 [[STP-Spanning Tree Protocol]]
 [[EtherChannel (LAG)]]
-[[DHCP]]
+[[DHCPv4]]
