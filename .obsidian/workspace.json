@@ -11,10 +11,26 @@
             "id": "7730c7e553de85e2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/nwt/EtherChannel (LAG).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "EtherChannel (LAG)"
+            }
+          },
+          {
+            "id": "3e22561584397f61",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/EtherChannel 10-01-2025-26.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "EtherChannel 10-01-2025-26.excalidraw"
             }
           }
         ]
@@ -138,6 +154,10 @@
   },
   "active": "7730c7e553de85e2",
   "lastOpenFiles": [
+    "3.Klasse/nwt/EtherChannel (LAG).md~",
+    "bilder/EtherChannel 10-01-2025-26.excalidraw.md",
+    "3.Klasse/nwt/EtherChannel (LAG).md",
+    "3.Klasse/nwt/3kl nwt.md",
     "Zeichnungen/DR09-01-2025-47.excalidraw.md",
     "3.Klasse/nwt/aufgaben/router-on-a-stick/Fürst_Raichle_Router_InterVLAN_Routing.tex~",
     "3.Klasse/nwt/aufgaben/router-on-a-stick/Fürst_Raichle_Router_InterVLAN_Routing.synctex(busy)",
@@ -179,9 +199,6 @@
     "3.Klasse/nwt/RSTP Rapid Spanning Tree Protocol.md",
     "bilder/STP-States 13-12-2024-50.excalidraw.md",
     "3.Klasse/nwt/STP-States.md",
-    "3.Klasse/nwt/Per-Vlan Spanning Tree.md",
-    "3.Klasse/nwt/Evolution of STP.md",
-    "3.Klasse/nwt/Spanning Tree bsp.md",
-    "3.Klasse/nwt/3kl nwt.md"
+    "3.Klasse/nwt/Per-Vlan Spanning Tree.md"
   ]
 }
