@@ -49,7 +49,8 @@
               "title": "2.Sa thing yfear"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,10 +169,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cc2ef295bf278c99",
+  "active": "f5f6f985f5ee73da",
   "lastOpenFiles": [
-    "3.Klasse/mathe/2.Sa thing yfear.md",
+    "bilder/Pasted image 20250112160647.png",
+    "bilder/Pasted image 20250112160510.png",
     "3.Klasse/mathe/Kurvendiskussion.md",
+    "3.Klasse/mathe/2.Sa thing yfear.md",
     "3.Klasse/mathe/kurvendiskissionbsp.md",
     "3.Klasse/mathe/kruvenskission feat gebbebra.md",
     "bilder/Pasted image 20241118175605.png",
@@ -212,9 +215,7 @@
     "3.Klasse/sew/File IO Things.md",
     "3.Klasse/sew/3kl sew.md",
     "3.Klasse/mathe/Aufgabenpool things.md",
-    "bilder/Pasted image 20241216120948.png",
     "bilder/arbeitsblatt volkswirtschaft wh 09-12-2024-35.excalidraw.md",
-    "3.Klasse/ggp/arbeitsblatt volkswirtschaft wh.md",
-    "3.Klasse/ggp/arbeitsblatt BIP.md"
+    "3.Klasse/ggp/arbeitsblatt volkswirtschaft wh.md"
   ]
 }
