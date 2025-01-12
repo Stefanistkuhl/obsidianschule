@@ -35,8 +35,7 @@
               "title": "kurvendiskissionbsp"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,11 +150,13 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1d90da08d905f799",
+  "active": "cc2ef295bf278c99",
   "lastOpenFiles": [
+    "3.Klasse/mathe/kurvendiskissionbsp.md",
     "3.Klasse/mathe/Kurvendiskussion.md",
     "3.Klasse/mathe/kruvenskission feat gebbebra.md",
     "bilder/Pasted image 20241118175605.png",
@@ -200,7 +201,6 @@
     "bilder/Pasted image 20241216120948.png",
     "bilder/arbeitsblatt volkswirtschaft wh 09-12-2024-35.excalidraw.md",
     "3.Klasse/ggp/arbeitsblatt volkswirtschaft wh.md",
-    "3.Klasse/ggp/arbeitsblatt BIP.md",
-    "bilder/arbeitsblatt ding 25-11-2024-15.excalidraw.md"
+    "3.Klasse/ggp/arbeitsblatt BIP.md"
   ]
 }
