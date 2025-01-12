@@ -48,8 +48,23 @@
               "icon": "lucide-file",
               "title": "2.Sa thing yfear"
             }
+          },
+          {
+            "id": "c81a093ca302e7b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/nwt/DHCPv4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DHCPv4"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -168,13 +183,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cc2ef295bf278c99",
+  "active": "c81a093ca302e7b8",
   "lastOpenFiles": [
+    "3.Klasse/mathe/Kurvendiskussion.md",
     "3.Klasse/mathe/kurvendiskissionbsp.md",
     "3.Klasse/mathe/2.Sa thing yfear.md",
     "bilder/Pasted image 20250112160647.png",
     "bilder/Pasted image 20250112160510.png",
-    "3.Klasse/mathe/Kurvendiskussion.md",
     "3.Klasse/mathe/kruvenskission feat gebbebra.md",
     "bilder/Pasted image 20241118175605.png",
     "3.Klasse/mathe/3kl mathe.md",
