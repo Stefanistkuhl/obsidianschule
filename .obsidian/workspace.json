@@ -34,6 +34,20 @@
               "icon": "lucide-file",
               "title": "kurvendiskissionbsp"
             }
+          },
+          {
+            "id": "f5f6f985f5ee73da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/mathe/2.Sa thing yfear.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.Sa thing yfear"
+            }
           }
         ]
       }
@@ -156,11 +170,11 @@
   },
   "active": "cc2ef295bf278c99",
   "lastOpenFiles": [
-    "3.Klasse/mathe/kurvendiskissionbsp.md",
+    "3.Klasse/mathe/2.Sa thing yfear.md",
     "3.Klasse/mathe/Kurvendiskussion.md",
+    "3.Klasse/mathe/kurvendiskissionbsp.md",
     "3.Klasse/mathe/kruvenskission feat gebbebra.md",
     "bilder/Pasted image 20241118175605.png",
-    "3.Klasse/mathe/2.Sa thing yfear.md",
     "3.Klasse/mathe/3kl mathe.md",
     "3.Klasse/nwt/DHCPv4.md",
     "3.Klasse/nwt/Auto Ip-Bereich.md",
