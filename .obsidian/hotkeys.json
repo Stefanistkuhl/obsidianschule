@@ -165,5 +165,15 @@
     }
   ],
   "editor:toggle-comments": [],
-  "markdown:toggle-preview": []
+  "markdown:toggle-preview": [],
+  "workspace:close": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "W"
+    }
+  ],
+  "workspace:close-window": []
 }
