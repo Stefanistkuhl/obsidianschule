@@ -82,3 +82,5 @@ tags:
 		- use facts and stuff
 	- persuade
 		- talking showing
+- economise
+	- look at numbers and save mony another word for saving money
