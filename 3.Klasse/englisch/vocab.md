@@ -77,3 +77,8 @@ tags:
 - overheads
 	- Betriebskosten
 	- cost to keep something running
+- persuade and convice diff
+	- convince
+		- use facts and stuff
+	- persuade
+		- talking showing
