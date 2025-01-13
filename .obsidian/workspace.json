@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/englisch/vocab.md",
+                "file": "3.Klasse/ggp/Wirtschaftssektoren Zettel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vocab"
+              "title": "Wirtschaftssektoren Zettel"
             }
           }
         ]
@@ -136,12 +136,18 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "markdown-importer:Open format converter": false
     }
   },
   "active": "cd302e90e83a7e31",
   "lastOpenFiles": [
+    "bilder/Wirtschaftssektoren Zettel 13-01-2025-44.excalidraw.md",
+    "bilder/Pasted Image 20250113105054_532.png",
+    "bilder/Pasted Image 20250113105047_804.png",
+    "3.Klasse/ggp/Wirtschaftssektoren Zettel.md",
+    "3.Klasse/ggp/3kl GGP.md",
+    "3.Klasse/englisch/table of content.md",
+    "3.Klasse/englisch/vocab.md",
     "3.Klasse/englisch/3kl eng.md",
     "3.Klasse/3te Klasse.md",
     "3.Klasse/englisch/Englisch.md",
@@ -176,17 +182,9 @@
     "3.Klasse/nwt/aufgaben/router-on-a-stick/images/tpologie.png",
     "Zeichnungen/DR09-01-2025-47.excalidraw.png",
     "bilder/Pasted Image 20250109225019_480.png",
-    "bilder/Pasted Image 20250109224858_972.png",
     "3.Klasse/ggp/der demopgrahise wandel.md",
-    "3.Klasse/ggp/3kl GGP.md",
     "3.Klasse/ggp/Checkliste Die Industrielle Revolution.md",
-    "bilder/Pasted image 20250109141136.png",
     "3.Klasse/itsi/Angriffs Vektoren.md",
-    "an.md",
-    "3.Klasse/Nawi/Aminosäuren.md",
-    "3.Klasse/Nawi/3kl nawi.md",
-    "3.Klasse/sew/File IO Things.md",
-    "3.Klasse/sew/3kl sew.md",
-    "3.Klasse/mathe/Aufgabenpool things.md"
+    "an.md"
   ]
 }

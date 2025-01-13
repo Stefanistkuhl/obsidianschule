@@ -14,3 +14,4 @@ tags:
 [[scheiß test thing oida omg]]
 [[industrialisierung]]
 [[der demopgrahise wandel]]
+[[Wirtschaftssektoren Zettel]]
