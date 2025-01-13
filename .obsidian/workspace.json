@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Proteinsynthese"
             }
+          },
+          {
+            "id": "735609a41c221747",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/Proteinsynthese 13-01-2025-19.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Proteinsynthese 13-01-2025-19.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,10 +153,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cd302e90e83a7e31",
+  "active": "735609a41c221747",
   "lastOpenFiles": [
-    "bilder/Proteinsynthese 13-01-2025-12.excalidraw.md",
     "3.Klasse/Nawi/Proteinsynthese.md",
+    "bilder/Proteinsynthese 13-01-2025-19.excalidraw.md",
+    "bilder/Proteinsynthese 13-01-2025-12.excalidraw.md",
     "3.Klasse/Nawi/3kl nawi.md",
     "3.Klasse/ggp/Wirtschaftssektoren Zettel.md",
     "bilder/Wirtschaftssektoren Zettel 13-01-2025-44.excalidraw.md",
@@ -186,7 +200,6 @@
     "3.Klasse/nwt/aufgaben/router-on-a-stick/images/tpologie.png",
     "Zeichnungen/DR09-01-2025-47.excalidraw.png",
     "bilder/Pasted Image 20250109225019_480.png",
-    "3.Klasse/ggp/der demopgrahise wandel.md",
-    "3.Klasse/ggp/Checkliste Die Industrielle Revolution.md"
+    "3.Klasse/ggp/der demopgrahise wandel.md"
   ]
 }
