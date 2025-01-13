@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c9e4fdebd5a3ca54",
+        "id": "62b5ed7043930dbe",
         "type": "tabs",
         "children": [
           {
-            "id": "cd302e90e83a7e31",
+            "id": "bd5c576e4bb43b0f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/Nawi/Proteinsynthese.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Proteinsynthese"
-            }
-          },
-          {
-            "id": "735609a41c221747",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/Proteinsynthese 13-01-2025-19.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Proteinsynthese 13-01-2025-19.excalidraw"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +136,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "735609a41c221747",
+  "active": "bd5c576e4bb43b0f",
   "lastOpenFiles": [
     "3.Klasse/Nawi/Proteinsynthese.md",
     "bilder/Proteinsynthese 13-01-2025-19.excalidraw.md",
