@@ -11,3 +11,4 @@ tags:
 [[Funtionelle Gruppen]]
 [[Nawi Teststoff]]
 [[Aminosäuren]]
+[[Proteinsynthese]]
