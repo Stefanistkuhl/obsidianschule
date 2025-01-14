@@ -20,18 +20,6 @@
               "icon": "lucide-file",
               "title": "Vektoren"
             }
-          },
-          {
-            "id": "9bbc03ef373be687",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/Vektoren 14-01-2025-30.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Vektoren 14-01-2025-30.excalidraw"
-            }
           }
         ]
       }
@@ -154,8 +142,9 @@
   },
   "active": "bd5c576e4bb43b0f",
   "lastOpenFiles": [
-    "bilder/Vektoren 14-01-2025-30.excalidraw.md",
+    "bilder/Vektoren 14-01-2025-11.excalidraw.md",
     "3.Klasse/mathe/Vektoren.md",
+    "bilder/Vektoren 14-01-2025-30.excalidraw.md",
     "bilder/Vektoren 14-01-2025-05.excalidraw.md",
     "bilder/Vektoren 14-01-2025-18.excalidraw.md",
     "3.Klasse/mathe/3kl mathe.md",
@@ -184,7 +173,6 @@
     "3.Klasse/nwt/Auto Ip-Bereich.md",
     "3.Klasse/nwt/3kl nwt.md",
     "bilder/EtherChannel 10-01-2025-26.excalidraw.md",
-    "3.Klasse/nwt/configure a cisco IOS DHCPv4 Server.md",
     "bilder/Pasted image 20250110110940.png",
     "3.Klasse/nwt/Configuring EtherChanel.md~",
     "3.Klasse/nwt/EtherChannel (LAG).md~",
