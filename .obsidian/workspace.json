@@ -11,10 +11,26 @@
             "id": "bd5c576e4bb43b0f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/mathe/Vektoren.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Vektoren"
+            }
+          },
+          {
+            "id": "9bbc03ef373be687",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/Vektoren 14-01-2025-30.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Vektoren 14-01-2025-30.excalidraw"
             }
           }
         ]
@@ -138,6 +154,11 @@
   },
   "active": "bd5c576e4bb43b0f",
   "lastOpenFiles": [
+    "bilder/Vektoren 14-01-2025-30.excalidraw.md",
+    "3.Klasse/mathe/Vektoren.md",
+    "bilder/Vektoren 14-01-2025-05.excalidraw.md",
+    "bilder/Vektoren 14-01-2025-18.excalidraw.md",
+    "3.Klasse/mathe/3kl mathe.md",
     "3.Klasse/Nawi/Proteinsynthese.md",
     "bilder/Proteinsynthese 13-01-2025-19.excalidraw.md",
     "bilder/Proteinsynthese 13-01-2025-12.excalidraw.md",
@@ -160,18 +181,14 @@
     "bilder/Pasted image 20250112160510.png",
     "3.Klasse/mathe/kruvenskission feat gebbebra.md",
     "bilder/Pasted image 20241118175605.png",
-    "3.Klasse/mathe/3kl mathe.md",
     "3.Klasse/nwt/Auto Ip-Bereich.md",
     "3.Klasse/nwt/3kl nwt.md",
     "bilder/EtherChannel 10-01-2025-26.excalidraw.md",
     "3.Klasse/nwt/configure a cisco IOS DHCPv4 Server.md",
     "bilder/Pasted image 20250110110940.png",
-    "3.Klasse/nwt/Configuring EtherChanel.md",
     "3.Klasse/nwt/Configuring EtherChanel.md~",
-    "3.Klasse/nwt/EtherChannel (LAG).md",
     "3.Klasse/nwt/EtherChannel (LAG).md~",
     "bilder/Pasted image 20250110094005.png",
-    "Zeichnungen/DR09-01-2025-47.excalidraw.md",
     "3.Klasse/nwt/aufgaben/router-on-a-stick/Fürst_Raichle_Router_InterVLAN_Routing.tex~",
     "3.Klasse/nwt/aufgaben/router-on-a-stick/Fürst_Raichle_Router_InterVLAN_Routing.synctex(busy)",
     "3.Klasse/nwt/aufgaben/router-on-a-stick/lualatex105805.fls",
@@ -182,7 +199,6 @@
     "3.Klasse/nwt/aufgaben/router-on-a-stick/lualatex105680.fls",
     "3.Klasse/nwt/aufgaben/router-on-a-stick/images/tpologie.png",
     "Zeichnungen/DR09-01-2025-47.excalidraw.png",
-    "bilder/Pasted Image 20250109225019_480.png",
-    "3.Klasse/ggp/der demopgrahise wandel.md"
+    "bilder/Pasted Image 20250109225019_480.png"
   ]
 }
