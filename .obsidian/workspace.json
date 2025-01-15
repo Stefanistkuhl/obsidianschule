@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Kommunaktion oder so"
             }
+          },
+          {
+            "id": "5f60d5f4fc4c10db",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/Kommunaktion oder so 15-01-2025-55.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Kommunaktion oder so 15-01-2025-55.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,10 +153,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8ba9d1ae49cdae25",
+  "active": "5f60d5f4fc4c10db",
   "lastOpenFiles": [
-    "3.Klasse/Ipt/3kl itp.md",
     "3.Klasse/Ipt/Kommunaktion oder so.md",
+    "bilder/Kommunaktion oder so 15-01-2025-55.excalidraw.md",
+    "3.Klasse/Ipt/3kl itp.md",
     "3.Klasse/insy/2.Normalform.md",
     "3.Klasse/insy/Normalisierung.md",
     "3.Klasse/insy/3.Normalform.md",
@@ -169,7 +183,6 @@
     "3.Klasse/englisch/3kl eng.md",
     "3.Klasse/3te Klasse.md",
     "3.Klasse/englisch/Englisch.md",
-    "3.Klasse/mathe/2.Sa thing yfear.md",
     "bilder/Pasted image 20250112160647.png",
     "bilder/Pasted image 20250112160510.png",
     "bilder/Pasted image 20241118175605.png",
