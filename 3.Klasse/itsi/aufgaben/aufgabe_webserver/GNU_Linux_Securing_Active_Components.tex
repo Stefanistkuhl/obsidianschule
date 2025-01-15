@@ -222,7 +222,7 @@ EXPOSE 38452 80 443
 \subsection{Installing an active component}
 
 Now, it's required to install a web server. I chose Nginx because I am most familiar with it, and due to its high performance and simplicity of use.\abc
-It’s installed and run by adding these lines to the Dockerfile and including \texttt{service nginx start} on the last line.\footnote{While \texttt{init.d} has been deprecated in distributions such as RHEL and Oracle Linux, on Ubuntu it's not yet deprecated but considered legacy. Since this is a Docker container that's supposed to be isolated, \texttt{adding} systemd would break that isolation since it changes many low-level parameters. Almost all of its features besides process management are useless to me, so I opted for \texttt{init.d} since it doesn't require any further setup, doesn't break isolation, or add unnecessary weight.}
+It’s installed and run by adding these lines to the Dockerfile and including \texttt{service nginx start} on the last line.\footnote{While \texttt{init.d} has been deprecated in distributions such as RHEL and Oracle Linux, on Ubuntu it's not yet deprecated but considered legacy. Since this is a Docker container that's supposed to be isolated, adding \texttt{systemd} would break that isolation since it changes many low-level parameters. Almost all of its features besides process management are useless to me, so I opted for \texttt{init.d} since it doesn't require any further setup, doesn't break isolation, or add unnecessary weight.}
 \begin{lstlisting}[language=bash]
 ...
 RUN apt install -y nginx
@@ -233,8 +233,8 @@ After modifying the Dockerfile, rebuilding, and redeploying, if we now open the 
 \begin{figure}[h]
 	\includegraphics[scale=0.2]{images/nginx.png}
 	\centering
-	\caption{Default nginx site}
-\end{figure}\footnote{The IP and port are different since, initially, I used a VPS that already had a web server running, so I had to change the port. After that, I switched to a new VPS, which will be used for the rest of the exercise.}\abc
+	\caption[erm]{Default nginx site\footnotemark}
+\end{figure}\abc\footnotetext{The IP and port are different since, initially, I used a VPS that already had a web server running, so I had to change the port. After that, I switched to a new VPS, which will be used for the rest of the exercise.}\abc
 The HTML site displayed is located at \texttt{/var/www/html/index.nginx-debian.html}.
 Additionally, I replaced the \texttt{/var/www/html} directory with \texttt{/var/www/metyr.xyz}, in which I have the following file structure:
 \begin{lstlisting}[language=bash]

@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex GNU_Linux_Securing_Active_Components"] 1736105969.43648 "GNU_Linux_Securing_Active_Components.aux" "GNU_Linux_Securing_Active_Components.bbl" "GNU_Linux_Securing_Active_Components" 1736966163.42305 0
+["bibtex GNU_Linux_Securing_Active_Components"] 1736966533.71824 "GNU_Linux_Securing_Active_Components.aux" "GNU_Linux_Securing_Active_Components.bbl" "GNU_Linux_Securing_Active_Components" 1736966761.00082 0
   "./quellen.bib" 1736104234.51074 3658 e2cf4a2c45121c83e2db5ab5f3f66a73 ""
   "/opt/texlive/2024/texmf-dist/bibtex/bib/ieeetran/IEEEabrv.bib" 1729016948 20898 a5d2167c380db7dfff810b085c77ed63 ""
   "/opt/texlive/2024/texmf-dist/bibtex/bst/ieeetran/IEEEtran.bst" 1729016948 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "GNU_Linux_Securing_Active_Components.aux" 1736966162.87033 5968 0739896a979a8224b3b001e11fcaaa46 "lualatex"
+  "GNU_Linux_Securing_Active_Components.aux" 1736966760.48958 5953 e5e7cda774df571e0032b1e31318a794 "lualatex"
   (generated)
   "GNU_Linux_Securing_Active_Components.bbl"
   "GNU_Linux_Securing_Active_Components.blg"
   (rewritten before read)
-["lualatex"] 1736966160.06669 "GNU_Linux_Securing_Active_Components.tex" "GNU_Linux_Securing_Active_Components.pdf" "GNU_Linux_Securing_Active_Components" 1736966163.42322 0
+["lualatex"] 1736966757.65868 "GNU_Linux_Securing_Active_Components.tex" "GNU_Linux_Securing_Active_Components.pdf" "GNU_Linux_Securing_Active_Components" 1736966761.00099 0
   "/home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc" 1730474415.20716 81831 1e55f7d413926e3d119e4370905a9489 ""
   "/home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmmono8-regular.luc" 1736966150.98338 81434 cf77a47fe2ba295d1fd2d4d2589f15a7 ""
   "/home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc" 1730474414.62049 128404 28b49989deeee2fef4bad54ea4ff03b7 ""
@@ -180,12 +180,12 @@
   "/opt/texlive/2024/texmf-dist/tex/luatex/luaotfload/luaotfload.lua" 1729016948 13565 50482dad4c221a79dbdbb982122baf8c ""
   "/opt/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1729016948 5474839 35cc53a4aba5d7acf580f82c98bda701 ""
   "/opt/texlive/2024/texmf-var/web2c/luahbtex/lualatex.fmt" 1729016948 5627683 ec51dd1c20e290e9cda42431b3ff2ef6 ""
-  "GNU_Linux_Securing_Active_Components.aux" 1736966162.87033 5968 0739896a979a8224b3b001e11fcaaa46 "lualatex"
-  "GNU_Linux_Securing_Active_Components.bbl" 1736105969.52387 4715 8b9a841f3740af810f39d2c5eb1eb62a "bibtex GNU_Linux_Securing_Active_Components"
-  "GNU_Linux_Securing_Active_Components.lof" 1736966162.87366 2079 dde0592eb16bba0a9d6ff1c13f902333 "lualatex"
-  "GNU_Linux_Securing_Active_Components.out" 1736966162.87366 3064 a3587f7e6ccb9bec10c190d99fb4b840 "lualatex"
-  "GNU_Linux_Securing_Active_Components.tex" 1736966158.63689 24604 238f3fb8f18b4dbd28a00cf48aea4b4f ""
-  "GNU_Linux_Securing_Active_Components.toc" 1736966162.87366 1455 d0992eb521e95ab9649d001a7ed8e5d1 "lualatex"
+  "GNU_Linux_Securing_Active_Components.aux" 1736966760.48958 5953 e5e7cda774df571e0032b1e31318a794 "lualatex"
+  "GNU_Linux_Securing_Active_Components.bbl" 1736966533.81287 4715 8b9a841f3740af810f39d2c5eb1eb62a "bibtex GNU_Linux_Securing_Active_Components"
+  "GNU_Linux_Securing_Active_Components.lof" 1736966760.49291 2064 3ab32528a23e87dc95413289970b1b34 "lualatex"
+  "GNU_Linux_Securing_Active_Components.out" 1736966760.48958 3064 a3587f7e6ccb9bec10c190d99fb4b840 "lualatex"
+  "GNU_Linux_Securing_Active_Components.tex" 1736966755.84633 24630 52ffce9fc59f436eee8d4e1b41856fbe ""
+  "GNU_Linux_Securing_Active_Components.toc" 1736966760.49291 1455 d0992eb521e95ab9649d001a7ed8e5d1 "lualatex"
   "images/dnsentry.png" 1736102560.45429 157023 c9e266409df514b7a48982c040567f65 ""
   "images/indexphp.png" 1736016731.81351 9433 0d4be071f1beba22a41e5d81e2d65391 ""
   "images/logo.png" 1735995566.08985 5251 cc1f58f2715d780a35156b77ab1d3f18 ""
