@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.10.15)  15 JAN 2025 20:55
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.10.15)  15 JAN 2025 20:57
  restricted system commands enabled.
  file:line:error style messages enabled.
 **GNU_Linux_Securing_Active_Components.tex
@@ -749,21 +749,15 @@ warning  (pdf backend): ignoring duplicate destination with the name 'figure.15'
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 421.
+Package luatex.def Info: images/logo.png  used on input line 413.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [13]
-
-File: images/logo.png Graphic file (type png)
-<use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 423.
-(luatex.def)             Requested size: 186.09352pt x 55.10535pt.
-[14]
-<images/unseccert.png, id=386, 1282.7925pt x 965.6075pt>
+<images/unseccert.png, id=375, 1282.7925pt x 965.6075pt>
 File: images/unseccert.png Graphic file (type png)
 <use images/unseccert.png>
 Package luatex.def Info: images/unseccert.png  used on input line 425.
 (luatex.def)             Requested size: 320.69734pt x 241.40128pt.
-<images/selfcert.png, id=387, 1730.465pt x 1002.74625pt>
+<images/selfcert.png, id=376, 1730.465pt x 1002.74625pt>
 File: images/selfcert.png Graphic file (type png)
 <use images/selfcert.png>
 Package luatex.def Info: images/selfcert.png  used on input line 431.
@@ -774,17 +768,15 @@ File: images/logo.png Graphic file (type png)
 <use images/logo.png>
 Package luatex.def Info: images/logo.png  used on input line 435.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
-[15
+[14
 warning  (pdf backend): ignoring duplicate destination with the name 'figure.16'
-
-warning  (pdf backend): ignoring duplicate destination with the name 'figure.17'
-<./images/unseccert.png><./images/selfcert.png>]
-<images/nohaxxor.png, id=394, 1595.9625pt x 856.19875pt>
+<./images/unseccert.png>]
+<images/nohaxxor.png, id=389, 1595.9625pt x 856.19875pt>
 File: images/nohaxxor.png Graphic file (type png)
 <use images/nohaxxor.png>
 Package luatex.def Info: images/nohaxxor.png  used on input line 438.
 (luatex.def)             Requested size: 319.18684pt x 171.23671pt.
-<images/dnsentry.png, id=398, 1181.41376pt x 580.1675pt>
+<images/dnsentry.png, id=393, 1181.41376pt x 580.1675pt>
 File: images/dnsentry.png Graphic file (type png)
 <use images/dnsentry.png>
 Package luatex.def Info: images/dnsentry.png  used on input line 449.
@@ -800,12 +792,12 @@ File: images/logo.png Graphic file (type png)
 <use images/logo.png>
 Package luatex.def Info: images/logo.png  used on input line 452.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
-[16
-warning  (pdf backend): ignoring duplicate destination with the name 'figure.18'
+[15
+warning  (pdf backend): ignoring duplicate destination with the name 'figure.17'
 
-warning  (pdf backend): ignoring duplicate destination with the name 'figure.19'
-<./images/nohaxxor.png><./images/dnsentry.png>]
-<images/nobs.png, id=410, 1593.955pt x 856.19875pt>
+warning  (pdf backend): ignoring duplicate destination with the name 'figure.18'
+<./images/selfcert.png><./images/nohaxxor.png>]
+<images/nobs.png, id=405, 1593.955pt x 856.19875pt>
 File: images/nobs.png Graphic file (type png)
 <use images/nobs.png>
 Package luatex.def Info: images/nobs.png  used on input line 467.
@@ -821,15 +813,17 @@ File: images/logo.png Graphic file (type png)
 <use images/logo.png>
 Package luatex.def Info: images/logo.png  used on input line 471.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
-[17
+[16
+warning  (pdf backend): ignoring duplicate destination with the name 'figure.19'
+
 warning  (pdf backend): ignoring duplicate destination with the name 'figure.20'
-<./images/nobs.png>] (./GNU_Linux_Securing_Active_Components.bbl)
+<./images/dnsentry.png><./images/nobs.png>] (./GNU_Linux_Securing_Active_Components.bbl)
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
 Package luatex.def Info: images/logo.png  used on input line 474.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
-[18] (./GNU_Linux_Securing_Active_Components.lof)
+[17] (./GNU_Linux_Securing_Active_Components.lof)
 \tf@lof=\write6
 
 \openout6 = GNU_Linux_Securing_Active_Components.lof
@@ -839,7 +833,7 @@ File: images/logo.png Graphic file (type png)
 <use images/logo.png>
 Package luatex.def Info: images/logo.png  used on input line 479.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
-[19] (./GNU_Linux_Securing_Active_Components.aux)
+[18] (./GNU_Linux_Securing_Active_Components.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
@@ -849,19 +843,19 @@ Package rerunfilecheck Info: File `GNU_Linux_Securing_Active_Components.out' has
 )
 
 Here is how much of LuaTeX's memory you used:
- 18810 strings out of 475910
+ 18806 strings out of 475910
  156329,1373583 words of node,token memory allocated
  540 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 6 glue, 3 kern, 1 glyph, 15 attribute, 52 glue_spec, 15 attribute_list, 1 write, 7 pdf_action nodes
-   avail lists: 1:1,2:3608,3:441,4:1024,5:982,6:109,7:10651,8:120,9:4075,10:15,11:500
+   avail lists: 1:2,2:3414,3:441,4:1024,5:981,6:103,7:10279,8:120,9:3853,10:15,11:500
  40767 multiletter control sequences out of 65536+600000
  43 fonts using 3287615 bytes
- 79i,17n,89p,713b,816s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,16n,89p,713b,646s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmmono8-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman8-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman6-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman7-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></opt/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on GNU_Linux_Securing_Active_Components.pdf (19 pages, 11136570 bytes).
+Output written on GNU_Linux_Securing_Active_Components.pdf (18 pages, 11136243 bytes).
 
-PDF statistics: 551 PDF objects out of 1000 (max. 8388607)
- 474 compressed objects within 5 object streams
- 249 named destinations out of 1000 (max. 131072)
+PDF statistics: 547 PDF objects out of 1000 (max. 8388607)
+ 471 compressed objects within 5 object streams
+ 248 named destinations out of 1000 (max. 131072)
  129 words of extra memory for PDF output out of 10000 (max. 100000000)
 
