@@ -308,12 +308,12 @@ RUN echo -n "$ZIVK_WEBUSER_PW" | htpasswd -i /etc/apache2/.htpasswd zivk-webuser
 \subsubsection{Configuring the authentication in Nginx and testing it}
 To require authentication for a specific area on the website, we need to create a location block that matches everything in the \texttt{/private} directory. To do this, Nginx URL matching is used.\cite{Nginx-url-matching}\abc
 It offers the following operators:
-\begin{lstlisting}[basicstyle=\color{black}\ttfamily,]
-= An exact match of the URI path\abc
-~ A case-sensitive regular expression match.
-~* A case-insensitive regular expression match.
-^~ Indicates that the following path should be considered the best
-    non-regular expression match.
+\begin{lstlisting}[language=bash]
+= #An exact match of the URI path\abc
+~ #A case-sensitive regular expression match.
+~* #A case-insensitive regular expression match.
+^~ #Indicates that the following path should be considered the best
+   #non-regular expression match.
 \end{lstlisting}
 \begin{lstlisting}[language=bash]
 #matching everything that contains /private in the path.
@@ -381,7 +381,7 @@ req #subcommand to specify useing an X.509 certificate signing request(CSR)
 -nodes #tells openssl not to secure the key with a passphrase since nginx needs
        #to be able to read the file without user intervention
 -days 365 #sets the length of time that the certificate will be considered valid
--newkey rsa:2048 #creatse a new 2048-bit long rsa key at the same time, which 
+-newkey rsa:2048 #creates a new 2048-bit long rsa key at the same time, which 
                  #is required to sign the certificate
 -keyout #output location of the private key
 -out #output location of the certificate
@@ -409,6 +409,15 @@ server{
 	# setting the ssl certificate key file
         ssl_certificate_key /etc/ssl/private/nginx-selfsigned.key;
 	...
+}
+\end{lstlisting}
+After setting up \texttt{https}
+\begin{lstlisting}
+server {
+	listen 80;
+	listen [::]:80;
+	server_name _;
+	return 301 https://$server_name$request_uri;	
 }
 \end{lstlisting}
 \newpage
