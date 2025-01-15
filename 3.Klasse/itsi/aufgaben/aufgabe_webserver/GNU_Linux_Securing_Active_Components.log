@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.10.15)  5 JAN 2025 20:58
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.10.15)  15 JAN 2025 19:36
  restricted system commands enabled.
  file:line:error style messages enabled.
 **GNU_Linux_Securing_Active_Components.tex
@@ -635,7 +635,7 @@ File: images/logo.png Graphic file (type png)
 Package luatex.def Info: images/logo.png  used on input line 221.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [7]
-<images/nginx.png, id=206, 1664.2175pt x 807.015pt>
+<images/nginx.png, id=207, 1664.2175pt x 807.015pt>
 File: images/nginx.png Graphic file (type png)
 <use images/nginx.png>
 Package luatex.def Info: images/nginx.png  used on input line 234.
@@ -653,12 +653,12 @@ Overfull \hbox (2.3081pt too wide) in paragraph at lines 263--264
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-<images/indexphp.png, id=231, 510.90875pt x 242.9075pt>
+<images/indexphp.png, id=234, 510.90875pt x 242.9075pt>
 File: images/indexphp.png Graphic file (type png)
 <use images/indexphp.png>
 Package luatex.def Info: images/indexphp.png  used on input line 291.
 (luatex.def)             Requested size: 229.90681pt x 109.30736pt.
-<images/privatphp.png, id=232, 1208.515pt x 615.29875pt>
+<images/privatphp.png, id=235, 1208.515pt x 615.29875pt>
 File: images/privatphp.png Graphic file (type png)
 <use images/privatphp.png>
 Package luatex.def Info: images/privatphp.png  used on input line 296.
@@ -690,22 +690,22 @@ Package luatex.def Info: images/logo.png  used on input line 330.
 [10
 warning  (pdf backend): ignoring duplicate destination with the name 'figure.9'
 <./images/privatphp.png>]
-<images/siginprompt.png, id=301, 1189.44376pt x 413.545pt>
+<images/siginprompt.png, id=304, 1189.44376pt x 413.545pt>
 File: images/siginprompt.png Graphic file (type png)
 <use images/siginprompt.png>
 Package luatex.def Info: images/siginprompt.png  used on input line 332.
 (luatex.def)             Requested size: 297.36021pt x 103.38599pt.
-<images/noauth.png, id=302, 772.8875pt x 164.615pt>
+<images/noauth.png, id=305, 772.8875pt x 164.615pt>
 File: images/noauth.png Graphic file (type png)
 <use images/noauth.png>
 Package luatex.def Info: images/noauth.png  used on input line 337.
 (luatex.def)             Requested size: 293.7003pt x 62.55434pt.
-<images/zivk_webuser.png, id=303, 1176.395pt x 653.44125pt>
+<images/zivk_webuser.png, id=306, 1176.395pt x 653.44125pt>
 File: images/zivk_webuser.png Graphic file (type png)
 <use images/zivk_webuser.png>
 Package luatex.def Info: images/zivk_webuser.png  used on input line 342.
 (luatex.def)             Requested size: 294.09804pt x 163.35991pt.
-<images/ram_webuser.png, id=304, 1203.49625pt x 661.47125pt>
+<images/ram_webuser.png, id=307, 1203.49625pt x 661.47125pt>
 File: images/ram_webuser.png Graphic file (type png)
 <use images/ram_webuser.png>
 Package luatex.def Info: images/ram_webuser.png  used on input line 347.
@@ -725,12 +725,12 @@ warning  (pdf backend): ignoring duplicate destination with the name 'figure.12'
 
 warning  (pdf backend): ignoring duplicate destination with the name 'figure.13'
 <./images/siginprompt.png><./images/noauth.png><./images/zivk_webuser.png><./images/ram_webuser.png>]
-<images/zivk_snifa.png, id=314, 1594.95876pt x 858.20625pt>
+<images/zivk_snifa.png, id=317, 1594.95876pt x 858.20625pt>
 File: images/zivk_snifa.png Graphic file (type png)
 <use images/zivk_snifa.png>
 Package luatex.def Info: images/zivk_snifa.png  used on input line 354.
 (luatex.def)             Requested size: 398.73871pt x 214.55104pt.
-<images/ram_snifa.png, id=315, 1595.9625pt x 858.20625pt>
+<images/ram_snifa.png, id=318, 1595.9625pt x 858.20625pt>
 File: images/ram_snifa.png Graphic file (type png)
 <use images/ram_snifa.png>
 Package luatex.def Info: images/ram_snifa.png  used on input line 359.
@@ -752,39 +752,39 @@ File: images/logo.png Graphic file (type png)
 Package luatex.def Info: images/logo.png  used on input line 414.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [13]
-<images/badgoober.png, id=371, 1099.10625pt x 975.645pt>
-File: images/badgoober.png Graphic file (type png)
-<use images/badgoober.png>
-Package luatex.def Info: images/badgoober.png  used on input line 417.
-(luatex.def)             Requested size: 274.77588pt x 243.91064pt.
-<images/selfcert.png, id=372, 1913.1475pt x 1025.8325pt>
+<images/unseccert.png, id=375, 1282.7925pt x 965.6075pt>
+File: images/unseccert.png Graphic file (type png)
+<use images/unseccert.png>
+Package luatex.def Info: images/unseccert.png  used on input line 416.
+(luatex.def)             Requested size: 320.69734pt x 241.40128pt.
+<images/selfcert.png, id=376, 1730.465pt x 1002.74625pt>
 File: images/selfcert.png Graphic file (type png)
 <use images/selfcert.png>
-Package luatex.def Info: images/selfcert.png  used on input line 423.
-(luatex.def)             Requested size: 382.62273pt x 205.16287pt.
+Package luatex.def Info: images/selfcert.png  used on input line 422.
+(luatex.def)             Requested size: 346.08687pt x 200.5457pt.
 
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 427.
+Package luatex.def Info: images/logo.png  used on input line 426.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [14
 warning  (pdf backend): ignoring duplicate destination with the name 'figure.16'
 
 warning  (pdf backend): ignoring duplicate destination with the name 'figure.17'
-<./images/badgoober.png><./images/selfcert.png>]
-<images/nohaxxor.png, id=380, 1595.9625pt x 856.19875pt>
+<./images/unseccert.png><./images/selfcert.png>]
+<images/nohaxxor.png, id=383, 1595.9625pt x 856.19875pt>
 File: images/nohaxxor.png Graphic file (type png)
 <use images/nohaxxor.png>
-Package luatex.def Info: images/nohaxxor.png  used on input line 430.
+Package luatex.def Info: images/nohaxxor.png  used on input line 429.
 (luatex.def)             Requested size: 319.18684pt x 171.23671pt.
-<images/dnsentry.png, id=384, 1181.41376pt x 580.1675pt>
+<images/dnsentry.png, id=387, 1181.41376pt x 580.1675pt>
 File: images/dnsentry.png Graphic file (type png)
 <use images/dnsentry.png>
-Package luatex.def Info: images/dnsentry.png  used on input line 441.
+Package luatex.def Info: images/dnsentry.png  used on input line 440.
 (luatex.def)             Requested size: 354.42686pt x 174.05157pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 435--444
+Underfull \hbox (badness 10000) in paragraph at lines 434--443
 
  []
 
@@ -792,20 +792,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 435--444
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 444.
+Package luatex.def Info: images/logo.png  used on input line 443.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [15
 warning  (pdf backend): ignoring duplicate destination with the name 'figure.18'
 
 warning  (pdf backend): ignoring duplicate destination with the name 'figure.19'
 <./images/nohaxxor.png><./images/dnsentry.png>]
-<images/nobs.png, id=396, 1593.955pt x 856.19875pt>
+<images/nobs.png, id=399, 1593.955pt x 856.19875pt>
 File: images/nobs.png Graphic file (type png)
 <use images/nobs.png>
-Package luatex.def Info: images/nobs.png  used on input line 459.
+Package luatex.def Info: images/nobs.png  used on input line 458.
 (luatex.def)             Requested size: 318.78535pt x 171.23671pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 456--463
+Underfull \hbox (badness 10000) in paragraph at lines 455--462
 
  []
 
@@ -813,7 +813,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 456--463
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 463.
+Package luatex.def Info: images/logo.png  used on input line 462.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [16
 warning  (pdf backend): ignoring duplicate destination with the name 'figure.20'
@@ -821,7 +821,7 @@ warning  (pdf backend): ignoring duplicate destination with the name 'figure.20'
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 466.
+Package luatex.def Info: images/logo.png  used on input line 465.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [17] (./GNU_Linux_Securing_Active_Components.lof)
 \tf@lof=\write6
@@ -831,7 +831,7 @@ Package luatex.def Info: images/logo.png  used on input line 466.
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 471.
+Package luatex.def Info: images/logo.png  used on input line 470.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [18] (./GNU_Linux_Securing_Active_Components.aux)
  ***********
@@ -843,19 +843,19 @@ Package rerunfilecheck Info: File `GNU_Linux_Securing_Active_Components.out' has
 )
 
 Here is how much of LuaTeX's memory you used:
- 18827 strings out of 475910
- 156327,1373583 words of node,token memory allocated
- 518 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 4 glue, 3 kern, 1 glyph, 13 attribute, 52 glue_spec, 13 attribute_list, 1 write, 7 pdf_action nodes
-   avail lists: 1:1,2:3414,3:441,4:1024,5:969,6:103,7:10277,8:120,9:3853,10:15,11:500
- 40796 multiletter control sequences out of 65536+600000
- 42 fonts using 3161527 bytes
- 79i,16n,89p,697b,646s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman8-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman6-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman7-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></opt/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on GNU_Linux_Securing_Active_Components.pdf (18 pages, 12064634 bytes).
+ 18829 strings out of 475910
+ 156329,1373583 words of node,token memory allocated
+ 540 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 6 glue, 3 kern, 1 glyph, 15 attribute, 52 glue_spec, 15 attribute_list, 1 write, 7 pdf_action nodes
+   avail lists: 1:2,2:3414,3:441,4:1024,5:969,6:103,7:10279,8:120,9:3853,10:15,11:500
+ 40797 multiletter control sequences out of 65536+600000
+ 43 fonts using 3287615 bytes
+ 79i,16n,89p,713b,646s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmmono8-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman8-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman6-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman7-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></opt/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on GNU_Linux_Securing_Active_Components.pdf (18 pages, 11135249 bytes).
 
-PDF statistics: 531 PDF objects out of 1000 (max. 8388607)
- 458 compressed objects within 5 object streams
- 240 named destinations out of 1000 (max. 131072)
+PDF statistics: 540 PDF objects out of 1000 (max. 8388607)
+ 464 compressed objects within 5 object streams
+ 241 named destinations out of 1000 (max. 131072)
  129 words of extra memory for PDF output out of 10000 (max. 100000000)
 

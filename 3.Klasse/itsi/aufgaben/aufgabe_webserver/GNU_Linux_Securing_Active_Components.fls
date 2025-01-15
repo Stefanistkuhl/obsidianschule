@@ -195,6 +195,7 @@ INPUT /opt/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /opt/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT ./images/logo.png
 INPUT ./images/logo.png
+INPUT /home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmmono8-regular.luc
 INPUT ./images/nginx.png
 INPUT ./images/nginx.png
 INPUT ./images/logo.png
@@ -219,8 +220,8 @@ INPUT ./images/ram_snifa.png
 INPUT ./images/ram_snifa.png
 INPUT ./images/logo.png
 INPUT ./images/logo.png
-INPUT ./images/badgoober.png
-INPUT ./images/badgoober.png
+INPUT ./images/unseccert.png
+INPUT ./images/unseccert.png
 INPUT ./images/selfcert.png
 INPUT ./images/selfcert.png
 INPUT ./images/logo.png

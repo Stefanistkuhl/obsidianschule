@@ -222,7 +222,7 @@ EXPOSE 38452 80 443
 \subsection{Installing an active component}
 
 Now, it's required to install a web server. I chose Nginx because I am most familiar with it, and due to its high performance and simplicity of use.\abc
-It’s installed and run by adding these lines to the Dockerfile and including \texttt{service nginx start} on the last line.
+It’s installed and run by adding these lines to the Dockerfile and including \texttt{service nginx start} on the last line.\footnote{While \texttt{init.d} has been deprecated in distributions such as RHEL and Oracle Linux, on Ubuntu it's not yet deprecated but considered legacy. Since this is a Docker container that's supposed to be isolated, \texttt{adding} systemd would break that isolation since it changes many low-level parameters. Almost all of its features besides process management are useless to me, so I opted for \texttt{init.d} since it doesn't require any further setup, doesn't break isolation, or add unnecessary weight.}
 \begin{lstlisting}[language=bash]
 ...
 RUN apt install -y nginx
@@ -412,13 +412,12 @@ server{
 }
 \end{lstlisting}
 \newpage
-If we reload the Nginx configuration, our browser is going to give us a security warning since it recognizes that the certificate was not signed by a trusted organization but by ourselves. Also, this screenshot was taken after I set up the domain, but it doesn't matter if the IP or the domain is displayed here.
-\begin{figure}[!htbp]
-	\includegraphics[scale=0.25]{images/badgoober.png}
+If we reload the Nginx configuration, our browser is going to give us a security warning since it recognizes that the certificate was not signed by a trusted organization but by ourselves. \begin{figure}[!htbp]
+	\includegraphics[scale=0.25]{images/unseccert.png}
 	\centering
 	\caption{Browser warning for untrusted certificate}
-\end{figure}
-If we accept the risk and continue, we can inspect the certificate by clicking on the lock or settings symbol in the address bar of the browser, and then selecting "View Certificate." How you access the certificate may vary from browser to browser, though.
+\end{figure}\abc
+If we accept the risk and continue, we can inspect the certificate by clicking "View Certificate."
 \begin{figure}[!htbp]
 	\includegraphics[scale=0.2]{images/selfcert.png}
 	\centering
