@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "56b334c14327a7cd",
+        "id": "e34aae6a38f0e6f6",
         "type": "tabs",
         "children": [
           {
-            "id": "8ba9d1ae49cdae25",
+            "id": "b2f1c2da86a7be6c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/Ipt/Kommunaktion oder so.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Kommunaktion oder so"
-            }
-          },
-          {
-            "id": "5f60d5f4fc4c10db",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/Kommunaktion oder so 15-01-2025-55.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Kommunaktion oder so 15-01-2025-55.excalidraw"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +136,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5f60d5f4fc4c10db",
+  "active": "b2f1c2da86a7be6c",
   "lastOpenFiles": [
     "3.Klasse/Ipt/Kommunaktion oder so.md",
     "bilder/Kommunaktion oder so 15-01-2025-55.excalidraw.md",
