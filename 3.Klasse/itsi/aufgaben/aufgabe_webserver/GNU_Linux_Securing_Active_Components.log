@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.10.15)  15 JAN 2025 19:45
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.10.15)  15 JAN 2025 20:35
  restricted system commands enabled.
  file:line:error style messages enabled.
 **GNU_Linux_Securing_Active_Components.tex
@@ -852,7 +852,7 @@ Here is how much of LuaTeX's memory you used:
  43 fonts using 3287615 bytes
  79i,16n,89p,713b,646s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmmono8-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman8-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman6-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman7-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></opt/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on GNU_Linux_Securing_Active_Components.pdf (18 pages, 11135385 bytes).
+Output written on GNU_Linux_Securing_Active_Components.pdf (18 pages, 11135387 bytes).
 
 PDF statistics: 540 PDF objects out of 1000 (max. 8388607)
  464 compressed objects within 5 object streams

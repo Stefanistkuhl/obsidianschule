@@ -308,7 +308,7 @@ RUN echo -n "$ZIVK_WEBUSER_PW" | htpasswd -i /etc/apache2/.htpasswd zivk-webuser
 \subsubsection{Configuring the authentication in Nginx and testing it}
 To require authentication for a specific area on the website, we need to create a location block that matches everything in the \texttt{/private} directory. To do this, Nginx URL matching is used.\cite{Nginx-url-matching}\abc
 It offers the following operators:
-\begin{lstlisting}
+\begin{lstlisting}[basicstyle=\color{black}\ttfamily,]
 = An exact match of the URI path\abc
 ~ A case-sensitive regular expression match.
 ~* A case-insensitive regular expression match.
