@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "aa3c55edac563b91",
+        "id": "6d15ba09424ff6fc",
         "type": "tabs",
         "children": [
           {
-            "id": "ff0db45b14a50215",
+            "id": "c46b82ba597e9283",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/itsi/Nmap.md",
+                "file": "3.Klasse/ggp/3kl GGP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nmap"
-            }
-          },
-          {
-            "id": "8d2fd954f4ca6d62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/itsi/hydra.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "hydra"
+              "title": "3kl GGP"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,10 +140,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8d2fd954f4ca6d62",
+  "active": "c46b82ba597e9283",
   "lastOpenFiles": [
     "3.Klasse/itsi/Nmap.md",
     "3.Klasse/itsi/hydra.md",
+    "cyber chef.md",
+    "cybercehe.md",
     "3.Klasse/itsi/tools für ethical hacking.md",
     "3.Klasse/itsi/Angriffs Vektoren.md",
     "3.Klasse/itsi/aufgaben/aufgabe_webserver/a/GRP-7-Raichle-Fürst-Lab-4.zip",
@@ -193,8 +180,6 @@
     "bilder/Wirtschaftssektoren Zettel 13-01-2025-44.excalidraw.md",
     "bilder/Pasted Image 20250113105054_532.png",
     "bilder/Pasted Image 20250113105047_804.png",
-    "3.Klasse/ggp/3kl GGP.md",
-    "3.Klasse/englisch/table of content.md",
     "bilder/Pasted image 20250112160647.png",
     "bilder/Pasted image 20250112160510.png",
     "bilder/Pasted image 20241118175605.png",
