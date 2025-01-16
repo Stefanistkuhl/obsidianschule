@@ -15,3 +15,4 @@ tags:
 [[industrialisierung]]
 [[der demopgrahise wandel]]
 [[Wirtschaftssektoren Zettel]]
+[[industrile revolutionen dlc]]
