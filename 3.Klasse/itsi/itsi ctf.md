@@ -43,3 +43,7 @@ https://medium.com/techiepedia/series-of-ctf-machines-walkthrough-4-linux-privil
 `ls -R * 2>dev/null| grep -i flag`
 `cat /usr/local/bin/flag_process.sh`
 ![[Pasted image 20250117204436.png]]
+![[Pasted image 20250117211103.png]]
+![[Pasted image 20250117211250.png]]
+![[Pasted image 20250117211407.png]]
+![[Pasted image 20250117211426.png]]
