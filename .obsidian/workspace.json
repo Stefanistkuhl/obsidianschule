@@ -11,10 +11,14 @@
             "id": "2ef2afabba18630d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/itsi/itsi ctf.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "itsi ctf"
             }
           }
         ]
@@ -132,14 +136,25 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "2ef2afabba18630d",
   "lastOpenFiles": [
-    "itsi ctf.md",
+    "bilder/Pasted image 20250117180747.png",
+    "bilder/Pasted image 20250117180729.png",
+    "bilder/Pasted image 20250117180611.png",
+    "bilder/Pasted image 20250117180335.png",
+    "bilder/Pasted image 20250117180209.png",
+    "bilder/Pasted image 20250117180113.png",
+    "bilder/Pasted image 20250117180037.png",
+    "bilder/Pasted image 20250117180023.png",
+    "bilder/Pasted image 20250117180005.png",
+    "bilder/Pasted image 20250117175921.png",
+    "bilder/Pasted image 20250117175813.png",
+    "3.Klasse/itsi/itsi ctf.md",
     "Cyber Killchain.md",
-    "bilder/Pasted image 20250117082551.png",
     "3.Klasse/ggp/industrile revolutionen dlc.md",
     "latex/template/itsi/template.tex~",
     "3.Klasse/ggp/3kl GGP.md",
@@ -172,16 +187,6 @@
     "bilder/Vektoren 14-01-2025-05.excalidraw.md",
     "bilder/Vektoren 14-01-2025-18.excalidraw.md",
     "3.Klasse/mathe/3kl mathe.md",
-    "3.Klasse/Nawi/Proteinsynthese.md",
-    "bilder/Proteinsynthese 13-01-2025-19.excalidraw.md",
-    "bilder/Pasted Image 20250113105054_532.png",
-    "bilder/Pasted Image 20250113105047_804.png",
-    "bilder/Pasted image 20250112160647.png",
-    "bilder/Pasted image 20250112160510.png",
-    "bilder/Pasted image 20241118175605.png",
-    "bilder/Pasted image 20250110110940.png",
-    "bilder/Pasted image 20250110094005.png",
-    "3.Klasse/nwt/aufgaben/router-on-a-stick/images/tpologie.png",
-    "Zeichnungen/DR09-01-2025-47.excalidraw.png"
+    "3.Klasse/Nawi/Proteinsynthese.md"
   ]
 }
