@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "itsi ctf"
             }
-          },
-          {
-            "id": "84ff659397abc9ee",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "bilder/Pasted image 20250117195129.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250117195129"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,10 +140,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "84ff659397abc9ee",
+  "active": "2ef2afabba18630d",
   "lastOpenFiles": [
-    "3.Klasse/itsi/itsi ctf.md",
     "bilder/Pasted image 20250117195129.png",
+    "3.Klasse/itsi/itsi ctf.md",
     "bilder/Pasted image 20250117191545.png",
     "bilder/Pasted image 20250117191517.png",
     "bilder/Pasted image 20250117190434.png",

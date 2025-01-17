@@ -34,3 +34,5 @@ https://tylerrockwell.github.io/defeating-basic-auth-with-hydra/
 `hydra -l GrumpyCat -P pw.txt 192.168.15.3 ssh -t 4`
 `find -perm -4000 2> /dev/null`
 ![[Pasted image 20250117195129.png]]
+https://medium.com/techiepedia/series-of-ctf-machines-walkthrough-4-linux-privilege-escalation-enumeration-247899027be
+
