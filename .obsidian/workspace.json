@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3.Klasse/itsi/itsi ctf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for itsi ctf"
             }
           },
           {
@@ -142,8 +143,10 @@
   },
   "active": "2ef2afabba18630d",
   "lastOpenFiles": [
-    "bilder/Pasted image 20250117195129.png",
+    "bilder/Pasted image 20250117175813.png",
     "3.Klasse/itsi/itsi ctf.md",
+    "bilder/Pasted image 20250117232339.png",
+    "bilder/Pasted image 20250117195129.png",
     "bilder/Pasted image 20250117211426.png",
     "bilder/Pasted image 20250117211407.png",
     "bilder/Pasted image 20250117211250.png",
@@ -152,7 +155,6 @@
     "bilder/Pasted image 20250117202527.png",
     "bilder/Pasted image 20250117191545.png",
     "bilder/Pasted image 20250117191517.png",
-    "bilder/Pasted image 20250117190434.png",
     "Cyber Killchain.md",
     "3.Klasse/ggp/industrile revolutionen dlc.md",
     "latex/template/itsi/template.tex~",
