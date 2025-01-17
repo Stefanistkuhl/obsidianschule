@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a0fdac0e89e1b6dd",
+        "id": "e025cb98555f6591",
         "type": "tabs",
         "children": [
           {
-            "id": "7f9aff79818198ed",
+            "id": "2ef2afabba18630d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "itsi ctf.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "itsi ctf"
+              "title": "New tab"
             }
           }
         ]
@@ -140,10 +136,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7f9aff79818198ed",
+  "active": "2ef2afabba18630d",
   "lastOpenFiles": [
-    "Cyber Killchain.md",
     "itsi ctf.md",
+    "Cyber Killchain.md",
     "bilder/Pasted image 20250117082551.png",
     "3.Klasse/ggp/industrile revolutionen dlc.md",
     "latex/template/itsi/template.tex~",
