@@ -47,3 +47,4 @@ https://medium.com/techiepedia/series-of-ctf-machines-walkthrough-4-linux-privil
 ![[Pasted image 20250117211250.png]]
 ![[Pasted image 20250117211407.png]]
 ![[Pasted image 20250117211426.png]]
+https://www.exploit-db.com/exploits/42274
