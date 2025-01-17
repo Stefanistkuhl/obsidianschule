@@ -28,3 +28,4 @@ https://tylerrockwell.github.io/defeating-basic-auth-with-hydra/
 ![[Pasted image 20250117183153.png]]
 ![[Pasted image 20250117183736.png]]
 `ls -R *`
+![[Pasted image 20250117190434.png]]
