@@ -37,6 +37,9 @@ https://tylerrockwell.github.io/defeating-basic-auth-with-hydra/
 ![[Pasted image 20250117195129.png]]
 `cat /proc/741/cmdline`
 `find -name "ctf_server.py" 2> /dev/null`
+https://superuser.com/questions/632979/if-i-know-the-pid-number-of-a-process-how-can-i-get-its-name
 ![[Pasted image 20250117202527.png]]
 https://medium.com/techiepedia/series-of-ctf-machines-walkthrough-4-linux-privilege-escalation-enumeration-247899027be
-
+`ls -R * 2>dev/null| grep -i flag`
+`cat /usr/local/bin/flag_process.sh`
+![[Pasted image 20250117204436.png]]
