@@ -55,3 +55,8 @@ https://www.puckiestyle.nl/upgrading-netcat-shells-to-meterpreter-sessions/
 ![[Pasted image 20250117234351.png]]
 ![[Pasted image 20250117234356.png]]
 ![[Pasted image 20250117234535.png]]
+
+suid thing
+```bash
+find / -type f -perm -4001 -exec ls -h {} \; 2> /dev/null
+```
