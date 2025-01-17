@@ -22,6 +22,9 @@ https://tylerrockwell.github.io/defeating-basic-auth-with-hydra/
 `hydra -l user -P pw.txt -s 55487 -f 192.168.15.3 http-get /`
 ![[Pasted image 20250117182116.png]]
 ![[Pasted image 20250117182208.png]]
+`FLAG{use_secure_credentials}`
 ![[Pasted image 20250117183032.png]]
 ![[Pasted image 20250117183014.png]]
 ![[Pasted image 20250117183153.png]]
+![[Pasted image 20250117183736.png]]
+`ls -R *`
