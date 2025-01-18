@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:3te_Klasse",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,11 +88,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "691f8e91b0203e9f",
@@ -155,8 +157,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ea2aab27dfa7e1a1",
+  "active": "5dd08752c9b5644d",
   "lastOpenFiles": [
+    "bilder/Pasted image 20250118132017.png",
     "3.Klasse/itsi/aufgaben/ctf/scan2_sudo_user",
     "3.Klasse/itsi/aufgaben/ctf/scan1_non_sudo_user",
     "3.Klasse/itsi/aufgaben/ctf",
@@ -188,7 +191,6 @@
     "3.Klasse/itsi/aufgaben/aufgabe_webserver/GNU_Linux_Securing_Active_Components.tex~",
     "3.Klasse/itsi/aufgaben/aufgabe_webserver/GNU_Linux_Securing_Active_Components.synctex(busy)",
     "3.Klasse/itsi/aufgaben/aufgabe_webserver/lualatex79108.fls",
-    "3.Klasse/itsi/aufgaben/aufgabe_webserver/lualatex79097.fls",
     "3.Klasse/Ipt/Kommunaktion oder so.md",
     "bilder/Kommunaktion oder so 15-01-2025-55.excalidraw.md",
     "3.Klasse/Ipt/3kl itp.md",

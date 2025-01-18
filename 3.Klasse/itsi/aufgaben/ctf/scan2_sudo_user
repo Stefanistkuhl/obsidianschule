@@ -1,6 +1,6 @@
 CheerfulOtter@playground:~$ ./lse.sh 
 ---
-If you know the current user password, write it here to check sudo privileg                                                                                                                                                                es: password                                                                                                                                                                                                                               
+If you know the current user password, write it here to check sudo privileges: password                                                                                                                                                    
 ---
                                                                                                                                                                                                                                            
  LSE Version: 4.14nw                                                                                                                                                                                                                       
@@ -17,26 +17,26 @@ If you know the current user password, write it here to check sudo privileg     
 Distribution: Ubuntu 24.04.1 LTS
 Architecture: x86_64
 
-=====================( Current Output Verbosity Level: 0 )======================                                                                                                                                                                                                                                      
-===============================================================( humanity )=====                                                                                                                                                                                                                                      
-[!] nowar0 Should we question autocrats and their "military operations"?... yes!                                                                                                                                                                                                                                      
+=====================( Current Output Verbosity Level: 0 )======================
+===============================================================( humanity )=====
+[!] nowar0 Should we question autocrats and their "military operations"?... yes!
 ---
                                       NO   
                                       WAR  
 ---
-==================================================================( users )=====                                                                                                                                                                                                                                      
-[i] usr000 Current user groups............................................. yes!                                                                                                                                                                                                                                      
-[*] usr010 Is current user in an administrative group?..................... nope                                                                                                                                                                                                                                      
-[*] usr020 Are there other users in administrative groups?................. yes!                                                                                                                                                                                                                                      
-[*] usr030 Other users with shell.......................................... yes!                                                                                                                                                                                                                                      
-[i] usr040 Environment information......................................... skip                                                                                                                                                                                                                                      
-[i] usr050 Groups for other users..........................................                                                                                                                                                                 skip                                                                                                                                                                                                                                      
-[i] usr060 Other users.....................................................                                                                                                                                                                 skip                                                                                                                                                                                                                                      
-[*] usr070 PATH variables defined inside /etc..............................                                                                                                                                                                 yes!                                                                                                                                                                                                                                      
-[!] usr080 Is '.' in a PATH variable defined inside /etc?.................. nope                                                                                                                                                                                                                                      
-===================================================================( sudo )=====                                                                                                                                                                                                                                      
-[!] sud000 Can we sudo without a password?................................. nope                                                                                                                                                                                                                                      
-[!] sud010 Can we list sudo commands without a password?................... yes!                                                                                                                                                                                                                                      
+==================================================================( users )=====
+[i] usr000 Current user groups............................................. yes!
+[*] usr010 Is current user in an administrative group?..................... nope
+[*] usr020 Are there other users in administrative groups?................. yes!
+[*] usr030 Other users with shell.......................................... yes!
+[i] usr040 Environment information......................................... skip
+[i] usr050 Groups for other users.......................................... skip                                                                                                                                                           
+[i] usr060 Other users..................................................... skip                                                                                                                                                           
+[*] usr070 PATH variables defined inside /etc.............................. yes!                                                                                                                                                           
+[!] usr080 Is '.' in a PATH variable defined inside /etc?.................. nope
+===================================================================( sudo )=====
+[!] sud000 Can we sudo without a password?................................. nope
+[!] sud010 Can we list sudo commands without a password?................... yes!
 ---
 Matching Defaults entries for CheerfulOtter on playground:
     env_reset, mail_badpass, secure_path=/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin\:/snap/bin, use_pty
@@ -44,68 +44,68 @@ Matching Defaults entries for CheerfulOtter on playground:
 User CheerfulOtter may run the following commands on playground:
     (ALL) NOPASSWD: /bin/cat /opt/secret_flag.txt
 ---
-[!] sud020 Can we sudo with a password?.................................... nope                                                                                                                                                                                                                                      
-[*] sud040 Can we read sudoers files?...................................... yes!                                                                                                                                                                                                                                      
-[*] sud050 Do we know if any other users used sudo?........................ nope                                                                                                                                                                                                                                      
-============================================================( file system )=====                                                                                                                                                                                                                                      
-[*] fst000 Writable files outside user's home.............................. yes!                                                                                                                                                                                                                                      
-[*] fst010 Binaries with setuid bit........................................ yes!                                                                                                                                                                                                                                      
-[!] fst020 Uncommon setuid binaries........................................ yes!                                                                                                                                                                                                                                      
+[!] sud020 Can we sudo with a password?.................................... nope
+[*] sud040 Can we read sudoers files?...................................... yes!
+[*] sud050 Do we know if any other users used sudo?........................ nope
+============================================================( file system )=====
+[*] fst000 Writable files outside user's home.............................. yes!
+[*] fst010 Binaries with setuid bit........................................ yes!
+[!] fst020 Uncommon setuid binaries........................................ yes!
 ---
 /snap/snapd/23545/usr/lib/snapd/snap-confine
 /snap/snapd/23258/usr/lib/snapd/snap-confine
 ---
-[!] fst030 Can we write to any setuid binary?.............................. nope                                                                                                                                                                                                                                      
-[*] fst040 Binaries with setgid bit........................................ skip                                                                                                                                                                                                                                      
-[!] fst050 Uncommon setgid binaries........................................                                                                                                                                                                 skip                                                                                                                                                                                                                                      
-[!] fst060 Can we write to any setgid binary?..............................                                                                                                                                                                 skip                                                                                                                                                                                                                                      
-[*] fst070 Can we read /root?..............................................                                                                                                                                                                 nope                                                                                                                                                                                                                                      
-[*] fst080 Can we read subdirectories under /home?......................... nope                                                                                                                                                                                                                                      
-[*] fst090 SSH files in home directories................................... yes!                                                                                                                                                                                                                                      
-[*] fst100 Useful binaries................................................. yes!                                                                                                                                                                                                                                      
-[*] fst110 Other interesting files in home directories..................... nope                                                                                                                                                                                                                                      
-[!] fst120 Are there any credentials in fstab/mtab?........................ nope                                                                                                                                                                                                                                      
-[*] fst130 Does 'CheerfulOtter' have mail?................................. nope                                                                                                                                                                                                                                      
-[!] fst140 Can we access other users mail?................................. nope                                                                                                                                                                                                                                      
-[*] fst150 Looking for GIT/SVN repositories................................ nope                                                                                                                                                                                                                                      
-[!] fst160 Can we write to critical files?................................. nope                                                                                                                                                                                                                                      
-[!] fst170 Can we write to critical directories?........................... nope                                                                                                                                                                                                                                      
-[!] fst180 Can we write to directories from PATH defined in /etc?.......... nope                                                                                                                                                                                                                                      
-[!] fst190 Can we read any backup?......................................... yes!                                                                                                                                                                                                                                      
+[!] fst030 Can we write to any setuid binary?.............................. nope
+[*] fst040 Binaries with setgid bit........................................ skip
+[!] fst050 Uncommon setgid binaries........................................ skip                                                                                                                                                           
+[!] fst060 Can we write to any setgid binary?.............................. skip                                                                                                                                                           
+[*] fst070 Can we read /root?.............................................. nope                                                                                                                                                           
+[*] fst080 Can we read subdirectories under /home?......................... nope
+[*] fst090 SSH files in home directories................................... yes!
+[*] fst100 Useful binaries................................................. yes!
+[*] fst110 Other interesting files in home directories..................... nope
+[!] fst120 Are there any credentials in fstab/mtab?........................ nope
+[*] fst130 Does 'CheerfulOtter' have mail?................................. nope
+[!] fst140 Can we access other users mail?................................. nope
+[*] fst150 Looking for GIT/SVN repositories................................ nope
+[!] fst160 Can we write to critical files?................................. nope
+[!] fst170 Can we write to critical directories?........................... nope
+[!] fst180 Can we write to directories from PATH defined in /etc?.......... nope
+[!] fst190 Can we read any backup?......................................... yes!
 ---
 -rw-r--r-- 1 root root 1191 Mar 20  2024 /snap/docker/2963/usr/share/man/man8/zstreamdump.8.gz
 ---
-[!] fst200 Are there possible credentials in any shell history file?....... nope                                                                                                                                                                                                                                      
-[!] fst210 Are there NFS exports with 'no_root_squash' option?............. nope                                                                                                                                                                                                                                      
-[*] fst220 Are there NFS exports with 'no_all_squash' option?.............. nope                                                                                                                                                                                                                                      
-[i] fst500 Files owned by user 'CheerfulOtter'............................. skip                                                                                                                                                                                                                                      
-[i] fst510 SSH files anywhere..............................................                                                                                                                                                                 skip                                                                                                                                                                                                                                      
+[!] fst200 Are there possible credentials in any shell history file?....... nope
+[!] fst210 Are there NFS exports with 'no_root_squash' option?............. nope
+[*] fst220 Are there NFS exports with 'no_all_squash' option?.............. nope
+[i] fst500 Files owned by user 'CheerfulOtter'............................. skip
+[i] fst510 SSH files anywhere.............................................. skip                                                                                                                                                           
 [i] fst520 Check hosts.equiv file and its contents......................... skip                                                                                                                                                           
 [i] fst530 List NFS server shares.......................................... skip                                                                                                                                                           
 [i] fst540 Dump fstab file................................................. skip                                                                                                                                                           
 =================================================================( system )=====                                                                                                                                                           
-[i] sys000 Who is logged in................................................ skip                                                                                                                                                           
+[i] sys000 Who is logged in................................................ skip
 [i] sys010 Last logged in users............................................ skip                                                                                                                                                           
 [!] sys020 Does the /etc/passwd have hashes?............................... nope                                                                                                                                                           
-[!] sys022 Does the /etc/group have hashes?................................ nope                                                                                                                                                           
-[!] sys030 Can we read shadow files?....................................... nope                                                                                                                                                           
-[*] sys040 Check for other superuser accounts.............................. nope                                                                                                                                                           
-[*] sys050 Can root user log in via SSH?................................... nope                                                                                                                                                           
-[i] sys060 List available shells........................................... skip                                                                                                                                                           
+[!] sys022 Does the /etc/group have hashes?................................ nope
+[!] sys030 Can we read shadow files?....................................... nope
+[*] sys040 Check for other superuser accounts.............................. nope
+[*] sys050 Can root user log in via SSH?................................... nope
+[i] sys060 List available shells........................................... skip
 [i] sys070 System umask in /etc/login.defs................................. skip                                                                                                                                                           
 [i] sys080 System password policies in /etc/login.defs..................... skip                                                                                                                                                           
 ===============================================================( security )=====                                                                                                                                                           
-[*] sec000 Is SELinux present?............................................. nope                                                                                                                                                           
-[*] sec010 List files with capabilities.................................... yes!                                                                                                                                                           
-[!] sec020 Can we write to a binary with caps?............................. nope                                                                                                                                                           
-[!] sec030 Do we have all caps in any binary?.............................. nope                                                                                                                                                           
-[*] sec040 Users with associated capabilities.............................. nope                                                                                                                                                           
-[!] sec050 Does current user have capabilities?............................ skip                                                                                                                                                           
+[*] sec000 Is SELinux present?............................................. nope
+[*] sec010 List files with capabilities.................................... yes!
+[!] sec020 Can we write to a binary with caps?............................. nope
+[!] sec030 Do we have all caps in any binary?.............................. nope
+[*] sec040 Users with associated capabilities.............................. nope
+[!] sec050 Does current user have capabilities?............................ skip
 [!] sec060 Can we read the auditd log?..................................... nope                                                                                                                                                           
-========================================================( recurrent tasks )=====                                                                                                                                                           
-[*] ret000 User crontab.................................................... nope                                                                                                                                                           
-[!] ret010 Cron tasks writable by user..................................... nope                                                                                                                                                           
-[*] ret020 Cron jobs....................................................... yes!                                                                                                                                                           
+========================================================( recurrent tasks )=====
+[*] ret000 User crontab.................................................... nope
+[!] ret010 Cron tasks writable by user..................................... nope
+[*] ret020 Cron jobs....................................................... yes!
 [*] ret030 Can we read user crontabs....................................... nope
 [*] ret040 Can we list other user cron tasks?.............................. nope
 [*] ret050 Can we write to any paths present in cron jobs.................. yes!
