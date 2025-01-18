@@ -3,11 +3,11 @@ tags: []
 ---
 ### Enumeration
 https://github.com/diego-treitos/linux-smart-enumeration
+![](https://i.imgur.com/F9zDkLn.png)
+![](https://i.imgur.com/O633WLy.png)
+![](https://i.imgur.com/5a7zB2e.png)
+![](https://i.imgur.com/hsFafaf.png)
 
-![[bilder/Pasted image 20250118124438.png]]
-![[bilder/Pasted image 20250118124449.png]]
-![[bilder/Pasted image 20250118124456.png]]
-![[bilder/Pasted image 20250118124511.png]]
 /snap/docker/2963/usr/share/man/man8/zstreamdump.8.gz
 nichts drin
 
@@ -18,12 +18,12 @@ tmux und screen session
 
 /snap/snapd/23545/usr/lib/snapd/snap-confine
 /snap/snapd/23258/usr/lib/snapd/snap-confine
-![[bilder/Pasted image 20250118132017.png]]
+![](https://i.imgur.com/yHloWk4.png)
 https://github.com/deeexcee-io/CVE-2021-44731-snap-confine-SUID/blob/main/snap_confine_LPE.sh
-![[bilder/Pasted image 20250118132430.png]]
-![[bilder/Pasted image 20250118132637.png]]
+![](https://i.imgur.com/DNnqfLF.png)
+![](https://i.imgur.com/LavBRO0.png)
 pfad geändert
-![[bilder/Pasted image 20250118132700.png]]
+![](https://i.imgur.com/3Cci0Ko.png)
 prozesse
 ```
 ---
@@ -75,13 +75,12 @@ lrwxrwxrwx 1 root root        7 Mar 31  2024 /usr/sbin/ip -> /bin/ip
 ```
 ### Metaspoloit
 https://github.com/rapid7/metasploit-framework/blob/master/documentation/modules/payload/linux/x86/meterpreter/reverse_tcp.md
-![[bilder/Pasted image 20250118135234.png]]
-![[bilder/Pasted image 20250118134400.png]]
-![[bilder/Pasted image 20250118134741.png]]
-![[bilder/Pasted image 20250118135213.png]]
-![[bilder/Pasted image 20250118135341.png]]
-![[bilder/Pasted image 20250118135451.png]]
+![](https://i.imgur.com/jrRxLCJ.png)
+![](https://i.imgur.com/z4GH9gS.png)
+![](https://i.imgur.com/u5IPzTU.png)
+![](https://i.imgur.com/d7BFPLf.png)
+![](https://i.imgur.com/ipbLZcs.png)
+![](https://i.imgur.com/Ll0fpsq.png)
+`getsystem` and `priv module not working`
 https://www.offsec.com/metasploit-unleashed/privilege-escalation/
-
 https://null-byte.wonderhowto.com/how-to/get-root-with-metasploits-local-exploit-suggester-0199463/
-![[bilder/Pasted image 20250118141222.png]]
