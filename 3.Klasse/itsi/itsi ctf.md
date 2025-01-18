@@ -60,3 +60,4 @@ suid thing
 ```bash
 find / -type f -perm -4001 -exec ls -h {} \; 2> /dev/null
 ```
+
