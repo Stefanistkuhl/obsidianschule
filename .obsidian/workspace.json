@@ -35,8 +35,7 @@
               "title": "priv esc diassater"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/itsi/aufgaben/ctf/priv esc diassater.md",
+                "file": "3.Klasse/itsi/itsi ctf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for priv esc diassater"
+              "title": "Backlinks for itsi ctf"
             }
           },
           {
@@ -157,24 +156,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5dd08752c9b5644d",
+  "active": "2ef2afabba18630d",
   "lastOpenFiles": [
+    "3.Klasse/itsi/aufgaben/ctf/priv esc diassater.md",
+    "bilder/Pasted image 20250118132700.png",
+    "bilder/Pasted image 20250118132637.png",
+    "bilder/Pasted image 20250118132430.png",
     "bilder/Pasted image 20250118132017.png",
     "3.Klasse/itsi/aufgaben/ctf/scan2_sudo_user",
     "3.Klasse/itsi/aufgaben/ctf/scan1_non_sudo_user",
     "3.Klasse/itsi/aufgaben/ctf",
     "3.Klasse/itsi/itsi ctf.md",
-    "3.Klasse/itsi/aufgaben/ctf/priv esc diassater.md",
     "bilder/Pasted image 20250118124511.png",
     "bilder/Pasted image 20250118124456.png",
     "bilder/Pasted image 20250118124449.png",
     "bilder/Pasted image 20250118124438.png",
     "bilder/Pasted image 20250117195129.png",
     "bilder/Pasted image 20250117234535.png",
-    "bilder/Pasted image 20250117234356.png",
-    "bilder/Pasted image 20250117234351.png",
-    "bilder/Pasted image 20250117175813.png",
-    "bilder/Pasted image 20250117232339.png",
     "Cyber Killchain.md",
     "3.Klasse/ggp/industrile revolutionen dlc.md",
     "latex/template/itsi/template.tex~",
