@@ -151,13 +151,15 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "5dd08752c9b5644d",
   "lastOpenFiles": [
-    "bilder/Pasted image 20250118141222.png",
+    "3.Klasse/itsi/aufgaben/ctf/itsi ctf.md",
     "3.Klasse/itsi/aufgaben/ctf/priv esc diassater.md",
+    "bilder/Pasted image 20250118141222.png",
     "bilder/Pasted image 20250118135451.png",
     "bilder/Pasted image 20250118135341.png",
     "bilder/Pasted image 20250118135213.png",
@@ -167,8 +169,6 @@
     "bilder/Pasted image 20250118132700.png",
     "bilder/Pasted image 20250118132637.png",
     "bilder/Pasted image 20250118132430.png",
-    "bilder/Pasted image 20250118132017.png",
-    "3.Klasse/itsi/aufgaben/ctf/itsi ctf.md",
     "3.Klasse/itsi/aufgaben/ctf/scan2_sudo_user",
     "3.Klasse/itsi/aufgaben/ctf/scan1_non_sudo_user",
     "3.Klasse/itsi/aufgaben/ctf",

@@ -84,3 +84,11 @@ https://github.com/rapid7/metasploit-framework/blob/master/documentation/modules
 `getsystem` and `priv module not working`
 https://www.offsec.com/metasploit-unleashed/privilege-escalation/
 https://null-byte.wonderhowto.com/how-to/get-root-with-metasploits-local-exploit-suggester-0199463/
+### cheeseing
+![](https://i.imgur.com/KVm5tNE.png)
+![](https://i.imgur.com/jjWq4SC.png)
+![](https://i.imgur.com/uL97iZY.png)
+![](https://i.imgur.com/OzNwuu7.png)
+funktioniert nicht
+![](https://i.imgur.com/YNCbylp.png)
+![](https://i.imgur.com/25myDQU.png)
