@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "2ef2afabba18630d",
+            "id": "7f9994b8951414bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -88,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,20 +156,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2ef2afabba18630d",
+  "active": "7f9994b8951414bf",
   "lastOpenFiles": [
-    "3.Klasse/itsi/aufgaben/ctf/priv esc diassater.md",
+    "bilder/Pasted image 20250117204436.png",
     "3.Klasse/itsi/aufgaben/ctf/itsi ctf.md",
-    "bilder/Pasted image 20250118141222.png",
-    "bilder/Pasted image 20250118135451.png",
-    "bilder/Pasted image 20250118135341.png",
-    "bilder/Pasted image 20250118135234.png",
-    "bilder/Pasted image 20250118135213.png",
-    "bilder/Pasted image 20250118134741.png",
-    "bilder/Pasted image 20250118134400.png",
-    "bilder/Pasted image 20250118134314.png",
-    "bilder/Pasted image 20250118132700.png",
-    "bilder/Pasted image 20250118132637.png",
+    "bilder/Pasted image 20250117202527.png",
+    "bilder/Pasted image 20250117195129.png",
+    "bilder/Pasted image 20250117191545.png",
+    "bilder/Pasted image 20250117191517.png",
+    "bilder/Pasted image 20250118152041.png",
+    "3.Klasse/itsi/aufgaben/ctf/priv esc diassater.md",
+    "bilder/Pasted image 20250117190434.png",
+    "bilder/Pasted image 20250117183736.png",
+    "bilder/Pasted image 20250117183153.png",
+    "bilder/Pasted image 20250117183014.png",
+    "bilder/Pasted image 20250117183032.png",
     "3.Klasse/itsi/aufgaben/ctf/scan2_sudo_user",
     "3.Klasse/itsi/aufgaben/ctf/scan1_non_sudo_user",
     "3.Klasse/itsi/aufgaben/ctf",
