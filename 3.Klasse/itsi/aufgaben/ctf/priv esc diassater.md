@@ -4,10 +4,10 @@ tags: []
 ### Enumeration
 https://github.com/diego-treitos/linux-smart-enumeration
 
-![[Pasted image 20250118124438.png]]
-![[Pasted image 20250118124449.png]]
-![[Pasted image 20250118124456.png]]
-![[Pasted image 20250118124511.png]]
+![[bilder/Pasted image 20250118124438.png]]
+![[bilder/Pasted image 20250118124449.png]]
+![[bilder/Pasted image 20250118124456.png]]
+![[bilder/Pasted image 20250118124511.png]]
 /snap/docker/2963/usr/share/man/man8/zstreamdump.8.gz
 nichts drin
 
@@ -18,12 +18,12 @@ tmux und screen session
 
 /snap/snapd/23545/usr/lib/snapd/snap-confine
 /snap/snapd/23258/usr/lib/snapd/snap-confine
-![[Pasted image 20250118132017.png]]
+![[bilder/Pasted image 20250118132017.png]]
 https://github.com/deeexcee-io/CVE-2021-44731-snap-confine-SUID/blob/main/snap_confine_LPE.sh
-![[Pasted image 20250118132430.png]]
-![[Pasted image 20250118132637.png]]
+![[bilder/Pasted image 20250118132430.png]]
+![[bilder/Pasted image 20250118132637.png]]
 pfad geändert
-![[Pasted image 20250118132700.png]]
+![[bilder/Pasted image 20250118132700.png]]
 prozesse
 ```
 ---
@@ -75,12 +75,12 @@ lrwxrwxrwx 1 root root        7 Mar 31  2024 /usr/sbin/ip -> /bin/ip
 ```
 ### Metaspoloit
 https://github.com/rapid7/metasploit-framework/blob/master/documentation/modules/payload/linux/x86/meterpreter/reverse_tcp.md
-![[Pasted image 20250118135234.png]]
-![[Pasted image 20250118134400.png]]
-![[Pasted image 20250118134741.png]]
-![[Pasted image 20250118135213.png]]
-![[Pasted image 20250118135341.png]]
-![[Pasted image 20250118135451.png]]
+![[bilder/Pasted image 20250118135234.png]]
+![[bilder/Pasted image 20250118134400.png]]
+![[bilder/Pasted image 20250118134741.png]]
+![[bilder/Pasted image 20250118135213.png]]
+![[bilder/Pasted image 20250118135341.png]]
+![[bilder/Pasted image 20250118135451.png]]
 https://www.offsec.com/metasploit-unleashed/privilege-escalation/
 
 https://null-byte.wonderhowto.com/how-to/get-root-with-metasploits-local-exploit-suggester-0199463/

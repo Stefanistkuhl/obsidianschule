@@ -15,7 +15,7 @@
               "state": {
                 "file": "3.Klasse/itsi/aufgaben/ctf/priv esc diassater.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "priv esc diassater"
@@ -29,13 +29,14 @@
               "state": {
                 "file": "3.Klasse/itsi/aufgaben/ctf/itsi ctf.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "itsi ctf"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/itsi/aufgaben/ctf/priv esc diassater.md",
+                "file": "3.Klasse/itsi/aufgaben/ctf/itsi ctf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for priv esc diassater"
+              "title": "Backlinks for itsi ctf"
             }
           },
           {
@@ -156,10 +157,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5dd08752c9b5644d",
+  "active": "2ef2afabba18630d",
   "lastOpenFiles": [
-    "3.Klasse/itsi/aufgaben/ctf/itsi ctf.md",
     "3.Klasse/itsi/aufgaben/ctf/priv esc diassater.md",
+    "3.Klasse/itsi/aufgaben/ctf/itsi ctf.md",
     "bilder/Pasted image 20250118141222.png",
     "bilder/Pasted image 20250118135451.png",
     "bilder/Pasted image 20250118135341.png",
