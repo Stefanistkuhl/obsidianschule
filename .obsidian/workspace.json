@@ -125,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -137,8 +136,7 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "markdown-importer:Open format converter": false
     }
   },
   "active": "2ef2afabba18630d",
