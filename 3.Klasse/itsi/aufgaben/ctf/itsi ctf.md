@@ -1,7 +1,5 @@
 ---
-tags:
-  - 3te_Klasse
-  - itsi
+tags: []
 ---
 `nmap 192.168.56.0/24`
 mit allen ports

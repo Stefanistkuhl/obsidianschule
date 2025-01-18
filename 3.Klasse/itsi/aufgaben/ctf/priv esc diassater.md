@@ -84,3 +84,4 @@ https://github.com/rapid7/metasploit-framework/blob/master/documentation/modules
 https://www.offsec.com/metasploit-unleashed/privilege-escalation/
 
 https://null-byte.wonderhowto.com/how-to/get-root-with-metasploits-local-exploit-suggester-0199463/
+![[bilder/Pasted image 20250118141222.png]]
