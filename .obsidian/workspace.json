@@ -29,13 +29,14 @@
               "state": {
                 "file": "3.Klasse/itsi/aufgaben/ctf/itsi ctf.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "itsi ctf"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,10 +156,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5dd08752c9b5644d",
+  "active": "7f9994b8951414bf",
   "lastOpenFiles": [
-    "3.Klasse/itsi/aufgaben/ctf/itsi ctf.md",
     "3.Klasse/itsi/aufgaben/ctf/priv esc diassater.md",
+    "3.Klasse/itsi/aufgaben/ctf/itsi ctf.md",
     "bilder/Pasted image 20250118141222.png",
     "bilder/Pasted image 20250118135451.png",
     "bilder/Pasted image 20250118135341.png",

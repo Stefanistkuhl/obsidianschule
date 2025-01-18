@@ -57,3 +57,7 @@ suid thing
 ```bash
 find / -type f -perm -4001 -exec ls -h {} \; 2> /dev/null
 ```
+![](https://i.imgur.com/QgQfBOA.png)
+![](https://i.imgur.com/gePh9t6.png)
+![](https://i.imgur.com/08agQET.png)
+![](https://i.imgur.com/I9rJQwE.png)
