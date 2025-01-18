@@ -61,3 +61,7 @@ find / -type f -perm -4001 -exec ls -h {} \; 2> /dev/null
 ![](https://i.imgur.com/gePh9t6.png)
 ![](https://i.imgur.com/08agQET.png)
 ![](https://i.imgur.com/I9rJQwE.png)
+
+![](https://i.imgur.com/Qe0IOYA.png)
+![](https://i.imgur.com/4dCQ13z.png)
+die /tmp flag geht nicht
