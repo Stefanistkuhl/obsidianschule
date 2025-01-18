@@ -64,3 +64,12 @@ find / -type f -perm -4001 -exec ls -h {} \; 2> /dev/null
 
 ![](https://i.imgur.com/1YVvohV.png)
 ![](https://i.imgur.com/bd71EuO.png)
+![](https://i.imgur.com/FhHbQnQ.png)
+
+1. credentials
+2. comments
+3. history
+4. tmp
+5. process
+6. sudo
+7. root
