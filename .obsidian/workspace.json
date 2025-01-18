@@ -35,7 +35,8 @@
               "title": "priv esc diassater"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Klasse/itsi/itsi ctf.md",
+                "file": "3.Klasse/itsi/aufgaben/ctf/priv esc diassater.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for itsi ctf"
+              "title": "Backlinks for priv esc diassater"
             }
           },
           {
@@ -156,8 +157,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2ef2afabba18630d",
+  "active": "5dd08752c9b5644d",
   "lastOpenFiles": [
+    "bilder/Pasted image 20250118135451.png",
+    "bilder/Pasted image 20250118135341.png",
+    "bilder/Pasted image 20250118135234.png",
+    "bilder/Pasted image 20250118135213.png",
+    "bilder/Pasted image 20250118134741.png",
+    "bilder/Pasted image 20250118134400.png",
+    "bilder/Pasted image 20250118134314.png",
+    "3.Klasse/itsi/itsi ctf.md",
     "3.Klasse/itsi/aufgaben/ctf/priv esc diassater.md",
     "bilder/Pasted image 20250118132700.png",
     "bilder/Pasted image 20250118132637.png",
@@ -166,13 +175,6 @@
     "3.Klasse/itsi/aufgaben/ctf/scan2_sudo_user",
     "3.Klasse/itsi/aufgaben/ctf/scan1_non_sudo_user",
     "3.Klasse/itsi/aufgaben/ctf",
-    "3.Klasse/itsi/itsi ctf.md",
-    "bilder/Pasted image 20250118124511.png",
-    "bilder/Pasted image 20250118124456.png",
-    "bilder/Pasted image 20250118124449.png",
-    "bilder/Pasted image 20250118124438.png",
-    "bilder/Pasted image 20250117195129.png",
-    "bilder/Pasted image 20250117234535.png",
     "Cyber Killchain.md",
     "3.Klasse/ggp/industrile revolutionen dlc.md",
     "latex/template/itsi/template.tex~",

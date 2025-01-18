@@ -75,3 +75,12 @@ lrwxrwxrwx 1 root root        7 Mar 31  2024 /usr/sbin/ip -> /bin/ip
 ```
 ### Metaspoloit
 https://github.com/rapid7/metasploit-framework/blob/master/documentation/modules/payload/linux/x86/meterpreter/reverse_tcp.md
+![[Pasted image 20250118135234.png]]
+![[Pasted image 20250118134400.png]]
+![[Pasted image 20250118134741.png]]
+![[Pasted image 20250118135213.png]]
+![[Pasted image 20250118135341.png]]
+![[Pasted image 20250118135451.png]]
+https://www.offsec.com/metasploit-unleashed/privilege-escalation/
+
+https://null-byte.wonderhowto.com/how-to/get-root-with-metasploits-local-exploit-suggester-0199463/
