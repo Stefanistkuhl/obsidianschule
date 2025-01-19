@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2025.1.19)  19 JAN 2025 15:02
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2025.1.19)  19 JAN 2025 15:33
  restricted system commands enabled.
  file:line:error style messages enabled.
 **UE7_CTF.tex
@@ -464,16 +464,17 @@ Package luatex.def Info: images/logo.png  used on input line 88.
 File: ./images/openingNetworkManager.png Graphic file (type png)
 <use ./images/openingNetworkManager.png>
 Package luatex.def Info: ./images/openingNetworkManager.png  used on input line 94.
-(luatex.def)             Requested size: 379.81227pt x 219.2151pt.
-File: ./images/openingNetworkManager.png Graphic file (type png)
-<use ./images/openingNetworkManager.png>
-Package luatex.def Info: ./images/openingNetworkManager.png  used on input line 100.
-(luatex.def)             Requested size: 379.81227pt x 219.2151pt.
+(luatex.def)             Requested size: 270.62384pt x 156.19516pt.
+<./images/nwipsfr.png, id=174, 688.5725pt x 540.0175pt>
+File: ./images/nwipsfr.png Graphic file (type png)
+<use ./images/nwipsfr.png>
+Package luatex.def Info: ./images/nwipsfr.png  used on input line 100.
+(luatex.def)             Requested size: 275.4241pt x 216.00316pt.
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 105.
+Package luatex.def Info: images/logo.png  used on input line 127.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
- [5<./images/openingNetworkManager.png>]
+ [5<./images/openingNetworkManager.png><./images/nwipsfr.png>]
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
 Package luatex.def Info: images/logo.png  used on input line 127.
@@ -501,18 +502,18 @@ Package rerunfilecheck Info: File `UE7_CTF.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 13772 strings out of 478382
+ 13778 strings out of 478382
  100000,1977958 words of node,token memory allocated
  426 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 52 glue_spec, 4 attribute_list, 1 write nodes
-   avail lists: 2:726,3:446,4:98,5:321,6:108,7:2911,8:61,9:500,10:5,11:167
- 33322 multiletter control sequences out of 65536+600000
+   avail lists: 2:832,3:438,4:98,5:321,6:108,7:3928,8:61,9:500,10:5,11:216
+ 33328 multiletter control sequences out of 65536+600000
  33 fonts using 2393023 bytes
  72i,16n,73p,535b,376s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman12-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-regular.otf>
-Output written on UE7_CTF.pdf (8 pages, 409451 bytes).
+Output written on UE7_CTF.pdf (8 pages, 456892 bytes).
 
-PDF statistics: 232 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 234 PDF objects out of 1000 (max. 8388607)
  201 compressed objects within 3 object streams
  44 named destinations out of 1000 (max. 131072)
  225 words of extra memory for PDF output out of 10000 (max. 100000000)
