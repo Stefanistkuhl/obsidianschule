@@ -10,7 +10,7 @@
 \contentsline {subsection}{\numberline {4.6}Exploitation: Using Hydra to brute force SSH login}{10}{subsection.4.6}%
 \contentsline {subsection}{\numberline {4.7}Exploring the system}{11}{subsection.4.7}%
 \contentsline {subsubsection}{\numberline {4.7.1}Listing all the files}{11}{subsubsection.4.7.1}%
-\contentsline {subsubsection}{\numberline {4.7.2}Investigating the webserver itself}{12}{subsubsection.4.7.2}%
+\contentsline {subsubsection}{\numberline {4.7.2}Investigating the listening service}{11}{subsubsection.4.7.2}%
 \contentsline {subsection}{\numberline {4.8}procces flag}{12}{subsection.4.8}%
 \contentsline {subsection}{\numberline {4.9}comment flag}{12}{subsection.4.9}%
 \contentsline {subsection}{\numberline {4.10}sudo flag}{12}{subsection.4.10}%
