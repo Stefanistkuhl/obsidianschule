@@ -1,4 +1,5 @@
 \documentclass[a4paper]{article}
+\usepackage{caption}
 \usepackage{graphicx}
 \usepackage[hidelinks]{hyperref}
 \usepackage{xcolor}
@@ -15,6 +16,7 @@
 	EXPOSE,RUN,FROM,CMD,nc,tcp,udp,http,docker},emphstyle=\color{purple}
 }
 \newcommand{\abc}{\hfill \break}
+\captionsetup{hypcap=true}
 \usepackage{fancyhdr}
 \usepackage{geometry}
 \geometry{
@@ -117,7 +119,7 @@ Any attack starts with reconnaissance, which in this case means scanning the net
 	\centering
 	\caption{Results of the nmap scan}
 \end{figure}\abc
-We can detirme that the target has the ip address \texttt{192.168.15.3} since as seen in Figure \ref{fig:nwconf} \texttt{.1} is the network addres and \texttt{.2} is the \texttt{DHCP} server while \texttt{.4} is the ip address of the kali vm which we cann see by running \texttt{ip a} or by escaming the open ports since \texttt{ssh} isnt exposed.
+We can determine that the target has the IP address \texttt{192.168.15.3}, since, as seen in \hyperref[fig:nwconf]{Figure \ref{fig:nwconf}}, \texttt{.1} is the network address, \texttt{.2} is the \texttt{DHCP} server, and \texttt{.4} is the IP address of the Kali VM. This can be verified by running \texttt{ip a} or by scanning the open ports, since \texttt{ssh} is not exposed.
 \subsection{exploring the websites}
 \subsection{breaking the http authtication}
 \subsection{sshing into the server}
