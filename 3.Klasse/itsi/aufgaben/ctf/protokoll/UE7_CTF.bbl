@@ -55,4 +55,11 @@ Jan. 2025, [Online; accessed 19. Jan. 2025]. [Online]. Available:
   \url{https://tylerrockwell.github.io/defeating-basic-auth-with-hydra}
 \BIBentrySTDinterwordspacing
 
+\bibitem{hydra-ssh}
+\BIBentryALTinterwordspacing
+{GeeksforGeeks}, ``{How to use Hydra to BruteForce SSH Connections?}''
+  \emph{GeeksforGeeks}, Aug. 2022. [Online]. Available:
+  \url{https://www.geeksforgeeks.org/how-to-use-hydra-to-brute-force-ssh-connections}
+\BIBentrySTDinterwordspacing
+
 \end{thebibliography}

@@ -193,9 +193,16 @@ After entering the found credentials on the webpage, we get the first flag.
 	\centering
 	\caption{First flag found}
 \end{figure}\abc
-Besides the flag, there is a webshell on the site, so we can run commands on the server.
-\subsection{sshing into the server}
-\subsection{exploring the system}
+Besides the flag, there is a webshell on the site, so we can run commands on the server. However, interacting through the website is a horrible experience, and that's why we used the command \texttt{whoami} to find out which user we are logged in as so we can SSH into the server instead.
+\subsection{Exploitation: Using Hydra to brute force SSH login}
+To brute force the SSH login, this Hydra command is used: \abc\texttt{hydra -l GrumpyCat -P pw.txt 192.168.15.3 ssh -t 4}. The only changes made to the command are the username we got through the webshell, replacing the method with SSH, and using the \texttt{-t} flag with a value of 4 to set the max tasks to 4, since some SSH configurations tend to block higher counts. Figure 14 shows the command output. \cite{hydra-ssh}
+\begin{figure}[h]
+	\includegraphics[scale=0.5]{images/hydrassh.png}
+	\centering
+	\caption{Getting the credentials for the user GrumpyCat}
+\end{figure}\abc
+\subsection{Exploring the system}
+Now that we have a shell in the server it's time to dig arround and explore we started by runing \texttt{ls -R / * | grep flag}
 \subsection{procces flag}
 \subsection{comment flag}
 \subsection{sudo flag}
