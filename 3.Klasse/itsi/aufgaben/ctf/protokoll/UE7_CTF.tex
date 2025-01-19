@@ -140,7 +140,7 @@ If we open the websites in our web browser of choice, we can see that the one on
 \begin{figure}[h]
 	\includegraphics[scale=0.25]{images/allesiten.png}
 	\centering
-	\caption[a]{Showing the contents of each page using \texttt{curl} \footnotemark}
+	\caption[Showing the contents of each page using curl]{Showing the contents of each page using \texttt{curl} \footnotemark}
 \end{figure}\abc
 \footnotetext{The ports are different from those mentioned before, since instead of using screenshots from the browser, we opted to use \texttt{curl}. Additionally, on every refresh, the ports are randomized.}
 The \texttt{base64} message can be decoded by piping the string, using \texttt{echo}, into the \texttt{base64} command, which gives us the hint to use port \texttt{55487}, the site with authentication. This is shown in Figure 9 below.
@@ -285,7 +285,7 @@ find / #Selecting the / directory to search in
 \begin{figure}[h]
 	\includegraphics[scale=0.45]{images/fdtmp.png}
 	\centering
-	\caption[a]{Output of the \texttt{find} command \footnotemark}
+	\caption[Outout of the find command]{Output of the \texttt{find} command \footnotemark}
 \end{figure}\abc
 \footnotetext{The username in Figures 24 and 25 is different since we were too focused on getting root access and thus only did this flag later after a VM reboot.}
 \begin{figure}[h]
@@ -309,7 +309,16 @@ Additionally to the find command, I remembered reading in a CTF cheat sheet a wh
 \end{figure}\abc
 \newpage
 \subsection{It should be over now, right?}
-
+Now that we found the following six flags:
+\begin{enumerate}
+	\item \texttt{FLAG\{use\_secure\_credentials\}}
+	\item \texttt{FLAG\{always\_check\_comments\_in\_scripts\}}
+	\item \texttt{FLAG\{sudo\_privileges\_are\_key\}}
+	\item \texttt{FLAG\{inspect\_running\_processes\}}
+	\item \texttt{FLAG\{tmp\_directory\_is\_not\_safe\}}
+	\item \texttt{FLAG\{always\_check\_history\}}
+\end{enumerate}
+This means that the exercise is over, right?
 \subsection{trying to escalate privaledgs}
 \subsubsection{smart enumeration}
 \subsubsection{trying a kernel level exploit}

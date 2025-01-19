@@ -5,7 +5,7 @@
 \contentsline {figure}{\numberline {5}{\ignorespaces Showing the network configuration of the virtual machines\relax }}{6}{figure.caption.7}%
 \contentsline {figure}{\numberline {6}{\ignorespaces Results of the nmap scan\relax }}{7}{figure.caption.8}%
 \contentsline {figure}{\numberline {7}{\ignorespaces Results of the detailed nmap scan\relax }}{7}{figure.caption.9}%
-\contentsline {figure}{\numberline {8}{\ignorespaces a}}{8}{figure.caption.10}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Showing the contents of each page using curl}}{8}{figure.caption.10}%
 \contentsline {figure}{\numberline {9}{\ignorespaces Decoding the \texttt {base64} message\relax }}{8}{figure.caption.11}%
 \contentsline {figure}{\numberline {10}{\ignorespaces Running the script\relax }}{8}{figure.caption.12}%
 \contentsline {figure}{\numberline {11}{\ignorespaces ChatGPT translating the hint\relax }}{9}{figure.caption.13}%
@@ -21,7 +21,7 @@
 \contentsline {figure}{\numberline {21}{\ignorespaces Listing the users we can log in as\relax }}{13}{figure.caption.23}%
 \contentsline {figure}{\numberline {22}{\ignorespaces Getting the credentials for CheerfulOtter\relax }}{13}{figure.caption.24}%
 \contentsline {figure}{\numberline {23}{\ignorespaces Viewing secret\_flag.txt\relax }}{13}{figure.caption.25}%
-\contentsline {figure}{\numberline {24}{\ignorespaces a}}{14}{figure.caption.26}%
+\contentsline {figure}{\numberline {24}{\ignorespaces Outout of the find command}}{14}{figure.caption.26}%
 \contentsline {figure}{\numberline {25}{\ignorespaces Viewing the flag in the \texttt {/tmp} directory\relax }}{14}{figure.caption.27}%
 \contentsline {figure}{\numberline {26}{\ignorespaces Viewing the home directories of CheerfulOtter\relax }}{15}{figure.caption.28}%
 \contentsline {figure}{\numberline {27}{\ignorespaces Viewing the flag in the \texttt {.history} file\relax }}{15}{figure.caption.29}%
