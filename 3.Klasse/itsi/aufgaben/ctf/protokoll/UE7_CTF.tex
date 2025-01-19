@@ -203,12 +203,13 @@ To brute force the SSH login, this Hydra command is used: \abc\texttt{hydra -l G
 \end{figure}\abc
 \newpage
 \subsection{Exploring the system}
-Now that we have a shell in the server, it's time to dig around and explore. We started by running \texttt{ls -R / * 2>/dev/null | grep flag} to search for files that have \texttt{flag} in their name. To tidy up the output, it can be piped into \texttt{grep} again with the \texttt{-v} flag to exclude results that contain \texttt{flags}. Figure 15 shows the results.
+Now that we have a shell in the server, it's time to dig around and explore. We started by running \abc \texttt{ls -R / * 2>/dev/null | grep flag}, in which the \texttt{-R} flag is used to recursively list all the files in the root of the file system and the \texttt{*} is used to list everything inside that as well. Lastly, the \texttt{2>/dev/null} redirects \texttt{stderr} to the file \texttt{/dev/null} to effectively delete them from the output, which is piped into \texttt{grep} to filter it to search for files that have \texttt{flag} in their name. To tidy up the output, it can be piped into \texttt{grep} again with the \texttt{-v} flag to exclude results that contain \texttt{flags}. Figure 15 shows the results. \cite{stderr}
 \begin{figure}[h]
 	\includegraphics[scale=0.5]{images/searchingfor falgfiles.png}
 	\centering
 	\caption{Output of the search command}
 \end{figure}\abc
+As we can see, we found a file called \texttt{secret\_flag.txt} and \texttt{flag\_process.sh}, for which we can search with the following command: \texttt{find -name "filename" / 2>/dev/null}. Figure 16 displays the found file locations.
 \subsection{procces flag}
 \subsection{comment flag}
 \subsection{sudo flag}

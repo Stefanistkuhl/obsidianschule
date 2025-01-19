@@ -352,4 +352,5 @@ INPUT ./images/logo.png
 INPUT ./images/logo.png
 INPUT ./UE7_CTF.aux
 INPUT ./UE7_CTF.out
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb

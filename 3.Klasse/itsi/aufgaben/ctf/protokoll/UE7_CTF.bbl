@@ -62,4 +62,11 @@ Jan. 2025, [Online; accessed 19. Jan. 2025]. [Online]. Available:
   \url{https://www.geeksforgeeks.org/how-to-use-hydra-to-brute-force-ssh-connections}
 \BIBentrySTDinterwordspacing
 
+\bibitem{stderr}
+\BIBentryALTinterwordspacing
+``{What does 2{$>$}/dev/null mean?}'' Jan. 2025, [Online; accessed 19. Jan.
+  2025]. [Online]. Available:
+  \url{https://askubuntu.com/questions/350208/what-does-2-dev-null-mean}
+\BIBentrySTDinterwordspacing
+
 \end{thebibliography}
