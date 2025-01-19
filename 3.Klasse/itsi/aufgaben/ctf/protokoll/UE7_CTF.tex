@@ -274,7 +274,7 @@ As seen in Figure 22, we got the credentials for the CheerfulOtter user. If we l
 	\caption{Viewing secret\_flag.txt}
 \end{figure}\abc
 \subsection{Exploring the new user}
-Since we are in a new user, it's time to rerun old commands and see if any new files can be found. Instead of using \texttt{ls} and \texttt{grep} to search, we will use the following \texttt{find} command: \texttt{find / -type f -name '*flag*' 2>/dev/null}. Here is a breakdown of the command:
+Since we are in a new user, it's time to rerun old commands and see if any new files can be found. Instead of using \texttt{ls} and \texttt{grep} to search, we will use the following \texttt{find} command: \texttt{find / -type f -name '*flag*' 2>/dev/null}. Here is a breakdown of the command used in Figure 24:\cite{find}
 \begin{lstlisting}[language=bash]
 find / #Selecting the / directory to search in
 -type f #Restricts the command to only search files
@@ -282,7 +282,20 @@ find / #Selecting the / directory to search in
                #contain "flag"
 2>/dev/null #Hiding errors
 \end{lstlisting}
-\subsection{tmp flag}
+\subsubsection{Finding a flag in \texttt{/tmp}}
+\begin{figure}[h]
+	\includegraphics[scale=0.45]{images/fdtmp.png}
+	\centering
+	\caption[a]{Output of the \texttt{find} command \footnotemark}
+\end{figure}\abc
+\footnotetext{The username in Figures 24 and 25 is different since we were too focused on getting root access and thus only did this flag later after a VM reboot.}
+\begin{figure}[h]
+	\includegraphics[scale=0.7]{images/tmpfl.png}
+	\centering
+	\caption{Viewing the flag in the \texttt{/tmp} directory}
+\end{figure}\abc
+As seen in Figures 24 and 25, there is a flag in the \texttt{/tmp} directory that we missed the first time. We should have used the find command right away instead of recursively listing all the files.
+
 \subsection{it's over but actually not}
 \subsection{trying to escalate privaledgs}
 \subsubsection{smart enumeration}

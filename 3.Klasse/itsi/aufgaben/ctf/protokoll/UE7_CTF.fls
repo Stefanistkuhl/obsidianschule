@@ -264,10 +264,10 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr7.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr5.tfm
+INPUT /home/stefiii/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc
 OUTPUT UE7_CTF.toc
 INPUT ./images/logo.png
 INPUT ./images/logo.png
-INPUT /home/stefiii/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc
 INPUT ./images/logo.png
 INPUT ./images/logo.png
 INPUT ./images/nwipsfr.png
@@ -366,6 +366,15 @@ INPUT ./images/cheerfulotpw.png
 INPUT ./images/sh.png
 INPUT ./images/sh.png
 INPUT ./images/sh.png
+INPUT ./images/logo.png
+INPUT ./images/logo.png
+INPUT /home/stefiii/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmmonolt10-bold.luc
+INPUT ./images/fdtmp.png
+INPUT ./images/fdtmp.png
+INPUT ./images/fdtmp.png
+INPUT ./images/tmpfl.png
+INPUT ./images/tmpfl.png
+INPUT ./images/tmpfl.png
 INPUT ./images/logo.png
 INPUT ./images/logo.png
 INPUT ./images/logo.png
