@@ -100,8 +100,10 @@ In this menu, click on \texttt{Create}, then check the \texttt{Enable Server} bo
 	\includegraphics[scale=0.4]{./images/nwipsfr.png}
 	\centering
 	\caption{Showing the IP settings for the new Host-only network}
+	\label{fig:nwconf}
 \end{figure}\abc
 Next, open the virtual machine settings by selecting the VM in the list and pressing \texttt{<C-s>}. Under the \texttt{Network} section, change the network adapter to use the Host-only Adapter and select the VirtualBox Host-only Ethernet Adapter \#2, which was just created. Perform this step for both the target VM and the Kali VM, as detailed in Figure 4.
+\newpage
 \begin{figure}[ht]
 	\includegraphics[scale=0.4]{./images/vmnwconf.png}
 	\centering
@@ -109,7 +111,13 @@ Next, open the virtual machine settings by selecting the VM in the list and pres
 \end{figure}\abc
 \newpage
 \subsection{Reconnaissance: Scanning the Network}
-Any attack starts with recoonaise which in this case means scanning the network with \texttt{nmap} since we dont know the ip addres of the target server yet we have to scan the netowrk to find it for this the command \texttt{nmap 192.168.15.0/24} is used to scan the entire network for open ports.
+Any attack starts with reconnaissance, which in this case means scanning the network with \texttt{nmap}. Since we don't know the IP address of the target server yet, we need to scan the network to find it. For this, the command \texttt{nmap 192.168.15.0/24} is used to scan the entire network for open ports, as illustrated in Figure 5.
+\begin{figure}[ht]
+	\includegraphics[scale=0.4]{./images/firstnmapscan.png}
+	\centering
+	\caption{Results of the nmap scan}
+\end{figure}\abc
+We can detirme that the target has the ip address \texttt{192.168.15.3} since as seen in Figure \ref{fig:nwconf} \texttt{.1} is the network addres and \texttt{.2} is the \texttt{DHCP} server while \texttt{.4} is the ip address of the kali vm which we cann see by running \texttt{ip a} or by escaming the open ports since \texttt{ssh} isnt exposed.
 \subsection{exploring the websites}
 \subsection{breaking the http authtication}
 \subsection{sshing into the server}
