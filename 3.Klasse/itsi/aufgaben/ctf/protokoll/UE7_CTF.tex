@@ -67,9 +67,9 @@ Groupname/number Name here/12
 
 Supervisor: 	SPAC, ZIVK
 
-Exercise dates:
+Exercise dates: 17-19.1.2025
 
-Submission date:
+Submission date: 20.1.2025
 
 
 \newpage
@@ -133,21 +133,18 @@ Now we can run another \texttt{nmap} scan to get fruther information abt the run
 \end{figure}\abc
 From this scan, we can see that \texttt{ssh} and four \texttt{http} servers running \texttt{Python 3.12.3} are active on the system.
 \subsection{Reconnaissance: Exploring the websites}
-If we open the websites in our web browser of choice, we can see that the one on port \texttt{1080} says that to get further, we need to scan deeper, which we already did. The website on port \texttt{5155} shows text from foreign languages, which is randomized and always prints out different text on refresh. The site on port \texttt{10458} prints out a message in \texttt{base64}, and lastly, the one on port \texttt{10448} has a basic authentication login prompt for a mini web shell. Figures 8, 9, 10, and 11 show the content of each webpage.
+If we open the websites in our web browser of choice, we can see that the one on port \texttt{1080} says that to get further, we need to scan deeper, which we already did. The website on port \texttt{5155} shows text from foreign languages, which is randomized and always prints out different text on refresh. The site on port \texttt{10458} prints out a message in \texttt{base64}, and lastly, the one on port \texttt{10448} has a basic authentication login prompt for a mini web shell. Figures 8 shows the content of each webpage.
+\newpage
 \begin{figure}[h]
-	\includegraphics[scale=0.4]{images/website1080.png}
+	\includegraphics[scale=0.25]{images/allesiten.png}
 	\centering
-	\caption{Contents of the webpage on port \texttt{1080}}
-\end{figure}
-\begin{figure}[h]
-	\includegraphics[scale=0.4]{images/website1080.png}
-	\centering
-	\caption{Contents of the webpage on port \texttt{1080}}
-\end{figure}
+	\caption{Showing the contents of each page using \texttt{curl}\footnotemark}
+\end{figure}\abc
+\footnote{The ports are different from those mentioned before, since instead of using screenshots from the browser, we opted to use \texttt{curl}. Additionally, on every refresh, the ports are randomized.}
 \begin{figure}[h]
 	\includegraphics[scale=0.4]{images/base64.png}
 	\centering
-	\caption{Results of the detailed nmap scan}
+	\caption{Decoding the \texttt{base64} message}
 \end{figure}\abc
 \subsection{breaking the http authtication}
 \subsection{sshing into the server}

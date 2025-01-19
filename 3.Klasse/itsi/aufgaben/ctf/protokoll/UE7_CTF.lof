@@ -5,6 +5,5 @@
 \contentsline {figure}{\numberline {5}{\ignorespaces Showing the network configuration of the virtual machines\relax }}{6}{figure.caption.7}%
 \contentsline {figure}{\numberline {6}{\ignorespaces Results of the nmap scan\relax }}{7}{figure.caption.8}%
 \contentsline {figure}{\numberline {7}{\ignorespaces Results of the detailed nmap scan\relax }}{7}{figure.caption.9}%
-\contentsline {figure}{\numberline {8}{\ignorespaces Contents of the webpage on port \texttt {1080}\relax }}{8}{figure.caption.10}%
-\contentsline {figure}{\numberline {9}{\ignorespaces Contents of the webpage on port \texttt {1080}\relax }}{8}{figure.caption.11}%
-\contentsline {figure}{\numberline {10}{\ignorespaces Results of the detailed nmap scan\relax }}{9}{figure.caption.12}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Showing the contents of each page using \texttt {curl}\let \reserved@d =[\def \par }}{8}{figure.caption.10}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Decoding the \texttt {base64} message\relax }}{8}{figure.caption.11}%
