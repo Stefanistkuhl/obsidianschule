@@ -89,13 +89,19 @@ Submission date:
 
 \section{Exercise Execution}
 \subsection{Setting up the Virtual mascheines}
-To get started with this CTF, make sure that VirtualBox version 7.1.4 is used. The VM to attack must be imported by double-clicking the provided \texttt{.ova} file. After the import is complete, the network settings must be changed to use Host-only Adapter mode. Since using the default Host-only network did not work, we had to create a new Host-only network. To do this, either press \texttt{<C-h>} or click on \texttt{File} > \texttt{Tools} > \texttt{Network Manager}.
+To get started with this CTF, make sure that VirtualBox version 7.1.4 is used. The VM to attack must be imported by double-clicking the provided \texttt{.ova} file. After the import is complete, the network settings must be changed to use Host-only Adapter mode. Since using the default Host-only network did not work, we had to create a new Host-only network. To do this, either press \texttt{<C-h>} or click on \texttt{File} > \texttt{Tools} > \texttt{Network Manager}, as shown in Figure 2.
 \begin{figure}[h]
-	\includegraphics[scale=0.5]{./images/openingNetworkManager.png}
+	\includegraphics[scale=0.4]{./images/openingNetworkManager.png}
 	\centering
-	\caption{Grouplogo}
+	\caption{Opening VirtualBox Network Manager settings}
 \end{figure}\abc
-In this menu, click on \texttt{Create}, then check the \texttt{Enable Server} box to enable the DHCP server so the target VM will receive an IP address. Then, click on \texttt{Adapter} to view the IP range of the network, which in our case is \texttt{192.168.15.0/24}. Next, open the virtual machine settings by selecting the VM in the list and pressing \texttt{<C-s>}. Under the \texttt{Network} section, change the network adapter to use the Host-only Adapter and select the VirtualBox Host-only Ethernet Adapter \#2, which was just created. Perform this step for both the target VM and the Kali VM.
+In this menu, click on \texttt{Create}, then check the \texttt{Enable Server} box to enable the DHCP server so the target VM will receive an IP address. Then, click on \texttt{Adapter} to view the IP range of the network, which in our case is \texttt{192.168.15.0/24}. 
+\begin{figure}[h]
+	\includegraphics[scale=0.4]{./images/openingNetworkManager.png}
+	\centering
+	\caption{Opening VirtualBox Network Manager settings}
+\end{figure}\abc
+Next, open the virtual machine settings by selecting the VM in the list and pressing \texttt{<C-s>}. Under the \texttt{Network} section, change the network adapter to use the Host-only Adapter and select the VirtualBox Host-only Ethernet Adapter \#2, which was just created. Perform this step for both the target VM and the Kali VM.
 \subsection{scanning the network}
 \subsection{exploring the websites}
 \subsection{breaking the http authtication}

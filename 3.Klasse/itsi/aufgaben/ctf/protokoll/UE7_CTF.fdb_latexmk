@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex UE7_CTF"] 1737294522 "UE7_CTF.aux" "UE7_CTF.bbl" "UE7_CTF" 1737295004 0
+["bibtex UE7_CTF"] 1737295338 "UE7_CTF.aux" "UE7_CTF.bbl" "UE7_CTF" 1737295343 0
   "./quellen.bib" 1737241178 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/share/texlive/texmf-dist/bibtex/bib/ieeetran/IEEEabrv.bib" 1440712899 20898 a5d2167c380db7dfff810b085c77ed63 ""
   "/usr/share/texlive/texmf-dist/bibtex/bst/ieeetran/IEEEtran.bst" 1440712899 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "UE7_CTF.aux" 1737295004 4473 7285b712c85cd7b872784948e2206a78 "lualatex"
+  "UE7_CTF.aux" 1737295343 4661 56e6def362ce9164764717a1b0b6c1dd "lualatex"
   (generated)
   "UE7_CTF.bbl"
   "UE7_CTF.blg"
   (rewritten before read)
-["lualatex"] 1737295000 "UE7_CTF.tex" "UE7_CTF.pdf" "UE7_CTF" 1737295004 0
+["lualatex"] 1737295339 "UE7_CTF.tex" "UE7_CTF.pdf" "UE7_CTF" 1737295343 0
   "/home/stefiii/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc" 1737294102 81819 943de47a424d8006cb945ecfb1acc821 ""
   "/home/stefiii/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc" 1737245634 128392 5ccdcd80529671c517f74edd952aa156 ""
   "/home/stefiii/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc" 1737245632 127309 2c3a7c325c755353a32b5f3d0c56cb88 ""
@@ -144,12 +144,12 @@
   "/usr/share/texmf/fonts/opentype/public/lm/lmroman12-bold.otf" 1255129361 110496 b9c8767d4cc3bf3f4b21f676bf89aa78 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1737245572 4623455 fa0568a71dd9a288d6c226ee477506c6 ""
   "/var/lib/texmf/web2c/luahbtex/lualatex.fmt" 1737245619 11864690 e3626c95e3c38c3f6dc39c4d8f32dd77 ""
-  "UE7_CTF.aux" 1737295004 4473 7285b712c85cd7b872784948e2206a78 "lualatex"
-  "UE7_CTF.bbl" 1737294522 877 628a2a8c68e066122d1514411e0b8455 "bibtex UE7_CTF"
-  "UE7_CTF.lof" 1737295004 158 026d3cca1291f9eec707342adfa895e2 "lualatex"
-  "UE7_CTF.out" 1737295004 4867 1508a786c250f6b2e168bb2dafe4d27c "lualatex"
-  "UE7_CTF.tex" 1737295000 3784 27379b03ce3af7d44f105b1e8054fdec ""
-  "UE7_CTF.toc" 1737295004 2484 7a7f120a75e462d60e646b1eabee8608 "lualatex"
+  "UE7_CTF.aux" 1737295343 4661 56e6def362ce9164764717a1b0b6c1dd "lualatex"
+  "UE7_CTF.bbl" 1737295339 877 628a2a8c68e066122d1514411e0b8455 "bibtex UE7_CTF"
+  "UE7_CTF.lof" 1737295343 305 41efb8623135a4a2fc1f7b552fad8794 "lualatex"
+  "UE7_CTF.out" 1737295343 4867 1508a786c250f6b2e168bb2dafe4d27c "lualatex"
+  "UE7_CTF.tex" 1737295332 4008 0ff5f8e2795d194dd08da2702b841aa2 ""
+  "UE7_CTF.toc" 1737295343 2484 7a7f120a75e462d60e646b1eabee8608 "lualatex"
   "images/logo.png" 1737241178 5251 cc1f58f2715d780a35156b77ab1d3f18 ""
   "images/menheraMagnifier.png" 1737293297 456308 ead24e055bf1df7966909101cbc01727 ""
   "images/openingNetworkManager.png" 1737294732 92430 f84a95840ebd2254ecd1565151bb43a5 ""

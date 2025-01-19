@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2025.1.19)  19 JAN 2025 14:56
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2025.1.19)  19 JAN 2025 15:02
  restricted system commands enabled.
  file:line:error style messages enabled.
 **UE7_CTF.tex
@@ -464,15 +464,19 @@ Package luatex.def Info: images/logo.png  used on input line 88.
 File: ./images/openingNetworkManager.png Graphic file (type png)
 <use ./images/openingNetworkManager.png>
 Package luatex.def Info: ./images/openingNetworkManager.png  used on input line 94.
-(luatex.def)             Requested size: 474.77258pt x 274.02307pt.
+(luatex.def)             Requested size: 379.81227pt x 219.2151pt.
+File: ./images/openingNetworkManager.png Graphic file (type png)
+<use ./images/openingNetworkManager.png>
+Package luatex.def Info: ./images/openingNetworkManager.png  used on input line 100.
+(luatex.def)             Requested size: 379.81227pt x 219.2151pt.
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 121.
+Package luatex.def Info: images/logo.png  used on input line 105.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
  [5<./images/openingNetworkManager.png>]
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 121.
+Package luatex.def Info: images/logo.png  used on input line 127.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
  [6] (./UE7_CTF.bbl
 
@@ -481,7 +485,7 @@ LaTeX Warning: Empty `thebibliography' environment on input line 24.
 )
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 124.
+Package luatex.def Info: images/logo.png  used on input line 130.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
  [7] (./UE7_CTF.lof)
 \tf@lof=\write5
@@ -489,7 +493,7 @@ Package luatex.def Info: images/logo.png  used on input line 124.
 \openout5 = UE7_CTF.lof
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 129.
+Package luatex.def Info: images/logo.png  used on input line 135.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
  [8] (./UE7_CTF.aux)
 Package rerunfilecheck Info: File `UE7_CTF.out' has not changed.
@@ -497,19 +501,19 @@ Package rerunfilecheck Info: File `UE7_CTF.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 13765 strings out of 478382
+ 13772 strings out of 478382
  100000,1977958 words of node,token memory allocated
  426 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 52 glue_spec, 4 attribute_list, 1 write nodes
-   avail lists: 2:786,3:438,4:98,5:321,6:108,7:3572,8:61,9:500,10:5,11:192
+   avail lists: 2:726,3:446,4:98,5:321,6:108,7:2911,8:61,9:500,10:5,11:167
  33322 multiletter control sequences out of 65536+600000
  33 fonts using 2393023 bytes
- 72i,16n,73p,643b,376s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,16n,73p,535b,376s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman12-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-regular.otf>
-Output written on UE7_CTF.pdf (8 pages, 408978 bytes).
+Output written on UE7_CTF.pdf (8 pages, 409451 bytes).
 
-PDF statistics: 229 PDF objects out of 1000 (max. 8388607)
- 199 compressed objects within 2 object streams
- 43 named destinations out of 1000 (max. 131072)
+PDF statistics: 232 PDF objects out of 1000 (max. 8388607)
+ 201 compressed objects within 3 object streams
+ 44 named destinations out of 1000 (max. 131072)
  225 words of extra memory for PDF output out of 10000 (max. 100000000)
 
