@@ -79,3 +79,9 @@ find / -type f -perm -4001 -exec ls -h {} \; 2> /dev/null
 ![](https://i.imgur.com/Rhiwe05.png)
 ![](https://i.imgur.com/DgJqQfv.png)
 ![](https://i.imgur.com/RW0x4DE.png)
+
+![](https://i.imgur.com/A0cWylF.png)
+![](https://i.imgur.com/q44fNeO.png)
+![](https://i.imgur.com/YhFldor.png)
+![](https://i.imgur.com/Ea1bdcX.png)
+![](https://i.imgur.com/sA48AMp.png)

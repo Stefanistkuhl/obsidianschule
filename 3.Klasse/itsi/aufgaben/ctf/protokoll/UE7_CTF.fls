@@ -263,6 +263,12 @@ INPUT ./images/logo.png
 INPUT ./images/logo.png
 INPUT ./images/logo.png
 INPUT ./images/logo.png
+INPUT /home/stefiii/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc
+INPUT ./images/openingNetworkManager.png
+INPUT ./images/openingNetworkManager.png
+INPUT ./images/openingNetworkManager.png
+INPUT ./images/logo.png
+INPUT ./images/logo.png
 INPUT ./images/logo.png
 INPUT ./images/logo.png
 INPUT ./UE7_CTF.bbl

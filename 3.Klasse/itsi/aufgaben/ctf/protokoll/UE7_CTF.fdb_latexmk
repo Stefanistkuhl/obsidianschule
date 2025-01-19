@@ -1,14 +1,15 @@
 # Fdb version 4
-["bibtex UE7_CTF"] 1737246591 "UE7_CTF.aux" "UE7_CTF.bbl" "UE7_CTF" 1737293501 0
+["bibtex UE7_CTF"] 1737294522 "UE7_CTF.aux" "UE7_CTF.bbl" "UE7_CTF" 1737295004 0
   "./quellen.bib" 1737241178 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/share/texlive/texmf-dist/bibtex/bib/ieeetran/IEEEabrv.bib" 1440712899 20898 a5d2167c380db7dfff810b085c77ed63 ""
   "/usr/share/texlive/texmf-dist/bibtex/bst/ieeetran/IEEEtran.bst" 1440712899 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "UE7_CTF.aux" 1737293500 4353 87fc06e31eaf89bec7e87da5a79eb75e "lualatex"
+  "UE7_CTF.aux" 1737295004 4473 7285b712c85cd7b872784948e2206a78 "lualatex"
   (generated)
   "UE7_CTF.bbl"
   "UE7_CTF.blg"
   (rewritten before read)
-["lualatex"] 1737293496 "UE7_CTF.tex" "UE7_CTF.pdf" "UE7_CTF" 1737293501 0
+["lualatex"] 1737295000 "UE7_CTF.tex" "UE7_CTF.pdf" "UE7_CTF" 1737295004 0
+  "/home/stefiii/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc" 1737294102 81819 943de47a424d8006cb945ecfb1acc821 ""
   "/home/stefiii/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc" 1737245634 128392 5ccdcd80529671c517f74edd952aa156 ""
   "/home/stefiii/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc" 1737245632 127309 2c3a7c325c755353a32b5f3d0c56cb88 ""
   "/home/stefiii/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmroman12-bold.luc" 1737245634 128281 9d287a5267ef7e46310d2a20eb9d5ccd ""
@@ -137,19 +138,21 @@
   "/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/luaotfload-tounicode.lua" 1664913378 7528 9bc62ed441ed23b5222925b019479f78 ""
   "/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/luaotfload-unicode.lua" 1664913378 7917 30f5b1073daa0c6e85ca1db843fbd9cd ""
   "/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/luaotfload.lua" 1664913378 13565 83bac25a8cf8630acccd6a7f8bb9f791 ""
+  "/usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf" 1255129361 64684 15a2082c8e31f411875a86ea2d29a0ee ""
   "/usr/share/texmf/fonts/opentype/public/lm/lmroman10-bold.otf" 1255129361 111240 0af0b64d6d3df41bead3f9de314afbd4 ""
   "/usr/share/texmf/fonts/opentype/public/lm/lmroman10-regular.otf" 1255129361 111536 ae9d1b331000d544f47e5223081b7b54 ""
   "/usr/share/texmf/fonts/opentype/public/lm/lmroman12-bold.otf" 1255129361 110496 b9c8767d4cc3bf3f4b21f676bf89aa78 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1737245572 4623455 fa0568a71dd9a288d6c226ee477506c6 ""
   "/var/lib/texmf/web2c/luahbtex/lualatex.fmt" 1737245619 11864690 e3626c95e3c38c3f6dc39c4d8f32dd77 ""
-  "UE7_CTF.aux" 1737293500 4353 87fc06e31eaf89bec7e87da5a79eb75e "lualatex"
-  "UE7_CTF.bbl" 1737246591 877 628a2a8c68e066122d1514411e0b8455 "bibtex UE7_CTF"
-  "UE7_CTF.lof" 1737293500 79 e9b536a6beb6d127a36aa9cfbd49a253 "lualatex"
-  "UE7_CTF.out" 1737293500 4867 1508a786c250f6b2e168bb2dafe4d27c "lualatex"
-  "UE7_CTF.tex" 1737293495 2578 91abcda84d83d8bdba936082ccf63e4e ""
-  "UE7_CTF.toc" 1737293500 2484 15d50ebe7ed9ab973c506368ba7e80d4 "lualatex"
+  "UE7_CTF.aux" 1737295004 4473 7285b712c85cd7b872784948e2206a78 "lualatex"
+  "UE7_CTF.bbl" 1737294522 877 628a2a8c68e066122d1514411e0b8455 "bibtex UE7_CTF"
+  "UE7_CTF.lof" 1737295004 158 026d3cca1291f9eec707342adfa895e2 "lualatex"
+  "UE7_CTF.out" 1737295004 4867 1508a786c250f6b2e168bb2dafe4d27c "lualatex"
+  "UE7_CTF.tex" 1737295000 3784 27379b03ce3af7d44f105b1e8054fdec ""
+  "UE7_CTF.toc" 1737295004 2484 7a7f120a75e462d60e646b1eabee8608 "lualatex"
   "images/logo.png" 1737241178 5251 cc1f58f2715d780a35156b77ab1d3f18 ""
   "images/menheraMagnifier.png" 1737293297 456308 ead24e055bf1df7966909101cbc01727 ""
+  "images/openingNetworkManager.png" 1737294732 92430 f84a95840ebd2254ecd1565151bb43a5 ""
   (generated)
   "UE7_CTF.aux"
   "UE7_CTF.lof"
