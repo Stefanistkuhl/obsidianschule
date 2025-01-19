@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2025.1.19)  19 JAN 2025 18:03
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2025.1.19)  19 JAN 2025 18:24
  restricted system commands enabled.
  file:line:error style messages enabled.
 **UE7_CTF.tex
@@ -210,7 +210,9 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
-) (/usr/share/texlive/texmf-dist/tex/latex/outlines/outlines.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)) (/usr/share/texlive/texmf-dist/tex/latex/outlines/outlines.sty
 Package: outlines 2012/1/23 1.1 Ch. Pecheur
  (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
@@ -445,12 +447,12 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<images/menheraMagnifier.png, id=116, 678.535pt x 963.6pt>
+<images/menheraMagnifier.png, id=120, 678.535pt x 963.6pt>
 File: images/menheraMagnifier.png Graphic file (type png)
 <use images/menheraMagnifier.png>
 Package luatex.def Info: images/menheraMagnifier.png  used on input line 54.
 (luatex.def)             Requested size: 339.26666pt x 481.79883pt.
-<images/logo.png, id=117, 413.545pt x 122.4575pt>
+<images/logo.png, id=121, 413.545pt x 122.4575pt>
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
 Package luatex.def Info: images/logo.png  used on input line 75.
@@ -476,7 +478,7 @@ File: images/logo.png Graphic file (type png)
 Package luatex.def Info: images/logo.png  used on input line 86.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
  [3]
-<./images/nwipsfr.png, id=169, 688.5725pt x 540.0175pt>
+<./images/nwipsfr.png, id=174, 688.5725pt x 540.0175pt>
 File: ./images/nwipsfr.png Graphic file (type png)
 <use ./images/nwipsfr.png>
 Package luatex.def Info: ./images/nwipsfr.png  used on input line 90.
@@ -491,7 +493,7 @@ File: images/logo.png Graphic file (type png)
 Package luatex.def Info: images/logo.png  used on input line 95.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [4<./images/nwipsfr.png>]
-<./images/openingNetworkManager.png, id=176, 949.5475pt x 548.0475pt>
+<./images/openingNetworkManager.png, id=181, 949.5475pt x 548.0475pt>
 File: ./images/openingNetworkManager.png Graphic file (type png)
 <use ./images/openingNetworkManager.png>
 Package luatex.def Info: ./images/openingNetworkManager.png  used on input line 101.
@@ -505,7 +507,7 @@ File: images/logo.png Graphic file (type png)
 Package luatex.def Info: images/logo.png  used on input line 113.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
  [5<./images/openingNetworkManager.png>]
-<./images/vmnwconf.png, id=185, 767.86874pt x 949.5475pt>
+<./images/vmnwconf.png, id=190, 767.86874pt x 949.5475pt>
 File: ./images/vmnwconf.png Graphic file (type png)
 <use ./images/vmnwconf.png>
 Package luatex.def Info: ./images/vmnwconf.png  used on input line 115.
@@ -520,12 +522,12 @@ File: images/logo.png Graphic file (type png)
 Package luatex.def Info: images/logo.png  used on input line 119.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [6<./images/vmnwconf.png>]
-<images/firstnmapscan.png, id=193, 591.20876pt x 424.58624pt>
+<images/firstnmapscan.png, id=198, 591.20876pt x 424.58624pt>
 File: images/firstnmapscan.png Graphic file (type png)
 <use images/firstnmapscan.png>
 Package luatex.def Info: images/firstnmapscan.png  used on input line 123.
 (luatex.def)             Requested size: 236.47931pt x 169.83148pt.
-<images/nmapfr.png, id=198, 1201.48875pt x 309.155pt>
+<images/nmapfr.png, id=203, 1201.48875pt x 309.155pt>
 File: images/nmapfr.png Graphic file (type png)
 <use images/nmapfr.png>
 Package luatex.def Info: images/nmapfr.png  used on input line 130.
@@ -535,117 +537,89 @@ File: images/logo.png Graphic file (type png)
 Package luatex.def Info: images/logo.png  used on input line 137.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
  [7<./images/firstnmapscan.png><./images/nmapfr.png>]
-<images/allesiten.png, id=211, 1701.35625pt x 374.39874pt>
+<images/allesiten.png, id=216, 1701.35625pt x 374.39874pt>
 File: images/allesiten.png Graphic file (type png)
 <use images/allesiten.png>
 Package luatex.def Info: images/allesiten.png  used on input line 139.
 (luatex.def)             Requested size: 425.33803pt x 93.59946pt.
-
-./UE7_CTF.tex:141: Argument of \caption@ydblarg has an extra }.
-<inserted text> 
-\par 
-l.141 ... every refresh, the ports are randomized.}}
-                                                  
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-{\@caption \@captype }{\@xfootnote }\def \reserved@b {\stepcounter \@mpfn \ETC.
-./UE7_CTF.tex:141: Paragraph ended before \caption@ydblarg was complete.
-<to be read again> 
-\par 
-l.141 ... every refresh, the ports are randomized.}}
-                                                  
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 141.
+(Font)              <8> on input line 143.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 141.
-<images/base64.png, id=213, 731.73375pt x 91.34125pt>
+(Font)              <6> on input line 143.
+<images/base64.png, id=218, 731.73375pt x 91.34125pt>
 File: images/base64.png Graphic file (type png)
 <use images/base64.png>
-Package luatex.def Info: images/base64.png  used on input line 144.
+Package luatex.def Info: images/base64.png  used on input line 146.
 (luatex.def)             Requested size: 292.68831pt x 36.53584pt.
+ (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+<images/gettextsh.png, id=219, 378.41376pt x 404.51125pt>
+File: images/gettextsh.png Graphic file (type png)
+<use images/gettextsh.png>
+Package luatex.def Info: images/gettextsh.png  used on input line 160.
+(luatex.def)             Requested size: 151.36281pt x 161.80162pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--148
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
+
+ []
+
+<images/labngs.png, id=220, 844.15375pt x 315.1775pt>
+File: images/labngs.png Graphic file (type png)
+<use images/labngs.png>
+Package luatex.def Info: images/labngs.png  used on input line 166.
+(luatex.def)             Requested size: 337.65552pt x 126.06876pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
 
  []
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 168.
+Package luatex.def Info: images/logo.png  used on input line 192.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
-[8<./images/allesiten.png><./images/base64.png>] (./UE7_CTF.bbl)
+[8<./images/allesiten.png><./images/base64.png><./images/gettextsh.png>]
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 171.
+Package luatex.def Info: images/logo.png  used on input line 192.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
- [9] (./UE7_CTF.lof
-Runaway argument?
-{\numberline {8}{\ignorespaces Showing the contents of each page usin\ETC.
-./UE7_CTF.lof:8: Paragraph ended before \contentsline was complete.
-<to be read again> 
-\par 
-l.8 ...ng \texttt {curl}\let \reserved@d =[\def \par
-                                                   }}{8}{figure.caption.10}%
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-./UE7_CTF.lof:8: Extra }, or forgotten \endgroup.
-l.8 ... \texttt {curl}\let \reserved@d =[\def \par }
-                                                  }{8}{figure.caption.10}%
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./UE7_CTF.lof:8: Extra }, or forgotten \endgroup.
-l.8 ...\texttt {curl}\let \reserved@d =[\def \par }}
-                                                  {8}{figure.caption.10}%
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-)
+ [9<./images/labngs.png>] (./UE7_CTF.bbl)
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package luatex.def Info: images/logo.png  used on input line 195.
+(luatex.def)             Requested size: 186.09352pt x 55.10535pt.
+ [10] (./UE7_CTF.lof)
 \tf@lof=\write5
 
 \openout5 = UE7_CTF.lof
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 176.
+Package luatex.def Info: images/logo.png  used on input line 200.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
- [10] (./UE7_CTF.aux)
+ [11] (./UE7_CTF.aux)
 Package rerunfilecheck Info: File `UE7_CTF.out' has not changed.
-(rerunfilecheck)             Checksum: 3CE30ADDEF0B61D764BB3EB61C857C35;5028.
+(rerunfilecheck)             Checksum: 74BF3FD0195FC153084C2AB9BA2514B8;5309.
 )
 
 Here is how much of LuaTeX's memory you used:
- 15174 strings out of 478382
+ 15451 strings out of 478382
  100000,1977958 words of node,token memory allocated
- 447 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 3 glue, 3 kern, 1 glyph, 6 attribute, 52 glue_spec, 6 attribute_list, 1 write, 1 pdf_action nodes
-   avail lists: 2:764,3:485,4:98,5:321,6:107,7:4343,8:81,9:500,10:10,11:209
- 34646 multiletter control sequences out of 65536+600000
+ 480 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 6 glue, 3 kern, 1 glyph, 9 attribute, 52 glue_spec, 9 attribute_list, 1 write, 1 pdf_action nodes
+   avail lists: 2:1196,3:442,4:102,5:347,6:110,7:4340,8:81,9:756,10:10,11:209
+ 34869 multiletter control sequences out of 65536+600000
  42 fonts using 3155927 bytes
- 72i,16n,73p,574b,520s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,16n,73p,574b,620s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf/fonts/opentype/public/lm/lmmono8-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman8-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman6-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman7-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman12-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on UE7_CTF.pdf (11 pages, 1092929 bytes).
 
-warning  (pdf backend): unreferenced destination with name 'Hfootnote.1'
-</usr/share/texmf/fonts/opentype/public/lm/lmroman7-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman12-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on UE7_CTF.pdf (10 pages, 1010258 bytes).
-
-PDF statistics: 289 PDF objects out of 1000 (max. 8388607)
- 242 compressed objects within 3 object streams
- 56 named destinations out of 1000 (max. 131072)
- 225 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 336 PDF objects out of 1000 (max. 8388607)
+ 277 compressed objects within 3 object streams
+ 67 named destinations out of 1000 (max. 131072)
+ 233 words of extra memory for PDF output out of 10000 (max. 100000000)
 

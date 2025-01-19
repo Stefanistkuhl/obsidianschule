@@ -176,6 +176,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx
 INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/outlines/outlines.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/outlines/outlines.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/outlines/outlines.sty
@@ -308,6 +310,18 @@ INPUT /home/stefiii/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmmono
 INPUT ./images/base64.png
 INPUT ./images/base64.png
 INPUT ./images/base64.png
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+INPUT ./images/gettextsh.png
+INPUT ./images/gettextsh.png
+INPUT ./images/gettextsh.png
+INPUT ./images/labngs.png
+INPUT ./images/labngs.png
+INPUT ./images/labngs.png
+INPUT ./images/logo.png
+INPUT ./images/logo.png
 INPUT ./images/logo.png
 INPUT ./images/logo.png
 INPUT ./UE7_CTF.bbl
