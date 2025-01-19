@@ -73,3 +73,9 @@ find / -type f -perm -4001 -exec ls -h {} \; 2> /dev/null
 5. process
 6. sudo
 7. root
+
+![](https://i.imgur.com/7ALcUgK.png)
+![](https://i.imgur.com/pxEq0RY.png)
+![](https://i.imgur.com/Rhiwe05.png)
+![](https://i.imgur.com/DgJqQfv.png)
+![](https://i.imgur.com/RW0x4DE.png)
