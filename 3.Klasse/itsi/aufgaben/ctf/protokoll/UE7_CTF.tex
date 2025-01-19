@@ -249,8 +249,23 @@ If we read the file \texttt{/bin/ctf\_server.py}, we first see that the ranges o
 	\centering
 	\caption{Viewing the flag in the server Python file}
 \end{figure}\abc
+\newpage
 \subsection{Investigating secret\_flag.txt}
 If we simply cat this file as the current user, we can't do that since we lack permission and are not in the sudoers group or file. Therefore, we have two options: either find a different user who has the privileges to read the file or escalate our current privileges to become root. The first option is the more reasonable one, which we will use.
+To see all the users we can log into, we can search through the file using the following grep command: \texttt{grep -v "nologin" /etc/passwd}. With this command, we display all the lines of the \texttt{/etc/passwd} file that don't contain \texttt{nologin} to only display the users we can log in as.
+\begin{figure}[ht]
+	\includegraphics[scale=0.45]{images/usr.png}
+	\centering
+	\caption{Listing the users we can log in as}
+\end{figure}\abc
+As seen in Figure 21, we got two new options as users to log in: \texttt{ubuntu} and \texttt{CheerfulOtter}. Since we had already tried brute-forcing the root password from the very start, just in case, and the user users have not set an interactive login shell, we chose \texttt{CheerfulOtter} because the name sounds more similar to \texttt{GrumpyCat}. We also brute-forced the \texttt{ubuntu} user in the background. This was a correct assumption, as the password for the \texttt{CheerfulOtter} user was also "password", and we didn't find the password for the \texttt{ubuntu} user, which also had its sudo permissions removed in the \texttt{remove\_ubuntu\_from\_sudo()} function in the setup script.
+\begin{figure}[h]
+	\includegraphics[scale=0.45]{images/cheerfulotpw.png}
+	\centering
+	\caption{Getting the credentials for CheerfulOtter}
+\end{figure}\abc
+As seen in Figure 22, we got the credentials for the CheerfulOtter user. If we log in as that user and run \texttt{sudo -l} to see what permissions we have with sudo, we can see that the only command we can run elevated is \texttt{/bin/cat /opt/secret\_flag.txt}, which we need in order to find the flag.
+
 \subsection{history flag}
 \subsection{tmp flag}
 \subsection{it's over but actually not}

@@ -13,19 +13,19 @@
 \contentsline {subsubsection}{\numberline {4.7.2}Investigating the listening service}{11}{subsubsection.4.7.2}%
 \contentsline {subsection}{\numberline {4.8}Investigating the process flag}{12}{subsection.4.8}%
 \contentsline {subsection}{\numberline {4.9}Further investigating the webserver}{12}{subsection.4.9}%
-\contentsline {subsection}{\numberline {4.10}Investigating secret\_flag.txt}{12}{subsection.4.10}%
-\contentsline {subsection}{\numberline {4.11}history flag}{13}{subsection.4.11}%
-\contentsline {subsection}{\numberline {4.12}tmp flag}{13}{subsection.4.12}%
-\contentsline {subsection}{\numberline {4.13}it's over but actually not}{13}{subsection.4.13}%
-\contentsline {subsection}{\numberline {4.14}trying to escalate privaledgs}{13}{subsection.4.14}%
-\contentsline {subsubsection}{\numberline {4.14.1}smart enumeration}{13}{subsubsection.4.14.1}%
-\contentsline {subsubsection}{\numberline {4.14.2}trying a kernel level exploit}{13}{subsubsection.4.14.2}%
-\contentsline {subsubsection}{\numberline {4.14.3}checking suid binarys}{13}{subsubsection.4.14.3}%
-\contentsline {subsubsection}{\numberline {4.14.4}checking root proccses}{13}{subsubsection.4.14.4}%
-\contentsline {subsubsection}{\numberline {4.14.5}trying metasploit}{13}{subsubsection.4.14.5}%
-\contentsline {subsubsection}{\numberline {4.14.6}trying other common ctf priv escalation ways}{13}{subsubsection.4.14.6}%
-\contentsline {subsection}{\numberline {4.15}reseting the root password and exploring the vm}{13}{subsection.4.15}%
-\contentsline {subsection}{\numberline {4.16}7 flags}{13}{subsection.4.16}%
-\contentsline {subsection}{\numberline {4.17}talking abt the setup etc or sum idk :shruge:}{13}{subsection.4.17}%
-\contentsline {section}{\numberline {5}References}{14}{section.5}%
-\contentsline {section}{\numberline {6}List of figures}{15}{section.6}%
+\contentsline {subsection}{\numberline {4.10}Investigating secret\_flag.txt}{13}{subsection.4.10}%
+\contentsline {subsection}{\numberline {4.11}history flag}{14}{subsection.4.11}%
+\contentsline {subsection}{\numberline {4.12}tmp flag}{14}{subsection.4.12}%
+\contentsline {subsection}{\numberline {4.13}it's over but actually not}{14}{subsection.4.13}%
+\contentsline {subsection}{\numberline {4.14}trying to escalate privaledgs}{14}{subsection.4.14}%
+\contentsline {subsubsection}{\numberline {4.14.1}smart enumeration}{14}{subsubsection.4.14.1}%
+\contentsline {subsubsection}{\numberline {4.14.2}trying a kernel level exploit}{14}{subsubsection.4.14.2}%
+\contentsline {subsubsection}{\numberline {4.14.3}checking suid binarys}{14}{subsubsection.4.14.3}%
+\contentsline {subsubsection}{\numberline {4.14.4}checking root proccses}{14}{subsubsection.4.14.4}%
+\contentsline {subsubsection}{\numberline {4.14.5}trying metasploit}{14}{subsubsection.4.14.5}%
+\contentsline {subsubsection}{\numberline {4.14.6}trying other common ctf priv escalation ways}{14}{subsubsection.4.14.6}%
+\contentsline {subsection}{\numberline {4.15}reseting the root password and exploring the vm}{14}{subsection.4.15}%
+\contentsline {subsection}{\numberline {4.16}7 flags}{14}{subsection.4.16}%
+\contentsline {subsection}{\numberline {4.17}talking abt the setup etc or sum idk :shruge:}{14}{subsection.4.17}%
+\contentsline {section}{\numberline {5}References}{15}{section.5}%
+\contentsline {section}{\numberline {6}List of figures}{16}{section.6}%
