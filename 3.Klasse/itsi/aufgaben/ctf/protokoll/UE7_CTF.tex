@@ -218,15 +218,23 @@ As we can see, we found a file called \texttt{secret\_flag.txt} and \texttt{flag
 \end{figure}\abc
 To have a better structure in this documentation, I will list the initial findings from the exploration and create a section for each flag. This will make the document easier to read and more organized.
 \subsubsection{Investigating the listening service}
-With \texttt{ss -tulnp}, we can examine all listening process services on the system for TCP and UDP, along with the processes they use, if we have permission to see that.
+With \texttt{ss -tulnp}, we can examine all listening process services on the system for TCP and UDP, along with the processes they use, if we have permission to see that. This will be further investigated in section 4.9.
 \begin{figure}[h]
 	\includegraphics[scale=0.35]{images/sstunlp.png}
 	\centering
 	\caption{Viewing the listening services}
 	\label{fig:sstunlp}
 \end{figure}\abc
+\newpage
 \subsection{Investigating the process flag}
-\subsection{Investigating the webserver}
+Lets retrun to the file \texttt{flag\_process.sh} to get this flag as shown in Figure 18.
+\begin{figure}[ht]
+	\includegraphics[scale=0.55]{images/processflag.png}
+	\centering
+	\caption{Viewing the check\_running\_processes flag}
+\end{figure}\abc
+
+\subsection{Further investigating the webserver}
 Luckily, as seen in \textcolor{blue}{\hyperref[fig:sstunlp]{Figure \ref{fig:sstunlp}}}, it appears that the webserver has been started as the current user, which we can further inspect with \texttt{ps aux | grep python}. As shown in Figure 18, the process has been started by the root user as GrumpyCat.
 
 \begin{figure}[ht]

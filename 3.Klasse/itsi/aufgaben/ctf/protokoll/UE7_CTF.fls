@@ -346,12 +346,17 @@ INPUT ./images/sstunlp.png
 INPUT ./images/sstunlp.png
 INPUT ./images/logo.png
 INPUT ./images/logo.png
+INPUT ./images/processflag.png
+INPUT ./images/processflag.png
+INPUT ./images/processflag.png
 INPUT ./images/psauxpy.png
 INPUT ./images/psauxpy.png
 INPUT ./images/psauxpy.png
 INPUT ./images/commentflag.png
 INPUT ./images/commentflag.png
 INPUT ./images/commentflag.png
+INPUT ./images/logo.png
+INPUT ./images/logo.png
 INPUT ./images/logo.png
 INPUT ./images/logo.png
 INPUT ./UE7_CTF.bbl
