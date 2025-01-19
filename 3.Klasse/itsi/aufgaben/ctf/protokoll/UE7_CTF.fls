@@ -235,9 +235,9 @@ INPUT ./UE7_CTF.out
 OUTPUT UE7_CTF.out
 INPUT /home/stefiii/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmroman12-regular.luc
 INPUT /home/stefiii/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmroman12-bold.luc
-INPUT ./images/mika.jpeg
-INPUT ./images/mika.jpeg
-INPUT ./images/mika.jpeg
+INPUT ./images/menheraMagnifier.png
+INPUT ./images/menheraMagnifier.png
+INPUT ./images/menheraMagnifier.png
 INPUT ./images/logo.png
 INPUT ./images/logo.png
 INPUT ./images/logo.png

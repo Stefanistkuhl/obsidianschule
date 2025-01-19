@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2025.1.19)  19 JAN 2025 01:29
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2025.1.19)  19 JAN 2025 14:31
  restricted system commands enabled.
  file:line:error style messages enabled.
 **UE7_CTF.tex
@@ -424,19 +424,19 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<images/mika.jpeg, id=116, 1606.0pt x 1606.0pt>
-File: images/mika.jpeg Graphic file (type jpg)
-<use images/mika.jpeg>
-Package luatex.def Info: images/mika.jpeg  used on input line 52.
-(luatex.def)             Requested size: 481.80373pt x 481.80373pt.
+<images/menheraMagnifier.png, id=116, 678.535pt x 963.6pt>
+File: images/menheraMagnifier.png Graphic file (type png)
+<use images/menheraMagnifier.png>
+Package luatex.def Info: images/menheraMagnifier.png  used on input line 52.
+(luatex.def)             Requested size: 339.26666pt x 481.79883pt.
 <images/logo.png, id=117, 413.545pt x 122.4575pt>
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 72.
+Package luatex.def Info: images/logo.png  used on input line 73.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
-<./images/logo.png><./images/mika.jpeg>] (./UE7_CTF.toc
+<./images/logo.png><./images/menheraMagnifier.png>] (./UE7_CTF.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -447,22 +447,22 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \openout4 = UE7_CTF.toc
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 75.
+Package luatex.def Info: images/logo.png  used on input line 76.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
  [2]
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 83.
+Package luatex.def Info: images/logo.png  used on input line 84.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
  [3]
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 87.
+Package luatex.def Info: images/logo.png  used on input line 88.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
  [4]
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 113.
+Package luatex.def Info: images/logo.png  used on input line 115.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
  [5] (./UE7_CTF.bbl
 
@@ -471,7 +471,7 @@ LaTeX Warning: Empty `thebibliography' environment on input line 24.
 )
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 116.
+Package luatex.def Info: images/logo.png  used on input line 118.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
  [6] (./UE7_CTF.lof)
 \tf@lof=\write5
@@ -479,7 +479,7 @@ Package luatex.def Info: images/logo.png  used on input line 116.
 \openout5 = UE7_CTF.lof
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 121.
+Package luatex.def Info: images/logo.png  used on input line 123.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
  [7] (./UE7_CTF.aux)
 Package rerunfilecheck Info: File `UE7_CTF.out' has not changed.
@@ -496,9 +496,9 @@ Here is how much of LuaTeX's memory you used:
  32 fonts using 2266935 bytes
  72i,16n,73p,344b,376s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/opentype/public/lm/lmroman10-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman12-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-regular.otf>
-Output written on UE7_CTF.pdf (7 pages, 198584 bytes).
+Output written on UE7_CTF.pdf (7 pages, 336518 bytes).
 
-PDF statistics: 213 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 214 PDF objects out of 1000 (max. 8388607)
  190 compressed objects within 2 object streams
  41 named destinations out of 1000 (max. 131072)
  225 words of extra memory for PDF output out of 10000 (max. 100000000)
