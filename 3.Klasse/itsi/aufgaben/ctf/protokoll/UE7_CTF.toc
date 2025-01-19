@@ -6,24 +6,24 @@
 \contentsline {subsection}{\numberline {4.2}Reconnaissance: Scanning the Network}{7}{subsection.4.2}%
 \contentsline {subsection}{\numberline {4.3}Reconnaissance: Exploring the websites}{7}{subsection.4.3}%
 \contentsline {subsection}{\numberline {4.4}Weaponization: Evaluating the needed tools}{9}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}breaking the http authtication}{9}{subsection.4.5}%
-\contentsline {subsection}{\numberline {4.6}sshing into the server}{9}{subsection.4.6}%
-\contentsline {subsection}{\numberline {4.7}exploring the system}{9}{subsection.4.7}%
-\contentsline {subsection}{\numberline {4.8}procces flag}{9}{subsection.4.8}%
-\contentsline {subsection}{\numberline {4.9}comment flag}{9}{subsection.4.9}%
-\contentsline {subsection}{\numberline {4.10}sudo flag}{9}{subsection.4.10}%
-\contentsline {subsection}{\numberline {4.11}history flag}{9}{subsection.4.11}%
-\contentsline {subsection}{\numberline {4.12}tmp flag}{9}{subsection.4.12}%
-\contentsline {subsection}{\numberline {4.13}it's over but actually not}{9}{subsection.4.13}%
-\contentsline {subsection}{\numberline {4.14}trying to escalate privaledgs}{9}{subsection.4.14}%
-\contentsline {subsubsection}{\numberline {4.14.1}smart enumeration}{9}{subsubsection.4.14.1}%
-\contentsline {subsubsection}{\numberline {4.14.2}trying a kernel level exploit}{9}{subsubsection.4.14.2}%
-\contentsline {subsubsection}{\numberline {4.14.3}checking suid binarys}{9}{subsubsection.4.14.3}%
-\contentsline {subsubsection}{\numberline {4.14.4}checking root proccses}{9}{subsubsection.4.14.4}%
-\contentsline {subsubsection}{\numberline {4.14.5}trying metasploit}{9}{subsubsection.4.14.5}%
-\contentsline {subsubsection}{\numberline {4.14.6}trying other common ctf priv escalation ways}{9}{subsubsection.4.14.6}%
-\contentsline {subsection}{\numberline {4.15}reseting the root password and exploring the vm}{9}{subsection.4.15}%
-\contentsline {subsection}{\numberline {4.16}7 flags}{9}{subsection.4.16}%
-\contentsline {subsection}{\numberline {4.17}talking abt the setup etc or sum idk :shruge:}{9}{subsection.4.17}%
-\contentsline {section}{\numberline {5}References}{10}{section.5}%
-\contentsline {section}{\numberline {6}List of figures}{11}{section.6}%
+\contentsline {subsection}{\numberline {4.5}Exploitation: Using Hydra to break HTTP basic authentication}{9}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}sshing into the server}{10}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}exploring the system}{10}{subsection.4.7}%
+\contentsline {subsection}{\numberline {4.8}procces flag}{10}{subsection.4.8}%
+\contentsline {subsection}{\numberline {4.9}comment flag}{10}{subsection.4.9}%
+\contentsline {subsection}{\numberline {4.10}sudo flag}{10}{subsection.4.10}%
+\contentsline {subsection}{\numberline {4.11}history flag}{10}{subsection.4.11}%
+\contentsline {subsection}{\numberline {4.12}tmp flag}{10}{subsection.4.12}%
+\contentsline {subsection}{\numberline {4.13}it's over but actually not}{10}{subsection.4.13}%
+\contentsline {subsection}{\numberline {4.14}trying to escalate privaledgs}{10}{subsection.4.14}%
+\contentsline {subsubsection}{\numberline {4.14.1}smart enumeration}{10}{subsubsection.4.14.1}%
+\contentsline {subsubsection}{\numberline {4.14.2}trying a kernel level exploit}{10}{subsubsection.4.14.2}%
+\contentsline {subsubsection}{\numberline {4.14.3}checking suid binarys}{10}{subsubsection.4.14.3}%
+\contentsline {subsubsection}{\numberline {4.14.4}checking root proccses}{10}{subsubsection.4.14.4}%
+\contentsline {subsubsection}{\numberline {4.14.5}trying metasploit}{10}{subsubsection.4.14.5}%
+\contentsline {subsubsection}{\numberline {4.14.6}trying other common ctf priv escalation ways}{10}{subsubsection.4.14.6}%
+\contentsline {subsection}{\numberline {4.15}reseting the root password and exploring the vm}{10}{subsection.4.15}%
+\contentsline {subsection}{\numberline {4.16}7 flags}{10}{subsection.4.16}%
+\contentsline {subsection}{\numberline {4.17}talking abt the setup etc or sum idk :shruge:}{10}{subsection.4.17}%
+\contentsline {section}{\numberline {5}References}{11}{section.5}%
+\contentsline {section}{\numberline {6}List of figures}{12}{section.6}%

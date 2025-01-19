@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2025.1.19)  19 JAN 2025 18:24
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2025.1.19)  19 JAN 2025 18:44
  restricted system commands enabled.
  file:line:error style messages enabled.
 **UE7_CTF.tex
@@ -561,65 +561,72 @@ File: images/gettextsh.png Graphic file (type png)
 <use images/gettextsh.png>
 Package luatex.def Info: images/gettextsh.png  used on input line 160.
 (luatex.def)             Requested size: 151.36281pt x 161.80162pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 163--164
-
- []
-
 <images/labngs.png, id=220, 844.15375pt x 315.1775pt>
 File: images/labngs.png Graphic file (type png)
 <use images/labngs.png>
 Package luatex.def Info: images/labngs.png  used on input line 166.
 (luatex.def)             Requested size: 337.65552pt x 126.06876pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 169--170
+Underfull \hbox (badness 10000) in paragraph at lines 163--170
 
  []
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 192.
+Package luatex.def Info: images/logo.png  used on input line 172.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [8<./images/allesiten.png><./images/base64.png><./images/gettextsh.png>]
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 192.
+Package luatex.def Info: images/logo.png  used on input line 202.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
- [9<./images/labngs.png>] (./UE7_CTF.bbl)
+ [9<./images/labngs.png>]
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 195.
+Package luatex.def Info: images/logo.png  used on input line 202.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
- [10] (./UE7_CTF.lof)
+ [10] (./UE7_CTF.bbl
+Underfull \hbox (badness 4699) in paragraph at lines 47--50
+[]\TU/lmr/m/n/10 Jan. 2025, [On-line; ac-cessed 19. Jan. 2025]. [On-line]. Avail-
+ []
+
+
+Underfull \hbox (badness 3460) in paragraph at lines 47--50
+\TU/lmr/m/n/10 able: []$https://raw.githubusercontent.com/danielmiessler/SecLists/refs/heads/master/Passwords/
+ []
+
+)
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package luatex.def Info: images/logo.png  used on input line 205.
+(luatex.def)             Requested size: 186.09352pt x 55.10535pt.
+ [11] (./UE7_CTF.lof)
 \tf@lof=\write5
 
 \openout5 = UE7_CTF.lof
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 200.
+Package luatex.def Info: images/logo.png  used on input line 210.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
- [11] (./UE7_CTF.aux)
+ [12] (./UE7_CTF.aux)
 Package rerunfilecheck Info: File `UE7_CTF.out' has not changed.
-(rerunfilecheck)             Checksum: 74BF3FD0195FC153084C2AB9BA2514B8;5309.
+(rerunfilecheck)             Checksum: 44D66A69E71AF1DDF990498584BB83AC;5471.
 )
 
 Here is how much of LuaTeX's memory you used:
- 15451 strings out of 478382
+ 15482 strings out of 478382
  100000,1977958 words of node,token memory allocated
- 480 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 6 glue, 3 kern, 1 glyph, 9 attribute, 52 glue_spec, 9 attribute_list, 1 write, 1 pdf_action nodes
-   avail lists: 2:1196,3:442,4:102,5:347,6:110,7:4340,8:81,9:756,10:10,11:209
- 34869 multiletter control sequences out of 65536+600000
+ 490 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 6 glue, 3 kern, 1 glyph, 10 attribute, 52 glue_spec, 10 attribute_list, 1 write, 2 pdf_action nodes
+   avail lists: 2:896,3:372,4:102,5:352,6:109,7:4340,8:153,9:719,10:10,11:209
+ 34885 multiletter control sequences out of 65536+600000
  42 fonts using 3155927 bytes
  72i,16n,73p,574b,620s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/opentype/public/lm/lmmono8-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman8-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman6-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman7-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman12-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on UE7_CTF.pdf (11 pages, 1092929 bytes).
+Output written on UE7_CTF.pdf (12 pages, 1095449 bytes).
 
-PDF statistics: 336 PDF objects out of 1000 (max. 8388607)
- 277 compressed objects within 3 object streams
- 67 named destinations out of 1000 (max. 131072)
+PDF statistics: 352 PDF objects out of 1000 (max. 8388607)
+ 292 compressed objects within 3 object streams
+ 76 named destinations out of 1000 (max. 131072)
  233 words of extra memory for PDF output out of 10000 (max. 100000000)
 

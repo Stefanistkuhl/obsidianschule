@@ -42,4 +42,10 @@
   \url{https://nmap.org/book/performance-timing-templates.html}
 \BIBentrySTDinterwordspacing
 
+\bibitem{pw-list}
+\BIBentryALTinterwordspacing
+Jan. 2025, [Online; accessed 19. Jan. 2025]. [Online]. Available:
+  \url{https://raw.githubusercontent.com/danielmiessler/SecLists/refs/heads/master/Passwords/Common-Credentials/10-million-password-list-top-10000.txt}
+\BIBentrySTDinterwordspacing
+
 \end{thebibliography}
