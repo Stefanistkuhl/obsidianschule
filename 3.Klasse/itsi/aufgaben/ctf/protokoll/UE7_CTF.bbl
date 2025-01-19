@@ -48,4 +48,11 @@ Jan. 2025, [Online; accessed 19. Jan. 2025]. [Online]. Available:
   \url{https://raw.githubusercontent.com/danielmiessler/SecLists/refs/heads/master/Passwords/Common-Credentials/10-million-password-list-top-10000.txt}
 \BIBentrySTDinterwordspacing
 
+\bibitem{hydra-http-basic-auth}
+\BIBentryALTinterwordspacing
+``{Defeating HTTP Basic Auth with Hydra},'' Mar. 2017, [Online; accessed 19.
+  Jan. 2025]. [Online]. Available:
+  \url{https://tylerrockwell.github.io/defeating-basic-auth-with-hydra}
+\BIBentrySTDinterwordspacing
+
 \end{thebibliography}

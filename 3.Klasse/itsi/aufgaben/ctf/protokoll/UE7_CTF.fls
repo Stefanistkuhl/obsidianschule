@@ -322,8 +322,14 @@ INPUT ./images/labngs.png
 INPUT ./images/labngs.png
 INPUT ./images/logo.png
 INPUT ./images/logo.png
+INPUT ./images/hydra.png
+INPUT ./images/hydra.png
+INPUT ./images/hydra.png
 INPUT ./images/logo.png
 INPUT ./images/logo.png
+INPUT ./images/flag1.png
+INPUT ./images/flag1.png
+INPUT ./images/flag1.png
 INPUT ./images/logo.png
 INPUT ./images/logo.png
 INPUT ./UE7_CTF.bbl
