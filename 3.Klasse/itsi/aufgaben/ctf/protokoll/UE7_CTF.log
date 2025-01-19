@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2025.1.19)  19 JAN 2025 16:59
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2025.1.19)  19 JAN 2025 17:02
  restricted system commands enabled.
  file:line:error style messages enabled.
 **UE7_CTF.tex
@@ -527,7 +527,7 @@ Package luatex.def Info: ./images/firstnmapscan.png  used on input line 123.
 (luatex.def)             Requested size: 236.47931pt x 169.83148pt.
 
 
-LaTeX Warning: Citation `nm' on page 7 undefined on input line 128.
+LaTeX Warning: Citation `nmap-t-flag' on page 7 undefined on input line 128.
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
