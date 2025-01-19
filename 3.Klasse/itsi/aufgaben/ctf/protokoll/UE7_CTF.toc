@@ -11,8 +11,8 @@
 \contentsline {subsection}{\numberline {4.7}Exploring the system}{11}{subsection.4.7}%
 \contentsline {subsubsection}{\numberline {4.7.1}Listing all the files}{11}{subsubsection.4.7.1}%
 \contentsline {subsubsection}{\numberline {4.7.2}Investigating the listening service}{11}{subsubsection.4.7.2}%
-\contentsline {subsection}{\numberline {4.8}procces flag}{12}{subsection.4.8}%
-\contentsline {subsection}{\numberline {4.9}comment flag}{12}{subsection.4.9}%
+\contentsline {subsection}{\numberline {4.8}Investigating the process flag}{12}{subsection.4.8}%
+\contentsline {subsection}{\numberline {4.9}Investigating the webserver}{12}{subsection.4.9}%
 \contentsline {subsection}{\numberline {4.10}sudo flag}{12}{subsection.4.10}%
 \contentsline {subsection}{\numberline {4.11}history flag}{12}{subsection.4.11}%
 \contentsline {subsection}{\numberline {4.12}tmp flag}{12}{subsection.4.12}%

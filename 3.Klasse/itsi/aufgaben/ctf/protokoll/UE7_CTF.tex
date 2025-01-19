@@ -223,16 +223,23 @@ With \texttt{ss -tulnp}, we can examine all listening process services on the sy
 	\includegraphics[scale=0.35]{images/sstunlp.png}
 	\centering
 	\caption{Viewing the listening services}
+	\label{fig:sstunlp}
 \end{figure}\abc
-Luckily, as seen in Figure 17, it appears that the webserver has been started as the current user, which we can further inspect with \texttt{ps aux | grep python}. As shown in Figure 18, the process has been started by the root user as GrumpyCat.
-\begin{figure}[h]
+\subsection{Investigating the process flag}
+\subsection{Investigating the webserver}
+Luckily, as seen in \textcolor{blue}{\hyperref[fig:sstunlp]{Figure \ref{fig:sstunlp}}}, it appears that the webserver has been started as the current user, which we can further inspect with \texttt{ps aux | grep python}. As shown in Figure 18, the process has been started by the root user as GrumpyCat.
+
+\begin{figure}[ht]
 	\includegraphics[scale=0.25]{images/psauxpy.png}
 	\centering
 	\caption{Inspecting the running Python processes}
 \end{figure}\abc
-
-\subsection{procces flag}
-\subsection{comment flag}
+If we read the file \texttt{/bin/ctf\_server.py}, we first see that the ranges of the randomized port ranges are \texttt{4000-5600}, \texttt{10000-12000}, and \texttt{50000-60000}. The intended translation is "Hinweis1: Der Nutzername lautet user", and lastly, a flag hides itself at the bottom of the file, which is shown in Figure 19.
+\begin{figure}[h]
+	\includegraphics[scale=0.35]{images/commentflag.png}
+	\centering
+	\caption{Viewing the flag in the server Python file}
+\end{figure}\abc
 \subsection{sudo flag}
 \subsection{history flag}
 \subsection{tmp flag}
