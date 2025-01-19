@@ -387,6 +387,8 @@ INPUT ./images/logo.png
 INPUT ./images/logo.png
 INPUT ./images/logo.png
 INPUT ./images/logo.png
+INPUT ./images/logo.png
+INPUT ./images/logo.png
 INPUT ./UE7_CTF.bbl
 INPUT ./UE7_CTF.bbl
 INPUT /home/stefiii/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-italic.luc

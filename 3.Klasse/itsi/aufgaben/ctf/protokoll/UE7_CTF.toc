@@ -18,15 +18,14 @@
 \contentsline {subsubsection}{\numberline {4.11.1}Finding a flag in \texttt {/tmp}}{14}{subsubsection.4.11.1}%
 \contentsline {subsubsection}{\numberline {4.11.2}Finding the history flag}{15}{subsubsection.4.11.2}%
 \contentsline {subsection}{\numberline {4.12}It should be over now, right?}{16}{subsection.4.12}%
-\contentsline {subsection}{\numberline {4.13}trying to escalate privaledgs}{16}{subsection.4.13}%
-\contentsline {subsubsection}{\numberline {4.13.1}smart enumeration}{16}{subsubsection.4.13.1}%
-\contentsline {subsubsection}{\numberline {4.13.2}trying a kernel level exploit}{16}{subsubsection.4.13.2}%
-\contentsline {subsubsection}{\numberline {4.13.3}checking suid binarys}{16}{subsubsection.4.13.3}%
-\contentsline {subsubsection}{\numberline {4.13.4}checking root proccses}{16}{subsubsection.4.13.4}%
-\contentsline {subsubsection}{\numberline {4.13.5}trying metasploit}{16}{subsubsection.4.13.5}%
-\contentsline {subsubsection}{\numberline {4.13.6}trying other common ctf priv escalation ways}{16}{subsubsection.4.13.6}%
-\contentsline {subsection}{\numberline {4.14}reseting the root password and exploring the vm}{16}{subsection.4.14}%
-\contentsline {subsection}{\numberline {4.15}7 flags}{16}{subsection.4.15}%
-\contentsline {subsection}{\numberline {4.16}talking abt the setup etc or sum idk :shruge:}{16}{subsection.4.16}%
-\contentsline {section}{\numberline {5}References}{17}{section.5}%
-\contentsline {section}{\numberline {6}List of figures}{18}{section.6}%
+\contentsline {subsection}{\numberline {4.13}Privilege escalation on Linux}{17}{subsection.4.13}%
+\contentsline {subsubsection}{\numberline {4.13.1}smart enumeration}{17}{subsubsection.4.13.1}%
+\contentsline {subsubsection}{\numberline {4.13.2}trying a kernel level exploit}{17}{subsubsection.4.13.2}%
+\contentsline {subsubsection}{\numberline {4.13.3}checking suid binarys}{17}{subsubsection.4.13.3}%
+\contentsline {subsubsection}{\numberline {4.13.4}checking root proccses}{17}{subsubsection.4.13.4}%
+\contentsline {subsubsection}{\numberline {4.13.5}trying metasploit}{17}{subsubsection.4.13.5}%
+\contentsline {subsubsection}{\numberline {4.13.6}trying other common ctf priv escalation ways}{17}{subsubsection.4.13.6}%
+\contentsline {subsection}{\numberline {4.14}reseting the root password and exploring the vm}{17}{subsection.4.14}%
+\contentsline {subsection}{\numberline {4.15}7 flags}{17}{subsection.4.15}%
+\contentsline {section}{\numberline {5}References}{18}{section.5}%
+\contentsline {section}{\numberline {6}List of figures}{19}{section.6}%

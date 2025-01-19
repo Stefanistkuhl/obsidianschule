@@ -296,7 +296,7 @@ find / #Selecting the / directory to search in
 As seen in Figures 24 and 25, there is a flag in the \texttt{/tmp} directory that we missed the first time. We should have used the find command right away instead of recursively listing all the files.
 \newpage
 \subsubsection{Finding the history flag}
-Additionally to the find command, I remembered reading in a CTF cheat sheet a while ago to check the command history of the user. However, I initially only checked \texttt{.bash\_history} instead of the \texttt{.history} file, which contains a flag in this CTF. I always missed it until I ran \texttt{ls -l} as a sanity check in the home directory of CheerfulOtter and found the flag, as shown in Figures 26 and 27.
+Additionally to the find command, I remembered reading in a CTF cheat sheet a while ago to check the command history of the user. However, I initially only checked \texttt{.bash\_history} instead of the \texttt{.history} file, which contains a flag in this CTF. I always missed it until I ran \texttt{ls -l} as a sanity check in the home directory of CheerfulOtter and found the flag, as shown in Figures 26 and 27.\cite{enumeration-walkthough}
 \begin{figure}[ht]
 	\includegraphics[scale=0.5]{images/colsal.png}
 	\centering
@@ -318,8 +318,19 @@ Now that we found the following six flags:
 	\item \texttt{FLAG\{tmp\_directory\_is\_not\_safe\}}
 	\item \texttt{FLAG\{always\_check\_history\}}
 \end{enumerate}
-This means that the exercise is over, right?
-\subsection{trying to escalate privaledgs}
+This means that the exercise is over, right?\abc
+No, it's not over yet. In an email, Professor Zivkovic stated that for flag 6, root access is needed. This means that either he made a mistake in counting, forgot about one, or there is a 7th flag that requires root privileges. Spoiler alert: it was the latter. So, section 4.13 will be about escalating the privileges to get to that point.
+\newpage
+\subsection{Privilege escalation on Linux}
+If you want to escalate your privileges on Linux, you have five options, which are the following:\footnote{We are not experts in this since we weren't taught this, and this is only what we found with the limited time we had. We barely know anything about this matter.}\cite{priv-esc-overview}
+\begin{enumerate}
+	\item Find an exploit for the version of the kernel that is running.\cite{kernel-exploit}
+	\item Find a SUID binary that runs with the owner's permissions.\cite{suid}
+	\item Escalate to a shell in a usable command with \texttt{sudo}.\cite{sudo-exploit}
+	\item Find writable files that run at startup, like \texttt{crontab}, or other misconfigurations in the system.\cite{enumeration-walkthough}
+	\item Find an attachable process that is running as root.
+\end{enumerate}
+
 \subsubsection{smart enumeration}
 \subsubsection{trying a kernel level exploit}
 \subsubsection{checking suid binarys}
@@ -328,7 +339,6 @@ This means that the exercise is over, right?
 \subsubsection{trying other common ctf priv escalation ways}
 \subsection{reseting the root password and exploring the vm}
 \subsection{7 flags}
-\subsection{talking abt the setup etc or sum idk :shruge:}
 
 \newpage
 \section{References}
