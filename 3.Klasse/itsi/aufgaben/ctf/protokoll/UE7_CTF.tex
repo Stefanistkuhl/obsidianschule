@@ -79,8 +79,7 @@ Submission date: 20.1.2025
 
 \section{Task definition}
 
-This task is based on a Capture the Flag (CTF) challenge, where multiple flags are hidden across an environment and can be found either through exploits or by navigating the system. Two virtual machines are provided: an Ubuntu server, which hosts the flags, and a Kali Linux machine for offensive actions. Both machines operate in a \texttt{Host-only network}, meaning they can communicate with each other but not with the external internet or other devices.
-
+This task is based on a Capture the Flag (CTF) challenge, where multiple flags are hidden across an environment and can be found either through exploits or by navigating the system. Two virtual machines are provided: an Ubuntu server, which hosts the flags, and a Kali Linux machine for offensive actions. Both machines operate in a \texttt{Host-only network}, meaning they can communicate with each other but not with the external internet or other devices.\abc
 The goal is to use the tools and techniques available in Kali Linux to explore the Ubuntu server, identify vulnerabilities, and capture the flags, all within an isolated network environment.
 
 
@@ -295,8 +294,22 @@ find / #Selecting the / directory to search in
 	\caption{Viewing the flag in the \texttt{/tmp} directory}
 \end{figure}\abc
 As seen in Figures 24 and 25, there is a flag in the \texttt{/tmp} directory that we missed the first time. We should have used the find command right away instead of recursively listing all the files.
+\newpage
+\subsubsection{Finding the history flag}
+Additionally to the find command, I remembered reading in a CTF cheat sheet a while ago to check the command history of the user. However, I initially only checked \texttt{.bash\_history} instead of the \texttt{.history} file, which contains a flag in this CTF. I always missed it until I ran \texttt{ls -l} as a sanity check in the home directory of CheerfulOtter and found the flag, as shown in Figures 26 and 27.
+\begin{figure}[ht]
+	\includegraphics[scale=0.5]{images/colsal.png}
+	\centering
+	\caption{Viewing the home directories of CheerfulOtter}
+\end{figure}
+\begin{figure}[h]
+	\includegraphics[scale=0.7]{images/cofl.png}
+	\centering
+	\caption{Viewing the flag in the \texttt{.history} file}
+\end{figure}\abc
+\newpage
+\subsection{It should be over now, right?}
 
-\subsection{it's over but actually not}
 \subsection{trying to escalate privaledgs}
 \subsubsection{smart enumeration}
 \subsubsection{trying a kernel level exploit}
