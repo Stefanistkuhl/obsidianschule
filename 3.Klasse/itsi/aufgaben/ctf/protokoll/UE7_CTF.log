@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2025.1.19)  20 JAN 2025 00:27
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2025.1.19)  20 JAN 2025 00:48
  restricted system commands enabled.
  file:line:error style messages enabled.
 **UE7_CTF.tex
@@ -473,264 +473,264 @@ File: images/logo.png Graphic file (type png)
 Package luatex.def Info: images/logo.png  used on input line 78.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
  [2]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 89.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 89.
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 88.
+Package luatex.def Info: images/logo.png  used on input line 90.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
  [3]
-<./images/nwipsfr.png, id=185, 688.5725pt x 540.0175pt>
+<./images/nwipsfr.png, id=191, 688.5725pt x 540.0175pt>
 File: ./images/nwipsfr.png Graphic file (type png)
 <use ./images/nwipsfr.png>
-Package luatex.def Info: ./images/nwipsfr.png  used on input line 92.
+Package luatex.def Info: ./images/nwipsfr.png  used on input line 94.
 (luatex.def)             Requested size: 275.4241pt x 216.00316pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--96
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
 
  []
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 97.
+Package luatex.def Info: images/logo.png  used on input line 99.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [4<./images/nwipsfr.png>]
-<./images/openingNetworkManager.png, id=192, 949.5475pt x 548.0475pt>
+<./images/openingNetworkManager.png, id=198, 949.5475pt x 548.0475pt>
 File: ./images/openingNetworkManager.png Graphic file (type png)
 <use ./images/openingNetworkManager.png>
-Package luatex.def Info: ./images/openingNetworkManager.png  used on input line 103.
+Package luatex.def Info: ./images/openingNetworkManager.png  used on input line 105.
 (luatex.def)             Requested size: 270.62384pt x 156.19516pt.
 File: ./images/nwipsfr.png Graphic file (type png)
 <use ./images/nwipsfr.png>
-Package luatex.def Info: ./images/nwipsfr.png  used on input line 109.
+Package luatex.def Info: ./images/nwipsfr.png  used on input line 111.
 (luatex.def)             Requested size: 275.4241pt x 216.00316pt.
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 115.
+Package luatex.def Info: images/logo.png  used on input line 117.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
  [5<./images/openingNetworkManager.png>]
-<./images/vmnwconf.png, id=200, 767.86874pt x 949.5475pt>
+<./images/vmnwconf.png, id=206, 767.86874pt x 949.5475pt>
 File: ./images/vmnwconf.png Graphic file (type png)
 <use ./images/vmnwconf.png>
-Package luatex.def Info: ./images/vmnwconf.png  used on input line 117.
+Package luatex.def Info: ./images/vmnwconf.png  used on input line 119.
 (luatex.def)             Requested size: 307.14206pt x 379.81227pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--121
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
 
  []
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 121.
+Package luatex.def Info: images/logo.png  used on input line 123.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [6<./images/vmnwconf.png>]
-<images/firstnmapscan.png, id=208, 591.20876pt x 424.58624pt>
+<images/firstnmapscan.png, id=214, 591.20876pt x 424.58624pt>
 File: images/firstnmapscan.png Graphic file (type png)
 <use images/firstnmapscan.png>
-Package luatex.def Info: images/firstnmapscan.png  used on input line 125.
+Package luatex.def Info: images/firstnmapscan.png  used on input line 127.
 (luatex.def)             Requested size: 236.47931pt x 169.83148pt.
-<images/nmapfr.png, id=213, 1201.48875pt x 309.155pt>
+<images/nmapfr.png, id=219, 1201.48875pt x 309.155pt>
 File: images/nmapfr.png Graphic file (type png)
 <use images/nmapfr.png>
-Package luatex.def Info: images/nmapfr.png  used on input line 132.
+Package luatex.def Info: images/nmapfr.png  used on input line 134.
 (luatex.def)             Requested size: 480.58699pt x 123.6598pt.
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 139.
+Package luatex.def Info: images/logo.png  used on input line 141.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
  [7<./images/firstnmapscan.png><./images/nmapfr.png>]
-<images/allesiten.png, id=226, 1701.35625pt x 374.39874pt>
+<images/allesiten.png, id=232, 1701.35625pt x 374.39874pt>
 File: images/allesiten.png Graphic file (type png)
 <use images/allesiten.png>
-Package luatex.def Info: images/allesiten.png  used on input line 141.
+Package luatex.def Info: images/allesiten.png  used on input line 143.
 (luatex.def)             Requested size: 425.33803pt x 93.59946pt.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 145.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 145.
-<images/base64.png, id=228, 731.73375pt x 91.34125pt>
+<images/base64.png, id=234, 731.73375pt x 91.34125pt>
 File: images/base64.png Graphic file (type png)
 <use images/base64.png>
-Package luatex.def Info: images/base64.png  used on input line 148.
+Package luatex.def Info: images/base64.png  used on input line 150.
 (luatex.def)             Requested size: 292.68831pt x 36.53584pt.
  (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 ) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
-<images/gettextsh.png, id=229, 378.41376pt x 404.51125pt>
+<images/gettextsh.png, id=235, 378.41376pt x 404.51125pt>
 File: images/gettextsh.png Graphic file (type png)
 <use images/gettextsh.png>
-Package luatex.def Info: images/gettextsh.png  used on input line 162.
+Package luatex.def Info: images/gettextsh.png  used on input line 164.
 (luatex.def)             Requested size: 151.36281pt x 161.80162pt.
-<images/labngs.png, id=230, 844.15375pt x 315.1775pt>
+<images/labngs.png, id=236, 844.15375pt x 315.1775pt>
 File: images/labngs.png Graphic file (type png)
 <use images/labngs.png>
-Package luatex.def Info: images/labngs.png  used on input line 168.
+Package luatex.def Info: images/labngs.png  used on input line 170.
 (luatex.def)             Requested size: 337.65552pt x 126.06876pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--172
+Underfull \hbox (badness 10000) in paragraph at lines 167--174
 
  []
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 174.
+Package luatex.def Info: images/logo.png  used on input line 176.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [8<./images/allesiten.png><./images/base64.png><./images/gettextsh.png>]
-<images/hydra.png, id=253, 618.31pt x 274.02374pt>
+<images/hydra.png, id=256, 618.31pt x 274.02374pt>
 File: images/hydra.png Graphic file (type png)
 <use images/hydra.png>
-Package luatex.def Info: images/hydra.png  used on input line 187.
+Package luatex.def Info: images/hydra.png  used on input line 189.
 (luatex.def)             Requested size: 309.15424pt x 137.01154pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 185--191
+Underfull \hbox (badness 10000) in paragraph at lines 187--193
 
  []
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 191.
+Package luatex.def Info: images/logo.png  used on input line 193.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [9<./images/labngs.png><./images/hydra.png>]
-<images/flag1.png, id=270, 1097.09875pt x 396.48125pt>
+<images/flag1.png, id=273, 1097.09875pt x 396.48125pt>
 File: images/flag1.png Graphic file (type png)
 <use images/flag1.png>
-Package luatex.def Info: images/flag1.png  used on input line 194.
+Package luatex.def Info: images/flag1.png  used on input line 196.
 (luatex.def)             Requested size: 329.13217pt x 118.94528pt.
-<images/hydrassh.png, id=272, 622.325pt x 247.92625pt>
+<images/hydrassh.png, id=275, 622.325pt x 247.92625pt>
 File: images/hydrassh.png Graphic file (type png)
 <use images/hydrassh.png>
-Package luatex.def Info: images/hydrassh.png  used on input line 202.
+Package luatex.def Info: images/hydrassh.png  used on input line 204.
 (luatex.def)             Requested size: 311.16173pt x 123.96281pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 200--206
+Underfull \hbox (badness 10000) in paragraph at lines 202--208
 
  []
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 206.
+Package luatex.def Info: images/logo.png  used on input line 208.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [10<./images/flag1.png><./images/hydrassh.png>]
-<images/searchingfor falgfiles.png, id=282, 775.89874pt x 262.9825pt>
+<images/searchingfor falgfiles.png, id=285, 775.89874pt x 262.9825pt>
 File: images/searchingfor falgfiles.png Graphic file (type png)
 <use images/searchingfor falgfiles.png>
-Package luatex.def Info: images/searchingfor falgfiles.png  used on input line 211.
+Package luatex.def Info: images/searchingfor falgfiles.png  used on input line 213.
 (luatex.def)             Requested size: 387.94843pt x 131.49092pt.
-<images/findfiles.png, id=283, 708.6475pt x 78.2925pt>
+<images/findfiles.png, id=286, 708.6475pt x 78.2925pt>
 File: images/findfiles.png Graphic file (type png)
 <use images/findfiles.png>
-Package luatex.def Info: images/findfiles.png  used on input line 217.
+Package luatex.def Info: images/findfiles.png  used on input line 219.
 (luatex.def)             Requested size: 389.75734pt x 43.06099pt.
-<images/sstunlp.png, id=284, 1142.2675pt x 208.78pt>
+<images/sstunlp.png, id=287, 1142.2675pt x 208.78pt>
 File: images/sstunlp.png Graphic file (type png)
 <use images/sstunlp.png>
-Package luatex.def Info: images/sstunlp.png  used on input line 225.
+Package luatex.def Info: images/sstunlp.png  used on input line 227.
 (luatex.def)             Requested size: 399.79962pt x 73.07408pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 223--230
+Underfull \hbox (badness 10000) in paragraph at lines 225--232
 
  []
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 230.
+Package luatex.def Info: images/logo.png  used on input line 232.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [11<./images/searchingfor falgfiles.png><./images/findfiles.png><./images/sstunlp.png>]
-<images/processflag.png, id=295, 475.7775pt x 83.31125pt>
+<images/processflag.png, id=298, 475.7775pt x 83.31125pt>
 File: images/processflag.png Graphic file (type png)
 <use images/processflag.png>
-Package luatex.def Info: images/processflag.png  used on input line 234.
+Package luatex.def Info: images/processflag.png  used on input line 236.
 (luatex.def)             Requested size: 261.67842pt x 45.82132pt.
-<images/psauxpy.png, id=298, 1629.08624pt x 99.37125pt>
+<images/psauxpy.png, id=301, 1629.08624pt x 99.37125pt>
 File: images/psauxpy.png Graphic file (type png)
 <use images/psauxpy.png>
-Package luatex.def Info: images/psauxpy.png  used on input line 244.
+Package luatex.def Info: images/psauxpy.png  used on input line 246.
 (luatex.def)             Requested size: 407.27057pt x 24.84274pt.
-<images/commentflag.png, id=299, 826.08624pt x 85.31876pt>
+<images/commentflag.png, id=302, 826.08624pt x 85.31876pt>
 File: images/commentflag.png Graphic file (type png)
 <use images/commentflag.png>
-Package luatex.def Info: images/commentflag.png  used on input line 250.
+Package luatex.def Info: images/commentflag.png  used on input line 252.
 (luatex.def)             Requested size: 289.1345pt x 29.862pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 247--254
+Underfull \hbox (badness 10000) in paragraph at lines 249--256
 
  []
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 254.
+Package luatex.def Info: images/logo.png  used on input line 256.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [12<./images/processflag.png><./images/psauxpy.png><./images/commentflag.png>]
-<images/usr.png, id=309, 556.0775pt x 164.615pt>
+<images/usr.png, id=312, 556.0775pt x 164.615pt>
 File: images/usr.png Graphic file (type png)
 <use images/usr.png>
-Package luatex.def Info: images/usr.png  used on input line 259.
+Package luatex.def Info: images/usr.png  used on input line 261.
 (luatex.def)             Requested size: 250.23256pt x 74.07605pt.
-<images/cheerfulotpw.png, id=310, 604.2575pt x 381.425pt>
+<images/cheerfulotpw.png, id=313, 604.2575pt x 381.425pt>
 File: images/cheerfulotpw.png Graphic file (type png)
 <use images/cheerfulotpw.png>
-Package luatex.def Info: images/cheerfulotpw.png  used on input line 265.
+Package luatex.def Info: images/cheerfulotpw.png  used on input line 267.
 (luatex.def)             Requested size: 271.91336pt x 171.63965pt.
-<images/sh.png, id=311, 617.30624pt x 203.76125pt>
+<images/sh.png, id=314, 617.30624pt x 203.76125pt>
 File: images/sh.png Graphic file (type png)
 <use images/sh.png>
-Package luatex.def Info: images/sh.png  used on input line 271.
+Package luatex.def Info: images/sh.png  used on input line 273.
 (luatex.def)             Requested size: 277.78523pt x 91.69171pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 256--275
+Underfull \hbox (badness 10000) in paragraph at lines 258--277
 
  []
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 277.
+Package luatex.def Info: images/logo.png  used on input line 279.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [13<./images/usr.png><./images/cheerfulotpw.png><./images/sh.png>]
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
-(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 284.
-<images/fdtmp.png, id=320, 767.86874pt x 288.07625pt>
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 286.
+<images/fdtmp.png, id=323, 767.86874pt x 288.07625pt>
 File: images/fdtmp.png Graphic file (type png)
 <use images/fdtmp.png>
-Package luatex.def Info: images/fdtmp.png  used on input line 286.
+Package luatex.def Info: images/fdtmp.png  used on input line 288.
 (luatex.def)             Requested size: 345.53773pt x 129.6331pt.
-<images/tmpfl.png, id=322, 488.82625pt x 51.19125pt>
+<images/tmpfl.png, id=325, 488.82625pt x 51.19125pt>
 File: images/tmpfl.png Graphic file (type png)
 <use images/tmpfl.png>
-Package luatex.def Info: images/tmpfl.png  used on input line 292.
+Package luatex.def Info: images/tmpfl.png  used on input line 294.
 (luatex.def)             Requested size: 342.17603pt x 35.83362pt.
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 297.
+Package luatex.def Info: images/logo.png  used on input line 299.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
  [14<./images/fdtmp.png><./images/tmpfl.png>]
-<images/colsal.png, id=340, 661.47125pt x 348.30125pt>
+<images/colsal.png, id=343, 661.47125pt x 348.30125pt>
 File: images/colsal.png Graphic file (type png)
 <use images/colsal.png>
-Package luatex.def Info: images/colsal.png  used on input line 301.
+Package luatex.def Info: images/colsal.png  used on input line 303.
 (luatex.def)             Requested size: 330.73482pt x 174.15019pt.
-<images/cofl.png, id=341, 286.06876pt x 306.14375pt>
+<images/cofl.png, id=344, 286.06876pt x 306.14375pt>
 File: images/cofl.png Graphic file (type png)
 <use images/cofl.png>
-Package luatex.def Info: images/cofl.png  used on input line 306.
+Package luatex.def Info: images/cofl.png  used on input line 308.
 (luatex.def)             Requested size: 200.24675pt x 214.29915pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--310
+Underfull \hbox (badness 10000) in paragraph at lines 301--312
 
  []
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 310.
+Package luatex.def Info: images/logo.png  used on input line 312.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
 [15<./images/colsal.png><./images/cofl.png>]
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 323.
+Package luatex.def Info: images/logo.png  used on input line 325.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
  [16]
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 343.
+Package luatex.def Info: images/logo.png  used on input line 347.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
  [17] (./UE7_CTF.bbl
 Underfull \hbox (badness 4378) in paragraph at lines 47--50
@@ -745,7 +745,7 @@ Underfull \hbox (badness 2393) in paragraph at lines 47--50
 )
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 346.
+Package luatex.def Info: images/logo.png  used on input line 350.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
  [18] (./UE7_CTF.lof)
 \tf@lof=\write5
@@ -753,27 +753,27 @@ Package luatex.def Info: images/logo.png  used on input line 346.
 \openout5 = UE7_CTF.lof
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 351.
+Package luatex.def Info: images/logo.png  used on input line 355.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
  [19] (./UE7_CTF.aux)
 Package rerunfilecheck Info: File `UE7_CTF.out' has not changed.
-(rerunfilecheck)             Checksum: 7E1723A0813096065BAA1FEC90BE79E2;6432.
+(rerunfilecheck)             Checksum: D3712E871F628E400B18A656068F4C70;6650.
 )
 
 Here is how much of LuaTeX's memory you used:
- 15793 strings out of 478382
+ 15794 strings out of 478382
  100000,1977958 words of node,token memory allocated
- 578 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 9 glue, 3 kern, 1 glyph, 18 attribute, 53 glue_spec, 18 attribute_list, 1 write, 7 pdf_action nodes
-   avail lists: 2:1092,3:405,4:404,5:414,6:110,7:7001,8:155,9:962,10:22,11:270
+ 589 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 10 glue, 3 kern, 1 glyph, 19 attribute, 53 glue_spec, 19 attribute_list, 1 write, 7 pdf_action nodes
+   avail lists: 2:1092,3:405,4:404,5:416,6:110,7:7001,8:155,9:962,10:22,11:326
  35005 multiletter control sequences out of 65536+600000
  45 fonts using 3539791 bytes
  72i,16n,73p,780b,619s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/opentype/public/lm/lmroman10-italic.otf></usr/share/texmf/fonts/opentype/public/lm/lmmonolt10-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmmono8-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman8-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman6-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman7-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman12-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on UE7_CTF.pdf (19 pages, 2082104 bytes).
+Output written on UE7_CTF.pdf (19 pages, 2085477 bytes).
 
-PDF statistics: 522 PDF objects out of 1000 (max. 8388607)
- 430 compressed objects within 5 object streams
- 129 named destinations out of 1000 (max. 131072)
+PDF statistics: 525 PDF objects out of 1000 (max. 8388607)
+ 433 compressed objects within 5 object streams
+ 130 named destinations out of 1000 (max. 131072)
  249 words of extra memory for PDF output out of 10000 (max. 100000000)
 

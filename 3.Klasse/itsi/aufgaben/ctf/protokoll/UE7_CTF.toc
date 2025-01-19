@@ -23,7 +23,7 @@
 \contentsline {subsubsection}{\numberline {4.13.2}trying a kernel level exploit}{17}{subsubsection.4.13.2}%
 \contentsline {subsubsection}{\numberline {4.13.3}checking suid binarys}{17}{subsubsection.4.13.3}%
 \contentsline {subsubsection}{\numberline {4.13.4}checking root proccses}{17}{subsubsection.4.13.4}%
-\contentsline {subsubsection}{\numberline {4.13.5}trying metasploit}{17}{subsubsection.4.13.5}%
+\contentsline {subsubsection}{\numberline {4.13.5}Trying to get privileges using Metasploit and Meterpreter}{17}{subsubsection.4.13.5}%
 \contentsline {subsubsection}{\numberline {4.13.6}trying other common ctf priv escalation ways}{17}{subsubsection.4.13.6}%
 \contentsline {subsection}{\numberline {4.14}reseting the root password and exploring the vm}{17}{subsection.4.14}%
 \contentsline {subsection}{\numberline {4.15}7 flags}{17}{subsection.4.15}%
