@@ -4,7 +4,7 @@
 \contentsline {section}{\numberline {4}Exercise Execution}{5}{section.4}%
 \contentsline {subsection}{\numberline {4.1}Setting up the virtual machines.}{5}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}Reconnaissance: Scanning the Network}{7}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Reconnaissance: Exploring the websites}{8}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.3}Reconnaissance: Exploring the websites}{7}{subsection.4.3}%
 \contentsline {subsection}{\numberline {4.4}breaking the http authtication}{8}{subsection.4.4}%
 \contentsline {subsection}{\numberline {4.5}sshing into the server}{8}{subsection.4.5}%
 \contentsline {subsection}{\numberline {4.6}exploring the system}{8}{subsection.4.6}%
