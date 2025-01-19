@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2025.1.19)  19 JAN 2025 15:33
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2025.1.19)  19 JAN 2025 15:56
  restricted system commands enabled.
  file:line:error style messages enabled.
 **UE7_CTF.tex
@@ -470,51 +470,66 @@ File: ./images/nwipsfr.png Graphic file (type png)
 <use ./images/nwipsfr.png>
 Package luatex.def Info: ./images/nwipsfr.png  used on input line 100.
 (luatex.def)             Requested size: 275.4241pt x 216.00316pt.
+<./images/vmnwconf.png, id=175, 767.86874pt x 949.5475pt>
+File: ./images/vmnwconf.png Graphic file (type png)
+<use ./images/vmnwconf.png>
+Package luatex.def Info: ./images/vmnwconf.png  used on input line 106.
+(luatex.def)             Requested size: 307.14206pt x 379.81227pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--110
+
+ []
+
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 127.
+Package luatex.def Info: images/logo.png  used on input line 110.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
- [5<./images/openingNetworkManager.png><./images/nwipsfr.png>]
+[5<./images/openingNetworkManager.png><./images/nwipsfr.png>]
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 127.
+Package luatex.def Info: images/logo.png  used on input line 134.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
- [6] (./UE7_CTF.bbl
+ [6<./images/vmnwconf.png>]
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package luatex.def Info: images/logo.png  used on input line 134.
+(luatex.def)             Requested size: 186.09352pt x 55.10535pt.
+ [7] (./UE7_CTF.bbl
 
 LaTeX Warning: Empty `thebibliography' environment on input line 24.
 
 )
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 130.
+Package luatex.def Info: images/logo.png  used on input line 137.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
- [7] (./UE7_CTF.lof)
+ [8] (./UE7_CTF.lof)
 \tf@lof=\write5
 
 \openout5 = UE7_CTF.lof
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 135.
+Package luatex.def Info: images/logo.png  used on input line 142.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
- [8] (./UE7_CTF.aux)
+ [9] (./UE7_CTF.aux)
 Package rerunfilecheck Info: File `UE7_CTF.out' has not changed.
-(rerunfilecheck)             Checksum: 1508A786C250F6B2E168BB2DAFE4D27C;4867.
+(rerunfilecheck)             Checksum: C811BE6B36BA1B140045390C9654C998;4945.
 )
 
 Here is how much of LuaTeX's memory you used:
- 13778 strings out of 478382
+ 13798 strings out of 478382
  100000,1977958 words of node,token memory allocated
  426 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 52 glue_spec, 4 attribute_list, 1 write nodes
-   avail lists: 2:832,3:438,4:98,5:321,6:108,7:3928,8:61,9:500,10:5,11:216
- 33328 multiletter control sequences out of 65536+600000
+   avail lists: 2:726,3:416,4:98,5:321,6:108,7:3257,8:61,9:500,10:8,11:184
+ 33334 multiletter control sequences out of 65536+600000
  33 fonts using 2393023 bytes
  72i,16n,73p,535b,376s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman12-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-regular.otf>
-Output written on UE7_CTF.pdf (8 pages, 456892 bytes).
+Output written on UE7_CTF.pdf (9 pages, 588830 bytes).
 
-PDF statistics: 234 PDF objects out of 1000 (max. 8388607)
- 201 compressed objects within 3 object streams
- 44 named destinations out of 1000 (max. 131072)
+PDF statistics: 242 PDF objects out of 1000 (max. 8388607)
+ 206 compressed objects within 3 object streams
+ 46 named destinations out of 1000 (max. 131072)
  225 words of extra memory for PDF output out of 10000 (max. 100000000)
 
