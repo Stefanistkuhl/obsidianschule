@@ -227,28 +227,30 @@ With \texttt{ss -tulnp}, we can examine all listening process services on the sy
 \end{figure}\abc
 \newpage
 \subsection{Investigating the process flag}
-Lets retrun to the file \texttt{flag\_process.sh} to get this flag as shown in Figure 18.
+Let's return to the file \texttt{flag\_process.sh} to get this flag. Simply cat the file as shown in Figure 18.
 \begin{figure}[ht]
 	\includegraphics[scale=0.55]{images/processflag.png}
 	\centering
 	\caption{Viewing the check\_running\_processes flag}
 \end{figure}\abc
+But let's not call it a day here since there is a different way to find this flag, which is by viewing the currently running processes with \texttt{ps aux}. However, since it only runs for 600 seconds, I wasn't able to find it running even immediately after restarting the VM. My theory is that it never gets started since the \texttt{setup\_flag\_process()} never actually starts the file or puts it in crontab.
 
 \subsection{Further investigating the webserver}
-Luckily, as seen in \textcolor{blue}{\hyperref[fig:sstunlp]{Figure \ref{fig:sstunlp}}}, it appears that the webserver has been started as the current user, which we can further inspect with \texttt{ps aux | grep python}. As shown in Figure 18, the process has been started by the root user as GrumpyCat.
+Luckily, as seen in \textcolor{blue}{\hyperref[fig:sstunlp]{Figure \ref{fig:sstunlp}}}, it appears that the webserver has been started as the current user, which we can further inspect with \texttt{ps aux | grep python}. As shown in Figure 19, the process has been started by the root user as GrumpyCat.
 
 \begin{figure}[ht]
 	\includegraphics[scale=0.25]{images/psauxpy.png}
 	\centering
 	\caption{Inspecting the running Python processes}
 \end{figure}\abc
-If we read the file \texttt{/bin/ctf\_server.py}, we first see that the ranges of the randomized port ranges are \texttt{4000-5600}, \texttt{10000-12000}, and \texttt{50000-60000}. The intended translation is "Hinweis1: Der Nutzername lautet user", and lastly, a flag hides itself at the bottom of the file, which is shown in Figure 19.
+If we read the file \texttt{/bin/ctf\_server.py}, we first see that the ranges of the randomized port ranges are \texttt{4000-5600}, \texttt{10000-12000}, and \texttt{50000-60000}. The intended translation is "Hinweis1: Der Nutzername lautet user", and lastly, a flag hides itself at the bottom of the file, which is shown in Figure 20.
 \begin{figure}[h]
 	\includegraphics[scale=0.35]{images/commentflag.png}
 	\centering
 	\caption{Viewing the flag in the server Python file}
 \end{figure}\abc
-\subsection{sudo flag}
+\subsection{Investigating secret\_flag.txt}
+If we simply cat this file as the current user, we can't do that since we lack permission and are not in the sudoers group or file. Therefore, we have two options: either find a different user who has the privileges to read the file or escalate our current privileges to become root. The first option is the more reasonable one, which we will use.
 \subsection{history flag}
 \subsection{tmp flag}
 \subsection{it's over but actually not}
