@@ -24,10 +24,15 @@ https://tylerrockwell.github.io/defeating-basic-auth-with-hydra/
 `FLAG{use_secure_credentials}`
 ![](https://i.imgur.com/Y5ivt2h.png)
 ![](https://i.imgur.com/AtXi9lB.png)
+![](https://i.imgur.com/bWZdxyR.png)
+
 ![](https://i.imgur.com/di16GFC.png)
 ![](https://i.imgur.com/gY0Oxyp.png)
 `ls -R *`
 ![](https://i.imgur.com/4qrGK7s.png)
+![](https://i.imgur.com/hjzpC8g.png)
+![](https://i.imgur.com/ZzLUjVp.png)
+
 ![](https://i.imgur.com/MdvNqDN.png)
 ![](https://i.imgur.com/2Xhqji1.png)
 `hydra -l GrumpyCat -P pw.txt 192.168.15.3 ssh -t 4`

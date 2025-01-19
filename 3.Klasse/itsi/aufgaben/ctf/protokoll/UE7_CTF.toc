@@ -8,7 +8,7 @@
 \contentsline {subsection}{\numberline {4.4}Weaponization: Evaluating the needed tools}{9}{subsection.4.4}%
 \contentsline {subsection}{\numberline {4.5}Exploitation: Using Hydra to break HTTP basic authentication}{9}{subsection.4.5}%
 \contentsline {subsection}{\numberline {4.6}Exploitation: Using Hydra to brute force SSH login}{10}{subsection.4.6}%
-\contentsline {subsection}{\numberline {4.7}Exploring the system}{10}{subsection.4.7}%
+\contentsline {subsection}{\numberline {4.7}Exploring the system}{11}{subsection.4.7}%
 \contentsline {subsection}{\numberline {4.8}procces flag}{11}{subsection.4.8}%
 \contentsline {subsection}{\numberline {4.9}comment flag}{11}{subsection.4.9}%
 \contentsline {subsection}{\numberline {4.10}sudo flag}{11}{subsection.4.10}%

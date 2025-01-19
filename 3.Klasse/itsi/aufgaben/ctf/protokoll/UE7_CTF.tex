@@ -201,8 +201,14 @@ To brute force the SSH login, this Hydra command is used: \abc\texttt{hydra -l G
 	\centering
 	\caption{Getting the credentials for the user GrumpyCat}
 \end{figure}\abc
+\newpage
 \subsection{Exploring the system}
-Now that we have a shell in the server it's time to dig arround and explore we started by runing \texttt{ls -R / * | grep flag}
+Now that we have a shell in the server, it's time to dig around and explore. We started by running \texttt{ls -R / * 2>/dev/null | grep flag} to search for files that have \texttt{flag} in their name. To tidy up the output, it can be piped into \texttt{grep} again with the \texttt{-v} flag to exclude results that contain \texttt{flags}. Figure 15 shows the results.
+\begin{figure}[h]
+	\includegraphics[scale=0.5]{images/searchingfor falgfiles.png}
+	\centering
+	\caption{Output of the search command}
+\end{figure}\abc
 \subsection{procces flag}
 \subsection{comment flag}
 \subsection{sudo flag}
