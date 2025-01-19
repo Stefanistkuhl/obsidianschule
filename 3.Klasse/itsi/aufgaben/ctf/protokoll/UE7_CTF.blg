@@ -8,56 +8,50 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: IEEEabrv.bib
-Database file #2: ./quellen.bib
-I was expecting a `,' or a `}'---line 1 of file ./quellen.bib
- : @misc{nmap 
- :            tflag,
-I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "nmap-t-flag"
+Database file #2: quellen.bib
 -- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
 
 Done.
-You've used 0 entries,
+You've used 3 entries,
             4087 wiz_defined-function locations,
-            1345 strings with 17626 characters,
-and the built_in function-call counts, 104 in all, are:
-= -- 0
-> -- 0
+            1356 strings with 18050 characters,
+and the built_in function-call counts, 1177 in all, are:
+= -- 87
+> -- 3
 < -- 0
-+ -- 0
++ -- 3
 - -- 0
-* -- 19
-:= -- 27
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
+* -- 64
+:= -- 218
+add.period$ -- 6
+call.type$ -- 3
+change.case$ -- 6
 chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 1
+cite$ -- 3
+duplicate$ -- 96
+empty$ -- 109
 format.name$ -- 0
-if$ -- 3
+if$ -- 240
 int.to.chr$ -- 0
-int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 23
+int.to.str$ -- 3
+missing$ -- 21
+newline$ -- 38
 num.names$ -- 0
-pop$ -- 0
+pop$ -- 63
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 1
+skip$ -- 81
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
+substring$ -- 9
+swap$ -- 57
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 0
+type$ -- 3
 warning$ -- 0
 while$ -- 0
-width$ -- 0
-write$ -- 22
-(There was 1 error message)
+width$ -- 4
+write$ -- 52

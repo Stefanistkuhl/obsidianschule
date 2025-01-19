@@ -67,7 +67,7 @@ Groupname/number Name here/12
 
 Supervisor: 	SPAC, ZIVK
 
-Exercise dates:	
+Exercise dates:
 
 Submission date:
 
@@ -118,15 +118,21 @@ Next, open the virtual machine settings by selecting the VM in the list and pres
 \end{figure}\abc
 \newpage
 \subsection{Reconnaissance: Scanning the Network}
-Any attack starts with reconnaissance, which in this case means scanning the network with \texttt{nmap}. Since we don't know the IP address of the target server yet, we need to scan the network to find it. For this, the command \texttt{nmap 192.168.15.0/24} is used to scan the entire network for open ports, as illustrated in Figure 6.
+We use the Cyber Kill Chain to structure our steps for completing the CTF, with any attack beginning with reconnaissance, which in this case means scanning the network with \texttt{nmap}. Since we don't know the IP address of the target server yet, we need to scan the network to find it. For this, the command \texttt{nmap 192.168.15.0/24} is used to scan the entire network for open ports, as illustrated in Figure 6.\cite{cyberkillchain}
 \begin{figure}[ht]
-	\includegraphics[scale=0.4]{./images/firstnmapscan.png}
+	\includegraphics[scale=0.4]{images/firstnmapscan.png}
 	\centering
 	\caption{Results of the nmap scan}
 \end{figure}\abc
 We can determine that the target has the IP address \texttt{192.168.15.3}, since, as seen in \textcolor{blue}{\hyperref[fig:nwconf]{Figure \ref{fig:nwconf}}}, \texttt{.1} is the network address, \texttt{.2} is the \texttt{DHCP} server, and \texttt{.4} is the IP address of the Kali VM. This can be verified by running \texttt{ip a} or by scanning the open ports, since \texttt{ssh} is not exposed.
-Now we can run another \texttt{nmap} scan to get fruther information abt the running servives and their version by using the \texttt{sV} flag and use the \texttt{T4} flag which sets the timing to agressive with the value 4 and the \texttt{p} falg with \texttt{-} value to scan all ports. \cite{nmap-t-flag}
-\subsection{exploring the websites}
+Now we can run another \texttt{nmap} scan to get fruther information abt the running servives and their version by using the \texttt{sV} flag and use the \texttt{T4} flag which sets the timing to agressive with the value 4 and the \texttt{p} falg with \texttt{-} value to scan all ports. The results of the scan can be seen in Figure 7.\cite{nmap-sv,nmap-t-flag}
+\begin{figure}[h]
+	\includegraphics[scale=0.4]{images/nmapfr.png}
+	\centering
+	\caption{Results of the detailed nmap scan}
+\end{figure}\abc
+From this scan, we can see that \texttt{ssh} and four \texttt{http} servers running \texttt{Python 3.12.3} are active on the system.
+\subsection{Reconnaissance: Exploring the websites}
 \subsection{breaking the http authtication}
 \subsection{sshing into the server}
 \subsection{exploring the system}
@@ -149,7 +155,7 @@ Now we can run another \texttt{nmap} scan to get fruther information abt the run
 
 \newpage
 \section{References}
-\bibliography{IEEEabrv,./quellen.bib}
+\bibliography{IEEEabrv,quellen}
 \newpage
 \section{List of figures}
 

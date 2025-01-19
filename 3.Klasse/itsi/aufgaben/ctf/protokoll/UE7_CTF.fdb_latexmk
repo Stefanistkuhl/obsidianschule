@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex UE7_CTF"] 1737302536 "UE7_CTF.aux" "UE7_CTF.bbl" "UE7_CTF" 1737302543 2
-  "./quellen.bib" 1737302350 515 b5ac66f87398460406e2c0ba64e10153 ""
+["bibtex UE7_CTF"] 1737303849 "UE7_CTF.aux" "UE7_CTF.bbl" "UE7_CTF" 1737303854 0
+  "./quellen.bib" 1737303281 773 2c1fc15ade0aa183634f87a357cfb4b8 ""
   "/usr/share/texlive/texmf-dist/bibtex/bib/ieeetran/IEEEabrv.bib" 1440712899 20898 a5d2167c380db7dfff810b085c77ed63 ""
   "/usr/share/texlive/texmf-dist/bibtex/bst/ieeetran/IEEEtran.bst" 1440712899 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "UE7_CTF.aux" 1737302542 5438 45efbd9a960a406bb0fa93da5d58a8b1 "lualatex"
+  "UE7_CTF.aux" 1737303854 5726 d0050f1f0a165ccd58e19b0def3f8739 "lualatex"
   (generated)
   "UE7_CTF.bbl"
   "UE7_CTF.blg"
   (rewritten before read)
-["lualatex"] 1737302538 "UE7_CTF.tex" "UE7_CTF.pdf" "UE7_CTF" 1737302543 0
+["lualatex"] 1737303849 "UE7_CTF.tex" "UE7_CTF.pdf" "UE7_CTF" 1737303854 0
   "/home/stefiii/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc" 1737294102 81819 943de47a424d8006cb945ecfb1acc821 ""
   "/home/stefiii/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc" 1737245634 128392 5ccdcd80529671c517f74edd952aa156 ""
   "/home/stefiii/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc" 1737245632 127309 2c3a7c325c755353a32b5f3d0c56cb88 ""
@@ -27,6 +27,7 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy5.tfm" 1136768653 1112 14d5d5f6bd3c949edecb5b872f295553 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy7.tfm" 1136768653 1120 2b3f9b25605010c69bc328bea6ac000f ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty" 1576625341 40635 c40361e206be584d448876bba8a64a3b ""
   "/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty" 1576016050 33961 6b5c75130e435b2bfdb9f480a09a39f9 ""
@@ -146,15 +147,16 @@
   "/usr/share/texmf/fonts/opentype/public/lm/lmroman12-bold.otf" 1255129361 110496 b9c8767d4cc3bf3f4b21f676bf89aa78 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1737245572 4623455 fa0568a71dd9a288d6c226ee477506c6 ""
   "/var/lib/texmf/web2c/luahbtex/lualatex.fmt" 1737245619 11864690 e3626c95e3c38c3f6dc39c4d8f32dd77 ""
-  "UE7_CTF.aux" 1737302542 5438 45efbd9a960a406bb0fa93da5d58a8b1 "lualatex"
-  "UE7_CTF.bbl" 1737302536 877 628a2a8c68e066122d1514411e0b8455 "bibtex UE7_CTF"
-  "UE7_CTF.lof" 1737302542 737 2765aabcc1ac98060fe1a127ffd85bc1 "lualatex"
-  "UE7_CTF.out" 1737302542 4945 c811be6b36ba1b140045390c9654c998 "lualatex"
-  "UE7_CTF.tex" 1737302529 5671 ec37b7f83b9ada9f3ab7061d07a459ab ""
-  "UE7_CTF.toc" 1737302542 2500 6c58f2802d9239d06ec8a01d1d6936ee "lualatex"
+  "UE7_CTF.aux" 1737303854 5726 d0050f1f0a165ccd58e19b0def3f8739 "lualatex"
+  "UE7_CTF.bbl" 1737303849 1727 cb5c02fa6b33ea2bb341f603cfbb2c8d "bibtex UE7_CTF"
+  "UE7_CTF.lof" 1737303854 855 0022436b80087c63e8a033e21969c690 "lualatex"
+  "UE7_CTF.out" 1737303854 5028 3ce30addef0b61d764bb3eb61c857c35 "lualatex"
+  "UE7_CTF.tex" 1737303843 6111 6a1b30e50d3c0876a2f841e6242f4c57 ""
+  "UE7_CTF.toc" 1737303854 2516 f1a45ffe25cfdf646fbd51fb8a2000d4 "lualatex"
   "images/firstnmapscan.png" 1737299320 156440 181ba9e22256cc215431c9db9194f384 ""
   "images/logo.png" 1737241178 5251 cc1f58f2715d780a35156b77ab1d3f18 ""
   "images/menheraMagnifier.png" 1737293297 456308 ead24e055bf1df7966909101cbc01727 ""
+  "images/nmapfr.png" 1737303527 111250 76d8c4e69060f8960b2ea7928bf9efb8 ""
   "images/nwipsfr.png" 1737297032 63870 feb0eef36a1eea68d4863df7194a6fe1 ""
   "images/openingNetworkManager.png" 1737294732 92430 f84a95840ebd2254ecd1565151bb43a5 ""
   "images/vmnwconf.png" 1737297683 162096 40e99aa020c2ae36a37ea3f6ec70d2a5 ""
