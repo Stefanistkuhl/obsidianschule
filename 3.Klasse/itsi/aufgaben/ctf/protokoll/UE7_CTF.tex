@@ -79,6 +79,9 @@ Submission date: 20.1.2025
 
 \section{Task definition}
 
+This task is based on a Capture the Flag (CTF) challenge, where multiple flags are hidden across an environment and can be found either through exploits or by navigating the system. Two virtual machines are provided: an Ubuntu server, which hosts the flags, and a Kali Linux machine for offensive actions. Both machines operate in a \texttt{Host-only network}, meaning they can communicate with each other but not with the external internet or other devices.
+
+The goal is to use the tools and techniques available in Kali Linux to explore the Ubuntu server, identify vulnerabilities, and capture the flags, all within an isolated network environment.
 
 
 \section{Summary}
@@ -264,9 +267,21 @@ As seen in Figure 21, we got two new options as users to log in: \texttt{ubuntu}
 	\centering
 	\caption{Getting the credentials for CheerfulOtter}
 \end{figure}\abc
-As seen in Figure 22, we got the credentials for the CheerfulOtter user. If we log in as that user and run \texttt{sudo -l} to see what permissions we have with sudo, we can see that the only command we can run elevated is \texttt{/bin/cat /opt/secret\_flag.txt}, which we need in order to find the flag.
-
-\subsection{history flag}
+As seen in Figure 22, we got the credentials for the CheerfulOtter user. If we log in as that user and run \texttt{sudo -l} to see what permissions we have with sudo, we can see that the only command we can run elevated is \texttt{/bin/cat /opt/secret\_flag.txt}, which we need in order to find the flag, as shown in Figure 23.
+\begin{figure}[h]
+	\includegraphics[scale=0.45]{images/sh.png}
+	\centering
+	\caption{Viewing secret\_flag.txt}
+\end{figure}\abc
+\subsection{Exploring the new user}
+Since we are in a new user, it's time to rerun old commands and see if any new files can be found. Instead of using \texttt{ls} and \texttt{grep} to search, we will use the following \texttt{find} command: \texttt{find / -type f -name '*flag*' 2>/dev/null}. Here is a breakdown of the command:
+\begin{lstlisting}[language=bash]
+find / #Selecting the / directory to search in
+-type f #Restricts the command to only search files
+-name '*flag*' #Specifies that the command should only search files that 
+               #contain "flag"
+2>/dev/null #Hiding errors
+\end{lstlisting}
 \subsection{tmp flag}
 \subsection{it's over but actually not}
 \subsection{trying to escalate privaledgs}

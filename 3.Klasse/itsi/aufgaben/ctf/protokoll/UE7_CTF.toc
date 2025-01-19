@@ -14,7 +14,7 @@
 \contentsline {subsection}{\numberline {4.8}Investigating the process flag}{12}{subsection.4.8}%
 \contentsline {subsection}{\numberline {4.9}Further investigating the webserver}{12}{subsection.4.9}%
 \contentsline {subsection}{\numberline {4.10}Investigating secret\_flag.txt}{13}{subsection.4.10}%
-\contentsline {subsection}{\numberline {4.11}history flag}{14}{subsection.4.11}%
+\contentsline {subsection}{\numberline {4.11}Exploring the new user}{14}{subsection.4.11}%
 \contentsline {subsection}{\numberline {4.12}tmp flag}{14}{subsection.4.12}%
 \contentsline {subsection}{\numberline {4.13}it's over but actually not}{14}{subsection.4.13}%
 \contentsline {subsection}{\numberline {4.14}trying to escalate privaledgs}{14}{subsection.4.14}%
