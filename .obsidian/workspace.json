@@ -4,20 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "5de61ebc11e8efea",
+        "id": "ec456cbaab388430",
         "type": "tabs",
         "children": [
           {
-            "id": "f7335577bca2aaae",
+            "id": "80d4e493d7034400",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/ggp/Sektoraler Wandel soziale und ökologische Auswirkungen.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Sektoraler Wandel soziale und ökologische Auswirkungen"
+            }
+          },
+          {
+            "id": "11c67cbd068d31c3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/Sektoraler Wandel soziale und ökologische Auswirkungen 20-01-2025-31.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Sektoraler Wandel soziale und ökologische Auswirkungen 20-01-2025-31.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,8 +154,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f7335577bca2aaae",
+  "active": "11c67cbd068d31c3",
   "lastOpenFiles": [
+    "bilder/Pasted Image 20250120102750_845.png",
+    "bilder/Pasted Image 20250120102741_737.png",
+    "3.Klasse/ggp/Sektoraler Wandel soziale und ökologische Auswirkungen.md",
+    "bilder/Sektoraler Wandel soziale und ökologische Auswirkungen 20-01-2025-31.excalidraw.md",
+    "3.Klasse/ggp/3kl GGP.md",
+    "3.Klasse/ggp/Wirtschaftssektoren Zettel.md",
+    "bilder/Wirtschaftssektoren Zettel 13-01-2025-44.excalidraw.md",
     "3.Klasse/englisch/table of content.md",
     "3.Klasse/itsi/aufgaben/ctf/itsi ctf.md",
     "3.Klasse/itsi/aufgaben/ctf/priv esc diassater.md",
@@ -161,10 +185,8 @@
     "3.Klasse/itsi/aufgaben/ctf/protokoll/images/RadagJuice.png",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/images/metep.png",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/images/ep.png",
-    "3.Klasse/itsi/aufgaben/ctf/protokoll/images/msfc.png",
     "Cyber Killchain.md",
     "3.Klasse/ggp/industrile revolutionen dlc.md",
-    "3.Klasse/ggp/3kl GGP.md",
     "3.Klasse/itsi/Nmap.md",
     "3.Klasse/itsi/hydra.md",
     "cyber chef.md",
@@ -179,11 +201,6 @@
     "3.Klasse/insy/3.Normalform.md",
     "3.Klasse/insy/1.Normalform.md",
     "3.Klasse/insy/3kl insy.md",
-    "3.Klasse/mathe/Vektoren.md",
-    "bilder/Vektoren 14-01-2025-11.excalidraw.md",
-    "bilder/Vektoren 14-01-2025-30.excalidraw.md",
-    "bilder/Vektoren 14-01-2025-05.excalidraw.md",
-    "bilder/Vektoren 14-01-2025-18.excalidraw.md",
-    "3.Klasse/mathe/3kl mathe.md"
+    "3.Klasse/mathe/Vektoren.md"
   ]
 }

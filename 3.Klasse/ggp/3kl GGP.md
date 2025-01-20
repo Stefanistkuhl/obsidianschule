@@ -16,3 +16,4 @@ tags:
 [[der demopgrahise wandel]]
 [[Wirtschaftssektoren Zettel]]
 [[industrile revolutionen dlc]]
+[[Sektoraler Wandel soziale und ökologische Auswirkungen]]
