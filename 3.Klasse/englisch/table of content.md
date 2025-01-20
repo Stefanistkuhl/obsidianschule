@@ -12,3 +12,4 @@ tags:
 | 9/12                    | Influencers, ARTICLE         | p68/69<br>2sheets                                         | Revise topics<br>                        |
 | 16/12                   | Test:2 lessons               |                                                           | if-clauses sheet<br>p70 a/b /p72,73:1a/b |
 | 68/69                   | 70+ if/sheet                 | 72/73                                                     | 74-75                                    |
+| 20/1                    | Adj/adved,Antonomys          | p76-79                                                    | Tech pages:p82/83<br>1,3                 |

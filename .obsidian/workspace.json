@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0a66f0f9b77e2be3",
+        "id": "5de61ebc11e8efea",
         "type": "tabs",
         "children": [
           {
-            "id": "24cd9cc1db229345",
+            "id": "f7335577bca2aaae",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -137,7 +137,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "24cd9cc1db229345",
+  "active": "f7335577bca2aaae",
   "lastOpenFiles": [
     "3.Klasse/englisch/table of content.md",
     "3.Klasse/itsi/aufgaben/ctf/itsi ctf.md",
