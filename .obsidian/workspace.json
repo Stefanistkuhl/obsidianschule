@@ -35,7 +35,8 @@
               "title": "itsi ctf"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,19 +156,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5dd08752c9b5644d",
+  "active": "7f9994b8951414bf",
   "lastOpenFiles": [
     "3.Klasse/itsi/aufgaben/ctf/protokoll/UE7_CTF.synctex(busy)",
-    "3.Klasse/itsi/aufgaben/ctf/protokoll/lualatex61138.fls",
-    "3.Klasse/itsi/aufgaben/ctf/protokoll/lualatex61120.fls",
+    "3.Klasse/itsi/aufgaben/ctf/protokoll/lualatex62791.fls",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/UE7_CTF.tex~",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/4913",
-    "3.Klasse/itsi/aufgaben/ctf/protokoll/lualatex60715.fls",
-    "3.Klasse/itsi/aufgaben/ctf/protokoll/lualatex60698.fls",
-    "3.Klasse/itsi/aufgaben/ctf/protokoll/lualatex60679.fls",
-    "3.Klasse/itsi/aufgaben/ctf/protokoll/lualatex60666.fls",
-    "3.Klasse/itsi/aufgaben/ctf/protokoll/lualatex60586.fls",
-    "3.Klasse/itsi/aufgaben/ctf/protokoll/lualatex60567.fls",
+    "3.Klasse/itsi/aufgaben/ctf/protokoll/lualatex62772.fls",
+    "3.Klasse/itsi/aufgaben/ctf/protokoll/lualatex62732.fls",
+    "3.Klasse/itsi/aufgaben/ctf/protokoll/images/rw+.png",
+    "3.Klasse/itsi/aufgaben/ctf/protokoll/lualatex62561.fls",
+    "3.Klasse/itsi/aufgaben/ctf/protokoll/lualatex62549.fls",
+    "3.Klasse/itsi/aufgaben/ctf/protokoll/lualatex62513.fls",
+    "3.Klasse/itsi/aufgaben/ctf/protokoll/lualatex62496.fls",
+    "3.Klasse/itsi/aufgaben/ctf/protokoll/images/pe.png",
+    "3.Klasse/itsi/aufgaben/ctf/protokoll/lualatex62436.fls",
+    "3.Klasse/itsi/aufgaben/ctf/priv esc diassater.md",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/images/RadagJuice.png",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/images/metep.png",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/images/ep.png",
@@ -175,11 +179,8 @@
     "3.Klasse/itsi/aufgaben/ctf/protokoll/images/scp.png",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/images/msfgenpayload.png",
     "3.Klasse/itsi/aufgaben/ctf/itsi ctf.md",
-    "3.Klasse/itsi/aufgaben/ctf/priv esc diassater.md",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/images/cofl.png",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/images/colsal.png",
-    "3.Klasse/itsi/aufgaben/ctf/protokoll/images/tmpfl.png",
-    "3.Klasse/itsi/aufgaben/ctf/protokoll/images/fdtmp.png",
     "Cyber Killchain.md",
     "3.Klasse/ggp/industrile revolutionen dlc.md",
     "3.Klasse/ggp/3kl GGP.md",

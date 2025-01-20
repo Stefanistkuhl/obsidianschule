@@ -112,11 +112,33 @@ C.~M. Uppin, ``{Series of CTF machines Walkthrough {\#}5 Linux Privilege
   \url{https://cmuppin9.medium.com/series-of-ctf-machines-walkthrough-6-linux-privilege-escalation-using-sudo-permissions-c517cb789bc6}
 \BIBentrySTDinterwordspacing
 
+\bibitem{lse}
+\BIBentryALTinterwordspacing
+``{linux-smart-enumeration},'' Jan. 2025, [Online; accessed 20. Jan. 2025].
+  [Online]. Available:
+  \url{https://github.com/diego-treitos/linux-smart-enumeration}
+\BIBentrySTDinterwordspacing
+
+\bibitem{exploitdb}
+\BIBentryALTinterwordspacing
+{Qualys Corporation}, ``{Linux Kernel (Debian 7/8/9/10 / Fedora 23/24/25 /
+  CentOS 5.3/5.11/6.0/6.8/7.2.1511) - 'ldso{$\_$}hwcap Stack Clash' Local
+  Privilege Escalation},'' \emph{Exploit Database}, Jun. 2017. [Online].
+  Available: \url{https://www.exploit-db.com/exploits/42274}
+\BIBentrySTDinterwordspacing
+
 \bibitem{msfvenomdocs}
 \BIBentryALTinterwordspacing
 ``{How to use msfvenom},'' Jan. 2025, [Online; accessed 20. Jan. 2025].
   [Online]. Available:
   \url{https://docs.metasploit.com/docs/using-metasploit/basics/how-to-use-msfvenom.html}
+\BIBentrySTDinterwordspacing
+
+\bibitem{root-grub}
+\BIBentryALTinterwordspacing
+``{Recover - Reset Forgotten Linux Root Password},'' May 2021, [Online;
+  accessed 20. Jan. 2025]. [Online]. Available:
+  \url{https://linuxconfig.org/recover-reset-forgotten-linux-root-password}
 \BIBentrySTDinterwordspacing
 
 \end{thebibliography}

