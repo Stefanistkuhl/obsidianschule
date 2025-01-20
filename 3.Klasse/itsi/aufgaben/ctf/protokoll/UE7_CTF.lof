@@ -31,3 +31,7 @@
 \contentsline {figure}{\numberline {31}{\ignorespaces Executing the payload on the target\relax }}{19}{figure.caption.33}%
 \contentsline {figure}{\numberline {32}{\ignorespaces The required modules not being loaded\relax }}{19}{figure.caption.34}%
 \contentsline {figure}{\numberline {33}{\ignorespaces Showing the GRUB screen to press \texttt {e} on\relax }}{19}{figure.caption.35}%
+\contentsline {figure}{\numberline {34}{\ignorespaces Editing a kernel parameter\relax }}{20}{figure.caption.36}%
+\contentsline {figure}{\numberline {35}{\ignorespaces Changing the root password\relax }}{20}{figure.caption.37}%
+\contentsline {figure}{\numberline {36}{\ignorespaces Logging in as the root user\relax }}{21}{figure.caption.38}%
+\contentsline {figure}{\numberline {37}{\ignorespaces Viewing the final flag in the \texttt {/root} directory\relax }}{21}{figure.caption.39}%

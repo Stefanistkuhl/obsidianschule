@@ -388,13 +388,32 @@ It is performed by pressing \texttt{e} when seeing the screen shown in Figure 33
 	\centering
 	\caption{Showing the GRUB screen to press \texttt{e} on}
 \end{figure}\abc
-Then navigate to the line starting with \texttt{linux} and append \texttt{rw init=/bin/bash}, as shown in Figure 34, to change a kernel parameter. After pressing F10, you will immediately boot into the system with a root shell.
-\begin{figure}[h]
+Then navigate to the line starting with \texttt{linux} and append \texttt{rw init=/bin/bash}, as shown in Figure 34, to change a kernel parameter. After pressing F10, you will immediately boot into the system with a root shell, as shown in Figure 35.\newpage
+\begin{figure}[ht]
 	\includegraphics[scale=0.51]{images/rw+.png}
 	\centering
-	\caption{Showing the GRUB screen to press \texttt{e} on}
+	\caption{Editing a kernel parameter}
+\end{figure}
+\begin{figure}[h]
+	\includegraphics[scale=0.45]{images/pwc.png}
+	\centering
+	\caption{Changing the root password}
 \end{figure}\abc
-\subsection{7 flags}
+Lastly, as displayed in Figure 35, we run the command \texttt{exec /sbin/init} to reboot the system and load into the operating system as usual.
+Figure 36 verifies this by showing the root login after rebooting.\newpage
+\begin{figure}[h]
+	\includegraphics[scale=0.45]{images/ve.png}
+	\centering
+	\caption{Logging in as the root user}
+\end{figure}\abc
+\subsection{Obtaining the final flag}
+Now that we are the root user, we can see a file called \texttt{root\_flag.txt}, which contains the final flag. Additionally, we can view the file \texttt{ctf\_setup.sh} to see how the CTF is made and verify that we actually got all of the flags this time. These files are also available in the ZIP file beside this document. Figure 37 shows the files in \texttt{/root} and the final flag.
+\begin{figure}[h]
+	\includegraphics[scale=0.75]{images/ogm.png}
+	\centering
+	\caption{Viewing the final flag in the \texttt{/root} directory}
+\end{figure}\abc
+
 \newpage
 \section{References}
 \bibliography{IEEEabrv,quellen}
