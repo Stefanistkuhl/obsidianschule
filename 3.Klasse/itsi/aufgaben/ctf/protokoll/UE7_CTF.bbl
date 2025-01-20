@@ -112,4 +112,11 @@ C.~M. Uppin, ``{Series of CTF machines Walkthrough {\#}5 Linux Privilege
   \url{https://cmuppin9.medium.com/series-of-ctf-machines-walkthrough-6-linux-privilege-escalation-using-sudo-permissions-c517cb789bc6}
 \BIBentrySTDinterwordspacing
 
+\bibitem{msfvenomdocs}
+\BIBentryALTinterwordspacing
+``{How to use msfvenom},'' Jan. 2025, [Online; accessed 20. Jan. 2025].
+  [Online]. Available:
+  \url{https://docs.metasploit.com/docs/using-metasploit/basics/how-to-use-msfvenom.html}
+\BIBentrySTDinterwordspacing
+
 \end{thebibliography}

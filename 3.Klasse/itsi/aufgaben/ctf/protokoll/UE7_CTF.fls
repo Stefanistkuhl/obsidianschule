@@ -387,6 +387,14 @@ INPUT ./images/logo.png
 INPUT ./images/logo.png
 INPUT ./images/logo.png
 INPUT ./images/logo.png
+INPUT ./images/msfgenpayload.png
+INPUT ./images/msfgenpayload.png
+INPUT ./images/msfgenpayload.png
+INPUT ./images/scp.png
+INPUT ./images/scp.png
+INPUT ./images/scp.png
+INPUT ./images/logo.png
+INPUT ./images/logo.png
 INPUT ./images/logo.png
 INPUT ./images/logo.png
 INPUT ./UE7_CTF.bbl

@@ -25,3 +25,5 @@
 \contentsline {figure}{\numberline {25}{\ignorespaces Viewing the flag in the \texttt {/tmp} directory\relax }}{14}{figure.caption.27}%
 \contentsline {figure}{\numberline {26}{\ignorespaces Viewing the home directories of CheerfulOtter\relax }}{15}{figure.caption.28}%
 \contentsline {figure}{\numberline {27}{\ignorespaces Viewing the flag in the \texttt {.history} file\relax }}{15}{figure.caption.29}%
+\contentsline {figure}{\numberline {28}{\ignorespaces Generating the payload using \texttt {msfvenom}\relax }}{17}{figure.caption.30}%
+\contentsline {figure}{\numberline {29}{\ignorespaces Uploading the payload to the target\relax }}{17}{figure.caption.31}%
