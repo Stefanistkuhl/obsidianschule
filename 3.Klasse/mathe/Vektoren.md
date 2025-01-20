@@ -33,10 +33,19 @@ C=(4|-2)
 \vec{BA}=
 \vec{CB}=
 ```
-Vektoren
+Vektoren berenchnen und ins Kordinatensystem einsetzen
 a)
 ```math
 ||{"id":1423643966047}||
 
-A(5|-7),B(3|1) \vec{a}=18= \vec{}
+A(5|-7),B(3|1) \vec{a}= \vec{AB}
 ```
+b)
+```math
+||{"id":750746906523}||
+
+C(-3|0),D(1|3), \vec{d} = \vec{DC}
+```
+
+welche Vektoren sund parallel:
+Paralle Vektoren = vielfache voneinander
