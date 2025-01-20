@@ -11,10 +11,14 @@
             "id": "7d0775f7715882d6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/Nawi/logistische Wachstumskurve.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "logistische Wachstumskurve"
             }
           }
         ]
@@ -139,6 +143,11 @@
   },
   "active": "7d0775f7715882d6",
   "lastOpenFiles": [
+    "bilder/logistische Wachstumskurve 20-01-2025-36.excalidraw.md",
+    "3.Klasse/Nawi/logistische Wachstumskurve.md",
+    "3.Klasse/Nawi/Proteinsynthese.md",
+    "bilder/Proteinsynthese 13-01-2025-19.excalidraw.md",
+    "3.Klasse/Nawi/3kl nawi.md",
     "3.Klasse/mathe/Vektoren rechenoperationen.md",
     "3.Klasse/mathe/Vektoren.md",
     "3.Klasse/itsi/aufgaben/ctf/itsi ctf.md",
@@ -179,11 +188,6 @@
     "3.Klasse/itsi/Angriffs Vektoren.md",
     "3.Klasse/Ipt/Kommunaktion oder so.md",
     "bilder/Kommunaktion oder so 15-01-2025-55.excalidraw.md",
-    "3.Klasse/Ipt/3kl itp.md",
-    "3.Klasse/insy/2.Normalform.md",
-    "3.Klasse/insy/Normalisierung.md",
-    "3.Klasse/insy/3.Normalform.md",
-    "3.Klasse/insy/1.Normalform.md",
-    "3.Klasse/insy/3kl insy.md"
+    "3.Klasse/Ipt/3kl itp.md"
   ]
 }
