@@ -49,3 +49,6 @@ C(-3|0),D(1|3), \vec{d} = \vec{DC}
 
 welche Vektoren sund parallel:
 Paralle Vektoren = vielfache voneinander
+
+Berechne den Abstand de Punktes zum Ursprung
+$$B(12|9), \vec{B}=$$
