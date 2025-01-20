@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e025cb98555f6591",
+        "id": "4d224ee6b5b7ca3a",
         "type": "tabs",
         "children": [
           {
-            "id": "5dd08752c9b5644d",
+            "id": "ef3d7291f3845d7a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/itsi/aufgaben/ctf/priv esc diassater.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "priv esc diassater"
-            }
-          },
-          {
-            "id": "7f9994b8951414bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/itsi/aufgaben/ctf/itsi ctf.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "itsi ctf"
+              "title": "New tab"
             }
           }
         ]
@@ -155,8 +137,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5dd08752c9b5644d",
+  "active": "ef3d7291f3845d7a",
   "lastOpenFiles": [
+    "3.Klasse/itsi/aufgaben/ctf/itsi ctf.md",
+    "3.Klasse/itsi/aufgaben/ctf/priv esc diassater.md",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/a/GRP-7-Tremurici-Fürst-Lab-5.zip",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/a/ziaOrlro",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/a/server.py",
@@ -167,15 +151,12 @@
     "3.Klasse/itsi/aufgaben/ctf/protokoll/a/UE7_CTF.pdf",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/a",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/UE7_CTF.tex~",
-    "3.Klasse/itsi/aufgaben/ctf/protokoll/4913",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/images/topo.png",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/images/ogm.png",
-    "3.Klasse/itsi/aufgaben/ctf/itsi ctf.md",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/images/ve.png",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/images/pwc.png",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/images/rw+.png",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/images/pe.png",
-    "3.Klasse/itsi/aufgaben/ctf/priv esc diassater.md",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/images/RadagJuice.png",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/images/metep.png",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/images/ep.png",
