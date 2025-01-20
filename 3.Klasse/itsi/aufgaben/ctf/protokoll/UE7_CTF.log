@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2025.1.19)  20 JAN 2025 01:08
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2025.1.19)  20 JAN 2025 01:28
  restricted system commands enabled.
  file:line:error style messages enabled.
 **UE7_CTF.tex
@@ -731,28 +731,61 @@ Package luatex.def Info: images/logo.png  used on input line 325.
 <images/msfgenpayload.png, id=370, 622.325pt x 143.53625pt>
 File: images/msfgenpayload.png Graphic file (type png)
 <use images/msfgenpayload.png>
-Package luatex.def Info: images/msfgenpayload.png  used on input line 353.
+Package luatex.def Info: images/msfgenpayload.png  used on input line 354.
 (luatex.def)             Requested size: 435.62453pt x 100.47467pt.
 <images/scp.png, id=371, 903.375pt x 66.2475pt>
 File: images/scp.png Graphic file (type png)
 <use images/scp.png>
-Package luatex.def Info: images/scp.png  used on input line 359.
+Package luatex.def Info: images/scp.png  used on input line 360.
 (luatex.def)             Requested size: 451.6864pt x 33.12366pt.
 
-Overfull \hbox (43.72516pt too wide) in paragraph at lines 351--364
-\TU/lmr/m/n/10 The next stop is to open the metas-ploit con-sole by run-ning \TU/lmtt/m/n/10 msfconsole\TU/lmr/m/n/10 , set-ting the ex-ploit to be \TU/lmtt/m/n/10 exploiut/multi/handler 
+Underfull \hbox (badness 10000) in paragraph at lines 352--364
+
  []
 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
 Package luatex.def Info: images/logo.png  used on input line 364.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
-[17<./images/msfgenpayload.png><./images/scp.png>]
+[17<./images/msfgenpayload.png>]
+<images/msfc.png, id=396, 624.3325pt x 227.85126pt>
+File: images/msfc.png Graphic file (type png)
+<use images/msfc.png>
+Package luatex.def Info: images/msfc.png  used on input line 367.
+(luatex.def)             Requested size: 312.16548pt x 113.92534pt.
+<images/ep.png, id=397, 394.47375pt x 50.1875pt>
+File: images/ep.png Graphic file (type png)
+<use images/ep.png>
+Package luatex.def Info: images/ep.png  used on input line 372.
+(luatex.def)             Requested size: 315.57942pt x 40.15004pt.
+<images/RadagJuice.png, id=398, 609.27625pt x 148.555pt>
+File: images/RadagJuice.png Graphic file (type png)
+<use images/RadagJuice.png>
+Package luatex.def Info: images/RadagJuice.png  used on input line 378.
+(luatex.def)             Requested size: 310.72676pt x 75.76204pt.
+
+Overfull \hbox (15.05316pt too wide) in paragraph at lines 364--382
+\TU/lmr/m/n/10 The next step is to open the Metas-ploit con-sole by run-ning \TU/lmtt/m/n/10 msfconsole\TU/lmr/m/n/10 . Set the ex-ploit to \TU/lmtt/m/n/10 exploit/multi/handler\TU/lmr/m/n/10 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 364--382
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 368.
+Package luatex.def Info: images/logo.png  used on input line 382.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
- [18] (./UE7_CTF.bbl
+[18<./images/scp.png><./images/msfc.png><./images/ep.png>]
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package luatex.def Info: images/logo.png  used on input line 386.
+(luatex.def)             Requested size: 186.09352pt x 55.10535pt.
+ [19<./images/RadagJuice.png>] (./UE7_CTF.bbl
 Underfull \hbox (badness 4378) in paragraph at lines 47--50
 []\TU/lmr/m/n/10 Jan. 2025, [On-line; ac-cessed 19. Jan. 2025]. [On-line]. Avail-
  []
@@ -765,35 +798,35 @@ Underfull \hbox (badness 2393) in paragraph at lines 47--50
 )
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 371.
+Package luatex.def Info: images/logo.png  used on input line 389.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
- [19] (./UE7_CTF.lof)
+ [20] (./UE7_CTF.lof)
 \tf@lof=\write5
 
 \openout5 = UE7_CTF.lof
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package luatex.def Info: images/logo.png  used on input line 376.
+Package luatex.def Info: images/logo.png  used on input line 394.
 (luatex.def)             Requested size: 186.09352pt x 55.10535pt.
- [20] (./UE7_CTF.aux)
+ [21] (./UE7_CTF.aux)
 Package rerunfilecheck Info: File `UE7_CTF.out' has not changed.
-(rerunfilecheck)             Checksum: D3712E871F628E400B18A656068F4C70;6650.
+(rerunfilecheck)             Checksum: 08B9D3670F373B51084A2187AA623408;6724.
 )
 
 Here is how much of LuaTeX's memory you used:
- 15860 strings out of 478382
+ 15906 strings out of 478382
  100000,1977958 words of node,token memory allocated
  611 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 12 glue, 3 kern, 1 glyph, 21 attribute, 53 glue_spec, 21 attribute_list, 1 write, 7 pdf_action nodes
-   avail lists: 2:1184,3:435,4:404,5:429,6:113,7:7435,8:155,9:978,10:22,11:326
- 35042 multiletter control sequences out of 65536+600000
+   avail lists: 2:1190,3:435,4:404,5:431,6:122,7:7435,8:155,9:970,10:22,11:326
+ 35060 multiletter control sequences out of 65536+600000
  45 fonts using 3539791 bytes
  72i,16n,73p,780b,619s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/opentype/public/lm/lmroman10-italic.otf></usr/share/texmf/fonts/opentype/public/lm/lmmonolt10-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmmono8-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman8-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman6-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman7-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman12-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on UE7_CTF.pdf (20 pages, 2147690 bytes).
+Output written on UE7_CTF.pdf (21 pages, 2202230 bytes).
 
-PDF statistics: 545 PDF objects out of 1000 (max. 8388607)
- 450 compressed objects within 5 object streams
- 141 named destinations out of 1000 (max. 131072)
+PDF statistics: 559 PDF objects out of 1000 (max. 8388607)
+ 460 compressed objects within 5 object streams
+ 145 named destinations out of 1000 (max. 131072)
  249 words of extra memory for PDF output out of 10000 (max. 100000000)
 
