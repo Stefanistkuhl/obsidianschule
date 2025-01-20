@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ec456cbaab388430",
+        "id": "d06e7dc55c454d03",
         "type": "tabs",
         "children": [
           {
-            "id": "80d4e493d7034400",
+            "id": "011e192d959b5efe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/ggp/Sektoraler Wandel soziale und ökologische Auswirkungen.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Sektoraler Wandel soziale und ökologische Auswirkungen"
-            }
-          },
-          {
-            "id": "11c67cbd068d31c3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/Sektoraler Wandel soziale und ökologische Auswirkungen 20-01-2025-31.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Sektoraler Wandel soziale und ökologische Auswirkungen 20-01-2025-31.excalidraw"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,12 +137,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "11c67cbd068d31c3",
+  "active": "011e192d959b5efe",
   "lastOpenFiles": [
-    "bilder/Pasted Image 20250120102750_845.png",
-    "bilder/Pasted Image 20250120102741_737.png",
     "3.Klasse/ggp/Sektoraler Wandel soziale und ökologische Auswirkungen.md",
     "bilder/Sektoraler Wandel soziale und ökologische Auswirkungen 20-01-2025-31.excalidraw.md",
+    "bilder/Pasted Image 20250120102750_845.png",
+    "bilder/Pasted Image 20250120102741_737.png",
     "3.Klasse/ggp/3kl GGP.md",
     "3.Klasse/ggp/Wirtschaftssektoren Zettel.md",
     "bilder/Wirtschaftssektoren Zettel 13-01-2025-44.excalidraw.md",
@@ -184,7 +167,6 @@
     "3.Klasse/itsi/aufgaben/ctf/protokoll/images/pe.png",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/images/RadagJuice.png",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/images/metep.png",
-    "3.Klasse/itsi/aufgaben/ctf/protokoll/images/ep.png",
     "Cyber Killchain.md",
     "3.Klasse/ggp/industrile revolutionen dlc.md",
     "3.Klasse/itsi/Nmap.md",
