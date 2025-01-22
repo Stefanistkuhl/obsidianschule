@@ -24,4 +24,11 @@ $$\vec{e_{a}}=\frac{1}{22.36}*\binom{10}{20}=\binom{0.4}{0.89}$$
 $$|\vec{e_{a}}|=\sqrt{ 0.4²+0.89² }=1.15$$
 ### Normalvektor
 Wenn das Sklarlaarprodukt von 2 vektoren 0 ist, so sind sie senkrecht zu einander.
-$$$$
+kreuzprodukt beider vektoren
+$$\vec{a}\cdot \vec{b}=\vec{n}$$
+```math
+||{"id":1675388700224}||
+
+|: \vec{n}*\vec{a}=0
+||:\vec{n}*\vec{b}=0
+```
