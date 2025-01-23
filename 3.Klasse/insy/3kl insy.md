@@ -12,4 +12,4 @@ tags:
 [[Crow's Foot Notation]]
 [[Schlüssel]]
 [[insy teststoff 1311]]
-[[Normalisierung]]
+[[3.Klasse/insy/Normalisierung]]
