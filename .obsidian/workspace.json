@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/mathe/Vektoren rechenoperationen.md",
+                "file": "3.Klasse/ggp/AB Liberalismus und capitalismus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vektoren rechenoperationen"
+              "title": "AB Liberalismus und capitalismus"
+            }
+          },
+          {
+            "id": "9c7cdd7fa7549ec5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/AB Liberalismus und capitalismus 23-01-2025-05.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "AB Liberalismus und capitalismus 23-01-2025-05.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,13 +150,18 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7d0775f7715882d6",
+  "active": "9c7cdd7fa7549ec5",
   "lastOpenFiles": [
-    "Normalisierung.md",
+    "bilder/Pasted Image 20250123135713_174.png",
+    "3.Klasse/ggp/AB Liberalismus und capitalismus.md",
+    "bilder/AB Liberalismus und capitalismus 23-01-2025-05.excalidraw.md",
+    "3.Klasse/ggp/3kl GGP.md",
     "3.Klasse/mathe/Vektoren rechenoperationen.md",
+    "Normalisierung.md",
     "3.Klasse/mathe/Vektoren.md",
     "3.Klasse/Nawi/Biochemie.md",
     "3.Klasse/Nawi/3kl nawi.md",
@@ -157,7 +175,6 @@
     "bilder/Sektoraler Wandel soziale und ökologische Auswirkungen 20-01-2025-31.excalidraw.md",
     "bilder/Pasted Image 20250120102750_845.png",
     "bilder/Pasted Image 20250120102741_737.png",
-    "3.Klasse/ggp/3kl GGP.md",
     "3.Klasse/ggp/Wirtschaftssektoren Zettel.md",
     "bilder/Wirtschaftssektoren Zettel 13-01-2025-44.excalidraw.md",
     "3.Klasse/englisch/table of content.md",
@@ -184,9 +201,6 @@
     "3.Klasse/itsi/Nmap.md",
     "3.Klasse/itsi/hydra.md",
     "cyber chef.md",
-    "cybercehe.md",
-    "3.Klasse/itsi/tools für ethical hacking.md",
-    "3.Klasse/itsi/Angriffs Vektoren.md",
-    "3.Klasse/Ipt/Kommunaktion oder so.md"
+    "cybercehe.md"
   ]
 }

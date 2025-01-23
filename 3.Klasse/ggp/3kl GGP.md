@@ -17,3 +17,4 @@ tags:
 [[Wirtschaftssektoren Zettel]]
 [[industrile revolutionen dlc]]
 [[Sektoraler Wandel soziale und ökologische Auswirkungen]]
+[[AB Liberalismus und capitalismus]]
