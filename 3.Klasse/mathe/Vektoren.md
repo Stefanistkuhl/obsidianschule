@@ -3,6 +3,7 @@ tags:
   - m
   - 3te_Klasse
 ---
+[[Vektoren in GeoGebra]]
 Mathematisch: Ein Wertepaar oder Tripel
 Schreibweise: 
 $$\vec{a}=\binom{a_1}{a_2}$$

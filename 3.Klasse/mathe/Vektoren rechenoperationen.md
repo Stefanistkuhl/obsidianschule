@@ -32,3 +32,16 @@ $$\vec{a}\cdot \vec{b}=\vec{n}$$
 |: \vec{n}*\vec{a}=0
 ||:\vec{n}*\vec{b}=0
 ```
+### Skalarprodukt
+regel: sind u und v normalvektoren, dann ist das skalarprodukt = 0 → der winkel zw den beiden ist 90°
+$$\vec{u}*\vec{v}=\binom{u_{x}}{u_{y}}\binom{v_{x}}{v_{y}}=u_{x}*v_{x}+u_{y}*v_{y}$$
+verwendet um den winkel auszurechen
+$$\vec{u}*v=|\vec{u}|*| \vec{v}|*\cos(\phi)$$
+$$\cos(\phi)=\frac{\vec{u}*\vec{v}}{| \vec{u}|*|\vec{v}|}=\phi=\arccos(\frac{\vec{u}*\vec{v}}{| \vec{u}|*|\vec{v}|})$$
+$$\vec{a}=\binom{1}{2}$$
+$$\vec{b}=\binom{-4}{2}$$
+$$\vec{a}*\vec{b}=1*(-4)+(2*2)=0$$
+$$| \vec{a}|= \sqrt{ 1+4 }=\sqrt{ 5 } $$
+$$| \vec{b}|= \sqrt{ 16+4 }=\sqrt{ 20 } $$
+$$\phi=\arccos\left( \frac{0}{\sqrt{ 5 }*\sqrt{ 20 }}\right)$$
+$$\phi=\arccos(0)=90°$$

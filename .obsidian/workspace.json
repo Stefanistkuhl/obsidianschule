@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/ggp/AB Liberalismus und capitalismus.md",
+                "file": "3.Klasse/mathe/Vektoren in GeoGebra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AB Liberalismus und capitalismus"
+              "title": "Vektoren in GeoGebra"
             }
           }
         ]
@@ -137,18 +137,20 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "7d0775f7715882d6",
   "lastOpenFiles": [
-    "bilder/AB Liberalismus und capitalismus 23-01-2025-05.excalidraw.md",
+    "3.Klasse/mathe/Vektoren.md",
+    "3.Klasse/mathe/Vektoren in GeoGebra.md",
+    "3.Klasse/mathe/Vektoren rechenoperationen.md",
     "3.Klasse/ggp/AB Liberalismus und capitalismus.md",
+    "bilder/AB Liberalismus und capitalismus 23-01-2025-05.excalidraw.md",
     "bilder/Pasted Image 20250123135713_174.png",
     "3.Klasse/ggp/3kl GGP.md",
-    "3.Klasse/mathe/Vektoren rechenoperationen.md",
     "Normalisierung.md",
-    "3.Klasse/mathe/Vektoren.md",
     "3.Klasse/Nawi/Biochemie.md",
     "3.Klasse/Nawi/3kl nawi.md",
     "3.Klasse/Nawi/logistische Wachstumskurve.md",
