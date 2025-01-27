@@ -4,6 +4,7 @@ tags:
   - 3te_Klasse
 ---
 [[Vektoren in GeoGebra]]
+[[Vektoren Srdp]]
 Mathematisch: Ein Wertepaar oder Tripel
 Schreibweise: 
 $$\vec{a}=\binom{a_1}{a_2}$$

@@ -1,3 +1,8 @@
+---
+tags:
+  - 3te_Klasse
+  - itsi
+---
 Prozess bzw vorgehensweise, wie das Osi7 schichten modell um angriffe einzuordnen, wo der angreifer schon hat.
 ![[Pasted image 20250117082551.png]]
 1. Reconaissence
