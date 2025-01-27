@@ -5,6 +5,8 @@ tags:
 ---
 Algebra Fenster geused
 ![](https://i.imgur.com/oeB4TGo.png)
+![](https://i.imgur.com/RXxw6wE.png)
+so geht obvi auch
 unten in die eignabe eingeben
 Vektor → kleinbuchstabe
 wenn großbuchstabe ist es ein Punkt :ynails:
