@@ -5,6 +5,7 @@ tags:
 ---
 [[Vektoren in GeoGebra]]
 [[Vektoren Srdp]]
+[[Vektoren Wichtige Anwendungen aus der Naturwissenscahft und Technik]]
 Mathematisch: Ein Wertepaar oder Tripel
 Schreibweise: 
 $$\vec{a}=\binom{a_1}{a_2}$$

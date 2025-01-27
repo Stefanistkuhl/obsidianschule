@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d0775f7715882d6",
+            "id": "925ff8f871f107f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,17 +22,15 @@
             }
           },
           {
-            "id": "925ff8f871f107f4",
+            "id": "0cd2cc84734db492",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "3.Klasse/mathe/Vektoren in GeoGebra.md",
-                "mode": "source",
-                "source": false
+                "file": "bilder/Vektoren Wichtige Anwendungen aus der Naturwissenscahft und Technik 27-01-2025-57.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Vektoren in GeoGebra"
+              "icon": "excalidraw-icon",
+              "title": "Vektoren Wichtige Anwendungen aus der Naturwissenscahft und Technik 27-01-2025-57.excalidraw"
             }
           }
         ]
@@ -155,11 +153,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7d0775f7715882d6",
+  "active": "925ff8f871f107f4",
   "lastOpenFiles": [
+    "3.Klasse/mathe/Vektoren Wichtige Anwendungen aus der Naturwissenscahft und Technik.md",
+    "bilder/Vektoren Wichtige Anwendungen aus der Naturwissenscahft und Technik 27-01-2025-57.excalidraw.md",
+    "3.Klasse/mathe/Vektoren.md",
     "3.Klasse/mathe/Vektoren in GeoGebra.md",
     "3.Klasse/mathe/Vektoren Srdp.md",
-    "3.Klasse/mathe/Vektoren.md",
     "3.Klasse/itsi/Cyber Killchain.md",
     "3.Klasse/itsi/cyber chef.md",
     "3.Klasse/mathe/Vektoren rechenoperationen.md",
@@ -200,8 +200,6 @@
     "3.Klasse/itsi/aufgaben/ctf/protokoll/images/rw+.png",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/images/pe.png",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/images/RadagJuice.png",
-    "3.Klasse/ggp/industrile revolutionen dlc.md",
-    "3.Klasse/itsi/Nmap.md",
-    "3.Klasse/itsi/hydra.md"
+    "3.Klasse/ggp/industrile revolutionen dlc.md"
   ]
 }

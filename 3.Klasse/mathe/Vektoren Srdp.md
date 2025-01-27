@@ -19,3 +19,10 @@ F=(22.8;14.6)
 #### Elektrofahrrad* (B_613)
 
 b)
+1)
+$$\vec{v_{1}}=\vec{v_{2}}-\vec{v_{3}}$$
+2)
+![](https://i.imgur.com/zDGDvb0.png)
+
+#### Fundamentale Wechselwirkungen* (B_429)
+![](https://i.imgur.com/vIQmRr1.png)
