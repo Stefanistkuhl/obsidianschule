@@ -25,4 +25,5 @@ $$\vec{v_{1}}=\vec{v_{2}}-\vec{v_{3}}$$
 ![](https://i.imgur.com/zDGDvb0.png)
 
 #### Fundamentale Wechselwirkungen* (B_429)
-![](https://i.imgur.com/vIQmRr1.png)
+![[Vektoren Srdp 27-01-2025-08.excalidraw]]
+$$\vec{F_{G}}=\binom{-1}{3}$$(Abgelesen)

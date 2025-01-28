@@ -4,33 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "325898fec589e9f0",
+        "id": "8a994fdc9f290250",
         "type": "tabs",
         "children": [
           {
-            "id": "925ff8f871f107f4",
+            "id": "7217019506460e74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/mathe/Vektoren Srdp.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Vektoren Srdp"
-            }
-          },
-          {
-            "id": "0cd2cc84734db492",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/Vektoren Wichtige Anwendungen aus der Naturwissenscahft und Technik 27-01-2025-57.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Vektoren Wichtige Anwendungen aus der Naturwissenscahft und Technik 27-01-2025-57.excalidraw"
+              "title": "New tab"
             }
           }
         ]
@@ -153,13 +137,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "925ff8f871f107f4",
+  "active": "7217019506460e74",
   "lastOpenFiles": [
-    "3.Klasse/mathe/Vektoren Wichtige Anwendungen aus der Naturwissenscahft und Technik.md",
+    "bilder/Vektoren Srdp 27-01-2025-08.excalidraw.md",
+    "3.Klasse/mathe/Vektoren Srdp.md",
     "bilder/Vektoren Wichtige Anwendungen aus der Naturwissenscahft und Technik 27-01-2025-57.excalidraw.md",
+    "bilder/Pasted Image 20250127123312_262.png",
+    "3.Klasse/mathe/Vektoren Wichtige Anwendungen aus der Naturwissenscahft und Technik.md",
     "3.Klasse/mathe/Vektoren.md",
     "3.Klasse/mathe/Vektoren in GeoGebra.md",
-    "3.Klasse/mathe/Vektoren Srdp.md",
     "3.Klasse/itsi/Cyber Killchain.md",
     "3.Klasse/itsi/cyber chef.md",
     "3.Klasse/mathe/Vektoren rechenoperationen.md",
@@ -182,7 +168,6 @@
     "bilder/Pasted Image 20250120102741_737.png",
     "3.Klasse/ggp/Wirtschaftssektoren Zettel.md",
     "bilder/Wirtschaftssektoren Zettel 13-01-2025-44.excalidraw.md",
-    "3.Klasse/englisch/table of content.md",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/a/GRP-7-Tremurici-Fürst-Lab-5.zip",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/a/ziaOrlro",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/a/server.py",
@@ -198,8 +183,6 @@
     "3.Klasse/itsi/aufgaben/ctf/protokoll/images/ve.png",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/images/pwc.png",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/images/rw+.png",
-    "3.Klasse/itsi/aufgaben/ctf/protokoll/images/pe.png",
-    "3.Klasse/itsi/aufgaben/ctf/protokoll/images/RadagJuice.png",
-    "3.Klasse/ggp/industrile revolutionen dlc.md"
+    "3.Klasse/itsi/aufgaben/ctf/protokoll/images/pe.png"
   ]
 }
