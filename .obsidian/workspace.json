@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8a994fdc9f290250",
+        "id": "569cb17baab2e558",
         "type": "tabs",
         "children": [
           {
-            "id": "7217019506460e74",
+            "id": "cb2dfb714f999cb7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -137,8 +137,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7217019506460e74",
+  "active": "cb2dfb714f999cb7",
   "lastOpenFiles": [
+    "3.Klasse/medt/Podcasttrailer.md",
     "bilder/Vektoren Srdp 27-01-2025-08.excalidraw.md",
     "3.Klasse/mathe/Vektoren Srdp.md",
     "bilder/Vektoren Wichtige Anwendungen aus der Naturwissenscahft und Technik 27-01-2025-57.excalidraw.md",
