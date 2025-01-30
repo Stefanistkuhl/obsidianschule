@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/itsi/Windoof server security.md",
+                "file": "3.Klasse/ggp/AB Liberalismus und capitalismus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Windoof server security"
+              "title": "AB Liberalismus und capitalismus"
+            }
+          },
+          {
+            "id": "54f089455de6ed9b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/AB Liberalismus und capitalismus 23-01-2025-05.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "AB Liberalismus und capitalismus 23-01-2025-05.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,10 +154,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cb2dfb714f999cb7",
+  "active": "54f089455de6ed9b",
   "lastOpenFiles": [
-    "3.Klasse/itsi/3kl itsi.md",
+    "3.Klasse/ggp/AB Liberalismus und capitalismus.md",
     "3.Klasse/itsi/Windoof server security.md",
+    "3.Klasse/itsi/3kl itsi.md",
     "3.Klasse/medt/Podcasttrailer.md",
     "bilder/Vektoren Srdp 27-01-2025-08.excalidraw.md",
     "3.Klasse/mathe/Vektoren Srdp.md",
@@ -156,7 +170,6 @@
     "3.Klasse/itsi/Cyber Killchain.md",
     "3.Klasse/itsi/cyber chef.md",
     "3.Klasse/mathe/Vektoren rechenoperationen.md",
-    "3.Klasse/ggp/AB Liberalismus und capitalismus.md",
     "bilder/AB Liberalismus und capitalismus 23-01-2025-05.excalidraw.md",
     "bilder/Pasted Image 20250123135713_174.png",
     "3.Klasse/ggp/3kl GGP.md",
