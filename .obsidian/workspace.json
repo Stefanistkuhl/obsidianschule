@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "569cb17baab2e558",
+        "id": "113d872eba38c69f",
         "type": "tabs",
         "children": [
           {
-            "id": "cb2dfb714f999cb7",
+            "id": "74a1a3f907c02438",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/ggp/AB Liberalismus und capitalismus.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "AB Liberalismus und capitalismus"
-            }
-          },
-          {
-            "id": "54f089455de6ed9b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/AB Liberalismus und capitalismus 23-01-2025-05.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "AB Liberalismus und capitalismus 23-01-2025-05.excalidraw"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,9 +137,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "54f089455de6ed9b",
+  "active": "74a1a3f907c02438",
   "lastOpenFiles": [
     "3.Klasse/ggp/AB Liberalismus und capitalismus.md",
+    "bilder/AB Liberalismus und capitalismus 23-01-2025-05.excalidraw.md",
     "3.Klasse/itsi/Windoof server security.md",
     "3.Klasse/itsi/3kl itsi.md",
     "3.Klasse/medt/Podcasttrailer.md",
@@ -170,7 +154,6 @@
     "3.Klasse/itsi/Cyber Killchain.md",
     "3.Klasse/itsi/cyber chef.md",
     "3.Klasse/mathe/Vektoren rechenoperationen.md",
-    "bilder/AB Liberalismus und capitalismus 23-01-2025-05.excalidraw.md",
     "bilder/Pasted Image 20250123135713_174.png",
     "3.Klasse/ggp/3kl GGP.md",
     "Normalisierung.md",
