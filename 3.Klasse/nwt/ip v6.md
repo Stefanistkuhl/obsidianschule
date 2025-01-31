@@ -9,5 +9,8 @@ tags:
 - Kleinstes Subnetz = /64
 - Netz-Anteil d. Adr: Präfix
 	- "Subnetzmaske : Präfsix-länge /n
-	
 ![[ip v6 31-01-2025-18.excalidraw]]
+Problem der EUI64 Adresse gibt es die Privatsfähred erweiterung was randoom sachen added um die 64bit zu bilden
+
+
+[[IPv6-Scopes]]
