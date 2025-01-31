@@ -15,3 +15,4 @@ tags:
 [[EtherChannel (LAG)]]
 [[DHCPv4]]
 [[Auto Ip-Bereich]]
+[[ip v6]]
