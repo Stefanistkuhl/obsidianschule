@@ -13,6 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "IPv6 Multicast.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IPv6 Multicast"
+            }
+          },
+          {
+            "id": "8f586bb7f120c0b7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/IPv6 Multicast 31-01-2025-36.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "IPv6 Multicast 31-01-2025-36.excalidraw"
+            }
+          },
+          {
+            "id": "fbdf305660105772",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "3.Klasse/nwt/IPv6-Scopes.md",
                 "mode": "source",
                 "source": false
@@ -20,21 +46,8 @@
               "icon": "lucide-file",
               "title": "IPv6-Scopes"
             }
-          },
-          {
-            "id": "fbdf305660105772",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/IPv6-Scopes 31-01-2025-20.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "IPv6-Scopes 31-01-2025-20.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,10 +167,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fbdf305660105772",
+  "active": "3904a752360b4dce",
   "lastOpenFiles": [
     "3.Klasse/nwt/IPv6-Scopes.md",
     "bilder/IPv6-Scopes 31-01-2025-20.excalidraw.md",
+    "IPv6 Multicast.md",
+    "bilder/IPv6 Multicast 31-01-2025-36.excalidraw.md",
     "3.Klasse/nwt/ip v6.md",
     "3.Klasse/nwt/3kl nwt.md",
     "bilder/ip v6 31-01-2025-18.excalidraw.md",
@@ -182,8 +197,6 @@
     "3.Klasse/Nawi/Biochemie.md",
     "3.Klasse/Nawi/3kl nawi.md",
     "3.Klasse/Nawi/logistische Wachstumskurve.md",
-    "bilder/logistische Wachstumskurve 20-01-2025-36.excalidraw.md",
-    "3.Klasse/Nawi/Proteinsynthese.md",
     "bilder/Pasted Image 20250120102750_845.png",
     "bilder/Pasted Image 20250120102741_737.png",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/a/GRP-7-Tremurici-Fürst-Lab-5.zip",
