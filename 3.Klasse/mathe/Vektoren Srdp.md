@@ -27,3 +27,5 @@ $$\vec{v_{1}}=\vec{v_{2}}-\vec{v_{3}}$$
 #### Fundamentale Wechselwirkungen* (B_429)
 ![[Vektoren Srdp 27-01-2025-08.excalidraw]]
 $$\vec{F_{G}}=\binom{-1}{3}$$(Abgelesen)
+
+#### Keilriemen eines Motos (B_626)

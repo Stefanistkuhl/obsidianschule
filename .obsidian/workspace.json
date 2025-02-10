@@ -13,27 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/mathe/Parameterdarstelleung einer Gerade.md",
+                "file": "3.Klasse/mathe/Vektoren.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parameterdarstelleung einer Gerade"
+              "title": "Vektoren"
             }
           },
           {
-            "id": "4dcef8b0a00211bb",
+            "id": "e6a7a7382c960d73",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "bilder/Parameterdarstelleung einer Gerade 10-02-2025-09.excalidraw.md"
+                "file": "3.Klasse/mathe/Vektoren Srdp.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Parameterdarstelleung einer Gerade 10-02-2025-09.excalidraw"
+              "icon": "lucide-file",
+              "title": "Vektoren Srdp"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,11 +156,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9edc30b5b9addecb",
+  "active": "e6a7a7382c960d73",
   "lastOpenFiles": [
-    "bilder/Parameterdarstelleung einer Gerade 10-02-2025-09.excalidraw.md",
-    "3.Klasse/mathe/Parameterdarstelleung einer Gerade.md",
+    "3.Klasse/mathe/Vektoren im Raum.md",
+    "3.Klasse/mathe/Vektoren Srdp.md",
     "3.Klasse/mathe/Vektoren.md",
+    "bilder/Vektoren im Raum 10-02-2025-55.excalidraw.md",
+    "3.Klasse/mathe/Vektoren rechenoperationen.md",
+    "3.Klasse/mathe/Parameterdarstelleung einer Gerade.md",
+    "bilder/Parameterdarstelleung einer Gerade 10-02-2025-09.excalidraw.md",
     "3.Klasse/mathe/Vektoren Wichtige Anwendungen aus der Naturwissenscahft und Technik.md",
     "bilder/Sektoraler Wandel soziale und ökologische Auswirkungen 20-01-2025-31.excalidraw.md",
     "3.Klasse/ggp/Sektoraler Wandel soziale und ökologische Auswirkungen.md",
@@ -177,10 +184,6 @@
     "bilder/AB Liberalismus und capitalismus 23-01-2025-05.excalidraw.md",
     "3.Klasse/itsi/Windoof server security.md",
     "3.Klasse/itsi/3kl itsi.md",
-    "3.Klasse/medt/Podcasttrailer.md",
-    "bilder/Vektoren Srdp 27-01-2025-08.excalidraw.md",
-    "3.Klasse/mathe/Vektoren Srdp.md",
-    "bilder/Vektoren Wichtige Anwendungen aus der Naturwissenscahft und Technik 27-01-2025-57.excalidraw.md",
     "bilder/Pasted Image 20250127123312_262.png",
     "bilder/Pasted Image 20250123135713_174.png",
     "bilder/Pasted Image 20250120102750_845.png",
