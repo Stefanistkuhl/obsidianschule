@@ -4,6 +4,7 @@ tags:
   - 3te_Klasse
 ---
 [[Zelle]]
+[[DNA und RNA]]
 Zellen Unterscheidung zu eukaryptoschen und prokaryontishen Zellen
 - Eukaryoten
 	- Zellkern

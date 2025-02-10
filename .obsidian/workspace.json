@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "edb6ab121c80e86f",
+        "id": "c994521668cf669f",
         "type": "tabs",
         "children": [
           {
-            "id": "d371dc963f9dc16e",
+            "id": "0611a40b51cafc4d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/Nawi/Zelle.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Zelle"
+              "title": "New tab"
             }
           }
         ]
@@ -143,8 +139,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "d371dc963f9dc16e",
+  "active": "0611a40b51cafc4d",
   "lastOpenFiles": [
+    "3.Klasse/Nawi/Nukleobasen.md",
+    "3.Klasse/Nawi/DNA und RNA.md",
+    "3.Klasse/Nawi/Zucker in RNA und DNA.md",
+    "bilder/Zucker in RNA und DNA 10-02-2025-02.excalidraw.md",
     "3.Klasse/Nawi/Biochemie.md",
     "3.Klasse/Nawi/Zelle.md",
     "bilder/Vektoren Srdp 10-02-2025-10.excalidraw.md",
@@ -167,10 +167,6 @@
     "3.Klasse/nwt/Router Discovery.md",
     "3.Klasse/nwt/IPv6-Discovery.md",
     "3.Klasse/nwt/3kl nwt.md",
-    "3.Klasse/nwt/IPv6-Scopes.md",
-    "bilder/IPv6 Multicast 31-01-2025-36.excalidraw.md",
-    "bilder/IPv6-Scopes 31-01-2025-20.excalidraw.md",
-    "3.Klasse/nwt/ip v6.md",
     "bilder/Pasted Image 20250127123312_262.png",
     "bilder/Pasted Image 20250123135713_174.png",
     "bilder/Pasted Image 20250120102750_845.png",
