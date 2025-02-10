@@ -29,3 +29,10 @@ $$\vec{v_{1}}=\vec{v_{2}}-\vec{v_{3}}$$
 $$\vec{F_{G}}=\binom{-1}{3}$$(Abgelesen)
 
 #### Keilriemen eines Motos (B_626)
+
+![[Vektoren Srdp 10-02-2025-53.excalidraw]]
+$$b:X=\vec{a}*t+p$$
+$$\vec{AP}=\binom{472.2-427}{279.4-273}=\binom{45.2}{6.4}$$
+Kompenentauschen und ein vorzeichen ändern um den Richtigen Normalvektor zu haben
+$$\vec{a}=\binom{-6.4}{45.2}$$
+$$b:X=\binom{-6.4}{45.2}*t+\binom{472.2}{279.4}$$

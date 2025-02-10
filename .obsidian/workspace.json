@@ -11,10 +11,26 @@
             "id": "5eeb8ac1f776c190",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/mathe/Vektoren Srdp.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Vektoren Srdp"
+            }
+          },
+          {
+            "id": "8a14479d25e466b8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/Vektoren Srdp 10-02-2025-53.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Vektoren Srdp 10-02-2025-53.excalidraw"
             }
           }
         ]
@@ -141,8 +157,10 @@
   },
   "active": "5eeb8ac1f776c190",
   "lastOpenFiles": [
-    "3.Klasse/mathe/Vektoren.md",
+    "bilder/Vektoren Srdp 10-02-2025-53.excalidraw.md",
     "3.Klasse/mathe/Vektoren Srdp.md",
+    "3.Klasse/mathe/Vektoren.md",
+    "3.Klasse/mathe/3kl mathe.md",
     "3.Klasse/mathe/Vektoren im Raum.md",
     "3.Klasse/nwt/IPv6 Multicast.md",
     "bilder/Vektoren im Raum 10-02-2025-55.excalidraw.md",
@@ -165,8 +183,6 @@
     "bilder/ip v6 31-01-2025-18.excalidraw.md",
     "3.Klasse/ggp/AB Liberalismus und capitalismus.md",
     "bilder/AB Liberalismus und capitalismus 23-01-2025-05.excalidraw.md",
-    "3.Klasse/itsi/Windoof server security.md",
-    "3.Klasse/itsi/3kl itsi.md",
     "bilder/Pasted Image 20250127123312_262.png",
     "bilder/Pasted Image 20250123135713_174.png",
     "bilder/Pasted Image 20250120102750_845.png",
