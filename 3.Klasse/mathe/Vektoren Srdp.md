@@ -30,9 +30,21 @@ $$\vec{F_{G}}=\binom{-1}{3}$$(Abgelesen)
 
 #### Keilriemen eines Motos (B_626)
 
+1)
 ![[Vektoren Srdp 10-02-2025-53.excalidraw]]
 $$b:X=\vec{a}*t+p$$
 $$\vec{AP}=\binom{472.2-427}{279.4-273}=\binom{45.2}{6.4}$$
 Kompenentauschen und ein vorzeichen ändern um den Richtigen Normalvektor zu haben
 $$\vec{a}=\binom{-6.4}{45.2}$$
 $$b:X=\binom{-6.4}{45.2}*t+\binom{472.2}{279.4}$$
+2)
+$$b:X=\binom{-6.4}{45.2}*t+\binom{472.2}{279.4}$$
+$$a:X=\binom{387}{295}*t+\binom{22}{40}$$
+![](https://i.imgur.com/wlfAm6W.png)
+$$S=\binom{387}{295}+\binom{66}{120}=\binom{453}{415}$$
+3)
+![[Vektoren Srdp 10-02-2025-10.excalidraw]]
+$$\arccos (\frac{| \vec{a}*\vec{b}}{| \vec{a}*\vec{b}|})$$
+4)
+$$\vec{V_{a}}=\frac{1}{| \vec{v}|}*\vec{v}$$
+wobei vec v der Richtungsvektor zu a ist also vec v = (26. 10)
