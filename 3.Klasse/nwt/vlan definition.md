@@ -14,4 +14,4 @@ Placing devices into VLANs have the following characteristics
 - Reduced Cost
 - Segmentation == good for security Happs
 
-![[vlans 27-09-2024-53.excalidraw]]
+![](vlans%2027-09-2024-53.excalidraw.light.svg)
