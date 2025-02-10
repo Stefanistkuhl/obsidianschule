@@ -1,3 +1,3 @@
-# obsidanschule
- 
-tiger sind tiger :D
+# hier das auf github pages
+
+https://stefanistkuhl.github.io/quartz/
