@@ -55,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -153,12 +154,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "publish:Publish changes...": false
     }
   },
   "active": "e6a7a7382c960d73",
   "lastOpenFiles": [
     "3.Klasse/mathe/Vektoren im Raum.md",
+    "3.Klasse/nwt/IPv6 Multicast.md",
     "3.Klasse/mathe/Vektoren Srdp.md",
     "3.Klasse/mathe/Vektoren.md",
     "bilder/Vektoren im Raum 10-02-2025-55.excalidraw.md",
@@ -176,7 +179,6 @@
     "3.Klasse/nwt/3kl nwt.md",
     "3.Klasse/nwt/IPv6-Scopes.md",
     "bilder/IPv6 Multicast 31-01-2025-36.excalidraw.md",
-    "IPv6 Multicast.md",
     "bilder/IPv6-Scopes 31-01-2025-20.excalidraw.md",
     "3.Klasse/nwt/ip v6.md",
     "bilder/ip v6 31-01-2025-18.excalidraw.md",

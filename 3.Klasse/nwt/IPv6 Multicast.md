@@ -1,3 +1,8 @@
+---
+tags:
+  - nwt
+  - 3te_Klasse
+---
 > Kein arp und brodcast oda so benötigt weil simply multicast
 > alles layer 3 keine layer 2 brodcasts mehr benötigt
  
