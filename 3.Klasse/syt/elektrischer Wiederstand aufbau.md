@@ -14,4 +14,4 @@ A ... Querschnitt
 [R]=Ω
 $$[p]=\frac{\ohm*mm²}{m}$$
 
-![[DR13-03-2024-12.excalidraw]]
+![](DR13-03-2024-12.excalidraw.svg)

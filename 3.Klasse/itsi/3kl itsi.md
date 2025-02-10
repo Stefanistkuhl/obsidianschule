@@ -5,9 +5,9 @@ tags:
 ---
 [[3te Klasse]]
 [[CVE]]
-![[Daten]]
-![[Kryptografie]]
+![](Daten.excalidraw.svg)
+![](Kryptografie.excalidraw.svg)
 [[2.2_Linux-Grundlagen.pdf]]
-![[Benutzerkategorien]]
-![[Authetifizierungsmethoden]]
+![](Benutzerkategorien.excalidraw.svg)
+![](Authetifizierungsmethoden.excalidraw.svg)
 [[Windoof server security]]

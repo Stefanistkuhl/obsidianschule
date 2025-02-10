@@ -7,9 +7,9 @@
 
 Dafür in Einstellungen → Windows Update → Erweiterte Funktionen → Wiederherstellung → Erweiterter Start
 ###### Screenshots von dem Schritt
-![[Pasted image 20231118094237.png]]
-![[Pasted image 20231118094253.png]]
-![[Pasted image 20231118094310.png]]
+![](Pasted image 20231118094237.png.excalidraw.svg)
+![](Pasted image 20231118094253.png.excalidraw.svg)
+![](Pasted image 20231118094310.png.excalidraw.svg)
 
 
 
@@ -23,11 +23,11 @@ Dafür in Einstellungen → Windows Update → Erweiterte Funktionen → Wiederh
 Problembehandlung → erweiterte Optionen → Starteinstellungen → Neustarten → Erzwingen der Treibersignnaturen deaktivieren
 
 ##### Screenshots von dem Schritt
-![[Pasted image 20231118095549.png]]
-![[Pasted image 20231118095556.png]]
-![[Pasted image 20231118095611.png]]
-![[Pasted image 20231118095622.png]]
-![[Pasted image 20231118095658.png]]
+![](Pasted image 20231118095549.png.excalidraw.svg)
+![](Pasted image 20231118095556.png.excalidraw.svg)
+![](Pasted image 20231118095611.png.excalidraw.svg)
+![](Pasted image 20231118095622.png.excalidraw.svg)
+![](Pasted image 20231118095658.png.excalidraw.svg)
 
 ##### <mark style="background: #FFB8EBA6;">Schritt 3: Admin Powershell öffnen und den Rest Ausschalten</mark> 
 
@@ -35,6 +35,6 @@ Mit offener Admin Powershell den Comamand **bcdedit /set nointegritychecks on** 
 
 #### <mark style="background: #FFB8EBA6;">Schritt 4: Neustarten, eine neue Meldung am Desktop haben und und und Signierte Treiber instalieren können</mark>
 
-![[Pasted image 20231118100334.png]]
+![](Pasted image 20231118100334.png.excalidraw.svg)
 
 

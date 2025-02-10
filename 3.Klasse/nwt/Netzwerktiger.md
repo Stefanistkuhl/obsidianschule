@@ -47,7 +47,7 @@ D:
 
 ##### <mark style="background: #FFB8EBA6;">Kodierung</mark>
 
-![[DR01-12-2023-30.excalidraw]]
+![](DR01-12-2023-30.excalidraw.svg)
 - <mark style="background: #FFB8EBA6;">Begriffe</mark>
 	- Bandbreite
 		- obvi wv zur Verfügung
@@ -71,7 +71,7 @@ D:
 		- Coaxial Cable
 			- müll nur half duplex nutzt auch keiner außer Fernseher
 - <mark style="background: #FFB8EBA6;">Faserglas</mark>
-	- ![[DR01-12-2023-05.excalidraw]]
+	- ![](DR01-12-2023-05.excalidraw.svg)
 - <mark style="background: #FFB8EBA6;">Wireless</mark>
 	- Limitationen
 		- Coverage area
@@ -106,18 +106,18 @@ D:
 | Internet       | IPv4, IPv6 , Ip Adressen                                                     |
 | Network Access | Ethernet,PPP(Point to point protocol),PPoE(over ethernet) Mac Adressen       |
 
-![[dr_Fr_21_2023_27.excalidraw]]
+![](dr_Fr_21_2023_27.excalidraw.svg)
 
-![[dr_Fr_44_2023_18.excalidraw]]
+![](dr_Fr_44_2023_18.excalidraw.svg)
 
 
 
 
 #### <mark style="background: #FFB8EBA6;">Datalink</mark>
 
-![[Datalink Layer2]]
+![](Datalink Layer2.excalidraw.svg)
 
 ### <mark style="background: #FFB8EBA6;">L3 Network</mark> 
 
-![[Layer 3]]
-![[something something layer 4 xd oida]]
+![](Layer 3.excalidraw.svg)
+![](something something layer 4 xd oida.excalidraw.svg)

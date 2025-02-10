@@ -4,4 +4,4 @@ tags:
   - syt
   - syt_info
 ---
-![[Von-Neumannn-Rechnermodell]]
+![](Von-Neumannn-Rechnermodell.excalidraw.svg)

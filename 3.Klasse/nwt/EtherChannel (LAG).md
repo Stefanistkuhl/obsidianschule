@@ -5,7 +5,7 @@ tags:
   - nwt
   - 3te_Klasse
 ---
-![[EtherChannel 10-01-2025-26.excalidraw]]
+![](EtherChannel 10-01-2025-26.excalidraw.svg)
 
 - Vorraussetzungen
 	- gleiche Geschw
@@ -31,5 +31,5 @@ die protokolle sind zum  verhanlden und senden verhandlungs packete
 	- active
 	- passive
 	- bei verschiedenen verstellern benötigt
-![[Pasted image 20250110094005.png]]
+![](Pasted image 20250110094005.png.excalidraw.svg)
 [[Configuring EtherChanel]]

@@ -4,7 +4,7 @@ tags:
   - itsi
 ---
 Prozess bzw vorgehensweise, wie das Osi7 schichten modell um angriffe einzuordnen, wo der angreifer schon hat.
-![[Pasted image 20250117082551.png]]
+![](Pasted image 20250117082551.png.excalidraw.svg)
 1. Reconaissence
 	1. aktive
 		1. tool wie portscanner

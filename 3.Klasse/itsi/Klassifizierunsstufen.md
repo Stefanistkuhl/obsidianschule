@@ -17,5 +17,5 @@ tags:
 		- artzt anwalt geheimnis etc
 - Je nach Notwendigkeit auch mehr Stufen möglich
 
-![[Daten bsp selbsttändiger entwickler]]
-![[Fürst-Daten-Klassifizierung]]
+![](Daten bsp selbsttändiger entwickler.excalidraw.svg)
+![](Fürst-Daten-Klassifizierung.excalidraw.svg)

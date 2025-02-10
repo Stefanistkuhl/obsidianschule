@@ -6,7 +6,7 @@ tags:
 2
 [[🥲2te Klasse]]
 ### Flussdiagramm
-![[dr_Tu_21_2023_37.excalidraw]]
+![](dr_Tu_21_2023_37.excalidraw.svg)
 
 ### Tiktaktoe
 - 2 Spieler abwechselnd
@@ -53,7 +53,7 @@ max suchen
 8 4 20 27 31
 4 8 20 27 31
 
-![[DR18-11-2023-21.excalidraw]]
+![](DR18-11-2023-21.excalidraw.svg)
 
 ### Bubble Sort
 
@@ -74,4 +74,4 @@ zb
 
 halbiert immer array dann fügt zsm aber sortiert davor
 
-![[DR20-11-2023-22.excalidraw]]
+![](DR20-11-2023-22.excalidraw.svg)

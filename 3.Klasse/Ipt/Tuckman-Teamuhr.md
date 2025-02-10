@@ -4,7 +4,7 @@ tags:
   - 3te_Klasse
 ---
 [[3kl itp]]
-![[Tuckman-Teamuhr 02-10-2024-39.excalidraw]]
+![](Tuckman-Teamuhr 02-10-2024-39.excalidraw.svg)
 1. Fangen an in diesem Projekt miteinander zu arbeiten 
 2. Konflikte aufstellen- Macht,Unklarheiten,Rollen
 3. Norming → DUrch Regeln und Zussammenarbeit möglich Reviews/Retrospective

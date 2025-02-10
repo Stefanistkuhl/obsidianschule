@@ -3,4 +3,4 @@ tags:
   - 2te_Klasse
   - ipt
 ---
-![[MonetäreZiele.canvas|MonetäreZiele]]
+![](MonetäreZiele.canvas|MonetäreZiele.excalidraw.svg)

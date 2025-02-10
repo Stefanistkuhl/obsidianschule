@@ -29,7 +29,7 @@ tags:
 		- Pluspol an das p ende und den Minuspol and das n ende -> je größer die Spannung desto größer die Sperrschicht 
 	- Skizzieren sie die Kennlinie einer Halbleiterdiode und geben sie an, wodurch eine Diode zerstört werden kann.
 		- Zu großer Durchlassstrom -> thermische Zerstörung der Diode. In die Sperrichtung  führt die Überschreitung der Durchbruchspannung UBR zu einem starken Ansteigen des Sperrstroms und ebensfalls zur Zerstörung der Diode 
-		- ![[Pasted image 20230918132902.png]] 
+		- ![](Pasted image 20230918132902.png.excalidraw.svg) 
 		- 
 - Mikroprozessor Herstellung
 	- Plasma
@@ -61,9 +61,9 @@ n → ein e- mehr haben als Löcher, damit neg geladen zb Phosphor als Fremdatom
 p → ein loch mehr als e-, damit pos geladen → Bor oder Aluminium → Akzeptor
 
 e- in einem n Gebiet Majoritäts-Ladungsträger in p Minoritäts-Ladungsträger
-![[dr_Mo_20_2023_30.excalidraw]]
+![](dr_Mo_20_2023_30.excalidraw.svg)
 #### Diode
-![[dr_Mo_25_2023_32.excalidraw]]
+![](dr_Mo_25_2023_32.excalidraw.svg)
 Differentieller Widerstand rF = ΔUf/ΔIf 
 SMD = Surface Mounted Device 
 
@@ -104,10 +104,10 @@ SMD = Surface Mounted Device
 	- steht oben schon 
 - n ding
 	- mehr e- als Löcher mit 5 außen e- zb Phosphor asen antimon → Donator
-	- durch e- Überschuss ist das energieneou des Dotierten e- höher(näher) beim Leitungsband → braucht weniger energie, dass es leitend wird ![[Pasted image 20231112161519.png]]
+	- durch e- Überschuss ist das energieneou des Dotierten e- höher(näher) beim Leitungsband → braucht weniger energie, dass es leitend wird ![](Pasted image 20231112161519.png.excalidraw.svg)
 - p ding
 	- mehr Löcher als e- → 3 Außen e- zb Bhor, Alluminium, Gallium
-	- Löcher Wandern gegen die Stromrichtung![[Pasted image 20231112162302.png]]
+	- Löcher Wandern gegen die Stromrichtung![](Pasted image 20231112162302.png.excalidraw.svg)
 - pn vorrausetzungen betrieb in Sperrichtung
 	- negativ gepolt, Minoritätsträgerstrom
 	- Sperrschicht wird größer
@@ -130,13 +130,13 @@ SMD = Surface Mounted Device
 		- max periodischer Spitzenstrom: IFRM
 		- max zulässige Verlustleistung: Ptot
 - Wie ist eine Halbleiterdiode aufgebaut
-	- ![[Pasted image 20231112170349.png]]
+	- ![](Pasted image 20231112170349.png.excalidraw.svg)
 - Welche Eigenschaften hat die Durchlasskennlinie
 	- 0,7v si 0,3v Germanium Schwellspannung in Durchgangsrichtung dann Steile lineare Kennlinie
 - Was versteht man unter Durchbruch
 	- gegen Durchlassrichtung betrieben Spannung bei Diode bei der es nicht mehr Halten kann → Durchbruchspannung kaputt
 - Beschreiben Sie Strom und Spannungsverläufe bei EinwegGleichrichtschaltung
-	- Wenn Diode richtig Dimensioniert lässt nur eine Halbwelle durch → Wechselspannung zu Gleichspannung  ![[Pasted image 20231112171002.png]]
+	- Wenn Diode richtig Dimensioniert lässt nur eine Halbwelle durch → Wechselspannung zu Gleichspannung  ![](Pasted image 20231112171002.png.excalidraw.svg)
 
 - Widerstand Dimensionieren 
 	- RF = UF/IF
@@ -146,14 +146,14 @@ SMD = Surface Mounted Device
 
 # Brückengleichstrom vieh
 
-![[Drawing_2023-11-27_13.13.48.excalidraw]]
-![[Drawing_2023-11-27_12.57.24.excalidraw]]
-![[Drawing_2023-11-27_12.20.47.excalidraw]]
+![](Drawing_2023-11-27_13.13.48.excalidraw.svg)
+![](Drawing_2023-11-27_12.57.24.excalidraw.svg)
+![](Drawing_2023-11-27_12.20.47.excalidraw.svg)
 # 04.12.2023
 
 ## <mark style="background: #FFB8EBA6;">Zener Diode</mark> 
 
-![[DR04-12-2023-22.excalidraw]]
+![](DR04-12-2023-22.excalidraw.svg)
 > Zener Dioden sind Si Dioden aber anders Dotiert
 - Zener Effekt
 	- hängt von Dotierung ab
@@ -161,10 +161,10 @@ SMD = Surface Mounted Device
 - SOA
 	- Safe Operating Area
 	- Pmax = URZ * Imax
-	- ![[DR04-12-2023-32.excalidraw]]
+	- ![](DR04-12-2023-32.excalidraw.svg)
 	- Bereich in dem man die Diode sicher betreiben kann ohne sie zu beschädigen/zerstören
 - Buch s190 5.4
-	- ![[DR04-12-2023-33.excalidraw]]
+	- ![](DR04-12-2023-33.excalidraw.svg)
 
 # 18.12.2023
 
@@ -184,25 +184,25 @@ LZK Fragen s194
 CMOS = Complementary metal-oxide-semiconductor
 
 
-![[DR08-01-2024-59.excalidraw]]
+![](DR08-01-2024-59.excalidraw.svg)
 s202 20) lzk aufgaben
 
 #### <mark style="background: #FFB8EBA6;">pnp-Transistor</mark>
 
-![[DR15-01-2024-50.excalidraw]]
+![](DR15-01-2024-50.excalidraw.svg)
 ##### <mark style="background: #FFB8EBA6;">Kennlinien und charakteristische Eigenschaften</mark>
 
 Eingangskennlinie Ib(Ube)
-![[DR15-01-2024-29.excalidraw]]
+![](DR15-01-2024-29.excalidraw.svg)
 Ausgangskennlinie Ic(Uce)
-![[DR15-01-2024-17.excalidraw]]
+![](DR15-01-2024-17.excalidraw.svg)
 Stromsteuerkennlinie Ic(Ib)
-![[DR15-01-2024-16.excalidraw]]
+![](DR15-01-2024-16.excalidraw.svg)
 Rückwirkungskenlinie Ube=f(Uce)
-![[DR15-01-2024-37.excalidraw]]
+![](DR15-01-2024-37.excalidraw.svg)
 
 ##### <mark style="background: #FFB8EBA6;">Vierquadranten Kennlinienfeld</mark>
 
-![[DR22-01-2024-08.excalidraw]]
-![[DR22-01-2024-30.excalidraw]]
+![](DR22-01-2024-08.excalidraw.svg)
+![](DR22-01-2024-30.excalidraw.svg)
 

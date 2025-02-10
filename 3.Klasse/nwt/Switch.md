@@ -13,6 +13,6 @@
 	- Wieder nach oben und repeat bis er die Tabelle voll hat (wenn unbekannt) 
 
 
-![[DR04-12-2023-18.excalidraw]]
-![[DR01-03-2024-22.excalidraw]]
-![[Brodcastdomäne]]
+![](DR04-12-2023-18.excalidraw.svg)
+![](DR01-03-2024-22.excalidraw.svg)
+![](Brodcastdomäne.excalidraw.svg)

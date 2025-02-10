@@ -3,7 +3,7 @@ tags:
   - 3te_Klasse
   - ggp
 ---
-![[Marktformen 04-11-2024-05.excalidraw]]
+![](Marktformen 04-11-2024-05.excalidraw.svg)
 [[3kl GGP]]
 - Freie Marktwirtschaft
 	- von Adam Smith (1723-1790)

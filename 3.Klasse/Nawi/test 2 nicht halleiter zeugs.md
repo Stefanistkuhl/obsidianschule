@@ -4,5 +4,5 @@ tags:
   - nawi
 ---
 
-![[Summenformel und Reaktionsgleichungen Herrausfinden]]
-![[Ausbeute vieh]]
+![](Summenformel und Reaktionsgleichungen Herrausfinden.excalidraw.svg)
+![](Ausbeute vieh.excalidraw.svg)

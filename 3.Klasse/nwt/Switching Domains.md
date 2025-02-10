@@ -3,4 +3,4 @@ tags:
   - nwt
   - 3te_Klasse
 ---
-![[Collion Domains]]
+![](Collion Domains.excalidraw.svg)

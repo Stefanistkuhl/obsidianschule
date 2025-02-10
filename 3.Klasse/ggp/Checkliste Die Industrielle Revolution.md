@@ -4,7 +4,7 @@ tags:
   - ggp
 ---
 [[industrialisierung]]
-![[Pasted image 20250109141136.png]]
+![](Pasted image 20250109141136.png.excalidraw.svg)
 - CL2 Arbeitswahlen: Die Industrielle Revolution/Die Industrialierung
 - Ich kann...
 - 1. ... zwei Gründe nennen, warum es in England zu erhöhtem Bedarf an Stoffen kam. (... und auch zumindest zwei Faktoren nennen, weshalb England als Mutterland der Industrialisierung gilt.)

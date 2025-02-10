@@ -18,7 +18,7 @@ Also beim Akku is die die eine Reaktion Laden und eine entladen in dem Bsp
 
 > Viele Reaktionen laufen ncht vollständig in eine Richtung ab:
 
-![[DR18-04-2024-09.excalidraw]]
+![](DR18-04-2024-09.excalidraw.svg)
 Bsp: Schwache Säure
 Soure .. Kann man in H-Atome abgeben, behalten sich dabei das e- 
 Bei schwachen Säuren ist das umkehrbar!
@@ -32,4 +32,4 @@ $$CH_{3}C00+H_{2}O
 Anwendung 
 - Spurensicherung bei DNA-Proben 
 - Stabilhalten von Stoffen, sich bei pH-Wertändeerungen zersetzen würden
-![[Reaktionsgeschwindigkeit]]
+![](Reaktionsgeschwindigkeit.excalidraw.svg)

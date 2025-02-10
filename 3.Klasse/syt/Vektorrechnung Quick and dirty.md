@@ -16,4 +16,4 @@ vec{c} steht normal auf vec{a}&vec{b};
 Die Richtung von vec{c} ergibt sich aus einer Rechtsschraube:
 der erstegenannte Vektor wird (nach rechts )in den zweitgenannten gedreht (auf den kürzest möglichsten Weg)
 
-![[DR25-04-2024-23.excalidraw]]
+![](DR25-04-2024-23.excalidraw.svg)

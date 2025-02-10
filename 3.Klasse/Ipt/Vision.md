@@ -4,5 +4,5 @@
 > → Leitfaden für Projektteam → Ziel: Was wollen wir erreichen 
 
 [[Motivation]]
-![[DR13-02-2024-26.excalidraw]]
-![[Tim Minchin 9 live lessons aufgabe]]
+![](DR13-02-2024-26.excalidraw.svg)
+![](Tim Minchin 9 live lessons aufgabe.excalidraw.svg)

@@ -32,7 +32,7 @@ dasselbe mit pi und pi/2 wenn bogenmaß obvi
 	- winkel-360 = 3.qu
 # rest
 a) $$\sin \alpha = 0,8$$ $$\alpha_{1}=53.1°$$$$\alpha_{2}=180-\alpha_{1}=126.9°$$ $$\sin(126.9°)=0.8$$
-![[einheitskreis 22-05-2024-51.excalidraw]]
+![](einheitskreis 22-05-2024-51.excalidraw.svg)
 b)
 ```math
 ||{"id":794393764798}||
@@ -42,7 +42,7 @@ b)
 \alpha_{2}=\alpha+90°=225,6°
 \cos(225.6°)=-0.7
 ```
-![[einheitskreis 22-05-2024-25.excalidraw]]
+![](einheitskreis 22-05-2024-25.excalidraw.svg)
 c)
 ```math
 ||{"id":1126723875272}||
@@ -52,10 +52,10 @@ c)
 \alpha_{2}=56.3°+180°=236.3°
 \tan(\alpha_{2})=1.5
 ```
-![[einheitskreis 22-05-2024-05.excalidraw]]
+![](einheitskreis 22-05-2024-05.excalidraw.svg)
 ### bsps
 2)
-![[einheitskreis 26-05-2024-48.excalidraw]]
+![](einheitskreis 26-05-2024-48.excalidraw.svg)
 ```math
 ||{"id":1170072938302}||
 

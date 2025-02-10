@@ -4,7 +4,7 @@ tags:
   - ipt
 ---
 
-![[DR20-02-2024-25.excalidraw]]
+![](DR20-02-2024-25.excalidraw.svg)
 - Forming
 	- 
 - Storming

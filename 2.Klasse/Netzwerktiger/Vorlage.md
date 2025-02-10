@@ -39,7 +39,7 @@ afsidjgisdgjsdg
 
 
 
-![[DR20-02-2024-34.excalidraw]]
+![](DR20-02-2024-34.excalidraw.svg)
 <a name="bild_1"></a>
 
 

@@ -5,11 +5,11 @@ tags:
   - syt_elektro
 ---
 
-![[DR25-04-2024-00.excalidraw]]
+![](DR25-04-2024-00.excalidraw.svg)
 > Die Feldlinien sind konzentrische Kreise um den leiter
 
 Leiterschleife →
-![[Feld eines Stromdurchflossen Leiters 25-04-2024-42.excalidraw]]
+![](Feld eines Stromdurchflossen Leiters 25-04-2024-42.excalidraw.svg)
 d.h Die Feldlinien sind dichter zusammegerdängt = stärkere Feldwirkung
 [[Zur Erinnerung Plattenkondensator]]
 

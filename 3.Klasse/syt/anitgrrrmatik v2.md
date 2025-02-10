@@ -6,6 +6,6 @@ tags:
 ---
 [[🥲2te Klasse]] [[🤠antigrrrrrmatik]]
 
-![[betriebsysthme wiederholung]]
+![](betriebsysthme wiederholung.excalidraw.svg)
 
-![[Linux my beloved]]
+![](Linux my beloved.excalidraw.svg)

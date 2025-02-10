@@ -7,14 +7,14 @@ tags:
 
 [[🥲2te Klasse]]
 [[😶‍🌫️Ehngtiger]]
-![[Grafikanalyse]]
+![](Grafikanalyse.excalidraw.svg)
 # <mark style="background: #FFB8EBA6;">Mitschrift</mark>
 
 ## <mark style="background: #FFB8EBA6;">Buch Drohnenland</mark>
 
 Aktuelle lese Aufgabe: s110 → 132
 
-![[DR23-01-2024-05.excalidraw]]
+![](DR23-01-2024-05.excalidraw.svg)
 
 # <mark style="background: #FFB8EBA6;">Texte/Hausaufgaben</mark>
 ### erörterung Smartphone vieh
@@ -48,7 +48,7 @@ arugment:
 
 # oida grafik analfick
 
-![[Pasted image 20240418143027.png]]
+![](Pasted image 20240418143027.png.excalidraw.svg)
 oversvierungen:
 - 50-64 größtes % Wachtstum 10%
 	- danach 14-29 jährige frauen um 9%
@@ -78,4 +78,4 @@ In diesem Balkendiagramm, welches zwei Datenpunkte pro Geschlecht und Altersgrup
 Angeführt wird die Statistik von der jüngsten Altersgruppe (14-29), bei welcher der Anteil an Videospielenden von 80 auf 84% gestiegen ist. Darauf folgen 30 bis 49 Jährige mit 44 und 50%, 50-64 mit 13 und 23% und schließlich 65 oder älter mit 5 und 9%.
 ## graka anlyse
 
-![[grakaanaylseübenodasooasifosadugihdfsigjoghjidsoghioshgisdghid]]
+![](grakaanaylseübenodasooasifosadugihdfsigjoghjidsoghioshgisdghid.excalidraw.svg)

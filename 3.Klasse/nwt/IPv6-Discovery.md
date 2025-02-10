@@ -5,4 +5,4 @@ tags:
 ---
 ICMPv6 (ND, DAD, RD)
 Neighbordiscovery, Duplicate addres Detection,Routerdiscovery
-![[Router Discovery]]
+![](Router Discovery.excalidraw.svg)

@@ -23,6 +23,6 @@ Client ARP-Table
 | -------------- | -------- |
 | 10.255.255.254 | 12:12:12 |
 
-![[DR01-03-2024-22.excalidraw]]
+![](DR01-03-2024-22.excalidraw.svg)
 
-![[Standard Gateway]]
+![](Standard Gateway.excalidraw.svg)

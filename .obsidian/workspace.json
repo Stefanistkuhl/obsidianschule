@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "cd48dd4cd2642d39",
+        "id": "456a23e3ebb4cc76",
         "type": "tabs",
         "children": [
           {
-            "id": "692dbb9ae3d8be73",
+            "id": "65787efad2246cb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/nwt/vlan definition.md",
+                "file": "3.Klasse/itsi/AES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vlan definition"
-            }
-          },
-          {
-            "id": "374b9e3e36a06efe",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/vlans 27-09-2024-53.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "vlans 27-09-2024-53.excalidraw"
+              "title": "AES"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,44 +139,47 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "374b9e3e36a06efe",
+  "active": "65787efad2246cb5",
   "lastOpenFiles": [
-    "3.Klasse/nwt/vlan definition.md",
-    "bilder/vlans 27-09-2024-53.excalidraw.md",
-    "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.svg",
-    "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.md",
-    "bilder/vlans 27-09-2024-53.excalidraw.light.svg",
-    "bilder/vlans 27-09-2024-53.excalidraw.dark.svg",
-    "3.Klasse/nwt/vlans.md",
-    "Stefan Fürst Vektoren HÜ.md",
-    "3.Klasse/mathe/Vektoren Srdp.md",
-    "3.Klasse/Nawi/Nukleobasen.md",
-    "3.Klasse/Nawi/DNA und RNA.md",
     "3.Klasse/Nawi/Zucker in RNA und DNA.md",
+    "3.Klasse/nwt/Layer 3 swtich using switched virtual Interfaces (SVIs).md",
+    "Layer.md",
+    "3.Klasse/nwt/Netzwerktiger.md",
+    "3.Klasse/Nawi/DNA und RNA.md",
+    "bilder/Zur Erinnerung Plattenkondensator 25-04-2024-38.excalidraw.svg",
+    "bilder/Zur Erinnerung Plattenkondensator 25-04-2024-38.excalidraw.md",
     "bilder/Zucker in RNA und DNA 10-02-2025-02.excalidraw.md",
-    "3.Klasse/Nawi/Biochemie.md",
-    "3.Klasse/Nawi/Zelle.md",
-    "bilder/Vektoren Srdp 10-02-2025-10.excalidraw.md",
+    "bilder/Zucker in RNA und DNA 10-02-2025-02.excalidraw.svg",
+    "bilder/Wirtschaftssektoren Zettel 13-01-2025-44.excalidraw.md",
+    "bilder/Wirtschaftssektoren Zettel 13-01-2025-44.excalidraw.svg",
+    "bilder/vlans 27-09-2024-53.excalidraw.md",
+    "bilder/vlans 27-09-2024-53.excalidraw.svg",
+    "bilder/Vektoren Wichtige Anwendungen aus der Naturwissenscahft und Technik 27-01-2025-57.excalidraw.md",
+    "bilder/Vektoren Wichtige Anwendungen aus der Naturwissenscahft und Technik 27-01-2025-57.excalidraw.svg",
+    "bilder/Vektoren Srdp 27-01-2025-08.excalidraw.svg",
+    "bilder/Vektoren Srdp 27-01-2025-08.excalidraw.md",
     "bilder/Vektoren Srdp 10-02-2025-53.excalidraw.md",
-    "3.Klasse/mathe/Vektoren.md",
-    "3.Klasse/mathe/3kl mathe.md",
-    "3.Klasse/mathe/Vektoren im Raum.md",
-    "3.Klasse/nwt/IPv6 Multicast.md",
+    "bilder/Vektoren Srdp 10-02-2025-53.excalidraw.svg",
+    "bilder/Vektoren Srdp 10-02-2025-10.excalidraw.md",
+    "bilder/Vektoren Srdp 10-02-2025-10.excalidraw.svg",
     "bilder/Vektoren im Raum 10-02-2025-55.excalidraw.md",
-    "3.Klasse/mathe/Vektoren rechenoperationen.md",
-    "3.Klasse/mathe/Parameterdarstelleung einer Gerade.md",
-    "bilder/Parameterdarstelleung einer Gerade 10-02-2025-09.excalidraw.md",
-    "3.Klasse/mathe/Vektoren Wichtige Anwendungen aus der Naturwissenscahft und Technik.md",
-    "bilder/Sektoraler Wandel soziale und ökologische Auswirkungen 20-01-2025-31.excalidraw.md",
-    "3.Klasse/ggp/Sektoraler Wandel soziale und ökologische Auswirkungen.md",
-    "bilder/Pasted Image 20250127123312_262.png",
-    "bilder/Pasted Image 20250123135713_174.png",
-    "bilder/Pasted Image 20250120102750_845.png",
-    "bilder/Pasted Image 20250120102741_737.png",
+    "bilder/Vektoren im Raum 10-02-2025-55.excalidraw.svg",
+    "bilder/Vektoren 14-01-2025-30.excalidraw.md",
+    "bilder/Vektoren 14-01-2025-30.excalidraw.svg",
+    "bilder/Vektoren 14-01-2025-11.excalidraw.md",
+    "bilder/Vektoren 14-01-2025-05.excalidraw.md",
+    "bilder/uml 04-11-2024-44.excalidraw.md",
+    "bilder/Umgekehrte Kurvendiskussion 25-11-2024-07.excalidraw.md",
+    "bilder/Umgekehrte Kurvendiskussion 02-12-2024-05.excalidraw.md",
+    "bilder/Überbrückung der Aktivierungsernergie 25-04-2024-05.excalidraw.md",
+    "bilder/Tuckman-Teamuhr 02-10-2024-39.excalidraw.md",
+    "bilder/Teststoff 02-12-2024-29.excalidraw.md",
+    "bilder/STP-States 13-12-2024-50.excalidraw.md",
+    "bilder/STP-Spanning Tree Protocol 08-11-2024-40.excalidraw.md",
+    "bilder/STP-Spanning Tree Protocol 08-11-2024-36.excalidraw.md",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/a/GRP-7-Tremurici-Fürst-Lab-5.zip",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/a/ziaOrlro",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/a/server.py",
@@ -199,9 +189,6 @@
     "3.Klasse/itsi/aufgaben/ctf/protokoll/a/ctf_setup.sh",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/a/UE7_CTF.pdf",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/a",
-    "3.Klasse/itsi/aufgaben/ctf/protokoll/UE7_CTF.tex~",
-    "3.Klasse/itsi/aufgaben/ctf/protokoll/images/topo.png",
-    "3.Klasse/itsi/aufgaben/ctf/protokoll/images/ogm.png",
-    "3.Klasse/itsi/aufgaben/ctf/protokoll/images/ve.png"
+    "3.Klasse/itsi/aufgaben/ctf/protokoll/UE7_CTF.tex~"
   ]
 }

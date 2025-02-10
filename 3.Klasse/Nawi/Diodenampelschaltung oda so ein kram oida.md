@@ -3,7 +3,7 @@ tags:
   - 2te_Klasse
   - nawi
 ---
-![[Diodenampelschaltung oda so ein kram oida 07-05-2024-48.excalidraw]]
+![](Diodenampelschaltung oda so ein kram oida 07-05-2024-48.excalidraw.svg)
 
 $$U_{q}=U_{v}+U_{F}$$
 Typ. LED: $$U_{F}=1.6 \dots 2.5V$$$$I_{Fmax}=mA$$

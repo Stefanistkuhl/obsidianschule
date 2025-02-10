@@ -4,4 +4,4 @@ tags:
   - insy
 ---
 
-![[Pasted image 20241109160551.png]]
+![](Pasted image 20241109160551.png.excalidraw.svg)

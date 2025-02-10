@@ -3,7 +3,7 @@ tags:
   - m
   - 3te_Klasse
 ---
-![[Parameterdarstelleung einer Gerade 10-02-2025-09.excalidraw]]
+![](Parameterdarstelleung einer Gerade 10-02-2025-09.excalidraw.svg)
 WH: Geraden werden festgelegt durch:
 - 2 punkte
 - 1 punkt und die Steigung

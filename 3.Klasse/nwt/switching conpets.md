@@ -3,8 +3,8 @@ tags:
   - nwt
   - 3te_Klasse
 ---
-![[Frame Forwarding]]
-![[the switch MAC address Table]]
-![[Switch address learning]]
-![[Swtich Forwarding Methods]]
-![[Switching Domains]]
+![](Frame Forwarding.excalidraw.svg)
+![](the switch MAC address Table.excalidraw.svg)
+![](Switch address learning.excalidraw.svg)
+![](Swtich Forwarding Methods.excalidraw.svg)
+![](Switching Domains.excalidraw.svg)

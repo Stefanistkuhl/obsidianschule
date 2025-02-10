@@ -10,7 +10,7 @@
 	- Deefines how data is formatted for transmission over a physical medium (zb copper utp calbes)
 	- Detects and (possibly) corrects Physical Layer errors
 	- Uses Layer 2 addressing, seperate from Layer 3 addressing (nix ips)
-![[Ethernet Frame aufbau]]
+![](Ethernet Frame aufbau.excalidraw.svg)
 - <mark style="background: #FFB8EBA6;">MAC Address</mark>
 	- 6 byte (48bit) 
 	- physical address asigned to the device when it is made
@@ -23,8 +23,8 @@
 	- last 3 bytes are unique to the deivce itself (Bia)
 	- written in 12 <mark style="background: #FFB8EBA6;">hexadecimal</mark> characters
 - <mark style="background: #FFB8EBA6;">Example for Frames going through a Switch</mark>
-	- ![[DR04-12-2023-18.excalidraw]]
-	- ![[DR04-12-2023-45.excalidraw]]
+	- ![](DR04-12-2023-18.excalidraw.svg)
+	- ![](DR04-12-2023-45.excalidraw.svg)
 - <mark style="background: #FFB8EBA6;">More Detailed Example</mark>
 	- 
 - <mark style="background: #FFB8EBA6;">Arp</mark>

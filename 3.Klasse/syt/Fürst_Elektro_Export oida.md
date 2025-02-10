@@ -6,7 +6,7 @@ tags:
 ---
 
 # npn Transistor
-![[DR12-02-2024-24.excalidraw]]
+![](DR12-02-2024-24.excalidraw.svg)
 Strom/Spannungen auch eingezeichnet
 
 > Prinzip: mit einem relativ kleinen Basisstrom kann ein ein vergleichsweiser großer Kollektorstrom gesteuert werden.
@@ -17,7 +17,7 @@ Ic = B * Ib B...Gleichstromrichtung
 → 2. Kirchhof
 Uce=Ube+Ucb
 ###### Ersatzschaltbild:
-![[DR12-02-2024-24_0.excalidraw]]
+![](DR12-02-2024-24_0.excalidraw.svg)
 
 
 ### Emitter Schaltung
@@ -33,15 +33,15 @@ $$ ρ... Spezifischer Wiederstand = \frac{Ω*mm²}m{} $$
 
 
 Kennlinienfeld:
-![[DR22-01-2024-08.excalidraw]]
+![](DR22-01-2024-08.excalidraw.svg)
 
 Emitterschaltung:
-![[DR22-01-2024-30.excalidraw]]Gleichspannung wird von Wechselspannung entkopelt und mit den Wiederständen eingestellt.
+![](DR22-01-2024-30.excalidraw.svg)Gleichspannung wird von Wechselspannung entkopelt und mit den Wiederständen eingestellt.
 Ka ohmesgesetz und Kirchhof anweden und so idk irgenwo im Buch is das Bsp
 
 
 
-![[DR19-02-2024-29.excalidraw]] > Up ... Spannung am nichtinvertierenden Eingang  > Un ... Spannung am nichtinvertierenden Eingang
+![](DR19-02-2024-29.excalidraw.svg) > Up ... Spannung am nichtinvertierenden Eingang  > Un ... Spannung am nichtinvertierenden Eingang
 > Ua ... Ausgangspannung
 > UD = Up-Un ... Differenzspannung
 > Vd = Ua/Ud ... Diffenzverstärkung
@@ -52,7 +52,7 @@ Ka ohmesgesetz und Kirchhof anweden und so idk irgenwo im Buch is das Bsp
 > Allgemein: wird der Ausgang an einem der beiden Eingänge zurückgeführt ("Rückkoplung, Loopback),  Operationsverstärker den Ausgang (Ua) so zu regeln, dass die Differenz = Spannung (UD) nicht wird.
 
 ##### Nicht invertierende Verstärker
-![[DR21-02-2024-37.excalidraw]]
+![](DR21-02-2024-37.excalidraw.svg)
 
 über den Spannungsteiler Rv-R1 und ein Teil der Ausgangsspannung an den invertierten Eingang zurückgeführt, mit dem Ziel Uq = 0V
 
@@ -60,7 +60,7 @@ Ka ohmesgesetz und Kirchhof anweden und so idk irgenwo im Buch is das Bsp
 
 ##### Spannungsfolger (I)
 
-![[DR21-02-2024-45.excalidraw]]
+![](DR21-02-2024-45.excalidraw.svg)
 
 Durch die Rückkoplung gilt:
 - Vu~1,bzw ua~uc
@@ -78,7 +78,7 @@ Durch die Rückkoplung gilt:
 
 > Die beiden Eingänge werden miteinernader verglichen jenachdem welcher der Eingänge ein größeres elektrisches potential hat kippt der Ausgang 
 
-![[DR05-03-2024-10.excalidraw]]
+![](DR05-03-2024-10.excalidraw.svg)
 
 Ua max → pos eingang höheres potential
 ua min → andersum
@@ -88,17 +88,17 @@ ua min → andersum
 	- Analog Digital Converter (ADC)
 		- Paralellverfahren (Fleischwandler)
 			- Prinzip:
-				- ![[DR05-03-2024-28.excalidraw]]
+				- ![](DR05-03-2024-28.excalidraw.svg)
 					- Einfaches bsp 
-						- ![[DR05-03-2024-55.excalidraw]]
+						- ![](DR05-03-2024-55.excalidraw.svg)
 	- Invertierender Komperator
-		- ![[DR05-03-2024-55.excalidraw]]
+		- ![](DR05-03-2024-55.excalidraw.svg)
 	- Nicht Invertierender Komperator 
-		- ![[DR06-03-2024-50.excalidraw]]
+		- ![](DR06-03-2024-50.excalidraw.svg)
 # Wechselstrom
 
 - Paramter Sinusförmiger Größen 
-	- ![[DR06-03-2024-07.excalidraw]]
+	- ![](DR06-03-2024-07.excalidraw.svg)
 	- T = jene Zeit, in der 1 vollständige Schwingung stattfindet, bei der das Signal zu wiederholen beginnt.
 	- f = Anazahl der vollständigen Schwingungen pro Sekunde zb f = 50hz → T = 0,025 = 25ms
 	- U mit dach ... Scheitelwer
@@ -108,7 +108,7 @@ ua min → andersum
 	- U= Udach/sqrt(2) ... Effektivwert (Anmerkung: 1/sqrt(2), gilt ausschießlich für sinusförmige Größen)
 
 
-![[DR06-03-2024-00.excalidraw]]
+![](DR06-03-2024-00.excalidraw.svg)
 
 Bsp Netzspannung ("Steckdose")
 f = 50hz → 25ms
@@ -129,7 +129,7 @@ $$\lambda = \frac{c}{f}=\frac{3*10⁸}{2,4*10⁹}$$
 $$= \frac{3}{2,4}*10m=1,25*10m = 12,5m$$
 
 
-![[DR18-03-2024-07.excalidraw]]
+![](DR18-03-2024-07.excalidraw.svg)
 Bsp 
 ```math
 ||{"id":1434725607386}||
@@ -140,7 +140,7 @@ Y_{L}=37,7Ω
 Y_{L_{2}}=377Ω
 Y_{L_{3}}=3,77kHz
 ```
-![[DR18-03-2024-34.excalidraw]]
+![](DR18-03-2024-34.excalidraw.svg)
 ## Wechselstrom Komponenten
 - Ohmscher Wiederstand
 	- DC: U=R * I
@@ -162,18 +162,18 @@ A ... Querschnitt
 [R]=Ω
 $$[p]=\frac{\ohm*mm²}{m}$$
 
-![[DR13-03-2024-12.excalidraw]]
+![](DR13-03-2024-12.excalidraw.svg)
 	- liniendiagramm (ideales R)
-		- ![[DR13-03-2024-26.excalidraw]]
+		- ![](DR13-03-2024-26.excalidraw.svg)
 		- b) 
-			- ![[DR13-03-2024-21.excalidraw]]
+			- ![](DR13-03-2024-21.excalidraw.svg)
 			- ⇒ je größer die Frequenz, desto größter X2 
 
 - kapazität, Kondensator
-	- ![[DR20-03-2024-03.excalidraw]]
+	- ![](DR20-03-2024-03.excalidraw.svg)
 - kapazitiver Blindwiederstnad
 	- $$Y_{c}=\frac{1}{\omega* C}\left( =\frac{U}{I} \right),[Y_{c}]=\ohm ⇐⇒B_{c}=-\frac{1}{Y_{C}}=\omega*C [B_{c}]=S$$
-	- ![[Drawing 2024-03-20 14.47.49.excalidraw]]
+	- ![](Drawing 2024-03-20 14.47.49.excalidraw.svg)
 	- 
 Ohmschwer Wiederstand: R$$\underline{Z}_{R}=R=R\angle 0°$$ 
 Blindwiederstand: L $$\underline{Z}_{L}=j*\omega*L=\underline{Z}_{L}\angle{90°}$$
@@ -184,9 +184,9 @@ Einheiten
 [Z]=[R]=Ω
 [L]=H...Henry
 [C]=F..Forat
-![[DR04-04-2024-45.excalidraw]]
+![](DR04-04-2024-45.excalidraw.svg)
 
-![[DR09-04-2024-03.excalidraw]]
+![](DR09-04-2024-03.excalidraw.svg)
 - Kondensator: $$X_{c}=\frac{1}{\omega C}=\frac{1}{2*\pi*\rho*c}$$
 	- dh: f↑ ⇒ Xc ↓
 > Anwendung: hohe Frequenzen filtern, tiefe Frequenzen druchlassen = Tiefpass

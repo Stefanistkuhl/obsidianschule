@@ -16,11 +16,11 @@ tags:
 		- x ~ 0 für
 		- [[elektrischer Wiederstand aufbau]]
 	- liniendiagramm (ideales R)
-		- ![[DR13-03-2024-26.excalidraw]]
+		- ![](DR13-03-2024-26.excalidraw.svg)
 		- b) 
-			- ![[DR13-03-2024-21.excalidraw]]
+			- ![](DR13-03-2024-21.excalidraw.svg)
 			- ⇒ je größer die Frequenz, desto größter X2 
-	- ![[Zeiger und liniendiagramm einer Spule]]
+	- ![](Zeiger und liniendiagramm einer Spule.excalidraw.svg)
 
-![[Kapazitiver Bildwiderstand]]
-![[Wh Komplexer Wiederstand, Impedanzen]]
+![](Kapazitiver Bildwiderstand.excalidraw.svg)
+![](Wh Komplexer Wiederstand, Impedanzen.excalidraw.svg)

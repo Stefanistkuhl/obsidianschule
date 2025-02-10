@@ -3,7 +3,7 @@ tags:
   - 3te_Klasse
   - itsi
 ---
-![[Grundlagen der Kryptographie]]
-![[Symetrische Verschlüsselung]]
-![[Asymetrische Verschlüsselung]]
-![[Hashalgorithmen]]
+![](Grundlagen der Kryptographie.excalidraw.svg)
+![](Symetrische Verschlüsselung.excalidraw.svg)
+![](Asymetrische Verschlüsselung.excalidraw.svg)
+![](Hashalgorithmen.excalidraw.svg)

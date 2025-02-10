@@ -18,4 +18,4 @@ tags:
 	- 512 bit
 	- je länger der Schlüssel desto Sicherer
 	- Schlüssel wird in Roundkeys unterteilt
-![[AES 27-09-2024-25.excalidraw]]
+![](AES 27-09-2024-25.excalidraw.svg)

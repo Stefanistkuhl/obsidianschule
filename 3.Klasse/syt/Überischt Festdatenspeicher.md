@@ -4,4 +4,4 @@ tags:
   - syt
   - syt_info
 ---
-![[DR06-03-2024-51.excalidraw]]
+![](DR06-03-2024-51.excalidraw.svg)

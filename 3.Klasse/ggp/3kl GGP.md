@@ -4,7 +4,7 @@ tags:
   - ggp
 ---
 [[aufklärung]]
-![[Pasted image 20240919134221.png]]
+![](Pasted image 20240919134221.png.excalidraw.svg)
 
 [[wirschaft thingy]]
 [[Volkswirtschaften]]

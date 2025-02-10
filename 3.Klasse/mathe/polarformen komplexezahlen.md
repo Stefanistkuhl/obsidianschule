@@ -72,7 +72,7 @@ $$z^n=r^n*e^{j*(\phi*n)}$$
 \huge{r=|z|=\sqrt{ 1^2+1^2 }=\sqrt{ 2 }}
 φ=\tan^{-1}(  \frac{1}{1})=\frac{\pi}{4}
 ```
-![[DR13-02-2024-34.excalidraw]]
+![](DR13-02-2024-34.excalidraw.svg)
 #### 2. Quadrant
 ```math
 ||{"id":314893559138}||
@@ -83,7 +83,7 @@ $$z^n=r^n*e^{j*(\phi*n)}$$
 \huge{φ=180°-60°}
 ```
 Das grüne ist das was rauskommt nach der Berechnung mit dem Tanges, aber stimmt noch nicht, deswegen muss man es von 180 abziehen.
-![[DR13-02-2024-59.excalidraw]]
+![](DR13-02-2024-59.excalidraw.svg)
 
 #### 3. Quadrant
 ```math
@@ -95,7 +95,7 @@ Das grüne ist das was rauskommt nach der Berechnung mit dem Tanges, aber stimmt
 \huge{φ=180°+59,04°}
 \huge{φ=1,03°+\pi}
 ```
-![[DR13-02-2024-18.excalidraw]]
+![](DR13-02-2024-18.excalidraw.svg)
 #### 4. Quadrant
 ```math
 ||{"id":781006515927}||
@@ -105,7 +105,7 @@ Das grüne ist das was rauskommt nach der Berechnung mit dem Tanges, aber stimmt
 \huge{φ=\tan^{-1}(\frac{\sqrt{ 4 }}{4})=\tan^{-1}(-1)=-\frac{\pi}{4}}
 \huge{2*\pi-\frac{\pi}{4}=\frac{7}{4}*\pi}
 ```
-![[DR13-02-2024-15.excalidraw]]
+![](DR13-02-2024-15.excalidraw.svg)
 #### 2 Ausnahmen
 ```math
 \mathrm{Re}=0

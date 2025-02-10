@@ -4,7 +4,7 @@ tags:
   - syt
   - syt_info
 ---
-![[Pasted image 20240227094254.png]]
+![](Pasted image 20240227094254.png.excalidraw.svg)
 
 - Hirachische Struktur
 	- Beginned mit / 

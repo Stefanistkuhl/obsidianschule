@@ -11,7 +11,7 @@ tags:
 Mathematisch: Ein Wertepaar oder Tripel
 Schreibweise: 
 $$\vec{a}=\binom{a_1}{a_2}$$
-![[Vektoren 14-01-2025-05.excalidraw]]
+![](Vektoren 14-01-2025-05.excalidraw.svg)
 Anschaulich: Pfeile im Koordinatensystem
 Bsp:
 $$\vec{}a=\binom{1}{3}$$
@@ -22,7 +22,7 @@ Wichtig:
 Verbindungsvektor:
 Bsp: $$ A=(-1|-2) B=(3|5)
 $$
-![[Vektoren 14-01-2025-11.excalidraw]]
+![](Vektoren 14-01-2025-11.excalidraw.svg)
 $$\vec{AB}=\binom{4}{3}$$
 $$\vec{AB}=\binom{3}{5}-\binom{-1}{2}=\binom{3-(-1)}{5-2}=\binom{4}{3}$$
 Verbindungsvektor = Endpunkt - Anfangspunk

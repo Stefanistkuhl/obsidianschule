@@ -9,7 +9,7 @@ tags:
 #2te_Klasse #syt
 
 # npn Transistor
-![[DR12-02-2024-24.excalidraw]]
+![](DR12-02-2024-24.excalidraw.svg)
 Strom/Spannungen auch eingezeichnet
 
 > Prinzip: mit einem relativ kleinen Basisstrom kann ein ein vergleichsweiser großer Kollektorstrom gesteuert werden.
@@ -20,7 +20,7 @@ Ic = B * Ib B...Gleichstromrichtung
 → 2. Kirchhof
 Uce=Ube+Ucb
 ###### Ersatzschaltbild:
-![[DR12-02-2024-24_0.excalidraw]]
+![](DR12-02-2024-24_0.excalidraw.svg)
 
 
 ### Emitter Schaltung
@@ -35,6 +35,6 @@ $$ ρ... Spezifischer Wiederstand = \frac{Ω*mm²}m{} $$
 
 
 
-![[diemensionierung transistor|dimensionierung]]
-![[Operationsverstärker]]
+![](diemensionierung transistor|dimensionierung.excalidraw.svg)
+![](Operationsverstärker.excalidraw.svg)
 

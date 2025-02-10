@@ -4,7 +4,7 @@ tags:
   - nwt
 ---
 
-![[DR22-03-2024-14.excalidraw]]
+![](DR22-03-2024-14.excalidraw.svg)
 PC-A → PC-B
 PC-A Routing Tabelle
 

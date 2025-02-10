@@ -13,5 +13,5 @@ tags:
 - remote 
 	- Kommunikation mit entfernten Netzwerken über das Standard Gateway 
 
-![[DR08-03-2024-13.excalidraw]]
-![[Beispiel Routing]]
+![](DR08-03-2024-13.excalidraw.svg)
+![](Beispiel Routing.excalidraw.svg)

@@ -14,5 +14,5 @@ root:x:0:0:root:/root:/bin/sh
 :: ← Wenn kein pw
 :x: ← Wenn verschlüsslt 
 
-![[commands die was mit usern zu tun haben]]
-![[rechte buchstaben bedetugungen aishfsudhgudfghufgh]]
+![](commands die was mit usern zu tun haben.excalidraw.svg)
+![](rechte buchstaben bedetugungen aishfsudhgudfghufgh.excalidraw.svg)

@@ -6,8 +6,8 @@ tags:
   - syt_elektro
 ---
 - kapazität, Kondensator
-	- ![[DR20-03-2024-03.excalidraw]]
+	- ![](DR20-03-2024-03.excalidraw.svg)
 - kapazitiver Blindwiederstnad
 	- $$Y_{c}=\frac{1}{\omega* C}\left( =\frac{U}{I} \right),[Y_{c}]=\ohm ⇐⇒B_{c}=-\frac{1}{Y_{C}}=\omega*C [B_{c}]=S$$
-	- ![[Drawing 2024-03-20 14.47.49.excalidraw]]
+	- ![](Drawing 2024-03-20 14.47.49.excalidraw.svg)
 	- 

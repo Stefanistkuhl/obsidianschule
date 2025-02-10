@@ -19,5 +19,5 @@ tags:
 		1. Man versucht, Backteiren oder Pilzen beizubringen, Insulin herzustellen
 	2. Die Proteinbaupläne sind auf der DNA gespeichert → Man muss z.B einem Bakterium ein Stück DNA, auf der Insulin bauplan steht, einführen.
 	3. Aufbau eines Bakteriums:
-		1. ![[Proteinsynthese 13-01-2025-19.excalidraw]]
+		1. ![](Proteinsynthese 13-01-2025-19.excalidraw.svg)
 [[logistische Wachstumskurve]]

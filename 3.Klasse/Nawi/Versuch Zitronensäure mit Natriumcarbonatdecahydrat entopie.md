@@ -16,5 +16,5 @@ Es muss noch eine zweite Einflusgröße geben, die etwas mit dem Aggregatszustan
 
 > Die Größe heißt <mark style="background: #FFB8EBA6;">Entropie S</mark> ... Maß für die "Ungewissheit"
 
-![[Zwei Kugeln 1 und 2 werden auf zwei Fächer verteilt]] 
-![[Reaktopns ding mit entopie]]
+![](Zwei Kugeln 1 und 2 werden auf zwei Fächer verteilt.excalidraw.svg) 
+![](Reaktopns ding mit entopie.excalidraw.svg)

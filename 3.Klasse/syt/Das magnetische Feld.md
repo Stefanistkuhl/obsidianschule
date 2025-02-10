@@ -11,6 +11,6 @@ tags:
 	- Es gibt einen Nord un Süd Pol 
 	- die Kraftwirkung ist an den Polen am stärkesten
 	- Feldlienein sind in sich geschlossen ⇒ Wirbelfeld
-		- ![[DR23-04-2024-30.excalidraw]]
-![[Feld eines Stromdurchflossen Leiters]]
-![[Feld einer stromdurchflossener Spule]]
+		- ![](DR23-04-2024-30.excalidraw.svg)
+![](Feld eines Stromdurchflossen Leiters.excalidraw.svg)
+![](Feld einer stromdurchflossener Spule.excalidraw.svg)

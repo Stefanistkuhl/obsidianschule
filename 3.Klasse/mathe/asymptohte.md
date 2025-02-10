@@ -49,7 +49,7 @@ wenn die Potzengleich sind dann simply die Zahlen davor teile, dann hat man die 
 f(x)=\frac{x²-3x}{x+1}
 y=x-4
 ```
-![[asymptohte 19-10-2024-16.excalidraw]]
+![](asymptohte 19-10-2024-16.excalidraw.svg)
 Polynondivisions Ergebnis ohne Rest
 #### bsp von der smü
 ```math
@@ -58,7 +58,7 @@ Polynondivisions Ergebnis ohne Rest
 f(x)=\frac{x²+1}{2x}
 y=\frac{1}{2}x
 ```
-![[asymptohte 19-10-2024-12.excalidraw]]
+![](asymptohte 19-10-2024-12.excalidraw.svg)
 ### kurving
 ```math
 ||{"id":711048845187}||
@@ -66,7 +66,7 @@ y=\frac{1}{2}x
 f(x)=\frac{3x³+2x²+x}{x-1}
 y=3x²+5x+6
 ```
-![[asymptohte 19-10-2024-16_0.excalidraw]]
+![](asymptohte 19-10-2024-16_0.excalidraw.svg)
 
 ### thing vom zettel
 ```math
@@ -76,7 +76,7 @@ f(x)=\frac{2x³+4x²-10}{2x²}
 y=x+2
 ```
 schief
-![[asymptohte 19-10-2024-50.excalidraw]]
+![](asymptohte 19-10-2024-50.excalidraw.svg)
 ```math
 ||{"id":917901834205}||
 
@@ -84,4 +84,4 @@ f(x)=\frac{10x³+6}{5x}
 y=2x²
 ```
 kurving
-![[asymptohte 19-10-2024-20.excalidraw]]
+![](asymptohte 19-10-2024-20.excalidraw.svg)

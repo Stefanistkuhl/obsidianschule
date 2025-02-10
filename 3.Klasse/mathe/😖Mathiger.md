@@ -166,7 +166,7 @@ x²+px+q=(x-x_{1})*(x-x_{2})
 
 
 # <mark style="background: #FFB8EBA6;">Wurzeln</mark>
-![[dr_We_06_2023_20.excalidraw]]
+![](dr_We_06_2023_20.excalidraw.svg)
 ### <mark style="background: #FFB8EBA6;">Rechenregeln</mark>
 
 - Wurzeln lassen sich nur <mark style="background: #FFB8EBA6;">addieren/subtrahieren</mark> wenn ihre <mark style="background: #FFB8EBA6;">Radikanden und Wurzelexponenten gleich</mark> sind
@@ -193,7 +193,7 @@ x²+px+q=(x-x_{1})*(x-x_{2})
 	- Zähler → Potenz des Radikand
 	- Nenner → Wurzelexponent
 	- Nur Wurzel alleine ist 1/Exponent
-[![[dr_We_54_2023_03.excalidraw]]]()
+[![](dr_We_54_2023_03.excalidraw.svg)]()
 
 Hochzahlen multiplizieren wenn man eine zur Hochzahl gemachten Wurzel in einer Wurzel zur Hochzahl dazuaddieren <mark style="background: #FFB8EBA6;">die Wurzel alleine (in dem Fall die 5te Wurzel wenn leer → 1/Wurzelexponent) und sie ist leer weil x^2/4 ist ja eine andere Wurzel</mark>
 
@@ -399,18 +399,18 @@ g(x)=1/x
 
 # <mark style="background: #FFB8EBA6;">Komplexe Zahlen</mark>
 
-![[Komplexe Zahlen]]
+![](Komplexe Zahlen.excalidraw.svg)
 ## <mark style="background: #FFB8EBA6;">Polarformen komplexer Zahlen</mark>
 
 
 # oida kreisfunktion
-![[ka was für kak msa lernen muss oda so OIDA]]
+![](ka was für kak msa lernen muss oda so OIDA.excalidraw.svg)
 
-![[einheitskreis]]
+![](einheitskreis.excalidraw.svg)
 # Idi
 
-![[DR26-11-2023-29.excalidraw]]
-![[DR06-12-2023-38.excalidraw]]
+![](DR26-11-2023-29.excalidraw.svg)
+![](DR06-12-2023-38.excalidraw.svg)
 ```math
 angabe:
 ||{"id":348912290942}||
@@ -662,7 +662,7 @@ f)
 x=\frac{1}{1.649}=0,607
 ```
 oida ich wüsste gerne wieso das fancy plugin um den graph zu machen, ln nicht erkennt D:
-![[Pasted image 20240227172103.png]]
+![](Pasted image 20240227172103.png.excalidraw.svg)
 
 
 4.83)
@@ -716,13 +716,13 @@ f_{4}(t)=4*1.02^t → Zunahme
 ```
 
 4.115)
-![[Pasted image 20240303143831.png]]
+![](Pasted image 20240303143831.png.excalidraw.svg)
 4.117)
 a)
 8 → gleichbleinde Kraft F → Newton
 50 → 
 b)
-![[Pasted image 20240303182844.png]]
+![](Pasted image 20240303182844.png.excalidraw.svg)
 c)
 ca 8 m/s
 d)

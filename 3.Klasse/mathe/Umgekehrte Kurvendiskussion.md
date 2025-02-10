@@ -26,7 +26,7 @@ IV:f(3)=5
 ```
 geobegra handeln lassen
 dann strg click alle zeilen dann auf solve
-![[Pasted image 20241119124730.png]]
+![](Pasted image 20241119124730.png.excalidraw.svg)
 
 x1 ... Extremstelle ⇐⇒ f'(x1)=0
 x1 ... Nustelle ⇐⇒ f''(x1)=0
@@ -36,48 +36,48 @@ P=(x1|y1) liegt auf f ⇐⇒ f(x1)=y
 bei x1 ist die Steigung 0.5 ⇐⇒ f'(x1)=0.5
 bei x1 ist der Steigungswinkel 30° bei ⇐⇒ f'(x1)=tan(30)
 
-![[Umgekehrte Kurvendiskussion 25-11-2024-07.excalidraw]]
+![](Umgekehrte Kurvendiskussion 25-11-2024-07.excalidraw.svg)
 1)
 waagerechte tangete P1(-1|5) und die fkt hat P2(4|8)
-![[Pasted image 20241125112859.png]]
+![](Pasted image 20241125112859.png.excalidraw.svg)
 f(x)=3\*x²+6\*x+8
 2)
 P1(2|-2)
 P2(4|8)
 P1 k=-1
 f''(2)=-2
-![[Pasted image 20241125114628.png]]
+![](Pasted image 20241125114628.png.excalidraw.svg)
 3)
 P1(1|6)
 k=-4
 P2(3|18) f''(3)=26
-![[Pasted image 20241125114951.png]]
+![](Pasted image 20241125114951.png.excalidraw.svg)
 4)
 Nulstelle 1
 P(2|7)
 N1(1|0) → f'(1)=1,f''(1)=10
-![[Pasted image 20241125115713.png]]
+![](Pasted image 20241125115713.png.excalidraw.svg)
 5)
-![[Pasted image 20241125121356.png]]
+![](Pasted image 20241125121356.png.excalidraw.svg)
 6)
-![[Pasted image 20241125121723.png]]
+![](Pasted image 20241125121723.png.excalidraw.svg)
 7)
-![[Pasted image 20241125121914.png]]
+![](Pasted image 20241125121914.png.excalidraw.svg)
 8)
 P(2|-9)
 relativer hochpunkt H(-2|7) → f''(7)=-18
-![[Pasted image 20241125122249.png]]
+![](Pasted image 20241125122249.png.excalidraw.svg)
 9)
 P1(2|11) und P2(1|6) P1 .. wendepunk (f'''(2)=0) 
 
 bis 12 zh machen
 iwas matura aufgaben ding
 [angabe a)](https://aufgabenpool.at/amn/teilb1/300/Armageddon.pdf)
-![[Pasted image 20241126123710.png]]
+![](Pasted image 20241126123710.png.excalidraw.svg)
 [minigolf a)](https://aufgabenpool.at/amn/teilb1/376/Minigolf.pdf)
-![[Pasted image 20241126124027.png]]
+![](Pasted image 20241126124027.png.excalidraw.svg)
 4.54)
-![[Umgekehrte Kurvendiskussion 02-12-2024-05.excalidraw]]
+![](Umgekehrte Kurvendiskussion 02-12-2024-05.excalidraw.svg)
 ```math
 ||{"id":1663005185438}||
 
@@ -85,8 +85,8 @@ iwas matura aufgaben ding
 ||:f'(48)=\tan(45°)
 |||:f(0)=0
 ```
-![[Pasted image 20241202113408.png]]
+![](Pasted image 20241202113408.png.excalidraw.svg)
 A: Der tiefste Punkt des Seiles läuft leigt 4m unter dem Aufhängepunkt der niedrigeneren Mastens
 4.55)
-![[Pasted image 20241202115004.png]]
+![](Pasted image 20241202115004.png.excalidraw.svg)
 4te Gleichung benötigt da man eine weietere variable benötigt

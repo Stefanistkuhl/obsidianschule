@@ -2,6 +2,6 @@
 
 > Ein Plichtenheft definiert die technishen Anforderungen, Spezifikationen und Rahmenbedingungen, die für die erfolgreiche Realisierung des Projekts erforderlich sind. 
 
-![[DR05-03-2024-05.excalidraw]]
+![](DR05-03-2024-05.excalidraw.svg)
 
-![[Pflichtenheft bsp.pdf]]
+![](Pflichtenheft bsp.pdf.excalidraw.svg)

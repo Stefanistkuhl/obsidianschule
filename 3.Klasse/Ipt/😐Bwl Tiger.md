@@ -19,7 +19,7 @@ Güter sind Gegenstände und Dienstleistungen, die zur <mark style="background: 
 
 
 #### Wirtschaftliches Handeln
-![[dr_10]]
+![](dr_10.excalidraw.svg)
 
 - Wirtschaften ist das als <mark style="background: #FFB8EBA6;">rational</mark> verstandenes Verhalten, welches darauf gerichtet ist, vorhandene knappe Güter so zu disponieren, dass Sie eine höchstmögliche Bedürfnisbefriedigung gewährleisten.
 - Wirtschaften heißt nach bestimmten Kriterien Wahl Entscheidungen zu treffen, Der wirtschaftende Mensch kann aufgrund begrenzter Mittel im allgemeinen nicht alle Bedürfnisse befriedigen, sondern muss zwischen Alternativen auswählen.
@@ -45,11 +45,11 @@ Güter sind Gegenstände und Dienstleistungen, die zur <mark style="background: 
 	- produktives
 	- soziales System
 - charakterisiert werden
-![[dr_59.excalidraw]]
+![](dr_59.excalidraw.svg)
 
 ### <mark style="background: #FFB8EBA6;">Unternehmen</mark> 
 
-![[dr_We_40_2023_28.excalidraw]]
+![](dr_We_40_2023_28.excalidraw.svg)
 Ein Unternehmen bietet den <mark style="background: #FFB8EBA6;">rechtlichen Rahmen</mark>, den ein <mark style="background: #FFB8EBA6;">Betrieb braucht</mark>, um nach außen hin <mark style="background: #FFB8EBA6;">Handeln zu können</mark>. Nur das Unternehmen kann Verträge abschließen, Kredite aufnehmen, Personal einstellen oder kündigen und geschafft die erforderlichen Geldmittel für die Investitionen
 
 #### <mark style="background: #FFB8EBA6;">Einteilung der Unternehmen</mark>
@@ -116,8 +116,8 @@ Eine Rechtsform ist die Gesamtheit der gesetzlichen Normen und vertraglichen Ver
 
 >Das Verhältnis der Gesellschaft zu Dritten
 
-![[dr_We_40_2023_55.excalidraw]]
-![[dr_We_50_2023_47.excalidraw]]
+![](dr_We_40_2023_55.excalidraw.svg)
+![](dr_We_50_2023_47.excalidraw.svg)
 #### <mark style="background: #FFB8EBA6;">Ag Rafirat</mark>
 
 - <mark style="background: #FFB8EBA6;">Rechte und Pflichten der Aktionäre</mark>

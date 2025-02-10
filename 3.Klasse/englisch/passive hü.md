@@ -4,4 +4,4 @@ tags:
   - e
   - sprache
 ---
-![[passive hü 07-10-2024-48.excalidraw]]
+![](passive hü 07-10-2024-48.excalidraw.svg)

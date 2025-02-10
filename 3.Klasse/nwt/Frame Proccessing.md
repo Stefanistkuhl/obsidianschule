@@ -6,4 +6,4 @@
 	- Dst Mac stimmt nicht überein → Frame wird verworfen (außer bei Brodcast Frames)
 
 ### Frame aufbau
-![[Ethernet Frame aufbau]]
+![](Ethernet Frame aufbau.excalidraw.svg)

@@ -7,7 +7,7 @@
 		- if the payload is less than that → padding bytes are added
 			- zb 34 btye packet + 12 byte padding 46 bytes
 	- Preamble and SFD Excluded form the Size
-	- ![[DR04-12-2023-27.excalidraw]]
+	- ![](DR04-12-2023-27.excalidraw.svg)
 	- <mark style="background: #FFB8EBA6;">Preamble and SFD</mark>
 		- used for syncronazation → prepare device to recieve rest of the data from the frame
 		- <mark style="background: #FFB8EBA6;">Preamble</mark>

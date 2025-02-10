@@ -5,7 +5,7 @@ tags:
 ---
 [[🥲2te Klasse]]
 ### Zettel
-![[Pasted image 20230919141254.png]]
+![](Pasted image 20230919141254.png.excalidraw.svg)
 ### Epochen
 Das Problem bei Epochen ist, dass es Übergange sind und es keine genauen Jahreszahlen für die Übergänge gibt 
 - <mark style="background: #D2B3FFA6;">Jahresahlen</mark>

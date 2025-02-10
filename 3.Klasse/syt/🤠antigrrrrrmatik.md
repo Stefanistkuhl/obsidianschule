@@ -91,7 +91,7 @@ Verhindern eines Deadlocks ist Aufgabe des Betriebssystems → dafür gibt es 3 
 	- Service - Request aus dem OS  
 		- gewollte Ende eines Prozesses → liefert Rückmeldung an OS →  wenn Rückmeldung != 0 → Fehler zb I/O Error oder Arethmetic error. 	    
 	- 5 State Modell
-		![[bum]]
+		![](bum.excalidraw.svg)
 		- <mark style="background: #FFB8EBA6;">new:</mark> Prozess ist zur Durchführung vorbereitet, aber noch nicht im Main - Memory
 		- <mark style="background: #FFB8EBA6;">ready:</mark> der genaue Prozess im Arbeitsspeicher und wartet auf sein "Startsignal", das heißt die Zuteilung der CPU
 		- <mark style="background: #FFB8EBA6;">running:</mark> der Prozess ist im "Besitz" der CPU und wird ausgeführt
@@ -105,7 +105,7 @@ Verhindern eines Deadlocks ist Aufgabe des Betriebssystems → dafür gibt es 3 
 			- suspenden eines interaktiven Requests (z.bb Debugging)
 			- parent-Prozess suspended eigenen Child-Prozess zur Koordination, Modifikation, ...
 	- <mark style="background: #FFB8EBA6;">Kontrollstrukturen</mark> (zur Prozessverwaltung)
-		 ![[dr_Tu_35_2023_13.excalidraw]]
+		 ![](dr_Tu_35_2023_13.excalidraw.svg)
 - <mark style="background: #FFB8EBA6;">Prozessimage</mark>	
 	- User Programm → Sourcecode
 	- User data → manipulierende Daten, bzw Programme
@@ -115,7 +115,7 @@ Verhindern eines Deadlocks ist Aufgabe des Betriebssystems → dafür gibt es 3 
 		- Process State Information (Registerinhalte, Stack Router)
 		- Prozess control Information Querverweise auf andere Prozesse, scheduling + Zustandsinfos
 - <mark style="background: #FFB8EBA6;">Execution Modes</mark> 
-![[dr_We_27_2023_37.excalidraw]]
+![](dr_We_27_2023_37.excalidraw.svg)
 Api ... application programming interface 
 	= Programmierschnittstelle im user mode
 	(im Windows SDK enthalten zb)
@@ -139,7 +139,7 @@ beinhaltet tausende aufrufbare Funktionen
 <mark style="background: #FFB8EBA6;">.NET - Framework</mark> 
 > Beziehungen der Komponenten
 
-![[dr_We_03_2023_42.excalidraw]]
+![](dr_We_03_2023_42.excalidraw.svg)
 CLR ... common language runtime
 > Laufzeitumgebung für (Managed) code beinhaltet einige Features (zb. Garage collection)
   
@@ -173,7 +173,7 @@ FCL ... Framework class Library, ECLR
 		- → Windows stellt ferner Sicher, dass immer nur 1 Kopie einer dll im Speicher ist.
 - <mark style="background: #FFB8EBA6;">Virtual Memory</mark>
 	- basierend auf einem linearen Adressraum, damit jeder Prozess (scheinbar) seinen eigenen ("großen") privaten Adressraum zur Verfügung hat.
-	- → logische Sicht auf den virtuellen Speicher ist nicht ident mit dem Physikalischen Speicher [[]]![[dr_We_12_2023_08.excalidraw]]
+	- → logische Sicht auf den virtuellen Speicher ist nicht ident mit dem Physikalischen Speicher [[]]![](dr_We_12_2023_08.excalidraw.svg)
 	- Der <mark style="background: #FFB8EBA6;">Memory Mapper ist Teil des OS</mark> und <mark style="background: #FFB8EBA6;">stellt sicher</mark>, dass sich die (phys) <mark style="background: #FFB8EBA6;">Bereiche unterschiedlicher Prozesse nicht überschneiden</mark>
 	- Problem: physikalischer Speicher << virtueller Speicher → einige Inhalte werden daher auf die Festplatte ausgelagert = <mark style="background: #FFB8EBA6;">Swapping</mark>
 	- <mark style="background: #FFB8EBA6;">Größe</mark> des virtuellen Speichers ist von der <mark style="background: #FFB8EBA6;">Plattform abhängig</mark> → x86(32bit) = max 4gb
@@ -186,13 +186,13 @@ FCL ... Framework class Library, ECLR
 			- Erlaubt bis zu 64GB Physischen Speicher zu belegen
 		- Nachteil:
 			- statt des Memory Managers muss der Programmierer das Mapping übernehmen. (dh er muss sicherstellen, dass Prozesse Speicher nicht überlappend benutzen)
-		- ![[dr_Tu_37_2023_19.excalidraw]]
+		- ![](dr_Tu_37_2023_19.excalidraw.svg)
 #### <mark style="background: #FFB8EBA6;">Kernel Moide vs User Mode</mark> 
 
 x64 CPUs → "priviligierte levels" , Sicherheitsring
 
 Problem: Treiber von 3.Herstellen (z.b Grafikarten) sitzen im Ring 0, fehlerhafte Programmierung → OS-Störungen
-![[dr_Tu_26_2023_50.excalidraw]]
+![](dr_Tu_26_2023_50.excalidraw.svg)
 → zusätzliche Schutz Funktion von MS:
 - KMCS kernel mode code signings
 	- dh für 64bit Treiber: kryptograph Schlüssel (SH1-1?) (Windows)
@@ -273,7 +273,7 @@ All in allem Dualbooten ist relativ simple, solange man den Dualboot nicht versc
 		- (user-mode scheduler Threads) gibt es ausschließlich im 64bit Windows Versionen → haben viele Vorteile der Fiber, vermeiden aber manche der Nachteile → UMS-Threads haben einen eigenen kernelthreadstste dh sie sind für den Kernen sichtbar. Deshalb können sie
 			- System Calls blockieren 
 			- um Ressourcen konkurrieren bzw diese teilen
-			- wenn = > 2 UMS-Threads lediglich im Usermode arbeiten, dann können sie untereinander regelmäßig umschalten, ohne den Scheduler zu benötigen, dh der "Context Switch" erfolgt im Usermode, der Kernel sieht dabei immer nur ein und denselben Thread laufen. Sobald ein UMS-Thread den Kernel benötigt, schaltet er selbst zu seinem dezidierten Kernelmode thread um → "directed context switch" ![[DR21-11-2023-39.excalidraw]]
+			- wenn = > 2 UMS-Threads lediglich im Usermode arbeiten, dann können sie untereinander regelmäßig umschalten, ohne den Scheduler zu benötigen, dh der "Context Switch" erfolgt im Usermode, der Kernel sieht dabei immer nur ein und denselben Thread laufen. Sobald ein UMS-Thread den Kernel benötigt, schaltet er selbst zu seinem dezidierten Kernelmode thread um → "directed context switch" ![](DR21-11-2023-39.excalidraw.svg)
 			- Jeder Prozess hat seinen eigenen "Execution context", dabei teilen sich die Threads innerhalb eines Prozesses den virtuellen Adressraum
 				- <mark style="background: #FFB8EBA6;">Threads</mark> können dabei den <mark style="background: #FFB8EBA6;">Adressbereich</mark> eines <mark style="background: #FFB8EBA6;">anderen Prozesses nicht ansprechen</mark>
 				- <mark style="background: #FFB8EBA6;">2 Ausnahmen</mark>
@@ -287,7 +287,7 @@ All in allem Dualbooten ist relativ simple, solange man den Dualboot nicht versc
 					- geteilte Ressourcen (= mutual exclusion objects, aka mutexes)
 					- Events
 					- Datenstrukturen
-					- ![[DR28-11-2023-40.excalidraw]]
+					- ![](DR28-11-2023-40.excalidraw.svg)
 					- VAD - Virtual address descriptor
 						- Datenstruktur, um vom Memory Manager nachverfolgt werden zu können. 
 
@@ -317,13 +317,13 @@ Das Jobobject (i.e "Gruppe von Prozessen") kann zb Attribute steuern und den bet
 	- Hardware wird zum single point of failure
 - Hardware Emulation != Virtualisierung dabei wird die gesamte Hardware (eines Rechners) Softwaretechnisch nachgebildet zb dafür nicht existierende Hardware für Programmierung für ortfremde Hardware (zb Android Apps auf PC) → aber ass Performance obvi
 	- Zb: Yuzu, QEMU, MS Virtual PC (für Mac Os Windoof)
-	- ![[DR06-12-2023-12.excalidraw]]
+	- ![](DR06-12-2023-12.excalidraw.svg)
 - <mark style="background: #FFB8EBA6;">Applikationsvirtualisierung</mark>
 	- Anwendungen werden in einer virtuellen Umgebung ausgeführt
 		- alle benötigten Ressourchen werden von der virtuellen Umgebung zur Verfügung gespielt
 		- <mark style="background: #FFB8EBA6;">Vorteile</mark>
 			- Plattformunabhängig zb JVM
-			- ![[DR19-12-2023-28.excalidraw]]
+			- ![](DR19-12-2023-28.excalidraw.svg)
 		- <mark style="background: #FFB8EBA6;">Nachteile</mark>
 			- geringe Performance
 - <mark style="background: #FFB8EBA6;">Virtual Maschiene Monitor</mark>
@@ -333,7 +333,7 @@ Das Jobobject (i.e "Gruppe von Prozessen") kann zb Attribute steuern und den bet
 		- nur geringe Änderungen im Guest OS nötig
 		- Zugriff auf die wichtigsten Hardwareressourchen wird nur durchgereicht → whare Performance
 		- jedes Guest OS hat seinen "eigenen" Kernel
-		- ![[DR19-12-2023-51.excalidraw]]
+		- ![](DR19-12-2023-51.excalidraw.svg)
 - <mark style="background: #FFB8EBA6;">Paravirtualisierung</mark>
 	- HW wird weder emuliert noch vertiert
 	- abstrakte Zwischenschicht: Hypervisor auf diesen laufen die virtualisierten OS
@@ -344,7 +344,7 @@ Das Jobobject (i.e "Gruppe von Prozessen") kann zb Attribute steuern und den bet
 		- hohe Performance
 	- <mark style="background: #FFB8EBA6;">Nachteile</mark>
 		- Guest OS müssen angepasst werden → nur für Open Source (=Vorteil Hypervisor ist einfacher aufgebaut)
-	- ![[DR09-01-2024-12.excalidraw]]
+	- ![](DR09-01-2024-12.excalidraw.svg)
 	- <mark style="background: #FFB8EBA6;">HW-Virtualisierung</mark>
 		- Paravirtualisierung für nicht modifizierte OS (zb Windoof)
 		- dafür muss die CPU angepasst werden, dh Ring 0 wird gesplittet (um einen Virtualisierungsteil erweitert)
@@ -357,7 +357,7 @@ Das Jobobject (i.e "Gruppe von Prozessen") kann zb Attribute steuern und den bet
 		- Nachteil → da alle Instanzen denselben Kernel verwerden, könne auch nur "gleiche" OS virtualisiert werden, zb Windoof server 2016 nur 2016 kein 2012 
 		- Open VZ für Linux nur mit Versionen mit demselben Kernel(zb6.3)
 		- Anw: rootserver, webserver
-		- ![[DR09-01-2024-49.excalidraw]]
+		- ![](DR09-01-2024-49.excalidraw.svg)
 		- MS-Container: 4 Versionen
 		- windoof10 → über Windoof Api
 		- IoT core → für IoT apps
@@ -365,26 +365,26 @@ Das Jobobject (i.e "Gruppe von Prozessen") kann zb Attribute steuern und den bet
 		- Servercore → .NET Framework 
 	- Ergänzungen
 		- Hybridkernel
-			- ![[DR15-01-2024-35.excalidraw]]
+			- ![](DR15-01-2024-35.excalidraw.svg)
 			- Prinzip: Treiber werden nur im Privilegierten Modus ausgeführt → "Abstürze" der Treiber können abgefangen werden
 			- Virtualisierung mit binary Translation
-				- ![[DR15-01-2024-43.excalidraw]]
+				- ![](DR15-01-2024-43.excalidraw.svg)
 				- Prinzip: der Hypervisor fängt alle kritischen Systemanfragen ab (vor dem eingentlischen Ressourchenzugriff)
 					- Problem
 						- Relativ aufwendig
 						- Guest OS läuft im Ring 1 = Paravirtualisierung
-		- ![[DR22-01-2024-44.excalidraw]]
+		- ![](DR22-01-2024-44.excalidraw.svg)
 		- Anmerkung: zur Errinerung paravirtualisierte OS haben keinen privilegierten Zugriff auf die HW
 - <mark style="background: #FFB8EBA6;">Hypervisor</mark>
 	- <mark style="background: #FFB8EBA6;">Typ 1</mark>
 		- bare metal
 		- ~Meta Os, läuft sehr nahe an der HW
-		- ![[DR16-01-2024-40.excalidraw]]
+		- ![](DR16-01-2024-40.excalidraw.svg)
 		- Vorteil: sehr Kompakt → weniger Ressourcen → läuft schnell zb Proxmox, vmware esxi, xens
 		- Der Einsatz findet häufig bei Server Virtualisierung statt 
 	- <mark style="background: #FFB8EBA6;">Typ 2</mark>
 		- hosted
-		- ![[DR16-01-2024-37.excalidraw]]
+		- ![](DR16-01-2024-37.excalidraw.svg)
 		- besitzt ein Basis Os, it eig wie eine App (innerhalb des Guest OS), die HW wird als Abstrahierung idk zu Verfügung gestellt 
 		- Vorteil
 			- OS muss nd angepasst dafür werden

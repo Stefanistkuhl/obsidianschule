@@ -32,8 +32,8 @@ tags:
 	- Elektronenpaarbindung
 
 #### Bindungen bsp
-![[DR23-11-2023-18.excalidraw]]
-![[DR23-11-2023-10.excalidraw]]
+![](DR23-11-2023-18.excalidraw.svg)
+![](DR23-11-2023-10.excalidraw.svg)
 
 ### <mark style="background: #FFB8EBA6;">Zusammenfassung für den Test</mark>
 
@@ -61,7 +61,7 @@ tags:
 
 1s 2s 2p 3s 3p 4s 3d 4p 5s 4d 5p 6s 
 
-![[DR25-11-2023-11.excalidraw]]
+![](DR25-11-2023-11.excalidraw.svg)
 #### <mark style="background: #FFB8EBA6;">Pse</mark>
 
 - Ordnungszahl 
@@ -72,7 +72,7 @@ tags:
 	- Anzahl der außen e- → e- im äußersten Energieniveau 
 	- spalten von links nach rechts
 - Metalle/Nichtmetalle
-	- ![[DR25-11-2023-53.excalidraw]]
+	- ![](DR25-11-2023-53.excalidraw.svg)
 	- Metalle
 		- Wollen eher e- abgeben
 	- Nichtmetalle
@@ -94,10 +94,10 @@ Wenn die höchsten s und p Orbitale voll besetzt sind, befindet sich das Atom in
 	- Bildet ein Gitter → weil sich alle Ionen gleich stark anziehen
 	- Salze
 	- Bsp Natrium und Chlor 
-		- ![[DR25-11-2023-01.excalidraw]]
+		- ![](DR25-11-2023-01.excalidraw.svg)
 	- Magnesiumchlorid
-		- ![[DR25-11-2023-16.excalidraw]]
-	- ![[DR11-01-2024-51.excalidraw]]
+		- ![](DR25-11-2023-16.excalidraw.svg)
+	- ![](DR11-01-2024-51.excalidraw.svg)
 > Unterschied Verbindung zu Bindung
 > Verbindung → ist das Was entsteht zb Natriumchlorid
 > Binding → das was die Atome zusammen hält
@@ -107,11 +107,11 @@ Wenn die höchsten s und p Orbitale voll besetzt sind, befindet sich das Atom in
 > Atombindung zwischen Nichtmetall und Nichtmetall 
 > man nennt das entstandene Vieh nennt man nicht Verbindung sondern Molekül
 
-![[DR25-11-2023-54.excalidraw]]
-![[DR11-01-2024-29.excalidraw]]
+![](DR25-11-2023-54.excalidraw.svg)
+![](DR11-01-2024-29.excalidraw.svg)
 ### <mark style="background: #FFB8EBA6;">Kohlenstoff-Atom C (kein Teststoff)</mark>
 
-![[DR23-11-2023-54.excalidraw]]
+![](DR23-11-2023-54.excalidraw.svg)
 
 
 ### <mark style="background: #FFB8EBA6;">Überblick Bindungarten</mark>
@@ -120,19 +120,19 @@ Wenn die höchsten s und p Orbitale voll besetzt sind, befindet sich das Atom in
 	- Meist zw Metall und Nichtmetallen.
 	- Ein Atom gibt e- ab, ein anders Atom nimmt sie auf.
 	- Bsp: Na O
-	- ![[DR15-02-2024-15.excalidraw]]
+	- ![](DR15-02-2024-15.excalidraw.svg)
 	- Diese Verbindungen nemmt man <mark style="background: #FFB8EBA6;">Salze</mark>
 - e- Paarbindung
 	- Meist zw Nichtmetallen.
 	- Atome bilden e- Paare, indem sie ihre Orbitale vereinigen.
 	- Bsp:
-	- ![[DR15-02-2024-46.excalidraw]]
+	- ![](DR15-02-2024-46.excalidraw.svg)
 	- Diese Verbindungen nennt man <mark style="background: #FFB8EBA6;">Molekühle</mark>
 - Metallbindung
 	- zwischen Metallen
 	- Die Metallatome geben e- ab.
 	- Bsp Natrium
-	- ![[DR15-02-2024-34.excalidraw]]
+	- ![](DR15-02-2024-34.excalidraw.svg)
 	- Delokalisierte e- im Gitter (e- sind frei im Gitter verteilt) Kurz: Na
 	- Diese Verbindungen nennt man <mark style="background: #FFB8EBA6;">Metalle</mark> oder <mark style="background: #FFB8EBA6;">Legierung</mark> (Bei verschienden Metallen)
 
@@ -142,7 +142,7 @@ Allgemein: Es gibt immer die Valzenz e- im Spiel
 
 > Wichtigster Vertreter Silizium Si (4te HG)
 
-![[DR15-02-2024-34_0.excalidraw]]
+![](DR15-02-2024-34_0.excalidraw.svg)
 Die e- von Si sind schwach gebunden, dass die e- Orbitale verlassen können.  
 
 ## <mark style="background: #FFB8EBA6;">Dotierung</mark>
@@ -151,26 +151,26 @@ Ersetzen Si an manchen Positionen des Gitters durch Atome aus anderen Hauptgrupp
 
 ### <mark style="background: #FFB8EBA6;">n(negativ)-Dotierung</mark>
 
-![[DR22-02-2024-11.excalidraw]]
+![](DR22-02-2024-11.excalidraw.svg)
 > Mehr freie e- → höher e- Strom 
  
 ### <mark style="background: #FFB8EBA6;">p(positiv)-Dotierung</mark>
 
-![[DR22-02-2024-27.excalidraw]]
+![](DR22-02-2024-27.excalidraw.svg)
 > Mehr Löcher → Höher Löcherstrom
 
 ### <mark style="background: #FFB8EBA6;">pn-Übergang</mark>
 
-![[DR22-02-2024-42.excalidraw]]
+![](DR22-02-2024-42.excalidraw.svg)
 
 ### <mark style="background: #FFB8EBA6;">Sperrichtung</mark>
 
-![[DR22-02-2024-12.excalidraw]]
+![](DR22-02-2024-12.excalidraw.svg)
 > Raumladungszone breitet sich aus → Stromfluss blockiert (bis zu einer bestimmten Spannung)
 
 ### <mark style="background: #FFB8EBA6;">Durchlassrichtung</mark>
 
-![[DR22-02-2024-43.excalidraw]]
+![](DR22-02-2024-43.excalidraw.svg)
 > Raumladungszone verschwindet → Stromfluss möglich
 
 Anwendung: Diode, LED, Zener-Dioden
@@ -178,7 +178,7 @@ Anwendung: Diode, LED, Zener-Dioden
 ### <mark style="background: #FFB8EBA6;">Bipolartransistor</mark>
 
 npn
-![[DR29-02-2024-21.excalidraw]]
+![](DR29-02-2024-21.excalidraw.svg)
 
 - Ohne Ube: Zwei Sperrschichten → kein ungehinderdeter Stromfluss
 - Mit Ube: Linke Sperrschicht verschwindet → e- "überfluten" den p-Bereich so stark, dass sie durch die rechte Sperrschicht gelanngen → Stromfluss 
@@ -189,18 +189,18 @@ npn
 
 - SFET (Sperrschicht-FET)
 
-![[DR29-02-2024-28.excalidraw]]
+![](DR29-02-2024-28.excalidraw.svg)
 - Ohne Usg: Sperrschichten bleiben unverändert → Stromfluss ungehindert
 - Mit Usg: Sperrschichten breiten sich aus → Stromfluss wird gedrosselt
 
 - Mosfet 
 - Mos = Metalloxid
 
-![[DR29-02-2024-24.excalidraw]]
+![](DR29-02-2024-24.excalidraw.svg)
 
 - Ohne Ugs keine e- Brücke zwischen den n Bereichen → Kein Stromfluss
 - Mit Ugs: e- Brücke bildet sich → Stromfluss
 
 
-![[Chemishe Reaktionen]]
-![[Säuren und Basen]]
+![](Chemishe Reaktionen.excalidraw.svg)
+![](Säuren und Basen.excalidraw.svg)

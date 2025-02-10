@@ -9,4 +9,4 @@ tags:
 
 [[Switch verification commands]]
 [[Secure Remote Access]]
-![[Filter Show Comamnd Output]]
+![](Filter Show Comamnd Output.excalidraw.svg)

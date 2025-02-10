@@ -5,14 +5,14 @@ tags:
 ---
 $$y=A*\sin(\omega*t+\phi)+d$$
 A ... Amplitude
-![[Pasted image 20240522190624.png]]
+![](Pasted image 20240522190624.png.excalidraw.svg)
 ω ... Periode → Schwingungsdauer
-![[Pasted image 20240522190747.png]]
+![](Pasted image 20240522190747.png.excalidraw.svg)
 ϕ ... Verschiebung rechts/links(ϕ>0 links <0 rechts)
 d ... verschiebung oben/unten
 
 tldr:
-![[Pasted image 20240522191141.png]]
+![](Pasted image 20240522191141.png.excalidraw.svg)
 
 ### Formenl
 Zeit vieh für omega T ist die dauert einer Periode (ganzer kreis)
@@ -22,7 +22,7 @@ Verschiebung
 $$t_{0}=-\frac{\phi}{\omega}$$
 t0 ist die nullstelle nd der ursrping zb ein bild weita unten ist es 1 ist egal welche nullstelle man nimmt
 ### Ablesen oida
-![[Pasted image 20240522191440.png]]
+![](Pasted image 20240522191440.png.excalidraw.svg)
 $$y=A*\sin(\omega*t+\phi)+d$$
 A=2
 T=6

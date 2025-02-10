@@ -12,5 +12,5 @@ tags:
 	- There will now be contention for the bandwith 
 	- Collisions are now possible
 - Most devices, including Cisco and Microsoft use auto-negotiotion as the default setting for duplex and speed.
-![[Collion Domains 27-09-2024-56.excalidraw]]
+![](Collion Domains 27-09-2024-56.excalidraw.svg)
 In dem Bsp trennt der Switch diese in Kollions Domänen 

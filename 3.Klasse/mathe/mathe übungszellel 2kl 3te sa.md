@@ -62,10 +62,10 @@ b=0,38*\sin(60,8)=0,33
 0,18+0,33j
 ```
 c)
-![[DR11-03-2024-08.excalidraw]]
+![](DR11-03-2024-08.excalidraw.svg)
 5)
 Um ein rechteckiges Schwimmbecken von 40m länge und 30m Breite soll einen an allen Seiten breite Rasenfläche angelegt werden, deren Flächenihalt 5-mal so groß wie der des Schwimmbeckens sein soll. Berechne die äußeren Abmessungen der Rasenfläche.
-![[DR10-03-2024-13.excalidraw]]
+![](DR10-03-2024-13.excalidraw.svg)
 ```math
 ||{"id":332475751997}||
 

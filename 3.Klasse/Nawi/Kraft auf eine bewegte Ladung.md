@@ -6,7 +6,7 @@ tags:
   - syt_elektro
 ---
 Geg: Magnetfeld B, in diesem wird (gewählt) eine einzele Ladung(zb e-) geschlossen
-![[Kraft auf eine bewegte Ladung 02-05-2024-28.excalidraw]]
+![](Kraft auf eine bewegte Ladung 02-05-2024-28.excalidraw.svg)
 B-Feld zeigt in die Tafellinieen
 $$F=I*l*B$$
 $$I=Q*v$$$$Q=e⁻=1.6*10^{18}As$$

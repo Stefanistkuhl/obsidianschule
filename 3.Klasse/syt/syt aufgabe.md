@@ -14,11 +14,11 @@ tags:
 		1. Sobald man mit irgendetwas digitalem interagiert. Zb Handy oder Computer.
 3. Wie sieht ein Betriebssystem aus?
 	1. Suche im Internet nach einem Bild von den Benutzeroberflächen verschiedener Betriebssysteme und beschreibe, was du darauf sehen kannst.
-		1. ![[Pasted image 20240912142937.png]]Hyprland (Tiling Window Manger Linux)
+		1. ![](Pasted image 20240912142937.png.excalidraw.svg)Hyprland (Tiling Window Manger Linux)
 			1. Man kann eine Statusleiste sehen, in der Informationen wie Workspaces, Uhrzeit und Benachrichtugugen zu sehen sind. Und man sieht das Jeweilige Programm was man offen hat und mehr nicht, was der Sinn eines Tiling Window Managers ist.
-		2. ![[Pasted image 20240912143026.png]] Kde Plasma Desktop Linux
+		2. ![](Pasted image 20240912143026.png.excalidraw.svg) Kde Plasma Desktop Linux
 			1. Dieses Desktop Envirement hat eine Taskleiste wie Windows und ebensfalls sieht man hier das Starmenü, was zum finden und starten von Apps dient.
-		3. ![[Pasted image 20240912142854.png]] Windows 10 Desktop
+		3. ![](Pasted image 20240912142854.png.excalidraw.svg) Windows 10 Desktop
 			1. Dasselbe sichtbar wie im obigen Beispiel nur auf Windows
 4. Kurze Präsentation:
 	1. Bereite eine kurze Präsentation, das erklärt, was ein Betriebssystem ist und welche Rolle es beim Arbeiten mit einem Computer spielt. Verwende einfache Begriffe und eigene Beispiele.

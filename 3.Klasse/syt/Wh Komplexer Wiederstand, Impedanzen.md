@@ -13,4 +13,4 @@ Einheiten
 [Z]=[R]=Ω
 [L]=H...Henry
 [C]=F..Forat
-![[DR04-04-2024-45.excalidraw]]
+![](DR04-04-2024-45.excalidraw.svg)

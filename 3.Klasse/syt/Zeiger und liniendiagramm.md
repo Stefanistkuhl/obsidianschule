@@ -5,7 +5,7 @@ tags:
   - syt_elektro
 ---
 
-![[DR06-03-2024-00.excalidraw]]
+![](DR06-03-2024-00.excalidraw.svg)
 
 Bsp Netzspannung ("Steckdose")
 f = 50hz → 25ms
