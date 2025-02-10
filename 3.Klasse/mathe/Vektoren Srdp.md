@@ -48,3 +48,7 @@ $$\arccos (\frac{| \vec{a}*\vec{b}}{| \vec{a}*\vec{b}|})$$
 4)
 $$\vec{V_{a}}=\frac{1}{| \vec{v}|}*\vec{v}$$
 wobei vec v der Richtungsvektor zu a ist also vec v = (26. 10)
+#### Nähmaschiene
+
+$$B=(X_{B}|Y_{B}|29)$$
+$$g:X=(-4|35|25)+\lambda (2,32,5)$$
