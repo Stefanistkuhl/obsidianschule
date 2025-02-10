@@ -4,4 +4,4 @@ tags:
   - 3te_Klasse
 ---
 Oxidation und Reduktion:
-![](Funktionellegruppen Umwandlungen 02-12-2024-24.excalidraw.svg)
+![](Funktionellegruppen%20Umwandlungen%2002-12-2024-24.excalidraw.svg)

@@ -48,7 +48,7 @@ arugment:
 
 # oida grafik analfick
 
-![](Pasted image 20240418143027.png.excalidraw.svg)
+![](Pasted%20image%2020240418143027.png.excalidraw.svg)
 oversvierungen:
 - 50-64 größtes % Wachtstum 10%
 	- danach 14-29 jährige frauen um 9%

@@ -1,5 +1,5 @@
 #2te_Klasse #medt  
 
 ![](Design.excalidraw.svg)
-[[Gestaltungsregeln]]
+[[2.Klasse/Medt/Gestaltungsregeln]]
 ![](Farbdesign.excalidraw.svg)

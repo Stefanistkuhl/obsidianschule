@@ -3,7 +3,7 @@ tags:
   - nwt
   - 3te_Klasse
 ---
-![](IPv6-Scopes 31-01-2025-20.excalidraw.svg)
+![](IPv6-Scopes%2031-01-2025-20.excalidraw.svg)
 1. localhost
 	- ::1
 2. link local fe80::/64

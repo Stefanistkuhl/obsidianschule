@@ -4,4 +4,4 @@ tags:
   - e
   - sprache
 ---
-![](english text formatting 02-12-2024-35.excalidraw.svg)
+![](english%20text%20formatting%2002-12-2024-35.excalidraw.svg)

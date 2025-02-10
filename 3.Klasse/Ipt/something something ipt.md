@@ -3,4 +3,4 @@ tags:
   - ipt
   - 3te_Klasse
 ---
-![](Pasted image 20240906124136.png.excalidraw.svg)
+![](Pasted%20image%2020240906124136.png.excalidraw.svg)

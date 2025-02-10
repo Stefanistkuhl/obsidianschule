@@ -5,6 +5,6 @@ tags:
   - sprache
 ---
 [[3te Klasse]]
-![](Zeiten ReallyMad.excalidraw.svg)
-![](Wörter synome erklärungen ig.excalidraw.svg)
-![](active passive.excalidraw.svg)
+![](Zeiten%20ReallyMad.excalidraw.svg)
+![](Wörter%20synome%20erklärungen%20ig.excalidraw.svg)
+![](active%20passive.excalidraw.svg)

@@ -8,4 +8,4 @@ tags:
 - usa entsthehung
 	- usa demokratie issues
 checkliste in question
-![](Pasted image 20241114142613.png.excalidraw.svg)
+![](Pasted%20image%2020241114142613.png.excalidraw.svg)

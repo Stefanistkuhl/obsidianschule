@@ -60,7 +60,7 @@ x=0,289
 ```
 > An der stelle x= 0,289 ist der Steigungswinkel der Funktion für f(x)=x² 30°
 > Wichtiges thingy sollte können
-![](diff thing bsp 23-09-2024-32.excalidraw.svg)
+![](diff%20thing%20bsp%2023-09-2024-32.excalidraw.svg)
 
 3.19)
 a)
@@ -81,4 +81,4 @@ f(x_{0})=k*x_{0}+d
 d=-1
 y_{t}=2x-1
 ```
-![](diff thing bsp 23-09-2024-42.excalidraw.svg)
+![](diff%20thing%20bsp%2023-09-2024-42.excalidraw.svg)

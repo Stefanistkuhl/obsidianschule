@@ -15,6 +15,6 @@ tags:
 - Auftragnehmer
 	- [[Lastenheft]]
 [
-![](4 Team Phase.excalidraw.svg)
+![](4%20Team%20Phase.excalidraw.svg)
 
-![](Rollen im Projektmanagment.excalidraw.svg)
+![](Rollen%20im%20Projektmanagment.excalidraw.svg)

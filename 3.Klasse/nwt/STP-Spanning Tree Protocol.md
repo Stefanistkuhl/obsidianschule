@@ -11,13 +11,13 @@ tags:
 
 > Brodcast Storm an ab nomally high number of brodcasts overwhealming the Network
 
-![](STP-Spanning Tree Protocol 08-11-2024-40.excalidraw.svg)
-![](STP-Spanning Tree Protocol 08-11-2024-36.excalidraw.svg)
-![](issues with redundant switch links.excalidraw.svg)
-![](Steps to a Loop-Free Topology.excalidraw.svg)
+![](STP-Spanning%20Tree%20Protocol%2008-11-2024-40.excalidraw.svg)
+![](STP-Spanning%20Tree%20Protocol%2008-11-2024-36.excalidraw.svg)
+![](issues%20with%20redundant%20switch%20links.excalidraw.svg)
+![](Steps%20to%20a%20Loop-Free%20Topology.excalidraw.svg)
 ![](Bridge-ID.excalidraw.svg)
-![](BPDU Bridge Protocol Data Unit.excalidraw.svg)
-![](STP TImer and Port States.excalidraw.svg)
+![](BPDU%20Bridge%20Protocol%20Data%20Unit.excalidraw.svg)
+![](STP%20TImer%20and%20Port%20States.excalidraw.svg)
 [[Spanning Tree bsp]]
 [[STP-States]]
 [[Per-Vlan Spanning Tree]]

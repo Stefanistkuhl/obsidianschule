@@ -4,10 +4,10 @@
 
 Die Absicht etwas schöner, funktioneller, zweckmäßiger, farbiger, benutzerfreundlicher zu machen.
 
-Vorgaben im [[Style Guide]] des Corporate Designs sind einzuhalten!
+Vorgaben im [[2.Klasse/Medt/Style Guide]] des Corporate Designs sind einzuhalten!
 
 ![](Usability.excalidraw.svg)
 
-![](Formaler Aufbau-Layout.excalidraw.svg)
+![](Formaler%20Aufbau-Layout.excalidraw.svg)
 ![](Textdesign.excalidraw.svg)
-![](Vielvalt der Bilder.excalidraw.svg)
+![](Vielvalt%20der%20Bilder.excalidraw.svg)

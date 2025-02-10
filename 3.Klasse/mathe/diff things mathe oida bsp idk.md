@@ -6,7 +6,7 @@ tags:
 Funktion f mit y = f(x) heißt an der Stell x0 differenzierbar wenn der Grenzwert wenn lim Δx→0 $$\frac{f(x_{0}Δx))+(x_{0})}{Δx}$$ existiert 
 Mathematische Schreibweise: $$f'(x_{0}),y'(x_{0}) oder \frac{d_{y}}{d_{x}}$$
 Wichtig eine differenzierte Funktion an der Stelle x0 ist dort immer stetig
-![](diff things mathe oida bsp idk 23-09-2024-06.excalidraw.svg)
+![](diff%20things%20mathe%20oida%20bsp%20idk%2023-09-2024-06.excalidraw.svg)
 ### Bsp f(x)=x²
 ```math
 ||{"id":340730731419}||
@@ -20,4 +20,4 @@ f'(x)_{0}=\lim_{ Δx \to 0 } \frac{f(x_{0}+Δx)²-f(x_{0})²}{Δx}=\lim_{ x \to 
 
 ' bedeutet ableitung
 
-![](diff thing bsp.excalidraw.svg)
+![](diff%20thing%20bsp.excalidraw.svg)

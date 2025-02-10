@@ -13,4 +13,4 @@ ff0E::FB ... alle DNSb6-Server
 ff0E::101 ... alle NTP-Server
 ARP → ICMPv6 (ND,DAD)
 DHCP → ICMPv6
-![](IPv6 Multicast 31-01-2025-36.excalidraw.svg)
+![](IPv6%20Multicast%2031-01-2025-36.excalidraw.svg)

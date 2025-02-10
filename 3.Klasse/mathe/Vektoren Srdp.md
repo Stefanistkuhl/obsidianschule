@@ -25,13 +25,13 @@ $$\vec{v_{1}}=\vec{v_{2}}-\vec{v_{3}}$$
 ![](https://i.imgur.com/zDGDvb0.png)
 
 #### Fundamentale Wechselwirkungen* (B_429)
-![](Vektoren Srdp 27-01-2025-08.excalidraw.svg)
+![](Vektoren%20Srdp%2027-01-2025-08.excalidraw.svg)
 $$\vec{F_{G}}=\binom{-1}{3}$$(Abgelesen)
 
 #### Keilriemen eines Motos \*(B_626)
 
 1)
-![](Vektoren Srdp 10-02-2025-53.excalidraw.svg)
+![](Vektoren%20Srdp%2010-02-2025-53.excalidraw.svg)
 $$b:X=\vec{a}*t+p$$
 $$\vec{AP}=\binom{472.2-427}{279.4-273}=\binom{45.2}{6.4}$$
 Kompenentauschen und ein vorzeichen ändern um den Richtigen Normalvektor zu haben
@@ -43,7 +43,7 @@ $$a:X=\binom{387}{295}*t+\binom{22}{40}$$
 ![](https://i.imgur.com/wlfAm6W.png)
 $$S=\binom{387}{295}+\binom{66}{120}=\binom{453}{415}$$
 3)
-![](Vektoren Srdp 10-02-2025-10.excalidraw.svg)
+![](Vektoren%20Srdp%2010-02-2025-10.excalidraw.svg)
 $$\arccos (\frac{ \vec{a}*\vec{b}}{| \vec{a}*\vec{b}|})$$
 ![](https://i.imgur.com/vZNy28W.png)
 

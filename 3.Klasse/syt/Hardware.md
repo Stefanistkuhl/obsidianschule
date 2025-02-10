@@ -7,7 +7,7 @@ tags:
 [[anitgrrrmatik v2]]
 ![](Eva-Prinzip.excalidraw.svg)
 
-![](Geschichte der Hardware.excalidraw.svg)![](Ram.excalidraw.svg)
+![](Geschichte%20der%20Hardware.excalidraw.svg)![](Ram.excalidraw.svg)
 ![](Ram.excalidraw.svg)
 ![](Rom.excalidraw.svg)
 ![](Festdatenspeicher.excalidraw.svg)

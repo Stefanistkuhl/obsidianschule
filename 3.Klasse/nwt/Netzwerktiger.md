@@ -115,9 +115,9 @@ D:
 
 #### <mark style="background: #FFB8EBA6;">Datalink</mark>
 
-![](Datalink Layer2.excalidraw.svg)
+![](Datalink%20Layer2.excalidraw.svg)
 
 ### <mark style="background: #FFB8EBA6;">L3 Network</mark> 
 
-![](Layer 3.excalidraw.svg)
-![](something something layer 4 xd oida.excalidraw.svg)
+![](Layer%203.excalidraw.svg)
+![](something%20something%20layer%204%20xd%20oida.excalidraw.svg)

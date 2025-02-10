@@ -3,4 +3,4 @@ tags:
   - 3te_Klasse
   - ggp
 ---
-![](AB Liberalismus und capitalismus 23-01-2025-05.excalidraw.svg)
+![](AB%20Liberalismus%20und%20capitalismus%2023-01-2025-05.excalidraw.svg)

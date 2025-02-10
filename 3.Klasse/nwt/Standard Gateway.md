@@ -8,4 +8,4 @@ tags:
 > 1. Anlaufstelle in andere Netzwerke
 > Nachrichten an unbekannte Netze werden an das Standard Gateway geschickt 
 
-![](Host Routing.excalidraw.svg)
+![](Host%20Routing.excalidraw.svg)

@@ -4,4 +4,4 @@
 
 ![](DR05-03-2024-05.excalidraw.svg)
 
-![](Pflichtenheft bsp.pdf.excalidraw.svg)
+![](Pflichtenheft%20bsp.pdf.excalidraw.svg)

@@ -10,7 +10,7 @@
 	- Deefines how data is formatted for transmission over a physical medium (zb copper utp calbes)
 	- Detects and (possibly) corrects Physical Layer errors
 	- Uses Layer 2 addressing, seperate from Layer 3 addressing (nix ips)
-![](Ethernet Frame aufbau.excalidraw.svg)
+![](Ethernet%20Frame%20aufbau.excalidraw.svg)
 - <mark style="background: #FFB8EBA6;">MAC Address</mark>
 	- 6 byte (48bit) 
 	- physical address asigned to the device when it is made

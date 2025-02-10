@@ -399,12 +399,12 @@ g(x)=1/x
 
 # <mark style="background: #FFB8EBA6;">Komplexe Zahlen</mark>
 
-![](Komplexe Zahlen.excalidraw.svg)
+![](Komplexe%20Zahlen.excalidraw.svg)
 ## <mark style="background: #FFB8EBA6;">Polarformen komplexer Zahlen</mark>
 
 
 # oida kreisfunktion
-![](ka was für kak msa lernen muss oda so OIDA.excalidraw.svg)
+![](ka%20was%20für%20kak%20msa%20lernen%20muss%20oda%20so%20OIDA.excalidraw.svg)
 
 ![](einheitskreis.excalidraw.svg)
 # Idi
@@ -662,7 +662,7 @@ f)
 x=\frac{1}{1.649}=0,607
 ```
 oida ich wüsste gerne wieso das fancy plugin um den graph zu machen, ln nicht erkennt D:
-![](Pasted image 20240227172103.png.excalidraw.svg)
+![](Pasted%20image%2020240227172103.png.excalidraw.svg)
 
 
 4.83)
@@ -716,13 +716,13 @@ f_{4}(t)=4*1.02^t → Zunahme
 ```
 
 4.115)
-![](Pasted image 20240303143831.png.excalidraw.svg)
+![](Pasted%20image%2020240303143831.png.excalidraw.svg)
 4.117)
 a)
 8 → gleichbleinde Kraft F → Newton
 50 → 
 b)
-![](Pasted image 20240303182844.png.excalidraw.svg)
+![](Pasted%20image%2020240303182844.png.excalidraw.svg)
 c)
 ca 8 m/s
 d)

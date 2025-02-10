@@ -9,7 +9,7 @@ tags:
 > Die Feldlinien sind konzentrische Kreise um den leiter
 
 Leiterschleife →
-![](Feld eines Stromdurchflossen Leiters 25-04-2024-42.excalidraw.svg)
+![](Feld%20eines%20Stromdurchflossen%20Leiters%2025-04-2024-42.excalidraw.svg)
 d.h Die Feldlinien sind dichter zusammegerdängt = stärkere Feldwirkung
 [[Zur Erinnerung Plattenkondensator]]
 

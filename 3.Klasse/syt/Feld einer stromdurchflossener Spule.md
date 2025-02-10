@@ -4,5 +4,5 @@ tags:
   - syt
   - syt_elektro
 ---
-![](Feld einer stromdurchflossener Spule 25-04-2024-30.excalidraw.svg)
-![](Bsp Permanentmagnet.excalidraw.svg)
+![](Feld%20einer%20stromdurchflossener%20Spule%2025-04-2024-30.excalidraw.svg)
+![](Bsp%20Permanentmagnet.excalidraw.svg)

@@ -5,5 +5,5 @@ tags:
 ---
 [[🙂GeografieGeschichteTigerrischebildung]]
 
-![](Aufsteig der Habsburger.excalidraw.svg)
-![](Neuzeit oda so ein kack.excalidraw.svg)
+![](Aufsteig%20der%20Habsburger.excalidraw.svg)
+![](Neuzeit%20oda%20so%20ein%20kack.excalidraw.svg)

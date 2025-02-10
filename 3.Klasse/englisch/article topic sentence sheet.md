@@ -4,4 +4,4 @@ tags:
   - e
   - sprache
 ---
-![](Pasted image 20241202095126.png.excalidraw.svg)
+![](Pasted%20image%2020241202095126.png.excalidraw.svg)

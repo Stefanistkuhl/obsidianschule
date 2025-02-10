@@ -25,7 +25,7 @@ tags:
      - Terminal interface um mit der Shell zu interagieren.
 
 - Dateiverwaltung
-  - ![](Pasted image 20240927144209.png.excalidraw.svg)
+  - ![](Pasted%20image%2020240927144209.png.excalidraw.svg)
   - Wenn man eine Datei erstellt passiert folgendes:
     - Ein Zeiger wird erstellt, der zu den Datenblöcken auf der Festplatte zeigt, wo Informationen wie Dateibesitzer und Berechtigungen abgespeichert werden.
     - Dann wird ein Link erstellt zu der Datei was quasi der Dateiname is um die Datei im Dateisystem anzuzeigen.

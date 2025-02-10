@@ -27,7 +27,7 @@ a)
 v(t)=s'(t)
 wahr weil es auf der tafel steht
 b)
-![](Pasted image 20241104120341.png.excalidraw.svg)
+![](Pasted%20image%2020241104120341.png.excalidraw.svg)
 stimmt nicht
 es müsste
 $$\lim_{ \Delta t \to 0 } $$
@@ -42,11 +42,11 @@ e)
 a(t) ist die änderungsrate von v zum Zeitpunkt t
 stimmt, weil die beschleunigung ist ja quasi die steigung der geschwindigkeit, die erste ableitung gibt dir ja die steigung an einem punkt
 f)
-![](Pasted image 20241104120637.png.excalidraw.svg)
+![](Pasted%20image%2020241104120637.png.excalidraw.svg)
 richtig
 g)
 v(t) ist die änderungsrate von s zum Zeitpunkt t
 ableitung von s ist ja die geschw → also die änderungs rate
 h)
-![](Pasted image 20241104120850.png.excalidraw.svg)
+![](Pasted%20image%2020241104120850.png.excalidraw.svg)
 richtig

@@ -3,4 +3,4 @@ tags:
   - 2te_Klasse
   - nwt
 ---
-![](Passive Netzwerkmpontenten.excalidraw.svg)
+![](Passive%20Netzwerkmpontenten.excalidraw.svg)

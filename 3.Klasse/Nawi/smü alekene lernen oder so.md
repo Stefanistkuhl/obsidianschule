@@ -12,6 +12,6 @@ $$C_{n}H_{2n}$$
 n ... Anzahl der C-Atome
 
 bsp Ethen gesucht: Summenformel
-![](smü alekene lernen oder so 24-11-2024-49.excalidraw.svg)
+![](smü%20alekene%20lernen%20oder%20so%2024-11-2024-49.excalidraw.svg)
 Schritt 1:
 - Wegen der en endung von Ethen wird erkannt, dass es sich um ein Alken handelt.

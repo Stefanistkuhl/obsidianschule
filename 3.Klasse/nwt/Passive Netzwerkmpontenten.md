@@ -15,4 +15,4 @@ Unter dem Schalgwort passive Netzwerkkompenen werden alle Produkte zusammengefas
 	- Patchpanels 
 	- Netzwerkschränke
 
-![](Leitergebundene Übertragung.excalidraw.svg)
+![](Leitergebundene%20Übertragung.excalidraw.svg)

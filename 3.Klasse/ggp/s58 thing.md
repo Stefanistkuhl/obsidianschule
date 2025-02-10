@@ -4,7 +4,7 @@ tags:
   - ggp
 ---
 - Überlgegen wie Sie, welche Produktionsfaktoren notwendig sind, um ein Mobiltelefon herzustellen. Mindmap
-	- ![](s58 thing 14-10-2024-43.excalidraw.svg)
+	- ![](s58%20thing%2014-10-2024-43.excalidraw.svg)
 - 58.1 faktoren 
 	- Boden - Acker
 	- Trakor 

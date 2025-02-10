@@ -12,6 +12,6 @@ Using the STA, STP builds a loop free topology
 - Each BPDU contains a bridge ID (BID) that identifies which switch sent the BPDU. The BID is involved in making many of the STA decisions including root bridge and port roles. 
 - The BID contains a priority value, the MAC address of the switch and an extended system ID. The lowest BID value is determined by the combination of these three fields.
 
-![](Steps to a Loop-Free Topology 08-11-2024-15.excalidraw.svg)
+![](Steps%20to%20a%20Loop-Free%20Topology%2008-11-2024-15.excalidraw.svg)
 Root ports sind ports die mit der Root bridge verbunden sind
 Root Bridge is die Wurzel des Schleifenfreies baums

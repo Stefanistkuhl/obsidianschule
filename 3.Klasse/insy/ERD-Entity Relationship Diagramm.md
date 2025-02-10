@@ -15,7 +15,7 @@ tags:
 - Cardinalities
 	- Help define the relationship in a numerical context.
 	- Minumums and Maximuns
-	- ![](Pasted image 20241109160551.png.excalidraw.svg)
+	- ![](Pasted%20image%2020241109160551.png.excalidraw.svg)
 - Primariy Keys
 	- An attribute or field that uniquely identifies every record within a certain table.
 	- Primary Key Rules
@@ -32,7 +32,7 @@ tags:
 		- Use the feweset number of attributes as possible.
 		- Dont use attributes that are apt to change.
 
-![](ERD-Entity Relationship Diagramm 09-11-2024-00.excalidraw.svg)
+![](ERD-Entity%20Relationship%20Diagramm%2009-11-2024-00.excalidraw.svg)
 
 
 [[crowsfoot noation]]

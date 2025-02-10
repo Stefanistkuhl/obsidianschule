@@ -25,4 +25,4 @@ l wird halbiert
 ⇒ F bleibt eig konstant
 demnach dreht der Rotor schneller! Warum?
 
-![](Kraft auf eine bewegte Ladung.excalidraw.svg)
+![](Kraft%20auf%20eine%20bewegte%20Ladung.excalidraw.svg)

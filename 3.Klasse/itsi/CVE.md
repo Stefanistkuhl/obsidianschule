@@ -5,4 +5,4 @@ tags:
 ---
 > Common vulnerabilities & Exposures
 
-![](Stefan Fürst CVE aufgabe.excalidraw.svg)
+![](Stefan%20Fürst%20CVE%20aufgabe.excalidraw.svg)

@@ -11,7 +11,7 @@ tags:
 ![](Komperator.excalidraw.svg)
 
 ![](Wechselstromtechnik.excalidraw.svg)
-![](Das magnetische Feld.excalidraw.svg)
+![](Das%20magnetische%20Feld.excalidraw.svg)
 
-![](Diodenampelschaltung oda so ein kram oida.excalidraw.svg)
-![](Rpi vieh.excalidraw.svg)
+![](Diodenampelschaltung%20oda%20so%20ein%20kram%20oida.excalidraw.svg)
+![](Rpi%20vieh.excalidraw.svg)

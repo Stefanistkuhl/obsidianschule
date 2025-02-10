@@ -4,4 +4,4 @@ tags:
   - sew
 ---
 ### UML-Klassendiagramm
-![](uml 04-11-2024-44.excalidraw.svg)
+![](uml%2004-11-2024-44.excalidraw.svg)

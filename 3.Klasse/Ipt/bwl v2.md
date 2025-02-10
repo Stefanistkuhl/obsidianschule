@@ -3,7 +3,7 @@
 
 ![](Vision.excalidraw.svg)
 ![](Projektmagment.excalidraw.svg)
-![](Monetäre Ziele.excalidraw.svg)
+![](Monetäre%20Ziele.excalidraw.svg)
 ![](Dsgvo.excalidraw.svg)
-![](16 Lebensmotive nach Reiss.excalidraw.svg)
-![](Level 2 Methode.excalidraw.svg)
+![](16%20Lebensmotive%20nach%20Reiss.excalidraw.svg)
+![](Level%202%20Methode.excalidraw.svg)

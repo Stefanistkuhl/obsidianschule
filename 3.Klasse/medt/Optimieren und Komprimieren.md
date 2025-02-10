@@ -6,7 +6,7 @@ unkomprimiert das bild auf der Seite, obvi deppat weil langsam af dann und mehr 
 
 - Bildformate (pixel)
 	- jpg ← Weibseiten
-	- png ← [[foto illustration unterschied|logo/illustration]]
+	- png ← [[2.Klasse/Medt/foto illustration unterschied|logo/illustration]]
 	- tiff ← für drucken weil verlustlos
 	- raw ← Fotografie (entwicklen in Lightroom)
 	- psd ← wenn zb weiterbearbeiten

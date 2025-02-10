@@ -3,4 +3,4 @@ tags:
   - nwt
   - 3te_Klasse
 ---
-![](Pasted image 20241213114053.png.excalidraw.svg)
+![](Pasted%20image%2020241213114053.png.excalidraw.svg)

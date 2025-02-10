@@ -35,6 +35,6 @@ $$ ρ... Spezifischer Wiederstand = \frac{Ω*mm²}m{} $$
 
 
 
-![](diemensionierung transistor|dimensionierung.excalidraw.svg)
+![](diemensionierung%20transistor|dimensionierung.excalidraw.svg)
 ![](Operationsverstärker.excalidraw.svg)
 

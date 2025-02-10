@@ -5,7 +5,7 @@ tags:
   - syt_elektro
   - randoomminidinger
 ---
-![](Zur Erinnerung Plattenkondensator 25-04-2024-38.excalidraw.svg)
+![](Zur%20Erinnerung%20Plattenkondensator%2025-04-2024-38.excalidraw.svg)
 > Feldlinien haben einen Anfang und ein Ende ⇒ Elektrotatisches Feld = Quellen feld, dh
 
 + + Platte: Quellen, an der die Feldlinien austreten (beginnen)
