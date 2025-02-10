@@ -5,7 +5,7 @@ tags:
   - syt_info
 ---
 
-![](Überischt%20Festdatenspeicher.excalidraw.svg)
+[[Überischt Festdatenspeicher]]
 
 
 

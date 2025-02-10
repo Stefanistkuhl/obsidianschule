@@ -399,14 +399,14 @@ g(x)=1/x
 
 # <mark style="background: #FFB8EBA6;">Komplexe Zahlen</mark>
 
-![](Komplexe%20Zahlen.excalidraw.svg)
+[[Komplexe Zahlen]]
 ## <mark style="background: #FFB8EBA6;">Polarformen komplexer Zahlen</mark>
 
 
 # oida kreisfunktion
-![](ka%20was%20für%20kak%20msa%20lernen%20muss%20oda%20so%20OIDA.excalidraw.svg)
+[[ka was für kak msa lernen muss oda so OIDA]]
 
-![](einheitskreis.excalidraw.svg)
+[[einheitskreis]]
 # Idi
 
 ![](DR26-11-2023-29.excalidraw.svg)

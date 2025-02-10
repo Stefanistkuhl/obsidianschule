@@ -11,4 +11,4 @@ Weitere Beispiele
 ![](Funtionelle%20Gruppen%2025-11-2024-38_0.excalidraw.svg)
 Übung:
 ![](Funtionelle%20Gruppen%2025-11-2024-44.excalidraw.svg)
-![](Funktionellegruppen%20Umwandlungen.excalidraw.svg)
+[[Funktionellegruppen Umwandlungen]]

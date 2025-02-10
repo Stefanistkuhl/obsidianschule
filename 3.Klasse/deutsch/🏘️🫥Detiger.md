@@ -7,7 +7,7 @@ tags:
 
 [[🥲2te Klasse]]
 [[😶‍🌫️Ehngtiger]]
-![](Grafikanalyse.excalidraw.svg)
+[[Grafikanalyse]]
 # <mark style="background: #FFB8EBA6;">Mitschrift</mark>
 
 ## <mark style="background: #FFB8EBA6;">Buch Drohnenland</mark>
@@ -78,4 +78,4 @@ In diesem Balkendiagramm, welches zwei Datenpunkte pro Geschlecht und Altersgrup
 Angeführt wird die Statistik von der jüngsten Altersgruppe (14-29), bei welcher der Anteil an Videospielenden von 80 auf 84% gestiegen ist. Darauf folgen 30 bis 49 Jährige mit 44 und 50%, 50-64 mit 13 und 23% und schließlich 65 oder älter mit 5 und 9%.
 ## graka anlyse
 
-![](grakaanaylseübenodasooasifosadugihdfsigjoghjidsoghioshgisdghid.excalidraw.svg)
+[[grakaanaylseübenodasooasifosadugihdfsigjoghjidsoghioshgisdghid]]

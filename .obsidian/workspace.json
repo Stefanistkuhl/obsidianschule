@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/nwt/Layer 3 swtich using switched virtual Interfaces (SVIs).md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Layer 3 swtich using switched virtual Interfaces (SVIs)"
+              "title": "index"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "691f8e91b0203e9f",
@@ -144,6 +145,19 @@
   },
   "active": "65787efad2246cb5",
   "lastOpenFiles": [
+    "3.Klasse/itsi/Asymetrische Verschlüsselung.md",
+    "3.Klasse/itsi/Kryptografie.md",
+    "3.Klasse/nwt/Layer 3 swtich using switched virtual Interfaces (SVIs).md",
+    "Layer 3 swtich using switched virtual Interfaces (SVIs.md",
+    "3.Klasse/itsi/Itsi.md",
+    "3.Klasse/nwt/vlan definition.md",
+    "3.Klasse/itsi/aufgaben/ctf/priv esc diassater.md",
+    "3.Klasse/itsi/aufgaben/ctf/itsi ctf.md",
+    "3.Klasse/mathe/Vektoren rechenoperationen.md",
+    "3.Klasse/mathe/Vektoren in GeoGebra.md",
+    "3.Klasse/mathe/Vektoren Srdp.md",
+    "3.Klasse/itsi/Klassifizierunsstufen.md",
+    "3.Klasse/itsi/3kl itsi.md",
     "ob/3.Klasse/nwt/EtherChannel (LAG).md",
     "ob/3.Klasse/nwt/3kl nwt.md",
     "3.Klasse/nwt/nwt.md",
@@ -151,7 +165,6 @@
     "ob/3.Klasse/Nawi/Zucker in RNA und DNA.md",
     "3.Klasse/Nawi/Zucker in RNA und DNA.md",
     "3.Klasse/itsi/AES.md",
-    "3.Klasse/nwt/Layer 3 swtich using switched virtual Interfaces (SVIs).md",
     "Layer.md",
     "3.Klasse/nwt/Netzwerktiger.md",
     "3.Klasse/Nawi/DNA und RNA.md",
@@ -161,25 +174,13 @@
     "bilder/Zucker in RNA und DNA 10-02-2025-02.excalidraw.svg",
     "bilder/Wirtschaftssektoren Zettel 13-01-2025-44.excalidraw.md",
     "bilder/Wirtschaftssektoren Zettel 13-01-2025-44.excalidraw.svg",
-    "bilder/vlans 27-09-2024-53.excalidraw.md",
     "bilder/vlans 27-09-2024-53.excalidraw.svg",
-    "bilder/Vektoren Wichtige Anwendungen aus der Naturwissenscahft und Technik 27-01-2025-57.excalidraw.md",
     "bilder/Vektoren Wichtige Anwendungen aus der Naturwissenscahft und Technik 27-01-2025-57.excalidraw.svg",
     "bilder/Vektoren Srdp 27-01-2025-08.excalidraw.svg",
-    "bilder/Vektoren Srdp 27-01-2025-08.excalidraw.md",
-    "bilder/Vektoren Srdp 10-02-2025-53.excalidraw.md",
     "bilder/Vektoren Srdp 10-02-2025-53.excalidraw.svg",
-    "bilder/Vektoren Srdp 10-02-2025-10.excalidraw.md",
     "bilder/Vektoren Srdp 10-02-2025-10.excalidraw.svg",
-    "bilder/Vektoren im Raum 10-02-2025-55.excalidraw.md",
     "bilder/Vektoren im Raum 10-02-2025-55.excalidraw.svg",
-    "bilder/Vektoren 14-01-2025-30.excalidraw.md",
     "bilder/Vektoren 14-01-2025-30.excalidraw.svg",
-    "bilder/Vektoren 14-01-2025-11.excalidraw.md",
-    "bilder/Vektoren 14-01-2025-05.excalidraw.md",
-    "bilder/uml 04-11-2024-44.excalidraw.md",
-    "bilder/Umgekehrte Kurvendiskussion 25-11-2024-07.excalidraw.md",
-    "bilder/Umgekehrte Kurvendiskussion 02-12-2024-05.excalidraw.md",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/a/GRP-7-Tremurici-Fürst-Lab-5.zip",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/a/ziaOrlro",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/a/server.py",

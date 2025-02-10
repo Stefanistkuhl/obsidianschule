@@ -21,4 +21,4 @@ tags:
 	- Einheit:$$\frac{g}{mol}$$ 
 	- Bsp haben 20.000 1€ Münzen, wissen das aber nicht. 
 		- 
-![](Bsp%20zu%20Chemischen%20Rechnungen.excalidraw.svg)		
+[[Bsp zu Chemischen Rechnungen]]		

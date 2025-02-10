@@ -7,10 +7,10 @@ tags:
 > flash: vlan.at vlans werden gespeichert 
 > del flash:vlan.dat
 
-![](vlan%20definition.excalidraw.svg)
-![](Types%20of%20Vlans.excalidraw.svg)
-![](Trunks.excalidraw.svg)
-![](Vlan%20Ranges%20on%20Catalyst%20Switches.excalidraw.svg)
-![](vlan%20commands.excalidraw.svg)
-![](Troubleshoot%20Inter-VLAN%20Routing.excalidraw.svg)
-![](inter-VLAN-Routing.excalidraw.svg)
+[[vlan definition]]
+[[Types of Vlans]]
+[[Trunks]]
+[[Vlan Ranges on Catalyst Switches]]
+[[vlan commands]]
+[[Troubleshoot Inter-VLAN Routing]]
+[[inter-VLAN-Routing]]

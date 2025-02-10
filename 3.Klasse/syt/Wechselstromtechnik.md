@@ -15,7 +15,7 @@ tags:
 	- ω = 2 * Π * p ... Winkelgeschwindigkeit, Kreisfrequenz
 	- U= Udach/sqrt(2) ... Effektivwert (Anmerkung: 1/sqrt(2), gilt ausschießlich für sinusförmige Größen)
 
-![](Zeiger%20und%20liniendiagramm.excalidraw.svg)
-![](Wechselstrom%20Komponenten.excalidraw.svg)
+[[Zeiger und liniendiagramm]]
+[[Wechselstrom Komponenten]]
 
-![](Wechselstrombsps%20idk%20no%20lol.excalidraw.svg)
+[[Wechselstrombsps idk no lol]]

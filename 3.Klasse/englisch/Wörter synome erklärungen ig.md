@@ -4,4 +4,4 @@ tags:
   - e
   - sprache
 ---
-![](things%20for%20graphs.excalidraw.svg)
+[[things for graphs]]

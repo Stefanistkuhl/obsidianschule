@@ -12,7 +12,7 @@ tags:
 ![](ip%20v6%2031-01-2025-18.excalidraw.svg)
 Problem der EUI64 Adresse gibt es die Privatsfähred erweiterung was randoom sachen added um die 64bit zu bilden
 
-![](IPv6%20Multicast.excalidraw.svg)
+[[IPv6 Multicast]]
 
 
 [[IPv6-Scopes]]

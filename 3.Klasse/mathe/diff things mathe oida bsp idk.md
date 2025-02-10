@@ -20,4 +20,4 @@ f'(x)_{0}=\lim_{ Δx \to 0 } \frac{f(x_{0}+Δx)²-f(x_{0})²}{Δx}=\lim_{ x \to 
 
 ' bedeutet ableitung
 
-![](diff%20thing%20bsp.excalidraw.svg)
+[[diff thing bsp]]

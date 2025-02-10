@@ -48,4 +48,4 @@ $$v=10⁷ \frac{m}{s}$$
 r= \frac{m*v}{Q*B}=\frac{9.109*10^{-31}*0.4*10^{-7}}{10^{-3}*1.6*10^{-19}}=\frac{9.109}{1.6}*10^{-24}/{10^{-22}}=5.6*10^{-2}m
 r \approx 5.6cm
 ```
-![](Bsp%20Halbsonde.excalidraw.svg)
+[[Bsp Halbsonde]]

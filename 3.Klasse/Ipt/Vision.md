@@ -5,4 +5,4 @@
 
 [[Motivation]]
 ![](DR13-02-2024-26.excalidraw.svg)
-![](Tim%20Minchin%209%20live%20lessons%20aufgabe.excalidraw.svg)
+[[Tim Minchin 9 live lessons aufgabe]]

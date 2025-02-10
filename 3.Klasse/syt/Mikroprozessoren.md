@@ -5,4 +5,4 @@ tags:
   - syt_info
 ---
 
-![](Leistungsmerkmale%20von%20Prozessoren.excalidraw.svg)
+[[Leistungsmerkmale von Prozessoren]]

@@ -25,4 +25,4 @@ John von Neuman beschrieb 1945 das Konzept eines <mark style="background: #FFB8E
 	- <mark style="background: #FFB8EBA6;">Befehlszähler</mark> (instruction Pointer): Beinhaltet die Adresse des nächsten auszuführenden Befehls. Die Länge des Registers legt die max. Größe des adressierbarem Arbeitsspeichers fest. Mit 32Bit kann die Arbeitsspeicher von 2^32 = 4GB angesprochen werden.
 	- <mark style="background: #FFB8EBA6;">Befehlsregister:</mark> Beinhaltet den aktuellen Maschienenbefehl.
 
-![](Mikroprozessoren.excalidraw.svg)
+[[Mikroprozessoren]]

@@ -25,4 +25,4 @@ for i in range(69):
 	time.sleep(1)
 ```
 
-![](Datentypen%20in%20py.excalidraw.svg)
+[[Datentypen in py]]

@@ -3,7 +3,7 @@ tags:
   - 2te_Klasse
   - ipt
 ---
-![](Ziele.excalidraw.svg)
+[[Ziele]]
 ![](DR20-02-2024-43.excalidraw.svg)
 - Unklarheiten im Projekt →
 	- Recherche
@@ -15,6 +15,6 @@ tags:
 - Auftragnehmer
 	- [[Lastenheft]]
 [
-![](4%20Team%20Phase.excalidraw.svg)
+[[4 Team Phase]]
 
-![](Rollen%20im%20Projektmanagment.excalidraw.svg)
+[[Rollen im Projektmanagment]]

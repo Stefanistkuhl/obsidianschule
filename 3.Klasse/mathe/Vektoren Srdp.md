@@ -6,6 +6,7 @@ tags:
 #### Auf dem Eislaufplatz* (B_634)
 3)
 ![](https://i.imgur.com/mxT2eZW.png)
+
 $$|\vec{a}|=5$$
 12=k\*5
 k=12/5=2.4

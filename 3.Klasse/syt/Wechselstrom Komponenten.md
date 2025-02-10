@@ -20,7 +20,7 @@ tags:
 		- b) 
 			- ![](DR13-03-2024-21.excalidraw.svg)
 			- ⇒ je größer die Frequenz, desto größter X2 
-	- ![](Zeiger%20und%20liniendiagramm%20einer%20Spule.excalidraw.svg)
+	- [[Zeiger und liniendiagramm einer Spule]]
 
-![](Kapazitiver%20Bildwiderstand.excalidraw.svg)
-![](Wh%20Komplexer%20Wiederstand,%20Impedanzen.excalidraw.svg)
+[[Kapazitiver Bildwiderstand]]
+[[Wh Komplexer Wiederstand, Impedanzen]]

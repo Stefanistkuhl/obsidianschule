@@ -6,12 +6,12 @@ tags:
 ---
 [[😡Grrrrrlektrotechnik]] 
 
-![](transistor.excalidraw.svg)
-![](Operationsverstärker.excalidraw.svg)
-![](Komperator.excalidraw.svg)
+[[transistor]]
+[[Operationsverstärker]]
+[[Komperator]]
 
-![](Wechselstromtechnik.excalidraw.svg)
-![](Das%20magnetische%20Feld.excalidraw.svg)
+[[Wechselstromtechnik]]
+[[Das magnetische Feld]]
 
-![](Diodenampelschaltung%20oda%20so%20ein%20kram%20oida.excalidraw.svg)
-![](Rpi%20vieh.excalidraw.svg)
+[[Diodenampelschaltung oda so ein kram oida]]
+[[Rpi vieh]]

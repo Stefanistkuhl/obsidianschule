@@ -202,5 +202,5 @@ npn
 - Mit Ugs: e- Brücke bildet sich → Stromfluss
 
 
-![](Chemishe%20Reaktionen.excalidraw.svg)
-![](Säuren%20und%20Basen.excalidraw.svg)
+[[Chemishe Reaktionen]]
+[[Säuren und Basen]]

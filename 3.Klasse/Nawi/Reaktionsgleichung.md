@@ -12,5 +12,5 @@ Bsp: Wir haben zwei Reaktionen gesehen:
 2. Knallgasreaktion: H2 reagiert mit O2 
 
 $$2H_{2}+O_{2}→2H_{2}O$$
-![](Übung%20zum%20Ausgleichen%20von%20Reaktionsgleichungen.excalidraw.svg)
-![](Reaktionsgleichgungsgewichte.excalidraw.svg)
+[[Übung zum Ausgleichen von Reaktionsgleichungen]]
+[[Reaktionsgleichgungsgewichte]]

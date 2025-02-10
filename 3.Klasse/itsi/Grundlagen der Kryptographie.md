@@ -8,4 +8,4 @@ tags:
 - Asymetrische Verschlüsseltung 
 - Hashfunktionen
 
-![](Was%20bedeuted%20Kryptographie.excalidraw.svg)
+[[Was bedeuted Kryptographie]]

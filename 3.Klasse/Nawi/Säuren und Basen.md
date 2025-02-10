@@ -21,4 +21,4 @@ NH4 NO3 Ammoniaknitrat
 NH4 NO3 ist ein Düngemittel. Muss aber  getreckt werden, sonst ist es explosiv.
 
 Nitrogylcerin ist der Sprengstoff im Dynamit.
-![](pH-Wert.excalidraw.svg)
+[[pH-Wert]]

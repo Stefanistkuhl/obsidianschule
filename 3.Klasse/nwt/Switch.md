@@ -15,4 +15,4 @@
 
 ![](DR04-12-2023-18.excalidraw.svg)
 ![](DR01-03-2024-22.excalidraw.svg)
-![](Brodcastdomäne.excalidraw.svg)
+[[Brodcastdomäne]]

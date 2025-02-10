@@ -5,5 +5,5 @@ tags:
   - syt_info
 ---
 
-![](Tux%20Basics.excalidraw.svg)
-![](Linux%20Shell%20Basics.excalidraw.svg)
+[[Tux Basics]]
+[[Linux Shell Basics]]

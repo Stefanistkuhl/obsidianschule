@@ -16,6 +16,5 @@ tags:
 		- personen bezogene daten
 		- artzt anwalt geheimnis etc
 - Je nach Notwendigkeit auch mehr Stufen möglich
-
-![](Daten%20bsp%20selbsttändiger%20entwickler.excalidraw.svg)
-![](Fürst-Daten-Klassifizierung.excalidraw.svg)
+[[Daten bsp selbsttändiger entwickler]]
+[[Fürst-Daten-Klassifizierung]]

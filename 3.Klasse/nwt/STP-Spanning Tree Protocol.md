@@ -13,11 +13,11 @@ tags:
 
 ![](STP-Spanning%20Tree%20Protocol%2008-11-2024-40.excalidraw.svg)
 ![](STP-Spanning%20Tree%20Protocol%2008-11-2024-36.excalidraw.svg)
-![](issues%20with%20redundant%20switch%20links.excalidraw.svg)
-![](Steps%20to%20a%20Loop-Free%20Topology.excalidraw.svg)
-![](Bridge-ID.excalidraw.svg)
-![](BPDU%20Bridge%20Protocol%20Data%20Unit.excalidraw.svg)
-![](STP%20TImer%20and%20Port%20States.excalidraw.svg)
+[[issues with redundant switch links]]
+[[Steps to a Loop-Free Topology]]
+[[Bridge-ID]]
+[[BPDU Bridge Protocol Data Unit]]
+[[STP TImer and Port States]]
 [[Spanning Tree bsp]]
 [[STP-States]]
 [[Per-Vlan Spanning Tree]]

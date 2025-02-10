@@ -15,5 +15,5 @@ Grenzwert des Differenzialqutient in dem die beiden Punkte nah Zussammen geschob
 > Sekante wird zur Tangente
 > Ableitung verrät die Steigung einer Funktion an einem Geweissen Punkt.
 
-![](diff%20things%20mathe%20oida%20bsp%20idk.excalidraw.svg)
-![](Ableitung%20elementare%20Funktion.excalidraw.svg)
+[[diff things mathe oida bsp idk]]
+[[Ableitung elementare Funktion]]

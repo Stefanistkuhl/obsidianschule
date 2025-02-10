@@ -32,4 +32,4 @@ $$CH_{3}C00+H_{2}O
 Anwendung 
 - Spurensicherung bei DNA-Proben 
 - Stabilhalten von Stoffen, sich bei pH-Wertändeerungen zersetzen würden
-![](Reaktionsgeschwindigkeit.excalidraw.svg)
+[[Reaktionsgeschwindigkeit]]

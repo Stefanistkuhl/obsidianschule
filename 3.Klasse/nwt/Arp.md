@@ -25,4 +25,4 @@ Client ARP-Table
 
 ![](DR01-03-2024-22.excalidraw.svg)
 
-![](Standard%20Gateway.excalidraw.svg)
+[[Standard Gateway]]

@@ -39,5 +39,5 @@ Alkan ... KW mit auschließlich Einfachbindungen
 Alken ... KW mit mind. eine Doppelbindung
 
 [[Nomenklatur vom KW]]
-![](Reaktivität%20der%20Alkene.excalidraw.svg)
+[[Reaktivität der Alkene]]
 [[alkene thing was auch immer]]

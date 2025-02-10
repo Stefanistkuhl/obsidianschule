@@ -8,4 +8,4 @@ tags:
 - Entwickelt von Linus Torvalds in 1991
 - Open Source 
 
-![](Linuxdateisystem.excalidraw.svg)
+[[Linuxdateisystem]]

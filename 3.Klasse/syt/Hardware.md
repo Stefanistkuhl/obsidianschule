@@ -5,9 +5,9 @@ tags:
   - syt_info
 ---
 [[anitgrrrmatik v2]]
-![](Eva-Prinzip.excalidraw.svg)
+[[Eva-Prinzip]]
 
-![](Geschichte%20der%20Hardware.excalidraw.svg)![](Ram.excalidraw.svg)
-![](Ram.excalidraw.svg)
-![](Rom.excalidraw.svg)
-![](Festdatenspeicher.excalidraw.svg)
+[[Geschichte der Hardware]][[Ram]]
+[[Ram]]
+[[Rom]]
+[[Festdatenspeicher]]
