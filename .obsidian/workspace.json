@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c994521668cf669f",
+        "id": "a1437add5e5ef0f1",
         "type": "tabs",
         "children": [
           {
-            "id": "0611a40b51cafc4d",
+            "id": "941b8a6c43be20a7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -141,8 +139,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0611a40b51cafc4d",
+  "active": "941b8a6c43be20a7",
   "lastOpenFiles": [
+    "Stefan Fürst Vektoren HÜ.md",
+    "3.Klasse/mathe/Vektoren Srdp.md",
     "3.Klasse/Nawi/Nukleobasen.md",
     "3.Klasse/Nawi/DNA und RNA.md",
     "3.Klasse/Nawi/Zucker in RNA und DNA.md",
@@ -150,7 +150,6 @@
     "3.Klasse/Nawi/Biochemie.md",
     "3.Klasse/Nawi/Zelle.md",
     "bilder/Vektoren Srdp 10-02-2025-10.excalidraw.md",
-    "3.Klasse/mathe/Vektoren Srdp.md",
     "bilder/Vektoren Srdp 10-02-2025-53.excalidraw.md",
     "3.Klasse/mathe/Vektoren.md",
     "3.Klasse/mathe/3kl mathe.md",
@@ -168,7 +167,6 @@
     "3.Klasse/englisch/table of content.md",
     "3.Klasse/nwt/Router Discovery.md",
     "3.Klasse/nwt/IPv6-Discovery.md",
-    "3.Klasse/nwt/3kl nwt.md",
     "bilder/Pasted Image 20250127123312_262.png",
     "bilder/Pasted Image 20250123135713_174.png",
     "bilder/Pasted Image 20250120102750_845.png",
