@@ -11,10 +11,14 @@
             "id": "d371dc963f9dc16e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/Nawi/Zelle.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Zelle"
             }
           }
         ]
@@ -141,6 +145,8 @@
   },
   "active": "d371dc963f9dc16e",
   "lastOpenFiles": [
+    "3.Klasse/Nawi/Biochemie.md",
+    "3.Klasse/Nawi/Zelle.md",
     "bilder/Vektoren Srdp 10-02-2025-10.excalidraw.md",
     "3.Klasse/mathe/Vektoren Srdp.md",
     "bilder/Vektoren Srdp 10-02-2025-53.excalidraw.md",
@@ -165,8 +171,6 @@
     "bilder/IPv6 Multicast 31-01-2025-36.excalidraw.md",
     "bilder/IPv6-Scopes 31-01-2025-20.excalidraw.md",
     "3.Klasse/nwt/ip v6.md",
-    "bilder/ip v6 31-01-2025-18.excalidraw.md",
-    "3.Klasse/ggp/AB Liberalismus und capitalismus.md",
     "bilder/Pasted Image 20250127123312_262.png",
     "bilder/Pasted Image 20250123135713_174.png",
     "bilder/Pasted Image 20250120102750_845.png",

@@ -3,6 +3,7 @@ tags:
   - nawi
   - 3te_Klasse
 ---
+[[Zelle]]
 Zellen Unterscheidung zu eukaryptoschen und prokaryontishen Zellen
 - Eukaryoten
 	- Zellkern
