@@ -72,4 +72,4 @@ $$y_{B}=35-32=3$$
 $\vec{BC} \cdot\vec{CD}=0$
 3)
 $\vec{DE},\vec{EF}$
-$(=| \vec{DE}|+|\vec{E})$
+$(=| \vec{DE}|+|\vec{EF}|)$
