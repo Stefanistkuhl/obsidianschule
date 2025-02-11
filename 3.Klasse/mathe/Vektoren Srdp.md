@@ -43,16 +43,33 @@ $$b:X=t+\binom{472.2}{279.4}+s*\binom{-6.4}{45.2}*$$
 $$b:X=\binom{-6.4}{45.2}*t+\binom{472.2}{279.4}$$
 $$a:X=\binom{387}{295}*t+\binom{22}{40}$$
 ![](https://i.imgur.com/wlfAm6W.png)
+3 einsätzen wär schön
 $$S=\binom{387}{295}+\binom{66}{120}=\binom{453}{415}$$
 3)
 ![](Vektoren%20Srdp%2010-02-2025-10.excalidraw.svg)
-$$\arccos (\frac{ \vec{a}*\vec{b}}{| \vec{a}*\vec{b}|})$$
+$$\arccos (\frac{| \vec{a}*\vec{b}|}{| \vec{a}|*|\vec{b}|})$$
 ![](https://i.imgur.com/vZNy28W.png)
 
 4)
 $$\vec{V_{a}}=\frac{1}{| \vec{v}|}*\vec{v}$$
 wobei vec v der Richtungsvektor zu a ist also vec v = (26. 10)
 #### Nähmaschiene \*(B_591)
-
 $$B=(X_{B}|Y_{B}|29)$$
-$$g:X=(-4|35|25)+\lambda (2,32,5)$$
+$$g:X=\begin{pmatrix}-4\\ 35\\ 25\end{pmatrix}+\lambda \begin{pmatrix}2 \\ 32 \\ 5 \end{pmatrix}$$
+1)
+$$\begin{pmatrix}
+x_{B} \\
+y_{B} \\
+20
+\end{pmatrix}= \begin{pmatrix}
+-4 \\ 35 \\ 25
+\end{pmatrix}+\lambda \begin{pmatrix}2 \\ 23 \\ 5\end{pmatrix}$$
+$$20 = 25+5|-25, :5patrix$$
+$$\lambda = -1$$
+$$X_{B}=-4-2=-6$$
+$$y_{B}=35-32=3$$
+2)
+$\vec{BC} \cdot\vec{CD}=0$
+3)
+$\vec{DE},\vec{EF}$
+$(=| \vec{DE}|+|\vec{E})$
