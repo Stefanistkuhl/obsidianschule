@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "AAHHHHHHH" >> ~/aaaaaaaa
+echo "AAHHHHHHH" >> ~/AHHHHHH
 cd ~/quartz
 npx quartz sync
