@@ -33,11 +33,12 @@ $$\vec{F_{G}}=\binom{-1}{3}$$(Abgelesen)
 
 1)
 ![](Vektoren%20Srdp%2010-02-2025-53.excalidraw.svg)
-$$b:X=\vec{a}*t+p$$
+$$A=(427,273)$$
+$$P=(472.2, 279.4)$$
 $$\vec{AP}=\binom{472.2-427}{279.4-273}=\binom{45.2}{6.4}$$
-Kompenentauschen und ein vorzeichen ändern um den Richtigen Normalvektor zu haben
-$$\vec{a}=\binom{-6.4}{45.2}$$
-$$b:X=\binom{-6.4}{45.2}*t+\binom{472.2}{279.4}$$
+Komponenten tau und ein vorzeichen ändern um den Richtigen Normalvektor zu haben weil wie man in der angabe sieht würd b enf horizontal weiter gehen
+$$\vec{AP}=\binom{-6.4}{45.2}$$
+$$b:X=t+\binom{472.2}{279.4}+s*\binom{-6.4}{45.2}*$$
 2)
 $$b:X=\binom{-6.4}{45.2}*t+\binom{472.2}{279.4}$$
 $$a:X=\binom{387}{295}*t+\binom{22}{40}$$

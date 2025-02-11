@@ -11,10 +11,14 @@
             "id": "cd22d9ad68433166",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/mathe/Vektoren Srdp.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Vektoren Srdp"
             }
           }
         ]
