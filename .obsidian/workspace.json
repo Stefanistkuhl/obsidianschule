@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "3.Klasse/nwt/SLAAC Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "SLAAC Overview"
             }
           }
         ]
@@ -145,6 +145,11 @@
   },
   "active": "2e8462bfb0e174e5",
   "lastOpenFiles": [
+    "3.Klasse/nwt/SLAAC.md",
+    "3.Klasse/nwt/SLAAC Overview.md",
+    "Untitled.md",
+    "3.Klasse/nwt/3kl nwt.md",
+    "index.md",
     "quartz-sync.sh~",
     "TEST",
     "quartz-sync.sh",
@@ -153,7 +158,6 @@
     "3.Klasse/mathe/Vektoren Srdp.md",
     "3.Klasse/mathe/Vektoren rechenoperationen.md",
     "3.Klasse/medt/Podcasttrailer.md",
-    "index.md",
     "3.Klasse/itsi/Asymetrische Verschlüsselung.md",
     "3.Klasse/itsi/Kryptografie.md",
     "3.Klasse/nwt/Layer 3 swtich using switched virtual Interfaces (SVIs).md",
@@ -172,9 +176,6 @@
     "ob/3.Klasse/Nawi/Zucker in RNA und DNA.md",
     "3.Klasse/Nawi/Zucker in RNA und DNA.md",
     "3.Klasse/itsi/AES.md",
-    "Layer.md",
-    "3.Klasse/nwt/Netzwerktiger.md",
-    "3.Klasse/Nawi/DNA und RNA.md",
     "bilder/Zur Erinnerung Plattenkondensator 25-04-2024-38.excalidraw.svg",
     "bilder/Zucker in RNA und DNA 10-02-2025-02.excalidraw.svg",
     "bilder/Wirtschaftssektoren Zettel 13-01-2025-44.excalidraw.svg",
@@ -189,7 +190,6 @@
     "3.Klasse/itsi/aufgaben/ctf/protokoll/a/ziaOrlro",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/a/server.py",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/a/ziA1Iigq",
-    "3.Klasse/itsi/aufgaben/ctf/protokoll/a/lse_GrumpyCat",
-    "3.Klasse/itsi/aufgaben/ctf/protokoll/a/lse_CheerfulOtter"
+    "3.Klasse/itsi/aufgaben/ctf/protokoll/a/lse_GrumpyCat"
   ]
 }
