@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/nwt/SLAAC Overview.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SLAAC Overview"
+              "title": "index"
             }
           }
         ]
@@ -145,8 +145,8 @@
   },
   "active": "2e8462bfb0e174e5",
   "lastOpenFiles": [
-    "3.Klasse/nwt/SLAAC.md",
     "3.Klasse/nwt/SLAAC Overview.md",
+    "3.Klasse/nwt/SLAAC.md",
     "Untitled.md",
     "3.Klasse/nwt/3kl nwt.md",
     "index.md",
