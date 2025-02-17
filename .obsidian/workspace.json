@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "043672c71b8d2eca",
+        "id": "920bd427f782035a",
         "type": "tabs",
         "children": [
           {
-            "id": "2e8462bfb0e174e5",
+            "id": "ccd79f064e89c7b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/ggp/Globalisierung.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Globalisierung"
-            }
-          },
-          {
-            "id": "8a73eada41a41cf8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/Globalisierung 17-02-2025-35.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Globalisierung 17-02-2025-35.excalidraw"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,13 +139,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8a73eada41a41cf8",
+  "active": "ccd79f064e89c7b9",
   "lastOpenFiles": [
+    "3.Klasse/mathe/Vektoren.md",
+    "3.Klasse/ggp/Globalisierung.md",
+    "bilder/Globalisierung 17-02-2025-35.excalidraw.md",
     "bilder/Pasted Image 20250217103146_841.png",
     "bilder/Pasted Image 20250217103105_262.png",
-    "3.Klasse/ggp/Globalisierung.md",
     "bilder/Globalisierung 17-02-2025-35.excalidraw.svg",
-    "bilder/Globalisierung 17-02-2025-35.excalidraw.md",
     "3.Klasse/ggp/3kl GGP.md",
     "3.Klasse/ggp/Sektoraler Wandel soziale und ökologische Auswirkungen.md",
     "bilder/Sektoraler Wandel soziale und ökologische Auswirkungen 20-01-2025-31.excalidraw.md",
@@ -198,7 +182,6 @@
     "bilder/vlans 27-09-2024-53.excalidraw.svg",
     "bilder/Vektoren Wichtige Anwendungen aus der Naturwissenscahft und Technik 27-01-2025-57.excalidraw.svg",
     "bilder/Vektoren Srdp 27-01-2025-08.excalidraw.svg",
-    "bilder/Vektoren Srdp 10-02-2025-53.excalidraw.svg",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/a/GRP-7-Tremurici-Fürst-Lab-5.zip",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/a/ziaOrlro",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/a/server.py",
