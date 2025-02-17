@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "3.Klasse/ggp/Globalisierung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Globalisierung"
+            }
+          },
+          {
+            "id": "8a73eada41a41cf8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/Globalisierung 17-02-2025-35.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Globalisierung 17-02-2025-35.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,15 +156,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2e8462bfb0e174e5",
+  "active": "8a73eada41a41cf8",
   "lastOpenFiles": [
+    "bilder/Pasted Image 20250217103146_841.png",
+    "bilder/Pasted Image 20250217103105_262.png",
+    "3.Klasse/ggp/Globalisierung.md",
+    "bilder/Globalisierung 17-02-2025-35.excalidraw.svg",
+    "bilder/Globalisierung 17-02-2025-35.excalidraw.md",
+    "3.Klasse/ggp/3kl GGP.md",
+    "3.Klasse/ggp/Sektoraler Wandel soziale und ökologische Auswirkungen.md",
+    "bilder/Sektoraler Wandel soziale und ökologische Auswirkungen 20-01-2025-31.excalidraw.md",
+    "bilder/Sektoraler Wandel soziale und ökologische Auswirkungen 20-01-2025-31.excalidraw.svg",
+    "3.Klasse/ggp/aufklärung.md",
+    "3.Klasse/ggp/arbeitsblatt BIP.md",
+    "index.md",
     "quartz-sync.sh~",
     "3.Klasse/nwt/RSTP Rapid Spanning Tree Protocol.md",
     "3.Klasse/nwt/Per-Vlan Spanning Tree.md",
     "3.Klasse/nwt/Spanning Tree bsp.md",
     "3.Klasse/nwt/Ah yes 20 millionen cisco sachen.md",
-    "3.Klasse/ggp/3kl GGP.md",
-    "index.md",
     "3.Klasse/nwt/SLAAC.md",
     "README.md",
     "3.Klasse/englisch/table of content.md",
@@ -169,12 +192,6 @@
     "3.Klasse/itsi/Kryptografie.md",
     "3.Klasse/nwt/Layer 3 swtich using switched virtual Interfaces (SVIs).md",
     "Layer 3 swtich using switched virtual Interfaces (SVIs.md",
-    "3.Klasse/itsi/Itsi.md",
-    "3.Klasse/nwt/vlan definition.md",
-    "3.Klasse/itsi/aufgaben/ctf/priv esc diassater.md",
-    "3.Klasse/itsi/aufgaben/ctf/itsi ctf.md",
-    "3.Klasse/mathe/Vektoren in GeoGebra.md",
-    "3.Klasse/itsi/Klassifizierunsstufen.md",
     "bilder/Zur Erinnerung Plattenkondensator 25-04-2024-38.excalidraw.svg",
     "bilder/Zucker in RNA und DNA 10-02-2025-02.excalidraw.svg",
     "bilder/Wirtschaftssektoren Zettel 13-01-2025-44.excalidraw.svg",
@@ -182,9 +199,6 @@
     "bilder/Vektoren Wichtige Anwendungen aus der Naturwissenscahft und Technik 27-01-2025-57.excalidraw.svg",
     "bilder/Vektoren Srdp 27-01-2025-08.excalidraw.svg",
     "bilder/Vektoren Srdp 10-02-2025-53.excalidraw.svg",
-    "bilder/Vektoren Srdp 10-02-2025-10.excalidraw.svg",
-    "bilder/Vektoren im Raum 10-02-2025-55.excalidraw.svg",
-    "bilder/Vektoren 14-01-2025-30.excalidraw.svg",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/a/GRP-7-Tremurici-Fürst-Lab-5.zip",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/a/ziaOrlro",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/a/server.py",

@@ -29,6 +29,6 @@ Ideen:
 	- Staat behandelt Büger gleich egal welche Religion 
 [Video](https://youtu.be/F3i6D2bON4A?si=3yYkNx3H6snvnWmC)
 
-![](Pasted%20image%2020241024142302.png.excalidraw.svg)
+![](Pasted%20image%2020241024142302.png)
 
 [[ggp test zettel fragen beatworten]]

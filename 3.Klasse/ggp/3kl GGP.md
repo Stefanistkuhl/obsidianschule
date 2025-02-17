@@ -16,3 +16,4 @@ tags:
 [[industrile revolutionen dlc]]
 [[Sektoraler Wandel soziale und ökologische Auswirkungen]]
 [[AB Liberalismus und capitalismus]]
+[[Globalisierung]]
