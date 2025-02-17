@@ -1,3 +1,3 @@
 # hier das auf github pages
 
-https://stefanistkuhl.github.io/quartz/
+https://stefanistkuhl.github.io/obsidian/
