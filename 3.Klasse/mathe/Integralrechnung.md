@@ -8,5 +8,9 @@ tags:
 ![](Integralrechnung%2017-02-2025-09.excalidraw.svg)
 Bsp:
 $$f(x)=x+2$$
-$$\int_{1}^{3}dx= $$
+$$\int_{1}^{3}dx= \frac{(3+5)*2}{2}=8 FE$$
+Weil is ein Trapez die fläche darunter wenn skill issue enf in ein rechtwinkleiges dreiceck und ein 4eck aufteilen
+Fe ... Flächeneinheit
 ![](https://i.imgur.com/fKEdOky.png)
+Bsp
+$$f(x)=\begin{cases}3, falls x if 2 \\ -x+5,if x \geq 2\end{cases}$$
