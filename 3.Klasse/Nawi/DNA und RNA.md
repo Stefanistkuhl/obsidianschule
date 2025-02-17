@@ -10,3 +10,5 @@ Sowohl DNA als auch RNA sind aus einer langen Abfolge von vier Bausteilen aufgeb
 
 [[Zucker in RNA und DNA]]
 [[Nukleobasen]]
+[[DNA-Baustein (Nucleoid)]]
+[[DNA-Strang (Ausschnitt)]]
