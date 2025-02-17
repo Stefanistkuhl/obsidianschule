@@ -3,11 +3,11 @@ tags:
   - medt
   - 3te_Klasse
 ---
-# Podcast Trailer: Elden News
+# Podcast Trailer: Elden Ring: Am Limit
 
 ## Über den Podcast
 
-Willkommen bei Elden News! In diesem Podcast dreht sich alles um Elden Ring Hitless Runs und alles, was dazugehört. Hier findest du die neuesten Informationen zu Strategien für Bosskämpfe, Running-Sessions, Boss-Kills, vollständige Runs und den Fortschritt von Runnern in ihren Runs.
+Willkommen bei Elden Ring: Am Limit! In diesem Podcast dreht sich alles um Elden Ring Hitless Runs und alles, was dazugehört. Hier findest du die neuesten Informationen zu Strategien für Bosskämpfe, Running-Sessions, Boss-Kills, vollständige Runs und den Fortschritt von Runnern in ihren Runs.
 
 ## Was du erwarten kannst
 
@@ -33,3 +33,5 @@ Willkommen bei Elden News! In diesem Podcast dreht sich alles um Elden Ring Hitl
 ## Hör rein!
 
 Du bist interessiert? Folge uns auf der Podcast-Plattform deiner Wahl oder abonniere den RSS-Feed direkt. Ich freue mich auf dich!
+
+[[scheiß podcasttrailer script kaka]]

@@ -11,10 +11,14 @@
             "id": "ccd79f064e89c7b9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "scheiß podcasttrailer script kaka.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "scheiß podcasttrailer script kaka"
             }
           }
         ]
@@ -141,6 +145,8 @@
   },
   "active": "ccd79f064e89c7b9",
   "lastOpenFiles": [
+    "3.Klasse/medt/Podcasttrailer.md",
+    "scheiß podcasttrailer script kaka.md",
     "3.Klasse/mathe/Vektoren.md",
     "3.Klasse/ggp/Globalisierung.md",
     "bilder/Globalisierung 17-02-2025-35.excalidraw.md",
@@ -171,11 +177,9 @@
     "workflows",
     "3.Klasse/mathe/Vektoren Srdp.md",
     "3.Klasse/mathe/Vektoren rechenoperationen.md",
-    "3.Klasse/medt/Podcasttrailer.md",
     "3.Klasse/itsi/Asymetrische Verschlüsselung.md",
     "3.Klasse/itsi/Kryptografie.md",
     "3.Klasse/nwt/Layer 3 swtich using switched virtual Interfaces (SVIs).md",
-    "Layer 3 swtich using switched virtual Interfaces (SVIs.md",
     "bilder/Zur Erinnerung Plattenkondensator 25-04-2024-38.excalidraw.svg",
     "bilder/Zucker in RNA und DNA 10-02-2025-02.excalidraw.svg",
     "bilder/Wirtschaftssektoren Zettel 13-01-2025-44.excalidraw.svg",
