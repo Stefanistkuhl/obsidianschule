@@ -14,4 +14,4 @@ tags:
 | 68/69                   | 70+ if/sheet                 | 72/73                                                     | 74-75                                    |
 | 20/1                    | Adj/adved,Antonomys          | p76-79                                                    | Tech pages:p82/83<br>1,3                 |
 |                         |                              |                                                           | finish 2 90/91<br>4a/b p92               |
-|                         |                              |                                                           |                                          |
+|                         |                              |                                                           | p94-95                                   |

@@ -4,8 +4,6 @@ tags:
   - ggp
 ---
 [[aufklärung]]
-![](Pasted%20image%2020240919134221.png.excalidraw.svg)
-
 [[wirschaft thingy]]
 [[Volkswirtschaften]]
 [[USA-Demokratie]]
