@@ -12,3 +12,5 @@ Sowohl DNA als auch RNA sind aus einer langen Abfolge von vier Bausteilen aufgeb
 [[Nukleobasen]]
 [[DNA-Baustein (Nucleoid)]]
 [[DNA-Strang (Ausschnitt)]]
+[[RNA-Strang]]
+[[5'→3'-Richtung]]
