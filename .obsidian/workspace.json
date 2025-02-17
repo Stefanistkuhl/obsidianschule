@@ -139,17 +139,18 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "2e8462bfb0e174e5",
   "lastOpenFiles": [
+    "quartz-sync.sh~",
     "3.Klasse/nwt/SLAAC Overview.md",
     "3.Klasse/nwt/SLAAC.md",
     "Untitled.md",
     "3.Klasse/nwt/3kl nwt.md",
     "index.md",
-    "quartz-sync.sh~",
     "TEST",
     "quartz-sync.sh",
     "aaaaaaaa",
@@ -174,7 +175,6 @@
     "ob/3.Klasse/nwt/Layer 3 swtich using switched virtual Interfaces (SVIs).md",
     "ob/3.Klasse/Nawi/Zucker in RNA und DNA.md",
     "3.Klasse/Nawi/Zucker in RNA und DNA.md",
-    "3.Klasse/itsi/AES.md",
     "bilder/Zur Erinnerung Plattenkondensator 25-04-2024-38.excalidraw.svg",
     "bilder/Zucker in RNA und DNA 10-02-2025-02.excalidraw.svg",
     "bilder/Wirtschaftssektoren Zettel 13-01-2025-44.excalidraw.svg",
