@@ -1,3 +1,8 @@
+---
+tags:
+  - medt
+  - 3te_Klasse
+---
 [Intro-Musik mit Elden Ring-Atmosphäre]
 
 **Sprecher:** Willkommen bei Elden Ring: Am Limit, dem Podcast für alle, die von Elden Ring Hitless Runs fasziniert sind!

@@ -5,6 +5,7 @@ tags:
 ---
 > Mit einem Ingeral berechnet man die Fläche zwischen Funktionsgraph und x-Achse
 
+[[Unter und Obersumme]]
 ![](Integralrechnung%2017-02-2025-09.excalidraw.svg)
 Bsp:
 $$f(x)=x+2$$
@@ -22,4 +23,4 @@ $$f(x)=x^2$$
 Wollen
 $$\int_{0}^{4}f(x)  \, dx $$
 bestimmen
-Untersumme: Man zerlegt das Intervall in mehre gelich große Teilintervalle. Man nimmt den kleinsten Fktwerkt eines jeden Teilintervalls als Höhe eines Rechtecks und die Teilintervalllänger als Breite.
+
