@@ -13,4 +13,13 @@ Weil is ein Trapez die fläche darunter wenn skill issue enf in ein rechtwinklei
 Fe ... Flächeneinheit
 ![](https://i.imgur.com/fKEdOky.png)
 Bsp
-$$f(x)=\begin{cases}3, falls x if 2 \\ -x+5,if x \geq 2\end{cases}$$
+$$f(x)=\begin{cases}3, if x \leq2 \\ -x+5,if x \geq 2\end{cases}$$
+![](Integralrechnung%2018-02-2025-34.excalidraw.svg)
+$$\int_{0}^{4} f(x)dx = 2*3+4=10$$
+
+Bsp:
+$$f(x)=x^2$$
+Wollen
+$$\int_{0}^{4}f(x)  \, dx $$
+bestimmen
+Untersumme: Man zerlegt das Intervall in mehre gelich große Teilintervalle. Man nimmt den kleinsten Fktwerkt eines jeden Teilintervalls als Höhe eines Rechtecks und die Teilintervalllänger als Breite.

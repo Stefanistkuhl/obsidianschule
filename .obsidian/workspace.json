@@ -4,33 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "b46dcce21835744a",
+        "id": "9d81559a5d0c9347",
         "type": "tabs",
         "children": [
           {
-            "id": "13f11eb34d57cc67",
+            "id": "1d7b2b433d9fa202",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/Nawi/5'→3'-Richtung.md",
+                "file": "3.Klasse/mathe/Integralrechnung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5'→3'-Richtung"
+              "title": "Integralrechnung"
             }
           },
           {
-            "id": "4e8717d665377bc9",
+            "id": "af1a3b241058a5fc",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "bilder/5'→3'-Richtung 17-02-2025-25.excalidraw.md"
+                "file": "bilder/Integralrechnung 18-02-2025-34.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "5'→3'-Richtung 17-02-2025-25.excalidraw"
+              "title": "Integralrechnung 18-02-2025-34.excalidraw"
             }
           }
         ]
@@ -155,8 +155,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "13f11eb34d57cc67",
+  "active": "1d7b2b433d9fa202",
   "lastOpenFiles": [
+    "bilder/Integralrechnung 18-02-2025-34.excalidraw.md",
+    "3.Klasse/mathe/Integralrechnung.md",
+    "bilder/Integralrechnung 18-02-2025-34.excalidraw.svg",
     "bilder/5'→3'-Richtung 17-02-2025-25.excalidraw.md",
     "3.Klasse/Nawi/5'→3'-Richtung.md",
     "bilder/5'→3'-Richtung 17-02-2025-25.excalidraw.svg",
@@ -171,7 +174,6 @@
     "3.Klasse/Nawi/DNA-Baustein (Nucleoid).md",
     "bilder/DNA-Baustein (Nucleoid) 17-02-2025-48.excalidraw.svg",
     "3.Klasse/Nawi/Nukleobasen.md",
-    "3.Klasse/mathe/Integralrechnung.md",
     "bilder/Integralrechnung 17-02-2025-09.excalidraw.md",
     "bilder/Integralrechnung 17-02-2025-09.excalidraw.svg",
     "3.Klasse/mathe/3kl mathe.md",
@@ -191,12 +193,10 @@
     "3.Klasse/ggp/arbeitsblatt BIP.md",
     "index.md",
     "quartz-sync.sh~",
-    "3.Klasse/nwt/RSTP Rapid Spanning Tree Protocol.md",
     "TEST",
     "quartz-sync.sh",
     "aaaaaaaa",
     "workflows",
-    "bilder/Zur Erinnerung Plattenkondensator 25-04-2024-38.excalidraw.svg",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/a/GRP-7-Tremurici-Fürst-Lab-5.zip",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/a/ziaOrlro",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/a/server.py",
