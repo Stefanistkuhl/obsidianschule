@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "vienna by bike bsp"
             }
-          },
-          {
-            "id": "423ddb030dc75798",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/vienna by bike bsp 19-02-2025-09.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "vienna by bike bsp 19-02-2025-09.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,11 +143,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "423ddb030dc75798",
+  "active": "4191e754eb7e5045",
   "lastOpenFiles": [
+    "bilder/vienna by bike bsp 19-02-2025-09.excalidraw.md",
     "3.Klasse/insy/vienna by bike bsp.md",
     "bilder/vienna by bike bsp 19-02-2025-09.excalidraw.svg",
-    "bilder/vienna by bike bsp 19-02-2025-09.excalidraw.md",
     "3.Klasse/insy/3kl insy.md",
     "3.Klasse/insy/Insy.md",
     "bilder/Integralrechnung 18-02-2025-12.excalidraw.md",
