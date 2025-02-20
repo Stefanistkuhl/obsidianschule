@@ -17,3 +17,4 @@ tags:
 [[Sektoraler Wandel soziale und ökologische Auswirkungen]]
 [[AB Liberalismus und capitalismus]]
 [[Globalisierung]]
+[[Marxismus]]
