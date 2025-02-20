@@ -33,7 +33,7 @@ Nutzeraufteilung
 
 - Wie können Nutzer zussamengefasst werden?
 	- mit Gruppen
-		- organisatorische
+		- korganisatorische
 			- Unterteilen in Origanisazionenstrukturen
 				- zb 3AHITN
 		- Sicherheit
