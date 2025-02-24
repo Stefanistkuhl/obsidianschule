@@ -11,10 +11,12 @@
             "id": "9fe3d1d18089dfaa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/Globalisierung 17-02-2025-35.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Globalisierung 17-02-2025-35.excalidraw"
             }
           }
         ]
@@ -141,6 +143,7 @@
   },
   "active": "9fe3d1d18089dfaa",
   "lastOpenFiles": [
+    "3.Klasse/ggp/Globalisierung.md",
     "3.Klasse/englisch/table of content.md",
     "3.Klasse/ggp/Marxismus.md",
     "3.Klasse/ggp/Sozialen Frage.md",
@@ -172,7 +175,6 @@
     "bilder/DNA-Baustein (Nucleoid) 17-02-2025-48.excalidraw.md",
     "bilder/DNA-Strang (Ausschnitt) 17-02-2025-20.excalidraw.md",
     "bilder/DNA-Strang (Ausschnitt) 17-02-2025-20.excalidraw.svg",
-    "3.Klasse/Nawi/DNA-Strang (Ausschnitt).md",
     "bilder/RNA-Strang 17-02-2025-09.excalidraw.svg",
     "bilder/DNA-Baustein (Nucleoid) 17-02-2025-48.excalidraw.svg",
     "bilder/Integralrechnung 17-02-2025-09.excalidraw.svg",
