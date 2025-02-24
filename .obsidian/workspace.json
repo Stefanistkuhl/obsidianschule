@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "9f1ecdd29bfb1c84",
+        "id": "53c648640b8d333a",
         "type": "tabs",
         "children": [
           {
-            "id": "9fe3d1d18089dfaa",
+            "id": "d441271eaec5d2bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/mathe/Stammfunktion & unbestimmtes Integral.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stammfunktion & unbestimmtes Integral"
+            }
+          },
+          {
+            "id": "c4a39d7a2a421320",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "bilder/Globalisierung 17-02-2025-35.excalidraw.md"
+                "file": "bilder/Stammfunktion & unbestimmtes Integral 24-02-2025-21.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Globalisierung 17-02-2025-35.excalidraw"
+              "title": "Stammfunktion & unbestimmtes Integral 24-02-2025-21.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,8 +156,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9fe3d1d18089dfaa",
+  "active": "c4a39d7a2a421320",
   "lastOpenFiles": [
+    "3.Klasse/mathe/Stammfunktion & unbestimmtes Integral.md",
+    "bilder/Stammfunktion & unbestimmtes Integral 24-02-2025-21.excalidraw.svg",
+    "bilder/Stammfunktion & unbestimmtes Integral 24-02-2025-21.excalidraw.md",
+    "bilder/Globalisierung 17-02-2025-35.excalidraw.md",
     "3.Klasse/ggp/Globalisierung.md",
     "3.Klasse/englisch/table of content.md",
     "3.Klasse/ggp/Marxismus.md",
@@ -169,16 +188,11 @@
     "bilder/Integralrechnung 18-02-2025-34.excalidraw.md",
     "bilder/Integralrechnung 18-02-2025-34.excalidraw.svg",
     "bilder/5'→3'-Richtung 17-02-2025-25.excalidraw.md",
-    "3.Klasse/Nawi/5'→3'-Richtung.md",
     "bilder/5'→3'-Richtung 17-02-2025-25.excalidraw.svg",
-    "3.Klasse/Nawi/DNA und RNA.md",
-    "bilder/DNA-Baustein (Nucleoid) 17-02-2025-48.excalidraw.md",
-    "bilder/DNA-Strang (Ausschnitt) 17-02-2025-20.excalidraw.md",
     "bilder/DNA-Strang (Ausschnitt) 17-02-2025-20.excalidraw.svg",
     "bilder/RNA-Strang 17-02-2025-09.excalidraw.svg",
     "bilder/DNA-Baustein (Nucleoid) 17-02-2025-48.excalidraw.svg",
     "bilder/Integralrechnung 17-02-2025-09.excalidraw.svg",
-    "bilder/Pasted Image 20250217103146_841.png",
     "quartz-sync.sh~",
     "TEST",
     "quartz-sync.sh",
