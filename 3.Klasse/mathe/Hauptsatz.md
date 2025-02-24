@@ -9,3 +9,9 @@ $$\int_{a}^{b}f(x)  \, dx=F(b)-F(a)=[F(x)]_{a}^{b}=F(x)|_{a}^{b} $$
 $$\int_{0}^{3}x^2  \, dx =\frac{x^3}{3}|_{0}^{3}=\frac{3^3}{3}-\frac{0^3}{3}=9$$
 c)
 $$\int_{-2}^{2}*t^3  \, dt = \frac{t^4}{4}|_{-2}^{2}=\frac{2^4}{4}-\frac{(-2)^4}{4}=0$$
+![](Hauptsatz%2024-02-2025-43.excalidraw.svg)
+fläche über und unterhalb der x achse gleicht sich aus deshalb 0 als ergebnis
+d)
+$$\int_{-2}^{0}x^3  \, dx =\frac{x^4}{4}|_{-2}^{0}=\frac{0^4}{4}-\frac{(-2)^4}{4}=-4$$
+f)
+$$$\int_{1}^{2} x^{-3} \, dx = \frac{x^{-2}}{-2}|_{1}^{2}=0.375$$
