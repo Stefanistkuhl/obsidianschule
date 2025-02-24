@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "53c648640b8d333a",
+        "id": "35d2d037eabf3597",
         "type": "tabs",
         "children": [
           {
-            "id": "d441271eaec5d2bf",
+            "id": "441e4fb7ea0a19ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/mathe/Stammfunktion & unbestimmtes Integral.md",
+                "file": "3.Klasse/mathe/Hauptsatz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stammfunktion & unbestimmtes Integral"
-            }
-          },
-          {
-            "id": "c4a39d7a2a421320",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/Stammfunktion & unbestimmtes Integral 24-02-2025-21.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Stammfunktion & unbestimmtes Integral 24-02-2025-21.excalidraw"
+              "title": "Hauptsatz"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,11 +143,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c4a39d7a2a421320",
+  "active": "441e4fb7ea0a19ee",
   "lastOpenFiles": [
+    "Untitled.md",
+    "3.Klasse/mathe/Hauptsatz.md",
+    "3.Klasse/mathe/Grundintegrale.md",
+    "3.Klasse/mathe/unbestimmtes Integral.md",
+    "bilder/unbestimmtes Integral 24-02-2025-16.excalidraw.md",
+    "bilder/unbestimmtes Integral 24-02-2025-16.excalidraw.svg",
     "3.Klasse/mathe/Stammfunktion & unbestimmtes Integral.md",
-    "bilder/Stammfunktion & unbestimmtes Integral 24-02-2025-21.excalidraw.svg",
     "bilder/Stammfunktion & unbestimmtes Integral 24-02-2025-21.excalidraw.md",
+    "bilder/Stammfunktion & unbestimmtes Integral 24-02-2025-21.excalidraw.svg",
     "bilder/Globalisierung 17-02-2025-35.excalidraw.md",
     "3.Klasse/ggp/Globalisierung.md",
     "3.Klasse/englisch/table of content.md",
@@ -181,18 +174,13 @@
     "3.Klasse/mathe/Unter und Obersumme.md",
     "3.Klasse/medt/scheiß podcasttrailer script kaka.md",
     "3.Klasse/mathe/Integralrechnung.md",
-    "bilder/Integralrechnung 18-02-2025-13.excalidraw.md",
     "bilder/Integralrechnung 18-02-2025-12.excalidraw.svg",
-    "ur.md",
     "bilder/Integralrechnung 18-02-2025-13.excalidraw.svg",
-    "bilder/Integralrechnung 18-02-2025-34.excalidraw.md",
     "bilder/Integralrechnung 18-02-2025-34.excalidraw.svg",
-    "bilder/5'→3'-Richtung 17-02-2025-25.excalidraw.md",
     "bilder/5'→3'-Richtung 17-02-2025-25.excalidraw.svg",
     "bilder/DNA-Strang (Ausschnitt) 17-02-2025-20.excalidraw.svg",
     "bilder/RNA-Strang 17-02-2025-09.excalidraw.svg",
     "bilder/DNA-Baustein (Nucleoid) 17-02-2025-48.excalidraw.svg",
-    "bilder/Integralrechnung 17-02-2025-09.excalidraw.svg",
     "quartz-sync.sh~",
     "TEST",
     "quartz-sync.sh",
