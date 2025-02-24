@@ -15,3 +15,4 @@ tags:
 | 20/1                    | Adj/adved,Antonomys          | p76-79                                                    | Tech pages:p82/83<br>1,3                 |
 |                         |                              |                                                           | finish 2 90/91<br>4a/b p92               |
 |                         |                              |                                                           | p94-95                                   |
+|                         |                              |                                                           | shark tank "wise socks"<br>96/97         |
