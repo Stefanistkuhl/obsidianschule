@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "3.Klasse/nwt/stp test prac.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "stp test prac"
             }
           }
         ]
@@ -137,11 +137,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "298c7828501641dc",
   "lastOpenFiles": [
+    "3.Klasse/nwt/test prac.md",
+    "3.Klasse/nwt/stp test prac.md",
+    "3.Klasse/nwt/3kl nwt.md",
+    "index.md",
     "3.Klasse/insy/vienna by bike bsp.md",
     "3.Klasse/insy/2.Normalform.md",
     "3.Klasse/mathe/Hauptsatz.md",
@@ -168,10 +175,6 @@
     "3.Klasse/itsi/Itsi.md",
     "bilder/vienna by bike bsp 19-02-2025-09.excalidraw.md",
     "bilder/vienna by bike bsp 19-02-2025-09.excalidraw.svg",
-    "3.Klasse/insy/3kl insy.md",
-    "3.Klasse/insy/Insy.md",
-    "bilder/Integralrechnung 18-02-2025-12.excalidraw.md",
-    "3.Klasse/mathe/Unter und Obersumme.md",
     "bilder/Integralrechnung 18-02-2025-12.excalidraw.svg",
     "bilder/Integralrechnung 18-02-2025-13.excalidraw.svg",
     "bilder/Integralrechnung 18-02-2025-34.excalidraw.svg",
