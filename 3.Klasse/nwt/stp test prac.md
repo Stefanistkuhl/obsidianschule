@@ -9,6 +9,7 @@ RSTP schnella obvi
 
 bla bla bla basic shit
 - DP (Designated Port)
+	- forwarding state
 - RP (Root port)
 	- port zur root bridge
 - B (Blocked Port/Alternated Port)
@@ -30,6 +31,11 @@ bla bla bla basic shit
 		8. ![](https://i.imgur.com/qZPriUe.png)
 		9. obvi wenn gwschw schneller auch anders
 4. bestimmen offen oder blocked → bridge id obvi wida kleiner gleich beas rafiniert und deshalb nd geblocked
+	1. wenn alles gleich niedrigere port numma was zu der niedrigeren verunden ist
+	2. nachbar ist tiebreaker
+5. jede kollisiosn domäne hat 1 designated port
+
+![](https://i.imgur.com/r4GItW9.png)
 
 ### PVST (Per-VLAN Spanning Tree)
 
