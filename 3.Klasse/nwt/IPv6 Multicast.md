@@ -9,7 +9,7 @@ tags:
 ff02::1 ... alle Ipv6 Hosts
 ff02::2 ... alle Ipv6 Router
 ff02::1:2 ... alle DHCPv6-Server
-ff0E::FB ... alle DNSb6-Server
+ff0E::FB ... alle DNSv6-Server
 ff0E::101 ... alle NTP-Server
 ARP → ICMPv6 (ND,DAD)
 DHCP → ICMPv6

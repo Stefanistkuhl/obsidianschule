@@ -13,6 +13,4 @@ tags:
 Problem der EUI64 Adresse gibt es die Privatsfähred erweiterung was randoom sachen added um die 64bit zu bilden
 
 [[IPv6 Multicast]]
-
-
 [[IPv6-Scopes]]
