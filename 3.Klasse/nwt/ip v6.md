@@ -14,3 +14,4 @@ Problem der EUI64 Adresse gibt es die Privatsfähred erweiterung was randoom sac
 
 [[IPv6 Multicast]]
 [[IPv6-Scopes]]
+[[IPv6 Neighbour Discovery]]
