@@ -18,3 +18,4 @@ tags:
 [[AB Liberalismus und capitalismus]]
 [[Globalisierung]]
 [[Marxismus]]
+[[Sozialdemokratie]]
