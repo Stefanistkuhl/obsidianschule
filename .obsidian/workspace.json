@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a1ea3c61cfed58f0",
+        "id": "62268f3518fb21b8",
         "type": "tabs",
         "children": [
           {
-            "id": "298c7828501641dc",
+            "id": "12bd59ed1099c3d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/ggp/Sozialdemokratie.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Sozialdemokratie"
-            }
-          },
-          {
-            "id": "a13793b90a0a161f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/Sozialdemokratie 27-02-2025-01.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Sozialdemokratie 27-02-2025-01.excalidraw"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,12 +139,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a13793b90a0a161f",
+  "active": "12bd59ed1099c3d9",
   "lastOpenFiles": [
-    "bilder/Pasted Image 20250227141937_271.png",
     "3.Klasse/ggp/Sozialdemokratie.md",
-    "bilder/Sozialdemokratie 27-02-2025-01.excalidraw.svg",
     "bilder/Sozialdemokratie 27-02-2025-01.excalidraw.md",
+    "3.Klasse/ggp/Solidarität.md",
+    "bilder/Pasted Image 20250227141937_271.png",
+    "bilder/Sozialdemokratie 27-02-2025-01.excalidraw.svg",
     "3.Klasse/ggp/3kl GGP.md",
     "3.Klasse/ggp/Marxismus.md",
     "3.Klasse/itsi/NTFS Dateiberechtigungen.md",
@@ -193,7 +177,6 @@
     "bilder/Integralrechnung 18-02-2025-13.excalidraw.svg",
     "bilder/Integralrechnung 18-02-2025-34.excalidraw.svg",
     "bilder/5'→3'-Richtung 17-02-2025-25.excalidraw.svg",
-    "bilder/DNA-Strang (Ausschnitt) 17-02-2025-20.excalidraw.svg",
     "quartz-sync.sh~",
     "TEST",
     "quartz-sync.sh",
