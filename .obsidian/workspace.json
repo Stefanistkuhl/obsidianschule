@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "704878053419c617",
+        "id": "a4bb5711487dde1c",
         "type": "tabs",
         "children": [
           {
-            "id": "94c13365f7e6418b",
+            "id": "bc92c275e153643f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Zeichnungen/DR28-02-2025-46.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "DR28-02-2025-46.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -141,12 +139,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "94c13365f7e6418b",
+  "active": "bc92c275e153643f",
   "lastOpenFiles": [
+    "Zeichnungen/DR28-02-2025-46.excalidraw.md",
     "Zeichnungen/DR28-02-2025-46.excalidraw.png",
     "Zeichnungen/DR28-02-2025-35.excalidraw.md",
     "Zeichnungen/DR28-02-2025-35.excalidraw.png",
-    "Zeichnungen/DR28-02-2025-46.excalidraw.md",
     "Zeichnungen/DR28-02-2025-35.excalidraw.svg",
     "Zeichnungen/DR28-02-2025-46.excalidraw.svg",
     "3.Klasse/nwt/SLAAC Overview.md",
@@ -179,7 +177,6 @@
     "bilder/unbestimmtes Integral 24-02-2025-16.excalidraw.svg",
     "bilder/Stammfunktion & unbestimmtes Integral 24-02-2025-21.excalidraw.svg",
     "bilder/vienna by bike bsp 19-02-2025-09.excalidraw.svg",
-    "bilder/Integralrechnung 18-02-2025-12.excalidraw.svg",
     "TEST",
     "quartz-sync.sh",
     "aaaaaaaa",
