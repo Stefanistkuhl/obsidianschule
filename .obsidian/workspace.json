@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a4bb5711487dde1c",
+        "id": "55c1772172eef42a",
         "type": "tabs",
         "children": [
           {
-            "id": "bc92c275e153643f",
+            "id": "a03bc23f089c30e3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Zeichnungen/DR28-02-2025-35.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "DR28-02-2025-35.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -141,11 +139,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bc92c275e153643f",
+  "active": "a03bc23f089c30e3",
   "lastOpenFiles": [
+    "Zeichnungen/DR28-02-2025-35.excalidraw.md",
     "Zeichnungen/DR28-02-2025-46.excalidraw.md",
     "Zeichnungen/DR28-02-2025-46.excalidraw.png",
-    "Zeichnungen/DR28-02-2025-35.excalidraw.md",
     "Zeichnungen/DR28-02-2025-35.excalidraw.png",
     "Zeichnungen/DR28-02-2025-35.excalidraw.svg",
     "Zeichnungen/DR28-02-2025-46.excalidraw.svg",
