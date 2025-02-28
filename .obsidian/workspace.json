@@ -11,10 +11,12 @@
             "id": "bc92c275e153643f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Zeichnungen/DR28-02-2025-35.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "DR28-02-2025-35.excalidraw"
             }
           }
         ]
