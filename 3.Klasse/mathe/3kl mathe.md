@@ -19,3 +19,4 @@ tags:
 [[2.Sa thing yfear]]
 [[Vektoren]]
 [[Integralrechnung]]
+[[Integrationsmethoden]]
