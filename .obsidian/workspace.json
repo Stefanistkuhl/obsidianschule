@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1f834c9ef378e1e8",
+        "id": "6e17dca020cfd18f",
         "type": "tabs",
         "children": [
           {
-            "id": "1582887d4077fc36",
+            "id": "7e12b62bed1808e3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/Sozialdemokratie 27-02-2025-01.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Sozialdemokratie 27-02-2025-01.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -141,8 +139,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1582887d4077fc36",
+  "active": "7e12b62bed1808e3",
   "lastOpenFiles": [
+    "bilder/Sozialdemokratie 27-02-2025-01.excalidraw.md",
     "3.Klasse/ggp/Sozialdemokratie.md",
     "3.Klasse/ggp/3kl GGP.md",
     "3.Klasse/mathe/Integrieren.md",
@@ -165,7 +164,6 @@
     "3.Klasse/nwt/ip v6.md",
     "3.Klasse/nwt/SLAAC.md",
     "quartz-sync.sh~",
-    "bilder/Sozialdemokratie 27-02-2025-01.excalidraw.md",
     "3.Klasse/ggp/Solidarität.md",
     "bilder/Pasted Image 20250227141937_271.png",
     "bilder/Sozialdemokratie 27-02-2025-01.excalidraw.svg",
