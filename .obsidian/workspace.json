@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "090fd3efd8fbd198",
+        "id": "1f834c9ef378e1e8",
         "type": "tabs",
         "children": [
           {
-            "id": "c79ac05a1cc1ff11",
+            "id": "1582887d4077fc36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "3.Klasse/mathe/Integrieren.md",
-                "mode": "source",
-                "source": false
+                "file": "bilder/Sozialdemokratie 27-02-2025-01.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Integrieren"
+              "icon": "excalidraw-icon",
+              "title": "Sozialdemokratie 27-02-2025-01.excalidraw"
             }
           }
         ]
@@ -143,10 +141,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c79ac05a1cc1ff11",
+  "active": "1582887d4077fc36",
   "lastOpenFiles": [
-    "3.Klasse/mathe/3kl mathe.md",
+    "3.Klasse/ggp/Sozialdemokratie.md",
+    "3.Klasse/ggp/3kl GGP.md",
     "3.Klasse/mathe/Integrieren.md",
+    "3.Klasse/mathe/3kl mathe.md",
     "3.Klasse/mathe/Integralrechnung.md",
     "3.Klasse/mathe/Bsp Integrations Methoden.md",
     "3.Klasse/mathe/Integrationsmethoden.md",
@@ -165,12 +165,10 @@
     "3.Klasse/nwt/ip v6.md",
     "3.Klasse/nwt/SLAAC.md",
     "quartz-sync.sh~",
-    "3.Klasse/ggp/Sozialdemokratie.md",
     "bilder/Sozialdemokratie 27-02-2025-01.excalidraw.md",
     "3.Klasse/ggp/Solidarität.md",
     "bilder/Pasted Image 20250227141937_271.png",
     "bilder/Sozialdemokratie 27-02-2025-01.excalidraw.svg",
-    "3.Klasse/ggp/3kl GGP.md",
     "3.Klasse/ggp/Marxismus.md",
     "3.Klasse/itsi/NTFS Dateiberechtigungen.md",
     "3.Klasse/itsi/Windoof server security.md",
