@@ -197,31 +197,6 @@ foreach($name in $names)
     $idx++
 }
 
-#dir perms
-$secPrefix = "SG_BIM"
-
-#Projekt_A
-Set-DirectoryPermissions -DirectoryPath "$root\Projekte\Projekt_A\" -GroupName "$secPrefix-Projekte_A_Lesen" -Permissions ReadAndExecute -Recursive
-Set-DirectoryPermissions -DirectoryPath "$root\Projekte\Projekt_A\" -GroupName "$secPrefix-Projekte_A_Schreiben" -Permissions Modify -Recursive
-#Projekt_B
-Set-DirectoryPermissions -DirectoryPath "$root\Projekte\Projekt_B\" -GroupName "$secPrefix-Projekte_B_Lesen" -Permissions ReadAndExecute -Recursive
-Set-DirectoryPermissions -DirectoryPath "$root\Projekte\Projekt_B\" -GroupName "$secPrefix-Projekte_B_Schreiben" -Permissions Modify -Recursive
-#Mitarbeiterdaten
-Set-DirectoryPermissions -DirectoryPath "$root\Mitarbeiterdaten\" -GroupName "$secPrefix-Mitarbeiterdaten_Lesen" -Permissions ReadAndExecute -Recursive
-Set-DirectoryPermissions -DirectoryPath "$root\Mitarbeiterdaten\" -GroupName "$secPrefix-Mitarbeiterdaten_Schreiben" -Permissions Modify -Recursive
-#\Geschaeftsdaten\Finanzen
-Set-DirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Finanzen" -GroupName "$secPrefix-Finanzen_Lesen" -Permissions ReadAndExecute -Recursive
-Set-DirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Finanzen" -GroupName "$secPrefix-Finanzen_Schreiben" -Permissions Modify -Recursive
-#\Geschaeftsdaten\Vertraege
-Set-DirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Vertraege" -GroupName "$secPrefix-Vertraege_Lesen" -Permissions ReadAndExecute -Recursive
-Set-DirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Vertraege" -GroupName "$secPrefix-Vertraege_Schreiben" -Permissions Modify -Recursive
-#Marketing
-Set-DirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Marketing" -GroupName "$secPrefix-Marketing_Lesen" -Permissions ReadAndExecute -Recursive
-Set-DirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Marketing" -GroupName "$secPrefix-Marketing_Schreiben" -Permissions Modify -Recursive
-#Vorlagen
-Set-DirectoryPermissions -DirectoryPath "$root\Vorlagen\" -GroupName "$secPrefix-Vorlagen_Lesen" -Permissions ReadAndExecute -Recursive
-Set-DirectoryPermissions -DirectoryPath "$root\Vorlagen\" -GroupName "$secPrefix-Vorlagen_Schreiben" -Permissions Modify -Recursive
-
 function Set-DirectoryPermissions
 {
     param (
@@ -271,6 +246,31 @@ function Set-DirectoryPermissions
     }
 }
 
+#dir perms
+$secPrefix = "SG_BIM"
+
+#Projekt_A
+Set-DirectoryPermissions -DirectoryPath "$root\Projekte\Projekt_A\" -GroupName "$secPrefix-Projekte_A_Lesen" -Permissions ReadAndExecute -Recursive
+Set-DirectoryPermissions -DirectoryPath "$root\Projekte\Projekt_A\" -GroupName "$secPrefix-Projekte_A_Schreiben" -Permissions Modify -Recursive
+#Projekt_B
+Set-DirectoryPermissions -DirectoryPath "$root\Projekte\Projekt_B\" -GroupName "$secPrefix-Projekte_B_Lesen" -Permissions ReadAndExecute -Recursive
+Set-DirectoryPermissions -DirectoryPath "$root\Projekte\Projekt_B\" -GroupName "$secPrefix-Projekte_B_Schreiben" -Permissions Modify -Recursive
+#Mitarbeiterdaten
+Set-DirectoryPermissions -DirectoryPath "$root\Mitarbeiterdaten\" -GroupName "$secPrefix-Mitarbeiterdaten_Lesen" -Permissions ReadAndExecute -Recursive
+Set-DirectoryPermissions -DirectoryPath "$root\Mitarbeiterdaten\" -GroupName "$secPrefix-Mitarbeiterdaten_Schreiben" -Permissions Modify -Recursive
+#\Geschaeftsdaten\Finanzen
+Set-DirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Finanzen" -GroupName "$secPrefix-Finanzen_Lesen" -Permissions ReadAndExecute -Recursive
+Set-DirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Finanzen" -GroupName "$secPrefix-Finanzen_Schreiben" -Permissions Modify -Recursive
+#\Geschaeftsdaten\Vertraege
+Set-DirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Vertraege" -GroupName "$secPrefix-Vertraege_Lesen" -Permissions ReadAndExecute -Recursive
+Set-DirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Vertraege" -GroupName "$secPrefix-Vertraege_Schreiben" -Permissions Modify -Recursive
+#Marketing
+Set-DirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Marketing" -GroupName "$secPrefix-Marketing_Lesen" -Permissions ReadAndExecute -Recursive
+Set-DirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Marketing" -GroupName "$secPrefix-Marketing_Schreiben" -Permissions Modify -Recursive
+#Vorlagen
+Set-DirectoryPermissions -DirectoryPath "$root\Vorlagen\" -GroupName "$secPrefix-Vorlagen_Lesen" -Permissions ReadAndExecute -Recursive
+Set-DirectoryPermissions -DirectoryPath "$root\Vorlagen\" -GroupName "$secPrefix-Vorlagen_Schreiben" -Permissions Modify -Recursive
+
 #files
 $subdirs = @(
     "$root\Projekte\Projekt_A\CAD_Dateien",
@@ -289,7 +289,6 @@ $subdirs = @(
     "$root\Geschaeftsdaten\Finanzen",
     "$root\Geschaeftsdaten\Vertraege",
     "$root\Geschaeftsdaten\Marketing",
-    "$root\Geschaeftsdaten\Sonstiges",
     "$root\Vorlagen\CAD_Vorlagen",
     "$root\Vorlagen\IFC_Vorlagen",
     "$root\Vorlagen\Berichtsvorlagen"
@@ -310,7 +309,6 @@ $fileTypeMap = @{
     "Berichtsvorlagen" = @(".docx", ".xlsx", ".pdf", ".dotx")
     "CAD_Vorlagen" = @(".dwg", ".CATPart", ".CATProduct", ".ptc", ".prt", ".asm", ".ipt", ".aim", ".sldprt", ".sldasm", ".igs", ".iges", ".stp", ".step", ".stl", ".qif")
     "IFC_Vorlagen" = @(".ifc", ".ifczip")
-    "Sonstiges" = @(".txt",".pdf",".docx")
 }
 
 foreach ($dir in $subdirs)
