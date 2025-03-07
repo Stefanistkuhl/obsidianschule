@@ -366,3 +366,6 @@ New-SmbShare @Vorlagen
 #bitlocker
 $supersurepassword = ConvertTo-SecureString "hJ3rFU#67C0huq&G3*cm&B%zVHVNz#bPfL%sM7RX&miWM6Gyvv716!y7rQDl7@KCxRDXh" -AsPlainText -Force
 Enable-BitLocker -MountPoint "B:" -EncryptionMethod Aes128 -PasswordProtector -Password $supersurepassword
+
+#remove added task
+Unregister-ScheduledTask -TaskName "after-setup" -Confirm:$false
