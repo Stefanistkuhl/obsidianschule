@@ -146,7 +146,7 @@ foreach($name in $names)
             }
             if ((Get-Random -Maximum 2) -eq 0)
             {
-                Add-LocalGroupMember -Group ($secPrefix + "Verträge_Lesen") -Member $userName
+                Add-LocalGroupMember -Group ($secPrefix + "Vertraege_Lesen") -Member $userName
             }
         }
         "Architekten"
@@ -183,7 +183,7 @@ foreach($name in $names)
             }
             if ((Get-Random -Maximum 2) -eq 0)
             {
-                Add-LocalGroupMember -Group ($secPrefix + "Verträge_Lesen") -Member $userName
+                Add-LocalGroupMember -Group ($secPrefix + "Vertraege_Lesen") -Member $userName
             }
         }
         "Gaeste"
