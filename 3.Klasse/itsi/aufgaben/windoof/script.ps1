@@ -228,7 +228,7 @@ function Set-DirectoryPermissions
     param (
         [string]$DirectoryPath,
         [string]$GroupName,
-        [System.Security.AccessControl.FileSystemRights]$Permissions = "ReadAndExecute",
+        [System.Security.AccessControl.FileSystemRights]$Permissions = "ListDirectory", # Default to ListDirectory
         [switch]$Recursive
     )
 
@@ -246,7 +246,7 @@ function Set-DirectoryPermissions
                 {
                     $subDirAcl = Get-Acl $_.FullName
                     $subDirAcl.AddAccessRule($accessRule)
-                    Set-Acl $_.FullName $subDirAcl
+                    Set-Acl $_FullName $subDirAcl
                 } catch
                 {
                     Write-Warning "Failed to set ACL for directory: $($_.FullName) - $($_.Exception.Message)"
@@ -255,9 +255,9 @@ function Set-DirectoryPermissions
             Get-ChildItem -Path $DirectoryPath -Recurse -File | ForEach-Object {
                 try
                 {
-                    $fileAcl = Get-Acl $_.FullName
+                    $fileAcl = Get-Acl $_FullName
                     $fileAcl.AddAccessRule($accessRule)
-                    Set-Acl $_.FullName $fileAcl
+                    Set-Acl $_FullName $fileAcl
                 } catch
                 {
                     Write-Warning "Failed to set ACL for file: $($_.FullName) - $($_.Exception.Message)"
@@ -276,25 +276,25 @@ function Set-DirectoryPermissions
 $secPrefix = "SG_BIM"
 
 #Projekt_A
-Set-DirectoryPermissions -DirectoryPath "$root\Projekte\Projekt_A\" -GroupName "$secPrefix-Projekte_A_Lesen" -Permissions ReadAndExecute -Recursive
+Set-DirectoryPermissions -DirectoryPath "$root\Projekte\Projekt_A\" -GroupName "$secPrefix-Projekte_A_Lesen" -Permissions ListDirectory -Recursive
 Set-DirectoryPermissions -DirectoryPath "$root\Projekte\Projekt_A\" -GroupName "$secPrefix-Projekte_A_Schreiben" -Permissions Modify -Recursive
 #Projekt_B
-Set-DirectoryPermissions -DirectoryPath "$root\Projekte\Projekt_B\" -GroupName "$secPrefix-Projekte_B_Lesen" -Permissions ReadAndExecute -Recursive
+Set-DirectoryPermissions -DirectoryPath "$root\Projekte\Projekt_B\" -GroupName "$secPrefix-Projekte_B_Lesen" -Permissions ListDirectory -Recursive
 Set-DirectoryPermissions -DirectoryPath "$root\Projekte\Projekt_B\" -GroupName "$secPrefix-Projekte_B_Schreiben" -Permissions Modify -Recursive
 #Mitarbeiterdaten
-Set-DirectoryPermissions -DirectoryPath "$root\Mitarbeiterdaten\" -GroupName "$secPrefix-Mitarbeiterdaten_Lesen" -Permissions ReadAndExecute -Recursive
+Set-DirectoryPermissions -DirectoryPath "$root\Mitarbeiterdaten\" -GroupName "$secPrefix-Mitarbeiterdaten_Lesen" -Permissions ListDirectory -Recursive
 Set-DirectoryPermissions -DirectoryPath "$root\Mitarbeiterdaten\" -GroupName "$secPrefix-Mitarbeiterdaten_Schreiben" -Permissions Modify -Recursive
 #\Geschaeftsdaten\Finanzen
-Set-DirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Finanzen" -GroupName "$secPrefix-Finanzen_Lesen" -Permissions ReadAndExecute -Recursive
+Set-DirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Finanzen" -GroupName "$secPrefix-Finanzen_Lesen" -Permissions ListDirectory -Recursive
 Set-DirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Finanzen" -GroupName "$secPrefix-Finanzen_Schreiben" -Permissions Modify -Recursive
 #\Geschaeftsdaten\Vertraege
-Set-DirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Vertraege" -GroupName "$secPrefix-Vertraege_Lesen" -Permissions ReadAndExecute -Recursive
+Set-DirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Vertraege" -GroupName "$secPrefix-Vertraege_Lesen" -Permissions ListDirectory -Recursive
 Set-DirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Vertraege" -GroupName "$secPrefix-Vertraege_Schreiben" -Permissions Modify -Recursive
 #Marketing
-Set-DirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Marketing" -GroupName "$secPrefix-Marketing_Lesen" -Permissions ReadAndExecute -Recursive
+Set-DirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Marketing" -GroupName "$secPrefix-Marketing_Lesen" -Permissions ListDirectory -Recursive
 Set-DirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Marketing" -GroupName "$secPrefix-Marketing_Schreiben" -Permissions Modify -Recursive
 #Vorlagen
-Set-DirectoryPermissions -DirectoryPath "$root\Vorlagen\" -GroupName "$secPrefix-Vorlagen_Lesen" -Permissions ReadAndExecute -Recursive
+Set-DirectoryPermissions -DirectoryPath "$root\Vorlagen\" -GroupName "$secPrefix-Vorlagen_Lesen" -Permissions ListDirectory -Recursive
 Set-DirectoryPermissions -DirectoryPath "$root\Vorlagen\" -GroupName "$secPrefix-Vorlagen_Schreiben" -Permissions Modify -Recursive
 
 #files
