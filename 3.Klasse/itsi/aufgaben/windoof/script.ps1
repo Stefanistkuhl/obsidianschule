@@ -2,6 +2,7 @@ $supersurepassword = ConvertTo-SecureString "rafi123_" -AsPlainText -Force
 New-LocalUser -Name 'fus-admin' -Password $supersurepassword
 New-LocalUser -Name 'fus-user' -Password $supersurepassword
 Add-LocalGroupMember -Group "Administrators" -Member fus-admin
+Add-LocalGroupMember -Group "Remote Desktop Users" -Member fus-user
 
 Resize-Partition -DiskNumber 0 -PartitionNumber 2 -Size (40GB)
 New-Partition -DiskNumber 0 -UseMaximumSize -DriveLetter B
@@ -125,6 +126,7 @@ foreach($name in $names)
     Write-Host $userName
     New-LocalUser -Name $userName -Password $supersurepassword
     Add-LocalGroupMember -Group $groupName -Member $userName
+    Add-LocalGroupMember -Group "Remote Desktop Users" -Member $username
     switch ($randomElement)
     {
         "Projektleiter"

@@ -8,4 +8,6 @@ Register-ScheduledTask -TaskName "after-setup" -Action $Action -Trigger $Trigger
 $url = "https://raw.githubusercontent.com/Stefanistkuhl/obsidianschule/refs/heads/main/3.Klasse/itsi/aufgaben/windoof/script.ps1"
 $dest = "C:\Users\Administrator\script.ps1"
 Invoke-WebRequest -Uri $url -OutFile $dest
+Set-ItemProperty -Path 'HKLM:\System\CurrentControlSet\Control\Terminal Server' -name "fDenyTSConnections" -value 0
+Enable-NetFirewallRule -DisplayGroup "Remote Desktop"
 Restart-Computer
