@@ -179,7 +179,6 @@ foreach($name in $names)
             {
                 Add-LocalGroupMember -Group ($secPrefix + "Projekte_A_Schreiben") -Member $userName
                 Add-LocalGroupMember -Group ($secPrefix + "Vorlagen_Schreiben") -Member $userName
-                Add-LocalGroupMember -Group ($secPrefix + "Projekte_B_Lesen") -Member $userName
                 if ((Get-Random -Maximum 2) -eq 0)
                 {
                     Add-LocalGroupMember -Group ($secPrefix + "Projekte_B_Lesen") -Member $userName
