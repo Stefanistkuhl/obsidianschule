@@ -1,3 +1,4 @@
+Set-ExecutionPolicy RemoteSigned -Scope LocalMachine -Force
 Install-WindowsFeature BitLocker, BitLocker-NetworkUnlock
 Rename-Computer -NewName "fus-win-12" -Force
 $Action = New-ScheduledTaskAction -Execute "powershell.exe" -Argument "-file C:\Users\Administrator\script.ps1"
