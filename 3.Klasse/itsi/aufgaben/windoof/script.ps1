@@ -88,7 +88,6 @@ $secGroupNames = (
     "Vorlagen_Schreiben"
 )
 
-# Create Local Groups
 foreach ($grpname in $groupnames)
 {
     $name = $prefix + $grpname
@@ -108,17 +107,9 @@ $idMap = @{
     "Verwaltung"    = "04"
     "Gaeste"        = "05"
 }
-
 $idx = 0
 $fullID = ""
-$userCount = $names.count
-$groupCounts = @{}
-foreach($group in $groupnames)
-{
-    $groupCounts[$group] = 0
-}
-
-foreach ($name in $names)
+foreach($name in $names)
 {
     $username = ""
     $randomElement = $groupnames | Get-Random
@@ -127,80 +118,79 @@ foreach ($name in $names)
     $id_idx = "{0:0000}" -f $idx
     $fullID = $id_department + $id_idx
     $userName = $prefix + $fullID + "-" + $name
-
     if ($userName.Length -gt 20)
     {
         $userName = $userName.Substring(0, 20)
     }
-
     Write-Host $userName
     New-LocalUser -Name $userName -NoPassword
     Add-LocalGroupMember -Group $groupName -Member $userName
-    $groupCounts[$randomElement]++
-
     switch ($randomElement)
     {
         "Projektleiter"
         {
             if ((Get-Random -Maximum 2) -eq 0)
-            { Add-LocalGroupMember -Group ($secPrefix + "Projekte_B_Lesen") -Member $userName 
-            }
-            if ((Get-Random -Maximum 2) -eq 0)
-            { Add-LocalGroupMember -Group ($secPrefix + "Projekte_B_Schreiben") -Member $userName 
-            }
-            if ((Get-Random -Maximum 2) -eq 0)
-            { Add-LocalGroupMember -Group ($secPrefix + "Projekte_A_Lesen") -Member $userName 
-            }
-            if ((Get-Random -Maximum 2) -eq 0)
-            { Add-LocalGroupMember -Group ($secPrefix + "Mitarbeiterdaten_Lesen") -Member $userName 
-            }
-            if ((Get-Random -Maximum 2) -eq 0)
-            { Add-LocalGroupMember -Group ($secPrefix + "Vertraege_Lesen") -Member $userName 
+            {
+                Add-LocalGroupMember -Group ($secPrefix + "Projekte_A_Schreiben") -Member $userName
+                Add-LocalGroupMember -Group ($secPrefix + "Vorlagen_Schreiben") -Member $userName
+                Add-LocalGroupMember -Group ($secPrefix + "Mitarbeiterdaten_Lesen") -Member $userName
+                Add-LocalGroupMember -Group ($secPrefix + "Vertraege_Lesen") -Member $userName
+            } else
+            {
+                Add-LocalGroupMember -Group ($secPrefix + "Projekte_B_Lesen") -Member $userName
+                Add-LocalGroupMember -Group ($secPrefix + "Vorlagen_Schreiben") -Member $userName
+                Add-LocalGroupMember -Group ($secPrefix + "Mitarbeiterdaten_Lesen") -Member $userName
+                Add-LocalGroupMember -Group ($secPrefix + "Vertraege_Lesen") -Member $userName
             }
         }
         "Architekten"
         {
             if ((Get-Random -Maximum 2) -eq 0)
-            { Add-LocalGroupMember -Group ($secPrefix + "Projekte_A_Lesen") -Member $userName 
-            }
-            if ((Get-Random -Maximum 2) -eq 0)
-            { Add-LocalGroupMember -Group ($secPrefix + "Vorlagen_Lesen") -Member $userName 
+            {
+                Add-LocalGroupMember -Group ($secPrefix + "Projekte_A_Schreiben") -Member $userName
+                Add-LocalGroupMember -Group ($secPrefix + "Vorlagen_Schreiben") -Member $userName
+            } else
+            {
+                Add-LocalGroupMember -Group ($secPrefix + "Projekte_B_Lesen") -Member $userName
+                Add-LocalGroupMember -Group ($secPrefix + "Vorlagen_Schreiben") -Member $userName
             }
         }
         "Ingenieure"
         {
             if ((Get-Random -Maximum 2) -eq 0)
-            { Add-LocalGroupMember -Group ($secPrefix + "Projekte_B_Lesen") -Member $userName 
-            }
-            if ((Get-Random -Maximum 2) -eq 0)
-            { Add-LocalGroupMember -Group ($secPrefix + "Vorlagen_Lesen") -Member $userName 
+            {
+                Add-LocalGroupMember -Group ($secPrefix + "Projekte_A_Schreiben") -Member $userName
+                Add-LocalGroupMember -Group ($secPrefix + "Vorlagen_Schreiben") -Member $userName
+            } else
+            {
+                Add-LocalGroupMember -Group ($secPrefix + "Projekte_B_Lesen") -Member $userName
+                Add-LocalGroupMember -Group ($secPrefix + "Vorlagen_Schreiben") -Member $userName
             }
         }
         "Verwaltung"
         {
             if ((Get-Random -Maximum 2) -eq 0)
-            { Add-LocalGroupMember -Group ($secPrefix + "Mitarbeiterdaten_Lesen") -Member $userName 
-            }
-            if ((Get-Random -Maximum 2) -eq 0)
-            { Add-LocalGroupMember -Group ($secPrefix + "Finanzen_Lesen") -Member $userName 
-            }
-            if ((Get-Random -Maximum 2) -eq 0)
-            { Add-LocalGroupMember -Group ($secPrefix + "Vertraege_Lesen") -Member $userName 
+            {
+                Add-LocalGroupMember -Group ($secPrefix + "Mitarbeiterdaten_Schreiben") -Member $userName
+                Add-LocalGroupMember -Group ($secPrefix + "Finanzen_Schreiben") -Member $userName
+                Add-LocalGroupMember -Group ($secPrefix + "Vertraege_Schreiben") -Member $userName
+                Add-LocalGroupMember -Group ($secPrefix + "Vorlagen_Lesen") -Member $userName
+            } else
+            {
+                Add-LocalGroupMember -Group ($secPrefix + "Mitarbeiterdaten_Lesen") -Member $userName
+                Add-LocalGroupMember -Group ($secPrefix + "Finanzen_Lesen") -Member $userName
+                Add-LocalGroupMember -Group ($secPrefix + "Vertraege_Lesen") -Member $userName
+                Add-LocalGroupMember -Group ($secPrefix + "Vorlagen_Lesen") -Member $userName
             }
         }
         "Gaeste"
         {
-            if ((Get-Random -Maximum 2) -eq 0)
-            { Add-LocalGroupMember -Group ($secPrefix + "Projekte_A_Lesen") -Member $userName 
-            }
+            Add-LocalGroupMember -Group ($secPrefix + "Projekte_A_Lesen") -Member $userName
+            Add-LocalGroupMember -Group ($secPrefix + "Projekte_B_Lesen") -Member $userName
+            Add-LocalGroupMember -Group ($secPrefix + "Vorlagen_Lesen") -Member $userName
         }
     }
     $idx++
-}
-
-Write-Host "Group Counts:"
-$groupCounts.GetEnumerator() | ForEach-Object {
-    Write-Host "$($_.Key): $($_.Value)"
 }
 
 function Set-DirectoryPermissions
