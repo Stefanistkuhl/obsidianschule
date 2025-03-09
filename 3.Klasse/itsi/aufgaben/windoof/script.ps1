@@ -123,7 +123,7 @@ foreach($name in $names)
         $userName = $userName.Substring(0, 20)
     }
     Write-Host $userName
-    New-LocalUser -Name $userName -NoPassword
+    New-LocalUser -Name $userName -Password $supersurepassword
     Add-LocalGroupMember -Group $groupName -Member $userName
     switch ($randomElement)
     {
