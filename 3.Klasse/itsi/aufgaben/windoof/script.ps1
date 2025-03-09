@@ -133,14 +133,24 @@ foreach($name in $names)
             {
                 Add-LocalGroupMember -Group ($secPrefix + "Projekte_A_Schreiben") -Member $userName
                 Add-LocalGroupMember -Group ($secPrefix + "Vorlagen_Schreiben") -Member $userName
-                Add-LocalGroupMember -Group ($secPrefix + "Mitarbeiterdaten_Lesen") -Member $userName
-                Add-LocalGroupMember -Group ($secPrefix + "Vertraege_Lesen") -Member $userName
+                Add-LocalGroupMember -Group ($secPrefix + "Marketing_Lesen") -Member $userName
+                if ((Get-Random -Maximum 2) -eq 0)
+                {
+                    Add-LocalGroupMember -Group ($secPrefix + "Projekte_B_Lesen") -Member $userName
+                    Add-LocalGroupMember -Group ($secPrefix + "Mitarbeiterdaten_Lesen") -Member $userName
+                    Add-LocalGroupMember -Group ($secPrefix + "Vertraege_Lesen") -Member $userName
+                }
             } else
             {
-                Add-LocalGroupMember -Group ($secPrefix + "Projekte_B_Lesen") -Member $userName
+                Add-LocalGroupMember -Group ($secPrefix + "Marketing_Schreiben") -Member $userName
+                if ((Get-Random -Maximum 2) -eq 0)
+                {
+                    Add-LocalGroupMember -Group ($secPrefix + "Projekte_A_Lesen") -Member $userName
+                    Add-LocalGroupMember -Group ($secPrefix + "Mitarbeiterdaten_Lesen") -Member $userName
+                    Add-LocalGroupMember -Group ($secPrefix + "Vertraege_Lesen") -Member $userName
+                }
+                Add-LocalGroupMember -Group ($secPrefix + "Projekte_B_Schreiben") -Member $userName
                 Add-LocalGroupMember -Group ($secPrefix + "Vorlagen_Schreiben") -Member $userName
-                Add-LocalGroupMember -Group ($secPrefix + "Mitarbeiterdaten_Lesen") -Member $userName
-                Add-LocalGroupMember -Group ($secPrefix + "Vertraege_Lesen") -Member $userName
             }
         }
         "Architekten"
@@ -149,9 +159,18 @@ foreach($name in $names)
             {
                 Add-LocalGroupMember -Group ($secPrefix + "Projekte_A_Schreiben") -Member $userName
                 Add-LocalGroupMember -Group ($secPrefix + "Vorlagen_Schreiben") -Member $userName
+                Add-LocalGroupMember -Group ($secPrefix + "Projekte_B_Lesen") -Member $userName
+                if ((Get-Random -Maximum 2) -eq 0)
+                {
+                    Add-LocalGroupMember -Group ($secPrefix + "Projekte_B_Lesen") -Member $userName
+                }
             } else
             {
-                Add-LocalGroupMember -Group ($secPrefix + "Projekte_B_Lesen") -Member $userName
+                if ((Get-Random -Maximum 2) -eq 0)
+                {
+                    Add-LocalGroupMember -Group ($secPrefix + "Projekte_A_Lesen") -Member $userName
+                }
+                Add-LocalGroupMember -Group ($secPrefix + "Projekte_B_Schreiben") -Member $userName
                 Add-LocalGroupMember -Group ($secPrefix + "Vorlagen_Schreiben") -Member $userName
             }
         }
@@ -161,9 +180,18 @@ foreach($name in $names)
             {
                 Add-LocalGroupMember -Group ($secPrefix + "Projekte_A_Schreiben") -Member $userName
                 Add-LocalGroupMember -Group ($secPrefix + "Vorlagen_Schreiben") -Member $userName
+                Add-LocalGroupMember -Group ($secPrefix + "Projekte_B_Lesen") -Member $userName
+                if ((Get-Random -Maximum 2) -eq 0)
+                {
+                    Add-LocalGroupMember -Group ($secPrefix + "Projekte_B_Lesen") -Member $userName
+                }
             } else
             {
-                Add-LocalGroupMember -Group ($secPrefix + "Projekte_B_Lesen") -Member $userName
+                if ((Get-Random -Maximum 2) -eq 0)
+                {
+                    Add-LocalGroupMember -Group ($secPrefix + "Projekte_A_Lesen") -Member $userName
+                }
+                Add-LocalGroupMember -Group ($secPrefix + "Projekte_B_Schreiben") -Member $userName
                 Add-LocalGroupMember -Group ($secPrefix + "Vorlagen_Schreiben") -Member $userName
             }
         }
@@ -175,8 +203,10 @@ foreach($name in $names)
                 Add-LocalGroupMember -Group ($secPrefix + "Finanzen_Schreiben") -Member $userName
                 Add-LocalGroupMember -Group ($secPrefix + "Vertraege_Schreiben") -Member $userName
                 Add-LocalGroupMember -Group ($secPrefix + "Vorlagen_Lesen") -Member $userName
+                Add-LocalGroupMember -Group ($secPrefix + "Marketing_Schreiben") -Member $userName
             } else
             {
+                Add-LocalGroupMember -Group ($secPrefix + "Marketing_Lesen") -Member $userName
                 Add-LocalGroupMember -Group ($secPrefix + "Mitarbeiterdaten_Lesen") -Member $userName
                 Add-LocalGroupMember -Group ($secPrefix + "Finanzen_Lesen") -Member $userName
                 Add-LocalGroupMember -Group ($secPrefix + "Vertraege_Lesen") -Member $userName
