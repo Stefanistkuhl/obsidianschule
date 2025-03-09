@@ -1,5 +1,6 @@
-New-LocalUser -Name 'fus-admin' -NoPassword
-New-LocalUser -Name 'fus-user' -NoPassword
+$supersurepassword = ConvertTo-SecureString "hJ3rFU#67C0huq&G3*cm&B%zVHVNz#bPfL%sM7RX&miWM6Gyvv716!y7rQDl7@KCxRDXh" -AsPlainText -Force
+New-LocalUser -Name 'fus-admin' -Password $supersurepassword
+New-LocalUser -Name 'fus-user' -Password $supersurepassword
 Add-LocalGroupMember -Group "Administrators" -Member fus-admin
 
 Resize-Partition -DiskNumber 0 -PartitionNumber 2 -Size (40GB)
@@ -364,7 +365,6 @@ New-SmbShare @Geschaeftsdaten
 New-SmbShare @Vorlagen
 
 #bitlocker
-$supersurepassword = ConvertTo-SecureString "hJ3rFU#67C0huq&G3*cm&B%zVHVNz#bPfL%sM7RX&miWM6Gyvv716!y7rQDl7@KCxRDXh" -AsPlainText -Force
 Enable-BitLocker -MountPoint "B:" -EncryptionMethod Aes128 -PasswordProtector -Password $supersurepassword
 
 #remove added task
