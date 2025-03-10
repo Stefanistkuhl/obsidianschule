@@ -223,47 +223,6 @@ foreach($name in $names)
     $idx++
 }
 
-$secPrefix = "SG_BIM"
-
-# Define the permissions
-$readPermissions = "(OI)(CI)R"  # Object Inherit, Container Inherit, Read
-$modifyPermissions = "(OI)(CI)M"  # Object Inherit, Container Inherit, Modify
-
-# Project A permissions
-icacls "$root\Projekte\Projekt_A" /grant:r "$secPrefix-Projekte_A_Lesen:$readPermissions" /T
-icacls "$root\Projekte\Projekt_A" /deny "$secPrefix-Projekte_A_Lesen:(OI)(CI)W" /T
-icacls "$root\Projekte\Projekt_A" /grant:r "$secPrefix-Projekte_A_Schreiben:$modifyPermissions" /T
-
-# Project B permissions
-icacls "$root\Projekte\Projekt_B" /grant:r "$secPrefix-Projekte_B_Lesen:$readPermissions" /T
-icacls "$root\Projekte\Projekt_B" /deny "$secPrefix-Projekte_B_Lesen:(OI)(CI)W" /T
-icacls "$root\Projekte\Projekt_B" /grant:r "$secPrefix-Projekte_B_Schreiben:$modifyPermissions" /T
-
-# Employee data permissions
-icacls "$root\Mitarbeiterdaten" /grant:r "$secPrefix-Mitarbeiterdaten_Lesen:$readPermissions" /T
-icacls "$root\Mitarbeiterdaten" /deny "$secPrefix-Mitarbeiterdaten_Lesen:(OI)(CI)W" /T
-icacls "$root\Mitarbeiterdaten" /grant:r "$secPrefix-Mitarbeiterdaten_Schreiben:$modifyPermissions" /T
-
-# Finance permissions
-icacls "$root\Geschaeftsdaten\Finanzen" /grant:r "$secPrefix-Finanzen_Lesen:$readPermissions" /T
-icacls "$root\Geschaeftsdaten\Finanzen" /deny "$secPrefix-Finanzen_Lesen:(OI)(CI)W" /T
-icacls "$root\Geschaeftsdaten\Finanzen" /grant:r "$secPrefix-Finanzen_Schreiben:$modifyPermissions" /T
-
-# Contracts permissions
-icacls "$root\Geschaeftsdaten\Vertraege" /grant:r "$secPrefix-Vertraege_Lesen:$readPermissions" /T
-icacls "$root\Geschaeftsdaten\Vertraege" /deny "$secPrefix-Vertraege_Lesen:(OI)(CI)W" /T
-icacls "$root\Geschaeftsdaten\Vertraege" /grant:r "$secPrefix-Vertraege_Schreiben:$modifyPermissions" /T
-
-# Marketing permissions
-icacls "$root\Geschaeftsdaten\Marketing" /grant:r "$secPrefix-Marketing_Lesen:$readPermissions" /T
-icacls "$root\Geschaeftsdaten\Marketing" /deny "$secPrefix-Marketing_Lesen:(OI)(CI)W" /T
-icacls "$root\Geschaeftsdaten\Marketing" /grant:r "$secPrefix-Marketing_Schreiben:$modifyPermissions" /T
-
-# Templates permissions
-icacls "$root\Vorlagen" /grant:r "$secPrefix-Vorlagen_Lesen:$readPermissions" /T
-icacls "$root\Vorlagen" /deny "$secPrefix-Vorlagen_Lesen:(OI)(CI)W" /T
-icacls "$root\Vorlagen" /grant:r "$secPrefix-Vorlagen_Schreiben:$modifyPermissions" /T
-
 #files
 $subdirs = @(
     "$root\Projekte\Projekt_A\CAD_Dateien",
@@ -317,6 +276,47 @@ foreach ($dir in $subdirs)
         Write-Host "Datei '$filePath' erstellt mit Inhalt: '$randomString'"
     }
 }
+
+$secPrefix = "SG_BIM"
+
+# Define the permissions
+$readPermissions = "(OI)(CI)R"  # Object Inherit, Container Inherit, Read
+$modifyPermissions = "(OI)(CI)M"  # Object Inherit, Container Inherit, Modify
+
+# Project A permissions
+icacls "$root\Projekte\Projekt_A" /grant:r "$secPrefix-Projekte_A_Lesen:$readPermissions" /T
+icacls "$root\Projekte\Projekt_A" /deny "$secPrefix-Projekte_A_Lesen:(OI)(CI)W" /T
+icacls "$root\Projekte\Projekt_A" /grant:r "$secPrefix-Projekte_A_Schreiben:$modifyPermissions" /T
+
+# Project B permissions
+icacls "$root\Projekte\Projekt_B" /grant:r "$secPrefix-Projekte_B_Lesen:$readPermissions" /T
+icacls "$root\Projekte\Projekt_B" /deny "$secPrefix-Projekte_B_Lesen:(OI)(CI)W" /T
+icacls "$root\Projekte\Projekt_B" /grant:r "$secPrefix-Projekte_B_Schreiben:$modifyPermissions" /T
+
+# Employee data permissions
+icacls "$root\Mitarbeiterdaten" /grant:r "$secPrefix-Mitarbeiterdaten_Lesen:$readPermissions" /T
+icacls "$root\Mitarbeiterdaten" /deny "$secPrefix-Mitarbeiterdaten_Lesen:(OI)(CI)W" /T
+icacls "$root\Mitarbeiterdaten" /grant:r "$secPrefix-Mitarbeiterdaten_Schreiben:$modifyPermissions" /T
+
+# Finance permissions
+icacls "$root\Geschaeftsdaten\Finanzen" /grant:r "$secPrefix-Finanzen_Lesen:$readPermissions" /T
+icacls "$root\Geschaeftsdaten\Finanzen" /deny "$secPrefix-Finanzen_Lesen:(OI)(CI)W" /T
+icacls "$root\Geschaeftsdaten\Finanzen" /grant:r "$secPrefix-Finanzen_Schreiben:$modifyPermissions" /T
+
+# Contracts permissions
+icacls "$root\Geschaeftsdaten\Vertraege" /grant:r "$secPrefix-Vertraege_Lesen:$readPermissions" /T
+icacls "$root\Geschaeftsdaten\Vertraege" /deny "$secPrefix-Vertraege_Lesen:(OI)(CI)W" /T
+icacls "$root\Geschaeftsdaten\Vertraege" /grant:r "$secPrefix-Vertraege_Schreiben:$modifyPermissions" /T
+
+# Marketing permissions
+icacls "$root\Geschaeftsdaten\Marketing" /grant:r "$secPrefix-Marketing_Lesen:$readPermissions" /T
+icacls "$root\Geschaeftsdaten\Marketing" /deny "$secPrefix-Marketing_Lesen:(OI)(CI)W" /T
+icacls "$root\Geschaeftsdaten\Marketing" /grant:r "$secPrefix-Marketing_Schreiben:$modifyPermissions" /T
+
+# Templates permissions
+icacls "$root\Vorlagen" /grant:r "$secPrefix-Vorlagen_Lesen:$readPermissions" /T
+icacls "$root\Vorlagen" /deny "$secPrefix-Vorlagen_Lesen:(OI)(CI)W" /T
+icacls "$root\Vorlagen" /grant:r "$secPrefix-Vorlagen_Schreiben:$modifyPermissions" /T
 
 #shares
 $Projekte = @{
