@@ -287,6 +287,15 @@ icacls "$root" /setowner "Administrators" /T
 # This helps prevent permission inheritance issues
 icacls "$root" /reset /T
 
+# Remove inheritance and apply base permissions
+# This is crucial - we'll disable inheritance and remove all inherited permissions
+icacls "$root" /inheritance:d /T
+icacls "$root" /remove:g "Users" /T  # Remove the Users group
+icacls "$root" /remove:g "Authenticated Users" /T  # Remove Authenticated Users
+
+# Grant Administrators full control to the root and all subdirectories
+icacls "$root" /grant:r "Administrators:(OI)(CI)F" /T
+
 # For read-only groups, we'll explicitly deny more permissions
 # (OI)(CI) = Object Inherit, Container Inherit
 # AD = AppendData/AddSubdirectory - prevents directory creation
@@ -294,43 +303,36 @@ icacls "$root" /reset /T
 # WA = WriteAttributes, WEA = WriteExtendedAttributes
 
 # Project A permissions
-icacls "$root\Projekte\Projekt_A" /grant:r "Administrators:(OI)(CI)F" /T
 icacls "$root\Projekte\Projekt_A" /grant:r "$secPrefix-Projekte_A_Lesen:(OI)(CI)RX" /T
 icacls "$root\Projekte\Projekt_A" /deny "$secPrefix-Projekte_A_Lesen:(OI)(CI)(AD)(WD)(WA)(WEA)" /T
 icacls "$root\Projekte\Projekt_A" /grant:r "$secPrefix-Projekte_A_Schreiben:(OI)(CI)M" /T
 
 # Project B permissions
-icacls "$root\Projekte\Projekt_B" /grant:r "Administrators:(OI)(CI)F" /T
 icacls "$root\Projekte\Projekt_B" /grant:r "$secPrefix-Projekte_B_Lesen:(OI)(CI)RX" /T
 icacls "$root\Projekte\Projekt_B" /deny "$secPrefix-Projekte_B_Lesen:(OI)(CI)(AD)(WD)(WA)(WEA)" /T
 icacls "$root\Projekte\Projekt_B" /grant:r "$secPrefix-Projekte_B_Schreiben:(OI)(CI)M" /T
 
 # Employee data permissions
-icacls "$root\Mitarbeiterdaten" /grant:r "Administrators:(OI)(CI)F" /T
 icacls "$root\Mitarbeiterdaten" /grant:r "$secPrefix-Mitarbeiterdaten_Lesen:(OI)(CI)RX" /T
 icacls "$root\Mitarbeiterdaten" /deny "$secPrefix-Mitarbeiterdaten_Lesen:(OI)(CI)(AD)(WD)(WA)(WEA)" /T
 icacls "$root\Mitarbeiterdaten" /grant:r "$secPrefix-Mitarbeiterdaten_Schreiben:(OI)(CI)M" /T
 
 # Finance permissions
-icacls "$root\Geschaeftsdaten\Finanzen" /grant:r "Administrators:(OI)(CI)F" /T
 icacls "$root\Geschaeftsdaten\Finanzen" /grant:r "$secPrefix-Finanzen_Lesen:(OI)(CI)RX" /T
 icacls "$root\Geschaeftsdaten\Finanzen" /deny "$secPrefix-Finanzen_Lesen:(OI)(CI)(AD)(WD)(WA)(WEA)" /T
 icacls "$root\Geschaeftsdaten\Finanzen" /grant:r "$secPrefix-Finanzen_Schreiben:(OI)(CI)M" /T
 
 # Contracts permissions
-icacls "$root\Geschaeftsdaten\Vertraege" /grant:r "Administrators:(OI)(CI)F" /T
 icacls "$root\Geschaeftsdaten\Vertraege" /grant:r "$secPrefix-Vertraege_Lesen:(OI)(CI)RX" /T
 icacls "$root\Geschaeftsdaten\Vertraege" /deny "$secPrefix-Vertraege_Lesen:(OI)(CI)(AD)(WD)(WA)(WEA)" /T
 icacls "$root\Geschaeftsdaten\Vertraege" /grant:r "$secPrefix-Vertraege_Schreiben:(OI)(CI)M" /T
 
 # Marketing permissions
-icacls "$root\Geschaeftsdaten\Marketing" /grant:r "Administrators:(OI)(CI)F" /T
 icacls "$root\Geschaeftsdaten\Marketing" /grant:r "$secPrefix-Marketing_Lesen:(OI)(CI)RX" /T
 icacls "$root\Geschaeftsdaten\Marketing" /deny "$secPrefix-Marketing_Lesen:(OI)(CI)(AD)(WD)(WA)(WEA)" /T
 icacls "$root\Geschaeftsdaten\Marketing" /grant:r "$secPrefix-Marketing_Schreiben:(OI)(CI)M" /T
 
 # Templates permissions
-icacls "$root\Vorlagen" /grant:r "Administrators:(OI)(CI)F" /T
 icacls "$root\Vorlagen" /grant:r "$secPrefix-Vorlagen_Lesen:(OI)(CI)RX" /T
 icacls "$root\Vorlagen" /deny "$secPrefix-Vorlagen_Lesen:(OI)(CI)(AD)(WD)(WA)(WEA)" /T
 icacls "$root\Vorlagen" /grant:r "$secPrefix-Vorlagen_Schreiben:(OI)(CI)M" /T
