@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a183e9679e3f00c9",
+        "id": "247095a8d406a43c",
         "type": "tabs",
         "children": [
           {
-            "id": "a69e16a1470636fc",
+            "id": "5585f15712c99b47",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,8 +139,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a69e16a1470636fc",
+  "active": "5585f15712c99b47",
   "lastOpenFiles": [
+    "3.Klasse/englisch/report sheets.md",
+    "3.Klasse/englisch/table of content.md",
     "3.Klasse/itsi/aufgaben/windoof/script.ps1~",
     "3.Klasse/englisch/englisch matura textsortenzettel.md",
     "3.Klasse/englisch/3kl eng.md",
@@ -157,7 +159,6 @@
     "3.Klasse/mathe/Bsp Integrations Methoden.md",
     "3.Klasse/mathe/Integrationsmethoden.md",
     "3.Klasse/mathe/mathe.md",
-    "3.Klasse/englisch/table of content.md",
     "Zeichnungen/DR28-02-2025-35.excalidraw.md",
     "Zeichnungen/DR28-02-2025-46.excalidraw.md",
     "Zeichnungen/DR28-02-2025-46.excalidraw.png",
@@ -185,7 +186,6 @@
     "3.Klasse/itsi/aufgaben/ctf/protokoll/a/GRP-7-Tremurici-Fürst-Lab-5.zip",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/a/ziaOrlro",
     "3.Klasse/itsi/aufgaben/ctf/protokoll/a/server.py",
-    "3.Klasse/itsi/aufgaben/ctf/protokoll/a/ziA1Iigq",
-    "3.Klasse/itsi/aufgaben/ctf/protokoll/a/lse_GrumpyCat"
+    "3.Klasse/itsi/aufgaben/ctf/protokoll/a/ziA1Iigq"
   ]
 }
