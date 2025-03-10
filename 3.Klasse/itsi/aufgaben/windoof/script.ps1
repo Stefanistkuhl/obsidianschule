@@ -223,7 +223,7 @@ foreach($name in $names)
     $idx++
 }
 
-function Set-SecureDirectoryPermissions
+function Set-DirectoryPermissions
 {
     param (
         [string]$DirectoryPath,
@@ -234,147 +234,101 @@ function Set-SecureDirectoryPermissions
     )
     try
     {
-        # Get current ACL
         $acl = Get-Acl $DirectoryPath
         
-        # If ReadOnly, we need to handle this specifically
+        # Add the specified allow permissions
+        $allowRule = New-Object System.Security.AccessControl.FileSystemAccessRule($GroupName, $Permissions, "ContainerInherit, ObjectInherit", "None", "Allow")
+        $acl.AddAccessRule($allowRule)
+        
+        # If ReadOnly is specified, explicitly deny write permissions
         if ($ReadOnly)
         {
-            # First, add the basic read permissions
-            $allowRule = New-Object System.Security.AccessControl.FileSystemAccessRule(
-                $GroupName, 
-                [System.Security.AccessControl.FileSystemRights]::ReadAndExecute, 
-                "ContainerInherit, ObjectInherit", 
-                "None", 
-                "Allow"
-            )
-            $acl.AddAccessRule($allowRule)
-            
-            # Now explicitly deny all write/create operations - these take precedence over any ownership permissions
-            $denyPermissions = [System.Security.AccessControl.FileSystemRights]::CreateDirectories -bor 
+            $denyRights = [System.Security.AccessControl.FileSystemRights]::CreateDirectories -bor 
             [System.Security.AccessControl.FileSystemRights]::CreateFiles -bor
-            [System.Security.AccessControl.FileSystemRights]::Write -bor
-            [System.Security.AccessControl.FileSystemRights]::WriteData -bor
-            [System.Security.AccessControl.FileSystemRights]::AppendData -bor
-            [System.Security.AccessControl.FileSystemRights]::WriteAttributes -bor
-            [System.Security.AccessControl.FileSystemRights]::WriteExtendedAttributes
+            [System.Security.AccessControl.FileSystemRights]::Write
             
-            $denyRule = New-Object System.Security.AccessControl.FileSystemAccessRule(
-                $GroupName, 
-                $denyPermissions, 
-                "ContainerInherit, ObjectInherit", 
-                "None", 
-                "Deny"
-            )
+            $denyRule = New-Object System.Security.AccessControl.FileSystemAccessRule($GroupName, $denyRights, "ContainerInherit, ObjectInherit", "None", "Deny")
             $acl.AddAccessRule($denyRule)
-        } else
-        {
-            # For non-read-only permissions, just add the requested permissions
-            $allowRule = New-Object System.Security.AccessControl.FileSystemAccessRule(
-                $GroupName, 
-                $Permissions, 
-                "ContainerInherit, ObjectInherit", 
-                "None", 
-                "Allow"
-            )
-            $acl.AddAccessRule($allowRule)
         }
         
-        # Apply the ACL to the directory
-        Set-Acl -Path $DirectoryPath -AclObject $acl
-        Write-Verbose "Permissions set for directory: $DirectoryPath"
+        Set-Acl $DirectoryPath $acl
         
-        # If recursive, apply to all subdirectories and files
         if ($Recursive)
         {
-            # Process all subdirectories
-            Get-ChildItem -Path $DirectoryPath -Directory -Recurse | ForEach-Object {
+            Get-ChildItem -Path $DirectoryPath -Recurse -Directory | ForEach-Object {
                 try
                 {
-                    $childAcl = Get-Acl -Path $_.FullName
-                    
+                    $subDirAcl = Get-Acl $_.FullName
+                    $subDirAcl.AddAccessRule($allowRule)
                     if ($ReadOnly)
-                    {
-                        $childAcl.AddAccessRule($allowRule)
-                        $childAcl.AddAccessRule($denyRule)
-                    } else
-                    {
-                        $childAcl.AddAccessRule($allowRule)
+                    { $subDirAcl.AddAccessRule($denyRule) 
                     }
-                    
-                    Set-Acl -Path $_.FullName -AclObject $childAcl
-                    Write-Verbose "Permissions set for subdirectory: $($_.FullName)"
+                    Set-Acl $_.FullName $subDirAcl
                 } catch
                 {
-                    Write-Warning "Failed to set permissions for directory $($_.FullName): $($_.Exception.Message)"
+                    Write-Warning "Failed to set ACL for directory: $($_.FullName) - $($_.Exception.Message)"
                 }
             }
             
-            # Process all files
-            Get-ChildItem -Path $DirectoryPath -File -Recurse | ForEach-Object {
+            Get-ChildItem -Path $DirectoryPath -Recurse -File | ForEach-Object {
                 try
                 {
-                    $childAcl = Get-Acl -Path $_.FullName
-                    
+                    $fileAcl = Get-Acl $_.FullName
+                    $fileAcl.AddAccessRule($allowRule)
                     if ($ReadOnly)
-                    {
-                        $childAcl.AddAccessRule($allowRule)
-                        $childAcl.AddAccessRule($denyRule)
-                    } else
-                    {
-                        $childAcl.AddAccessRule($allowRule)
+                    { $fileAcl.AddAccessRule($denyRule) 
                     }
-                    
-                    Set-Acl -Path $_.FullName -AclObject $childAcl
-                    Write-Verbose "Permissions set for file: $($_.FullName)"
+                    Set-Acl $_.FullName $fileAcl
                 } catch
                 {
-                    Write-Warning "Failed to set permissions for file $($_.FullName): $($_.Exception.Message)"
+                    Write-Warning "Failed to set ACL for file: $($_.FullName) - $($_.Exception.Message)"
                 }
             }
         }
         
-        Write-Verbose "Permissions set successfully for '$DirectoryPath' and all its contents."
+        Write-Verbose "Permissions set successfully for '$DirectoryPath' and its contents (if Recursive)."
     } catch
     {
         Write-Error "Failed to set permissions for '$DirectoryPath': $($_.Exception.Message)"
     }
 }
 
-# Define read and modify permissions constants
+# Define read-only permissions
 $readPermissions = [System.Security.AccessControl.FileSystemRights]::ReadAndExecute
+
+# Define modify permissions
 $modifyPermissions = [System.Security.AccessControl.FileSystemRights]::Modify
 
-# Security group prefix
+#dir perms
 $secPrefix = "SG_BIM"
 
 #Projekt_A
-Set-SecureDirectoryPermissions -DirectoryPath "$root\Projekte\Projekt_A\" -GroupName "$secPrefix-Projekte_A_Lesen" -Permissions $readPermissions -Recursive -ReadOnly
-Set-SecureDirectoryPermissions -DirectoryPath "$root\Projekte\Projekt_A\" -GroupName "$secPrefix-Projekte_A_Schreiben" -Permissions $modifyPermissions -Recursive
+Set-DirectoryPermissions -DirectoryPath "$root\Projekte\Projekt_A\" -GroupName "$secPrefix-Projekte_A_Lesen" -Permissions $readPermissions -Recursive -ReadOnly
+Set-DirectoryPermissions -DirectoryPath "$root\Projekte\Projekt_A\" -GroupName "$secPrefix-Projekte_A_Schreiben" -Permissions $modifyPermissions -Recursive
 
 #Projekt_B
-Set-SecureDirectoryPermissions -DirectoryPath "$root\Projekte\Projekt_B\" -GroupName "$secPrefix-Projekte_B_Lesen" -Permissions $readPermissions -Recursive -ReadOnly
-Set-SecureDirectoryPermissions -DirectoryPath "$root\Projekte\Projekt_B\" -GroupName "$secPrefix-Projekte_B_Schreiben" -Permissions $modifyPermissions -Recursive
+Set-DirectoryPermissions -DirectoryPath "$root\Projekte\Projekt_B\" -GroupName "$secPrefix-Projekte_B_Lesen" -Permissions $readPermissions -Recursive -ReadOnly
+Set-DirectoryPermissions -DirectoryPath "$root\Projekte\Projekt_B\" -GroupName "$secPrefix-Projekte_B_Schreiben" -Permissions $modifyPermissions -Recursive
 
 #Mitarbeiterdaten
-Set-SecureDirectoryPermissions -DirectoryPath "$root\Mitarbeiterdaten\" -GroupName "$secPrefix-Mitarbeiterdaten_Lesen" -Permissions $readPermissions -Recursive -ReadOnly
-Set-SecureDirectoryPermissions -DirectoryPath "$root\Mitarbeiterdaten\" -GroupName "$secPrefix-Mitarbeiterdaten_Schreiben" -Permissions $modifyPermissions -Recursive
+Set-DirectoryPermissions -DirectoryPath "$root\Mitarbeiterdaten\" -GroupName "$secPrefix-Mitarbeiterdaten_Lesen" -Permissions $readPermissions -Recursive -ReadOnly
+Set-DirectoryPermissions -DirectoryPath "$root\Mitarbeiterdaten\" -GroupName "$secPrefix-Mitarbeiterdaten_Schreiben" -Permissions $modifyPermissions -Recursive
 
 #\Geschaeftsdaten\Finanzen
-Set-SecureDirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Finanzen" -GroupName "$secPrefix-Finanzen_Lesen" -Permissions $readPermissions -Recursive -ReadOnly
-Set-SecureDirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Finanzen" -GroupName "$secPrefix-Finanzen_Schreiben" -Permissions $modifyPermissions -Recursive
+Set-DirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Finanzen" -GroupName "$secPrefix-Finanzen_Lesen" -Permissions $readPermissions -Recursive -ReadOnly
+Set-DirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Finanzen" -GroupName "$secPrefix-Finanzen_Schreiben" -Permissions $modifyPermissions -Recursive
 
 #\Geschaeftsdaten\Vertraege
-Set-SecureDirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Vertraege" -GroupName "$secPrefix-Vertraege_Lesen" -Permissions $readPermissions -Recursive -ReadOnly
-Set-SecureDirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Vertraege" -GroupName "$secPrefix-Vertraege_Schreiben" -Permissions $modifyPermissions -Recursive
+Set-DirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Vertraege" -GroupName "$secPrefix-Vertraege_Lesen" -Permissions $readPermissions -Recursive -ReadOnly
+Set-DirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Vertraege" -GroupName "$secPrefix-Vertraege_Schreiben" -Permissions $modifyPermissions -Recursive
 
 #Marketing
-Set-SecureDirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Marketing" -GroupName "$secPrefix-Marketing_Lesen" -Permissions $readPermissions -Recursive -ReadOnly
-Set-SecureDirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Marketing" -GroupName "$secPrefix-Marketing_Schreiben" -Permissions $modifyPermissions -Recursive
+Set-DirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Marketing" -GroupName "$secPrefix-Marketing_Lesen" -Permissions $readPermissions -Recursive -ReadOnly
+Set-DirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Marketing" -GroupName "$secPrefix-Marketing_Schreiben" -Permissions $modifyPermissions -Recursive
 
 #Vorlagen
-Set-SecureDirectoryPermissions -DirectoryPath "$root\Vorlagen\" -GroupName "$secPrefix-Vorlagen_Lesen" -Permissions $readPermissions -Recursive -ReadOnly
-Set-SecureDirectoryPermissions -DirectoryPath "$root\Vorlagen\" -GroupName "$secPrefix-Vorlagen_Schreiben" -Permissions $modifyPermissions -Recursive
+Set-DirectoryPermissions -DirectoryPath "$root\Vorlagen\" -GroupName "$secPrefix-Vorlagen_Lesen" -Permissions $readPermissions -Recursive -ReadOnly
+Set-DirectoryPermissions -DirectoryPath "$root\Vorlagen\" -GroupName "$secPrefix-Vorlagen_Schreiben" -Permissions $modifyPermissions -Recursive
 
 #files
 $subdirs = @(
