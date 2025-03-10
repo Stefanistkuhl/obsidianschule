@@ -3,7 +3,7 @@ tags:
   - m
   - 3te_Klasse
 ---
-![[Lineare S]]
+![[Lineare Substitution mit Formel]]
 ### Substitutionsverfahren
 $$\int    e^{\sin x} \cos x \, dx$$
 $$= \int e^u = \int e^u \, du = e^u +e = e^{\sin x}+c $$
@@ -33,3 +33,4 @@ $$dx=\frac{du}{\cos x}$$
 $$\int \frac{\cos x}{u^2}* \frac{1}{\cos x} \, du= \int  \frac{1}{u^2} \, du= \int u^{-2}* \,   $$
 $$ \frac{\cos x}{\sin^2 x}*dx= - \frac{1}{\sin(x)}+c$$
 ![[Lineare Substitution]]
+![[Substituiorend ding aufgaben]]
