@@ -223,112 +223,46 @@ foreach($name in $names)
     $idx++
 }
 
-function Set-DirectoryPermissions
-{
-    param (
-        [string]$DirectoryPath,
-        [string]$GroupName,
-        [System.Security.AccessControl.FileSystemRights]$Permissions,
-        [switch]$Recursive,
-        [switch]$ReadOnly
-    )
-    try
-    {
-        $acl = Get-Acl $DirectoryPath
-        
-        # Add the specified allow permissions
-        $allowRule = New-Object System.Security.AccessControl.FileSystemAccessRule($GroupName, $Permissions, "ContainerInherit, ObjectInherit", "None", "Allow")
-        $acl.AddAccessRule($allowRule)
-        
-        # If ReadOnly is specified, explicitly deny write permissions
-        if ($ReadOnly)
-        {
-            $denyRights = [System.Security.AccessControl.FileSystemRights]::CreateDirectories -bor 
-            [System.Security.AccessControl.FileSystemRights]::CreateFiles -bor
-            [System.Security.AccessControl.FileSystemRights]::Write
-            
-            $denyRule = New-Object System.Security.AccessControl.FileSystemAccessRule($GroupName, $denyRights, "ContainerInherit, ObjectInherit", "None", "Deny")
-            $acl.AddAccessRule($denyRule)
-        }
-        
-        Set-Acl $DirectoryPath $acl
-        
-        if ($Recursive)
-        {
-            Get-ChildItem -Path $DirectoryPath -Recurse -Directory | ForEach-Object {
-                try
-                {
-                    $subDirAcl = Get-Acl $_.FullName
-                    $subDirAcl.AddAccessRule($allowRule)
-                    if ($ReadOnly)
-                    { $subDirAcl.AddAccessRule($denyRule) 
-                    }
-                    Set-Acl $_.FullName $subDirAcl
-                } catch
-                {
-                    Write-Warning "Failed to set ACL for directory: $($_.FullName) - $($_.Exception.Message)"
-                }
-            }
-            
-            Get-ChildItem -Path $DirectoryPath -Recurse -File | ForEach-Object {
-                try
-                {
-                    $fileAcl = Get-Acl $_.FullName
-                    $fileAcl.AddAccessRule($allowRule)
-                    if ($ReadOnly)
-                    { $fileAcl.AddAccessRule($denyRule) 
-                    }
-                    Set-Acl $_.FullName $fileAcl
-                } catch
-                {
-                    Write-Warning "Failed to set ACL for file: $($_.FullName) - $($_.Exception.Message)"
-                }
-            }
-        }
-        
-        Write-Verbose "Permissions set successfully for '$DirectoryPath' and its contents (if Recursive)."
-    } catch
-    {
-        Write-Error "Failed to set permissions for '$DirectoryPath': $($_.Exception.Message)"
-    }
-}
-
-# Define read-only permissions
-$readPermissions = [System.Security.AccessControl.FileSystemRights]::ReadAndExecute
-
-# Define modify permissions
-$modifyPermissions = [System.Security.AccessControl.FileSystemRights]::Modify
-
-#dir perms
 $secPrefix = "SG_BIM"
 
-#Projekt_A
-Set-DirectoryPermissions -DirectoryPath "$root\Projekte\Projekt_A\" -GroupName "$secPrefix-Projekte_A_Lesen" -Permissions $readPermissions -Recursive -ReadOnly
-Set-DirectoryPermissions -DirectoryPath "$root\Projekte\Projekt_A\" -GroupName "$secPrefix-Projekte_A_Schreiben" -Permissions $modifyPermissions -Recursive
+# Define the permissions
+$readPermissions = "(OI)(CI)R"  # Object Inherit, Container Inherit, Read
+$modifyPermissions = "(OI)(CI)M"  # Object Inherit, Container Inherit, Modify
 
-#Projekt_B
-Set-DirectoryPermissions -DirectoryPath "$root\Projekte\Projekt_B\" -GroupName "$secPrefix-Projekte_B_Lesen" -Permissions $readPermissions -Recursive -ReadOnly
-Set-DirectoryPermissions -DirectoryPath "$root\Projekte\Projekt_B\" -GroupName "$secPrefix-Projekte_B_Schreiben" -Permissions $modifyPermissions -Recursive
+# Project A permissions
+icacls "$root\Projekte\Projekt_A" /grant:r "$secPrefix-Projekte_A_Lesen:$readPermissions" /T
+icacls "$root\Projekte\Projekt_A" /deny "$secPrefix-Projekte_A_Lesen:(OI)(CI)W" /T
+icacls "$root\Projekte\Projekt_A" /grant:r "$secPrefix-Projekte_A_Schreiben:$modifyPermissions" /T
 
-#Mitarbeiterdaten
-Set-DirectoryPermissions -DirectoryPath "$root\Mitarbeiterdaten\" -GroupName "$secPrefix-Mitarbeiterdaten_Lesen" -Permissions $readPermissions -Recursive -ReadOnly
-Set-DirectoryPermissions -DirectoryPath "$root\Mitarbeiterdaten\" -GroupName "$secPrefix-Mitarbeiterdaten_Schreiben" -Permissions $modifyPermissions -Recursive
+# Project B permissions
+icacls "$root\Projekte\Projekt_B" /grant:r "$secPrefix-Projekte_B_Lesen:$readPermissions" /T
+icacls "$root\Projekte\Projekt_B" /deny "$secPrefix-Projekte_B_Lesen:(OI)(CI)W" /T
+icacls "$root\Projekte\Projekt_B" /grant:r "$secPrefix-Projekte_B_Schreiben:$modifyPermissions" /T
 
-#\Geschaeftsdaten\Finanzen
-Set-DirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Finanzen" -GroupName "$secPrefix-Finanzen_Lesen" -Permissions $readPermissions -Recursive -ReadOnly
-Set-DirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Finanzen" -GroupName "$secPrefix-Finanzen_Schreiben" -Permissions $modifyPermissions -Recursive
+# Employee data permissions
+icacls "$root\Mitarbeiterdaten" /grant:r "$secPrefix-Mitarbeiterdaten_Lesen:$readPermissions" /T
+icacls "$root\Mitarbeiterdaten" /deny "$secPrefix-Mitarbeiterdaten_Lesen:(OI)(CI)W" /T
+icacls "$root\Mitarbeiterdaten" /grant:r "$secPrefix-Mitarbeiterdaten_Schreiben:$modifyPermissions" /T
 
-#\Geschaeftsdaten\Vertraege
-Set-DirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Vertraege" -GroupName "$secPrefix-Vertraege_Lesen" -Permissions $readPermissions -Recursive -ReadOnly
-Set-DirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Vertraege" -GroupName "$secPrefix-Vertraege_Schreiben" -Permissions $modifyPermissions -Recursive
+# Finance permissions
+icacls "$root\Geschaeftsdaten\Finanzen" /grant:r "$secPrefix-Finanzen_Lesen:$readPermissions" /T
+icacls "$root\Geschaeftsdaten\Finanzen" /deny "$secPrefix-Finanzen_Lesen:(OI)(CI)W" /T
+icacls "$root\Geschaeftsdaten\Finanzen" /grant:r "$secPrefix-Finanzen_Schreiben:$modifyPermissions" /T
 
-#Marketing
-Set-DirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Marketing" -GroupName "$secPrefix-Marketing_Lesen" -Permissions $readPermissions -Recursive -ReadOnly
-Set-DirectoryPermissions -DirectoryPath "$root\Geschaeftsdaten\Marketing" -GroupName "$secPrefix-Marketing_Schreiben" -Permissions $modifyPermissions -Recursive
+# Contracts permissions
+icacls "$root\Geschaeftsdaten\Vertraege" /grant:r "$secPrefix-Vertraege_Lesen:$readPermissions" /T
+icacls "$root\Geschaeftsdaten\Vertraege" /deny "$secPrefix-Vertraege_Lesen:(OI)(CI)W" /T
+icacls "$root\Geschaeftsdaten\Vertraege" /grant:r "$secPrefix-Vertraege_Schreiben:$modifyPermissions" /T
 
-#Vorlagen
-Set-DirectoryPermissions -DirectoryPath "$root\Vorlagen\" -GroupName "$secPrefix-Vorlagen_Lesen" -Permissions $readPermissions -Recursive -ReadOnly
-Set-DirectoryPermissions -DirectoryPath "$root\Vorlagen\" -GroupName "$secPrefix-Vorlagen_Schreiben" -Permissions $modifyPermissions -Recursive
+# Marketing permissions
+icacls "$root\Geschaeftsdaten\Marketing" /grant:r "$secPrefix-Marketing_Lesen:$readPermissions" /T
+icacls "$root\Geschaeftsdaten\Marketing" /deny "$secPrefix-Marketing_Lesen:(OI)(CI)W" /T
+icacls "$root\Geschaeftsdaten\Marketing" /grant:r "$secPrefix-Marketing_Schreiben:$modifyPermissions" /T
+
+# Templates permissions
+icacls "$root\Vorlagen" /grant:r "$secPrefix-Vorlagen_Lesen:$readPermissions" /T
+icacls "$root\Vorlagen" /deny "$secPrefix-Vorlagen_Lesen:(OI)(CI)W" /T
+icacls "$root\Vorlagen" /grant:r "$secPrefix-Vorlagen_Schreiben:$modifyPermissions" /T
 
 #files
 $subdirs = @(
