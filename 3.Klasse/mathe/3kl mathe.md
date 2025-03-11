@@ -21,3 +21,4 @@ tags:
 [[Integralrechnung]]
 [[Integrationsmethoden]]
 [[Integrieren]]
+[[Partielle Integration]]
