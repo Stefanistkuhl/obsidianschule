@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "52e6de013164a899",
+        "id": "78ac060e1cc87341",
         "type": "tabs",
         "children": [
           {
-            "id": "8e1c683e810dac48",
+            "id": "7e10e2d3a272a92c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,7 +139,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8e1c683e810dac48",
+  "active": "7e10e2d3a272a92c",
   "lastOpenFiles": [
     "3.Klasse/mathe/Partielle Integration.md",
     "3.Klasse/mathe/3kl mathe.md",
