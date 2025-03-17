@@ -12,3 +12,5 @@ tags:
 ![](report%20sheets%2017-03-2025-36.excalidraw.svg)
 ![](https://i.imgur.com/32nB8j4.jpeg)
 ![](https://i.imgur.com/p01VJAz.jpeg)
+![](https://i.imgur.com/2LWU9oo.jpeg)
+![](https://i.imgur.com/IADL1hu.jpeg)
