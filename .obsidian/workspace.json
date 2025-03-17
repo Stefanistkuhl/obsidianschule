@@ -4,20 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "78ac060e1cc87341",
+        "id": "52e6de013164a899",
         "type": "tabs",
         "children": [
           {
-            "id": "7e10e2d3a272a92c",
+            "id": "8e1c683e810dac48",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/englisch/report sheets.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "report sheets"
+            }
+          },
+          {
+            "id": "66ef93b8e0ee8c5b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/report sheets 17-03-2025-36.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "report sheets 17-03-2025-36.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,8 +156,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7e10e2d3a272a92c",
+  "active": "66ef93b8e0ee8c5b",
   "lastOpenFiles": [
+    "bilder/Pasted Image 20250317081541_421.png",
+    "3.Klasse/englisch/report sheets.md",
+    "bilder/report sheets 17-03-2025-36.excalidraw.svg",
+    "bilder/report sheets 17-03-2025-36.excalidraw.md",
+    "3.Klasse/englisch/table of content.md",
     "3.Klasse/mathe/Partielle Integration.md",
     "3.Klasse/mathe/3kl mathe.md",
     "3.Klasse/mathe/Substituiorend ding aufgaben.md",
@@ -148,8 +170,6 @@
     "3.Klasse/mathe/Lineare Substitution mit Formel.md",
     "3.Klasse/mathe/Integrieren.md",
     "Lineare Substitution.md",
-    "3.Klasse/englisch/report sheets.md",
-    "3.Klasse/englisch/table of content.md",
     "3.Klasse/itsi/aufgaben/windoof/script.ps1~",
     "3.Klasse/englisch/englisch matura textsortenzettel.md",
     "3.Klasse/englisch/3kl eng.md",
@@ -171,14 +191,11 @@
     "Zeichnungen/DR28-02-2025-35.excalidraw.svg",
     "Zeichnungen/DR28-02-2025-46.excalidraw.svg",
     "3.Klasse/nwt/SLAAC Overview.md",
-    "3.Klasse/nwt/IPv6-Scopes.md",
-    "3.Klasse/nwt/IPv6 Multicast.md",
     "quartz-sync.sh~",
     "bilder/Pasted Image 20250227141937_271.png",
     "bilder/Sozialdemokratie 27-02-2025-01.excalidraw.svg",
     "bilder/Hauptsatz 24-02-2025-43.excalidraw.svg",
     "bilder/unbestimmtes Integral 24-02-2025-16.excalidraw.svg",
-    "bilder/Stammfunktion & unbestimmtes Integral 24-02-2025-21.excalidraw.svg",
     "TEST",
     "quartz-sync.sh",
     "aaaaaaaa",
