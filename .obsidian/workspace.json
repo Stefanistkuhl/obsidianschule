@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "report sheets"
             }
-          },
-          {
-            "id": "9533068ea079f4a8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/report sheets 17-03-2025-36.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "report sheets 17-03-2025-36.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,10 +143,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9533068ea079f4a8",
+  "active": "8e1c683e810dac48",
   "lastOpenFiles": [
-    "3.Klasse/englisch/report sheets.md",
     "bilder/report sheets 17-03-2025-36.excalidraw.md",
+    "3.Klasse/englisch/report sheets.md",
     "bilder/Pasted Image 20250317081541_421.png",
     "bilder/report sheets 17-03-2025-36.excalidraw.svg",
     "3.Klasse/englisch/table of content.md",
