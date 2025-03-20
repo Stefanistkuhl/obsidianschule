@@ -11,13 +11,30 @@
             "id": "19fff4a3f87f28b8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/insy/Übung 9 windoof server test thing.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Übung 9 windoof server test thing"
+            }
+          },
+          {
+            "id": "b542772ecafc8037",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/Übung 9 windoof server test thing 20-03-2025-38.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Übung 9 windoof server test thing 20-03-2025-38.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,8 +156,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "19fff4a3f87f28b8",
+  "active": "b542772ecafc8037",
   "lastOpenFiles": [
+    "3.Klasse/insy/Übung 9 windoof server test thing.md",
+    "bilder/Übung 9 windoof server test thing 20-03-2025-38.excalidraw.svg",
+    "bilder/Übung 9 windoof server test thing 20-03-2025-38.excalidraw.md",
+    "3.Klasse/itsi/Windoof server security.md",
+    "3.Klasse/itsi/3kl itsi.md",
     "3.Klasse/englisch/table of content.md",
     "3.Klasse/englisch/report sheets.md",
     "bilder/report sheets 17-03-2025-36.excalidraw.md",
@@ -166,18 +188,13 @@
     "3.Klasse/mathe/Integralrechnung.md",
     "3.Klasse/mathe/Bsp Integrations Methoden.md",
     "3.Klasse/mathe/Integrationsmethoden.md",
-    "3.Klasse/mathe/mathe.md",
-    "Zeichnungen/DR28-02-2025-35.excalidraw.md",
-    "Zeichnungen/DR28-02-2025-46.excalidraw.md",
     "Zeichnungen/DR28-02-2025-46.excalidraw.png",
     "Zeichnungen/DR28-02-2025-35.excalidraw.png",
     "Zeichnungen/DR28-02-2025-35.excalidraw.svg",
     "Zeichnungen/DR28-02-2025-46.excalidraw.svg",
-    "3.Klasse/nwt/SLAAC Overview.md",
     "quartz-sync.sh~",
     "bilder/Pasted Image 20250227141937_271.png",
     "bilder/Sozialdemokratie 27-02-2025-01.excalidraw.svg",
-    "bilder/Hauptsatz 24-02-2025-43.excalidraw.svg",
     "TEST",
     "quartz-sync.sh",
     "aaaaaaaa",
