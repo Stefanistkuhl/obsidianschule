@@ -1,3 +1,8 @@
+---
+tags:
+  - m
+  - 3te_Klasse
+---
 
 Bsp:Lineares Substituioren 
 $$\int \sin(3x-1) \, dx $$
