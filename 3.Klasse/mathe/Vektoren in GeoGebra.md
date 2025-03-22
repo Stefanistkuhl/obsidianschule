@@ -24,3 +24,5 @@ deshalb cas superior und enf umrechen
 imma cas usen weill in sa wenn dokumentieren cursor übr algerba ding hovern damit man sieht von wo es kommt also simply cas bsp hier anyway
 ![](https://i.imgur.com/0nvZ9J2.png)
 bogenmaß zu deg = bognemaßweg\*180/pi
+
+Winkel im algebra eingeben + als kontrolle enf
