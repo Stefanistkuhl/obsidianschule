@@ -13,24 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/insy/Übung 9 windoof server test thing.md",
+                "file": "3.Klasse/mathe/Vektoren in GeoGebra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Übung 9 windoof server test thing"
-            }
-          },
-          {
-            "id": "20f51932f556f2a8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/Übung 9 windoof server test thing 20-03-2025-38.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Übung 9 windoof server test thing 20-03-2025-38.excalidraw"
+              "title": "Vektoren in GeoGebra"
             }
           }
         ]
@@ -151,41 +139,43 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "19fff4a3f87f28b8",
   "lastOpenFiles": [
-    "bilder/Übung 9 windoof server test thing 20-03-2025-38.excalidraw.md",
-    "3.Klasse/insy/Übung 9 windoof server test thing.md",
+    "3.Klasse/syt/😡Grrrrrlektrotechnik.md",
+    "3.Klasse/mathe/Vektoren in GeoGebra.md",
+    "3.Klasse/syt/werkstatt gpu dings notizen oidoa.md",
+    "3.Klasse/syt/Stefan Fürst Betriebssystem Aufgabe 2.md",
+    "3.Klasse/syt/syt aufgabe.md",
+    "3.Klasse/mathe/😖Mathiger.md",
+    "3.Klasse/Nawi/Wertigkeit.md",
+    "3.Klasse/nwt/dual stack topology.md",
+    "3.Klasse/nwt/EtherChannel (LAG).md",
+    "3.Klasse/nwt/Evolution of STP.md",
+    "3.Klasse/nwt/STP-States.md",
+    "3.Klasse/syt/Linuxdateisystem.md",
+    "3.Klasse/mathe/Umgekehrte Kurvendiskussion.md",
+    "3.Klasse/mathe/Stefan Fürst 4.Hü.md",
+    "3.Klasse/mathe/Sinusfunktion.md",
+    "3.Klasse/mathe/Kurvendiskussion.md",
+    "3.Klasse/mathe/kurvendiskissionbsp.md",
+    "3.Klasse/mathe/kurven diskussion prac.md",
+    "3.Klasse/mathe/kruvenskission feat gebbebra.md",
+    "3.Klasse/mathe/Kosten und Preis theorie.md",
+    "3.Klasse/mathe/Höhere Ableitungen.md",
+    "3.Klasse/mathe/Aufgabenpool things.md",
+    "3.Klasse/mathe/2.Sa thing yfear.md",
+    "3.Klasse/Ipt/something something ipt.md",
+    "3.Klasse/itsi/Stefan Fürst CVE aufgabe.md",
+    "3.Klasse/itsi/Cyber Killchain.md",
     "bilder/Übung 9 windoof server test thing 20-03-2025-38.excalidraw.svg",
-    "3.Klasse/itsi/Windoof server security.md",
-    "3.Klasse/itsi/3kl itsi.md",
-    "3.Klasse/englisch/table of content.md",
-    "3.Klasse/englisch/report sheets.md",
-    "bilder/report sheets 17-03-2025-36.excalidraw.md",
     "bilder/Pasted Image 20250317081541_421.png",
     "bilder/report sheets 17-03-2025-36.excalidraw.svg",
-    "3.Klasse/mathe/Partielle Integration.md",
-    "3.Klasse/mathe/3kl mathe.md",
-    "3.Klasse/mathe/Substituiorend ding aufgaben.md",
-    "3.Klasse/mathe/Substitutionsverfahren.md",
-    "3.Klasse/mathe/Lineare Substitution mit Formel.md",
-    "3.Klasse/mathe/Integrieren.md",
-    "Lineare Substitution.md",
     "3.Klasse/itsi/aufgaben/windoof/script.ps1~",
-    "3.Klasse/englisch/englisch matura textsortenzettel.md",
-    "3.Klasse/englisch/3kl eng.md",
-    "3.Klasse/nwt/First Hop Redundancy Protocols.md",
-    "bilder/First Hop Redundancy Protocols 07-03-2025-55.excalidraw.md",
     "bilder/First Hop Redundancy Protocols 07-03-2025-55.excalidraw.svg",
-    "3.Klasse/nwt/3kl nwt.md",
-    "bilder/Sozialdemokratie 27-02-2025-01.excalidraw.md",
-    "3.Klasse/ggp/Sozialdemokratie.md",
-    "3.Klasse/ggp/3kl GGP.md",
-    "3.Klasse/mathe/Integralrechnung.md",
-    "3.Klasse/mathe/Bsp Integrations Methoden.md",
-    "3.Klasse/mathe/Integrationsmethoden.md",
     "Zeichnungen/DR28-02-2025-46.excalidraw.png",
     "Zeichnungen/DR28-02-2025-35.excalidraw.png",
     "Zeichnungen/DR28-02-2025-35.excalidraw.svg",

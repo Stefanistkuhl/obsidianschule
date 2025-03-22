@@ -15,7 +15,7 @@ tags:
 - Cardinalities
 	- Help define the relationship in a numerical context.
 	- Minumums and Maximuns
-	- ![](Pasted%20image%2020241109160551.png.excalidraw.svg)
+	- ![](Pasted%20image%2020241109160551.png)
 - Primariy Keys
 	- An attribute or field that uniquely identifies every record within a certain table.
 	- Primary Key Rules

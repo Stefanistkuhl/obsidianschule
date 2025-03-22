@@ -9,4 +9,4 @@ tags:
 		- erstmals verbindliche Normen festgelgt
 [[Die Europäische Menschenrechtskonvention]]
 [[Grund und Freiheitsrechte in Ö]]
-![](Pasted%20image%2020241114142613.png.excalidraw.svg)
+![](Pasted%20image%2020241114142613.png)

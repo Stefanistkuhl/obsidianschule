@@ -48,9 +48,7 @@ arugment:
 
 # oida grafik analfick
 
-![](Pasted%20image%2020240418143027.png.excalidraw.svg)
-oversvierungen:
-- 50-64 größtes % Wachtstum 10%
+![](Pasted%20image%2020240418143027.pngtes % Wachtstum 10%
 	- danach 14-29 jährige frauen um 9%
 - frauen generell stark gewachsen und nur noch bissl hinter typen 
 - 2/5 aller leute zocken

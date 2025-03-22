@@ -41,7 +41,7 @@ Viele Pfeile zeichnen und Tabellen machen.
 
 ## 3. Vollständige Netzwerktopologie der gesamten übung
 
-![](Pasted%20image%2020240411210955.png.excalidraw.svg)
+![](Pasted%20image%2020240411210955.png)
 
 
 <div style="page-break-after: always; visibility: hidden"> \pagebreak 
@@ -49,18 +49,18 @@ Viele Pfeile zeichnen und Tabellen machen.
 
 ## 4. Übungsdurführung
 ### 4.1 Unzählige Bilder 
-![](Pasted%20image%2020240411212158.png.excalidraw.svg)
-![](Pasted%20image%2020240411212204.png.excalidraw.svg)
-![](Pasted%20image%2020240411212211.png.excalidraw.svg)
-![](Pasted%20image%2020240411212221.png.excalidraw.svg)
-![](Pasted%20image%2020240411212228.png.excalidraw.svg)
-![](Pasted%20image%2020240411212236.png.excalidraw.svg)
-![](Pasted%20image%2020240411212246.png.excalidraw.svg)
-![](Pasted%20image%2020240411212252.png.excalidraw.svg)
-![](Pasted%20image%2020240411212308.png.excalidraw.svg)
-![](Pasted%20image%2020240411212314.png.excalidraw.svg)
-![](Pasted%20image%2020240411212321.png.excalidraw.svg)
-![](Pasted%20image%2020240411212326.png.excalidraw.svg)
+![](Pasted%20image%2020240411212158.png)
+![](Pasted%20image%2020240411212204.png)
+![](Pasted%20image%2020240411212211.png)
+![](Pasted%20image%2020240411212221.png)
+![](Pasted%20image%2020240411212228.png)
+![](Pasted%20image%2020240411212236.png)
+![](Pasted%20image%2020240411212246.png)
+![](Pasted%20image%2020240411212252.png)
+![](Pasted%20image%2020240411212308.png)
+![](Pasted%20image%2020240411212314.png)
+![](Pasted%20image%2020240411212321.png)
+![](Pasted%20image%2020240411212326.png)
 
 
 ### 4.2 Routing Tabellen 

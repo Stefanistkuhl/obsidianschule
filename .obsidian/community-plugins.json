@@ -13,5 +13,6 @@
   "vim-yank-highlight",
   "obsidian-vimrc-support",
   "obsidian-latex-suite",
-  "obsidian-imgur-plugin"
+  "obsidian-imgur-plugin",
+  "global-search-and-replace"
 ]

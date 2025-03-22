@@ -62,4 +62,4 @@ tags:
 		- Dasseble aber in der fluid_msg::of13::MultipartReplyGroup::unpack routine.
 	- Zwei Mal so gut wie dasselbe nehmen ist zwar billig, aber nachdem ich ca 30 mal hintereinander in der Beschreibung prior to Version x gelesen habe habe ich es nun trotzdem gemacht.
 - (Bonus) Finden Sie ein CVE aus dem Jahr 2019 oder früher. Diese CVE darf noch keine Lösung / keinen Patch haben. (Beschreibung und Link zu CVE erforderlich)
-	- ![](Pasted%20image%2020240918185504.png.excalidraw.svg)![](Pasted%20image%2020240918185521.png.excalidraw.svg)
+	- ![](Pasted%20image%2020240918185504.png)![](Pasted%20image%2020240918185521.png)

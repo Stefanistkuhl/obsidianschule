@@ -31,5 +31,5 @@ die protokolle sind zum  verhanlden und senden verhandlungs packete
 	- active
 	- passive
 	- bei verschiedenen verstellern benötigt
-![](Pasted%20image%2020250110094005.png.excalidraw.svg)
+![](Pasted%20image%2020250110094005.png)
 [[Configuring EtherChanel]]

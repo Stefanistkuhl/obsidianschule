@@ -23,4 +23,4 @@ gerüchte:
 	- mehre chips zu einer iNtErCoNnEcteTeN gpu
 - warum will man das überhaupt kaufen
 	- mit ner gebrauchten 30er serie kann man eh jedes game ohne problem spielen selbst die 40er serie ist recht unnötig
-![](Pasted%20image%2020240412090338.png.excalidraw.svg)
+![](Pasted%20image%2020240412090338.png)

@@ -4,8 +4,7 @@ tags:
   - ehtik
 ---
 ![](Das%20Meer%20in%20mir%2010-12-2024-42.excalidraw.svg)
-![](Pasted%20image%2020241210150316.png.excalidraw.svg)
-- Erfahrung des Sachverhalts als ethisches Problem
+![](Pasted%20image%2020241210150316.png als ethisches Problem
 	- Wie beurteile ich intiutiv den Fall?
 		- Roman hat recht, sich für eine Einführung der Sterbehilfe einzusetzen und sollte das recht bekommen, legal und würdevoll zu sterben
 	- Wo liegt der Kern für mich des Ethischen Problem?

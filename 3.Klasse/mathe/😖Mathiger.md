@@ -662,7 +662,7 @@ f)
 x=\frac{1}{1.649}=0,607
 ```
 oida ich wüsste gerne wieso das fancy plugin um den graph zu machen, ln nicht erkennt D:
-![](Pasted%20image%2020240227172103.png.excalidraw.svg)
+![](Pasted%20image%2020240227172103.png)
 
 
 4.83)
@@ -716,13 +716,13 @@ f_{4}(t)=4*1.02^t → Zunahme
 ```
 
 4.115)
-![](Pasted%20image%2020240303143831.png.excalidraw.svg)
+![](Pasted%20image%2020240303143831.png)
 4.117)
 a)
 8 → gleichbleinde Kraft F → Newton
 50 → 
 b)
-![](Pasted%20image%2020240303182844.png.excalidraw.svg)
+![](Pasted%20image%2020240303182844.png)
 c)
 ca 8 m/s
 d)

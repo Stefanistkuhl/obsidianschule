@@ -13,9 +13,9 @@ tags:
 Folien auf teams
 
 Schreibtischlampen c)
-![](Pasted%20image%2020241202121755.png.excalidraw.svg)
+![](Pasted%20image%2020241202121755.png)
 Kaffeegetränke c)
-![](Pasted%20image%2020241202121827.png.excalidraw.svg)
+![](Pasted%20image%2020241202121827.png)
 1)
 Kostenkehre = Wendepunkt
 $$K_{2}''(x)=0$$

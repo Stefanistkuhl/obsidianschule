@@ -29,7 +29,7 @@ tags:
 		- Pluspol an das p ende und den Minuspol and das n ende -> je größer die Spannung desto größer die Sperrschicht 
 	- Skizzieren sie die Kennlinie einer Halbleiterdiode und geben sie an, wodurch eine Diode zerstört werden kann.
 		- Zu großer Durchlassstrom -> thermische Zerstörung der Diode. In die Sperrichtung  führt die Überschreitung der Durchbruchspannung UBR zu einem starken Ansteigen des Sperrstroms und ebensfalls zur Zerstörung der Diode 
-		- ![](Pasted%20image%2020230918132902.png.excalidraw.svg) 
+		- ![](Pasted%20image%2020230918132902.png) 
 		- 
 - Mikroprozessor Herstellung
 	- Plasma
@@ -104,10 +104,10 @@ SMD = Surface Mounted Device
 	- steht oben schon 
 - n ding
 	- mehr e- als Löcher mit 5 außen e- zb Phosphor asen antimon → Donator
-	- durch e- Überschuss ist das energieneou des Dotierten e- höher(näher) beim Leitungsband → braucht weniger energie, dass es leitend wird ![](Pasted%20image%2020231112161519.png.excalidraw.svg)
+	- durch e- Überschuss ist das energieneou des Dotierten e- höher(näher) beim Leitungsband → braucht weniger energie, dass es leitend wird ![](Pasted%20image%2020231112161519.png)
 - p ding
 	- mehr Löcher als e- → 3 Außen e- zb Bhor, Alluminium, Gallium
-	- Löcher Wandern gegen die Stromrichtung![](Pasted%20image%2020231112162302.png.excalidraw.svg)
+	- Löcher Wandern gegen die Stromrichtung![](Pasted%20image%2020231112162302.png)
 - pn vorrausetzungen betrieb in Sperrichtung
 	- negativ gepolt, Minoritätsträgerstrom
 	- Sperrschicht wird größer
@@ -130,13 +130,13 @@ SMD = Surface Mounted Device
 		- max periodischer Spitzenstrom: IFRM
 		- max zulässige Verlustleistung: Ptot
 - Wie ist eine Halbleiterdiode aufgebaut
-	- ![](Pasted%20image%2020231112170349.png.excalidraw.svg)
+	- ![](Pasted%20image%2020231112170349.png)
 - Welche Eigenschaften hat die Durchlasskennlinie
 	- 0,7v si 0,3v Germanium Schwellspannung in Durchgangsrichtung dann Steile lineare Kennlinie
 - Was versteht man unter Durchbruch
 	- gegen Durchlassrichtung betrieben Spannung bei Diode bei der es nicht mehr Halten kann → Durchbruchspannung kaputt
 - Beschreiben Sie Strom und Spannungsverläufe bei EinwegGleichrichtschaltung
-	- Wenn Diode richtig Dimensioniert lässt nur eine Halbwelle durch → Wechselspannung zu Gleichspannung  ![](Pasted%20image%2020231112171002.png.excalidraw.svg)
+	- Wenn Diode richtig Dimensioniert lässt nur eine Halbwelle durch → Wechselspannung zu Gleichspannung  ![](Pasted%20image%2020231112171002.png)
 
 - Widerstand Dimensionieren 
 	- RF = UF/IF
@@ -205,4 +205,3 @@ Rückwirkungskenlinie Ube=f(Uce)
 
 ![](DR22-01-2024-08.excalidraw.svg)
 ![](DR22-01-2024-30.excalidraw.svg)
-

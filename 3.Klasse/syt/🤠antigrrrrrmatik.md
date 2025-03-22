@@ -29,16 +29,16 @@ Der Prozess kann mit einer Handvoll Elemente charakterisiert werden, diese heiß
 
 "Header" des Prozesses → 
 
-| Platzhalter  | Platzhalter2   | 
-|-------|---------|
-| Identifier             | eindeutige Kennung des Prozesses |
-| State                  | Programmzustand (running, wait) |
-| Priority               | "Rangordnung" |
-| Programm Counter       | zeigt auf aktuelle code zeilen |
-| Memory Pointers        | Zeiger auf bestimme Speicherplätze |
-| Context Data           | Zugehöriger Datensatz |
-| I/O status             |
-| Accounting Information | Zugrifsrechte |
+| Platzhalter            | Platzhalter2                       |     |
+| ---------------------- | ---------------------------------- | --- |
+| Identifier             | eindeutige Kennung des Prozesses   |     |
+| State                  | Programmzustand (running, wait)    |     |
+| Priority               | "Rangordnung"                      |     |
+| Programm Counter       | zeigt auf aktuelle code zeilen     |     |
+| Memory Pointers        | Zeiger auf bestimme Speicherplätze |     |
+| Context Data           | Zugehöriger Datensatz              |     |
+| I/O status             |                                    |     |
+| Accounting Information | Zugrifsrechte                      |     |
 
 "Dining philosopher problem" (von Dijkstra)
 5 Italiäner, 5 Teller, 5 Gabeln
@@ -51,10 +51,10 @@ Algorhytmus: Jeder nimmt zuerst die <mark style="background: #FFB8EBA6;">linke G
 
 Prozesse A und B kooperieren:
 
-| A | B |
-| ---- | ---- |
-| wartet auf Ressource x | benötigt Ressource x, kann sie erst freigegeben werden wenn nötige Info von Prozess A kommt |
-| A kann die erwartete Info nur liefern, wenn Ressource x verfügbar ist |  |
+| A                                                                     | B                                                                                           |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| wartet auf Ressource x                                                | benötigt Ressource x, kann sie erst freigegeben werden wenn nötige Info von Prozess A kommt |
+| A kann die erwartete Info nur liefern, wenn Ressource x verfügbar ist |                                                                                             |
 
 → <mark style="background: #FFB8EBA6;">Klassischer Deadlock</mark>
 
@@ -391,4 +391,3 @@ Das Jobobject (i.e "Gruppe von Prozessen") kann zb Attribute steuern und den bet
 		- Nachteil 
 			- langsam, kein direkter zugriff auf die HW
 		- Bsp VirtualBox, Vmware Workstation,...
-
