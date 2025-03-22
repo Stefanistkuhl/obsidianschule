@@ -12,5 +12,14 @@ tags:
 - richtungsvektor
 	- Von einem Punkt zum anderen 
 		- Punkte Subrahieren 
+- Parameter darstellung einer geraden
+	- $$g: \vec{x}=OV*t*RV$$
+		- OV = Ortsvektor, RV = Richtungsvektor
+- Gegenvektor
+	- vorzeichen ändern
 die 2 subtraktion am ende sind richtungs vektoren
 ![](https://i.imgur.com/N4guply.png)
+
+#### Something seomthing geraden shit
+
+Bestimme eine Gleichung der Ebene E in Parameterfrom, die 
