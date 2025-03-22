@@ -22,4 +22,28 @@ die 2 subtraktion am ende sind richtungs vektoren
 
 #### Something seomthing geraden shit
 
-Bestimme eine Gleichung der Ebene E in Parameterfrom, die 
+Bestimme eine Gleichung der Ebene E in Parameterfrom, die durch die Punkte A(1,5, -4), B(0,-2,3) und C(-2,-3,1) verläuft.
+
+$$E: \vec{x}=\vec{P}+r*\vec{u}+s*\vec{v}$$
+P ... Ortsvektor
+u ... Richtungsvektor
+v ... noch ein Richtungsvektor
+
+die müssen in dem bsp gefunden werden
+
+Für P kann ein belibiger punkt genommen werden
+Für müssen 2 Vektoren verbunden werden
+in dem Fall A und B
+Für den 2ten von A nach C
+$$E:\vec{x}=\vec{A}+r*\vec{AB}+s*\vec{AC}$$
+Um die strecke zu berechen hinteren von vorderen punkt abziehen.
+$$\vec{AB}=B-A=\begin{pmatrix}
+-2 \\ -3 \\ 1
+\end{pmatrix}$$
+$$\vec{AC}=C-A=\begin{pmatrix}
+-3 \\ -8 \\ 5
+\end{pmatrix}$$
+$$E: \vec{x}=\begin{pmatrix} 1 \\ 5 \\ -4\end{pmatrix}+r*\begin{pmatrix} -2 \\ -3 \\1\end{pmatrix}+s* \begin{pmatrix} -3 \\ -8 \\5 \end{pmatrix}$$
+
+#### somethign soemething geraden schnittpunkt
+$$g: \vec{x}= \begin{pmatrix}2 \\ 2 \\-3\end{pmatrix}+s* \begin{pmatrix} 2 \\1 \\-1\end{pmatrix}$$
