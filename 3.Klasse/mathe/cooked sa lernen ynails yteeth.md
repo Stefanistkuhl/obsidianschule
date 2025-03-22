@@ -47,3 +47,7 @@ $$E: \vec{x}=\begin{pmatrix} 1 \\ 5 \\ -4\end{pmatrix}+r*\begin{pmatrix} -2 \\ -
 
 #### somethign soemething geraden schnittpunkt
 $$g: \vec{x}= \begin{pmatrix}2 \\ 2 \\-3\end{pmatrix}+s* \begin{pmatrix} 2 \\1 \\-1\end{pmatrix}$$
+$$h: \vec{x}=\begin{pmatrix}3\\0\\-1\end{pmatrix}+t*\begin{pmatrix}1\\-2\\2\end{pmatrix}$$
+gleichung afustellen mit allen zahlen oben dann mitte und und ann geo gebra bum bam
+![](https://i.imgur.com/ArSvYIQ.png)
+Dann einsetzen
