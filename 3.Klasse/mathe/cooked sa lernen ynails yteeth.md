@@ -98,3 +98,4 @@ $$a: X = \binom{387}{295}+t*\binom{22}{40}$$
 Einsetzen in eine der gleichungen
 ![](https://i.imgur.com/bj37edD.png)
 3)
+![](https://i.imgur.com/ccrY1Ks.png)
