@@ -51,3 +51,35 @@ $$h: \vec{x}=\begin{pmatrix}3\\0\\-1\end{pmatrix}+t*\begin{pmatrix}1\\-2\\2\end{
 gleichung afustellen mit allen zahlen oben dann mitte und und ann geo gebra bum bam
 ![](https://i.imgur.com/ArSvYIQ.png)
 Dann einsetzen
+
+#### something somethuing üben
+
+##### smü bsp fähren ding
+![](https://i.imgur.com/TiZS3Mn.jpeg)
+a)
+b)
+$$g: X = \binom{16}{4}+s*\binom{4}{-16}$$
+c)
+
+#### Auf dem Eislaufplatz* (B_634)
+a)
+1-2)
+![](cooked%20sa%20lernen%20ynails%20yteeth%2023-03-2025-56.excalidraw.svg)
+3)
+die druch 5 sind da, weil es ja die länge in meter ist und der vektor gibt nur die richtung an
+![](https://i.imgur.com/861GIYa.png)
+4)
+![](https://i.imgur.com/5PkNBeU.png)
+da is shcon die whole ass formel aber noch nd mit arccos zu nem winkel gemacht
+#### Elektrofahrrad* (B_613)
+b)
+1)
+$$\vec{v_{1}}=\vec{v_{2}}-\vec{v_{3}}$$
+2)
+![](https://i.imgur.com/VAemcm1.png)
+#### Fundamentale Wechselwirkungen* (B_429)
+c)
+![](cooked%20sa%20lernen%20ynails%20yteeth%2023-03-2025-55.excalidraw.svg)
+#### Keilriemen eines Motos \*(B_626)
+a)
+1)
