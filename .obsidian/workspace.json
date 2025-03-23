@@ -154,8 +154,7 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "d5260189081b16d7",
