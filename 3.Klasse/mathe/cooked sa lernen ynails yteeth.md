@@ -17,6 +17,9 @@ tags:
 		- OV = Ortsvektor, RV = Richtungsvektor
 - Gegenvektor
 	- vorzeichen ändern
+- normalvektor
+	- wenn 2d komponentauschen und 1 vorzeichen ändern
+	- wenn 3d kreuzprodukt
 die 2 subtraktion am ende sind richtungs vektoren
 ![](https://i.imgur.com/N4guply.png)
 
@@ -83,3 +86,15 @@ c)
 #### Keilriemen eines Motos \*(B_626)
 a)
 1)
+$$A=(427,273)$$
+$$P=(472.2,279.4)$$
+$$b:X=\vec{P}+s*\vec{AP}$$
+$$\vec{AP}=P-A=\binom{45.2}{6.4}$$
+$$b:X=\binom{472.2}{279.4}+s*\binom{-6.4}{45.2}$$
+\- ap weil die gerade wär dann waagrecht und deshalb das minus für den normalvektor oder so idk xd kekwww
+2)
+$$a: X = \binom{387}{295}+t*\binom{22}{40}$$
+![](https://i.imgur.com/5JoUz94.png)
+Einsetzen in eine der gleichungen
+![](https://i.imgur.com/bj37edD.png)
+3)
