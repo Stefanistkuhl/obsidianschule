@@ -99,3 +99,24 @@ Einsetzen in eine der gleichungen
 ![](https://i.imgur.com/bj37edD.png)
 3)
 ![](https://i.imgur.com/ccrY1Ks.png)
+4)
+v ist der richtungs vektor zu a
+![](https://i.imgur.com/CEGz2N6.png)
+#### Nähmaschiene \*(B_591)
+a)
+1)
+
+
+#### 9.65
+$$\vec{a}=\begin{pmatrix}
+-2 \\ 1 \\ 4
+\end{pmatrix}$$
+$$\vec{b}=\begin{pmatrix}
+3\\-2\\2
+\end{pmatrix}$$
+$$\vec{c}=\begin{pmatrix}
+1\\-1\\6
+\end{pmatrix}$$
+![](https://i.imgur.com/L19IklR.png)
+
+a\*b = 0 a und b sthen normal aufeinander → vekoren builden ein rechtwinkeliges dreieck
