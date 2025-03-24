@@ -133,8 +133,7 @@
               "title": "Vektoren rechenoperationen"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,9 +233,19 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "8f98528d1e0391f4",
+            "type": "leaf",
+            "state": {
+              "type": "smart-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Smart Chat"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -253,13 +262,15 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "09791afa9a6cacbd",
+  "active": "8f98528d1e0391f4",
   "lastOpenFiles": [
-    "Chats/New Chat.md",
     "3.Klasse/englisch/report sheets.md",
+    "Chats/New Chat.md",
     "Chats",
     "3.Klasse/englisch/table of content.md",
     "3.Klasse/mathe/Integrieren.md",

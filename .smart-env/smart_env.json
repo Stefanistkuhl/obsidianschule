@@ -24,5 +24,26 @@
   },
   "smart_notices": {
     "muted": {}
+  },
+  "smart_threads": {
+    "chat_model": {
+      "adapter": "gemini",
+      "openai": {
+        "model_key": "gpt-4o"
+      },
+      "custom": {
+        "api_adapter": "ollama"
+      },
+      "gemini": {
+        "model_key": ""
+      }
+    },
+    "embed_model": {
+      "model_key": "None"
+    },
+    "language": "en",
+    "review_context": false,
+    "lookup_limit": "10",
+    "send_tool_output_in_user_message": false
   }
 }
