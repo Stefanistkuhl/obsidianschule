@@ -6,6 +6,6 @@ tags:
 ---
 [[🥲2te Klasse]] [[🤠antigrrrrrmatik]]
 
-[[betriebsysthme wiederholung]]
+[[betriebsysthme-wiederholung]]
 
-[[Linux my beloved]]
+[[linux-basics]]

@@ -31,4 +31,4 @@ Ideen:
 
 ![](Pasted%20image%2020241024142302.png)
 
-[[ggp test zettel fragen beatworten]]
+[[historische-und-politische-konzepte-aufklärung]]

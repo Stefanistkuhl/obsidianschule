@@ -4,10 +4,10 @@
 		{"id":"a7d0e13af332c902","type":"text","text":"|| nicht monetäre Ziele","x":-20,"y":0,"width":250,"height":60},
 		{"id":"9507318c96dd6e71","type":"text","text":"Geld, Finanzielle Angelegenheiten","x":-400,"y":120,"width":250,"height":60},
 		{"id":"ccd102f5dd81d8d8","type":"text","text":"alle resl Ziele u,a Umwelt, Zussamenarbeit, ...","x":-20,"y":120,"width":320,"height":60},
-		{"id":"2b8f161ba190ddd8","type":"text","text":"[[Motivation|Motiv]] Warum?","x":-220,"y":240,"width":250,"height":60},
+		{"id":"2b8f161ba190ddd8","type":"text","text":"[[motivation|Motiv]] Warum?","x":-220,"y":240,"width":250,"height":60},
 		{"id":"5aea5f9fbbafed56","type":"text","text":"Qualitative Ziele","x":-20,"y":360,"width":250,"height":50},
 		{"id":"1cc0cb4c6a0de50e","type":"text","text":"Quantitative Ziele","x":-400,"y":360,"width":250,"height":50},
-		{"id":"f4ea03ba49af7ca9","x":-295,"y":-520,"width":400,"height":400,"type":"file","file":"3.Klasse/Ipt/Rollen im Projektmanagment.md"},
+		{"id":"f4ea03ba49af7ca9","x":-295,"y":-520,"width":400,"height":400,"type":"file","file":"3.Klasse/Ipt/rollen-im-projektmanagement.md"},
 		{"id":"5f948f909344fe91","x":-20,"y":481,"width":250,"height":60,"type":"text","text":"Wie gut?"},
 		{"id":"7168ee1a2a8c27bb","x":-400,"y":481,"width":250,"height":60,"type":"text","text":"Wieviel?"}
 	],

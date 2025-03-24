@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6d153ecb9387df05",
+        "id": "615bac9eeb382ce9",
         "type": "tabs",
         "children": [
           {
-            "id": "00d8f4df83a8f2c6",
+            "id": "3d73571babfa7f2d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/syt/zur-erinnerung-plattenkondensator.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "zur-erinnerung-plattenkondensator"
             }
           }
         ]
@@ -139,35 +143,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "00d8f4df83a8f2c6",
+  "active": "3d73571babfa7f2d",
   "lastOpenFiles": [
-    "3.Klasse/mathe/oida ich weiß auch nd mehr ich hasse alles ReallyMad.md",
-    "3.Klasse/mathe/iujsegifjsdijgsdijgi.md",
-    "3.Klasse/Nawi/Diodenampelschaltung oda so ein kram oida.md",
-    "3.Klasse/itsi/Übung 9 windoof server test thing.md",
-    "3.Klasse/nwt/SUTP-Kabel.md",
-    "3.Klasse/medt/Gestaltung von Webseiten.md",
-    "3.Klasse/Ipt/Eskalationsstufen.md",
-    "3.Klasse/sew/oop things.md",
-    "3.Klasse/mathe/Vektoren rechenoperationen.md",
-    "3.Klasse/Ipt/Dsgvo.md",
-    "3.Klasse/medt/medt v2.md",
-    "3.Klasse/medt/Podcasttrailer.md",
-    "3.Klasse/medt/3kl medt.md",
-    "3.Klasse/3te Klasse.md",
-    "3.Klasse/medt/Design.md",
-    "3.Klasse/itsi/tools für ethical hacking.md",
-    "3.Klasse/mathe/cooked sa lernen ynails yteeth.md",
-    "3.Klasse/englisch/report sheets.md",
-    "Chats/New Chat.md",
+    "3.Klasse/syt/zeiger-und-liniendiagramm-einer-spule.md",
+    "3.Klasse/syt/zeiger-und-liniendiagramm.md",
+    "3.Klasse/syt/wh-komplexer-wiederstand-impedanzen.md",
+    "3.Klasse/syt/werkstatt-gpu-dings-notizen-oidoa.md",
+    "3.Klasse/syt/wechselstrombsps-idk-no-lol.md",
+    "3.Klasse/syt/wechselstromtechnik.md",
+    "3.Klasse/syt/wechselstrom-komponenten.md",
+    "3.Klasse/syt/von-neumannn-rechnermodell.md",
+    "3.Klasse/syt/vektorrechnung-quick-and-dirty.md",
+    "3.Klasse/syt/überischt-festdatenspeicher.md",
+    "3.Klasse/syt/linux-(tux)-basics.md",
+    "überisscht.md",
+    "3.Klasse/syt/transistor.md",
+    "3.Klasse/syt/syt_elektro.md",
+    "3.Klasse/syt/syt-aufgabe-betriebsysteme-(ceti-kann-nicht-unterrichten).md",
+    "3.Klasse/syt/Syt_info.md",
+    "3.Klasse/syt/stefan-fürst-betriebssystem-aufgabe-2.md",
+    "3.Klasse/syt/rpi-vieh-ampel-python.md",
+    "3.Klasse/syt/rpi-thing.md",
+    "3.Klasse/syt/rom.md",
+    "3.Klasse/syt/rechte-buchstaben-bedetugungen-aishfsudhgudfghufgh.md",
+    "3.Klasse/syt/ram.md",
+    "3.Klasse/syt/operationsverstärker.md",
+    "3.Klasse/syt/oida-scheiß-rechte-in-linux-ich-hasse-mich-so-sehr-(skill-issue-kekPoint).md",
+    "3.Klasse/syt/mikroprozessoren.md",
+    "3.Klasse/syt/linuxdateisystem.md",
+    "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/Fürst_Frame_Analyse_Wireshark.pdf",
+    "3.Klasse/nwt/aufgaben/switch-conf/images/ipv6.png",
+    "2.Klasse/Ipt/MonetäreZiele.canvas",
+    "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/alt/StatischesRouting.pdf",
+    "ob/2.Klasse/Medt",
+    "ob/2.Klasse",
+    "ob",
     "Chats",
-    "3.Klasse/englisch/table of content.md",
-    "3.Klasse/mathe/Integrieren.md",
-    "3.Klasse/mathe/Vektoren in GeoGebra.md",
-    "3.Klasse/mathe/Lineare Substitution mit Formel.md",
-    "3.Klasse/mathe/Vektoren Srdp.md",
-    "3.Klasse/mathe/Substitutionsverfahren.md",
-    "bilder/cooked sa lernen ynails yteeth 23-03-2025-55.excalidraw.md",
     "bilder/Pasted Image 20250323163903_809.png",
     "bilder/cooked sa lernen ynails yteeth 23-03-2025-55.excalidraw.svg",
     "bilder/Pasted Image 20250323161257_765.png",
@@ -178,14 +189,8 @@
     "3.Klasse/itsi/aufgaben/windoof/script.ps1~",
     "bilder/First Hop Redundancy Protocols 07-03-2025-55.excalidraw.svg",
     "Zeichnungen/DR28-02-2025-46.excalidraw.png",
-    "Zeichnungen/DR28-02-2025-35.excalidraw.png",
     "quartz-sync.sh~",
     "TEST",
-    "quartz-sync.sh",
-    "aaaaaaaa",
-    "workflows",
-    "3.Klasse/itsi/aufgaben/ctf/protokoll/a/GRP-7-Tremurici-Fürst-Lab-5.zip",
-    "3.Klasse/itsi/aufgaben/ctf/protokoll/a/ziaOrlro",
-    "3.Klasse/itsi/aufgaben/ctf/protokoll/a/server.py"
+    "quartz-sync.sh"
   ]
 }

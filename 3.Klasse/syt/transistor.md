@@ -4,7 +4,7 @@ tags:
   - syt
   - syt_elektro
 ---
-[[grrrrrlektrotechnik v2 mit sin]]
+[[grrrrrlektrotechnik-v2-mit-sin]]
 [[🤠antigrrrrrmatik]]
 #2te_Klasse #syt
 
@@ -36,5 +36,5 @@ $$ ρ... Spezifischer Wiederstand = \frac{Ω*mm²}m{} $$
 
 
 ![](diemensionierung%20transistor|dimensionierung.excalidraw.svg)
-[[Operationsverstärker]]
+[[operationsverstärker]]
 

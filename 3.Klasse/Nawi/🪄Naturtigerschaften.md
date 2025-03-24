@@ -18,8 +18,8 @@ tags:
 	- Chemisches Rechnen
 		- Gleichungne aufstellen
 		- Ausbeute berechnen
-[[Nawi test 2 üben]]
-[[Nawitest lernen oida]]
+[[nawi-test-2-üben]]
+[[nawitest-2-lernen-oida]]
 
 <mark style="background: #FFB8EBA6;">Teststoff</mark>
 
@@ -202,5 +202,5 @@ npn
 - Mit Ugs: e- Brücke bildet sich → Stromfluss
 
 
-[[Chemishe Reaktionen]]
-[[Säuren und Basen]]
+[[chemishe-reaktionen]]
+[[säuren-und-basen]]

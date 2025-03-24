@@ -3,7 +3,7 @@ tags:
   - nwt
   - 3te_Klasse
 ---
-[[VLAN Creation Commands]]
-[[VLAN Port Assigment Commands]]
-[[change vlan port membership]]
-[[Trunk Configuration Commands]]
+[[vlan-creation-commands]]
+[[vlan-port-assigment-commands]]
+[[change-vlan-port-membership]]
+[[trunk-configuration-commands]]

@@ -4,5 +4,5 @@ tags:
   - e
   - sprache
 ---
-[[article zettel thing]]
-[[article topic sentence sheet]]
+[[article-improvement-sheet]]
+[[article-topic-sentence-sheet]]

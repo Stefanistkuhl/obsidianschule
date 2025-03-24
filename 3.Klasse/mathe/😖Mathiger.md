@@ -399,12 +399,12 @@ g(x)=1/x
 
 # <mark style="background: #FFB8EBA6;">Komplexe Zahlen</mark>
 
-[[Komplexe Zahlen]]
+[[komplexe-zahlen]]
 ## <mark style="background: #FFB8EBA6;">Polarformen komplexer Zahlen</mark>
 
 
 # oida kreisfunktion
-[[ka was für kak msa lernen muss oda so OIDA]]
+[[msa-vorbereitung]]
 
 [[einheitskreis]]
 # Idi
