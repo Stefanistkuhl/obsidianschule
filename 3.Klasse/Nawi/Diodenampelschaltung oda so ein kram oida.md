@@ -1,7 +1,7 @@
 ---
 tags:
   - 2te_Klasse
-  - nawi
+  - syt_elektro
 ---
 ![](Diodenampelschaltung%20oda%20so%20ein%20kram%20oida%2007-05-2024-48.excalidraw.svg)
 

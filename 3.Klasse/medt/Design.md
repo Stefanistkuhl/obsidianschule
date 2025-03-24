@@ -1,5 +1,6 @@
 #2te_Klasse #medt
 
+[[🫠Medientiger]]
 > hinter jedem gestalterischen Entwurf steht eine <mark style="background: #FFB8EBA6;">Absicht</mark> bzw ein Auftrag
 
 Die Absicht etwas schöner, funktioneller, zweckmäßiger, farbiger, benutzerfreundlicher zu machen.
