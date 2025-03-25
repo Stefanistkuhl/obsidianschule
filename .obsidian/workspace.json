@@ -11,10 +11,14 @@
             "id": "83448b360861a715",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/medt/medt-video-thing.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "medt-video-thing"
             }
           }
         ]
@@ -141,6 +145,8 @@
   },
   "active": "83448b360861a715",
   "lastOpenFiles": [
+    "3.Klasse/medt/3kl-medt.md",
+    "3.Klasse/medt/medt-video-thing.md",
     "3.Klasse/syt/zur-erinnerung-plattenkondensator.md",
     "3.Klasse/syt/zeiger-und-liniendiagramm-einer-spule.md",
     "3.Klasse/syt/zeiger-und-liniendiagramm.md",
@@ -165,8 +171,6 @@
     "3.Klasse/syt/rechte-buchstaben-bedetugungen-aishfsudhgudfghufgh.md",
     "3.Klasse/syt/ram.md",
     "3.Klasse/syt/operationsverstärker.md",
-    "3.Klasse/syt/oida-scheiß-rechte-in-linux-ich-hasse-mich-so-sehr-(skill-issue-kekPoint).md",
-    "3.Klasse/syt/mikroprozessoren.md",
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/Fürst_Frame_Analyse_Wireshark.pdf",
     "3.Klasse/nwt/aufgaben/switch-conf/images/ipv6.png",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
