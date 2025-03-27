@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/deutsch/srdp-kommentar-übung.md",
+                "file": "3.Klasse/ggp/christliche-soziallehre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "srdp-kommentar-übung"
+              "title": "christliche-soziallehre"
             }
           }
         ]
@@ -145,8 +145,10 @@
   },
   "active": "ea8169bafcc8cd56",
   "lastOpenFiles": [
-    "3.Klasse/deutsch/kommentar.md",
+    "3.Klasse/ggp/3kl-ggp.md",
+    "3.Klasse/ggp/christliche-soziallehre.md",
     "3.Klasse/deutsch/srdp-kommentar-übung.md",
+    "3.Klasse/deutsch/kommentar.md",
     "3.Klasse/deutsch/3kl-deutsch.md",
     "bilder/partielle-integration 25-03-2025-36.excalidraw.md",
     "3.Klasse/mathe/partielle-integration.md",
@@ -170,8 +172,6 @@
     "3.Klasse/syt/syt_elektro.md",
     "3.Klasse/syt/syt-aufgabe-betriebsysteme-(ceti-kann-nicht-unterrichten).md",
     "3.Klasse/syt/Syt_info.md",
-    "3.Klasse/syt/stefan-fürst-betriebssystem-aufgabe-2.md",
-    "3.Klasse/syt/rpi-vieh-ampel-python.md",
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/Fürst_Frame_Analyse_Wireshark.pdf",
     "3.Klasse/nwt/aufgaben/switch-conf/images/ipv6.png",
     "2.Klasse/Ipt/MonetäreZiele.canvas",

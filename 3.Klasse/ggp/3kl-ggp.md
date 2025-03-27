@@ -19,3 +19,4 @@ tags:
 [[globalisierung]]
 [[marxismus]]
 [[sozialdemokratie]]
+[[christliche-soziallehre]]
