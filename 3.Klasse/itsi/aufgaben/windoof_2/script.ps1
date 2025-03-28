@@ -1,5 +1,5 @@
 $pw = ConvertTo-SecureString "rafi123_" -AsPlainText -Force
-$pw2 = ConvertTo-SecureString "password" -AsPlainText -Force
+$pw2 = ConvertTo-SecureString "password123_" -AsPlainText -Force
 New-LocalUser -Name 'fus-admin' -Password $pw
 New-LocalUser -Name 'fus-user' -Password $pw
 Add-LocalGroupMember -Group "Administrators" -Member fus-admin
