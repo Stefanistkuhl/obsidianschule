@@ -36,7 +36,6 @@ foreach ($dir in $subdirs)
 
 Write-Host "Directories have been created"
 
-$secPrefix = "SG_"
 
 $secGroupNames = (
 	"some_group1",
@@ -46,15 +45,41 @@ $secGroupNames = (
 
 foreach ($secgrpname in $secGroupNames)
 {
-	$name = $secPrefix + $secgrpname
-	New-LocalGroup -Name $name
+	New-LocalGroup -Name $secgrpname
 	# Add the security group to the Remote Desktop Users group
-	Add-LocalGroupMember -Group "Remote Desktop Users" -Member $name
+	Add-LocalGroupMember -Group "Remote Desktop Users" -Member $secgrpname
+}
+
+# Define the list of users to add
+$newUsers = @(
+	"user1",
+	"user2",
+	"user3",
+	"user4",
+	"user5"
+)
+
+# Loop through the new users and add them to random security groups and Remote Desktop Users
+foreach ($userName in $newUsers)
+{
+	$randomPassword = ConvertTo-SecureString ([System.Guid]::NewGuid().ToString()) -AsPlainText # Generate a random password
+	New-LocalUser -Name $userName -Password $randomPassword
+
+	# Randomly select a security group
+	$randomIndex = Get-Random -Maximum $secGroupNames.Count
+	$randomGroupName = $secGroupNames[$randomIndex]
+
+	# Add the user to the random security group
+	Add-LocalGroupMember -Group $randomGroupName -Member $userName
+	Write-Host "User '$userName' added to group '$randomGroupName'"
+
+	# Add the user to the Remote Desktop Users group
+	Add-LocalGroupMember -Group "Remote Desktop Users" -Member $userName
+	Write-Host "User '$userName' added to group 'Remote Desktop Users'"
 }
 
 # Directory permissions section using icacls - ADJUSTED to use the created directories
 # Removed $secPrefix from icacls commands
-$secPrefix = "SG_" # This line is still here for group creation
 
 # First, set ownership of the created directories to Administrators
 icacls "$root\test1\iajiasjfiasjf" /setowner "Administrators"
@@ -121,17 +146,17 @@ foreach ($dir in $subdirsForFiles)
 $share1 = @{
 	Name = "i"
 	Path = "$root\test1\iajiasjfiasjf"
-	FullAccess = "Administrators","Authenticated Users"
+	FullAccess = "Administrators","Authenticated Users","some_group1"
 }
 $share2 = @{
 	Name = "hate"
 	Path = "$root\test2\asifjaisfj"
-	FullAccess = "Administrators","Authenticated Users"
+	FullAccess = "Administrators","Authenticated Users","some_group2"
 }
 $share3 = @{
 	Name = "windows"
 	Path = "$root\test3\wfsifjsaifj"
-	FullAccess = "Administrators","Authenticated Users"
+	FullAccess = "Administrators","Authenticated Users","some_group3"
 }
 New-SmbShare @share1
 New-SmbShare @share2
