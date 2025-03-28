@@ -108,9 +108,9 @@ icacls "$root\test2\asifjaisfj" /grant:r "Administrators:(OI)(CI)F"
 icacls "$root\test3\wfsifjsaifj" /grant:r "Administrators:(OI)(CI)F"
 
 # Example mapping of SG_ groups to the created directories (adjust as needed)
-icacls "$root\test1\iajiasjfiasjf" /grant:r "$secGroupNames[0]:(OI)(CI)RX"
-icacls "$root\test2\asifjaisfj" /grant:r "$secGroupNames[1]:(OI)(CI)RW"
-icacls "$root\test3\wfsifjsaifj" /grant:r "$secGroupNames[2]:(OI)(CI)RX"
+icacls "$root\test1\iajiasjfiasjf" /grant:r "some_group1:(OI)(CI)RX"
+icacls "$root\test2\asifjaisfj" /grant:r "some_group2:(OI)(CI)RW"
+icacls "$root\test3\wfsifjsaifj" /grant:r "some_group3:(OI)(CI)RX"
 
 #files - Adjust file creation paths to the existing directories
 $fileTypeMap = @{
