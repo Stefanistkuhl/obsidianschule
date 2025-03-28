@@ -1,5 +1,5 @@
-$supersurepassword = ConvertTo-SecureString "rafi123_" -AsPlainText
-$supersurepassword2 = ConvertTo-SecureString "password" -AsPlainText
+$supersurepassword = ConvertTo-SecureString "rafi123_" -AsPlainText -Force
+$supersurepassword2 = ConvertTo-SecureString "password" -AsPlainText -Force
 New-LocalUser -Name 'fus-admin' -Password $supersurepassword
 New-LocalUser -Name 'fus-user' -Password $supersurepassword
 Add-LocalGroupMember -Group "Administrators" -Member fus-admin
