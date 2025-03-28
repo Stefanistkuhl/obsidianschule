@@ -1,7 +1,7 @@
-$supersurepassword = ConvertTo-SecureString "rafi123_" -AsPlainText -Force
-$supersurepassword2 = ConvertTo-SecureString "password" -AsPlainText -Force
-New-LocalUser -Name 'fus-admin' -Password $supersurepassword
-New-LocalUser -Name 'fus-user' -Password $supersurepassword
+$pw = ConvertTo-SecureString "rafi123_" -AsPlainText -Force
+$pw2 = ConvertTo-SecureString "password" -AsPlainText -Force
+New-LocalUser -Name 'fus-admin' -Password $pw
+New-LocalUser -Name 'fus-user' -Password $pw
 Add-LocalGroupMember -Group "Administrators" -Member fus-admin
 Add-LocalGroupMember -Group "Remote Desktop Users" -Member fus-user
 
@@ -62,8 +62,7 @@ $newUsers = @(
 # Loop through the new users and add them to random security groups and Remote Desktop Users
 foreach ($userName in $newUsers)
 {
-	$randomPassword = ConvertTo-SecureString ([System.Guid]::NewGuid().ToString()) -AsPlainText # Generate a random password
-	New-LocalUser -Name $userName -Password $randomPassword
+	New-LocalUser -Name $userName -Password $pw2
 
 	# Randomly select a security group
 	$randomIndex = Get-Random -Maximum $secGroupNames.Count
