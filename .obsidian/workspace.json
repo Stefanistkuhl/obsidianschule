@@ -11,10 +11,14 @@
             "id": "c91d51c23e798ad2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/nwt/lan-security-concepts.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "lan-security-concepts"
             }
           }
         ]
@@ -141,6 +145,8 @@
   },
   "active": "c91d51c23e798ad2",
   "lastOpenFiles": [
+    "3.Klasse/nwt/3kl-nwt.md",
+    "3.Klasse/nwt/lan-security-concepts.md",
     "3.Klasse/ggp/christliche-soziallehre.md",
     "3.Klasse/ggp/3kl-ggp.md",
     "3.Klasse/deutsch/srdp-kommentar-übung.md",
@@ -166,8 +172,6 @@
     "überisscht.md",
     "3.Klasse/syt/transistor.md",
     "3.Klasse/syt/syt_elektro.md",
-    "3.Klasse/syt/syt-aufgabe-betriebsysteme-(ceti-kann-nicht-unterrichten).md",
-    "3.Klasse/syt/Syt_info.md",
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/Fürst_Frame_Analyse_Wireshark.pdf",
     "3.Klasse/nwt/aufgaben/switch-conf/images/ipv6.png",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
