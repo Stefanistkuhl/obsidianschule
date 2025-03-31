@@ -16,3 +16,4 @@ tags:
 [[tenses]]
 [[englisch-terms-helper]]
 [[active-passive-english]]
+[[report-article]]

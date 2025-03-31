@@ -71,7 +71,7 @@ tags:
 - reluctant
 	- not willing to do something and therefore slow to do it
 - Incineration
-	- spilterrlau
+	- spitellau
 - upcyceling
 	- making something new/creative out of wasted things
 - overheads
