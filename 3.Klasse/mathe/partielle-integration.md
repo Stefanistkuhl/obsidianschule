@@ -14,3 +14,5 @@ $$y=a*x^2+b*x+c$$
 $$y= \frac{1}{16}*x^2$$
 $$\int_{-4}^{4} \frac{1}{16}*x^2 \, dx = \frac{8}{3}$$
 7.12)
+
+[[partielle-integration-brüche-hü]]
