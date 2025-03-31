@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/mathe/partielle-integration-brüche-hü.md",
+                "file": "3.Klasse/medt/medt-video-thing-script.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "partielle-integration-brüche-hü"
+              "title": "medt-video-thing-script"
             }
           }
         ]
@@ -145,8 +145,11 @@
   },
   "active": "c91d51c23e798ad2",
   "lastOpenFiles": [
-    "3.Klasse/mathe/partielle-integration.md",
+    "3.Klasse/medt/medt-video-thing.md",
+    "3.Klasse/medt/medt-video-thing-script.md",
+    "3.Klasse/medt/3kl-medt.md",
     "3.Klasse/mathe/partielle-integration-brüche-hü.md",
+    "3.Klasse/mathe/partielle-integration.md",
     "3.Klasse/englisch/report-article.md",
     "3.Klasse/englisch/article.md",
     "3.Klasse/englisch/3kl-eng.md",
@@ -160,8 +163,6 @@
     "3.Klasse/deutsch/3kl-deutsch.md",
     "bilder/partielle-integration 25-03-2025-36.excalidraw.md",
     "bilder/partielle-integration 25-03-2025-36.excalidraw.svg",
-    "3.Klasse/medt/medt-video-thing.md",
-    "3.Klasse/medt/3kl-medt.md",
     "3.Klasse/syt/zur-erinnerung-plattenkondensator.md",
     "3.Klasse/syt/zeiger-und-liniendiagramm-einer-spule.md",
     "3.Klasse/syt/zeiger-und-liniendiagramm.md",
@@ -171,7 +172,6 @@
     "3.Klasse/syt/wechselstromtechnik.md",
     "3.Klasse/syt/wechselstrom-komponenten.md",
     "3.Klasse/syt/von-neumannn-rechnermodell.md",
-    "3.Klasse/syt/vektorrechnung-quick-and-dirty.md",
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/Fürst_Frame_Analyse_Wireshark.pdf",
     "3.Klasse/nwt/aufgaben/switch-conf/images/ipv6.png",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
