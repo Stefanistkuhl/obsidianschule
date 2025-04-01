@@ -77,4 +77,3 @@ Erzähler (Voice-over):
 Danke fürs Zuschauen.
 
 [Endbildschirm: Titelkarte – Der Verdi-Zugraub.]
-
