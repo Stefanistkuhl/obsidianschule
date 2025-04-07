@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/ggp/christliche-soziallehre.md",
+                "file": "3.Klasse/mathe/integral-als-orientierter-flächeninhalt-bsp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "christliche-soziallehre"
+              "title": "integral-als-orientierter-flächeninhalt-bsp"
+            }
+          },
+          {
+            "id": "39ee71de6d28cd89",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/integral-als-orientierter-flächeninhalt-bsp 07-04-2025-15.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "integral-als-orientierter-flächeninhalt-bsp 07-04-2025-15.excalidraw"
             }
           }
         ]
@@ -145,9 +157,17 @@
   },
   "active": "41d52037293e28a4",
   "lastOpenFiles": [
+    "bilder/integral-als-orientierter-flächeninhalt-bsp 07-04-2025-15.excalidraw.md",
+    "3.Klasse/mathe/integral-als-orientierter-flächeninhalt-bsp.md",
+    "bilder/integral-als-orientierter-flächeninhalt-bsp 07-04-2025-15.excalidraw.svg",
+    "3.Klasse/mathe/integral-als-orientierter-flächeninhalt.md",
+    "bilder/integral-als-orientierter-flächeninhalt 07-04-2025-29.excalidraw.md",
+    "bilder/integral-als-orientierter-flächeninhalt 07-04-2025-29.excalidraw.svg",
+    "3.Klasse/mathe/3kl-mathe.md",
+    "3.Klasse/mathe/partielle-bruch-zerlegung.md",
+    "3.Klasse/ggp/christliche-soziallehre.md",
     "3.Klasse/mathe/partielle-integration-brüche-hü.md",
     "3.Klasse/deutsch/srdp-kommentar-übung.md",
-    "3.Klasse/mathe/partielle-bruch-integration.md",
     "3.Klasse/mathe/partielle-integration.md",
     "3.Klasse/medt/medt-video-thing-script.md",
     "3.Klasse/medt/medt-video-thing.md",
@@ -158,7 +178,6 @@
     "3.Klasse/englisch/vocab.md",
     "3.Klasse/nwt/lan-security-concepts.md",
     "3.Klasse/nwt/3kl-nwt.md",
-    "3.Klasse/ggp/christliche-soziallehre.md",
     "3.Klasse/ggp/3kl-ggp.md",
     "3.Klasse/deutsch/kommentar.md",
     "3.Klasse/deutsch/3kl-deutsch.md",
@@ -166,12 +185,6 @@
     "bilder/partielle-integration 25-03-2025-36.excalidraw.svg",
     "3.Klasse/syt/zur-erinnerung-plattenkondensator.md",
     "3.Klasse/syt/zeiger-und-liniendiagramm-einer-spule.md",
-    "3.Klasse/syt/zeiger-und-liniendiagramm.md",
-    "3.Klasse/syt/wh-komplexer-wiederstand-impedanzen.md",
-    "3.Klasse/syt/werkstatt-gpu-dings-notizen-oidoa.md",
-    "3.Klasse/syt/wechselstrombsps-idk-no-lol.md",
-    "3.Klasse/syt/wechselstromtechnik.md",
-    "3.Klasse/syt/wechselstrom-komponenten.md",
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/Fürst_Frame_Analyse_Wireshark.pdf",
     "3.Klasse/nwt/aufgaben/switch-conf/images/ipv6.png",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
@@ -186,9 +199,7 @@
     "bilder/cooked sa lernen ynails yteeth 23-03-2025-56.excalidraw.svg",
     "bilder/Übung 9 windoof server test thing 20-03-2025-38.excalidraw.svg",
     "bilder/Pasted Image 20250317081541_421.png",
-    "bilder/report sheets 17-03-2025-36.excalidraw.svg",
     "3.Klasse/itsi/aufgaben/windoof/script.ps1~",
-    "bilder/First Hop Redundancy Protocols 07-03-2025-55.excalidraw.svg",
     "quartz-sync.sh~",
     "TEST",
     "quartz-sync.sh"
