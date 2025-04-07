@@ -11,3 +11,4 @@ $$\int_{a}^{b} f(x) \, dx $$
 $$\int_{a}^{b} f(x) \, dx $$
 .. summe der Flächeninhalte mit Berücksichtigung der Vorzeichen!
 [[integral-als-orientierter-flächeninhalt-bsp]]
+[[integral-als-orientierter-flächeninhalt-bewegungen]]

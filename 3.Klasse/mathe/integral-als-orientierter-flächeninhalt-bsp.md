@@ -20,9 +20,14 @@ $$f(x)=-2x+5;a=-3;b=4$$
 b)
 $$f(x)=x^2+x-2;a=-2;b=2$$
 Nullstellen:
-![](https://i.imgur.com/7ZdXyw5.png)
+![](https://i.imgur.com/YKU3CHq.png)
+![](https://i.imgur.com/PZi3CoY.png)
+
+ablesen sind -2 und 1
 alles einzeln integrieren und dann zussamenrechen
 
 d)
 $$f(x)=-x^3+x^2+2x;a=-2,b=2$$
-![](https://i.imgur.com/3QUPfbx.png)
+Nulstellen ablesen
+![](https://i.imgur.com/jOnJRY8.png)
+![](https://i.imgur.com/Hk5NE7B.png)
