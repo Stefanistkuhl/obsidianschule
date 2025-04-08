@@ -23,3 +23,6 @@ $$\int_{0}^1 -10x+15 \, dt = 10$$
 c) Als Übung
 7.63)
 a)
+20m
+b)
+max höhe 
