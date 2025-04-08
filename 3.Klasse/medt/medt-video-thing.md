@@ -3,6 +3,9 @@ tags:
   - medt
   - 3te_Klasse
 ---
+bis nach den Ferien die erste minute des video als test machen
+blender setup auf dem laptop mit plugins und all premire auf pc :menheraVommit: und files vom alten auf laptop löschen oda festplatte vergrößern
+
 - themen ideen
 	- something züge rafiniert
 		- train heist oda so idk lol
