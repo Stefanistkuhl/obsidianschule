@@ -14,3 +14,4 @@ Die Skepsis gegenüber rein verbalen Beurteilungen ist nachvollziehbar. Wenn die
 
 Ein sinnvoller Ansatz wäre eine Kombination beider Methoden. Noten könnten weiterhin als klare Leistungsrückmeldung dienen, während ergänzende verbale Einschätzungen eine tiefere Reflexion ermöglichen. So würde eine Balance zwischen Motivation, Leistungsanreiz und individueller Förderung geschaffen, die allen Beteiligten – Lernenden, Lehrenden und Eltern – zugutekommt. In einem modernen Bildungssystem sollte das Ziel nicht nur eine messbare Leistung, sondern auch die Förderung eines nachhaltigen Lernprozesses sein.
 [[srdp-kommentar-übung]]
+[[kommentar-sa-verbesserung]]

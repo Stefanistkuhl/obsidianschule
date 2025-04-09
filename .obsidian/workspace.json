@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "51fc8bea9835c5f3",
+        "id": "532fad14dcfdde4a",
         "type": "tabs",
         "children": [
           {
-            "id": "41d52037293e28a4",
+            "id": "4fea9642a82ffdc7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/mathe/integral-als-orientierter-flächeninhalt-bewegungen-bsp.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "integral-als-orientierter-flächeninhalt-bewegungen-bsp"
+              "title": "New tab"
             }
           }
         ]
@@ -143,12 +139,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41d52037293e28a4",
+  "active": "4fea9642a82ffdc7",
   "lastOpenFiles": [
+    "3.Klasse/deutsch/kommentar-sa-verbesserung.md",
+    "3.Klasse/deutsch/kommentar.md",
+    "3.Klasse/deutsch/3kl-deutsch.md",
+    "3.Klasse/mathe/integral-als-orientierter-flächeninhalt-bewegungen-bsp.md",
     "3.Klasse/medt/medt-video-thing.md",
     "3.Klasse/Nawi/nawi-teststoff-deadge.md",
     "3.Klasse/Nawi/3kl-nawi.md",
-    "3.Klasse/mathe/integral-als-orientierter-flächeninhalt-bewegungen-bsp.md",
     "3.Klasse/mathe/integral-als-orientierter-flächeninhalt-bewegungen.md",
     "bilder/integral-als-orientierter-flächeninhalt-bewegungen 07-04-2025-54.excalidraw.md",
     "bilder/integral-als-orientierter-flächeninhalt-bewegungen 07-04-2025-54.excalidraw.svg",
@@ -172,9 +171,6 @@
     "3.Klasse/englisch/article.md",
     "3.Klasse/englisch/3kl-eng.md",
     "3.Klasse/englisch/vocab.md",
-    "3.Klasse/nwt/lan-security-concepts.md",
-    "3.Klasse/nwt/3kl-nwt.md",
-    "3.Klasse/ggp/3kl-ggp.md",
     "bilder/partielle-integration 25-03-2025-36.excalidraw.svg",
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/Fürst_Frame_Analyse_Wireshark.pdf",
     "3.Klasse/nwt/aufgaben/switch-conf/images/ipv6.png",

@@ -13,7 +13,7 @@
   "attachmentFolderPath": "bilder",
   "trashOption": "none",
   "alwaysUpdateLinks": true,
-  "spellcheck": false,
+  "spellcheck": true,
   "promptDelete": false,
   "vimMode": true,
   "showLineNumber": true,
