@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/itsi/3kl-itsi.md",
+                "file": "3.Klasse/itsi/itsi-test2-stoff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3kl-itsi"
+              "title": "itsi-test2-stoff"
+            }
+          },
+          {
+            "id": "a414331b9f49ebaf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/Mitlesen von Nachrichten im lokalen Netz 10-04-2025-34.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Mitlesen von Nachrichten im lokalen Netz 10-04-2025-34.excalidraw"
             }
           }
         ]
@@ -145,6 +157,17 @@
   },
   "active": "4fea9642a82ffdc7",
   "lastOpenFiles": [
+    "3.Klasse/itsi/3kl-itsi.md",
+    "3.Klasse/itsi/itsi-test2-stoff.md",
+    "3.Klasse/itsi/Mitlesen von Nachrichten im lokalen Netz.md",
+    "bilder/Mitlesen von Nachrichten im lokalen Netz 10-04-2025-34.excalidraw.md",
+    "bilder/Mitlesen von Nachrichten im lokalen Netz 10-04-2025-34.excalidraw.svg",
+    "bilder/Mitlesen von Nachrichten im lokalen Netz 10-04-2025-45.excalidraw.md",
+    "bilder/Mitlesen von Nachrichten im lokalen Netz 10-04-2025-45.excalidraw.svg",
+    "3.Klasse/itsi/packet-sniffing.md",
+    "bilder/packet-sniffing 10-04-2025-10.excalidraw.md",
+    "bilder/packet-sniffing 10-04-2025-10.excalidraw.svg",
+    "3.Klasse/itsi/netzwerk-geräte-sicherheit.md",
     "3.Klasse/deutsch/kommentar-sa-verbesserung.md",
     "3.Klasse/deutsch/kommentar.md",
     "3.Klasse/deutsch/3kl-deutsch.md",
@@ -167,14 +190,6 @@
     "3.Klasse/mathe/partielle-bruch-zerlegung.md",
     "3.Klasse/ggp/christliche-soziallehre.md",
     "3.Klasse/mathe/partielle-integration-brüche-hü.md",
-    "3.Klasse/deutsch/srdp-kommentar-übung.md",
-    "3.Klasse/mathe/partielle-integration.md",
-    "3.Klasse/medt/medt-video-thing-script.md",
-    "3.Klasse/medt/3kl-medt.md",
-    "3.Klasse/englisch/report-article.md",
-    "3.Klasse/englisch/article.md",
-    "3.Klasse/englisch/3kl-eng.md",
-    "3.Klasse/englisch/vocab.md",
     "bilder/partielle-integration 25-03-2025-36.excalidraw.svg",
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/Fürst_Frame_Analyse_Wireshark.pdf",
     "3.Klasse/nwt/aufgaben/switch-conf/images/ipv6.png",
@@ -185,9 +200,6 @@
     "ob",
     "Chats",
     "bilder/Pasted Image 20250323163903_809.png",
-    "bilder/cooked sa lernen ynails yteeth 23-03-2025-55.excalidraw.svg",
-    "bilder/Pasted Image 20250323161257_765.png",
-    "bilder/cooked sa lernen ynails yteeth 23-03-2025-56.excalidraw.svg",
     "3.Klasse/itsi/aufgaben/windoof/script.ps1~",
     "quartz-sync.sh~",
     "TEST",
