@@ -20,4 +20,4 @@ tags:
 [[slaac]]
 [[test prac]]
 [[first-hop-redundancy-protocols]]
-[[lan-security-concepts]]
+[[layer-2-lan-security-concepts]]
