@@ -35,8 +35,7 @@
               "title": "medt-video-thing"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,8 +157,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1fa39349c96832be",
+  "active": "4fea9642a82ffdc7",
   "lastOpenFiles": [
+    "3.Klasse/medt/medt-video-thing.md",
     "3.Klasse/medt/medt-video-thing-script.md",
     "3.Klasse/ggp/3kl-ggp.md",
     "3.Klasse/itsi/itsi-test2-stoff.md",
@@ -177,7 +177,6 @@
     "3.Klasse/deutsch/kommentar.md",
     "3.Klasse/deutsch/3kl-deutsch.md",
     "3.Klasse/mathe/integral-als-orientierter-flächeninhalt-bewegungen-bsp.md",
-    "3.Klasse/medt/medt-video-thing.md",
     "3.Klasse/Nawi/nawi-teststoff-deadge.md",
     "3.Klasse/Nawi/3kl-nawi.md",
     "3.Klasse/mathe/integral-als-orientierter-flächeninhalt-bewegungen.md",
