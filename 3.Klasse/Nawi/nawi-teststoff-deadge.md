@@ -66,3 +66,5 @@ dna rna
 
 - Gen
 	- erbinformation (bauplan für protien)
+
+video simple club mit translastion und trnasoktoin
