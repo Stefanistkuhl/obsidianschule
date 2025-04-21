@@ -62,3 +62,7 @@ dna rna
 	- proteiten betshe aus aminosäuren
 	- ensthe tmit translation transcritpion schriebnt ab in mra and mit trna wird mit translation geschireben
 	- die mRNA kopiert in Transkription die DNA und dann baut die tRNA die richtigen Aminosäuren zusammen, so entsteht ein Protein
+	- Aminosäuren sind zb: Methionin, Tyrosin, Lysin, Glycin, Serin, Phenylalanin, Tryptophan, .... die Proteine im Menschen bestehen aus 20 Aminosäuren (imma unterscheildiche kombkination)
+
+- Gen
+	- erbinformation (bauplan für protien)
