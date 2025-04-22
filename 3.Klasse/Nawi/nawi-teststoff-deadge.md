@@ -34,6 +34,8 @@ dna rna
 
 - dna
 	- alle erbinfomarationen drauf
+		- liegen auf den chromoseomen
+		- chromsome sind immer ein doppleter chromosenem satz eins vater eins mum heißt allel
 	- besteht aus
 		- desoxyribose (zucker molekühl)
 		- Phosphorsäure
