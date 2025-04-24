@@ -17,3 +17,4 @@ $$\int_{-4}^{4} \frac{1}{16}*x^2 \, dx = \frac{8}{3}$$
 
 [[partielle-integration-brüche-hü]]
 [[partielle-bruch-zerlegung]]
+[[partielle-integration-smü]]

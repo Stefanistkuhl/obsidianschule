@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "512ec13c69cc2336",
+        "id": "a1bbe0e3b6928d5d",
         "type": "tabs",
         "children": [
           {
-            "id": "c302116fa1639944",
+            "id": "f45b20c149ae6da4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,8 +139,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c302116fa1639944",
+  "active": "f45b20c149ae6da4",
   "lastOpenFiles": [
+    "3.Klasse/mathe/partielle-integration-smü.md",
+    "3.Klasse/mathe/partielle-integration.md",
+    "3.Klasse/mathe/3kl-mathe.md",
     "3.Klasse/Nawi/nawi-teststoff-deadge.md",
     "conflict-files-obsidian-git.md",
     "3.Klasse/Nawi/nawi-teststoff-deadge.md~",
@@ -168,8 +171,6 @@
     "3.Klasse/deutsch/3kl-deutsch.md",
     "3.Klasse/mathe/integral-als-orientierter-flächeninhalt-bewegungen-bsp.md",
     "3.Klasse/medt/medt-video-thing.md",
-    "3.Klasse/mathe/integral-als-orientierter-flächeninhalt-bewegungen.md",
-    "bilder/integral-als-orientierter-flächeninhalt-bewegungen 07-04-2025-54.excalidraw.md",
     "bilder/integral-als-orientierter-flächeninhalt-bewegungen 07-04-2025-54.excalidraw.svg",
     "bilder/integral-als-orientierter-flächeninhalt-bewegungen-bsp 07-04-2025-49.excalidraw.svg",
     "bilder/integral-als-orientierter-flächeninhalt-bsp 07-04-2025-15.excalidraw.svg",
