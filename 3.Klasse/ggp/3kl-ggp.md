@@ -20,3 +20,4 @@ tags:
 [[marxismus]]
 [[sozialdemokratie]]
 [[christliche-soziallehre]]
+[[imperialismus]]
