@@ -11,10 +11,14 @@
             "id": "b817144f22892a49",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/Nawi/nawi-teststoff-deadge.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "nawi-teststoff-deadge"
             }
           }
         ]

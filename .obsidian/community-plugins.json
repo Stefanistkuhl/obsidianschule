@@ -7,7 +7,6 @@
   "highlightr-plugin",
   "obsidian-excalidraw-plugin",
   "better-word-count",
-  "arrows",
   "auto-note-mover",
   "obsidian-relative-line-numbers",
   "vim-yank-highlight",
@@ -15,5 +14,6 @@
   "obsidian-latex-suite",
   "obsidian-imgur-plugin",
   "global-search-and-replace",
-  "obsidian-vault-statistics-plugin"
+  "obsidian-vault-statistics-plugin",
+  "arrows"
 ]

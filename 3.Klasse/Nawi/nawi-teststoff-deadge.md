@@ -70,3 +70,32 @@ dna rna
 	- erbinformation (bauplan für protien)
 
 video simple club mit translastion und trnasoktoin
+
+### something something idk wtf
+
+https://www.youtube.com/watch?v=xCadGoX8wOI
+was ein horshit video what the actual fuaacking fucking fuck was labrt bro für worte ist er besoffen???????????????????
+
+https://www.youtube.com/watch?v=C5X9fVShbG0
+fuckin gtrapspitprio nk oaesfjgeiosd;jgio;esdgio;sdjiog;ersdiokl;gjDFIOL;RGJIODF;GJDFIOGJIODFG
+fuckering fucking 
+asifjaiosfjaopfjoiad
+fucking transkiptiotn oder so ein sjciej-0=e
+scheio-
+scheo-
+scheiß
+
+##### Proteinbiosynthese
+> Herstelleung von Proteinen
+
+- Proteine = Baustine der Natur
+	- → Transkription
+
+- Transkription- Translation
+- 	- Ervbinfop +Übersetzen
+	- Erbinfo abschreiben
+- Prozessierung
+	- nur bei Eukaryoten
+	- Erbinfo bearbeiten
+- Translation
+	- Erbinfo Übersetzen
