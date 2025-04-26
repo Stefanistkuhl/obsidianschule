@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a1bbe0e3b6928d5d",
+        "id": "bb2f0f8c0c4bbc59",
         "type": "tabs",
         "children": [
           {
-            "id": "f45b20c149ae6da4",
+            "id": "b817144f22892a49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/nwt/layer-2-lan-security-concepts.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "layer-2-lan-security-concepts"
+              "title": "New tab"
             }
           }
         ]
@@ -143,8 +139,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f45b20c149ae6da4",
+  "active": "b817144f22892a49",
   "lastOpenFiles": [
+    "3.Klasse/nwt/layer-2-lan-security-concepts.md",
     "3.Klasse/ggp/imperialismus.md",
     "3.Klasse/ggp/3kl-ggp.md",
     "3.Klasse/mathe/partielle-integration-smü.md",
@@ -157,7 +154,6 @@
     "3.Klasse/Nawi/biochemie.md",
     "3.Klasse/nwt/vlan-hopping-attack.md",
     "3.Klasse/nwt/dhcp-attacks.md",
-    "3.Klasse/nwt/layer-2-lan-security-concepts.md",
     "3.Klasse/nwt/mac-address-table-flooding.md",
     "3.Klasse/nwt/3kl-nwt.md",
     "3.Klasse/itsi/itsi-test2-stoff.md",
