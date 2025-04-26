@@ -99,3 +99,16 @@ scheiß
 	- Erbinfo bearbeiten
 - Translation
 	- Erbinfo Übersetzen
+
+auflauf des kaka dings
+- Iniation
+	- Einleitung
+		- Bindung and ie DNA
+		- Entwindung
+		- Auftrennung
+- Elongation
+	- Abschreiben
+- Termination
+	- Ende
+
+pure schtizofräne was zum fick labert der wappla im video er findet sachen was für Promotor? Gesundheit gehts dir fucking gut?????????
