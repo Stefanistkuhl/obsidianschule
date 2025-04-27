@@ -28,7 +28,7 @@ prokaryoten eukaryoten
 
 Zellorganellen
 
-Mitrochondrien, er, golgi apperat, vakiulle(nur bei planz und pilzen), zellkern, zellflüssigkeit, ribosom, zentrsoom, lysosososmenen, zellmembran
+Mitrochondrien, er, golgi apperat, vakuole (nur bei planz und pilzen), zellkern, zellflüssigkeit, ribosom, zentrsoom, Lysosom, zellmembran
 
 dna rna
 
@@ -112,3 +112,92 @@ auflauf des kaka dings
 	- Ende
 
 pure schtizofräne was zum fick labert der wappla im video er findet sachen was für Promotor? Gesundheit gehts dir fucking gut?????????
+
+
+### Zellzyklus
+
+- Zelle hat folgende phasen
+	- Interphase
+		- zelle bereitet wsich auf die Teilgung vor, indem sie ihre dna verdoppelt und die verbdung zu anderen zellen löst
+		- erfülllt normale zellfuntionen auch
+		- proteinbildung
+	- M-Phase (Mitohse Phase)
+		- Zellkern wird verdoppelt un dann zelle wird verdopplelt
+
+#### Phasen der Interphase
+ - G1 Phase
+	 - wenn die zelle nicht geteilt werden will, geht sie von g1 auf g0
+	 - Zelle Wächst
+	 - Normale funktionen und Proteinbildung
+ - S Phase
+	 - Dna wird verdoppelt
+ - G2 Phase
+	 - Verbindung zu andernen zellen wird gelöst
+	 - Zelle Wächst
+
+#### M-Phase
+> Zellteilung
+- dauert weniger als 1s
+- In dieser Phase kommt es zur Zellteilung
+- Mache teilen teilen sich oft sowie darm und haut zellen
+- nevenzellen teilen sich gar nicht
+
+Dna hat kontrollsystem mit Protein p53 was überproüft ob die dna fehlerfrei ist vor der Teilung
+Wenn der schaden zu groß ist tötet sich die zelle selbst um vermerhung des schadens zu verhindern
+Abpoptose = programierter Zelltod
+
+krebs = wenn sich schädliche zellen vermheren und das p53 abstirbt nur bei der hälfte der krebskranken tho
+
+##### G1 checkpoint
+überprüft, ob die umwelt bedingung gut sind, um sich zu teilen
+wenn ja kommt die s phase wenn nein dann halt nd
+
+##### G2 checkpoint
+prüft ob es schäden bei der dna gibt und ob diese vollständing verdopplet wurde
+
+### Chromosome 
+
+46 Chromosone (23 Paare) 
+22 sind autosome (Körperzellen)
+1 Paar → geschlets chromoson
+
+in der S phase wird das alles verdoppelt
+
+jedes chromoson hat dann 2 chromatide nach der verdoppelung
+
+### Mitose = Zellkernteilung
+> Findet nur in den Körperzellen statt
+
+- Prophase 
+	- Chromatiden wickeln sich dich auf = Kondensieren
+	- Spindelapparat wird gebildet
+- Prometaphase
+	- Kernhüllt zerfällt
+	- Zentrosomen gehen an pole
+	- Binden spindelfasern zu den chromatiden
+- Metaphase
+	- chromosome mit dem 2 chromatiden werden in der mitte(Äquatorialebene) aufgereiht
+	- chromatiden(Schwesterchromatide) teilen sich
+- Anaphase
+	- Spindelapparat zieht die Schwesterchromatiden auseinander zu den polen
+- Telophase
+	- Bildung zwei neuer Zellkerne auf jeder seite und die dichte aufwicklung wird entfernt und sie schauen normal aus
+
+> 2 Idente Zellen entstehen
+
+##### Meiose
+> Findet nur in den Geschlechtszellen statt
+
+ausgabgspunkt: chromose wurden davor verodepplt
+
+- Phase 1
+	- namen der unter phasen gelich wie in der Mitose
+	- Ziel ist DNA zu vermischen
+	- nur einfache 23 chromosme übrig nicht paare
+- Phase 2
+	- so wie in der mitose verdoppeln sich alles
+	- man hat 4 zellen am ende
+
+- Phase 1
+	- Prophase 1
+		- Mutter und vater chromatide tauschen platz "Crossing Over" um die DNA zu vermischen
