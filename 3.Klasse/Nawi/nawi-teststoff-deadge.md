@@ -95,6 +95,7 @@ scheiß
 - 	- Ervbinfop +Übersetzen
 	- Erbinfo abschreiben
 - Prozessierung
+	- unötige sachen werden auch abegeschrieben und werden in diesem prozess entfernt
 	- nur bei Eukaryoten
 	- Erbinfo bearbeiten
 - Translation
@@ -201,3 +202,78 @@ ausgabgspunkt: chromose wurden davor verodepplt
 - Phase 1
 	- Prophase 1
 		- Mutter und vater chromatide tauschen platz "Crossing Over" um die DNA zu vermischen
+	- rest is dasselbe
+		- unteschied is das un der Anaphase 1 weden ganze chromosomen an die pole gezogen
+
+> ergebnis: 2 verschiedene zellen
+
+- Phase 2
+	- alles gleich
+
+> ergebnis: 4 genetisch unterschiedliche zellen
+
+### Vererbeungslehre
+
+- Gen
+	- ist ein abschnitt auf der DNA, wo erinfo ist
+- Allel
+	- Variatnte eines Gens mit einem Teil von der Mutter und einem vom Vater
+	- Wenn beide merkmale gleich sind → homozygot
+	- Wenn unterschiedlich → heterozygot
+- Phänotyp
+	- infos die sich durch gesetzty haben
+	- Erscheinungsbild eines Oraganismus
+- Genotyp
+	- erbinfo in der dna
+	- gessamte dna ausstattung
+
+Wenn man 2 unterschideliche Allele hat kommt es darauf an, welches Merkmal dominat und welches rezessiv ist
+
+im pähntyp sieht man nur die dominanten merkmale hei heterozygot
+die rezessiven nur wenn es rezessiv homozygot ist
+
+wenn beide kodominant sind, entsteht eine mischund im phänotyp
+![](https://i.imgur.com/d3wpLPB.png)
+
+### Blutgruppen slop
+
+A und B sind dominant
+0 is rezzesiv
+
+![](https://i.imgur.com/GZKnXWx.png)
+
+blutspendenn
+0 ist universalspender und kann nur 0 empfangen (weil anitkörper gegen a und b)
+AB ist universal empfänger weil keine antikörper aber kann nur an ab spenden
+A kann von 0 und von A was bekommen
+B kann von 0 und von B was bekommen
+
+resusfaktor
+\+ wenn man das D protein hat
+\- wenn man kein D protein hat
+
+wenn man es hat kann man beides bekommen, aber nur an leute mit + spenden
+
+wen man es nicht hat dann kann man nur von - bekommen, aber an alle spenden
+
+#### krankheitsverbunggen
+
+- Autosomal-dominaten Vererbung
+	- ein krankfates Gen führt zur Erkrankkung
+- Autosomal-rezessive Vererbung
+	- krankheit kommt nicht zur Ausprägung, wenn auf einem Allel, aber Mensch ist Träger der Ekrankung
+	- wenn auf beiden Allen → Erkrankkung
+- X-chromosomal-dominante Vererbung
+	- am X-Chromosom → Person erkrankt
+- X-chromosomal-rezessive Vererbung
+	- wenn auf einem Allel und zweites X-Chromosom gesund ist → keine Erkrankung, nur Trägerin
+	- Frauen erkranken nur, wenns auf beiden X-Chromosomen ist
+	- bei Männern, die kein zweites X-Chromosom haben → Erkrankung
+	- rot grün krankheit
+	- bluterkrankheit
+
+### DNA replikation
+
+syntehese(bildungs) richtung ist immer von 5' nach 3' und liest es es von 3' nach 5' ab
+
+doppelhelix wird entwunde und die DNA-Polymerase liest die dna ab und kopiert es
