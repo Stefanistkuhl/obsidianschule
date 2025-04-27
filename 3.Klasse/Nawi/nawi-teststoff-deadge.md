@@ -104,7 +104,7 @@ scheiß
 auflauf des kaka dings
 - Iniation
 	- Einleitung
-		- Bindung and ie DNA
+		- Bindung and die DNA
 		- Entwindung
 		- Auftrennung
 - Elongation
@@ -114,7 +114,7 @@ auflauf des kaka dings
 
 pure schtizofräne was zum fick labert der wappla im video er findet sachen was für Promotor? Gesundheit gehts dir fucking gut?????????
 
-
+Gesamte DNA einer Zellte = Genom
 ### Zellzyklus
 
 - Zelle hat folgende phasen
@@ -155,6 +155,7 @@ wenn ja kommt die s phase wenn nein dann halt nd
 
 ##### G2 checkpoint
 prüft ob es schäden bei der dna gibt und ob diese vollständing verdopplet wurde
+Histone wickeln sich um die DNA
 
 ### Chromosome 
 
@@ -194,10 +195,10 @@ ausgabgspunkt: chromose wurden davor verodepplt
 - Phase 1
 	- namen der unter phasen gelich wie in der Mitose
 	- Ziel ist DNA zu vermischen
-	- nur einfache 23 chromosme übrig nicht paare
 - Phase 2
 	- so wie in der mitose verdoppeln sich alles
 	- man hat 4 zellen am ende
+	- nur einfache 23 chromosme(haploid) übrig nicht paare
 
 - Phase 1
 	- Prophase 1
@@ -276,4 +277,9 @@ wen man es nicht hat dann kann man nur von - bekommen, aber an alle spenden
 
 syntehese(bildungs) richtung ist immer von 5' nach 3' und liest es es von 3' nach 5' ab
 
-doppelhelix wird entwunde und die DNA-Polymerase liest die dna ab und kopiert es
+doppelhelix wird entwunde und die DNA-Polymerase liest die dna ab und kopiert
+
+bei einem strang is alles normal (leading strang) und beim anderen muss die DNA-Polymerase es stüchenweise (lagging strang)
+stücke heißen Okzaki-Fragmente
+
+Primer ist der starter
