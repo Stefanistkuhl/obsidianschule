@@ -11,5 +11,9 @@ $$f(x)=g(x)$$
 $$A=\int_{a}^{b} f(x) \, dx- \int_{a}^{b} g(x) \, dx = \int_{a}^{b}(f(x)-g(x))  \, dx  $$
 7.15)
 a)
+
 b)
 f)
+7.16)
+
+[[srdp-fläche-zw-2-funktionen]]
