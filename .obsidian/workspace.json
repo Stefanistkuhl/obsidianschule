@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "216af89749a1147d",
+        "id": "8823ad3c5362ca4f",
         "type": "tabs",
         "children": [
           {
-            "id": "ecc7270da0f0046d",
+            "id": "22cfb79bdbb90c56",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/mathe/fläche-zw-2-fkt-interpretationen.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "fläche-zw-2-fkt-interpretationen"
+              "title": "New tab"
             }
           }
         ]
@@ -143,10 +139,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ecc7270da0f0046d",
+  "active": "22cfb79bdbb90c56",
   "lastOpenFiles": [
-    "bilder/fläche-zw-2-fkt-interpretationen 29-04-2025-25.excalidraw.md",
     "3.Klasse/mathe/fläche-zw-2-fkt-interpretationen.md",
+    "bilder/fläche-zw-2-fkt-interpretationen 29-04-2025-25.excalidraw.md",
     "bilder/fläche-zw-2-fkt-interpretationen 29-04-2025-25.excalidraw.svg",
     "bilder/fläche-zw-2-fkt-interpretationen 29-04-2025-03.excalidraw.md",
     "bilder/fläche-zwischen-2-funktionen 28-04-2025-25.excalidraw.md",
