@@ -13,24 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/mathe/srdp-fläche-zw-2-funktionen.md",
+                "file": "3.Klasse/mathe/fläche-zw-2-fkt-interpretationen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "srdp-fläche-zw-2-funktionen"
-            }
-          },
-          {
-            "id": "f8e4c5d4d44f3017",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/fläche-zwischen-2-funktionen 28-04-2025-25.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "fläche-zwischen-2-funktionen 28-04-2025-25.excalidraw"
+              "title": "fläche-zw-2-fkt-interpretationen"
             }
           }
         ]
@@ -157,9 +145,14 @@
   },
   "active": "ecc7270da0f0046d",
   "lastOpenFiles": [
+    "bilder/fläche-zw-2-fkt-interpretationen 29-04-2025-25.excalidraw.md",
+    "3.Klasse/mathe/fläche-zw-2-fkt-interpretationen.md",
+    "bilder/fläche-zw-2-fkt-interpretationen 29-04-2025-25.excalidraw.svg",
+    "bilder/fläche-zw-2-fkt-interpretationen 29-04-2025-03.excalidraw.md",
+    "bilder/fläche-zwischen-2-funktionen 28-04-2025-25.excalidraw.md",
+    "bilder/fläche-zw-2-fkt-interpretationen 29-04-2025-03.excalidraw.svg",
     "3.Klasse/mathe/fläche-zwischen-2-funktionen.md",
     "3.Klasse/mathe/srdp-fläche-zw-2-funktionen.md",
-    "bilder/fläche-zwischen-2-funktionen 28-04-2025-25.excalidraw.md",
     "bilder/fläche-zwischen-2-funktionen 28-04-2025-25.excalidraw.svg",
     "3.Klasse/mathe/3kl-mathe.md",
     "3.Klasse/englisch/3kl-eng.md",
@@ -181,20 +174,14 @@
     "3.Klasse/nwt/3kl-nwt.md",
     "3.Klasse/itsi/itsi-test2-stoff.md",
     "3.Klasse/itsi/3kl-itsi.md",
-    "3.Klasse/itsi/Mitlesen von Nachrichten im lokalen Netz.md",
-    "bilder/Mitlesen von Nachrichten im lokalen Netz 10-04-2025-34.excalidraw.md",
     "bilder/Mitlesen von Nachrichten im lokalen Netz 10-04-2025-34.excalidraw.svg",
-    "bilder/Mitlesen von Nachrichten im lokalen Netz 10-04-2025-45.excalidraw.md",
     "bilder/Mitlesen von Nachrichten im lokalen Netz 10-04-2025-45.excalidraw.svg",
-    "3.Klasse/itsi/packet-sniffing.md",
     "bilder/packet-sniffing 10-04-2025-10.excalidraw.svg",
     "bilder/integral-als-orientierter-flächeninhalt-bewegungen 07-04-2025-54.excalidraw.svg",
     "bilder/integral-als-orientierter-flächeninhalt-bewegungen-bsp 07-04-2025-49.excalidraw.svg",
     "bilder/integral-als-orientierter-flächeninhalt-bsp 07-04-2025-15.excalidraw.svg",
     "bilder/integral-als-orientierter-flächeninhalt 07-04-2025-29.excalidraw.svg",
-    "bilder/partielle-integration 25-03-2025-36.excalidraw.svg",
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/Fürst_Frame_Analyse_Wireshark.pdf",
-    "3.Klasse/nwt/aufgaben/switch-conf/images/ipv6.png",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/alt/StatischesRouting.pdf",
     "ob/2.Klasse/Medt",
