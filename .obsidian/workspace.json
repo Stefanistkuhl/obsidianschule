@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8823ad3c5362ca4f",
+        "id": "41d787aaa79c4a77",
         "type": "tabs",
         "children": [
           {
-            "id": "22cfb79bdbb90c56",
+            "id": "3c8a6c5c35463121",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,8 +139,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "22cfb79bdbb90c56",
+  "active": "3c8a6c5c35463121",
   "lastOpenFiles": [
+    "3.Klasse/englisch/table-of-contents.md",
     "3.Klasse/mathe/fläche-zw-2-fkt-interpretationen.md",
     "bilder/fläche-zw-2-fkt-interpretationen 29-04-2025-25.excalidraw.md",
     "bilder/fläche-zw-2-fkt-interpretationen 29-04-2025-25.excalidraw.svg",
