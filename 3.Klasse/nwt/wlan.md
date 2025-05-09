@@ -21,10 +21,10 @@ all start with 802.11
 	- barards competible with 802.11b
 - 802.11n
 	- 2.4 and 5 ghz
-	- 160 to 600 mb/s
+	- 160 to 600 mbiy
 	- require multiple anntenals with MIMO techinology
 - 802.11ac
-	- 5gyz
+	- 5ghz
 	- 450mbit-1.3gbit
 - 802.11ax
 	- 2.4a nd 5ghz
