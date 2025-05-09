@@ -21,3 +21,4 @@ tags:
 [[test prac]]
 [[first-hop-redundancy-protocols]]
 [[layer-2-lan-security-concepts]]
+[[wlan]]
