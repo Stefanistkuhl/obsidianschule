@@ -28,3 +28,7 @@ tags:
 		- Einigung über Einflussphären in Afrika zwischen GB und F 
 		- 1904 Bündniss: Entente Cordiale ("herzliches Einvernehmen")
 		- hiel über den ersten Weltkrieg hinaus
+
+[[Cecil Rhodes]]
+
+[[Hereros]]
