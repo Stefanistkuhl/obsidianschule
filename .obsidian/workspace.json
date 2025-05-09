@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "41d787aaa79c4a77",
+        "id": "4c1ad616bcf9e485",
         "type": "tabs",
         "children": [
           {
-            "id": "3c8a6c5c35463121",
+            "id": "4f321d8fb9c05ab1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Klasse/nwt/wifi-deathentiaction.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "wifi-deathentiaction"
+              "title": "New tab"
             }
           }
         ]
@@ -143,10 +139,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c8a6c5c35463121",
+  "active": "4f321d8fb9c05ab1",
   "lastOpenFiles": [
-    "3.Klasse/nwt/wlan.md",
+    "3.Klasse/syt/fürst-syt-windows-registry-aufgabe.md",
+    "bilder/Pasted image 20250509154638.png",
+    "3.Klasse/syt/3kl-syt.md",
+    "3.Klasse/3te-Klasse.md",
+    "3.Klasse/syt/syt_elektro.md",
     "3.Klasse/nwt/wifi-deathentiaction.md",
+    "3.Klasse/nwt/wlan.md",
     "3.Klasse/nwt/3kl-nwt.md",
     "3.Klasse/ggp/Hereros.md",
     "3.Klasse/ggp/imperialismus.md",
@@ -169,19 +170,13 @@
     "3.Klasse/Nawi/biochemie.md",
     "3.Klasse/Nawi/zucker-in-rna-und-dna.md",
     "3.Klasse/nwt/layer-2-lan-security-concepts.md",
-    "3.Klasse/mathe/partielle-integration-smü.md",
-    "3.Klasse/mathe/partielle-integration.md",
-    "conflict-files-obsidian-git.md",
     "3.Klasse/Nawi/nawi-teststoff-deadge.md~",
-    "3.Klasse/Nawi/3kl-nawi.md",
-    "3.Klasse/nwt/vlan-hopping-attack.md",
     "bilder/Mitlesen von Nachrichten im lokalen Netz 10-04-2025-34.excalidraw.svg",
     "bilder/Mitlesen von Nachrichten im lokalen Netz 10-04-2025-45.excalidraw.svg",
     "bilder/packet-sniffing 10-04-2025-10.excalidraw.svg",
     "bilder/integral-als-orientierter-flächeninhalt-bewegungen 07-04-2025-54.excalidraw.svg",
     "bilder/integral-als-orientierter-flächeninhalt-bewegungen-bsp 07-04-2025-49.excalidraw.svg",
     "bilder/integral-als-orientierter-flächeninhalt-bsp 07-04-2025-15.excalidraw.svg",
-    "bilder/integral-als-orientierter-flächeninhalt 07-04-2025-29.excalidraw.svg",
     "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/Fürst_Frame_Analyse_Wireshark.pdf",
     "2.Klasse/Ipt/MonetäreZiele.canvas",
     "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/alt/StatischesRouting.pdf",
