@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Klasse/nwt/wlan.md",
+                "file": "3.Klasse/nwt/wifi-deathentiaction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "wlan"
+              "title": "wifi-deathentiaction"
             }
           }
         ]
@@ -145,8 +145,9 @@
   },
   "active": "3c8a6c5c35463121",
   "lastOpenFiles": [
-    "3.Klasse/nwt/3kl-nwt.md",
     "3.Klasse/nwt/wlan.md",
+    "3.Klasse/nwt/wifi-deathentiaction.md",
+    "3.Klasse/nwt/3kl-nwt.md",
     "3.Klasse/ggp/Hereros.md",
     "3.Klasse/ggp/imperialismus.md",
     "3.Klasse/ggp/Cecil Rhodes.md",
@@ -174,7 +175,6 @@
     "3.Klasse/Nawi/nawi-teststoff-deadge.md~",
     "3.Klasse/Nawi/3kl-nawi.md",
     "3.Klasse/nwt/vlan-hopping-attack.md",
-    "3.Klasse/nwt/dhcp-attacks.md",
     "bilder/Mitlesen von Nachrichten im lokalen Netz 10-04-2025-34.excalidraw.svg",
     "bilder/Mitlesen von Nachrichten im lokalen Netz 10-04-2025-45.excalidraw.svg",
     "bilder/packet-sniffing 10-04-2025-10.excalidraw.svg",

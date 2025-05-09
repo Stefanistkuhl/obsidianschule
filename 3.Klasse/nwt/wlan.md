@@ -30,3 +30,5 @@ all start with 802.11
 	- 2.4a nd 5ghz
 	- high efficeny wiereless (HEW)
 	- capableof using 1 ghz and 7ghz frequencies
+
+[[wifi-deathentiaction]]
