@@ -118,5 +118,8 @@ $$\int 1- \frac{6}{u}+ 9*u^{-2} \, du $$
 integrieren
 $$u- 6*\ln|u|+ \frac{9}{-1}*u^{-1}+c$$
 verinfachen (optional enf geogebra)
-![](https://i.imgur.com/k0IRRJo.png)
-$$((x+3)^2)$$
+![](https://i.imgur.com/NGmPMp8.png)
+![](https://i.imgur.com/2OqUIUM.png)
+ln|x| in geogebra schreibt man `ln(abs(x))`
+erm das stimmt nd tho
+![](https://i.imgur.com/jMOlsFC.png)
