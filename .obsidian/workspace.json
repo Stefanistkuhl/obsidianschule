@@ -11,10 +11,14 @@
             "id": "4f321d8fb9c05ab1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3.Klasse/mathe/3kl-letze-mathe-sa-lernen-yscream.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "3kl-letze-mathe-sa-lernen-yscream"
             }
           }
         ]
@@ -141,6 +145,11 @@
   },
   "active": "4f321d8fb9c05ab1",
   "lastOpenFiles": [
+    "3.Klasse/mathe/linerare-substitutions-aufgaben.md",
+    "3.Klasse/mathe/substitutionsverfahren.md",
+    "3.Klasse/mathe/integrieren.md",
+    "3.Klasse/mathe/3kl-mathe.md",
+    "3.Klasse/mathe/3kl-letze-mathe-sa-lernen-yscream.md",
     "3.Klasse/syt/fürst-syt-windows-registry-aufgabe.md",
     "bilder/Pasted image 20250509154638.png",
     "3.Klasse/syt/3kl-syt.md",
@@ -163,13 +172,9 @@
     "3.Klasse/mathe/fläche-zwischen-2-funktionen.md",
     "3.Klasse/mathe/srdp-fläche-zw-2-funktionen.md",
     "bilder/fläche-zwischen-2-funktionen 28-04-2025-25.excalidraw.svg",
-    "3.Klasse/mathe/3kl-mathe.md",
     "3.Klasse/englisch/3kl-eng.md",
     "3.Klasse/Nawi/nawi-teststoff-deadge.md",
     "3.Klasse/Nawi/dna-und-rna.md",
-    "3.Klasse/Nawi/biochemie.md",
-    "3.Klasse/Nawi/zucker-in-rna-und-dna.md",
-    "3.Klasse/nwt/layer-2-lan-security-concepts.md",
     "3.Klasse/Nawi/nawi-teststoff-deadge.md~",
     "bilder/Mitlesen von Nachrichten im lokalen Netz 10-04-2025-34.excalidraw.svg",
     "bilder/Mitlesen von Nachrichten im lokalen Netz 10-04-2025-45.excalidraw.svg",
