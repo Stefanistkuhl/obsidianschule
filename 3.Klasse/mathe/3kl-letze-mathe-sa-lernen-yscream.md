@@ -153,10 +153,26 @@ $$2*e^1=2e$$
 subtrahieren
 $$2e-2$$
 ![](https://i.imgur.com/MrKzyHr.png)
-wenn es keine grezen gäbe müsse noch wieder eingesetzt (rück substiuiert) 
+wenn es keine grezen gäbe müsse noch wieder eingesetzt (rück substiuiert) werden und ein + c am ende
 #### partielle integration
-
+wird immer angewendet wenn multiplikationen da sind
+→ bruch in ein produkt umschreiben
+$$\int  \frac{(\ln(x))^2}{x^2} \, dx $$
+$$\int ( \ln(x))^2* \frac{1}{x^2}  \, dx $$
+in potenz unschreiben
+$$\int ( \ln(x))^2* x^{-2}  \, dx $$
+jetzt bereit um die parteille integration anzuwenden
+jetzt das eine u und das andere v' nennen das mit u muss abgeleitet werden und das mit v' integriert werden
+$$u= (\ln(x))^2$$
+$$u'= 2* \frac{\ln(x)}{x}= 2*(\ln(x))* \frac{1}{x}$$
+$$v'=x^{-2}$$
+$$v= -x^{-1}$$
+dann u mit v multiplizieren und mit dem integral von v mal u' subtrahieren
+$$u*v- \int v*u' \, dx $$
+![](https://i.imgur.com/mkYoTx2.png)
 #### partial bruch zerlegung
+
+$$ \int_{1}^{2} \frac{-2x-2}{x^2 +7x +12}  \, dx $$
 
 ### flächenberechnung
 
