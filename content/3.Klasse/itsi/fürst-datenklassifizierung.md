@@ -1,0 +1,99 @@
+---
+id: Aufhabe daten thingy
+aliases: []
+tags:
+  - 3te_Klasse
+  - itsi
+---
+Firma: ÖBB
+- Geschäftsprozesse
+	- Verkauf von Tickets
+	- Aufbau von Infrastruktur
+	- Transportieren von Waren
+- Gesammelte Daten 
+	- Statistiken von Ausfällen der Züge und Streckenzustände
+		- Wird verabeitet um es in der Scotty App anzuzeigen
+	- Anzahl der Fahrgäste zu bestimmten Zeiten 
+		- Dasselbe wie vorher
+	- Transportierte Waren 
+		- Wird Verabeitet um einen Überlbick über die Finanzen zu haben
+	- Zahlungsinformationen von Kunden 
+		- Wird nicht verarbeitet
+	- Informationen der Partner und Waren
+		- Wird nicht verarbeitet
+
+- Papierdokumente
+	- Öffentlich 
+		- Flyer 
+			- Handhabung 
+				- Werden Öffentlich verteilt
+			- Lagerung 
+				- In der Firma um Verteilt zu werden
+			- Entsorgung
+				- Papiermüll
+	- Intern 
+		- Kundenrechnungen
+			- Handhabung 
+				- Nur Zugänglich für die Finanzabteilung
+			- Lagerung 
+				- Abgesperrter Raum
+			- Entsorgung
+				- Schredder
+	- Geheim 
+		- Verträge
+			- Handhabung 
+				- Nur ausgewählte Mitarbeiter und der Partner haben Zugriff.
+			- Lagerung 
+				- Tresor
+			- Entsorgung
+				- Schreddern
+- Elektronische Dokumente
+	- Öffentlich 
+		- Öffentliche Webseite
+			- Handhabung 
+				- Ist Öffentlich für jeden Ansehbar
+			- Lagerung 
+				- In der Cloud oder on Prem
+			- Entsorgung
+				- Datein Löschen, Sever auschalten
+	- Intern 
+		- Dokumente wie zb Jährliche Ziele, Ausbildungs Material, Richtlinien
+			- Handhabung 
+				- Nur Zugänglich für Angestelle und Authetifizierung Notwending für Zugriff
+			- Lagerung 
+				- Interner File Server oder Cloud
+			- Entsorgung
+				- Löschen, Festplatte Zerstören
+	- Geheim
+		- Persöhnliche Daten über angestellte
+			- Handhabung 
+				- Nur Mitarbeiter in Human Ressources haben Zugriff um neue Daten einzutragen, löschen oder zu ändern
+			- Lagerung 
+				- Verschlüsselt in einer Datenbank
+			- Entsorgung
+				- Key löschen, Festplatte zerstören 
+- Elektronische Post
+	- Öffentlich 
+		- Öffentliche Email für Kundensupport
+			- Handhabung 
+				- Nur Mitarbeiter die im Support sind sollten Zugriff haben
+			- Lagerung 
+				- Öffentlich auffindbar auf der Webseite, emails selbst auf dem Email server
+			- Entsorgung
+				- Daten Löschen oder Email Server auschalten und Festplatten zerstören
+	- Intern 
+		- Internet Email Server
+			- Handhabung 
+				- Nur über Anmeldedaten, die nur Angestellete haben erreichbar
+			- Lagerung 
+				- Emails auf dem Server (cloud oder on on prem) meist unverschlüsselt
+			- Entsorgung
+				- Daten Löschen, Wenn verschlüsslt Key löschen, Festplatten zerstören
+	- Geheim
+		- Kommunikation zwischen Firma und ihren Partnern über wichtige Projekte
+			- Handhabung 
+				- Verschlüsselte Online Kommunikation
+			- Lagerung 
+				- Idealerweise auf einem Internen Server oder in der Cloud
+			- Entsorgung
+				- Key löschen, Festplatte zerstören, `dd if=/dev/urandom of=/dev/sdX bs=1M`

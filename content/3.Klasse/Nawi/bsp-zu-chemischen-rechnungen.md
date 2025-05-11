@@ -1,0 +1,32 @@
+---
+tags:
+  - 2te_Klasse
+  - nawi
+---
+- Bsp
+    - Haben 20.000 1 Euro Münzen, wissen das aber nicht.
+        - Einfach wiegen → Man wiegt 1 Münze (oder 10 oder 100)
+        - Eine Münze wiegt 7,50g
+        - Dann alle Münzen → 7,50 * 20.000 = 150.000g = 150 Kilogramm
+        - Anzahl an Münzen = 150.000g/7,50g = 20.000
+    - In der Chemie geht man genau so vor:
+    - In PSE sind die Mol-massen M aller Elemente zu finden
+        - Masse pro mol = g/Mol
+- Bsp Stoffmenge(n) von H2O in 0,5L Wasser 
+	- Anzahl in mol $$n(H_{2}O)=\frac{500}{18}=20 mol = 168*10^{23}$$ $$M(H)=1*\frac{g}{mol}$$$$M(O)=16* \frac{g}{mol}$$$$M(H_{2}O)=2+16=18* \frac{g}{mol}$$
+- Anwendungen
+	- Ausbeute berechnen
+		- Bsp
+			- Eisenoxid $$Fe_{2}O_{3}+3CO→2Fe + 3 CO_{2}$$ 
+				- a) Geg:$$m(Fe_{2}O_{2})=50t$$$$n(Fe_{2}O_{2})=\frac{m}{M}=\frac{50*10^6g}{160* \frac{g}{mol}}$$$$n(Fe_{2}O_{3}):n(Fe)=1:2$$$$n(Fe)=625000mol$$$$n(Fe)=650000mol*56 * \frac{g}{mol} = 35000000g=35t$$
+				- Umrechnung Aus 1t Fe3O3 kann man 0,7t Fe gewinnen 
+		- Bsp Kupfergewinnung $$Cu_{2}S+2Cu_{2}O→6Cu+SO_{2}$$
+			- Wie viel t Cu2O benötigt man, wenn man 30t Cu2S hat? 
+				- $$M(Cu)=64* \frac{g}{moll}$$  $$M(S)=32* \frac{g}{moll}$$ $$M(Cu_{2}S)=160* \frac{g}{moll}$$
+				-  $$M()Cu_{2}S = 144 \frac{g}{mol}$$
+			- $$n(Cu_{2}S) = \frac{30*10^6}{160 \frac{g}{mol}} = 187.500mol$$
+			- ⇒ $$n(Cu_{2}S) = 37500mol$$
+			- ⇒ $$m(Cu_{2}O) = 54.000.000g = 54t$$
+		- b) Wie viel Tonen Cu entstehen
+			- $$n(Cu) = 6*187.000 = 1.125.000mol$$
+			- $$M(Cu)= 72.000.000g= 72t$$

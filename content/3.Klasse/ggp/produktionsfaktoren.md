@@ -1,0 +1,30 @@
+---
+tags:
+  - 3te_Klasse
+  - ggp
+---
+- Überlgegen wie Sie, welche Produktionsfaktoren notwendig sind, um ein Mobiltelefon herzustellen. Mindmap
+	- ![](s58%20thing%2014-10-2024-43.excalidraw.svg)
+- 58.1 faktoren 
+	- Boden - Acker
+	- Trakor 
+	- Know how für den Traktor 
+	- Wissen wie der Boden funktioert, Lagern, wann man erntet
+	- Arbeit - Fahrer für den Traktor
+	- Kapital - Traktor Feld etc
+- zuordnen 
+	- Boden 
+		- Wald
+		- Erdöl Lagerstätte 
+		- Betriebsgelände 
+	- Wissen 
+		- EDV-Kurs 
+		- Matura 
+	- Kapital 
+		- Aktien
+		- Sparbuch
+		- LWK 
+	- Arbeit
+		- montage einer Satelietenanlage 
+		- Tapezieren eines Zimmers
+		- 

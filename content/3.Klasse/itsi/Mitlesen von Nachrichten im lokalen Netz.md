@@ -1,0 +1,17 @@
+---
+tags:
+  - 3te_Klasse
+  - itsi
+---
+- Hub 
+	- ![](Mitlesen%20von%20Nachrichten%20im%20lokalen%20Netz%2010-04-2025-45.excalidraw.svg)
+	- eingehende Nachrichten werden an alle Interfaces weitergeleitet
+	- ![](Mitlesen%20von%20Nachrichten%20im%20lokalen%20Netz%2010-04-2025-34.excalidraw.svg)
+		- Angreifer kann alle Nachrichten mitlesen, da der Hub alle Nachtichten an alle sendet
+	- Damit der angreifer alle packete die er bekommt annimmt muss "promiscous mode" einschalten
+- managed Switch
+	- mirror Port
+		- Source Interface
+			- Interfaces die Kopiert werden sollen "überwachte ports"
+		- Destinatio Interface
+			- alle überwachhten Nachrichten werden dort hingeschickt

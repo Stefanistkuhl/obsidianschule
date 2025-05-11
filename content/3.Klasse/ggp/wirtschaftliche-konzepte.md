@@ -1,0 +1,47 @@
+---
+tags:
+  - 3te_Klasse
+  - ggp
+---
+- Beispiele für nicht-materielle und materielle Güter
+	- materiell 
+		- fahrrad
+		- gewand
+		- bücher
+	- nicht-materiell
+		- dienstleistungen
+		- emotionale werte
+			- liebe, geborgenheit, zufriedenheit
+		- Uhrheberrecht
+		- Bildung
+		- Sicherheit
+- Werbemittel und Zielgruppen
+	- bsp Auto werbung
+	- Werbemittel
+		- Effizienz
+		- Statussymbol
+	- Zielgruppen
+		- Erwachsene (Männer)
+- Berdürfnisse, die sich im Laufe des Lebens ändern 
+	- Zeit wird ein kostbares Gut
+	- Jünger eher materielles Wichtiger
+	- vom Spielzeug (Auto) zum echten Ding
+	- Lebensumstände wie Kinder, Beziehung etc verändern die Bedürfnisse
+- Waren und Dienstleistungen die vor 50 Jahren wichtig waren und welche für heute
+	- vor 50j
+		- Schreibmaschiene
+		- Faxgeräte
+		- Theater, Kino
+		- Plattenspieler
+		- Diskette, Kassete, CD, Film
+		- Bücher
+	- heute
+		- Tastatur
+		- Email
+		- Streaming Services
+		- Audiodatein
+		- Flash
+		- gepiratete PDFs
+- Zussamensetzung des Warenkorbs
+	- Massenproduktion hat zb Lebensmittel billiger gemacht, Welthandel (Globalisierung)
+	- Wohenen ist *leicht* gestiegen

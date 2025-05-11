@@ -1,0 +1,12 @@
+services:
+  webserver:
+    container_name: itsi
+    image: itsi:latest
+    restart: no
+    volumes:
+      - ./mapped-files/public:/var/www/metyr.xyz/html/public:rw
+      - ./mapped-files/private:/var/www/metyr.xyz/html/private:rw
+    ports:
+      - "38452:38452"
+      - "80:80"
+      - "443:443"

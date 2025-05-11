@@ -1,0 +1,84 @@
+\documentclass[a4paper]{article}
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\usepackage{geometry}
+\geometry{
+	a4paper,
+	total={170mm,257mm},
+	left=20mm,
+	top=20mm,
+	bottom=39mm,
+}
+
+\setlength{\headheight}{82.70538pt}
+
+\fancypagestyle{oida}{
+	\fancyhf{}
+	\fancyhead[L]{\fontsize{7.5}{7.5}htl donaustadt\\ Donaustadtstraße 45\\
+		1220 Wien\\~\\ Abteilung: Informationstechnologie\\ 
+	Schwerpunkt: Netzwerktechnik}
+	\fancyhead[R]{\includegraphics[scale=0.45]{logo.png}}
+
+	\fancyfoot[L]{\today}
+	\fancyfoot[C]{\jobname}
+	\fancyfoot[R]{Seite: \thepage}
+}
+
+\begin{document}
+\pagestyle{oida}
+\section*{Thema}
+\par\noindent\rule{\textwidth}{0.4pt}
+
+Laborprotokoll
+
+\begin{figure}[h]
+	\includegraphics[scale=0.6]{meme.jpeg}
+	\caption{memes klauen ist nicht ethisch}
+\end{figure}
+
+\vspace*{\fill}
+Unterrichtsgegenstand:	NWT1|ZIVK
+
+Jahrgang:	2BHIT
+
+Name:	Stefan Fürst
+
+Betreuer: 	ZIVK
+
+Übungsdaten:	Datum
+
+Abgabedatum:	Datum
+
+
+\newpage
+\tableofcontents
+
+\newpage
+
+\section{Aufgabenstellung}
+
+\section{Zusammenfassung}
+
+\newpage
+
+\section{Vollständige Netzwerktopologie der gesamten Übung}
+
+\newpage
+
+\section{Übungsdurchführung}
+
+\subsection{dings 1}
+
+\subsubsection{dings 2}
+
+\newpage
+
+\section{Vollständige Konfigurationsdatein}
+
+\newpage
+
+\section{Abbildungsverzeichnis}
+
+\listoffigures
+
+\end{document}

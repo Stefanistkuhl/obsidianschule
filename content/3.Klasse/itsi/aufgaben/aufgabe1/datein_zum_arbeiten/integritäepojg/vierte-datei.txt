@@ -1,0 +1,1 @@
+[200~Hash-Funktionen wie SHA-256 erzeugen aus beliebigen Daten eine feste Länge, die oft zur Integritätsprüfung verwendet wird.

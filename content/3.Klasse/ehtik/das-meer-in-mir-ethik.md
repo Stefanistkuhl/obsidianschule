@@ -1,0 +1,44 @@
+---
+tags:
+  - 3te_Klasse
+  - ehtik
+---
+![](Das%20Meer%20in%20mir%2010-12-2024-42.excalidraw.svg)
+![](Pasted%20image%2020241210150316.png) als ethisches Problem
+	- Wie beurteile ich intiutiv den Fall?
+		- Roman hat recht, sich für eine Einführung der Sterbehilfe einzusetzen und sollte das recht bekommen, legal und würdevoll zu sterben
+	- Wo liegt der Kern für mich des Ethischen Problem?
+		- Darin ob ein Mensch selbst bestimmen darf, ob er sein leben beenden darf oder nicht.
+- Kontextanalyse
+	- Wer ist in den Fall involviert?
+		- Ramon
+			- hauptchackter und will sterben
+		- Julia
+			- Ramons anwätltin hilft ihm dabei zu sterben
+		- Manuela
+			- Ramons schwägerin unterstüzuz ihn, da sie das beste für ihn will und es ja sein eigener wille is
+		- Rose
+			- erst wollte sie ihn davon überzeugen nicht zu sterben aber sie hat im laufe des filmes ihre meinung geändert
+		- Javi
+			- neffe von roman hat sich im laufe des filmes nicht geäußert wie es dazu steht, aber am ende sieht man wie er dem van nachläuft weil er seinen onkel nicht verlieren will
+		- Jose
+			- sein Schwager und ist komplett dagegen, weil er der Ansicht ist, dass es einen schlechten eindruck auf die famile wirft wenn sie wegen des gerichtsprozesses in den medien ist
+		- Joaquin
+			- findet es schlimmer das ein kind sterben will, als wenn es stirbt.
+		- priester wappla typ
+			- ist gegen sterbe hilfe und den tod von ramon
+	- Welche Interessen vertreten die Personen?
+		- julia
+			- vertritt dass interese eine sterbehilfe einzuführen, weil sie findet, dass die menschen mehr entscheidungskraft haben sollten
+		- Manuela findet will nur das Beste für Ramon und 
+	- Was wissen wir nicht, was wir zur Klärung des Ethischen Problems wissen müssten?
+- Werte analyse
+	- Welche Werte lassen sich den einzelenen Interessenträgern/Personen zuordnern?
+	- Wo verlaufen die Konfliktlinien: Welche Werte/moralische Normen stehen in diesem Fall in Widerpruch zueinernader.
+- Entwurf von Handlungsmotiven
+	- Wie sind die Handlungsalternativen der beteiligten Personen moralisch zu bewerten?
+	- Wie lassen sich die moralischen Bewertungen jeweils begründen?
+- Ethisches Urteil und Begründung
+	- Hierachisierung der Handlungsoptionen: Welche Handlungsmöglichkeiten sind moralisch gesehen am besten/am schlechtesten?
+	- Güterabwägung: Welche moralischen Güter (zb Leben , Selbstbestimmung, Wahrheit, Freiheit) stehnen hinter den einzelnen Handslungsmöglichkeitne? Welche Güter wiegen schwerer/leichter
+	- Eigenes etisches Urteil und Begründung der Entscheidung für eine Handelungsoption

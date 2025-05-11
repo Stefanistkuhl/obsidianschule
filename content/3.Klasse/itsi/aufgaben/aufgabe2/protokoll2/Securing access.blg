@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Securing access.aux
+The style file: plain.bst
+Database file #1: quellen.bib
+Warning--to sort, need author or key in password-policies-2
+You've used 3 entries,
+            2118 wiz_defined-function locations,
+            511 strings with 4371 characters,
+and the built_in function-call counts, 595 in all, are:
+= -- 55
+> -- 15
+< -- 0
++ -- 7
+- -- 4
+* -- 30
+:= -- 104
+add.period$ -- 8
+call.type$ -- 3
+change.case$ -- 11
+chr.to.int$ -- 0
+cite$ -- 4
+duplicate$ -- 27
+empty$ -- 58
+format.name$ -- 4
+if$ -- 123
+int.to.chr$ -- 0
+int.to.str$ -- 3
+missing$ -- 2
+newline$ -- 17
+num.names$ -- 4
+pop$ -- 17
+preamble$ -- 1
+purify$ -- 8
+quote$ -- 0
+skip$ -- 21
+stack$ -- 0
+substring$ -- 15
+swap$ -- 3
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 12
+warning$ -- 1
+while$ -- 4
+width$ -- 4
+write$ -- 30
+(There was 1 warning)

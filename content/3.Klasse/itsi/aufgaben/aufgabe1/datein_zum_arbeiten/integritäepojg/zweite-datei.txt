@@ -1,0 +1,1 @@
+Symmetrische Verschlüsselung nutzt denselben Schlüssel für Ver- und Entschlüsselung, während asymmetrische Verschlüsselung zwei unterschiedliche Schlüssel verwendet.

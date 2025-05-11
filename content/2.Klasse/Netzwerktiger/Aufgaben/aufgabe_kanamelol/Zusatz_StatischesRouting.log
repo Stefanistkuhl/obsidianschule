@@ -1,0 +1,244 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/nixos.org) (preloaded format=pdflatex 1980.1.1)  16 APR 2024 18:20
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**Zusatz_StatischesRouting.tex
+(./Zusatz_StatischesRouting.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22> (/nix/store/v74y241f62h1ggm9kyzv8rad5mxnni0l-texlive-2022-env-texmfdist/tex/latex/base/article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(/nix/store/v74y241f62h1ggm9kyzv8rad5mxnni0l-texlive-2022-env-texmfdist/tex/latex/base/size10.clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (/nix/store/v74y241f62h1ggm9kyzv8rad5mxnni0l-texlive-2022-env-texmfdist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/nix/store/v74y241f62h1ggm9kyzv8rad5mxnni0l-texlive-2022-env-texmfdist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (/nix/store/v74y241f62h1ggm9kyzv8rad5mxnni0l-texlive-2022-env-texmfdist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (/nix/store/v74y241f62h1ggm9kyzv8rad5mxnni0l-texlive-2022-env-texmfdist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/nix/store/v74y241f62h1ggm9kyzv8rad5mxnni0l-texlive-2022-env-texmfdist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (/nix/store/v74y241f62h1ggm9kyzv8rad5mxnni0l-texlive-2022-env-texmfdist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+) (/nix/store/v74y241f62h1ggm9kyzv8rad5mxnni0l-texlive-2022-env-texmfdist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip50
+\f@nch@O@elh=\skip51
+\f@nch@O@erh=\skip52
+\f@nch@O@olh=\skip53
+\f@nch@O@orh=\skip54
+\f@nch@O@elf=\skip55
+\f@nch@O@erf=\skip56
+\f@nch@O@olf=\skip57
+\f@nch@O@orf=\skip58
+) (/nix/store/v74y241f62h1ggm9kyzv8rad5mxnni0l-texlive-2022-env-texmfdist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/nix/store/v74y241f62h1ggm9kyzv8rad5mxnni0l-texlive-2022-env-texmfdist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/nix/store/v74y241f62h1ggm9kyzv8rad5mxnni0l-texlive-2022-env-texmfdist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
+\Gm@bindingoffset=\dimen143
+\Gm@wd@mp=\dimen144
+\Gm@odd@mp=\dimen145
+\Gm@even@mp=\dimen146
+\Gm@layoutwidth=\dimen147
+\Gm@layoutheight=\dimen148
+\Gm@layouthoffset=\dimen149
+\Gm@layoutvoffset=\dimen150
+\Gm@dimlist=\toks17
+)
+
+Package geometry Warning: Over-specification in `v'-direction.
+    `height' (731.23582pt) is ignored.
+
+(/nix/store/v74y241f62h1ggm9kyzv8rad5mxnni0l-texlive-2022-env-texmfdist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count196
+\l__pdf_internal_box=\box51
+) (./Zusatz_StatischesRouting.aux)
+\openout1 = `Zusatz_StatischesRouting.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+ (/nix/store/v74y241f62h1ggm9kyzv8rad5mxnni0l-texlive-2022-env-texmfdist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count197
+\scratchdimen=\dimen151
+\scratchbox=\box52
+\nofMPsegments=\count198
+\nofMParguments=\count199
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count266
+\MPscratchDim=\dimen152
+\MPnumerator=\count267
+\makeMPintoPDFobject=\count268
+\everyMPtoPDFconversion=\toks19
+) (/nix/store/v74y241f62h1ggm9kyzv8rad5mxnni0l-texlive-2022-env-texmfdist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/nix/store/v74y241f62h1ggm9kyzv8rad5mxnni0l-texlive-2022-env-texmfdist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69684pt, 56.90553pt)
+* v-part:(T,H,B)=(56.9055pt, 677.1756pt, 110.96574pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69684pt
+* \textheight=677.1756pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=82.70538pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<meme.jpeg, id=1, 842.14626pt x 1405.25pt>
+File: meme.jpeg Graphic file (type jpg)
+<use meme.jpeg>
+Package pdftex.def Info: meme.jpeg  used on input line 36.
+(pdftex.def)             Requested size: 294.7556pt x 491.84488pt.
+<logo.png, id=2, 413.545pt x 122.4575pt>
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 54.
+(pdftex.def)             Requested size: 186.09352pt x 55.10535pt.
+[1{/nix/store/19kjjrw61p7wqz9hb74c75dsn2zrdhyl-texlive-2022-env/share/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+ <./logo.png> <./meme.jpeg>] (./Zusatz_StatischesRouting.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 5.
+)
+\tf@toc=\write3
+\openout3 = `Zusatz_StatischesRouting.toc'.
+
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 57.
+(pdftex.def)             Requested size: 186.09352pt x 55.10535pt.
+ [2]
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 65.
+(pdftex.def)             Requested size: 186.09352pt x 55.10535pt.
+ [3]
+<topologie.png, id=18, 945.5325pt x 442.65375pt>
+File: topologie.png Graphic file (type png)
+<use topologie.png>
+Package pdftex.def Info: topologie.png  used on input line 70.
+(pdftex.def)             Requested size: 472.76509pt x 221.32632pt.
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 74.
+(pdftex.def)             Requested size: 186.09352pt x 55.10535pt.
+ [4 <./topologie.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 80--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--102
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--121
+
+ []
+
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 121.
+(pdftex.def)             Requested size: 186.09352pt x 55.10535pt.
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 124--138
+
+ []
+
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 141.
+(pdftex.def)             Requested size: 186.09352pt x 55.10535pt.
+[6] (./Zusatz_StatischesRouting.lof)
+\tf@lof=\write4
+\openout4 = `Zusatz_StatischesRouting.lof'.
+
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 147.
+(pdftex.def)             Requested size: 186.09352pt x 55.10535pt.
+ [7] (./Zusatz_StatischesRouting.aux) ) 
+Here is how much of TeX's memory you used:
+ 2074 strings out of 477138
+ 35230 string characters out of 5799522
+ 1855388 words of memory out of 5000000
+ 22371 multiletter control sequences out of 15000+600000
+ 513805 words of font info for 37 fonts, out of 8000000 for 9000
+ 430 hyphenation exceptions out of 8191
+ 57i,16n,62p,222b,322s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</nix/store/v74y241f62h1ggm9kyzv8rad5mxnni0l-texlive-2022-env-texmfdist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></nix/store/v74y241f62h1ggm9kyzv8rad5mxnni0l-texlive-2022-env-texmfdist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></nix/store/v74y241f62h1ggm9kyzv8rad5mxnni0l-texlive-2022-env-texmfdist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on Zusatz_StatischesRouting.pdf (7 pages, 359759 bytes).
+PDF statistics:
+ 49 PDF objects out of 1000 (max. 8388607)
+ 28 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+

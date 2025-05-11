@@ -1,0 +1,386 @@
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.5.26)  7 JUN 2024 15:19
+ restricted system commands enabled.
+ file:line:error style messages enabled.
+**TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.tex
+(./TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-05-08>
+Lua module: luaotfload 2024-02-14 3.28 Lua based OpenType font support
+Lua module: lualibs 2023-07-13 2.76 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2023-07-13 2.76 ConTeXt Lua libraries -- extended collection.
+luaotfload | conf : Root cache directory is "/home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2023-12-28.lua" from kpse-resolved path "/opt/texlive/2024/texmf-dist/tex/luatex/luaotfload/fontloader-2023-12-28.lua".
+Lua-only attribute luaotfload@noligature = 1
+luaotfload | init : Context OpenType loader version 3.134
+Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' in `hpack_filter'.
+Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
+Inserting `luaotfload.define_font' in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 2
+luaotfload | conf : Root cache directory is "/home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/names".
+Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
+Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
+Inserting `luaotfload.harf.glyphstream' in `glyph_stream_provider'.
+Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_hlist' in `hpack_filter'.
+Inserting `luaotfload.cleanup_files' in `wrapup_run'.
+Inserting `luaotfload.harf.finalize_unicode' in `finish_pdffile'.
+Inserting `luaotfload.glyphinfo' in `glyph_info'.
+Lua-only attribute luaotfload.letterspace_done = 3
+Inserting `luaotfload.aux.set_sscale_dimens' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_font_index' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.patch_cambria_domh' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
+Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
+Inserting `tracingstacklevels' in `input_level_string'. (/opt/texlive/2024/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/opt/texlive/2024/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+luaotfload | db : Font names database loaded from /home/stefiii/.config/texlive/2024/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen139
+) (/opt/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/opt/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (/opt/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (/opt/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/opt/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: luatex.def on input line 107.
+ (/opt/texlive/2024/texmf-dist/tex/latex/graphics-def/luatex.def
+File: luatex.def 2024/04/13 v1.2e Graphics/color driver for luatex
+))
+\Gin@req@height=\dimen140
+\Gin@req@width=\dimen141
+) (/opt/texlive/2024/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+ (/opt/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: luatex.def on input line 274.
+ (/opt/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+) (/opt/texlive/2024/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (/opt/texlive/2024/texmf-dist/tex/latex/outlines/outlines.sty
+Package: outlines 2012/1/23 1.1 Ch. Pecheur
+ (/opt/texlive/2024/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)) (/opt/texlive/2024/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count195
+\lst@gtempboxa=\box51
+\lst@token=\toks18
+\lst@length=\count196
+\lst@currlwidth=\dimen142
+\lst@column=\count197
+\lst@pos=\count198
+\lst@lostspace=\dimen143
+\lst@width=\dimen144
+\lst@newlines=\count199
+\lst@lineno=\count266
+\lst@maxwidth=\dimen145
+ (/opt/texlive/2024/texmf-dist/tex/latex/listings/lstpatch.sty
+File: lstpatch.sty 2024/05/25 1.10b (Carsten Heinz)
+) (/opt/texlive/2024/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2024/05/25 1.10b (Carsten Heinz)
+\c@lstnumber=\count267
+\lst@skipnumbers=\count268
+\lst@framebox=\box52
+) (/opt/texlive/2024/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2024/05/25 1.10b listings configuration
+))
+Package: listings 2024/05/25 1.10b (Carsten Heinz)
+ (/opt/texlive/2024/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2024/04/23 v4.2 Extensive control of page headers and footers
+\f@nch@headwidth=\skip50
+\f@nch@O@elh=\skip51
+\f@nch@O@erh=\skip52
+\f@nch@O@olh=\skip53
+\f@nch@O@orh=\skip54
+\f@nch@O@elf=\skip55
+\f@nch@O@erf=\skip56
+\f@nch@O@olf=\skip57
+\f@nch@O@orf=\skip58
+) (/opt/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/opt/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/opt/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count269
+\Gm@cntv=\count270
+\c@Gm@tempcnt=\count271
+\Gm@bindingoffset=\dimen146
+\Gm@wd@mp=\dimen147
+\Gm@odd@mp=\dimen148
+\Gm@even@mp=\dimen149
+\Gm@layoutwidth=\dimen150
+\Gm@layoutheight=\dimen151
+\Gm@layouthoffset=\dimen152
+\Gm@layoutvoffset=\dimen153
+\Gm@dimlist=\toks19
+)
+
+Package geometry Warning: Over-specification in `v'-direction.
+    `height' (731.23582pt) is ignored.
+
+(/opt/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
+File: l3backend-luatex.def 2024-05-08 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count272
+Inserting `l3color' in `luaotfload.parse_color'.
+\l__pdf_internal_box=\box53
+) (./TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.aux)
+\openout1 = TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.aux
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 39.
+ (/opt/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+ (/opt/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count273
+\scratchdimen=\dimen154
+\scratchbox=\box54
+\nofMPsegments=\count274
+\nofMParguments=\count275
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count276
+\MPscratchDim=\dimen155
+\MPnumerator=\count277
+\makeMPintoPDFobject=\count278
+\everyMPtoPDFconversion=\toks21
+) (/opt/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/opt/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+\c@lstlisting=\count279
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: luatex
+*geometry* verbose mode - [ preamble ] result:
+* driver: luatex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69684pt, 56.90553pt)
+* v-part:(T,H,B)=(56.9055pt, 677.1756pt, 110.96574pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69684pt
+* \textheight=677.1756pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=82.70538pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<images/meme.jpeg, id=1, 1204.5pt x 1606.0pt>
+File: images/meme.jpeg Graphic file (type jpg)
+<use images/meme.jpeg>
+Package luatex.def Info: images/meme.jpeg  used on input line 49.
+(luatex.def)             Requested size: 361.35278pt x 481.80373pt.
+<images/logo.png, id=2, 413.545pt x 122.4575pt>
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package luatex.def Info: images/logo.png  used on input line 67.
+(luatex.def)             Requested size: 186.09352pt x 55.10535pt.
+[1{/opt/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+<./images/logo.png><./images/meme.jpeg>] (./TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+)
+\tf@toc=\write3
+
+\openout3 = TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.toc
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package luatex.def Info: images/logo.png  used on input line 70.
+(luatex.def)             Requested size: 186.09352pt x 55.10535pt.
+ [2]
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package luatex.def Info: images/logo.png  used on input line 97.
+(luatex.def)             Requested size: 186.09352pt x 55.10535pt.
+ [3] (/opt/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2024/05/25 1.10b listings language file
+) (/opt/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2024/05/25 1.10b listings language file
+)
+<images/handshake.jpeg, id=18, 1352.05125pt x 103.38625pt>
+File: images/handshake.jpeg Graphic file (type jpg)
+<use images/handshake.jpeg>
+Package luatex.def Info: images/handshake.jpeg  used on input line 115.
+(luatex.def)             Requested size: 405.6185pt x 31.0161pt.
+<images/nachricht.jpeg, id=19, 1357.07pt x 659.46375pt>
+File: images/nachricht.jpeg Graphic file (type jpg)
+<use images/nachricht.jpeg>
+Package luatex.def Info: images/nachricht.jpeg  used on input line 120.
+(luatex.def)             Requested size: 407.12415pt x 197.84064pt.
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package luatex.def Info: images/logo.png  used on input line 123.
+(luatex.def)             Requested size: 186.09352pt x 55.10535pt.
+ [4<./images/handshake.jpeg><./images/nachricht.jpeg>]
+<images/tcp-flags.jpeg, id=24, 809.0225pt x 544.0325pt>
+File: images/tcp-flags.jpeg Graphic file (type jpg)
+<use images/tcp-flags.jpeg>
+Package luatex.def Info: images/tcp-flags.jpeg  used on input line 132.
+(luatex.def)             Requested size: 404.51027pt x 272.01558pt.
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package luatex.def Info: images/logo.png  used on input line 135.
+(luatex.def)             Requested size: 186.09352pt x 55.10535pt.
+ [5<./images/tcp-flags.jpeg>]
+<images/tcp-header.jpeg, id=28, 1360.08125pt x 335.2525pt>
+File: images/tcp-header.jpeg Graphic file (type jpg)
+<use images/tcp-header.jpeg>
+Package luatex.def Info: images/tcp-header.jpeg  used on input line 164.
+(luatex.def)             Requested size: 272.01143pt x 67.0493pt.
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package luatex.def Info: images/logo.png  used on input line 167.
+(luatex.def)             Requested size: 186.09352pt x 55.10535pt.
+ [6<./images/tcp-header.jpeg>]
+<images/verbindungsabbruch.png, id=32, 1352.05125pt x 714.67pt>
+File: images/verbindungsabbruch.png Graphic file (type png)
+<use images/verbindungsabbruch.png>
+Package luatex.def Info: images/verbindungsabbruch.png  used on input line 170.
+(luatex.def)             Requested size: 270.40546pt x 142.93146pt.
+<images/udpverbindungsaufbau.png, id=33, 1368.11125pt x 415.5525pt>
+File: images/udpverbindungsaufbau.png Graphic file (type png)
+<use images/udpverbindungsaufbau.png>
+Package luatex.def Info: images/udpverbindungsaufbau.png  used on input line 179.
+(luatex.def)             Requested size: 410.43654pt x 124.6667pt.
+<images/udp-nachricht.png, id=34, 1366.10374pt x 386.44376pt>
+File: images/udp-nachricht.png Graphic file (type png)
+<use images/udp-nachricht.png>
+Package luatex.def Info: images/udp-nachricht.png  used on input line 186.
+(luatex.def)             Requested size: 409.83429pt x 115.93402pt.
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package luatex.def Info: images/logo.png  used on input line 193.
+(luatex.def)             Requested size: 186.09352pt x 55.10535pt.
+ [7<./images/verbindungsabbruch.png><./images/udpverbindungsaufbau.png><./images/udp-nachricht.png>]
+<images/UDP-Header.png, id=38, 844.15375pt x 182.6825pt>
+File: images/UDP-Header.png Graphic file (type png)
+<use images/UDP-Header.png>
+Package luatex.def Info: images/UDP-Header.png  used on input line 200.
+(luatex.def)             Requested size: 379.86568pt x 82.20634pt.
+File: images/udpverbindungsaufbau.png Graphic file (type png)
+<use images/udpverbindungsaufbau.png>
+Package luatex.def Info: images/udpverbindungsaufbau.png  used on input line 205.
+(luatex.def)             Requested size: 410.43654pt x 124.6667pt.
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package luatex.def Info: images/logo.png  used on input line 211.
+(luatex.def)             Requested size: 186.09352pt x 55.10535pt.
+ [8<./images/UDP-Header.png>]
+<images/vergleich.jpg, id=42, 476.982pt x 215.3646pt>
+File: images/vergleich.jpg Graphic file (type jpg)
+<use images/vergleich.jpg>
+Package luatex.def Info: images/vergleich.jpg  used on input line 228.
+(luatex.def)             Requested size: 429.27982pt x 193.82632pt.
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package luatex.def Info: images/logo.png  used on input line 246.
+(luatex.def)             Requested size: 186.09352pt x 55.10535pt.
+ [9<./images/vergleich.jpg>] (./TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.bbl)
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package luatex.def Info: images/logo.png  used on input line 249.
+(luatex.def)             Requested size: 186.09352pt x 55.10535pt.
+ [10] (./TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.lof)
+\tf@lof=\write4
+
+\openout4 = TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.lof
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package luatex.def Info: images/logo.png  used on input line 254.
+(luatex.def)             Requested size: 186.09352pt x 55.10535pt.
+ [11] (./TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-05-08>
+ ***********
+)
+
+Here is how much of LuaTeX's memory you used:
+ 4566 strings out of 476324
+ 100000,1977958 words of node,token memory allocated
+ 426 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 52 glue_spec, 4 attribute_list, 1 write nodes
+   avail lists: 2:676,3:192,4:184,5:264,6:68,7:3396,8:1,9:648,10:3,11:210
+ 26659 multiletter control sequences out of 65536+600000
+ 32 fonts using 2261335 bytes
+ 57i,16n,62p,363b,622s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf></opt/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf>
+Output written on TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.pdf (11 pages, 2032921 bytes).
+
+PDF statistics: 87 PDF objects out of 1000 (max. 8388607)
+ 46 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 100000000)
+

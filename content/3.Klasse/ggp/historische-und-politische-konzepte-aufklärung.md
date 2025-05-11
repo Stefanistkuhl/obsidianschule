@@ -1,0 +1,39 @@
+---
+tags:
+  - 3te_Klasse
+  - ggp
+---
+- Immanuels Kants Definition der Aufklärung
+	- Aufklärung ist der Ausgang des Menschen aus seiner selbstverschuldeteten Unmüdigkeit.
+	- Habe Mut dich deines eigenen Verstandes zu bedienen.
+- Erste Ansätze der Menschenrechte (Mittelalter, England)
+	- Magna Charta
+		- Im 13.Jh konnten in England die Adeligen in einem geschwächten Königshaus Mitsprache bei Besteuerung und Rechtsfragen mitsprache abrigen
+- Gewaltenteilung
+	- Die 3 Gewalten des Staates müssen unabhängig von einander Handeln, sich gegenseitig überprüfe und keiner darf Kontroller über alle 3 haben
+	- Legeslative
+	- Exekutive 
+	- Juikative
+- Gewaltenteilung Vordenker und wieso wichtig
+	- Es darf nd einer die Gesetze machen, ausführen und richten sonst ist es keine Demokratie da dieser Herscher die Vollemacht über den Staat hat
+	- John Locke
+		- vertat in deinen Schriften "Über die Regierug" die Auffasung, dass die Staatsmacht vom Volk ausgehen müsste und das Recht zur revolution habe. Er entwarf ein System der Gewaltenteilung
+	- Charles de Montesquie
+		- entwickelte Lockes ideen weiter und unterschied auch zwischen den 3 gewalten
+- Hauptvefaasser der Amerikanischen Unabhängigkeitserklärung und Datum der Unterzeichnung
+	- 4.Juli 1776 wurde die Unabhängikeits erklärung Unterschrieben
+	- Hauptverfasst Thomans Jefferson
+- Bedeutung und Vorbildwirkung der amerikanischen Verfassung
+	- Vorbild für die Französische Revolution
+- Grundzüge der französischen Verfassung von 1791
+	- Monarchie mit konstituellen Einschränkungen
+		- könig hatte nur noch eine executtive gewalt → seine macht für die Gesetzgebung wurde eingeschränkt
+	- Trennung der Gewalten
+		- könig hatte jedoch ein Vetorecht konnte aber nicht eigenständig Gesetze erlassen
+	- Wahlrecht für alle männer die genung geld haben
+	- Bürgerrechte
+		- Recht auf eigetum
+		- Gleichheit vor dem Gesetze
+- Hintergründe der Entsheung der Menschrechte und un erklärung
+	- UN Menschenrechte aufgrund der Verbrechen gegen die Menschheit im 2ten wk 10.12.1948
+	- Aufklärung und Amerika, unzufriedenheit für die Franzoen thing

@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{Was ist die Linux Foundation?}{3}{0}{1}
+\beamer@sectionintoc {2}{Wieso ist Offenheit wichtig}{5}{0}{2}
+\beamer@sectionintoc {3}{Was macht die Linux Foundation?}{17}{0}{3}
+\beamer@sectionintoc {4}{Ziele der Firma}{30}{0}{4}
+\beamer@subsectionintoc {4}{1}{Haupt und Nebenziele}{31}{0}{4}
+\beamer@subsectionintoc {4}{2}{komplementäre und konkurierende Ziele}{35}{0}{4}
+\beamer@sectionintoc {5}{Quellen}{37}{0}{5}
