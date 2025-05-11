@@ -200,6 +200,10 @@ $$4*\ln(5)-6*\ln(6)-(4*\ln(4)-6*\ln(6))=-0.201$$
 ### flächenberechnung
 
 Der Graph der FUnktion f(x) = x^3 - 3x^2 +2x schließt mit der x-Acse eine Fläche ein. Berechne den Inhalt deiser eingeschlossenen Fläche.
+Nullstellen berechnen
+![](https://i.imgur.com/zDeh6QC.png)
+integrale zwischen den nulstellen berechnen
+![](https://i.imgur.com/HVIYhHV.png)
 
 #### fläche zw 2 func
 
