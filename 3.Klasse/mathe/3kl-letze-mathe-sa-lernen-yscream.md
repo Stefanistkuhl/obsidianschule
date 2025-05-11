@@ -123,3 +123,41 @@ verinfachen (optional enf geogebra)
 ln|x| in geogebra schreibt man `ln(abs(x))`
 erm das stimmt nd tho
 ![](https://i.imgur.com/jMOlsFC.png)
+
+#### mehr substitution
+![](https://i.imgur.com/IPo6b2e.png)
+parteille ingegration wird benutzt wenn man ein produkt an funktionen hat zb x\*e^x 
+substitution hier benuztzt weil verschalchtelte funktion
+subsitution imma wenn verschachtelt
+$$\int_{0}^{1} \frac{e^{\sqrt{ x }}}{\sqrt{ x }}  \, dx $$
+$$u= \sqrt{ x }$$
+bevor jz alles von x mit u ersetzen die grenzen in u einstezen und so anpassen
+$$u= \sqrt{ 0 }=0$$
+$$u= \sqrt{ 1 }=1$$
+neue grezen 0 1
+du/dx bilden → u ableiten
+$$\frac{du}{dx}= \frac{1}{2*\sqrt{ x }}$$
+auf dx umstellen
+$$\frac{du}{dx}= \frac{1}{2* \sqrt{ x }}|*dx$$
+$$du = \frac{1}{2*\sqrt{ x }}*dx | *2*\sqrt{ x }$$
+$$2*\sqrt{ x }*du=1*dx$$
+alles im ingegral ersetzen
+$$\int_{0}^{1} \frac{e^u}{\sqrt{ x }} *2 * \sqrt{ x }\, du $$
+vereinfachen
+![](https://i.imgur.com/Nc99Rbg.png)
+$$\int_{0}^{1} 2*e^u  \, dx $$
+integrieren e bleibt gleich
+$$|_{0}^{1}2*e^u $$
+$$2*e^0=2$$
+$$2*e^1=2e$$
+subtrahieren
+$$2e-2$$
+![](https://i.imgur.com/MrKzyHr.png)
+wenn es keine grezen gäbe müsse noch wieder eingesetzt (rück substiuiert) 
+#### partielle integration
+
+#### partial bruch zerlegung
+
+### flächenberechnung
+
+### bewegungsaufgaben
