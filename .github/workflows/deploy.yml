@@ -18,19 +18,16 @@ jobs:
   build:
     runs-on: ubuntu-22.04
     steps:
-      # 1. Checkout main
       - name: Checkout main
-        uses: actions/checkout
+        uses: actions/checkout@latest
 
-      # 2. Checkout pages branch into ./pages
       - name: Checkout pages branch
-        uses: actions/checkout
+        uses: actions/checkout@latest
         with:
           repository: ${{ github.repository }}
           ref: pages
           path: pages
 
-      # 3. Copy everything except dot-files into pages/contents
       - name: Copy files to pages/contents
         run: |
           cd pages
@@ -38,7 +35,6 @@ jobs:
           shopt -s extglob
           cp -R ../!(.*) contents/
 
-      # 4. Commit & push to pages
       - name: Commit pages updates
         run: |
           cd pages
@@ -52,9 +48,8 @@ jobs:
             echo "No content changes"
           fi
 
-      # 5. Install & build Quartz
       - name: Setup Node
-        uses: actions/setup-node
+        uses: actions/setup-node@latest
         with:
           node-version: 22
 
@@ -64,9 +59,8 @@ jobs:
       - name: Build Quartz
         run: npx quartz build
 
-      # 6. Upload the built site for Pages
       - name: Upload artifact
-        uses: actions/upload-pages-artifact
+        uses: actions/upload-pages-artifact@latest
         with:
           path: public
 
@@ -79,4 +73,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages
+        uses: actions/deploy-pages@latest
