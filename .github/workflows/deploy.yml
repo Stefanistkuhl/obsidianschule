@@ -47,7 +47,7 @@ jobs:
           cd pages
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add contents
+          git add content
           if ! git diff --cached --exit-code; then
             git commit -m "chore: sync content from main @ ${{ github.sha }}"
             git push origin pages
