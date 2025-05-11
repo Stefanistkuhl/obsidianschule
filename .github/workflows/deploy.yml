@@ -18,23 +18,27 @@ jobs:
   build:
     runs-on: ubuntu-22.04
     steps:
+      # 1. Checkout main
       - name: Checkout main
-        uses: actions/checkout@latest
+        uses: actions/checkout@v4
 
+      # 2. Checkout pages branch into ./pages
       - name: Checkout pages branch
-        uses: actions/checkout@latest
+        uses: actions/checkout@v4
         with:
           repository: ${{ github.repository }}
           ref: pages
           path: pages
 
-      - name: Copy files to pages/contents
+      # 3. Copy non-dot files into pages/contents
+      - name: Sync content to pages/contents
         run: |
           cd pages
           mkdir -p contents
           shopt -s extglob
           cp -R ../!(.*) contents/
 
+      # 4. Commit & push back to pages
       - name: Commit pages updates
         run: |
           cd pages
@@ -42,14 +46,15 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add contents
           if ! git diff --cached --exit-code; then
-            git commit -m "chore: sync content from main on ${{ github.sha }}"
+            git commit -m "chore: sync content from main @ ${{ github.sha }}"
             git push origin pages
           else
-            echo "No content changes"
+            echo "No content changes to commit"
           fi
 
-      - name: Setup Node
-        uses: actions/setup-node@latest
+      # 5. Install & build Quartz
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
           node-version: 22
 
@@ -59,8 +64,9 @@ jobs:
       - name: Build Quartz
         run: npx quartz build
 
+      # 6. Upload build for Pages
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@latest
+        uses: actions/upload-pages-artifact@v3
         with:
           path: public
 
@@ -73,4 +79,5 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@latest
+        uses: actions/deploy-pages@v4
+
