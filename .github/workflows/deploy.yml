@@ -62,7 +62,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@latest
         with:
-          path: public
+          path: pages/public
 
   deploy:
     needs: build
