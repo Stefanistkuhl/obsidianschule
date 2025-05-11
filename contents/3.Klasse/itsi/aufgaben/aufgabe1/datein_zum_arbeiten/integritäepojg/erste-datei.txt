@@ -1,1 +1,0 @@
-Kryptographie verwandelt klare Nachrichten in scheinbar sinnlose Zeichenfolgen, um sie vor unbefugtem Zugriff zu schützen.

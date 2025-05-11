@@ -1,6 +1,0 @@
----
-tags:
-  - 3te_Klasse
-  - ggp
----
-[[volkswirtschaft-grundlagen]]
