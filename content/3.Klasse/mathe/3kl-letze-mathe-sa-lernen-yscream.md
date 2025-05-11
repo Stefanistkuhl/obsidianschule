@@ -204,8 +204,13 @@ Nullstellen berechnen
 ![](https://i.imgur.com/zDeh6QC.png)
 integrale zwischen den nulstellen berechnen
 ![](https://i.imgur.com/HVIYhHV.png)
+Fläche ist hier 0, aber der Betrag der Fläche wäre 1/2 FE (Flächeneinheit)
 
 #### fläche zw 2 func
 
+![](https://i.imgur.com/qpd2VTj.png)
+
+schinittpunkte:
+![](https://i.imgur.com/zKw0Yo2.png)
 
 ### bewegungsaufgaben
