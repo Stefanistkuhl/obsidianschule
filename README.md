@@ -1,3 +1,1 @@
-# hier das auf github pages
-
-https://stefanistkuhl.github.io/obsidian/
+https://stefanistkuhl.github.io/obsidianschule/
