@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {1}Task definition}{3}{section.1}%
+\contentsline {section}{\numberline {2}Summary}{3}{section.2}%
+\contentsline {section}{\numberline {3}Complete network topology of the exercise}{4}{section.3}%
+\contentsline {section}{\numberline {4}Exercise Execution}{5}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Preparation}{5}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Testing the SSH connectivity.}{5}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Changes to the Docker setup}{6}{subsubsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.3}Installing an active component}{8}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}Setting up PHP-FPM with Nginx}{9}{subsubsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.4}Securing Nginx with Basic Authentication}{10}{subsection.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.1}Creating a Password File}{10}{subsubsection.4.4.1}%
+\contentsline {subsubsection}{\numberline {4.4.2}Configuring the authentication in Nginx and testing it}{10}{subsubsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.5}Configuring HTTPS with Self-Signed Certificates}{13}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Adding a Domain}{15}{subsection.4.6}%
+\contentsline {section}{\numberline {5}References}{17}{section.5}%
+\contentsline {section}{\numberline {6}List of figures}{18}{section.6}%

@@ -1,0 +1,74 @@
+---
+tags:
+  - syt
+  - syt_info
+  - 3te_Klasse
+---
+
+> Warnung bevor sie das lesen ich habe nicht auf Rechtschreibung geachtet und habe zusätzlich nicht sonderlich viel mit Hardware am Hut also hier ist ihre Vorwarnung 
+- <mark style="background: #FFB8EBA6;">HW Komponenten</mark>
+	- CPU (Central Processing Unit)
+		- Zentrale Recheneinheit des Computers
+		- specs
+			- anz cores/threads
+			- taktgeschw
+			- chache
+			- featues wie zb virtualisierung tpm etc
+		- Verschiedene Architekturen
+			- x86
+				- meist benutze Architektur 1970 von intel entwickelt und seitdem wird immer optimiert
+				- cisc intruction set → komplex
+			- x64
+				- die 64bit Version vom x86 instruction set also x64 und x86_64 ist dasselbe
+			- arm
+				- fokus auf energieeffizenz → benutzt in handys smartwatches etc
+				- risc intruction set → simplere version vom ciscs instruction set → dafür weniger performance (noch)
+			- risc-v
+				- neue offene architektur (nicht lizensiert wie arm) ist noch in entwicklung und hat noch einen langen weg vor sich hat aber viel potential arm konkurenz zu machen benutzt auch das arm instruction set
+	- RAM (Random Access Memory)
+		- specs 
+			- kapazität
+			- taktgeschw
+			- latenz
+		- speichert daten und laufende anwendungen für die cpu
+		- temporärer Speicher → bei einem neustart geht alles darin verloren (deswegen sollte man wenn man einen Netzwerkspeicher mit Windows läuft nichts im Ram zwischen Speichert weil zb 1tb ram und ein bluescreen wäre unschön)
+		- hilft der cpu beim daten ausstausch mit anderen Komponenten
+		- Random access → daten können in jeder reihenfolge gelesen/geschrieben werden wie bei einer festplatte
+	- Mainboard
+		- physische Verbindung der Komponenten
+			- cpu sockel
+			- ram Slots
+			- pcie slots
+			- restliche i/o zb ethernet port usb ports etc
+		- nord/southbridge
+			- chips auf dem mainboard
+				- nord verbindet cpu und ram
+				- sud verbindet langsamere erweiterungs slots mit i/o geräten
+		- bios chip
+			- initialisiert das Mainbord und die komponenten wenn der pc eingeschalten wird
+	- GPU (Graphics Processing unit)
+		- mehrere berechnungen gleichzeitig da mehrere recheneinheiten → gut für große rechnungen und vorallem grafik berechnungen 
+		- eigenen ram (vram) schneller weil direkt auf das bauteil dazugelötet anstatt in einem slot also ist die distanz kleiner und so auch die geschw
+		- Funktionen
+			- grafiken rendern
+			- videos verarbeiten
+			- komplexe berechnungen (alle gennanten besispiele sind eigentlich komplexe berechungen also ist dieser punkt redundant)
+			- maschiene learning
+	- Power Supply
+		- Wechselspannung zu Gleichspannung zu machen, welche die Komponenten benötigen
+		- die passende spannung an die Komponenten liefern
+		- Komponenten von zu hoher oder weniger spannung beschützen
+	- Laufwerke
+		- hdds (Hard Disk Drives)
+			- speichern daten physisch
+			- am billisten
+			- am langsamsten max ca 500MB/s read/write
+			- sata
+			- 3.5 oder 2.5 zoll
+		- ssds (Solid State Drives)
+			- speichern daten digital (flash)
+			- 2.5 zoll sata
+		- nvme ssds (Non-Volitile Memory Express)
+			- speichern daten digital (flash)
+			- schneller als weiß ich was bis zu 11GB/s read/write
+			- m.2 slot am mainbaord

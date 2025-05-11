@@ -1,0 +1,17 @@
+---
+tags:
+  - 3te_Klasse
+  - itsi
+---
+- Absicherung von Webdiensten
+	- basis auth, https mit cert
+- Organisatzions und Sicherheits gruppen und anwendungszwecke
+- NTFS und Freigabeberechtigungen
+	- wie zsm spielen auch obvi
+- standart gruppen und principiale in windows
+- best practies für windows und linux server
+- wozu und wie auf windows und linux kennwort richtlinien
+- gängige angriff tools
+	- nmap und hydra
+- ablauf eines angriffes (cyber killchain slop)
+- wozu packet sniffing und was is es

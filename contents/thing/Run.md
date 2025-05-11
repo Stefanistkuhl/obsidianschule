@@ -1,0 +1,32 @@
+- margit
+	- torch no talis at the start + club riposte
+- godrick
+	- same as above
+- deathbird
+	- pots or fight if i am cool
+	- club with sacred blade
+- guardian golem
+	- club + riposte
+- radahn
+	- beasttorch + misery
+- goldfrey
+	- battle axe lightning slash
+- morg
+	- long + broadsword
+	- lightning slash
+- fg
+	- copy shilkey
+- gdou
+	- copy shilkey
+- mali
+	- hammer + misery
+	- cragblade or lightning slash
+- gideon
+	- pots
+- loux
+	- torch + misery or balls + endure
+- radagon
+	- balls
+	- flaming strike
+- elden beast
+	- whatever shilkey did

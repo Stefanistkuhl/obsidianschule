@@ -1,0 +1,15 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces Complete network topology of this exercise}}{4}{figure.1}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Configure the IP settings for PC A}}{6}{figure.2}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Configure the IP settings for PC B}}{6}{figure.3}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Examining the VLAN configuration of S1}}{8}{figure.4}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Examining the VLAN configuration of S2}}{8}{figure.5}%
+\contentsline {figure}{\numberline {6}{\ignorespaces The \textit {switchport mode trunk} command does not work because the encapsulation is set to "Auto".}}{8}{figure.6}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Verifying the trunk configuration of S1.}}{9}{figure.7}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Verifying the trunk configuration of S2.}}{9}{figure.8}%
+\contentsline {figure}{\numberline {9}{\ignorespaces FastEthernet 0/5 is missing from the list.}}{10}{figure.9}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Examining the configuration of the interfaces on R1.}}{11}{figure.10}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Pinging the default gateway of PC-A.}}{11}{figure.11}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Pinging PC-B from PC-A.}}{11}{figure.12}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Pinging S2 from PC-A.}}{12}{figure.13}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Using the \textit {tracert} command from PC-A to PC-B.}}{12}{figure.14}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Routing table from R1.}}{12}{figure.15}%

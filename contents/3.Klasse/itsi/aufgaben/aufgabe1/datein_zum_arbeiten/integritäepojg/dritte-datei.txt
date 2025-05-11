@@ -1,0 +1,1 @@
+Ein bekanntes kryptographisches Verfahren ist der RSA-Algorithmus, der auf der Schwierigkeit der Primfaktorzerlegung großer Zahlen basiert.

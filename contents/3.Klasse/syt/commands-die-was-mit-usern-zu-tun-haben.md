@@ -1,0 +1,15 @@
+---
+tags:
+  - 2te_Klasse
+  - syt
+  - syt_info
+---
+- sudo
+- su
+- passwd 
+- useradd
+- userdel
+- ls -l 
+- chmod
+- chown
+- chgrp

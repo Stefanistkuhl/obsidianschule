@@ -1,0 +1,12 @@
+---
+tags:
+  - m
+  - 3te_Klasse
+---
+- Bei Dezimalzahlen `.` kein `,`
+- Funktion definieren:
+	- Ansicht → CAS
+		- f(x):=ax²+bx+c
+		- f'(x)= 0 (löst für dich)
+		- x= 13x=4 (löst auch für dich)
+		- f''(4)=

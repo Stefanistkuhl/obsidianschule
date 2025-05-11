@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {1}Task definition}{3}{}%
+\contentsline {section}{\numberline {2}Summary}{3}{}%
+\contentsline {section}{\numberline {3}Complete network topology of the exercise}{4}{}%
+\contentsline {section}{\numberline {4}Exercise Execution}{5}{}%
+\contentsline {subsection}{\numberline {4.1}Set Up the Topology and Initialize Devices}{5}{}%
+\contentsline {subsection}{\numberline {4.2}Configure Devices and Verify Connectivity}{5}{}%
+\contentsline {subsubsection}{\numberline {4.2.1}Configure the PC interfaces}{5}{}%
+\contentsline {subsection}{\numberline {4.3}Configure the router}{6}{}%
+\contentsline {subsubsection}{\numberline {4.3.1}Verify network connectivity}{9}{}%
+\contentsline {subsection}{\numberline {4.4}Display Router Information}{10}{}%
+\contentsline {subsubsection}{\numberline {4.4.1}Retrieve important hardware and software information.}{10}{}%
+\contentsline {subsubsection}{\numberline {4.4.2}Display the startup configuration}{11}{}%
+\contentsline {subsubsection}{\numberline {4.4.3}Display the routing table on the router}{12}{}%
+\contentsline {subsubsection}{\numberline {4.4.4}Display a summary list of the interfaces on the router}{12}{}%
+\contentsline {subsection}{\numberline {4.5}Reflection Questions}{13}{}%
+\contentsline {section}{\numberline {5}Complete configuration files}{14}{}%
+\contentsline {section}{\numberline {6}List of figures}{15}{}%

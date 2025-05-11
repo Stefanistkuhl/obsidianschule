@@ -1,0 +1,13 @@
+---
+tags:
+  - 2te_Klasse
+  - nwt
+  - syt
+  - syt_elektro
+---
+- kapazität, Kondensator
+	- ![](DR20-03-2024-03.excalidraw.svg)
+- kapazitiver Blindwiederstnad
+	- $$Y_{c}=\frac{1}{\omega* C}\left( =\frac{U}{I} \right),[Y_{c}]=\ohm ⇐⇒B_{c}=-\frac{1}{Y_{C}}=\omega*C [B_{c}]=S$$
+	- ![](Drawing%202024-03-20%2014.47.49.excalidraw.svg)
+	- 

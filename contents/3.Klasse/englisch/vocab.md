@@ -1,0 +1,86 @@
+---
+tags:
+  - 3te_Klasse
+  - e
+  - sprache
+---
+- internship (american)
+	- work placement/work experience (britisch)
+- to guess
+	- you have no idea and just guess
+	- to estimate
+		- (sientific guess)
+- superficially
+	- just on the surface (oberflächlich)
+- merit/to pass with merit
+	- pass school with good grades (ausgezeichneter Erfolg)
+- conduct 
+	- conduct and interview/research
+- antonyms
+	- opposite
+- collocation
+	- conntected word: to make → a decision
+- counpound
+	- 2 nouns: career path
+- idioum
+	- cant be translated 
+		- exmaple: Birds of a feather fly together 
+		- Gleich und gleich gesellt sich gern
+	- metapher
+- aptitude
+	- talent (begabung)
+- to use/show/gain experience
+- to collect/give/gather/share information
+- gain/learn/develop/improve skills
+- to assess
+	- bewerten
+- emphasize
+	- to point out
+	- to show that something is important
+- viable
+	- Capable of success or continuing effectiveness; practicable: synonym: possible. 
+- congestion
+	- traffic jam
+- rural
+	- countryside 
+- urban 
+	- city
+- prosperous
+	- rich 
+- ivory
+	- material on elepahnts tusks is the white thing on elepahnts (Elfenbein in deutsch)
+- mainting
+	- keep a thing going
+- rise
+	- sun rises (on its own)
+- raise
+	- raise your arm (you have to do something)
+- forecast
+	- will future with the weater → how the weather will be
+- crops
+	- Harvest crops → fully grown plants
+- tides 
+	- high/low tides
+	- rise and fall of sea level caused by the moon
+- bottle bank
+	- container for the glass where you throw it in altglaskontainer aber besser
+- thrifty/economical
+	- saving things and beeing sparing and saving a lot
+- surplus
+	- Überschuss
+- reluctant
+	- not willing to do something and therefore slow to do it
+- Incineration
+	- spitellau
+- upcyceling
+	- making something new/creative out of wasted things
+- overheads
+	- Betriebskosten
+	- cost to keep something running
+- persuade and convice diff
+	- convince
+		- use facts and stuff
+	- persuade
+		- talking showing
+- economise
+	- look at numbers and save mony another word for saving money

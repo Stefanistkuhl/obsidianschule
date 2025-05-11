@@ -1,0 +1,29 @@
+---
+tags:
+  - nwt
+  - 3te_Klasse
+---
+- Default VLAN 
+	- Vlan 1 is the following:
+	- The defeault Vlan 
+	- the default Native Vlan 
+	- The default Managment VLAN 
+	- Cannont be deleted or renamed 
+
+- Data VLAN 
+	- Dedicateed to user-generated traffic (email and web trafic)
+	- VLAN 1 is the default datra VLAN because all interfaces are assigned to this VLAN
+- Native VLAN
+	- This is used for trunk links only. 
+	- All frames are tagged on an 802.1Q trunk link except for those on the native VLAN.
+- Managment VLAN 
+	- This is used for SSH/Telnet VTY traffic and should not be carried with end user traffic 
+	- Typically, the VLAN that is the SVI for the Layer 2 switch
+	- if you have a data and a voice vlan the ip phone will pick the voice vlan bc it can handle tagged packets if you plug a pc into the same ports it will use the native vlan bc its untagged traffic on a trunk connection [mehr info](https://www.geeksforgeeks.org/difference-between-default-vlan-and-native-vlan/)
+- Voice VLAn 
+	- A seperate VLAN is required because Voice traffic requires:
+		- Assured bandwith 
+		- High QoS (Quality of Service) priority 
+		- Ability to avoid congestion 
+		- Delay lesss that 150ms from source to destination
+		- The entire network must be designed to support voice

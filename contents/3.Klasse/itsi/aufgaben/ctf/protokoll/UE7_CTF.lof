@@ -1,0 +1,37 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces Grouplogo\relax }}{1}{figure.caption.2}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Complete network topology of the exercise\relax }}{4}{figure.caption.4}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Opening VirtualBox Network Manager settings\relax }}{5}{figure.caption.5}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Showing the IP settings for the new Host-only network\relax }}{5}{figure.caption.6}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Showing the network configuration of the virtual machines\relax }}{6}{figure.caption.7}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Results of the nmap scan\relax }}{7}{figure.caption.8}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Results of the detailed nmap scan\relax }}{7}{figure.caption.9}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Showing the contents of each page using curl}}{8}{figure.caption.10}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Decoding the \texttt {base64} message\relax }}{8}{figure.caption.11}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Running the script\relax }}{8}{figure.caption.12}%
+\contentsline {figure}{\numberline {11}{\ignorespaces ChatGPT translating the hint\relax }}{9}{figure.caption.13}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Running the Hydra command to get the credentials\relax }}{9}{figure.caption.14}%
+\contentsline {figure}{\numberline {13}{\ignorespaces First flag found\relax }}{10}{figure.caption.15}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Getting the credentials for the user GrumpyCat\relax }}{10}{figure.caption.16}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Output of the search command\relax }}{11}{figure.caption.17}%
+\contentsline {figure}{\numberline {16}{\ignorespaces File locations of the 2 found files\relax }}{11}{figure.caption.18}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Viewing the listening services\relax }}{11}{figure.caption.19}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Viewing the check\_running\_processes flag\relax }}{12}{figure.caption.20}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Inspecting the running Python processes\relax }}{12}{figure.caption.21}%
+\contentsline {figure}{\numberline {20}{\ignorespaces Viewing the flag in the server Python file\relax }}{12}{figure.caption.22}%
+\contentsline {figure}{\numberline {21}{\ignorespaces Listing the users we can log in as\relax }}{13}{figure.caption.23}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Getting the credentials for CheerfulOtter\relax }}{13}{figure.caption.24}%
+\contentsline {figure}{\numberline {23}{\ignorespaces Viewing secret\_flag.txt\relax }}{13}{figure.caption.25}%
+\contentsline {figure}{\numberline {24}{\ignorespaces Outout of the find command}}{14}{figure.caption.26}%
+\contentsline {figure}{\numberline {25}{\ignorespaces Viewing the flag in the \texttt {/tmp} directory\relax }}{14}{figure.caption.27}%
+\contentsline {figure}{\numberline {26}{\ignorespaces Viewing the home directories of CheerfulOtter\relax }}{15}{figure.caption.28}%
+\contentsline {figure}{\numberline {27}{\ignorespaces Viewing the flag in the \texttt {.history} file\relax }}{15}{figure.caption.29}%
+\contentsline {figure}{\numberline {28}{\ignorespaces Generating the payload using \texttt {msfvenom}\relax }}{18}{figure.caption.30}%
+\contentsline {figure}{\numberline {29}{\ignorespaces Uploading the payload to the target\relax }}{18}{figure.caption.31}%
+\contentsline {figure}{\numberline {30}{\ignorespaces Running the necessary commands in the msfconsole\relax }}{18}{figure.caption.32}%
+\contentsline {figure}{\numberline {31}{\ignorespaces Executing the payload on the target\relax }}{19}{figure.caption.33}%
+\contentsline {figure}{\numberline {32}{\ignorespaces The required modules not being loaded\relax }}{19}{figure.caption.34}%
+\contentsline {figure}{\numberline {33}{\ignorespaces Showing the GRUB screen to press \texttt {e} on\relax }}{19}{figure.caption.35}%
+\contentsline {figure}{\numberline {34}{\ignorespaces Editing a kernel parameter\relax }}{20}{figure.caption.36}%
+\contentsline {figure}{\numberline {35}{\ignorespaces Changing the root password\relax }}{20}{figure.caption.37}%
+\contentsline {figure}{\numberline {36}{\ignorespaces Logging in as the root user\relax }}{21}{figure.caption.38}%
+\contentsline {figure}{\numberline {37}{\ignorespaces Viewing the final flag in the \texttt {/root} directory\relax }}{21}{figure.caption.39}%
