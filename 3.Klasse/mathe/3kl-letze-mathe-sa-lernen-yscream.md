@@ -199,4 +199,9 @@ grezen einsetzen
 $$4*\ln(5)-6*\ln(6)-(4*\ln(4)-6*\ln(6))=-0.201$$
 ### flächenberechnung
 
+Der Graph der FUnktion f(x) = x^3 - 3x^2 +2x schließt mit der x-Acse eine Fläche ein. Berechne den Inhalt deiser eingeschlossenen Fläche.
+
+#### fläche zw 2 func
+
+
 ### bewegungsaufgaben
