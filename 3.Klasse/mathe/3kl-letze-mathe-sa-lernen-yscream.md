@@ -171,9 +171,32 @@ dann u mit v multiplizieren und mit dem integral von v mal u' subtrahieren
 $$u*v- \int v*u' \, dx $$
 ![](https://i.imgur.com/mkYoTx2.png)
 #### partial bruch zerlegung
+ziel einne summe aus meheren kleinen brüchen zu finden
+und am schluss das integral anwemden
+![](https://i.imgur.com/RT2YbNc.png)
 
 $$ \int_{1}^{2} \frac{-2x-2}{x^2 +7x +12}  \, dx $$
-
+nullstellen
+![](https://i.imgur.com/uvHhcGQ.png)
+$$\frac{-2x*-2}{(x+3)*(x+4)}$$
+imten im bruch ist es ist immer x - nustlle in klammer \* nächster nullstelle etc 
+wär aber zb vor der größten pozetz eine 3 oda ein dander fakor würde es auch vor der klammer stehen
+jz die actual partial bruch zerlegungng
+da wird der buch aufgeteilt
+in 2 brücher zerlgen, weil 2 nulstellen
+wir wissen nicht, was im zähler ist, weslab enf A oder B direkt hingeschreiben wird
+$$\frac{-2x-2}{(x+3)*(x+4)} =\frac{A}{x+3} + \frac{B}{x+4} |*(x+3)*(x+4)$$
+das mit dem nenne des adnerne multiplizieren
+$$-2x-2= A*(x+4)+B*(x+3)$$
+2 gleichungen machen indem nullstellen eingesetzt werden
+![](https://i.imgur.com/pOQs8Rf.png)
+$$\int_{1}^{2} \frac{4}{x+3}-\frac{6}{x+4}  \, dx $$
+dass jz ez clap ingegrieren und den faktor vor den bruch holen
+$$\int_{1}^{2} 4* \frac{1}{x+3} - 6* \frac{1}{x+4}  \, dx $$
+hier ableitung ist was im zähler bei beiden vom nenner
+$$|_{1}^{2} 4* \ln |x+3| - 6* \ln | x+4 |$$
+grezen einsetzen
+$$4*\ln(5)-6*\ln(6)-(4*\ln(4)-6*\ln(6))=-0.201$$
 ### flächenberechnung
 
 ### bewegungsaufgaben
