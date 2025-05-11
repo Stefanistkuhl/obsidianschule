@@ -34,13 +34,13 @@ jobs:
       - name: Sync content to pages/contents
         run: |
           cd pages
-          mkdir -p contents
+          mkdir -p content
           shopt -s extglob
           # copy everything from the parent except:
           #  • dot-files/dirs (.*)
           #  • the pages folder itself (“pages”)
           #  • the contents folder we just made (“contents”)
-          cp -R ../!(.*|pages|contents) contents/
+          cp -R ../!(.*|pages|content) content/
       # 4. Commit & push back to pages
       - name: Commit pages updates
         run: |
