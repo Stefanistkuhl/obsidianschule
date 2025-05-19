@@ -1,0 +1,52 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{htl-template}[HTL Donaustadt lab documentation template]
+\RequirePackage[T1]{fontenc}
+\RequirePackage{dirtytalk}
+\RequirePackage{microtype}
+\RequirePackage{minted}
+\RequirePackage{graphicx}
+\RequirePackage[hidelinks]{hyperref}
+\RequirePackage{xcolor}
+\RequirePackage{url}
+\RequirePackage{animate}
+\RequirePackage{outlines}
+\RequirePackage{fontspec}
+\usepackage{fancyhdr}
+\usepackage{geometry}
+%New line command that also fills the horizontal space%
+\newcommand{\nl}{\hfill \break}
+%Variables for subject, class name, teachers, group name/numbers and student names%
+\newcommand{\subject}{SUBJECT}
+\newcommand{\className}{CLASS}
+\newcommand{\teacher}{TEACHER 1}
+\newcommand{\teachertwo}{, TEACHER 2}
+\newcommand{\studentone}{STUDENT NAME 1}
+\newcommand{\studentwo}{STUDENT NAME 2}
+\newcommand{\groupname}{GROUPNAME}
+\newcommand{\groupnumber}{GROUP NUMBER}
+%Variables for exercise name, number and topic%
+\newcommand{\topic}{EXERCISE NAME}
+\newcommand{\exerciseNumber}{EXERCISE NUMBER}
+\geometry{
+	a4paper,
+	total={170mm,257mm},
+	left=20mm,
+	top=20mm,
+	bottom=39mm,
+}
+
+\setlength{\headheight}{82.70538pt}
+%defining the header and footer%
+\fancypagestyle{htl}{
+	\fancyhf{}
+	\fancyhead[L]{\fontsize{7.5}{7.5}htl donaustadt\\ Donaustadtstraße 45\\
+		1220 Wien\\~\\ Abteilung: Informationstechnologie\\ 
+	Schwerpunkt: Netzwerktechnik}
+	\fancyhead[R]{\includegraphics[scale=0.45]{images/logo.png}}
+
+	\fancyfoot[L]{\today}
+	\fancyfoot[C]{\jobname}
+	\fancyfoot[R]{Page: \thepage}
+}
+
+\endinput
