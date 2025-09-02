@@ -1,0 +1,1 @@
+https://github.com/Stefanistkuhl/goobering/tree/master/htl-typst-template

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d7c80564d63c608f",
+        "id": "bbe5fabc687e71af",
         "type": "tabs",
         "children": [
           {
-            "id": "b0750f980567e413",
+            "id": "90584ed6d2823e3b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "4.Klasse/nwt/routing-slop.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "routing-slop"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\"]",
+                "query": "tag:3te_Klasse",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "691f8e91b0203e9f",
@@ -145,13 +150,42 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "publish:Publish changes...": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0750f980567e413",
+  "active": "90584ed6d2823e3b",
   "lastOpenFiles": [
+    "4.Klasse/nwt/ip-v6.md",
+    "4.Klasse/nwt/routing-slop.md",
+    "3.Klasse/nwt/aufgaben/switch-conf/images/ipv6.png",
+    "4.Klasse/nwt/sloppy ah tot.md",
+    "4.Klasse/nwt/dynamic-routing.md",
+    "templates/Medientiger.md",
+    "4.Klasse/ehtik",
+    "4.Klasse/insy",
+    "4.Klasse/Untitled.md",
+    "4.Klasse/sew",
+    "4.Klasse/deutsch",
+    "4.Klasse/english",
+    "4.Klasse/mathe",
+    "templates/syt_elektro.md",
+    "4.Klasse/ggp",
+    "4.Klasse/nwt",
+    "4.Klasse/ipt",
+    "4.Klasse/itsi",
+    "templates/sew.md",
+    "templates/nwt.md",
+    "templates/Nawi.md",
+    "templates/mathe.md",
+    "templates/Itsi.md",
+    "templates/Insy.md",
+    "templates/ggp.md",
+    "templates/Englisch.md",
+    "templates/ehtik.md",
+    "templates/Deutsch.md",
+    "templates/bwl.md",
+    "latex template der nwt protokoll vorlage/latex is ass typst is besser.md",
     "3.Klasse/ggp/3kl-ggp.md",
     "3.Klasse/insy/wpa-4-way-handshake.md",
     "bilder/wpa-4-way-handshake 05-06-2025-51.excalidraw.md",
@@ -160,43 +194,14 @@
     "3.Klasse/itsi/3kl-itsi.md",
     "3.Klasse/itsi/wlan-security.md",
     "3.Klasse/itsi/evil-twink.md",
-    "3.Klasse/itsi/deatuhentication-attack.md",
-    "3.Klasse/mathe/vektoren-anwendungen-aus-der naturwissenschaft-und-technik.md",
-    "3.Klasse/mathe/bogenlänge-einer-ebenen-kurve.md",
-    "3.Klasse/mathe/3kl-mathe.md",
-    "3.Klasse/itsi/wlan-security-basics.md",
-    "bilder/evil-twink 15-05-2025-00.excalidraw.md",
     "bilder/evil-twink 15-05-2025-00.excalidraw.svg",
-    "3.Klasse/itsi/WLAN-Angriffe.md",
-    "evil-twin/rouge-acces-point.md",
-    "evil-twin",
-    "bilder/wlan-security 15-05-2025-13.excalidraw.md",
     "bilder/wlan-security 15-05-2025-13.excalidraw.svg",
-    "3.Klasse/mathe/fläche-zw-2-fkt-interpretationen.md",
-    "3.Klasse/mathe/fläche-zwischen-2-funktionen.md",
-    "3.Klasse/mathe/3kl-letze-mathe-sa-lernen-yscream.md",
     "bilder/Pasted image 20250511194319.png",
-    "3.Klasse/mathe/srdp-fläche-zw-2-funktionen.md",
-    "3.Klasse/mathe/partielle-bruch-zerlegung.md",
-    "3.Klasse/mathe/partielle-integration.md",
-    "3.Klasse/mathe/linerare-substitutions-aufgaben.md",
-    "3.Klasse/mathe/substitutionsverfahren.md",
-    "3.Klasse/mathe/integrieren.md",
     "bilder/Pasted image 20250509154638.png",
     "bilder/fläche-zw-2-fkt-interpretationen 29-04-2025-25.excalidraw.svg",
     "bilder/fläche-zw-2-fkt-interpretationen 29-04-2025-03.excalidraw.svg",
     "bilder/fläche-zwischen-2-funktionen 28-04-2025-25.excalidraw.svg",
-    "3.Klasse/Nawi/nawi-teststoff-deadge.md~",
     "bilder/Mitlesen von Nachrichten im lokalen Netz 10-04-2025-34.excalidraw.svg",
-    "bilder/Mitlesen von Nachrichten im lokalen Netz 10-04-2025-45.excalidraw.svg",
-    "2.Klasse/Netzwerktiger/Aufgaben/wireshark ding/Fürst_Frame_Analyse_Wireshark.pdf",
-    "2.Klasse/Ipt/MonetäreZiele.canvas",
-    "2.Klasse/Netzwerktiger/Aufgaben/aufgabe_kanamelol/alt/StatischesRouting.pdf",
-    "ob/2.Klasse/Medt",
-    "ob/2.Klasse",
-    "ob",
-    "Chats",
-    "3.Klasse/itsi/aufgaben/windoof/script.ps1~",
-    "quartz-sync.sh~"
+    "2.Klasse/Ipt/MonetäreZiele.canvas"
   ]
 }
