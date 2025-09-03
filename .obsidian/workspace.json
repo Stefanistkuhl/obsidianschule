@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bbe5fabc687e71af",
+        "id": "2ae505558a46347a",
         "type": "tabs",
         "children": [
           {
-            "id": "90584ed6d2823e3b",
+            "id": "5873b5439d3b80dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4.Klasse/nwt/routing-slop.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "routing-slop"
+              "title": "New tab"
             }
           }
         ]
@@ -154,10 +150,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "90584ed6d2823e3b",
+  "active": "5873b5439d3b80dd",
   "lastOpenFiles": [
-    "4.Klasse/nwt/ip-v6.md",
     "4.Klasse/nwt/routing-slop.md",
+    "4.Klasse/nwt/ip-v6.md",
+    "3.Klasse/nwt/ipv6-scopes.md",
+    "3.Klasse/nwt/ipv6-neighbour-discovery.md",
     "3.Klasse/nwt/aufgaben/switch-conf/images/ipv6.png",
     "4.Klasse/nwt/sloppy ah tot.md",
     "4.Klasse/nwt/dynamic-routing.md",
@@ -192,8 +190,6 @@
     "bilder/wpa-4-way-handshake 05-06-2025-51.excalidraw.svg",
     "3.Klasse/itsi/4-way-handshake-attack.md",
     "3.Klasse/itsi/3kl-itsi.md",
-    "3.Klasse/itsi/wlan-security.md",
-    "3.Klasse/itsi/evil-twink.md",
     "bilder/evil-twink 15-05-2025-00.excalidraw.svg",
     "bilder/wlan-security 15-05-2025-13.excalidraw.svg",
     "bilder/Pasted image 20250511194319.png",
