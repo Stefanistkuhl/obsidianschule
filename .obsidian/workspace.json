@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5873b5439d3b80dd",
+            "id": "5f0a14b519ebbfc3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "4.Klasse/nawi/schwinungen-und-wellen.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "schwinungen-und-wellen"
             }
           }
         ]
@@ -150,8 +154,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5873b5439d3b80dd",
+  "active": "5f0a14b519ebbfc3",
   "lastOpenFiles": [
+    "4.Klasse/nawi/schwinungen-und-wellen.md",
+    "4.Klasse/nawi/physik.md",
     "4.Klasse/nwt/routing-slop.md",
     "4.Klasse/nwt/ip-v6.md",
     "3.Klasse/nwt/ipv6-scopes.md",
@@ -188,8 +194,6 @@
     "3.Klasse/insy/wpa-4-way-handshake.md",
     "bilder/wpa-4-way-handshake 05-06-2025-51.excalidraw.md",
     "bilder/wpa-4-way-handshake 05-06-2025-51.excalidraw.svg",
-    "3.Klasse/itsi/4-way-handshake-attack.md",
-    "3.Klasse/itsi/3kl-itsi.md",
     "bilder/evil-twink 15-05-2025-00.excalidraw.svg",
     "bilder/wlan-security 15-05-2025-13.excalidraw.svg",
     "bilder/Pasted image 20250511194319.png",
