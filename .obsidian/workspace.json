@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2ae505558a46347a",
+        "id": "9bb8a30b8b0bf47b",
         "type": "tabs",
         "children": [
           {
-            "id": "5f0a14b519ebbfc3",
+            "id": "4adb78916dbfba0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.Klasse/nawi/schwinungen-und-wellen.md",
+                "file": "4.Klasse/nwt/dynamic-routing-protocol-operation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "schwinungen-und-wellen"
+              "title": "dynamic-routing-protocol-operation"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "691f8e91b0203e9f",
@@ -153,18 +154,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f0a14b519ebbfc3",
+  "active": "4adb78916dbfba0d",
   "lastOpenFiles": [
-    "bilder/schwinungen-und-wellen 03-09-2025-24.excalidraw.md",
+    "4.Klasse/nwt/dynamic-router-protocol.md",
+    "4.Klasse/nwt/dynamic-routing-protocol-operation.md",
+    "4.Klasse/nwt/routing-slop.md",
+    "4.Klasse/nwt/routing-protocol-metrics.md",
+    "4.Klasse/nwt/sloppy ah tot.md",
     "4.Klasse/nawi/schwinungen-und-wellen.md",
+    "bilder/schwinungen-und-wellen 03-09-2025-24.excalidraw.md",
     "bilder/schwinungen-und-wellen 03-09-2025-24.excalidraw.svg",
     "4.Klasse/nawi/physik.md",
-    "4.Klasse/nwt/routing-slop.md",
     "4.Klasse/nwt/ip-v6.md",
     "3.Klasse/nwt/ipv6-scopes.md",
     "3.Klasse/nwt/ipv6-neighbour-discovery.md",
     "3.Klasse/nwt/aufgaben/switch-conf/images/ipv6.png",
-    "4.Klasse/nwt/sloppy ah tot.md",
     "4.Klasse/nwt/dynamic-routing.md",
     "templates/Medientiger.md",
     "4.Klasse/ehtik",
@@ -190,8 +194,6 @@
     "templates/ehtik.md",
     "templates/Deutsch.md",
     "templates/bwl.md",
-    "latex template der nwt protokoll vorlage/latex is ass typst is besser.md",
-    "3.Klasse/ggp/3kl-ggp.md",
     "bilder/wpa-4-way-handshake 05-06-2025-51.excalidraw.svg",
     "bilder/evil-twink 15-05-2025-00.excalidraw.svg",
     "bilder/wlan-security 15-05-2025-13.excalidraw.svg",

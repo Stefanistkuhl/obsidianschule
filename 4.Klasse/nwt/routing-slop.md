@@ -20,4 +20,13 @@ tags:
 - Classless
 	- does not include submask info in the routing updates
 	- acutally gets used
-- 
+
+[[routing-protocol-metrics]]
+[[dynamic-router-protocol]]
+### distance vector slop
+based on less hops
+### link state slop
+based on less cost
+
+ospf spec
+https://www.rfc-editor.org/rfc/rfc2328
