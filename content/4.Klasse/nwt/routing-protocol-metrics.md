@@ -1,0 +1,11 @@
+---
+tags:
+  - nwt
+  - 4te_Klasse
+---
+- routing metics are used to determine the overall "cost" of a pth from src to dst
+- best path → route with lowest cost 
+- metrics used for dynamic protocls
+	- RIP - Hop count
+	- OSPF - Cost based on cumulative bandwidth
+	- EIGRP - Bandwith, delay, load and reliability
