@@ -1,0 +1,16 @@
+---
+tags:
+  - 4te_Klasse
+  - florian
+---
+- Modul 1
+	- Wintersemester
+		- [[bilanzierung+kennzahlen]]
+	- Modulüberprüfung 1
+		- ende Jänner/anfang feb 26
+			- ergebnisse zäùlen nicht zur nute
+- Modul 2
+	- Sommersemester
+		- [[kostenrechnung+invesitionsrechnung]]
+	- mitte juni 26
+- 1 test wirschaft pro semseter
