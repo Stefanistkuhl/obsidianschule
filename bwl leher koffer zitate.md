@@ -1,0 +1,4 @@
+- "hallo ist unfreundlich" 5.9.25
+- "der inder freut sich auf wirtschaft"
+- "wer das (wir buch) geschrieben hat gehört aufgehängt der hat noch nie einen eritssahl gesehen außer er wurde vlt angeklagt" 
+- "zu der polizei gehen nur leute die die schule abbgebrochen haben, weil sie sonst nix können"

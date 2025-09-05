@@ -72,6 +72,11 @@
       "folder": "4.Klasse/ehtik",
       "tag": "#ehtik",
       "pattern": ""
+    },
+    {
+      "folder": "4.Klasse/ka rechts fach thing fuck off",
+      "tag": "#florian",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,
