@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "105bfb913a1a17fc",
+        "id": "1288c6066bec24c1",
         "type": "tabs",
         "children": [
           {
-            "id": "381a88be29260555",
+            "id": "8df2afd8c9c4e144",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4.Klasse/nwt/ospf.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ospf"
+              "title": "New tab"
             }
           }
         ]
@@ -154,10 +150,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "381a88be29260555",
+  "active": "8df2afd8c9c4e144",
   "lastOpenFiles": [
-    "4.Klasse/nwt/dynamic-routing.md",
+    "randoom ahh/Überlebenswichtige Strichlisten.md",
     "4.Klasse/nwt/ospf.md",
+    "4.Klasse/nwt/dynamic-routing.md",
     "4.Klasse/nwt/routing-slop.md",
     "4.Klasse/ka rechts fach thing fuck off/thing was für module und so ka.md",
     "4.Klasse/ka rechts fach thing fuck off/shit ass fuckass fach.md",
@@ -193,7 +190,6 @@
     "templates/nwt.md",
     "templates/Nawi.md",
     "templates/mathe.md",
-    "templates/Itsi.md",
     "bilder/wpa-4-way-handshake 05-06-2025-51.excalidraw.svg",
     "bilder/evil-twink 15-05-2025-00.excalidraw.svg",
     "bilder/wlan-security 15-05-2025-13.excalidraw.svg",
