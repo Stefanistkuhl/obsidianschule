@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.Klasse/nwt/routing-slop.md",
+                "file": "4.Klasse/nwt/ospf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "routing-slop"
+              "title": "ospf"
             }
           }
         ]
@@ -156,6 +156,9 @@
   },
   "active": "381a88be29260555",
   "lastOpenFiles": [
+    "4.Klasse/nwt/dynamic-routing.md",
+    "4.Klasse/nwt/ospf.md",
+    "4.Klasse/nwt/routing-slop.md",
     "4.Klasse/ka rechts fach thing fuck off/thing was für module und so ka.md",
     "4.Klasse/ka rechts fach thing fuck off/shit ass fuckass fach.md",
     "bwl leher koffer zitate.md",
@@ -164,7 +167,6 @@
     "4.Klasse/nwt/dynamic-routing-protocol-operation.md",
     "4.Klasse/ipt/tote nummer.md",
     "4.Klasse/nwt/dynamic-router-protocol.md",
-    "4.Klasse/nwt/routing-slop.md",
     "4.Klasse/nwt/routing-protocol-metrics.md",
     "4.Klasse/nwt/sloppy ah tot.md",
     "4.Klasse/nawi/schwinungen-und-wellen.md",
@@ -175,7 +177,6 @@
     "3.Klasse/nwt/ipv6-scopes.md",
     "3.Klasse/nwt/ipv6-neighbour-discovery.md",
     "3.Klasse/nwt/aufgaben/switch-conf/images/ipv6.png",
-    "4.Klasse/nwt/dynamic-routing.md",
     "templates/Medientiger.md",
     "4.Klasse/ehtik",
     "4.Klasse/insy",
@@ -193,7 +194,6 @@
     "templates/Nawi.md",
     "templates/mathe.md",
     "templates/Itsi.md",
-    "templates/Insy.md",
     "bilder/wpa-4-way-handshake 05-06-2025-51.excalidraw.svg",
     "bilder/evil-twink 15-05-2025-00.excalidraw.svg",
     "bilder/wlan-security 15-05-2025-13.excalidraw.svg",
