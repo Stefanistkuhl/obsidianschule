@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1288c6066bec24c1",
+        "id": "96bb428b14ef3abb",
         "type": "tabs",
         "children": [
           {
-            "id": "8df2afd8c9c4e144",
+            "id": "14f1630f4483c3db",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,9 +49,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:3te_Klasse",
-                "matchingCase": false,
-                "explainSearch": false,
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -150,8 +150,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8df2afd8c9c4e144",
+  "active": "14f1630f4483c3db",
   "lastOpenFiles": [
+    "templates/itsi-cryptograhie.md",
     "randoom ahh/Überlebenswichtige Strichlisten.md",
     "4.Klasse/nwt/ospf.md",
     "4.Klasse/nwt/dynamic-routing.md",
@@ -189,7 +190,6 @@
     "templates/sew.md",
     "templates/nwt.md",
     "templates/Nawi.md",
-    "templates/mathe.md",
     "bilder/wpa-4-way-handshake 05-06-2025-51.excalidraw.svg",
     "bilder/evil-twink 15-05-2025-00.excalidraw.svg",
     "bilder/wlan-security 15-05-2025-13.excalidraw.svg",
