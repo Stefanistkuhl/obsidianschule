@@ -11,10 +11,14 @@
             "id": "14f1630f4483c3db",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "4.Klasse/ggp/4kl-ggp.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "4kl-ggp"
             }
           }
         ]
@@ -152,6 +156,7 @@
   },
   "active": "14f1630f4483c3db",
   "lastOpenFiles": [
+    "4.Klasse/ggp/4kl-ggp.md",
     "templates/itsi-cryptograhie.md",
     "randoom ahh/Überlebenswichtige Strichlisten.md",
     "4.Klasse/nwt/ospf.md",
@@ -189,7 +194,6 @@
     "4.Klasse/ipt",
     "templates/sew.md",
     "templates/nwt.md",
-    "templates/Nawi.md",
     "bilder/wpa-4-way-handshake 05-06-2025-51.excalidraw.svg",
     "bilder/evil-twink 15-05-2025-00.excalidraw.svg",
     "bilder/wlan-security 15-05-2025-13.excalidraw.svg",
