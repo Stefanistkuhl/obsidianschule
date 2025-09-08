@@ -3,4 +3,4 @@ tags:
   - ggp
   - 4te_Klasse
 ---
-[[4kl-geo]]
+[[geo-ab-4kl-1]]
