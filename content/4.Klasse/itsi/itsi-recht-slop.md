@@ -3,6 +3,8 @@ tags:
   - itsi
   - 4te_Klasse
 ---
+[[datenschuztzslop]]
+
 - Sorgfallsplitcht
 	- allen vorschriften/gestze befolgen
 - Rechenschaftsplitcht
@@ -17,6 +19,7 @@ tags:
 	- Die NIS-2-Richtlinie soll die Resilienz und die Reaktion auf Sicherheitsvorfälle des öffentlichen und des privaten Sektors in der EU verbessern. D
 - TOM
 	- technische und organisatorische maßnahmen
+		- hardening zb
 - cyberresilence act
 	- regeln für sofware produktie die hergesttlet und angeboten werden in ö und eu
 - § 119 StGB Verletzung des Telekommunikationsgeheimnisses
