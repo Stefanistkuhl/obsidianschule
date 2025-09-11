@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.Klasse/itsi/4kl-itsi.md",
+                "file": "4.Klasse/itsi/datenschuztzslop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4kl-itsi"
+              "title": "datenschuztzslop"
             }
           }
         ]
@@ -156,14 +156,15 @@
   },
   "active": "e2b81787792db51f",
   "lastOpenFiles": [
+    "4.Klasse/itsi/itsi-recht-slop.md",
+    "4.Klasse/itsi/datenschuztzslop.md",
+    "4.Klasse/itsi/4kl-itsi.md",
     "4.Klasse/ipt/tote nummer.md",
     "4.Klasse/4te-Klasse.md",
     "4.Klasse/mathe/thingthingidknamethinganfangmathewiderholungsthigniawfjasifjasifjsifj.md",
     "4.Klasse/nwt/routing-slop.md",
     "4.Klasse/mathe/4kl-mathe.md",
     "4.Klasse/nawi/4kl-physik.md",
-    "4.Klasse/itsi/itsi-recht-slop.md",
-    "4.Klasse/itsi/4kl-itsi.md",
     "4.Klasse/ggp/geo-ab-4kl-1.md",
     "4.Klasse/ggp/4kl-geo.md",
     "4.Klasse/ggp/4kl-ggp.md",
@@ -182,7 +183,6 @@
     "4.Klasse/nwt/dynamic-routing-protocol-operation.md",
     "4.Klasse/nwt/dynamic-router-protocol.md",
     "4.Klasse/nwt/routing-protocol-metrics.md",
-    "4.Klasse/nwt/sloppy ah tot.md",
     "bilder/schwinungen-und-wellen 03-09-2025-24.excalidraw.svg",
     "3.Klasse/nwt/aufgaben/switch-conf/images/ipv6.png",
     "4.Klasse/ehtik",
