@@ -3,7 +3,7 @@ tags:
   - itsi
   - 4te_Klasse
 ---
-[[datenschuztzslop]]
+-[[datenschuztzslop]]
 
 - Sorgfallsplitcht
 	- allen vorschriften/gestze befolgen
@@ -26,3 +26,11 @@ tags:
 	- Absatz einsWer in der Absicht, sich oder einem anderen Unbefugten vom Inhalt einer im Wege einer Telekommunikation oder eines Computersystems übermittelten und nicht für ihn bestimmten Nachricht Kenntnis zu verschaffen, eine Vorrichtung, die an der Telekommunikationsanlage oder an dem Computersystem angebracht oder sonst empfangsbereit gemacht wurde, benützt, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
 - § 119a StGB Missbräuchliches Abfangen von Daten
 	- Wer in der Absicht, sich oder einem anderen Unbefugten von im Wege eines Computersystems übermittelten und nicht für ihn bestimmten Daten Kenntnis zu verschaffen und dadurch, dass er die Daten selbst benützt, einem anderen, für den sie nicht bestimmt sind, zugänglich macht oder veröffentlicht, sich oder einem anderen einen Vermögensvorteil zuzuwenden oder einem anderen einen Nachteil zuzufügen, eine Vorrichtung, die an dem Computersystem angebracht oder sonst empfangsbereit gemacht wurde, benützt oder die elektromagnetische Abstrahlung eines Computersystems auffängt, ist, wenn die Tat nicht nach [§ 119](https://www.jusline.at/gesetz/stgb/paragraf/119) mit Strafe bedroht ist, mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
+
+
+- ISO 27001 und 2 für wie man imsi (it sec mgmt sys) einbauen sollte mit technischen und organisatoriaschen maßnamen man halten sollte
+	- gibt auch andere normen
+	- und zertifikate nach den normen und so nen shit
+		- kleinete unternehen oft nd notwndig weil die oft nd in nem bereich den das nisg dekt und man nd rechtlich gebunden ist alles zu erfüllen
+- BSI Grundschutz
+	- de slop behörde mit framework für metholigien von maßnamen (tabllen für kateroien mit maßnamen und shit)
