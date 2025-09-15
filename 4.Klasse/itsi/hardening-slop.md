@@ -1,0 +1,11 @@
+---
+tags:
+  - itsi
+  - 4te_Klasse
+---
+- als welche software was läuft
+- maßnamhen
+	- deinstalieren so viel wie möglich
+	- so wenig priviligierte konten wie möglich usen (least priviledged prinzip)
+	- starkte und mehrface authentifizierungs methoden
+	- updates
