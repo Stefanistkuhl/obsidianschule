@@ -3,5 +3,4 @@ tags:
   - ggp
   - 4te_Klasse
 ---
-[[4kl-geo]]
-[[4kl-geschichte-slop]]
+[[österreich-im-19-jh]]
