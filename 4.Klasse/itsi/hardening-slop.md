@@ -9,3 +9,4 @@ tags:
 	- so wenig priviligierte konten wie möglich usen (least priviledged prinzip)
 	- starkte und mehrface authentifizierungs methoden
 	- updates
+		- vorallem libarys dann supplychain attack

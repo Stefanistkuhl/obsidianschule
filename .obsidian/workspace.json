@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.Klasse/itsi/hardening-slop.md",
+                "file": "4.Klasse/itsi/übung1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hardening-slop"
+              "title": "übung1"
             }
           }
         ]
@@ -156,11 +156,13 @@
   },
   "active": "3c69672af7106a37",
   "lastOpenFiles": [
+    "4.Klasse/itsi/itsi-übungen-und-so.md",
+    "4.Klasse/itsi/übung1.md",
+    "4.Klasse/itsi/4kl-itsi.md",
+    "4.Klasse/itsi/hardening-slop.md",
     "4.Klasse/itsi/systemsicherheit-(hardening-slop).md",
     "4.Klasse/itsi/netwerk-sicherheitsmechanismen.md",
-    "4.Klasse/itsi/hardening-slop.md",
     "3.Klasse/itsi/angriffsvektoren.md",
-    "4.Klasse/itsi/4kl-itsi.md",
     "4.Klasse/itsi/datenschuztzslop.md",
     "3.Klasse/Ipt/dsgvo.md",
     "4.Klasse/ggp/4kl-ggp.md",
@@ -183,8 +185,6 @@
     "4.Klasse/nwt/routing-slop.md",
     "4.Klasse/mathe/4kl-mathe.md",
     "4.Klasse/nawi/4kl-physik.md",
-    "4.Klasse/ggp/geo-ab-4kl-1.md",
-    "4.Klasse/ggp/4kl-geo.md",
     "4.Klasse/ka rechts fach thing fuck off",
     "bilder/schwinungen-und-wellen 03-09-2025-24.excalidraw.svg",
     "3.Klasse/nwt/aufgaben/switch-conf/images/ipv6.png",
