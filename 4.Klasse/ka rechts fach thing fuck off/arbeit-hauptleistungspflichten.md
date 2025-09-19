@@ -1,0 +1,12 @@
+---
+tags:
+  - 4te_Klasse
+  - florian
+  - recht
+---
+- Arbeitsnehmer
+	- [[Arbeitspflicht]]
+	- [[Treueplicht]]
+- Arbeitsgeber
+	- [[entgeltplicht]]
+	- Fürsorgepflicht
