@@ -1,0 +1,11 @@
+---
+tags:
+  - 4te_Klasse
+  - florian
+  - recht
+---
+- die dürfen müssen geschützt werden
+	- leben & gesundheit
+	- privateigentum
+	- sittlicheit
+		- sanitär maßnamen, getrennte garderoben etc

@@ -5,8 +5,8 @@ tags:
   - recht
 ---
 - Arbeitsnehmer
-	- [[Arbeitspflicht]]
-	- [[Treueplicht]]
+	- [[arbeitspflicht]]
+	- [[treueplicht]]
 - Arbeitsgeber
 	- [[entgeltplicht]]
-	- Fürsorgepflicht
+	- [[fürsorgepflicht]]
