@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d864770d0fdbc4fd",
+        "id": "befb11e6fcbed98d",
         "type": "tabs",
         "children": [
           {
-            "id": "1d62b1e12d3367d5",
+            "id": "e515d82de1c16dba",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "bilder/österreich-im-19-jh 15-09-2025-24.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "österreich-im-19-jh 15-09-2025-24.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -152,8 +150,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d62b1e12d3367d5",
+  "active": "e515d82de1c16dba",
   "lastOpenFiles": [
+    "bilder/österreich-im-19-jh 15-09-2025-24.excalidraw.md",
     "4.Klasse/ggp/österreich-im-19-jh.md",
     "4.Klasse/ggp/4kl-geschichte-slop.md",
     "4.Klasse/ggp/4kl-ggp.md",
@@ -180,7 +179,6 @@
     "bilder/schwinungen-und-wellen 16-09-2025-11.excalidraw.svg",
     "4.Klasse/nawi/4kl-physik.md",
     "4.Klasse/itsi/übung1.md",
-    "4.Klasse/itsi/itsi-übungen-und-so.md",
     "bilder/Pasted Image 20250915102929_951.png",
     "bilder/österreich-im-19-jh 15-09-2025-24.excalidraw.svg",
     "bilder/verschlüsselungsverfahren 15-09-2025-55.excalidraw.svg",
