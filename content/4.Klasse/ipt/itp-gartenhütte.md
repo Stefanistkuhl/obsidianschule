@@ -1,0 +1,13 @@
+---
+tags:
+  - ipt
+  - 4te_Klasse
+---
+- basic sanitäre anforderungen
+	- klo
+	- duschen
+	- küche
+- datacenter
+	- ka mir fällt schon was ein
+- rage room
+- kannonen aschmuss raum um den nachbarn weg zu blasten
