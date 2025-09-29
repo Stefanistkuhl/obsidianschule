@@ -9,4 +9,4 @@ tags:
 	- [[treueplicht]]
 - Arbeitsgeber
 	- [[entgeltplicht]]
-	- [[fürsorgepflicht]]
+	- [[fürsorgepflicht]]-
