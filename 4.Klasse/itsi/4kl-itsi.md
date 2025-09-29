@@ -8,3 +8,4 @@ tags:
 - [[systemsicherheit-(hardening-slop)]]
 - [[netzwerk-forensik]]
 - [[itsi-übungen-und-so]]
+- [[slopy-slop-itsi-terms]]
