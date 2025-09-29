@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.Klasse/itsi/anwendungssicherheit.md",
+                "file": "4.Klasse/itsi/grundprinzipen-der-cryptographie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "anwendungssicherheit"
+              "title": "grundprinzipen-der-cryptographie"
             }
           }
         ]
@@ -156,8 +156,13 @@
   },
   "active": "e515d82de1c16dba",
   "lastOpenFiles": [
-    "4.Klasse/itsi/systemsicherheit-(hardening-slop).md",
+    "4.Klasse/itsi/cryptograhpie-slop.md",
+    "4.Klasse/itsi/grundprinzipen-der-cryptographie.md",
+    "4.Klasse/itsi/ceasre-chipre.md",
+    "4.Klasse/itsi/verschlüsselungsverfahren.md",
+    "4.Klasse/itsi/hypride-verschlüsselung.md",
     "4.Klasse/itsi/anwendungssicherheit.md",
+    "4.Klasse/itsi/systemsicherheit-(hardening-slop).md",
     "4.Klasse/itsi/4kl-itsi.md",
     "4.Klasse/itsi/slopy-slop-itsi-terms.md",
     "4.Klasse/ka rechts fach thing fuck off/arbeit-hauptleistungspflichten.md",
@@ -175,13 +180,8 @@
     "4.Klasse/ggp/4kl-geschichte-slop.md",
     "4.Klasse/ggp/4kl-ggp.md",
     "4.Klasse/itsi/symetrische-vs-asymetrische-verfahren.md",
-    "4.Klasse/itsi/verschlüsselungsverfahren.md",
-    "4.Klasse/itsi/cryptograhpie-slop.md",
     "4.Klasse/itsi/dumme-kak-pfiefken-aijsfijaisf-itsi-unterricht.md",
     "4.Klasse/ka rechts fach thing fuck off/treueplicht.md",
-    "4.Klasse/ka rechts fach thing fuck off/fürsorgepflicht.md",
-    "4.Klasse/ka rechts fach thing fuck off/konkurenz-klausel.md",
-    "4.Klasse/ka rechts fach thing fuck off/recht-slop.md",
     "bilder/schwinungen-und-wellen 16-09-2025-11.excalidraw.svg",
     "bilder/Pasted Image 20250915102929_951.png",
     "bilder/österreich-im-19-jh 15-09-2025-24.excalidraw.svg",
