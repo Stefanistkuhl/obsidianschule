@@ -1,0 +1,14 @@
+---
+tags:
+  - 4te_Klasse
+  - itsi
+  - crytography
+---
+- konfusion
+	- zwischen den klartext, schlüssel und chipertext sollte keine (statischtische) abhängigkeit erknnabr sein
+	- gegen bsl cäsir chiper (häufigkeitsverteilung)
+	- erfodert nicht linerare operationen
+	- AES: SubBytes (1. Schritt. subustitionstabellte)
+- diffusion
+	- jeder bit des cleartext beinfluss möglichst viele des chipertexsts (lawineneffekt)
+		- dh kleine änderungen → große wirkungen

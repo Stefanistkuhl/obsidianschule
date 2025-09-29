@@ -11,3 +11,7 @@ menge aller cipher texte c e C
 D menge alles entschlüsselungsmethoden 
 
 [[symetrische-vs-asymetrische-verfahren]]
+
+[[hypride-verschlüsselung]]
+
+[[ceasre-chipre]]

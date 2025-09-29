@@ -16,3 +16,4 @@ begriffliche abgrezung
 kryptoanalyse: entwickelt methoden, um krytopgraphische verfahren zu testen oder zu brechen
 
 [[verschlüsselungsverfahren]]
+[[grundprinzipen-der-cryptographie]]
