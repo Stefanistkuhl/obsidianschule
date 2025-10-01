@@ -11,3 +11,6 @@ tags:
 	- ka mir fällt schon was ein
 - rage room
 - kannonen aschmuss raum um den nachbarn weg zu blasten
+- raketenabwehrsystem
+- ubhan zum nachbarn
+- workshop mit 3d drucker und anderen werkzeugen
