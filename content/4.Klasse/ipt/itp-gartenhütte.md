@@ -9,6 +9,9 @@ tags:
 	- küche
 - datacenter
 	- ka mir fällt schon was ein
+- soloar panels
+	- baterrie
+- stromgeneratoren mit benzien oder diesel als backup
 - rage room
 - kannonen aschmuss raum um den nachbarn weg zu blasten
 - raketenabwehrsystem
