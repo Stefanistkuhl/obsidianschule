@@ -1,0 +1,31 @@
+---
+tags:
+  - 4te_Klasse
+  - florian
+  - recht
+---
+- 2 arten von AN
+	- Arbeiter
+	- Angestellte
+- sind mesintesn gelich gestellt
+	- bis auf
+		- angestellte besser dargestellt
+- arbeiter sind arbeitnehmer, die nicht angestellt sind
+- angestellte sind arbeitnehmer, 
+	- die zur leistung kaufmänischer arbeiten 
+	- oder zur leistung höherer nicht kaufmännischer arbeiten 
+	- oder zur leistung von kanlzleiarbeiten beschäftigt sind
+- wie kann man unterscheiden
+	- angestellete eher die geistig als physisch anstrengen
+		- passt meistens aba an dem kann man nicht gut prüfen
+	- wie man es prüft:
+		- kaufmänische arbeiten
+			- steht nd im gesetzt was es genau is
+			- einkauf, verkauf
+			- führung disgezügliche koresponsenz
+			- beratung von kunden
+			- webung
+			- buchhaltung
+			- kassaführung
+			- verwaltung
+- die unterschreidung is vorgesehen zu fallen, aba noch nicht durchgesetzt
