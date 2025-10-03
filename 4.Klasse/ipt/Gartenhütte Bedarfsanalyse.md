@@ -1,3 +1,8 @@
+---
+tags:
+  - ipt
+  - 4te_Klasse
+---
 Zielbild
 - Eine kleine Gartenhütte.
 
