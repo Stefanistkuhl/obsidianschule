@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "493e679bd0e4bc2a",
+        "id": "224769e5f30a8460",
         "type": "tabs",
         "children": [
           {
-            "id": "cbde61b8d08c026e",
+            "id": "da78c29372837ed4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "4.Klasse/ka rechts fach thing fuck off/der-arbeitnehmer-begriff.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-file",
+              "title": "der-arbeitnehmer-begriff"
             }
           }
         ]
@@ -152,8 +154,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cbde61b8d08c026e",
+  "active": "da78c29372837ed4",
   "lastOpenFiles": [
+    "4.Klasse/ka rechts fach thing fuck off/arbeitsrecht.md",
+    "4.Klasse/ka rechts fach thing fuck off/der-arbeitnehmer-begriff.md",
+    "4.Klasse/ka rechts fach thing fuck off/probedienstverhältnis.md",
+    "4.Klasse/ka rechts fach thing fuck off/dienstverhältnisse.md",
+    "4.Klasse/ka rechts fach thing fuck off/entgeltplicht.md",
+    "4.Klasse/ka rechts fach thing fuck off/entgeltvorzahlung.md",
+    "4.Klasse/ka rechts fach thing fuck off/arbeit-hauptleistungspflichten.md",
     "4.Klasse/ipt/itp-gartenhütte.md",
     "4.Klasse/ipt/Gartenhütte Auswertung.md",
     "4.Klasse/ipt/Gartenhütte Bedarfsanalyse.md",
@@ -173,13 +182,6 @@
     "4.Klasse/itsi/hypride-verschlüsselung.md",
     "4.Klasse/itsi/anwendungssicherheit.md",
     "4.Klasse/itsi/systemsicherheit-(hardening-slop).md",
-    "4.Klasse/itsi/4kl-itsi.md",
-    "4.Klasse/itsi/slopy-slop-itsi-terms.md",
-    "4.Klasse/ka rechts fach thing fuck off/arbeit-hauptleistungspflichten.md",
-    "4.Klasse/ka rechts fach thing fuck off/entgeltvorzahlung.md",
-    "4.Klasse/ka rechts fach thing fuck off/arbeitsrecht.md",
-    "4.Klasse/ka rechts fach thing fuck off/arbeitspflicht.md",
-    "4.Klasse/ka rechts fach thing fuck off/plegefreistellung.md",
     "bilder/schwinungen-und-wellen 16-09-2025-11.excalidraw.svg",
     "bilder/Pasted Image 20250915102929_951.png",
     "bilder/österreich-im-19-jh 15-09-2025-24.excalidraw.svg",
