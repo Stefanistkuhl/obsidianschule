@@ -19,13 +19,19 @@ tags:
 	- angestellete eher die geistig als physisch anstrengen
 		- passt meistens aba an dem kann man nicht gut prüfen
 	- wie man es prüft:
+		- steht nd im gesetzt was es genau is
 		- kaufmänische arbeiten
-			- steht nd im gesetzt was es genau is
-			- einkauf, verkauf
-			- führung disgezügliche koresponsenz
-			- beratung von kunden
-			- webung
-			- buchhaltung
-			- kassaführung
-			- verwaltung
+		- höhere nicht kaufmännische arbeit
+			- mindestmaß and notwenidiger ausbildung
+			- selbstständige denkfähigkeit
+			- vertrautheit mit der tätigkeit
+		- einkauf, verkauf
+		- führung disgezügliche koresponsenz
+			- fürhung von schriftvehrkehr
+			- zb schreiben von rechnungen/bestellungen
+		- beratung von kunden
+		- webung
+		- buchhaltung
+		- kassaführung
+		- verwaltung
 - die unterschreidung is vorgesehen zu fallen, aba noch nicht durchgesetzt
