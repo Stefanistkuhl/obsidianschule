@@ -19,7 +19,7 @@ tags:
 	- angestellete eher die geistig als physisch anstrengen
 		- passt meistens aba an dem kann man nicht gut prüfen
 	- wie man es prüft:
-		- steht nd im gesetzt was es genau is
+		- -steht nd im gesetzt was es genau is
 		- kaufmänische arbeiten
 		- höhere nicht kaufmännische arbeit
 			- mindestmaß and notwenidiger ausbildung
