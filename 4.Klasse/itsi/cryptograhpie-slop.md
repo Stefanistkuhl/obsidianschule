@@ -17,3 +17,4 @@ kryptoanalyse: entwickelt methoden, um krytopgraphische verfahren zu testen oder
 
 [[verschlüsselungsverfahren]]
 [[grundprinzipen-der-cryptographie]]
+[[angriffsarten]]
