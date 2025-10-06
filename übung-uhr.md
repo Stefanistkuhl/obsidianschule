@@ -1,4 +1,4 @@
-![](%C3%BCbung-uhr%2003-10-2025-39.excalidraw.svg)
+P![](%C3%BCbung-uhr%2003-10-2025-39.excalidraw.svg)
 Klasse Graphics
 
 `class MeineUhr extends JFrame`
