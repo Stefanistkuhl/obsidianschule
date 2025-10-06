@@ -1,6 +1,8 @@
 P![](%C3%BCbung-uhr%2003-10-2025-39.excalidraw.svg)
 Klasse Graphics
 
+ydread
+
 `class MeineUhr extends JFrame`
 
 ```java
