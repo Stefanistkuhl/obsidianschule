@@ -52,5 +52,11 @@ $$x*y^2*dx+dy =0$$
 $$x*dx= - \frac{dy}{y^2}$$
 $$\int x \, dx= 0 \int \frac{1}{y^2} \, dx  $$
 $$\frac{x^2}{x}=\frac{1}{y}+C | 2*y$$
-$$x^2y=2+ C_{2} | : x^2$$
-$$y= \frac{2+C_{2}}{x^2}$$
+$$\frac{x^2 + C}{2}=\frac{1}{y}$$
+$$(x^2+C)*y = 2 | *()$$
+$$y= \frac{2}{x^2+C}$$
+$$y(1)=1$$
+$$1= \frac{2}{1+C}⇒ C=1 ⇒ y = \frac{2}{x^2+1}$$
+Aufgabenpool slop
+Bakterien kultur B\_049
+[Bakterienkultur.pdf](https://aufgabenpool.at/amn/teilb1/305/Bakterienkultur.pdf)
