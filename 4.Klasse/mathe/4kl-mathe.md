@@ -5,3 +5,4 @@ tags:
 ---
 [[thingthingidknamethinganfangmathewiderholungsthigniawfjasifjasifjsifj]]
 [[differenzialgleichungen]]
+[[differenzialgleichungen-1.ordnung-methode-trennung-der-variablen]]
