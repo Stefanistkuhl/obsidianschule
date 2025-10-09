@@ -1,3 +1,8 @@
+---
+tags:
+  - sew
+  - 4te_Klasse
+---
 P![](%C3%BCbung-uhr%2003-10-2025-39.excalidraw.svg)
 Klasse Graphics
 

@@ -11,14 +11,12 @@
             "id": "42d0ebc055c12037",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "4.Klasse/ipt/4kl-ipt.md",
-                "mode": "source",
-                "source": false
+                "file": "bilder/übung-uhr 03-10-2025-39.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "4kl-ipt"
+              "icon": "excalidraw-icon",
+              "title": "übung-uhr 03-10-2025-39.excalidraw"
             }
           }
         ]
@@ -78,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "691f8e91b0203e9f",
@@ -155,6 +154,8 @@
   },
   "active": "42d0ebc055c12037",
   "lastOpenFiles": [
+    "4.Klasse/sew/übung-uhr.md",
+    "4.Klasse/ipt/4kl-ipt.md",
     "4.Klasse/mathe/differenzialgleichungen-1.ordnung-methode-trennung-der-variablen.md",
     "4.Klasse/mathe/4kl-mathe.md",
     "4.Klasse/mathe/differenzialgleichungen.md",
@@ -166,7 +167,6 @@
     "4.Klasse/itsi/chipertext-only-angriff.md",
     "4.Klasse/itsi/angriffsarten.md",
     "4.Klasse/itsi/cryptograhpie-slop.md",
-    "übung-uhr.md",
     "bilder/übung-uhr 03-10-2025-39.excalidraw.md",
     "bilder/übung-uhr 03-10-2025-39.excalidraw.svg",
     "4.Klasse/sew/threads.md",
@@ -181,7 +181,6 @@
     "4.Klasse/ka rechts fach thing fuck off/dienstverhältnisse.md",
     "4.Klasse/ka rechts fach thing fuck off/entgeltplicht.md",
     "4.Klasse/ka rechts fach thing fuck off/entgeltvorzahlung.md",
-    "4.Klasse/ka rechts fach thing fuck off/arbeit-hauptleistungspflichten.md",
     "bilder/schwinungen-und-wellen 16-09-2025-11.excalidraw.svg",
     "bilder/Pasted Image 20250915102929_951.png",
     "bilder/österreich-im-19-jh 15-09-2025-24.excalidraw.svg",
