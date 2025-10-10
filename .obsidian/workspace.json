@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "25c4770156fd2782",
+        "id": "9b761af760bf85d9",
         "type": "tabs",
         "children": [
           {
-            "id": "42d0ebc055c12037",
+            "id": "b38c54950b77fd09",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "bilder/übung-uhr 03-10-2025-39.excalidraw.md"
+                "file": "4.Klasse/ka rechts fach thing fuck off/bezahlter-urlaub.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "übung-uhr 03-10-2025-39.excalidraw"
+              "icon": "lucide-file",
+              "title": "bezahlter-urlaub"
             }
           }
         ]
@@ -152,8 +154,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42d0ebc055c12037",
+  "active": "b38c54950b77fd09",
   "lastOpenFiles": [
+    "4.Klasse/ka rechts fach thing fuck off/urlaub.md",
+    "4.Klasse/ka rechts fach thing fuck off/bezahlter-urlaub.md",
+    "4.Klasse/ka rechts fach thing fuck off/arbeitsrecht.md",
+    "bilder/übung-uhr 03-10-2025-39.excalidraw.md",
     "4.Klasse/sew/übung-uhr.md",
     "4.Klasse/ipt/4kl-ipt.md",
     "4.Klasse/mathe/differenzialgleichungen-1.ordnung-methode-trennung-der-variablen.md",
@@ -167,7 +173,6 @@
     "4.Klasse/itsi/chipertext-only-angriff.md",
     "4.Klasse/itsi/angriffsarten.md",
     "4.Klasse/itsi/cryptograhpie-slop.md",
-    "bilder/übung-uhr 03-10-2025-39.excalidraw.md",
     "bilder/übung-uhr 03-10-2025-39.excalidraw.svg",
     "4.Klasse/sew/threads.md",
     "4.Klasse/sew/4kl-sew.md",
@@ -176,11 +181,8 @@
     "4.Klasse/nwt/sloppy ah tot.md",
     "4.Klasse/ipt/tote nummer.md",
     "4.Klasse/ka rechts fach thing fuck off/der-arbeitnehmer-begriff.md",
-    "4.Klasse/ka rechts fach thing fuck off/arbeitsrecht.md",
     "4.Klasse/ka rechts fach thing fuck off/probedienstverhältnis.md",
     "4.Klasse/ka rechts fach thing fuck off/dienstverhältnisse.md",
-    "4.Klasse/ka rechts fach thing fuck off/entgeltplicht.md",
-    "4.Klasse/ka rechts fach thing fuck off/entgeltvorzahlung.md",
     "bilder/schwinungen-und-wellen 16-09-2025-11.excalidraw.svg",
     "bilder/Pasted Image 20250915102929_951.png",
     "bilder/österreich-im-19-jh 15-09-2025-24.excalidraw.svg",
