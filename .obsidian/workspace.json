@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "86f4e51e3ef5fb6d",
+        "id": "493ba34bf43164d5",
         "type": "tabs",
         "children": [
           {
-            "id": "41ea14a28c26cea0",
+            "id": "1ce7fbe550b2c58c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.Klasse/ipt/Gartenhütte Bedarfsanalyse.md",
+                "file": "4.Klasse/ipt/Gartenhütte Auswertung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gartenhütte Bedarfsanalyse"
+              "title": "Gartenhütte Auswertung"
             }
           }
         ]
@@ -154,8 +154,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "41ea14a28c26cea0",
+  "active": "1ce7fbe550b2c58c",
   "lastOpenFiles": [
+    "4.Klasse/itsi/anwendungssicherheit.md",
+    "4.Klasse/sew/threads.md",
+    "3.Klasse/itsi/wlan-security.md",
+    "4.Klasse/nwt/wlan.md",
+    "4.Klasse/itsi/4kl-itsi.md",
+    "4.Klasse/itsi/systemsicherheit-(hardening-slop).md",
+    "4.Klasse/itsi/netwerk-sicherheitsmechanismen.md",
+    "4.Klasse/itsi/hardening-slop.md",
+    "3.Klasse/itsi/angriffsvektoren.md",
+    "4.Klasse/nwt/acls-thing-erm.md",
+    "4.Klasse/nwt/4kl-nwt.md",
+    "4.Klasse/nwt/routing-slop.md",
+    "4.Klasse/nwt/sloppy ah tot.md",
+    "4.Klasse/nwt/ospf.md",
+    "4.Klasse/ipt/Gartenhütte Bedarfsanalyse.md",
     "4.Klasse/deutsch/3kl-deutsch.md",
     "4.Klasse/nawi/srdp-swingengen-übung.md",
     "4.Klasse/nawi/schwingungen.md",
@@ -168,21 +183,6 @@
     "4.Klasse/bilder/diffie helman 13-10-2025-36.excalidraw.md",
     "4.Klasse/itsi/diffie helman.md",
     "4.Klasse/bilder/diffie helman 13-10-2025-36.excalidraw.svg",
-    "4.Klasse/itsi/cryptograhpie-slop.md",
-    "4.Klasse/nwt/acls-thing-erm.md",
-    "4.Klasse/nwt/4kl-nwt.md",
-    "4.Klasse/ka rechts fach thing fuck off/bezahlter-urlaub.md",
-    "4.Klasse/ka rechts fach thing fuck off/urlaub.md",
-    "4.Klasse/ka rechts fach thing fuck off/arbeitsrecht.md",
-    "4.Klasse/bilder/übung-uhr 03-10-2025-39.excalidraw.md",
-    "4.Klasse/sew/übung-uhr.md",
-    "4.Klasse/ipt/4kl-ipt.md",
-    "4.Klasse/mathe/differenzialgleichungen-1.ordnung-methode-trennung-der-variablen.md",
-    "4.Klasse/mathe/4kl-mathe.md",
-    "4.Klasse/mathe/differenzialgleichungen.md",
-    "4.Klasse/mathe/stefan-fürst-4kl-mhü-1.md",
-    "4.Klasse/ggp/pulverfass-balkan.md",
-    "4.Klasse/itsi/chipertext-only-angriff.md",
     "4.Klasse/bilder/übung-uhr 03-10-2025-39.excalidraw.svg",
     "4.Klasse/bilder/schwinungen-und-wellen 16-09-2025-11.excalidraw.svg",
     "4.Klasse/bilder/Pasted Image 20250915102929_951.png",
