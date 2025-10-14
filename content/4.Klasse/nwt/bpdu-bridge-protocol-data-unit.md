@@ -1,0 +1,14 @@
+---
+tags:
+  - nwt
+  - 3te_Klasse
+---
+- B-ID: Root
+- B-ID: Eigene
+- Kosten zur Root-Bridge
+	- Kosten hängen von der gschw ab
+	- zb 10gig = 2, 1gig = 4
+	- wurde 2004 erwirternt und neue weichte wurden gesetzt
+	- 10 gig dann 2000
+- Timer-info
+- TC-Flag ... Topology Changed

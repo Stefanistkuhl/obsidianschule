@@ -1,0 +1,14 @@
+---
+tags:
+  - nwt
+  - 3te_Klasse
+---
+- RS ... Router Solicidation (solicidation → aufforderung) (ff02::2)
+- RA ... Router Advertising
+	- Präfix + Länge ("ln")
+	- Def GW
+	- "Options"
+	- Flags:
+		- A ... autonomous
+		- O ... other  SLAAC + DHCPv6
+		- M ... Managed DHCPv6
