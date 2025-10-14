@@ -49,4 +49,3 @@ tags:
 - Vergleich
 	- Du hast ein Gehirn wie ein Goldfisch.
 	- Schön wie ein Diamant.
-
