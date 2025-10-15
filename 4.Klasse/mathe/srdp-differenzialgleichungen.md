@@ -30,7 +30,16 @@ c)
 nd lösbar weil wahrscheinlichkeit
 d)
 $$\frac{dw}{dt}= -k *w +D | *dt$$
-$$dw = (-k *w +D)*dt$$
-
+variablen trennung
+$$dw = (-k *w +D)*dt |: ()$$
+$$\frac{dw}{-k *w +D}= dt$$
+integrieren
+$$\int \frac{dw}{-k *w +D}\,  = \int dt \,   $$
+$$\int \frac{1}{-k *w +D}*dw\,  = \int dt \,   $$
+substituation
+$$u= -k*w+D$$
+$$\frac{du}{dw}= -k$$
+$$dw = \frac{du}{-k}$$
+$$$$
 [Leistungsdiagnostik im Sport.pdf](https://aufgabenpool.at/amn/teilb1/550/Leistungsdiagnostik%20im%20Sport.pdf)
 d)
