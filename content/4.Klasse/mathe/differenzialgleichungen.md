@@ -33,3 +33,4 @@ $$4=\frac{2^2}{2}+C$$
 $$y=\frac{x^2}{2}+2$$
 $$C=2$$
 [[differenzialgleichungen-bsp]]
+[[srdp-differenzialgleichungen]]
