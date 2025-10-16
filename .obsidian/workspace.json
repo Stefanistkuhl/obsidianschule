@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "58ec3d8b277a6d3a",
+        "id": "9105f98419860ade",
         "type": "tabs",
         "children": [
           {
-            "id": "a380353231e2801d",
+            "id": "70e8e751f82ebab7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.Klasse/mathe/srdp-differenzialgleichungen.md",
+                "file": "4.Klasse/insy/referentielle-intigrität.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "srdp-differenzialgleichungen"
+              "title": "referentielle-intigrität"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "691f8e91b0203e9f",
@@ -153,10 +154,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a380353231e2801d",
+  "active": "70e8e751f82ebab7",
   "lastOpenFiles": [
-    "Untitled.md",
+    "4.Klasse/insy/4kl-insy.md",
+    "4.Klasse/insy/referentielle-intigrität.md",
     "4.Klasse/mathe/srdp-differenzialgleichungen.md",
+    "Untitled.md",
     "4.Klasse/mathe/rotationsvolumen.md",
     "bilder/rotationsvolumen 15-10-2025-24.excalidraw.md",
     "bilder/rotationsvolumen 15-10-2025-24.excalidraw.svg",
@@ -181,8 +184,6 @@
     "4.Klasse/nwt/vlan-port-assigment-commands.md",
     "4.Klasse/nwt/vlan-hopping-attack.md",
     "4.Klasse/nwt/vlan-definition.md",
-    "4.Klasse/nwt/vlan-creation-commands.md",
-    "4.Klasse/nwt/vlan commands.md",
     "4.Klasse/bilder/übung-uhr 03-10-2025-39.excalidraw.svg",
     "4.Klasse/bilder/österreich-im-19-jh 15-09-2025-24.excalidraw.svg",
     "4.Klasse/bilder/Übung 9 windoof server test thing 20-03-2025-38.excalidraw.svg",
