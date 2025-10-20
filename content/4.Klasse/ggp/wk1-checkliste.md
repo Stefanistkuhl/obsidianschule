@@ -18,6 +18,8 @@ tags:
 	1. wichtigste schalcht des 1 wk oder so
 	2. man schafft es nicht nach paris über neutrales beligien
 		1. was nicht mehr neutral is wel es von gb geschützt wird die dann eingesteigen
+	3. 1 deuthscer für 5 fraonzosen rechnung am afnag
+	4. ziel war nd verdun einzunehmen sonern franz arme ausblutetn lassen
 8. …die Bündnissysteme nennen, die einander im EWK gegenüberstanden und auch deren wichtigste Mitglieder aufzählen.
 	1. die mittemächte
 	2. die alliierten
