@@ -6,6 +6,6 @@ tags:
 - [[itsi-recht-slop]]
 - [[dumme-kak-pfiefken-aijsfijaisf-itsi-unterricht]]
 - [[systemsicherheit-(hardening-slop)]]
-- [[netzwerk-forensik]]
+- [[digitale-forensik]]
 - [[itsi-übungen-und-so]]
 - [[slopy-slop-itsi-terms]]
