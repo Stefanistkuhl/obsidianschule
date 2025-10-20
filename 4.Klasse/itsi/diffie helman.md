@@ -11,3 +11,5 @@ tags:
 
 too lazy to take ntoes watch yt and shit to fill this out in a better way :uuh:
 ![](diffie%20helman%2013-10-2025-36.excalidraw.svg)
+
+![](diffie%20helman%2020-10-2025-29.excalidraw.svg)

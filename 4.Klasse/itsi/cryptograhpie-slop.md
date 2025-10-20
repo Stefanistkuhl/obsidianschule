@@ -19,3 +19,4 @@ kryptoanalyse: entwickelt methoden, um krytopgraphische verfahren zu testen oder
 [[grundprinzipen-der-cryptographie]]
 [[angriffsarten]]
 [[diffie helman]]
+[[elband-verschlüssleung]]
