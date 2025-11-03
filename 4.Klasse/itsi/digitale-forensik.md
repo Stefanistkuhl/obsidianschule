@@ -27,3 +27,5 @@ fym zivk gibt ne hü
 mitre attackmatrix anschauen
 technices die im nw verkehrsichabr sind aufzählen ka wv tho :um:
 das jz nd so viel aba werde safe nd machen x3
+
+[[netzwerk-forensik]]

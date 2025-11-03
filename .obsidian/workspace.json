@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7b8db69bafe1d3e3",
+        "id": "a37e25bcc37c4eeb",
         "type": "tabs",
         "children": [
           {
-            "id": "650118ea36e672c4",
+            "id": "efc16ebfa76240cd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "4.Klasse/ggp/4kl-ggp.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "4kl-ggp"
             }
           }
         ]
@@ -150,8 +154,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "650118ea36e672c4",
+  "active": "efc16ebfa76240cd",
   "lastOpenFiles": [
+    "bilder/netzwerk-forensik 03-11-2025-10.excalidraw.md",
+    "4.Klasse/itsi/netzwerk-forensik.md",
+    "bilder/netzwerk-forensik 03-11-2025-10.excalidraw.svg",
+    "4.Klasse/itsi/digitale-forensik.md",
+    "4.Klasse/itsi/4kl-itsi.md",
     "itsi-hü.md",
     "4.Klasse/mathe/differenzialgleichungen-bsp.md",
     "4.Klasse/mathe/differenzialgleichungen.md",
@@ -164,8 +173,6 @@
     "4.Klasse/itsi/diffie helman.md",
     "bilder/diffie helman 20-10-2025-29.excalidraw.md",
     "bilder/diffie helman 20-10-2025-29.excalidraw.svg",
-    "4.Klasse/itsi/digitale-forensik.md",
-    "4.Klasse/itsi/4kl-itsi.md",
     "4.Klasse/nwt/4kl-nwt.md",
     "4.Klasse/ka rechts fach thing fuck off/bezahlter-urlaub.md",
     "4.Klasse/ka rechts fach thing fuck off/urlaub.md",
@@ -178,9 +185,6 @@
     "bilder/rotationsvolumen 15-10-2025-24.excalidraw.md",
     "bilder/rotationsvolumen 15-10-2025-24.excalidraw.svg",
     "bilder",
-    "4.Klasse/nawi/srdp-swingengen-übung.md",
-    "4.Klasse/sew/🤔Tigerentwicklung.md",
-    "4.Klasse/sew/uml.md",
     "4.Klasse/bilder/übung-uhr 03-10-2025-39.excalidraw.svg",
     "4.Klasse/bilder/österreich-im-19-jh 15-09-2025-24.excalidraw.svg",
     "4.Klasse/bilder/Übung 9 windoof server test thing 20-03-2025-38.excalidraw.svg",
@@ -188,7 +192,6 @@
     "4.Klasse/bilder/wpa-4-way-handshake 05-06-2025-51.excalidraw.svg",
     "4.Klasse/bilder/wlan-security 15-05-2025-13.excalidraw.svg",
     "4.Klasse/bilder/vlans 27-09-2024-53.excalidraw.svg",
-    "4.Klasse/bilder/vlans 27-09-2024-53.excalidraw.light.svg",
     "4.Klasse/bilder/abgabe",
     "4.Klasse/bilder/Pflichtenheft bsp.pdf",
     "4.Klasse/bilder",
