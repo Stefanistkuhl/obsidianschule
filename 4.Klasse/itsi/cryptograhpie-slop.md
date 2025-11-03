@@ -4,6 +4,8 @@ tags:
   - 4te_Klasse
   - crytography
 ---
+ICH KANN IHRE VERDAMMTE SCHRIFT NICHT LESEN
+
 wörtlich "geheimschrift"
 
 ursprünglich: Wissenschaft der Verschlüsselnug von Jahrtausend
@@ -20,3 +22,4 @@ kryptoanalyse: entwickelt methoden, um krytopgraphische verfahren zu testen oder
 [[angriffsarten]]
 [[diffie helman]]
 [[elband-verschlüssleung]]
+[[rsa]]
