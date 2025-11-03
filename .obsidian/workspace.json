@@ -11,14 +11,10 @@
             "id": "650118ea36e672c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "itsi-hü.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "itsi-hü"
+              "title": "New tab"
             }
           }
         ]
