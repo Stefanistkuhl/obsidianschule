@@ -3,6 +3,7 @@ tags:
   - m
   - 4te_Klasse
 ---
+[[differenzialgleichungen-smü-verbesserung]]
 > Gleichungen, in denen die Ableitungen einer Funktion vorkommen
 
 Bsp:
