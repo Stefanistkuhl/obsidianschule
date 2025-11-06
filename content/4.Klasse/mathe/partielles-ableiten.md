@@ -49,7 +49,22 @@ $$z_{y}= -\frac{1}{y^2}$$
 1.9)
 c)
 $$z=x* \sin y$$
-$$$$
+$$z_{x}= \sin y$$
+$$z_{y}= x*\cos y=\cos(y)*x$$
 1.10)
 c)
 $$f(x,y)=(x*y)^2$$
+$$fx= 2*(x*y);y=2xy^2$$
+$$fy=2(x*y)*x;x=2x^2y$$
+$$fxy=2x*2y=4xy$$
+$$fyx=2*2xy=4xy$$
+$$fxx=2y^2$$
+$$fyy=2x^2$$
+1.10)
+e)
+$$f(x,y)= \frac{x^2}{y}$$
+$$fx= \frac{2x}{y}$$
+$$fy= - \frac{x^2}{y^2}=$$
+
+g)
+$$f(x,y)=x \sin(2y)$$
