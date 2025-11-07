@@ -8,3 +8,4 @@
 	- "warum sollte er auf dich losgehen außer er ist ein pakistani"
 - "bei uns in serbien ist das alles anders"
 - "ungaren die heißen so (random gelaber)"
+- "lebendige leichen gibt es auch nicht"
