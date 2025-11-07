@@ -1,0 +1,14 @@
+---
+tags:
+  - 4te_Klasse
+  - florian
+  - recht
+---
+- Auslaufen des befristeteten Arbeitsvertrages
+- Auflösung des Probedienstverhältnisses
+---
+- Tod des Arbeitnehmers
+- [[kündigung]]
+- Entlassung
+- vorzeitiger Austritt
+- einvernehmliche Auflösun
