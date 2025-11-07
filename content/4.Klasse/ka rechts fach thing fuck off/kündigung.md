@@ -38,4 +38,23 @@ kündigung braucht termin und frist
 - arb → AG
 	- same wie wenn er gekündig wird das gleiche gilt immer
 
-wenn ag kündigungsentschädigung → fiktive weiterlaufendes entgeld bis zum fr
+wenn ag unrechtmäßig gekündigt wird → kündigungsentschädigung → fiktive weiterlaufendes entgeld bis zum frühestmöglichen regulärenkündigungstermin
+wenn zb man stelle hat und verdient dann kein anspruch mehr weil schaden weniger und so deshalb immer erst ende warten damit man für nix die auszahlung bekommt ohne arbeit
+
+wenn ag kündigt ohne datum und frist is es eine keine kündigung weil nd ordnungsgemäß
+
+ansprüche von an bei ag kündigung
+- urlaubsersatzleistung
+	- wenn urlaub offen zum ende des DV ist der urlaub auszuzahlen
+- abfertigung alt
+	- belohnung die ab für langes dv und treue
+		- langes dv
+			- > 3j
+		- kein verschulden
+	- ts baits mobbing vom ag das an selbst kündigt
+- abtertigung neu
+	- seit 1.1.2003
+	- abertigungskassa die vom entgelt abgezogen wird
+	- gleiche vorraustzungen wie vorher
+	- an kann wählen ob er betragt stehen lässt bei neunen dv oder direkt auszahlen spätestens bei pensions ausgezahlt
+- austellung eines dienstzeugnisses
