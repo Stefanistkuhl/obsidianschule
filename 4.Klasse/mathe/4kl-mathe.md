@@ -10,3 +10,4 @@ tags:
 [[partielles-ableiten]]
 [[differenzialgleichungen-1.ordnung-methode-trennung-der-variablen]]
 [[rotationsvolumen]]
+[[lineare differenzialgleichungen 1.ordnung]]

@@ -11,12 +11,14 @@
             "id": "f5d9da625c403ffc",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "4.Klasse/mathe/lineare differenzialgleichungen 1.ordnung.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "icon": "lucide-file",
+              "title": "lineare differenzialgleichungen 1.ordnung"
             }
           }
         ]
@@ -154,13 +156,14 @@
   },
   "active": "f5d9da625c403ffc",
   "lastOpenFiles": [
+    "4.Klasse/mathe/4kl-mathe.md",
+    "4.Klasse/mathe/lineare differenzialgleichungen 1.ordnung.md",
     "4.Klasse/itsi/rsa.md",
     "4.Klasse/ka rechts fach thing fuck off/kündigung.md",
     "4.Klasse/ka rechts fach thing fuck off/beenden-des-dienstverhältniseses.md",
     "bwl leher koffer zitate.md",
     "4.Klasse/ka rechts fach thing fuck off/arbeitsrecht.md",
     "4.Klasse/mathe/partielles-ableiten.md",
-    "4.Klasse/mathe/4kl-mathe.md",
     "4.Klasse/mathe/differenzialgleichungen.md",
     "4.Klasse/mathe/differenzialgleichungen-smü-verbesserung.md",
     "4.Klasse/ggp/4kl-geo.md",
@@ -181,7 +184,6 @@
     "bilder/netzwerk-forensik 03-11-2025-10.excalidraw.svg",
     "4.Klasse/itsi/digitale-forensik.md",
     "itsi-hü.md",
-    "4.Klasse/mathe/differenzialgleichungen-bsp.md",
     "bilder/diffie helman 20-10-2025-29.excalidraw.svg",
     "bilder/rotationsvolumen 15-10-2025-24.excalidraw.svg",
     "bilder",
