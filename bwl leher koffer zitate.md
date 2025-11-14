@@ -9,3 +9,6 @@
 - "bei uns in serbien ist das alles anders"
 - "ungaren die heißen so (random gelaber)"
 - "lebendige leichen gibt es auch nicht"
+- "nicht eine ülülü sondern eine ic"
+- "grüß gott darfs auch nicht sagen sondern grüß allah"
+- "du bist ein schöne oaschloch"

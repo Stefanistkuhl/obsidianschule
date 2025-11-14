@@ -1,0 +1,18 @@
+---
+tags:
+  - 4te_Klasse
+  - florian
+  - recht
+---
+- Betriebsräte
+	- für dauer der funktion können nd gekündigt werden
+- mütter
+	- von zeitraum der schwangerschaft bis 4 monate nach der abnahnen
+- mütter und väter
+	- eltern neu geborer kinder, die karenzurlaub zur kindererziehung in anspruch nehmen in der zeit kündiggungsschutz
+- präsenz umd zivil diener
+	- bis zur einrifung und während und bis 4 wocohen danach
+- behinderte
+	- nur bestimmmte behinderte, die nach dem behinderteneinstellunngsgestzt geschützt sind
+- lehrlinge
+	- 

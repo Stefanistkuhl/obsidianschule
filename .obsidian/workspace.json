@@ -11,10 +11,14 @@
             "id": "e4acd053e04534e1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "4.Klasse/ka rechts fach thing fuck off/einvernehmliche-auflösung.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "einvernehmliche-auflösung"
             }
           }
         ]
@@ -152,15 +156,21 @@
   },
   "active": "e4acd053e04534e1",
   "lastOpenFiles": [
+    "4.Klasse/ka rechts fach thing fuck off/beenden-des-dienstverhältniseses.md",
+    "4.Klasse/ka rechts fach thing fuck off/einvernehmliche-auflösung.md",
+    "4.Klasse/ka rechts fach thing fuck off/vorzeitiger-austritt.md",
+    "4.Klasse/ka rechts fach thing fuck off/entlassung.md",
+    "bwl leher koffer zitate.md",
+    "4.Klasse/ka rechts fach thing fuck off/arbeitsrecht.md",
+    "4.Klasse/mathe/srdp-ableitungsaufgaben.md",
+    "4.Klasse/ka rechts fach thing fuck off/dienstverhältnisse.md",
+    "4.Klasse/ka rechts fach thing fuck off/kündigungsschutz.md",
+    "4.Klasse/ka rechts fach thing fuck off/kündigung.md",
     "4.Klasse/itsi/systemsicherheit-(hardening-slop).md",
     "3.Klasse/3te-Klasse.md",
     "4.Klasse/mathe/lineare differenzialgleichungen 1.ordnung.md",
     "4.Klasse/mathe/4kl-mathe.md",
     "4.Klasse/itsi/rsa.md",
-    "4.Klasse/ka rechts fach thing fuck off/kündigung.md",
-    "4.Klasse/ka rechts fach thing fuck off/beenden-des-dienstverhältniseses.md",
-    "bwl leher koffer zitate.md",
-    "4.Klasse/ka rechts fach thing fuck off/arbeitsrecht.md",
     "4.Klasse/mathe/partielles-ableiten.md",
     "4.Klasse/mathe/differenzialgleichungen.md",
     "4.Klasse/mathe/differenzialgleichungen-smü-verbesserung.md",
@@ -172,13 +182,7 @@
     "4.Klasse/ggp/4kl-geschichte-slop.md",
     "4.Klasse/itsi/cryptograhpie-slop.md",
     "bilder/elband-verschlüssleung 03-11-2025-48.excalidraw.md",
-    "4.Klasse/itsi/elband-verschlüssleung.md",
     "bilder/elband-verschlüssleung 03-11-2025-48.excalidraw.svg",
-    "4.Klasse/itsi/dumme-kak-pfiefken-aijsfijaisf-itsi-unterricht.md",
-    "4.Klasse/itsi/4kl-itsi.md",
-    "templates/itsi-cryptograhie.md",
-    "bilder/netzwerk-forensik 03-11-2025-10.excalidraw.md",
-    "4.Klasse/itsi/netzwerk-forensik.md",
     "bilder/netzwerk-forensik 03-11-2025-10.excalidraw.svg",
     "bilder/diffie helman 20-10-2025-29.excalidraw.svg",
     "bilder/rotationsvolumen 15-10-2025-24.excalidraw.svg",
