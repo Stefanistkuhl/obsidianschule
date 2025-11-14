@@ -9,6 +9,6 @@ tags:
 ---
 - Tod des Arbeitnehmers
 - [[kündigung]]
-- Entlassung
-- vorzeitiger Austritt
-- einvernehmliche Auflösun
+- [[entlassung]]
+- [[vorzeitiger-austritt]]
+- [[einvernehmliche-auflösung]]
