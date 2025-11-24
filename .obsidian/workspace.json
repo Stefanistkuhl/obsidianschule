@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "29ca070069d45377",
+        "id": "8d9e0eb8a0c6e9cb",
         "type": "tabs",
         "children": [
           {
-            "id": "3e93f5444a48adf8",
+            "id": "c43f60ef64a4238e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "4.Klasse/bilder/article zettel thing 21-10-2024-11.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "article zettel thing 21-10-2024-11.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -76,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "691f8e91b0203e9f",
@@ -152,11 +149,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3e93f5444a48adf8",
+  "active": "c43f60ef64a4238e",
   "lastOpenFiles": [
+    "4.Klasse/bilder/article zettel thing 21-10-2024-11.excalidraw.md",
     "3.Klasse/englisch/article-improvement-sheet.md",
     "4.Klasse/bilder/article zettel thing 21-10-2024-11.excalidraw.svg",
-    "4.Klasse/bilder/article zettel thing 21-10-2024-11.excalidraw.md",
     "4.Klasse/english/report.md",
     "4.Klasse/english/4kl-e.md",
     "4.Klasse/4te-Klasse.md",
