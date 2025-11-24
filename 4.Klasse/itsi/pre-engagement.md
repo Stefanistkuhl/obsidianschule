@@ -1,0 +1,21 @@
+---
+tags:
+  - itsi
+  - 4te_Klasse
+---
+- beteiligte
+	- Auftragssgber
+	- Auftragsnehmer/pentester
+	- sicherheitsverantwortlicher
+	- rechtflichtige stellen
+- kommunikation
+	- wen kontaktieren
+	- wa smachen bei kritischen funden
+	- status updates (was wie oft wer ...)
+- scope & ziele
+	- welche technischen systeme (ips, domains, anwendungen, ...)
+	- physische systeme?
+	- angriffstechniken (wie weit draf der angriff gehen)
+		- blackbox/whitebox
+	- testaduer & testzeiten
+	- nachweise & berichterstattung
