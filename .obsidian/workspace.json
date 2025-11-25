@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.Klasse/itsi/intelegence-gathering.md",
+                "file": "4.Klasse/itsi/osint-tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "intelegence-gathering"
+              "title": "osint-tools"
             }
           }
         ]
@@ -156,8 +156,9 @@
   },
   "active": "3e724f85d181bfaf",
   "lastOpenFiles": [
-    "4.Klasse/itsi/thing-pentest-framework.md",
     "4.Klasse/itsi/intelegence-gathering.md",
+    "4.Klasse/itsi/osint-tools.md",
+    "4.Klasse/itsi/thing-pentest-framework.md",
     "4.Klasse/itsi/pre-engagement.md",
     "4.Klasse/itsi/4kl-itsi.md",
     "4.Klasse/ggp/erste-republik.md",
@@ -185,7 +186,6 @@
     "4.Klasse/bilder/Aminosäuren 09-12-2024-35.excalidraw.md",
     "4.Klasse/bilder/vlans 27-09-2024-53.excalidraw.md",
     "3.Klasse/itsi/aufgaben/ctf/priv esc diassater.md",
-    "4.Klasse/nwt/nat-for-ipv4.md",
     "bilder/elband-verschlüssleung 03-11-2025-48.excalidraw.svg",
     "bilder/netzwerk-forensik 03-11-2025-10.excalidraw.svg",
     "bilder/diffie helman 20-10-2025-29.excalidraw.svg",
