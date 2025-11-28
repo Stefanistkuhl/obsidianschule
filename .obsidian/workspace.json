@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.Klasse/mathe/schwingungen-mathe.md",
+                "file": "4.Klasse/nwt/nat-types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "schwingungen-mathe"
+              "title": "nat-types"
             }
           }
         ]
@@ -156,8 +156,11 @@
   },
   "active": "3e724f85d181bfaf",
   "lastOpenFiles": [
-    "Nwtv2.md",
+    "4.Klasse/nwt/nat-for-ipv4.md",
+    "4.Klasse/nwt/nat-types.md",
+    "4.Klasse/nwt/4kl-nwt.md",
     "4.Klasse/mathe/schwingungen-mathe.md",
+    "Nwtv2.md",
     "4.Klasse/mathe/4kl-mathe.md",
     "4.Klasse/itsi/osint-tools.md",
     "4.Klasse/itsi/intelegence-gathering.md",
@@ -183,9 +186,6 @@
     "4.Klasse/ggp/ggp-unterlagen",
     "4.Klasse/ggp/4kl-geschichte-slop.md",
     "4.Klasse/ggp/wk1-friendsverträge.md",
-    "4.Klasse/ggp/4kl-ggp.md",
-    "4.Klasse/nwt/gescheiterte-markdown-protokollvorlage.md",
-    "3.Klasse/syt/fürst-syt-windows-registry-aufgabe.md",
     "bilder/elband-verschlüssleung 03-11-2025-48.excalidraw.svg",
     "bilder/netzwerk-forensik 03-11-2025-10.excalidraw.svg",
     "bilder/diffie helman 20-10-2025-29.excalidraw.svg",
