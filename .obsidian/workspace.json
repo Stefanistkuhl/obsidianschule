@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "691f8e91b0203e9f",
@@ -155,8 +156,9 @@
   },
   "active": "3e724f85d181bfaf",
   "lastOpenFiles": [
-    "4.Klasse/mathe/4kl-mathe.md",
+    "Nwtv2.md",
     "4.Klasse/mathe/schwingungen-mathe.md",
+    "4.Klasse/mathe/4kl-mathe.md",
     "4.Klasse/itsi/osint-tools.md",
     "4.Klasse/itsi/intelegence-gathering.md",
     "4.Klasse/itsi/thing-pentest-framework.md",
@@ -184,7 +186,6 @@
     "4.Klasse/ggp/4kl-ggp.md",
     "4.Klasse/nwt/gescheiterte-markdown-protokollvorlage.md",
     "3.Klasse/syt/fürst-syt-windows-registry-aufgabe.md",
-    "4.Klasse/bilder/Aminosäuren 09-12-2024-35.excalidraw.md",
     "bilder/elband-verschlüssleung 03-11-2025-48.excalidraw.svg",
     "bilder/netzwerk-forensik 03-11-2025-10.excalidraw.svg",
     "bilder/diffie helman 20-10-2025-29.excalidraw.svg",
