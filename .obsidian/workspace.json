@@ -4,21 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "8d9e0eb8a0c6e9cb",
+        "id": "1a46197550f95416",
         "type": "tabs",
         "children": [
           {
-            "id": "a3754fd3f15c933f",
+            "id": "f59a11e16a362031",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.Klasse/ipt/itp-projekt-fr.md",
+                "file": "4.Klasse/nawi/ab-wellentheorie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "itp-projekt-fr"
+              "title": "ab-wellentheorie"
+            }
+          },
+          {
+            "id": "abad04ada1d760f4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bilder/ab-wellentheorie 09-12-2025-15.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ab-wellentheorie 09-12-2025-15.excalidraw"
             }
           }
         ]
@@ -78,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "691f8e91b0203e9f",
@@ -153,8 +166,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a3754fd3f15c933f",
+  "active": "f59a11e16a362031",
   "lastOpenFiles": [
+    "bilder/ab-wellentheorie 09-12-2025-15.excalidraw.md",
+    "4.Klasse/nawi/ab-wellentheorie.md",
+    "bilder/Pasted Image 20251209152009_113.png",
+    "bilder/Pasted Image 20251209151956_218.png",
+    "bilder/ab-wellentheorie 09-12-2025-15.excalidraw.svg",
+    "4.Klasse/nawi/4kl-nawi.md",
+    "4.Klasse/4te-Klasse.md",
     "4.Klasse/ipt/itp-projekt-fr.md",
     "4.Klasse/nwt/nat-types.md",
     "4.Klasse/nwt/nat-for-ipv4.md",
@@ -176,15 +196,10 @@
     "4.Klasse/itsi/rsa.md",
     "4.Klasse/itsi/dumme-kak-pfiefken-aijsfijaisf-itsi-unterricht.md",
     "4.Klasse/bilder/article zettel thing 21-10-2024-11.excalidraw.md",
-    "3.Klasse/englisch/article-improvement-sheet.md",
     "4.Klasse/bilder/article zettel thing 21-10-2024-11.excalidraw.svg",
-    "4.Klasse/english/report.md",
-    "4.Klasse/english/4kl-e.md",
-    "4.Klasse/4te-Klasse.md",
     "4.Klasse/ggp/ggp-unterlagen/thing1.pdf",
     "4.Klasse/ggp/ggp-unterlagen/thing1.pdf.crdownload",
     "4.Klasse/ggp/ggp-unterlagen",
-    "4.Klasse/ggp/4kl-geschichte-slop.md",
     "bilder/elband-verschlüssleung 03-11-2025-48.excalidraw.svg",
     "bilder/netzwerk-forensik 03-11-2025-10.excalidraw.svg",
     "bilder/diffie helman 20-10-2025-29.excalidraw.svg",
@@ -192,9 +207,6 @@
     "bilder",
     "4.Klasse/bilder/übung-uhr 03-10-2025-39.excalidraw.svg",
     "4.Klasse/bilder/österreich-im-19-jh 15-09-2025-24.excalidraw.svg",
-    "4.Klasse/bilder/Übung 9 windoof server test thing 20-03-2025-38.excalidraw.svg",
-    "4.Klasse/bilder/Überbrückung der Aktivierungsernergie 25-04-2024-05.excalidraw.svg",
-    "4.Klasse/bilder/wpa-4-way-handshake 05-06-2025-51.excalidraw.svg",
     "4.Klasse/bilder/abgabe",
     "4.Klasse/bilder/Pflichtenheft bsp.pdf",
     "4.Klasse/bilder",
