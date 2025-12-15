@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.Klasse/nwt/dynamic-nat.md",
+                "file": "4.Klasse/itsi/threat-modelling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dynamic-nat"
+              "title": "threat-modelling"
             }
           }
         ]
@@ -156,8 +156,11 @@
   },
   "active": "5779b28d77d73283",
   "lastOpenFiles": [
-    "4.Klasse/nwt/nat-for-ipv4.md",
+    "4.Klasse/itsi/thing-pentest-framework.md",
+    "4.Klasse/itsi/threat-modelling.md",
+    "4.Klasse/itsi/4kl-itsi.md",
     "4.Klasse/nwt/dynamic-nat.md",
+    "4.Klasse/nwt/nat-for-ipv4.md",
     "4.Klasse/nwt/static-nat.md",
     "4.Klasse/nwt/4kl-nwt.md",
     "bilder/ab-wellentheorie 09-12-2025-15.excalidraw.md",
@@ -174,9 +177,7 @@
     "4.Klasse/mathe/4kl-mathe.md",
     "4.Klasse/itsi/osint-tools.md",
     "4.Klasse/itsi/intelegence-gathering.md",
-    "4.Klasse/itsi/thing-pentest-framework.md",
     "4.Klasse/itsi/pre-engagement.md",
-    "4.Klasse/itsi/4kl-itsi.md",
     "4.Klasse/ggp/erste-republik.md",
     "4.Klasse/ggp/erster-wk.md",
     "4.Klasse/ggp/kriegsfolgen-und-die-wirtschaft.md",
@@ -184,7 +185,6 @@
     "4.Klasse/itsi/digtale signatur.md",
     "4.Klasse/itsi/cryptograhpie-slop.md",
     "4.Klasse/itsi/rsa.md",
-    "4.Klasse/itsi/dumme-kak-pfiefken-aijsfijaisf-itsi-unterricht.md",
     "4.Klasse/bilder/article zettel thing 21-10-2024-11.excalidraw.svg",
     "4.Klasse/ggp/ggp-unterlagen/thing1.pdf",
     "4.Klasse/ggp/ggp-unterlagen/thing1.pdf.crdownload",
