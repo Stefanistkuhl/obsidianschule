@@ -24,6 +24,8 @@ vorrausssetzungen für die 2 dinger da oben
 	- wenigstens schon einmal gearbeitet hat
 - Anwaltschaft
 	- mindestdauer einer arbeitslosigkeitversicherungsplichtigen tätigkeit innerhalb eines rahmenzeitraumes
-	- avp
+	- avplichtigen tätigkeit
+		- mehr als geringfügige beschäftigung
+	- abhängig vom alter, wie oft arbeitslos, wie lange der rahmenzeitraum
 
 geringfügige beschäftigung wenn man in monat nd mehr als iwas ka was val is verdient weder lohnsteuer noch sozialversicherungsbeitrag mussm an zahlen
