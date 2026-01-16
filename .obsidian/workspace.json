@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "280e251af19d57df",
+        "id": "7899051d06a5e470",
         "type": "tabs",
         "children": [
           {
-            "id": "b9fa504630fad660",
+            "id": "385aaf767ef799cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.Klasse/sew/threads.md",
+                "file": "4.Klasse/ka rechts fach thing fuck off/unfallversicherung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "threads"
+              "title": "unfallversicherung"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "691f8e91b0203e9f",
@@ -153,14 +154,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b9fa504630fad660",
+  "active": "385aaf767ef799cd",
   "lastOpenFiles": [
     "4.Klasse/ka rechts fach thing fuck off/sozialversicherungsrecht.md",
+    "4.Klasse/ka rechts fach thing fuck off/unfallversicherung.md",
+    "4.Klasse/ka rechts fach thing fuck off/krankenversicherung.md",
+    "4.Klasse/ka rechts fach thing fuck off/sozialrecht.md",
     "4.Klasse/ka rechts fach thing fuck off/arbeitslosenversicherung.md",
+    "4.Klasse/sew/threads.md",
     "index.md",
     "areitslosenversicherung.md",
     "4.Klasse/ka rechts fach thing fuck off/verischerungsverhätnis.md",
-    "4.Klasse/ka rechts fach thing fuck off/sozialrecht.md",
     "4.Klasse/itsi/threat-modelling.md",
     "4.Klasse/itsi/thing-pentest-framework.md",
     "4.Klasse/itsi/4kl-itsi.md",
@@ -181,9 +185,6 @@
     "Nwtv2.md",
     "4.Klasse/mathe/4kl-mathe.md",
     "4.Klasse/itsi/osint-tools.md",
-    "4.Klasse/itsi/intelegence-gathering.md",
-    "4.Klasse/itsi/pre-engagement.md",
-    "4.Klasse/ggp/erste-republik.md",
     "4.Klasse/bilder/article zettel thing 21-10-2024-11.excalidraw.svg",
     "4.Klasse/ggp/ggp-unterlagen/thing1.pdf",
     "4.Klasse/ggp/ggp-unterlagen/thing1.pdf.crdownload",
