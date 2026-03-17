@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "unfallversicherung"
             }
+          },
+          {
+            "id": "e2540198bd2dd32b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "691f8e91b0203e9f",
@@ -154,7 +166,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "385aaf767ef799cd",
+  "active": "e2540198bd2dd32b",
   "lastOpenFiles": [
     "4.Klasse/ka rechts fach thing fuck off/sozialversicherungsrecht.md",
     "4.Klasse/ka rechts fach thing fuck off/unfallversicherung.md",
