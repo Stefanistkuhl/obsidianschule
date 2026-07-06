@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7899051d06a5e470",
+        "id": "b36e29d1fea28a99",
         "type": "tabs",
         "children": [
           {
-            "id": "385aaf767ef799cd",
+            "id": "c9163afa953c891d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4.Klasse/ka rechts fach thing fuck off/unfallversicherung.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "unfallversicherung"
-            }
-          },
-          {
-            "id": "e2540198bd2dd32b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -66,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "l41",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -87,11 +70,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "691f8e91b0203e9f",
@@ -166,10 +151,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e2540198bd2dd32b",
+  "active": "c9163afa953c891d",
   "lastOpenFiles": [
-    "4.Klasse/ka rechts fach thing fuck off/sozialversicherungsrecht.md",
+    "2.Klasse/Netzwerktiger/Aufgaben/wireskark_nc/TCP-UPD-Header-Vergleich_FÜRST_RAICHLE.pdf",
+    "4.Klasse/nwt/4kl-nwt.md",
+    "4.Klasse/nwt/3kl-nwt.md",
+    "4.Klasse/nwt/netzwerktiger.md",
     "4.Klasse/ka rechts fach thing fuck off/unfallversicherung.md",
+    "4.Klasse/ka rechts fach thing fuck off/sozialversicherungsrecht.md",
     "4.Klasse/ka rechts fach thing fuck off/krankenversicherung.md",
     "4.Klasse/ka rechts fach thing fuck off/sozialrecht.md",
     "4.Klasse/ka rechts fach thing fuck off/arbeitslosenversicherung.md",
@@ -183,7 +172,6 @@
     "4.Klasse/nwt/dynamic-nat.md",
     "4.Klasse/nwt/nat-for-ipv4.md",
     "4.Klasse/nwt/static-nat.md",
-    "4.Klasse/nwt/4kl-nwt.md",
     "bilder/ab-wellentheorie 09-12-2025-15.excalidraw.md",
     "4.Klasse/nawi/ab-wellentheorie.md",
     "bilder/Pasted Image 20251209152009_113.png",
@@ -194,9 +182,6 @@
     "4.Klasse/ipt/itp-projekt-fr.md",
     "4.Klasse/nwt/nat-types.md",
     "4.Klasse/mathe/schwingungen-mathe.md",
-    "Nwtv2.md",
-    "4.Klasse/mathe/4kl-mathe.md",
-    "4.Klasse/itsi/osint-tools.md",
     "4.Klasse/bilder/article zettel thing 21-10-2024-11.excalidraw.svg",
     "4.Klasse/ggp/ggp-unterlagen/thing1.pdf",
     "4.Klasse/ggp/ggp-unterlagen/thing1.pdf.crdownload",
